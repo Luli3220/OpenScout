@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OpenScout - 开源人才智能雷达</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Phosphor Icons (for visuals) -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+
+    <!-- Placeholder Comments Required by Instruction -->
+    <!-- Chosen Palette: Warm Neutrals (Sand/Beige background, Slate text, Burnt Orange accents) -->
+    <!-- Application Structure Plan: The app is designed as a functional dashboard. 
+         1. Header: Search and Identity. 
+         2. Hero Profile: Immediate visual identification of the candidate. 
+         3. AI Analysis (MaxKB Proxy): The "Brain" of the operation, summarizing data. 
+         4. Metrics Grid (OpenDigger Proxy): 
+            - Radar Chart for holistic skill assessment. 
+            - Activity Heatmap for consistency analysis. 
+            - Contribution Bar for tech stack breakdown.
+         5. Job Match Simulator: Interactive element to demonstrate utility in recruitment.
+         This structure flows from "Who is this?" to "What are they like?" to "Data Proof" to "Actionable Decision". -->
+    <!-- Visualization & Content Choices: 
+         1. Skill Radar (Chart.js): Goal: Inform/Compare. Best for multi-variable developer assessment (Code, Community, etc.). 
+         2. Activity Trend (Chart.js Line): Goal: Change. Shows consistency over time. 
+         3. Tech Stack (Chart.js Bar): Goal: Inform. Shows language distribution.
+         4. AI Summary (Text Block): Goal: Inform/Synthesize. Simulates MaxKB's output. 
+         5. Match Score (JS Logic): Goal: Engage. Simulates the decision-making process. 
+         CONFIRMATION: NO SVG graphics used (except font icons). NO Mermaid JS used. -->
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+
+    <style>
+        /* Custom Theme Configuration */
+        :root {
+            --bg-color: #fcfbf9;
+            --card-bg: #ffffff;
+            --text-main: #334155;
+            --text-muted: #64748b;
+            --accent: #ea580c; /* Burnt Orange */
+            --border: #e2e8f0;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            font-family: 'Inter', system-ui, sans-serif;
+        }
+
+        /* Chart Container Styling - Critical for Responsiveness */
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 100%;
+            height: 300px; /* Base height */
+            max-height: 350px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 350px;
+            }
+        }
+
+        /* Card Styling */
+        .scout-card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 0.75rem; /* 12px */
+            box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05);
+            transition: all 0.3s ease;
+        }
+
+        .scout-card:hover {
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+        .btn-primary {
+            background-color: var(--text-main);
+            color: white;
+            transition: background-color 0.2s;
+        }
+        .btn-primary:hover {
+            background-color: var(--accent);
+        }
+
+        /* Highlight classes */
+        .highlight-text {
+            color: var(--accent);
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col">
+
+    <!-- Navigation / Header -->
+    <nav class="w-full bg-white border-b border-gray-200 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16">
+                <div class="flex items-center gap-3">
+                    <i class="ph ph-radar text-3xl text-orange-600"></i>
+                    <span class="font-bold text-xl tracking-tight text-slate-800">OpenScout</span>
+                </div>
+                <div class="flex items-center gap-4">
+                    <span class="text-sm text-slate-500 hidden md:block">Powered by OpenDigger & MaxKB</span>
+                    <button class="text-slate-600 hover:text-orange-600 transition-colors">
+                        <i class="ph ph-github-logo text-2xl"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full space-y-8">
+
+        <!-- 1. Search & Context Section -->
+        <section class="text-center space-y-4 max-w-3xl mx-auto">
+            <h1 class="text-3xl font-bold text-slate-800">开源人才智能雷达</h1>
+            <p class="text-slate-600 leading-relaxed">
+                OpenScout 利用 <strong>OpenDigger</strong> 的行为数据构建开发者画像，并结合 <strong>MaxKB</strong> 的大模型能力进行智能分析。
+                输入 GitHub ID，立即获取该开发者的技能雷达、贡献习惯及岗位匹配度报告。
+            </p>
+            
+            <div class="relative max-w-md mx-auto mt-6">
+                <div class="flex shadow-sm rounded-md">
+                    <input type="text" id="searchInput" placeholder="输入 GitHub ID (例如: torvalds)" 
+                           class="flex-1 block w-full rounded-l-md border-gray-300 focus:border-orange-500 focus:ring-orange-500 sm:text-sm p-3 border"
+                           value="torvalds">
+                    <button id="searchBtn" type="button" class="btn-primary inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-r-md">
+                        <i class="ph ph-magnifying-glass mr-2 text-lg"></i> 分析
+                    </button>
+                </div>
+                <!-- Presets for Demo -->
+                <div class="mt-2 flex justify-center gap-2 text-xs text-slate-400">
+                    <span>示例:</span>
+                    <button class="hover:text-orange-600 underline demo-preset" data-id="torvalds">Linus (内核之神)</button>
+                    <button class="hover:text-orange-600 underline demo-preset" data-id="yyx990803">Evan You (前端专家)</button>
+                    <button class="hover:text-orange-600 underline demo-preset" data-id="junior_dev">Active Contributor (活跃新秀)</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- DASHBOARD CONTAINER (Initially Hidden until search) -->
+        <div id="dashboard" class="space-y-6 transition-opacity duration-500 opacity-100">
+
+            <!-- 2. Hero Profile & AI Analysis (MaxKB Integration) -->
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+                <!-- Profile Card -->
+                <div class="scout-card p-6 flex flex-col items-center text-center lg:col-span-1">
+                    <div class="w-24 h-24 rounded-full bg-slate-100 mb-4 flex items-center justify-center border-2 border-orange-100 relative overflow-hidden">
+                        <i class="ph ph-user text-4xl text-slate-400" id="avatarIcon"></i>
+                        <img id="userAvatar" src="" alt="Avatar" class="absolute w-full h-full object-cover hidden">
+                    </div>
+                    <h2 class="text-2xl font-bold text-slate-800" id="userName">User Name</h2>
+                    <p class="text-sm text-orange-600 font-medium mb-4" id="userHandle">@handle</p>
+                    
+                    <div class="grid grid-cols-2 gap-4 w-full border-t border-slate-100 pt-4">
+                        <div class="text-center">
+                            <span class="block text-xl font-bold text-slate-700" id="openRank">0.0</span>
+                            <span class="text-xs text-slate-500">OpenRank</span>
+                        </div>
+                        <div class="text-center">
+                            <span class="block text-xl font-bold text-slate-700" id="activityScore">0.0</span>
+                            <span class="text-xs text-slate-500">月活跃度</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- AI Insight (MaxKB Simulation) -->
+                <div class="scout-card p-6 lg:col-span-2 flex flex-col relative overflow-hidden">
+                    <div class="absolute top-0 right-0 p-2 opacity-10">
+                        <i class="ph ph-robot text-8xl"></i>
+                    </div>
+                    <div class="flex items-center gap-2 mb-3">
+                        <div class="bg-orange-100 p-1.5 rounded-md">
+                            <i class="ph ph-sparkle text-orange-600"></i>
+                        </div>
+                        <h3 class="font-semibold text-slate-800">MaxKB 智能人才画像</h3>
+                    </div>
+                    <div class="prose prose-sm text-slate-600 flex-grow" id="aiSummary">
+                        <!-- AI Text Injected Here -->
+                        正在生成分析报告...
+                    </div>
+                    <div class="mt-4 flex gap-2">
+                        <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-100 text-slate-800 tag-1">Label</span>
+                        <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-100 text-slate-800 tag-2">Label</span>
+                        <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-100 text-slate-800 tag-3">Label</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 3. Metrics Grid (OpenDigger Data Visualization) -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                
+                <!-- Chart 1: The Six-Dimensional Radar -->
+                <div class="scout-card p-5 col-span-1 lg:col-span-1">
+                    <div class="mb-4">
+                        <h3 class="font-semibold text-slate-800 flex items-center gap-2">
+                            <i class="ph ph-polygon text-orange-600"></i> 能力六维图
+                        </h3>
+                        <p class="text-xs text-slate-500 mt-1">基于代码提交、Code Review、Issue 互动等 OpenDigger 指标综合计算。</p>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="radarChart"></canvas>
+                    </div>
+                </div>
+
+                <!-- Chart 2: Language & Tech Stack -->
+                <div class="scout-card p-5 col-span-1 lg:col-span-1">
+                    <div class="mb-4">
+                        <h3 class="font-semibold text-slate-800 flex items-center gap-2">
+                            <i class="ph ph-code text-orange-600"></i> 技术栈分布
+                        </h3>
+                        <p class="text-xs text-slate-500 mt-1">分析仓库语言构成，判断开发者主要技术领域。</p>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="stackChart"></canvas>
+                    </div>
+                </div>
+
+                <!-- Chart 3: Activity Trend -->
+                <div class="scout-card p-5 col-span-1 lg:col-span-1 md:col-span-2">
+                    <div class="mb-4">
+                        <h3 class="font-semibold text-slate-800 flex items-center gap-2">
+                            <i class="ph ph-trend-up text-orange-600"></i> 贡献持续性
+                        </h3>
+                        <p class="text-xs text-slate-500 mt-1">过去 12 个月的活跃趋势，用于评估工作稳定性。</p>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="trendChart"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 4. Interactive Simulation: Job Matching -->
+            <section class="scout-card p-6 border-l-4 border-l-orange-500">
+                <div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 mb-6">
+                    <div>
+                        <h3 class="text-lg font-bold text-slate-800">岗位匹配模拟器</h3>
+                        <p class="text-sm text-slate-600">选择一个目标岗位，AI 将计算该候选人的胜任概率。</p>
+                    </div>
+                    <select id="jobRole" class="block w-full md:w-48 pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-orange-500 focus:border-orange-500 sm:text-sm rounded-md border">
+                        <option value="backend">后端架构师 (Java/Go)</option>
+                        <option value="frontend">前端技术专家 (JS/TS)</option>
+                        <option value="os">操作系统/底层开发 (C/C++)</option>
+                        <option value="community">开源社区运营</option>
+                    </select>
+                </div>
+
+                <div class="bg-slate-50 rounded-lg p-6">
+                    <div class="flex items-center justify-between mb-2">
+                        <span class="text-sm font-medium text-slate-700">匹配度评分</span>
+                        <span class="text-2xl font-bold text-orange-600" id="matchScore">85%</span>
+                    </div>
+                    <div class="w-full bg-gray-200 rounded-full h-2.5 mb-4">
+                        <div id="matchBar" class="bg-orange-600 h-2.5 rounded-full transition-all duration-1000" style="width: 85%"></div>
+                    </div>
+                    <div class="flex gap-4 text-sm">
+                        <div class="flex-1">
+                            <strong class="block text-slate-800 mb-1">优势匹配:</strong>
+                            <p class="text-slate-500" id="matchPros">技术栈高度重合；在大型项目中有丰富协作经验。</p>
+                        </div>
+                        <div class="flex-1">
+                            <strong class="block text-slate-800 mb-1">潜在缺口:</strong>
+                            <p class="text-slate-500" id="matchCons">近期文档贡献较少，可能需要加强技术文档编写。</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+    </main>
+
+    <footer class="bg-white border-t border-gray-200 py-8 mt-8">
+        <div class="max-w-7xl mx-auto px-4 text-center">
+            <p class="text-slate-400 text-sm">&copy; 2025 OpenScout Project. Data provided by OpenDigger.</p>
+        </div>
+    </footer>
+
+    <!-- LOGIC SCRIPT -->
+    <script>
+        // --- 1. MOCK DATA STORE (Simulating OpenDigger API) ---
+        const MOCK_DB = {
+            "torvalds": {
+                name: "Linus Torvalds",
+                handle: "torvalds",
+                openRank: "98.5",
+                activity: "850",
+                summary: "Linux 内核与 Git 的缔造者。该开发者的 OpenRank 极高，属于开源生态中的领袖级人物。数据显示其代码提交频率极其稳定，主要集中在底层系统开发。代码审查（Review）活动频繁，展现了极强的技术把控力和项目管理能力。",
+                tags: ["系统架构", "C语言", "内核开发"],
+                radar: [95, 80, 90, 99, 60, 95], // Coding, Docs, Review, Impact, Community, Consistency
+                stack: { labels: ['C', 'Shell', 'Perl'], data: [90, 8, 2] },
+                trend: [120, 135, 110, 145, 160, 150, 130, 140, 155, 170, 165, 180]
+            },
+            "yyx990803": {
+                name: "Evan You",
+                handle: "yyx990803",
+                openRank: "96.2",
+                activity: "620",
+                summary: "Vue.js 创造者，前端领域的顶级专家。OpenDigger 数据显示其在 JavaScript 和 TypeScript 生态中拥有巨大的影响力。除了代码贡献，他在 Issue 管理和社区互动方面表现卓越，具有极强的技术布道能力和生态构建能力。",
+                tags: ["前端架构", "TypeScript", "开源治理"],
+                radar: [92, 85, 88, 94, 90, 85],
+                stack: { labels: ['TypeScript', 'JavaScript', 'Vue', 'HTML'], data: [60, 30, 5, 5] },
+                trend: [80, 90, 85, 100, 95, 110, 105, 120, 115, 100, 90, 95]
+            },
+            "junior_dev": {
+                name: "Alex Chen",
+                handle: "active_contributor",
+                openRank: "45.0",
+                activity: "120",
+                summary: "一位充满潜力的新晋贡献者。近期在多个 Python 数据分析项目中表现活跃。虽然影响力（OpenRank）尚处于成长阶段，但其提交的一致性很高，且积极参与 Issue 讨论，展现了良好的学习能力和协作态度，适合作为中初级工程师培养。",
+                tags: ["Python", "数据分析", "成长型"],
+                radar: [65, 70, 50, 40, 75, 80],
+                stack: { labels: ['Python', 'Jupyter', 'SQL'], data: [70, 20, 10] },
+                trend: [10, 15, 20, 25, 40, 35, 45, 50, 60, 55, 70, 80]
+            }
+        };
+
+        // --- 2. CHART INSTANCES ---
+        let radarChartInstance = null;
+        let stackChartInstance = null;
+        let trendChartInstance = null;
+
+        // --- 3. INIT FUNCTION ---
+        document.addEventListener('DOMContentLoaded', () => {
+            // Setup Listeners
+            document.getElementById('searchBtn').addEventListener('click', handleSearch);
+            document.getElementById('searchInput').addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') handleSearch();
+            });
+            document.querySelectorAll('.demo-preset').forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    document.getElementById('searchInput').value = e.target.dataset.id;
+                    handleSearch();
+                });
+            });
+            document.getElementById('jobRole').addEventListener('change', updateMatchScore);
+
+            // Initial Load
+            loadProfile('torvalds');
+        });
+
+        // --- 4. CORE LOGIC ---
+        function handleSearch() {
+            const query = document.getElementById('searchInput').value.trim();
+            // In a real app, this would be an API call to OpenDigger
+            // Here we check mock DB or return a default fallback
+            const id = MOCK_DB[query] ? query : 'junior_dev'; 
+            loadProfile(id);
+        }
+
+        function loadProfile(id) {
+            const data = MOCK_DB[id];
+            
+            // 1. Update Text Content
+            document.getElementById('userName').textContent = data.name;
+            document.getElementById('userHandle').textContent = `@${data.handle}`;
+            document.getElementById('openRank').textContent = data.openRank;
+            document.getElementById('activityScore').textContent = data.activity;
+            document.getElementById('aiSummary').textContent = data.summary;
+            
+            // Update Avatar (Using generic placeholder logic for demo)
+            // In real app: data.avatarUrl
+            const icon = document.getElementById('avatarIcon');
+            icon.className = id === 'torvalds' ? 'ph ph-linux-logo text-4xl text-slate-600' : 'ph ph-user text-4xl text-slate-400';
+
+            // Update Tags
+            const tagsContainer = document.querySelector('.tag-1').parentElement;
+            const tags = tagsContainer.querySelectorAll('span');
+            tags.forEach((tag, index) => {
+                if (data.tags[index]) {
+                    tag.textContent = data.tags[index];
+                    tag.style.display = 'inline-flex';
+                } else {
+                    tag.style.display = 'none';
+                }
+            });
+
+            // 2. Render Charts
+            renderRadar(data.radar);
+            renderStack(data.stack);
+            renderTrend(data.trend);
+
+            // 3. Trigger Match Update
+            updateMatchScore();
+        }
+
+        // --- 5. VISUALIZATION FUNCTIONS (Chart.js) ---
+
+        function renderRadar(dataPoints) {
+            const ctx = document.getElementById('radarChart').getContext('2d');
+            if (radarChartInstance) radarChartInstance.destroy();
+
+            radarChartInstance = new Chart(ctx, {
+                type: 'radar',
+                data: {
+                    labels: ['代码能力', '文档质量', 'Code Review', '影响力', '社区互动', '持续性'],
+                    datasets: [{
+                        label: '能力评分',
+                        data: dataPoints,
+                        backgroundColor: 'rgba(234, 88, 12, 0.2)', // Orange with opacity
+                        borderColor: 'rgba(234, 88, 12, 1)',
+                        pointBackgroundColor: 'rgba(234, 88, 12, 1)',
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    maintainAspectRatio: false,
+                    responsive: true,
+                    scales: {
+                        r: {
+                            angleLines: { color: '#e2e8f0' },
+                            grid: { color: '#e2e8f0' },
+                            pointLabels: {
+                                font: { size: 12, family: 'Inter' },
+                                color: '#64748b'
+                            },
+                            suggestedMin: 0,
+                            suggestedMax: 100
+                        }
+                    },
+                    plugins: {
+                        legend: { display: false }
+                    }
+                }
+            });
+        }
+
+        function renderStack(stackData) {
+            const ctx = document.getElementById('stackChart').getContext('2d');
+            if (stackChartInstance) stackChartInstance.destroy();
+
+            stackChartInstance = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: stackData.labels,
+                    datasets: [{
+                        label: '代码占比 (%)',
+                        data: stackData.data,
+                        backgroundColor: ['#334155', '#ea580c', '#94a3b8', '#cbd5e1'],
+                        borderRadius: 4
+                    }]
+                },
+                options: {
+                    maintainAspectRatio: false,
+                    responsive: true,
+                    indexAxis: 'y', // Horizontal bar
+                    scales: {
+                        x: { display: false },
+                        y: { 
+                            grid: { display: false },
+                            ticks: { font: { family: 'Inter' } }
+                        }
+                    },
+                    plugins: {
+                        legend: { display: false }
+                    }
+                }
+            });
+        }
+
+        function renderTrend(trendData) {
+            const ctx = document.getElementById('trendChart').getContext('2d');
+            if (trendChartInstance) trendChartInstance.destroy();
+
+            const labels = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+            trendChartInstance = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: '月度活跃值',
+                        data: trendData,
+                        borderColor: '#334155',
+                        backgroundColor: 'rgba(51, 65, 85, 0.05)',
+                        borderWidth: 2,
+                        tension: 0.4, // Smooth curve
+                        fill: true,
+                        pointRadius: 3,
+                        pointHoverRadius: 5
+                    }]
+                },
+                options: {
+                    maintainAspectRatio: false,
+                    responsive: true,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            grid: { color: '#f1f5f9' }
+                        },
+                        x: {
+                            grid: { display: false }
+                        }
+                    },
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: {
+                            mode: 'index',
+                            intersect: false
+                        }
+                    }
+                }
+            });
+        }
+
+        // --- 6. JOB MATCH LOGIC (Simulating MaxKB Decision) ---
+        function updateMatchScore() {
+            const role = document.getElementById('jobRole').value;
+            const currentName = document.getElementById('userName').textContent;
+            
+            // Simple deterministic logic for demo purposes
+            let score = 50;
+            let pros = "数据不足";
+            let cons = "数据不足";
+
+            if (currentName.includes("Linus")) {
+                if (role === 'os') { score = 99; pros = "该领域的绝对权威；技术栈完全匹配。"; cons = "无明显短板。"; }
+                else if (role === 'backend') { score = 80; pros = "极强的底层理解能力。"; cons = "可能对现代 Web 框架不感兴趣。"; }
+                else { score = 40; pros = "通用编程能力极强。"; cons = "专业领域不匹配 (Web/Frontend)。"; }
+            } else if (currentName.includes("Evan")) {
+                if (role === 'frontend') { score = 98; pros = "行业领袖；精通 JS/TS 生态。"; cons = "可能更关注架构而非业务代码。"; }
+                else if (role === 'community') { score = 90; pros = "拥有极强的社区号召力。"; cons = "技术投入时间可能被压缩。"; }
+                else { score = 50; pros = "学习能力强。"; cons = "技术栈主要集中在应用层。"; }
+            } else {
+                // Junior
+                if (role === 'os') { score = 30; pros = "有热情。"; cons = "缺乏底层经验。"; }
+                else { score = 75; pros = "活跃度高，处于快速成长期。"; cons = "缺乏大型项目主导经验。"; }
+            }
+
+            // Update UI
+            const bar = document.getElementById('matchBar');
+            const scoreText = document.getElementById('matchScore');
+            
+            scoreText.textContent = score + "%";
+            bar.style.width = score + "%";
+            
+            // Color coding
+            if (score > 80) {
+                bar.className = "h-2.5 rounded-full transition-all duration-1000 bg-green-500";
+                scoreText.className = "text-2xl font-bold text-green-600";
+            } else if (score > 60) {
+                bar.className = "h-2.5 rounded-full transition-all duration-1000 bg-orange-500";
+                scoreText.className = "text-2xl font-bold text-orange-600";
+            } else {
+                bar.className = "h-2.5 rounded-full transition-all duration-1000 bg-slate-400";
+                scoreText.className = "text-2xl font-bold text-slate-500";
+            }
+
+            document.getElementById('matchPros').textContent = pros;
+            document.getElementById('matchCons').textContent = cons;
+        }
+
+    </script>
+</body>
+</html>

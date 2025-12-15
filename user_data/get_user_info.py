@@ -123,8 +123,8 @@ def batch_fetch(users: List[str], max_workers: int = 5, output_file: str = "./_u
 
 def main():
     # Configuration - Hardcoded parameters
-    USERS_FILE = "./users_list.json" 
-    OUTPUT_FILE = "./_users_info.json"
+    USERS_FILE = "./user_data/users_list.json" 
+    OUTPUT_FILE = "./user_data/macro_data/macro_data_results.json"
     MAX_WORKERS = 5
     
     # You can also manually add users here

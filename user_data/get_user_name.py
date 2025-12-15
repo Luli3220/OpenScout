@@ -3,8 +3,10 @@ import time
 import os
 import json
 
+# (其他辅助函数 load_existing_users, save_users, fetch_page 保持不变)
+
 def load_existing_users(file_path):
-    """Load existing users from a JSON file into a set."""
+    # ... (保持不变)
     if not os.path.exists(file_path):
         return set()
     
@@ -19,13 +21,13 @@ def load_existing_users(file_path):
         return set()
 
 def save_users(users, file_path):
-    """Save users set to a JSON file."""
+    # ... (保持不变)
     sorted_users = sorted(list(users))
     with open(file_path, "w", encoding="utf-8") as f:
         json.dump(sorted_users, f, indent=2, ensure_ascii=False)
 
 def fetch_page(query, page, token, per_page=100):
-    """Fetch a single page of results."""
+    # ... (保持不变)
     base_url = "https://api.github.com/search/users"
     headers = {
         "Accept": "application/vnd.github.v3+json"
@@ -67,6 +69,7 @@ def fetch_page(query, page, token, per_page=100):
             time.sleep(2)
             continue
 
+
 def get_github_users_adaptive(start_followers=100, target_limit=1000, token=None, output_file="users_list.json"):
     """
     Adaptive slicing strategy to bypass 1000-result limit.
@@ -74,40 +77,26 @@ def get_github_users_adaptive(start_followers=100, target_limit=1000, token=None
     existing_users = load_existing_users(output_file)
     print(f"Loaded {len(existing_users)} existing users.")
     
-    # State management for resuming
-    state_file = "fetch_state.json"
-    if os.path.exists(state_file):
-        try:
-            with open(state_file, "r") as f:
-                state = json.load(f)
-                saved_start = state.get("last_min")
-                if saved_start and saved_start > start_followers:
-                    print(f"Resuming from follower count: {saved_start} (found in {state_file})")
-                    start_followers = saved_start
-        except Exception as e:
-            print(f"Warning: Could not load state file: {e}")
-
     total_fetched = 0
     
     # Adaptive range strategy
     current_min = start_followers
-    # Initial guess for a step that returns < 1000 users. 
-    # For >500 followers, 100 is usually safe. For >100, maybe 20.
-    current_step = 50 
+    current_step = 50 # Initial step guess
     
     while total_fetched < target_limit:
+        
+        # Ensure we don't end up with step=0
+        current_step = max(1, current_step)
         current_max = current_min + current_step
         
-        # Construct range query
         query = f"followers:{current_min}..{current_max}"
         print(f"\nProbing range: {query}")
         
-        # Check first page to see total count
         data, status = fetch_page(query, 1, token, per_page=1)
         
         if status == 422:
             print(f"Range {current_min}..{current_max} too large (hit 1000 limit). Shrinking step...")
-            current_step = max(0, current_step // 2)
+            current_step = max(1, current_step // 2)
             continue
             
         if not data:
@@ -118,20 +107,32 @@ def get_github_users_adaptive(start_followers=100, target_limit=1000, token=None
         print(f"Range total count: {total_count}")
         
         if total_count > 1000:
-            if current_step == 0:
-                print(f"Warning: Exact match followers:{current_min} has {total_count} users (>1000). Fetching first 1000 and proceeding.")
-                # We fall through to fetch logic, which will fetch the first 1000 available.
-            else:
-                print(f"Range {current_min}..{current_max} has {total_count} users (>1000). Shrinking step...")
-                current_step = max(0, current_step // 2)
-                continue
             
-        # If we are here, total_count <= 1000 OR current_step is 0 (force fetch)
-        # We can fetch all pages (up to 1000 limit)
-        fetch_limit = min(total_count, 1000)
-        print(f"Valid range found! Fetching up to {fetch_limit} users...")
+            # === START OF CRITICAL FIX ===
+            if current_step == 1:
+                # If step is already 1, and total_count is still > 1000, 
+                # this means two consecutive follower counts (e.g., 100 and 101) 
+                # combined have > 1000 users. GitHub API won't allow fetching this.
+                # We must skip this small, dense region and move on, while increasing step for the next range.
+                print(f"CRITICAL: Range {current_min}..{current_max} is the smallest step (1) but still exceeds 1000 users. Skipping this dense range.")
+                
+                # Move to the next range immediately
+                current_min = current_max + 1
+                
+                # Try increasing step size for the next search to speed things up later
+                current_step = min(current_step * 20, 5000) 
+                continue # Skip the rest of the fetching logic for this bad range
+            
+            # If step > 1, shrink it further (original logic)
+            print(f"Range {current_min}..{current_max} has {total_count} users (>1000). Shrinking step...")
+            current_step = max(1, current_step // 2)
+            continue
+            # === END OF CRITICAL FIX ===
+            
+        # If we are here, total_count <= 1000, so we can fetch all pages safely
+        print(f"Valid range found! Fetching {total_count} users...")
         
-        pages = (fetch_limit // 100) + 1
+        pages = (total_count // 100) + 1
         range_users_found = 0
         
         for page in range(1, pages + 1):
@@ -150,43 +151,26 @@ def get_github_users_adaptive(start_followers=100, target_limit=1000, token=None
                     total_fetched += 1
                     range_users_found += 1
                     
-                    # Save every 500 users
                     if total_fetched % 500 == 0:
                         print(f"Reached {total_fetched} new users. Saving progress...")
                         save_users(existing_users, output_file)
             
-            # Don't fetch more if we hit global limit
             if total_fetched >= target_limit:
                 break
             
-            time.sleep(0.5) # Be nice
+            time.sleep(0.5) 
             
         print(f"Finished range {current_min}..{current_max}. Found {range_users_found} new users.")
         
         # Move to next range
         current_min = current_max + 1
         
-        # If the last range was very sparse, we can try increasing step size for next time
-        if total_count < 500:
-            current_step = min(current_step * 2, 5000) # Cap max step
+        # If the last range was very sparse (or we didn't find many), we can try increasing step size
+        if total_count < 500 and current_step < 5000:
+            current_step = min(current_step * 2, 5000) 
             
-        # Save progress every 500 new users (or if we are done with a range, it doesn't hurt to save)
-        # To be strict about "every 500", we can check modulo or a counter since last save.
-        # But saving after every range is safer and simpler. 
-        # However, user asked for "every 500", let's make sure we do it inside the loop too if range is big?
-        # Actually, user said "every 500". The current logic saves after EVERY RANGE. 
-        # A range is usually small (<1000). So we are already saving MORE FREQUENTLY than 500 in most cases.
-        # But if we want to be explicit, let's add a check inside the page loop.
-        
         save_users(existing_users, output_file)
         
-        # Save state
-        try:
-            with open(state_file, "w") as f:
-                json.dump({"last_min": current_max + 1}, f)
-        except Exception as e:
-            print(f"Warning: Could not save state: {e}")
-
         if total_fetched >= target_limit:
             print("Target limit reached.")
             break
@@ -194,11 +178,11 @@ def get_github_users_adaptive(start_followers=100, target_limit=1000, token=None
     return list(existing_users)
 
 def main():
-    # Configuration
-    START_FOLLOWERS = 2000
-    LIMIT = 500 # Fetch 6000 NEW users
-    TOKEN = "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"
-    OUTPUT_FILE = "./users_list.json"
+    # Configuration: WARNING - This token is publicly visible, change it immediately!
+    START_FOLLOWERS = 100
+    LIMIT = 100 
+    TOKEN = "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" # <<< EXPOSED TOKEN, CHANGE THIS!
+    OUTPUT_FILE = "./user_data/users_list.json"
     
     get_github_users_adaptive(
         start_followers=START_FOLLOWERS, 

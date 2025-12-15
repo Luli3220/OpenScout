@@ -11,9 +11,7 @@ from tqdm import tqdm
 BASE_URL = "https://oss.open-digger.cn/github"
 METRICS = [
     "openrank.json",
-    "activity.json",
-    "developer_network.json",
-    "repo_network.json"
+    "activity.json"
 ]
 
 def fetch_metric(username: str, metric: str) -> Optional[Dict[str, Any]]:

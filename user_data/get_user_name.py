@@ -195,8 +195,8 @@ def get_github_users_adaptive(start_followers=100, target_limit=1000, token=None
 
 def main():
     # Configuration
-    START_FOLLOWERS = 500
-    LIMIT = 6000 # Fetch 6000 NEW users
+    START_FOLLOWERS = 2000
+    LIMIT = 500 # Fetch 6000 NEW users
     TOKEN = "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"
     OUTPUT_FILE = "./users_list.json"
     

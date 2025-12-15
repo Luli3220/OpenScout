@@ -182,7 +182,7 @@ def main():
     START_FOLLOWERS = 100
     LIMIT = 100 
     TOKEN = "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" # <<< EXPOSED TOKEN, CHANGE THIS!
-    OUTPUT_FILE = "./users_list.json"
+    OUTPUT_FILE = "./user_data/users_list.json"
     
     get_github_users_adaptive(
         start_followers=START_FOLLOWERS, 

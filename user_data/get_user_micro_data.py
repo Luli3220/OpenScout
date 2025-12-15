@@ -9,8 +9,8 @@ from concurrent.futures import ThreadPoolExecutor
 
 # -- 1. 配置与常量 --
 GITHUB_API_BASE = "https://api.github.com"
-OUTPUT_DIR = "./micro_data"
-USER_LIST_FILE = "./users_list.json" # get_user_name.py 的输出文件
+OUTPUT_DIR = "./user_data/micro_data"
+USER_LIST_FILE = "./user_data/users_list.json" # get_user_name.py 的输出文件
 
 # 从环境变量或配置文件读取所有可用的 GitHub Token
 # 轮询 Token 是微观数据收集的关键

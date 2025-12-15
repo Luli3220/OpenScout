@@ -74,6 +74,19 @@ def get_github_users_adaptive(start_followers=100, target_limit=1000, token=None
     existing_users = load_existing_users(output_file)
     print(f"Loaded {len(existing_users)} existing users.")
     
+    # State management for resuming
+    state_file = "fetch_state.json"
+    if os.path.exists(state_file):
+        try:
+            with open(state_file, "r") as f:
+                state = json.load(f)
+                saved_start = state.get("last_min")
+                if saved_start and saved_start > start_followers:
+                    print(f"Resuming from follower count: {saved_start} (found in {state_file})")
+                    start_followers = saved_start
+        except Exception as e:
+            print(f"Warning: Could not load state file: {e}")
+
     total_fetched = 0
     
     # Adaptive range strategy
@@ -94,7 +107,7 @@ def get_github_users_adaptive(start_followers=100, target_limit=1000, token=None
         
         if status == 422:
             print(f"Range {current_min}..{current_max} too large (hit 1000 limit). Shrinking step...")
-            current_step = max(1, current_step // 2)
+            current_step = max(0, current_step // 2)
             continue
             
         if not data:
@@ -105,14 +118,20 @@ def get_github_users_adaptive(start_followers=100, target_limit=1000, token=None
         print(f"Range total count: {total_count}")
         
         if total_count > 1000:
-            print(f"Range {current_min}..{current_max} has {total_count} users (>1000). Shrinking step...")
-            current_step = max(1, current_step // 2)
-            continue
+            if current_step == 0:
+                print(f"Warning: Exact match followers:{current_min} has {total_count} users (>1000). Fetching first 1000 and proceeding.")
+                # We fall through to fetch logic, which will fetch the first 1000 available.
+            else:
+                print(f"Range {current_min}..{current_max} has {total_count} users (>1000). Shrinking step...")
+                current_step = max(0, current_step // 2)
+                continue
             
-        # If we are here, total_count <= 1000, so we can fetch all pages safely
-        print(f"Valid range found! Fetching {total_count} users...")
+        # If we are here, total_count <= 1000 OR current_step is 0 (force fetch)
+        # We can fetch all pages (up to 1000 limit)
+        fetch_limit = min(total_count, 1000)
+        print(f"Valid range found! Fetching up to {fetch_limit} users...")
         
-        pages = (total_count // 100) + 1
+        pages = (fetch_limit // 100) + 1
         range_users_found = 0
         
         for page in range(1, pages + 1):
@@ -161,6 +180,13 @@ def get_github_users_adaptive(start_followers=100, target_limit=1000, token=None
         
         save_users(existing_users, output_file)
         
+        # Save state
+        try:
+            with open(state_file, "w") as f:
+                json.dump({"last_min": current_max + 1}, f)
+        except Exception as e:
+            print(f"Warning: Could not save state: {e}")
+
         if total_fetched >= target_limit:
             print("Target limit reached.")
             break
@@ -169,7 +195,7 @@ def get_github_users_adaptive(start_followers=100, target_limit=1000, token=None
 
 def main():
     # Configuration
-    START_FOLLOWERS = 100
+    START_FOLLOWERS = 500
     LIMIT = 6000 # Fetch 6000 NEW users
     TOKEN = "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"
     OUTPUT_FILE = "./users_list.json"

@@ -5,6 +5,7 @@ import os
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Dict, Any, List, Optional
+from tqdm import tqdm
 
 # Constants
 BASE_URL = "https://oss.open-digger.cn/github"
@@ -33,12 +34,12 @@ def fetch_metric(username: str, metric: str) -> Optional[Dict[str, Any]]:
         print(f"Error fetching {metric} for {username}: {e}")
         return None
 
-def fetch_user_data(username: str) -> Dict[str, Any]:
+def fetch_user_data(username: str) -> Optional[Dict[str, Any]]:
     """
     Fetch all defined metrics for a single user.
     """
-    print(f"Fetching data for: {username}...")
-    user_data = {"username": username, "fetched_at": time.time()}
+    # Removed print statement for cleaner output with tqdm
+    user_data = {"username": username}
     
     # We can fetch metrics in parallel for a single user too, but let's keep it simple 
     # and parallelize at the user level to avoid too many connections if list is huge.
@@ -53,29 +54,72 @@ def fetch_user_data(username: str) -> Dict[str, Any]:
             found_any = True
             
     if not found_any:
-        print(f"No OpenDigger data found for {username}")
-        user_data["status"] = "no_data"
-    else:
-        user_data["status"] = "success"
+        # User has no data in OpenDigger, return None to indicate failure/empty
+        return None
+    
+    # We found at least some data
+    user_data["status"] = "success"
         
     return user_data
 
-def batch_fetch(users: List[str], max_workers: int = 5) -> Dict[str, Any]:
+def batch_fetch(users: List[str], max_workers: int = 5, output_file: str = "./_users_info.json") -> Dict[str, Any]:
     """
-    Fetch data for multiple users concurrently.
+    Fetch data for multiple users concurrently with progress bar and periodic saving.
     """
     results = {}
+    
+    # Load existing results if any, to avoid re-fetching (optional, but good practice)
+    if os.path.exists(output_file):
+        try:
+            with open(output_file, 'r', encoding='utf-8') as f:
+                results = json.load(f)
+                # Ensure results is a dict
+                if not isinstance(results, dict):
+                     # If it was a list or something else, reset or handle accordingly
+                     # For now, let's assume we start fresh or it's a dict
+                     if isinstance(results, list):
+                         # convert list to dict by username if possible, or just start fresh
+                         results = {} 
+        except:
+            pass
+
+    # Filter out users already fetched
+    users_to_fetch = [u for u in users if u not in results]
+    print(f"Total users: {len(users)}. Already fetched: {len(results)}. To fetch: {len(users_to_fetch)}")
+    
+    if not users_to_fetch:
+        return results
+
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        future_to_user = {executor.submit(fetch_user_data, user): user for user in users}
+        future_to_user = {executor.submit(fetch_user_data, user): user for user in users_to_fetch}
         
+        # Use tqdm for progress bar
+        pbar = tqdm(total=len(users_to_fetch), desc="Fetching users", unit="user")
+        
+        count = 0
         for future in as_completed(future_to_user):
             user = future_to_user[future]
             try:
                 data = future.result()
-                results[user] = data
+                if data: # Only add if data was successfully fetched (not None)
+                    results[user] = data
             except Exception as e:
-                print(f"Exception for user {user}: {e}")
-                results[user] = {"username": user, "status": "error", "error": str(e)}
+                # Log error silently or to a file, don't clutter console
+                # For failed users, we simply don't add them to results
+                pass
+            
+            pbar.update(1)
+            count += 1
+            
+            # Save every 50 users
+            if count % 50 == 0:
+                try:
+                    with open(output_file, 'w', encoding='utf-8') as f:
+                        json.dump(results, f, indent=2, ensure_ascii=False)
+                except Exception as e:
+                    pbar.write(f"Error saving checkpoint: {e}")
+                    
+        pbar.close()
                 
     return results
 
@@ -123,7 +167,7 @@ def main():
     print(f"Metrics to fetch: {', '.join(METRICS)}")
     
     start_time = time.time()
-    data = batch_fetch(user_list, MAX_WORKERS)
+    data = batch_fetch(user_list, MAX_WORKERS, OUTPUT_FILE)
     duration = time.time() - start_time
     
     print(f"\nCompleted in {duration:.2f} seconds.")

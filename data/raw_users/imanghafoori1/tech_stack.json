@@ -1,0 +1,56 @@
+[
+  {
+    "name": "imanghafoori1/laravel-microscope",
+    "stars": 1495,
+    "description": "Fearless refactoring, it does a lot of smart checks to find certain errors.",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "imanghafoori1/laravel-heyman",
+    "stars": 925,
+    "description": "Declarative style of authorization and validation in laravel.",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "imanghafoori1/laravel-widgetize",
+    "stars": 911,
+    "description": "A minimal package to help you make your laravel application cleaner and faster.",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

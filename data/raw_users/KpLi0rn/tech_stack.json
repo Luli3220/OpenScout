@@ -1,0 +1,56 @@
+[
+  {
+    "name": "KpLi0rn/ShiroVulnEnv",
+    "stars": 63,
+    "description": "Shiro内存马注入环境",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project xmlns=\"http://maven.apache.org/POM/4.0.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\n         xsi:schemaLocation=\"http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd\">\n    <modelVersion>4.0.0</modelVersion>\n    <parent>\n        <groupId>org.springframework.boot</groupId>\n        <artifactId>spring-boot-starter-parent</artifactId>\n        <version>2.4.5</version>\n        <relativePath/> <!-- lookup parent from repository -->\n    </parent>\n    <groupId>com.shiro.vuln</groupId>\n    <artifactId>shirodemo</artifactId>\n    <version>0.0.1-SNAPSHOT</version>\n    <name>shirodemo</name>\n    <description>Demo project for Spring Boot</description>\n    <properties>\n        <java.version>1.8</java.version>\n    </properties>\n    <dependencies>\n        <dependency>\n            <groupId>org.springframework.boot</groupId>\n            <artifactId>spring-boot-starter-web</artifactId>\n        </dependency>\n\n        <dependency>\n            <groupId>org.springframework.boot</groupId>\n            <artifactId>spring-boot-starter-test</artifactId>\n            <scope>test</scope>\n        </dependency>\n\n        <dependency>\n            <groupId>org.apache.shiro</groupId>\n            <artifactId>shiro-core</artifactId>\n            <version>1.2.4</version>\n        </dependency>\n        <dependency>\n            <groupId>org.apache.shiro</groupId>\n            <artifactId>shiro-web</artifactId>\n            <version>1.6.0</version>\n        </dependency>\n        <dependency>\n            <groupId>org.apache.shiro</groupId>\n            <artifactId>shiro-spring</artifactId>\n            <version>1.6.0</version>\n        </dependency>\n\n        <dependency>\n            <groupId>commons-collections</groupId>\n            <artifactId>commons-collections</artifactId>\n            <version>3.2.1</version>\n        </dependency>\n        <dependency>\n            <groupId>org.javassist</groupId>\n            <artifactId>javassist</artifactId>\n            <version>3.25.0-GA</version>\n            <scope>test</scope>\n        </dependency>\n\n\n    </dependencies>\n\n    <build>\n        <plugins>\n            <plugin>\n                <groupId>org.springframework.boot</groupId>\n                <artifactId>spring-boot-maven-plugin</artifactId>\n            </plugin>\n        </plugins>\n    </build>\n\n</project>\n",
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "KpLi0rn/DeserializeAll",
+    "stars": 44,
+    "description": "一个简单的批量反编译jar包的小脚本",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "KpLi0rn/LearnCompiler",
+    "stars": 23,
+    "description": "编译原理学习代码仓库",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

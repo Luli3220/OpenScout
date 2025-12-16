@@ -1,0 +1,56 @@
+[
+  {
+    "name": "jjunior96/next-template",
+    "stars": 112,
+    "description": "无",
+    "files": {
+      "package.json": "{\n  \"name\": \"app-name\",\n  \"version\": \"0.1.0\",\n  \"author\": \"Junior Alves <jjalves96@gmail.com>\",\n  \"private\": true,\n  \"scripts\": {\n    \"dev\": \"next dev\",\n    \"build\": \"next build\",\n    \"start\": \"next start\",\n    \"test\": \"jest\",\n    \"typecheck\": \"tsc --project tsconfig.json --noEmit\",\n    \"lint\": \"eslint src --max-warnings=0\",\n    \"postinstall\": \"husky install\",\n    \"cy:open\": \"cypress open\",\n    \"cy:run\": \"cypress run\",\n    \"test:watch\": \"yarn test --watch\",\n    \"generate\": \"yarn plop --plopfile generators/plopfile.js\",\n    \"storybook\": \"start-storybook -p 6006 -s public\",\n    \"build-storybook\": \"build-storybook -s public\"\n  },\n  \"husky\": {\n    \"hooks\": {\n      \"pre-commit\": \"lint-staged\"\n    }\n  },\n  \"lint-staged\": {\n    \"src/**/*\": [\n      \"yarn lint --fix\",\n      \"yarn test --findRelatedTests --bail\"\n    ]\n  },\n  \"dependencies\": {\n    \"axios\": \"^1.8.1\",\n    \"cors\": \"^2.8.5\",\n    \"eslint-config-next\": \"^15.2.0\",\n    \"next\": \"^13.5.6\",\n    \"next-connect\": \"^1.0.0\",\n    \"next-pwa\": \"^5.5.5\",\n    \"polished\": \"^4.3.1\",\n    \"react\": \"^18.3.1\",\n    \"react-dom\": \"^18.3.1\",\n    \"react-hook-form\": \"^7.54.2\",\n    \"react-icons\": \"^5.5.0\",\n    \"styled-components\": \"5.3.11\"\n  },\n  \"devDependencies\": {\n    \"@faker-js/faker\": \"^9.0.0\",\n    \"@storybook/addon-essentials\": \"8.1.11\",\n    \"@storybook/builder-webpack5\": \"^8.1.11\",\n    \"@storybook/manager-webpack5\": \"^6.5.16\",\n    \"@storybook/react\": \"6.4.22\",\n    \"@swc/core\": \"^1.11.5\",\n    \"@swc/jest\": \"^0.2.37\",\n    \"@testing-library/cypress\": \"^10.0.3\",\n    \"@testing-library/jest-dom\": \"^6.6.3\",\n    \"@testing-library/react\": \"^15.0.7\",\n    \"@types/cors\": \"^2.8.17\",\n    \"@types/jest\": \"^27.5.0\",\n    \"@types/node\": \"^22.13.8\",\n    \"@types/react\": \"^18.3.13\",\n    \"@types/styled-components\": \"^5.1.26\",\n    \"@typescript-eslint/eslint-plugin\": \"^5.62.0\",\n    \"@typescript-eslint/parser\": \"^5.62.0\",\n    \"cypress\": \"^14.1.0\",\n    \"eslint\": \"^8.57.1\",\n    \"eslint-config-prettier\": \"^10.0.2\",\n    \"eslint-plugin-cypress\": \"^3.6.0\",\n    \"eslint-plugin-import-helpers\": \"^2.0.0\",\n    \"eslint-plugin-prettier\": \"^4.2.1\",\n    \"eslint-plugin-react\": \"^7.37.4\",\n    \"eslint-plugin-react-hooks\": \"^5.2.0\",\n    \"husky\": \"9\",\n    \"jest\": \"^27.5.1\",\n    \"jest-styled-components\": \"^7.2.0\",\n    \"lint-staged\": \"^15.4.3\",\n    \"plop\": \"^4.0.1\",\n    \"prettier\": \"^2.8.8\",\n    \"storybook-addon-next\": \"^1.8.0\",\n    \"storybook-addon-next-router\": \"^4.0.2\",\n    \"ts-jest\": \"^27.1.4\",\n    \"typescript\": \"^4.9.5\",\n    \"webpack\": \"5.98.0\"\n  }\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": "name: ci\non: [pull_request]\n\njobs:\n  build:\n    runs-on: ubuntu-latest\n    steps:\n      - name: Checkout Repository\n        uses: actions/checkout@v2\n\n      - name: Setup Node\n        uses: actions/setup-node@v1\n        with:\n          node-version: 18.x\n\n      - uses: actions/cache@v2\n        id: yarn-cache\n        with:\n          path: |\n            ~/cache\n            !~/cache/exclude\n            **/node_modules\n          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}\n          restore-keys: |\n            ${{ runner.os }}-yarn-\n\n      - name: Install dependencies\n        run: yarn install\n\n      - name: Linting\n        run: yarn lint\n\n      - name: Test\n        run: yarn test\n\n      - name: Build\n        run: yarn build\n",
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "jjunior96/dev-junior-alves-youtube",
+    "stars": 50,
+    "description": "无",
+    "files": {
+      "package.json": "{\n  \"name\": \"youtube-videos\",\n  \"version\": \"0.1.0\",\n  \"author\": {\n    \"name\": \"Junior Alves\"\n  },\n  \"private\": true,\n  \"scripts\": {\n    \"dev\": \"next dev\",\n    \"build\": \"next build\",\n    \"start\": \"next start\",\n    \"preview\": \"next build && next start\",\n    \"sitemap\": \"node src/scripts/sitemap.mjs\",\n    \"rss\": \"node src/scripts/rss.mjs\",\n    \"postbuild\": \"next-sitemap --config next-sitemap.config.js\",\n    \"lint\": \"eslint src --max-warnings=0\",\n    \"typecheck\": \"bash -c tsc --project tsconfig.json --noEmit\",\n    \"test\": \"jest\",\n    \"test:watch\": \"yarn test --watch\",\n    \"test:coverage\": \"yarn test --coverage --detectOpenHandles\",\n    \"test:coverage:text\": \"yarn test --coverageReporters='text-summary'\"\n  },\n  \"husky\": {\n    \"hooks\": {\n      \"pre-commit\": \"lint-staged\"\n    }\n  },\n  \"lint-staged\": {\n    \"src/**/*\": [\n      \"yarn lint --fix\",\n      \"yarn typecheck\",\n      \"yarn test --findRelatedTests --passWithNoTests --bail\"\n    ]\n  },\n  \"dependencies\": {\n    \"@phosphor-icons/react\": \"^2.0.10\",\n    \"autoprefixer\": \"10.4.14\",\n    \"clsx\": \"^1.2.1\",\n    \"next\": \"13.4.7\",\n    \"next-compose-plugins\": \"^2.2.1\",\n    \"next-pwa\": \"^5.6.0\",\n    \"next-sitemap\": \"^4.1.3\",\n    \"postcss\": \"8.4.24\",\n    \"react\": \"18.2.0\",\n    \"react-dom\": \"18.2.0\",\n    \"sharp\": \"^0.32.1\",\n    \"tailwind-merge\": \"^1.13.2\",\n    \"tailwindcss\": \"3.3.2\",\n    \"tailwind-styled-components\": \"^2.2.0\",\n    \"typescript\": \"5.1.3\"\n  },\n  \"devDependencies\": {\n    \"@swc/core\": \"^1.3.67\",\n    \"@swc/jest\": \"^0.2.26\",\n    \"@testing-library/jest-dom\": \"^5.16.5\",\n    \"@testing-library/react\": \"^14.0.0\",\n    \"@testing-library/user-event\": \"^14.4.3\",\n    \"@types/jest\": \"^29.5.2\",\n    \"@types/node\": \"20.3.2\",\n    \"@types/react\": \"18.2.14\",\n    \"@types/react-dom\": \"18.2.5\",\n    \"@types/testing-library__jest-dom\": \"^5.14.6\",\n    \"@typescript-eslint/eslint-plugin\": \"^5.60.1\",\n    \"@typescript-eslint/parser\": \"^5.60.1\",\n    \"eslint\": \"8.43.0\",\n    \"eslint-config-george-lint\": \"^1.0.8\",\n    \"eslint-config-next\": \"^13.4.7\",\n    \"eslint-config-prettier\": \"^8.8.0\",\n    \"eslint-plugin-import-helpers\": \"^1.3.1\",\n    \"eslint-plugin-prettier\": \"^4.2.1\",\n    \"eslint-plugin-react\": \"^7.32.2\",\n    \"eslint-plugin-react-hooks\": \"^4.6.0\",\n    \"eslint-plugin-sonarjs\": \"^0.19.0\",\n    \"husky\": \"^8.0.3\",\n    \"install\": \"^0.13.0\",\n    \"jest\": \"^29.5.0\",\n    \"jest-environment-jsdom\": \"^29.5.0\",\n    \"lint-staged\": \"^13.2.3\",\n    \"prettier\": \"^2.8.8\",\n    \"prettier-plugin-tailwindcss\": \"^0.3.0\"\n  }\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": "name: ci\non: [pull_request]\n\nenv:\n  SITE_URL: 'https://devjuniorplus.com.br/'\n\njobs:\n  build:\n    runs-on: ubuntu-latest\n    steps:\n      - name: Checkout Repository\n        uses: actions/checkout@v2\n\n      - name: Setup Node\n        uses: actions/setup-node@v1\n        with:\n          node-version: 18.x\n\n      - uses: pnpm/action-setup@v2\n        name: Install pnpm\n        id: pnpm-install\n        with:\n          version: 7\n          run_install: false\n\n      - name: Get pnpm store directory\n        id: pnpm-cache\n        shell: bash\n        run: |\n          echo \"STORE_PATH=$(pnpm store path)\" >> $GITHUB_OUTPUT\n\n      - uses: actions/cache@v3\n        name: Setup pnpm cache\n        with:\n          path: ${{ steps.pnpm-cache.outputs.STORE_PATH }}\n          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}\n          restore-keys: |\n            ${{ runner.os }}-pnpm-store-\n\n      - name: Install dependencies\n        run: pnpm install --no-frozen-lockfile\n\n      - name: Linting\n        run: pnpm lint\n\n      - name: Test\n        run: pnpm test\n\n      - name: Build\n        run: pnpm build\n",
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "jjunior96/rocketseat-live-nextjs",
+    "stars": 24,
+    "description": "无",
+    "files": {
+      "package.json": "{\n  \"name\": \"test-live-nextjs\",\n  \"version\": \"0.1.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"dev\": \"next dev\",\n    \"build\": \"next build\",\n    \"start\": \"next start\",\n    \"lint\": \"next lint\"\n  },\n  \"dependencies\": {\n    \"react\": \"^19.0.0\",\n    \"react-dom\": \"^19.0.0\",\n    \"next\": \"15.3.2\"\n  },\n  \"devDependencies\": {\n    \"typescript\": \"^5\",\n    \"@types/node\": \"^20\",\n    \"@types/react\": \"^19\",\n    \"@types/react-dom\": \"^19\",\n    \"@tailwindcss/postcss\": \"^4\",\n    \"tailwindcss\": \"^4\",\n    \"eslint\": \"^9\",\n    \"eslint-config-next\": \"15.3.2\",\n    \"@eslint/eslintrc\": \"^3\"\n  }\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

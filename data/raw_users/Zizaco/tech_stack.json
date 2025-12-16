@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Zizaco/entrust",
+    "stars": 6023,
+    "description": "Role-based Permissions for Laravel 5",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "Zizaco/confide",
+    "stars": 1188,
+    "description": "Confide is a authentication solution for Laravel 4",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "Zizaco/upswarm",
+    "stars": 79,
+    "description": "Multi-processed, async, fault-tolerant micro-framework for writing service-oriented applications",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

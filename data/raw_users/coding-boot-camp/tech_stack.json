@@ -1,0 +1,56 @@
+[
+  {
+    "name": "coding-boot-camp/prework-about-me",
+    "stars": 63,
+    "description": "无",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "coding-boot-camp/urban-octo-telegram",
+    "stars": 46,
+    "description": "无",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "coding-boot-camp/friendly-parakeet",
+    "stars": 26,
+    "description": "无",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

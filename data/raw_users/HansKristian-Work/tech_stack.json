@@ -1,0 +1,56 @@
+[
+  {
+    "name": "HansKristian-Work/vkd3d-proton",
+    "stars": 2470,
+    "description": "Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "HansKristian-Work/dxil-spirv",
+    "stars": 216,
+    "description": "DXIL conversion to SPIR-V for D3D12 translation libraries",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "HansKristian-Work/pyroveil",
+    "stars": 124,
+    "description": "Vulkan layer to replace shaders or roundtrip them to workaround driver bugs",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

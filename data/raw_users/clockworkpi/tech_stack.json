@@ -1,0 +1,56 @@
+[
+  {
+    "name": "clockworkpi/uConsole",
+    "stars": 734,
+    "description": "This code repository offers downloads for the latest images of various uConsole models, along with kernel patches, firmware for the keyboard and 4G expansion module, hardware schematics, assembly instructions, and essential technical documents.",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "clockworkpi/PicoCalc",
+    "stars": 578,
+    "description": "A calculator like nothing you've ever seen before, right?",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "clockworkpi/DevTerm",
+    "stars": 461,
+    "description": "This code repository offers downloads for the latest images of various DevTerm models, as well as kernel patches, keyboard firmware, the source code for screen and printer drivers, hardware schematics, assembly instructions, and essential technical documents.",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

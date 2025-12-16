@@ -1,0 +1,56 @@
+[
+  {
+    "name": "novuhq/novu",
+    "stars": 38300,
+    "description": "The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.",
+    "files": {
+      "package.json": "{\n  \"name\": \"root\",\n  \"private\": true,\n  \"packageManager\": \"pnpm@10.16.1\",\n  \"scripts\": {\n    \"bootstrap\": \"npm run setup:dev\",\n    \"build-ee\": \"nx run-many --target=build-ee --all\",\n    \"build:api\": \"nx build @novu/api-service\",\n    \"build:dashboard\": \"nx build @novu/dashboard\",\n    \"build:inbound-mail\": \"nx build @novu/inbound-mail\",\n    \"build:packages\": \"nx run-many --target=build --all --projects=tag:type:package\",\n    \"build:v2\": \"nx run-many --target=build --all --projects=@novu/api-service,@novu/worker,@novu/ws,@novu/dashboard,tag:type:package\",\n    \"build:web\": \"nx build @novu/web\",\n    \"build:webhook\": \"nx build @novu/webhook\",\n    \"build:with-ee\": \"pnpm build && pnpm build-ee\",\n    \"build:agents\": \"nx run-many --target=build --all --exclude=nextjs,nestjs,@novu/web,@novu/api-service,@novu/worker,@novu/dashboard && pnpm build-ee\",\n    \"build:worker\": \"nx build @novu/worker\",\n    \"build:ws\": \"nx build @novu/ws\",\n    \"build\": \"nx run-many --target=build --all --exclude=nextjs,nestjs\",\n    \"clean\": \"rimraf **/build **/dist **/node_modules\",\n    \"commit\": \"cz\",\n    \"dev-environment-setup\": \"sh ./scripts/dev-environment-setup.sh\",\n    \"docker:build\": \"pnpm -r --if-present --parallel docker:build\",\n    \"g:module\": \"hygen module new --name=$npm_config_name\",\n    \"g:usecase\": \"hygen usecase new --name=$npm_config_name --module=$npm_config_module\",\n    \"generate:provider\": \"cd libs/automation && npm run generate:provider\",\n    \"get-affected\": \"node scripts/print-affected-array.mjs\",\n    \"get-affected-batch\": \"node scripts/get-affected-batch.mjs\",\n    \"get-packages-folder\": \"node scripts/get-packages-folder.mjs\",\n    \"get-remote-env-files\": \"sh ./scripts/get-remote-env-files.sh\",\n    \"install:with-ee\": \"pnpm install && pnpm symlink:submodules\",\n    \"jarvis\": \"node scripts/jarvis.js\",\n    \"lint-staged\": \"lint-staged\",\n    \"lint\": \"nx run-many --target=lint --all --exclude=@novu/novui,nextjs\",\n    \"lint:fix\": \"biome check --write .\",\n    \"format\": \"biome format .\",\n    \"format:fix\": \"biome format --write .\",\n    \"check\": \"biome check .\",\n    \"check:fix\": \"biome check --write .\",\n    \"nx\": \"nx\",\n    \"packages:set-latest\": \"node scripts/set-package-dependencies.mjs latest\",\n    \"packages:set-workspace-protocol\": \"node scripts/set-package-dependencies.mjs workspace:*\",\n    \"pnpm-context\": \"node scripts/pnpm-context.mjs\",\n    \"prebuild\": \"nx run-many --target=prebuild --all\",\n    \"preinstall\": \"npx only-allow pnpm\",\n    \"preview:pkg:build\": \"IS_PREVIEW=true nx affected -t build --base=origin/next --head=HEAD --exclude='*,!tag:type:package'\",\n    \"preview:pkg:publish\": \"node scripts/publish-preview-packages.mjs\",\n    \"release\": \"node scripts/release.mjs\",\n    \"release:version:apps\": \"nx release version --projects=tag:type:app\",\n    \"setup:project\": \"npx --yes pnpm@10.16.1 i && node scripts/setup-env-files.js && pnpm build\",\n    \"start:api:dev\": \"cross-env nx run @novu/api-service:start:dev\",\n    \"start:api:test\": \"cross-env nx run-many --target=start:tes\n... (truncated)",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "novuhq/blog",
+    "stars": 676,
+    "description": "无",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "novuhq/hacksquad-website",
+    "stars": 253,
+    "description": "Contribute code, meet community members, participate in workshops, and win more SWAG 🚀",
+    "files": {
+      "package.json": "{\n  \"name\": \"nextjs-starter\",\n  \"version\": \"0.1.0\",\n  \"private\": true,\n  \"engines\": {\n    \"node\": \">=16.13.0\",\n    \"npm\": \">=8.6.0\"\n  },\n  \"scripts\": {\n    \"dev\": \"next dev\",\n    \"build\": \"next build --debug\",\n    \"start\": \"next start\",\n    \"format\": \"prettier --write .\",\n    \"lint\": \"npm run lint:js & npm run lint:styles\",\n    \"lint:fix\": \"npm run lint:js:fix & npm run lint:styles:fix\",\n    \"lint:js\": \"eslint --ext .js,.jsx --ignore-path .gitignore .\",\n    \"lint:js:fix\": \"eslint --fix --ext .js,.jsx --ignore-path .gitignore .\",\n    \"lint:md\": \"markdownlint --ignore-path .gitignore .\",\n    \"lint:md:fix\": \"markdownlint --fix --ignore-path .gitignore .\",\n    \"prepare\": \"husky install\"\n  },\n  \"dependencies\": {\n    \"@next-auth/prisma-adapter\": \"^1.0.4\",\n    \"@novu/node\": \"^0.8.0\",\n    \"@novu/notification-center\": \"^0.8.0\",\n    \"@prisma/client\": \"^4.3.1\",\n    \"airtable\": \"^0.11.5\",\n    \"clsx\": \"^1.2.1\",\n    \"cookies-next\": \"^2.1.1\",\n    \"country-list\": \"^2.2.0\",\n    \"file-loader\": \"^6.2.0\",\n    \"framer-motion\": \"^6.3.11\",\n    \"mailchimp-marketing\": \"^5.0.0\",\n    \"moment\": \"^2.29.4\",\n    \"next\": \"^12.2.5\",\n    \"next-auth\": \"^4.10.3\",\n    \"prop-types\": \"^15.8.1\",\n    \"react\": \"^17.0.2\",\n    \"react-autocomplete\": \"^1.8.1\",\n    \"react-copy-to-clipboard\": \"^5.1.0\",\n    \"react-dom\": \"^17.0.2\",\n    \"react-hook-form\": \"^7.38.0\",\n    \"react-is\": \"^18.2.0\",\n    \"react-toastify\": \"^9.0.8\",\n    \"react-tooltip\": \"^4.4.2\",\n    \"tailwindcss\": \"^3.1.8\",\n    \"tailwindcss-safe-area\": \"^0.2.2\",\n    \"use-debounce\": \"^8.0.4\",\n    \"yup\": \"^0.32.11\"\n  },\n  \"devDependencies\": {\n    \"@commitlint/cli\": \"^17.1.2\",\n    \"@commitlint/config-conventional\": \"^17.1.0\",\n    \"@svgr/webpack\": \"^6.3.1\",\n    \"autoprefixer\": \"^10.4.8\",\n    \"eslint\": \"^8.23.0\",\n    \"eslint-config-airbnb\": \"^19.0.4\",\n    \"eslint-config-prettier\": \"^8.5.0\",\n    \"eslint-plugin-import\": \"^2.26.0\",\n    \"eslint-plugin-jsx-a11y\": \"^6.6.1\",\n    \"eslint-plugin-react\": \"^7.31.7\",\n    \"eslint-plugin-react-hooks\": \"^4.6.0\",\n    \"husky\": \"^8.0.1\",\n    \"lint-staged\": \"^12.5.0\",\n    \"postcss\": \"^8.4.16\",\n    \"postcss-import\": \"^14.1.0\",\n    \"prettier\": \"^2.7.1\",\n    \"prettier-plugin-tailwindcss\": \"^0.1.13\",\n    \"prisma\": \"^4.3.1\",\n    \"svgo-loader\": \"^3.0.1\",\n    \"url-loader\": \"^4.1.1\"\n  }\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

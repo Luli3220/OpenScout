@@ -1,0 +1,56 @@
+[
+  {
+    "name": "gigasquid/wonderland-clojure-katas",
+    "stars": 875,
+    "description": "Clojure Katas inspired by Alice in Wonderland",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "gigasquid/clj-drone",
+    "stars": 237,
+    "description": "Clojure Copter - Control for the AR Parrot Drone",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "gigasquid/libpython-clj-examples",
+    "stars": 148,
+    "description": "Examples using libpython-clj",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project xmlns=\"http://maven.apache.org/POM/4.0.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd\">\n  <modelVersion>4.0.0</modelVersion>\n  <groupId>gigasquid</groupId>\n  <artifactId>libpython-clj-examples</artifactId>\n  <version>0.1.0-SNAPSHOT</version>\n  <name>gigasquid/libpython-clj-examples</name>\n  <description>FIXME: my new application.</description>\n  <url>https://github.com/gigasquid/libpython-clj-examples</url>\n  <licenses>\n    <license>\n      <name>Eclipse Public License</name>\n      <url>http://www.eclipse.org/legal/epl-v10.html</url>\n    </license>\n  </licenses>\n  <developers>\n    <developer>\n      <name>Cmeier</name>\n    </developer>\n  </developers>\n  <scm>\n    <url>https://github.com/gigasquid/libpython-clj-examples</url>\n    <connection>scm:git:git://github.com/gigasquid/libpython-clj-examples.git</connection>\n    <developerConnection>scm:git:ssh://git@github.com/gigasquid/libpython-clj-examples.git</developerConnection>\n    <tag>HEAD</tag>\n  </scm>\n  <dependencies>\n    <dependency>\n      <groupId>org.clojure</groupId>\n      <artifactId>clojure</artifactId>\n      <version>1.10.1</version>\n    </dependency>\n  </dependencies>\n  <build>\n    <sourceDirectory>src</sourceDirectory>\n  </build>\n  <repositories>\n    <repository>\n      <id>clojars</id>\n      <url>https://repo.clojars.org/</url>\n    </repository>\n    <repository>\n      <id>sonatype</id>\n      <url>https://oss.sonatype.org/content/repositories/snapshots/</url>\n    </repository>\n  </repositories>\n  <distributionManagement>\n    <repository>\n      <id>clojars</id>\n      <name>Clojars repository</name>\n      <url>https://clojars.org/repo</url>\n    </repository>\n  </distributionManagement>\n</project>\n",
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

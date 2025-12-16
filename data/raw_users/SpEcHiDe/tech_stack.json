@@ -1,0 +1,56 @@
+[
+  {
+    "name": "SpEcHiDe/PublicLeech",
+    "stars": 426,
+    "description": "can be found on Telegram as https://telegram.dog/PublicLeechGroup",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": "# GET / POST network requests\nasyncio==3.4.3\naiohttp==3.7.4\n\n# achG2zZTxbA 12\naria2p==0.9.1\n\n# get metadata from files\nhachoir==3.1.1\n\n# process(, and resize) images\nPillow==9.0.0\n\n# required to communicate with Telegram API\nPyrogram==1.4.7\nTgCrypto==1.2.3\n\nyoutube-dl\n\n# for reading .env files\npython-dotenv>=0.10\n",
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": "#!/usr/bin/env python3\n#  -*- coding: utf-8 -*-\n#  Copyright (C) 2020 PublicLeech Authors\n\n#  This program is free software: you can redistribute it and/or modify\n#  it under the terms of the GNU Affero General Public License as published by\n#  the Free Software Foundation, either version 3 of the License, or\n#  (at your option) any later version.\n\n#  This program is distributed in the hope that it will be useful,\n#  but WITHOUT ANY WARRANTY; without even the implied warranty of\n#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n#  GNU Affero General Public License for more details.\n\n#  You should have received a copy of the GNU Affero General Public License\n#  along with this program.  If not, see <https://www.gnu.org/licenses/>.\n\n#  creates a layer from the base Docker image.\nFROM python:3.9.5-slim-buster\n\nWORKDIR /app\n\n# https://shouldiblamecaching.com/\nENV PIP_NO_CACHE_DIR 1\n\n# http://bugs.python.org/issue19846\n# https://github.com/SpEcHiDe/PublicLeech/pull/97\nENV LANG C.UTF-8\n\n# we don't have an interactive xTerm\nENV DEBIAN_FRONTEND noninteractive\n\n# sets the TimeZone, to be used inside the container\nENV TZ Asia/Kolkata\n\n# fix \"ephimeral\" / \"AWS\" file-systems\nRUN sed -i.bak 's/us-west-2\\.ec2\\.//' /etc/apt/sources.list\n\n# to resynchronize the package index files from their sources.\nRUN apt -qq update\n\n# base required pre-requisites before proceeding ...\nRUN apt -qq install -y --no-install-recommends \\\n    curl \\\n    git \\\n    gnupg2 \\\n    unzip \\\n    wget \\\n    # install gcc [ PEP 517 ]\n    build-essential gcc \\\n    software-properties-common && \\\n    rm -rf /var/lib/apt/lists/* && \\\n    apt-add-repository non-free\n\n# add required files to sources.list\nRUN wget -q -O - https://mkvtoolnix.download/gpg-pub-moritzbunkus.txt | apt-key add - && \\\n    wget -qO - https://ftp-master.debian.org/keys/archive-key-10.asc | apt-key add -\nRUN sh -c 'echo \"deb https://mkvtoolnix.download/debian/ buster main\" >> /etc/apt/sources.list.d/bunkus.org.list' && \\\n    sh -c 'echo deb http://deb.debian.org/debian buster main contrib non-free | tee -a /etc/apt/sources.list'\n\n# to resynchronize the package index files from their sources.\nRUN apt -qq update\n\n# install required packages\nRUN apt -qq install -y --no-install-recommends \\\n    # this package is required to fetch \"contents\" via \"TLS\"\n    apt-transport-https \\\n    # install coreutils\n    coreutils aria2 jq pv \\\n    # install encoding tools\n    ffmpeg \\\n    # install extraction tools\n    mkvtoolnix \\\n    p7zip rar unrar zip \\\n    # miscellaneous helpers\n    megatools mediainfo rclone && \\\n    # clean up previously installed SPC\n    apt purge -y software-properties-common && \\\n    # clean up the container \"layer\", after we are done\n    rm -rf /var/lib/apt/lists /var/cache/apt/archives /tmp\n\n# each instruction creates one layer\n# Only the instructions RUN, COPY, ADD create layers.\n# copies 'requirements', to inside the container\n# ..., there are multiple '' dependancies,\n# requiring the use of the e\n... (truncated)",
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "SpEcHiDe/AnyDLBot",
+    "stars": 394,
+    "description": "An Open Source GPLv3 All-In-One Telegram Bot",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "SpEcHiDe/PyroGramBot",
+    "stars": 275,
+    "description": "pluggable Telegram Bot based on Pyrogram",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": "# Pyrogram\npyrotgfork==2.1.33.8\nPyTgCrypto==1.2.7\n\n# GET / POST network requests\nasyncio==3.4.3\naiohttp==3.9.4\n\n# scrapping tools [not used anywhere]\nbeautifulsoup4==4.9.1\n\n# get metadata from files\nhachoir==3.1.1\n\n# process(, and resize) images\nPillow==10.3.0\n\n# SQL DataBase ReQuirements\npsycopg2-binary==2.8.6\nsqlalchemy==1.3.23\n\n# download remote files\npySmartDL==1.3.4\n\n# Google Drive ReQuirements\ngoogle-api-python-client==2.36.0\ngoogle-auth-httplib2==0.1.0\ngoogle-auth-oauthlib==0.4.6\noauth2client==4.1.3\n\n# for reading .env files\npython-dotenv==0.10\n\n# for interacting with te.legra.ph\ntelegraph==2.2.0\n",
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

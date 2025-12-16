@@ -1,0 +1,56 @@
+[
+  {
+    "name": "facebookarchive/draft-js",
+    "stars": 22904,
+    "description": "A React framework for building text editors.",
+    "files": {
+      "package.json": "{\n  \"name\": \"draft-js\",\n  \"description\": \"A React framework for building text editors.\",\n  \"version\": \"0.11.7\",\n  \"keywords\": [\n    \"draftjs\",\n    \"editor\",\n    \"react\",\n    \"richtext\"\n  ],\n  \"homepage\": \"http://draftjs.org/\",\n  \"bugs\": \"https://github.com/facebook/draft-js/issues\",\n  \"files\": [\n    \"dist/\",\n    \"lib/\",\n    \"LICENSE\"\n  ],\n  \"main\": \"lib/Draft.js\",\n  \"style\": \"dist/Draft.css\",\n  \"repository\": \"facebook/draft-js\",\n  \"license\": \"MIT\",\n  \"scripts\": {\n    \"prepublish\": \"npm run build\",\n    \"pretest\": \"node node_modules/fbjs-scripts/node/check-dev-engines.js package.json\",\n    \"build\": \"gulp\",\n    \"dev\": \"gulp dev\",\n    \"postbuild\": \"node node_modules/fbjs-scripts/node/check-lib-requires.js lib\",\n    \"lint\": \"eslint .\",\n    \"lint-docs\": \"alex . && yarn format-docs:diff\",\n    \"format\": \"eslint . --fix\",\n    \"format-docs\": \"prettier --config prettier.config.js --write \\\"docs/**/*.md\\\"\",\n    \"format-docs:diff\": \"prettier --config prettier.config.js --list-different \\\"docs/**/*.md\\\"\",\n    \"flow\": \"flow src\",\n    \"test\": \"cross-env NODE_ENV=test jest\",\n    \"test-ci\": \"cross-env NODE_ENV=test npm run lint && npm run flow && npm run test\"\n  },\n  \"dependencies\": {\n    \"fbjs\": \"^3.0.4\",\n    \"immutable\": \"~3.7.4\",\n    \"object-assign\": \"^4.1.1\"\n  },\n  \"peerDependencies\": {\n    \"react\": \">=0.14.0\",\n    \"react-dom\": \">=0.14.0\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.11.6\",\n    \"@babel/plugin-proposal-nullish-coalescing-operator\": \"^7.10.4\",\n    \"@babel/plugin-proposal-optional-catch-binding\": \"^7.10.4\",\n    \"@babel/plugin-proposal-optional-chaining\": \"^7.11.0\",\n    \"alex\": \"^9.0.1\",\n    \"babel-eslint\": \"^10.1.0\",\n    \"babel-preset-fbjs\": \"^3.3.0\",\n    \"cross-env\": \"^7.0.2\",\n    \"del\": \"^5.1.0\",\n    \"es6-shim\": \"^0.35.5\",\n    \"eslint\": \"^7.8.1\",\n    \"eslint-config-fbjs\": \"^3.1.1\",\n    \"eslint-config-prettier\": \"^6.11.0\",\n    \"eslint-plugin-babel\": \"^5.3.1\",\n    \"eslint-plugin-fb-www\": \"^1.0.3\",\n    \"eslint-plugin-flowtype\": \"^5.2.0\",\n    \"eslint-plugin-jsx-a11y\": \"^6.3.1\",\n    \"eslint-plugin-prettier\": \"^3.1.4\",\n    \"eslint-plugin-react\": \"^7.20.6\",\n    \"fbjs-scripts\": \"^2.0.0\",\n    \"flow-bin\": \"^0.130.0\",\n    \"gulp\": \"^4.0.2\",\n    \"gulp-babel\": \"^8.0.0\",\n    \"gulp-clean-css\": \"^4.3.0\",\n    \"gulp-concat-css\": \"^3.1.0\",\n    \"gulp-derequire\": \"^3.0.0\",\n    \"gulp-flatten\": \"^0.4.0\",\n    \"gulp-header\": \"^2.0.9\",\n    \"gulp-if\": \"^3.0.0\",\n    \"gulp-rename\": \"^2.0.0\",\n    \"gulp-util\": \"^3.0.8\",\n    \"jest\": \"^26.4.2\",\n    \"prettier\": \"1.19.1\",\n    \"react\": \"^16.8.0\",\n    \"react-dom\": \"^16.8.0\",\n    \"react-test-renderer\": \"^16.0.0\",\n    \"stats-webpack-plugin\": \"^0.7.0\",\n    \"through2\": \"^4.0.2\",\n    \"uglifyjs-webpack-plugin\": \"^2.2.0\",\n    \"webpack-stream\": \"6.1.0\"\n  },\n  \"devEngines\": {\n    \"node\": \"14.x || 16.x\",\n    \"npm\": \"2.x || 3.x || 5.x || 6.x || 7.x || 8.x\"\n  },\n  \"jest\": {\n    \"globals\": {\n      \"__DEV__\": true\n    },\n    \"rootDir\": \"./\",\n    \"roots\": [\n      \"<rootDir>/src/\"\n    ],\n    \"setupFiles\": [\n      \"<rootDir>/scripts/jest/shims\n... (truncated)",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": "name: CI\n\non: [push, pull_request]\n\njobs:\n  ci:\n    runs-on: ubuntu-latest\n    strategy:\n      fail-fast: false\n      matrix:\n        node-version: ['14', '16']\n        cmd: ['build']\n    steps:\n      - uses: actions/checkout@v2\n      - name: Use Node.js ${{ matrix.node-version }}\n        uses: actions/setup-node@v2\n        with:\n          node-version: ${{ matrix.node-version }}\n          cache: 'yarn'\n      - name: Install dependencies\n        run: yarn install --frozen-lockfile\n      - name: Run ${{ matrix.cmd }}\n        run: yarn run ${{ matrix.cmd }}\n",
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "facebookarchive/pop",
+    "stars": 19633,
+    "description": "An extensible iOS and OS X animation library, useful for physics-based interactions.",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "facebookarchive/flux",
+    "stars": 17499,
+    "description": "Application Architecture for Building User Interfaces",
+    "files": {
+      "package.json": "{\n  \"name\": \"flux\",\n  \"version\": \"4.0.4\",\n  \"description\": \"An application architecture based on a unidirectional data flow\",\n  \"keywords\": [\n    \"flux\",\n    \"react\",\n    \"facebook\",\n    \"dispatcher\"\n  ],\n  \"homepage\": \"https://facebookarchive.github.io/flux/\",\n  \"bugs\": \"https://github.com/facebookarchive/flux/issues\",\n  \"files\": [\n    \"LICENSE\",\n    \"PATENTS\",\n    \"README.md\",\n    \"index.js\",\n    \"lib\",\n    \"utils.js\",\n    \"dist\"\n  ],\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"build\": \"gulp build\",\n    \"prepublish\": \"gulp publish\",\n    \"test\": \"NODE_ENV=test jest\"\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"https://github.com/facebook/flux\"\n  },\n  \"author\": \"Facebook\",\n  \"contributors\": [\n    \"Jing Chen <jingc@fb.com>\",\n    \"Bill Fisher <fisherwebdev@gmail.com>\",\n    \"Paul O'Shannessy <paul@oshannessy.com>\",\n    \"Kyle Davis <kyldvs@gmail.com>\",\n    \"Yangshun Tay <tay.yang.shun@gmail.com>\"\n  ],\n  \"license\": \"BSD-3-Clause\",\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.12.10\",\n    \"babel-loader\": \"^8.1.0\",\n    \"babel-preset-fbjs\": \"^3.3.0\",\n    \"del\": \"^2.2.0\",\n    \"gulp\": \"^4.0.2\",\n    \"gulp-babel\": \"^8.0.0\",\n    \"gulp-flatten\": \"^0.2.0\",\n    \"gulp-header\": \"1.8.2\",\n    \"gulp-rename\": \"^1.2.2\",\n    \"gulp-util\": \"^3.0.6\",\n    \"immutable\": \"^3.7.4\",\n    \"jest\": \"^28.1.0\",\n    \"jest-environment-jsdom\": \"^28.1.0\",\n    \"object-assign\": \"^4.0.1\",\n    \"react\": \"^17.0.1\",\n    \"react-addons-test-utils\": \"^15.6.2\",\n    \"react-dom\": \"^17.0.1\",\n    \"vinyl-source-stream\": \"^1.0.0\",\n    \"webpack\": \"^1.11.0\",\n    \"webpack-stream\": \"^3.1.0\"\n  },\n  \"dependencies\": {\n    \"fbemitter\": \"^3.0.0\",\n    \"fbjs\": \"^3.0.1\"\n  },\n  \"peerDependencies\": {\n    \"react\": \"^15.0.2 || ^16.0.0 || ^17.0.0\"\n  }\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "aleju/imgaug",
+    "stars": 14713,
+    "description": "Image augmentation for machine learning experiments.",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": "six\n# The test for imgaug.augmenters.blend.blend_alpha() fails for numpy<1.15.\n# All other tests seemed to work as of 2019/01/04.\nnumpy>=1.15\nscipy\nPillow\nmatplotlib\nscikit-image>=0.14.2\nopencv-python-headless\n# imageio versions past 2.6.1 do not support <3.5 anymore\nimageio<=2.6.1; python_version<'3.5'\nimageio; python_version>='3.5'\nShapely\n# numba is not available in <=3.5\nnumba; python_version>='3.6'\n",
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "aleju/papers",
+    "stars": 2503,
+    "description": "Summaries of machine learning papers",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "aleju/mario-ai",
+    "stars": 697,
+    "description": "Playing Mario with Deep Reinforcement Learning",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

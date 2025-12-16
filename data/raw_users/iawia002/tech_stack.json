@@ -1,0 +1,56 @@
+[
+  {
+    "name": "iawia002/lux",
+    "stars": 30712,
+    "description": "👾 Fast and simple video download library and CLI tool written in Go",
+    "files": {
+      "package.json": null,
+      "go.mod": "module github.com/iawia002/lux\n\ngo 1.24\n\nrequire (\n\tgithub.com/EDDYCJY/fake-useragent v0.2.0\n\tgithub.com/MercuryEngineering/CookieMonster v0.0.0-20180304172713-1584578b3403\n\tgithub.com/PuerkitoBio/goquery v1.10.3\n\tgithub.com/buger/jsonparser v1.1.1\n\tgithub.com/cheggaaa/pb/v3 v3.1.7\n\tgithub.com/dop251/goja v0.0.0-20250624190929-4d26883d182a\n\tgithub.com/fatih/color v1.18.0\n\tgithub.com/gocolly/colly/v2 v2.2.0\n\tgithub.com/itchyny/gojq v0.12.17\n\tgithub.com/json-iterator/go v1.1.12\n\tgithub.com/kkdai/youtube/v2 v2.10.5\n\tgithub.com/kr/pretty v0.3.1\n\tgithub.com/pkg/errors v0.9.1\n\tgithub.com/robertkrimen/otto v0.5.1\n\tgithub.com/urfave/cli/v2 v2.27.7\n)\n\nrequire (\n\tgithub.com/VividCortex/ewma v1.2.0 // indirect\n\tgithub.com/andybalholm/cascadia v1.3.3 // indirect\n\tgithub.com/antchfx/htmlquery v1.3.4 // indirect\n\tgithub.com/antchfx/xmlquery v1.4.4 // indirect\n\tgithub.com/antchfx/xpath v1.3.4 // indirect\n\tgithub.com/bitly/go-simplejson v0.5.1 // indirect\n\tgithub.com/bits-and-blooms/bitset v1.22.0 // indirect\n\tgithub.com/cpuguy83/go-md2man/v2 v2.0.7 // indirect\n\tgithub.com/dlclark/regexp2 v1.11.5 // indirect\n\tgithub.com/go-sourcemap/sourcemap v2.1.4+incompatible // indirect\n\tgithub.com/gobwas/glob v0.2.3 // indirect\n\tgithub.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8 // indirect\n\tgithub.com/golang/protobuf v1.5.4 // indirect\n\tgithub.com/google/pprof v0.0.0-20250629210550-e611ec304b22 // indirect\n\tgithub.com/itchyny/timefmt-go v0.1.6 // indirect\n\tgithub.com/kennygrant/sanitize v1.2.4 // indirect\n\tgithub.com/kr/text v0.2.0 // indirect\n\tgithub.com/mattn/go-colorable v0.1.14 // indirect\n\tgithub.com/mattn/go-isatty v0.0.20 // indirect\n\tgithub.com/mattn/go-runewidth v0.0.16 // indirect\n\tgithub.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect\n\tgithub.com/modern-go/reflect2 v1.0.2 // indirect\n\tgithub.com/nlnwa/whatwg-url v0.6.2 // indirect\n\tgithub.com/rivo/uniseg v0.4.7 // indirect\n\tgithub.com/rogpeppe/go-internal v1.14.1 // indirect\n\tgithub.com/russross/blackfriday/v2 v2.1.0 // indirect\n\tgithub.com/saintfish/chardet v0.0.0-20230101081208-5e3ef4b5456d // indirect\n\tgithub.com/temoto/robotstxt v1.1.2 // indirect\n\tgithub.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1 // indirect\n\tgolang.org/x/net v0.41.0 // indirect\n\tgolang.org/x/sys v0.33.0 // indirect\n\tgolang.org/x/text v0.26.0 // indirect\n\tgoogle.golang.org/appengine v1.6.8 // indirect\n\tgoogle.golang.org/protobuf v1.36.6 // indirect\n\tgopkg.in/sourcemap.v1 v1.0.5 // indirect\n)\n",
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": "name: ci\non:\n  push:\n  pull_request:\n  schedule:\n    # run ci weekly\n    - cron: \"0 0 * * 0\"\njobs:\n  ci:\n    runs-on: ${{ matrix.os }}\n    timeout-minutes: 30\n    strategy:\n      matrix:\n        go: [\"1.24\"]\n        os: [ubuntu-latest, macOS-latest]\n    name: Go ${{ matrix.go }} in ${{ matrix.os }}\n    steps:\n      - uses: actions/checkout@v4\n      - uses: actions/setup-go@v5\n        with:\n          go-version: ${{ matrix.go }}\n      - name: Environment\n        run: |\n          go version\n          go env\n      - name: Lint\n        uses: golangci/golangci-lint-action@v5\n        with:\n          version: v1.64.7\n          only-new-issues: true\n      - name: Test\n        env:\n          GOFLAGS: -mod=mod\n        run: go test -race -coverpkg=./... -coverprofile=coverage.txt ./...\n      - name: Send coverage\n        run: bash <(curl -s https://codecov.io/bash)\n",
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "iawia002/Lulu",
+    "stars": 809,
+    "description": "[Unmaintained] A simple and clean video/music/image downloader 👾",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "iawia002/Diana",
+    "stars": 24,
+    "description": "Diana is my own blog built with love 🌙",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": "flask==1.0.2\nflake8==3.5.0\nblinker==1.4\nredis==3.2.0\nSQLAlchemy==1.2.10\nFlask-SQLAlchemy==2.3.2\nFlask-WTF==0.14.2\nAlembic==1.0.0\npsycopg2-binary==2.7.5\npinyin==0.4.0\nbcrypt==3.1.4\nIPython==6.4.0\nipdb==0.11\nfabric==2.2.1\ncoverage==4.5.1\nschematics==2.1.0\nraven==6.9.0\nCelery==4.3.0\ngevent==1.3.5\ngreenlet==0.4.13 # https://github.com/gevent/gevent/issues/1260\ngunicorn==19.9.0\n\n# fish\nrequests==2.20.0\nBeautifulSoup4==4.6.0\n",
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": "FROM python:3.7\nENV PYTHONUNBUFFERED=1\nENV TZ=Asia/Shanghai\nRUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone\nRUN mkdir /code\nWORKDIR /code\nADD requirements.txt /code\nRUN pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com\n",
+      "docker-compose.yml": "# Diana\nversion: '2'\n\nservices:\n  #redis\n  redis:\n    image: redis:4.0.10\n    volumes:\n      - ./data/redis:/data\n\n  # postgres\n  postgres:\n    image: postgres:9.6.9\n    environment:\n      - POSTGRES_USER=postgres\n      - POSTGRES_DB=diana\n    volumes:\n      - ./data/postgresql:/var/lib/postgresql/data\n\n  # base\n  web_base:\n    image: iawia002/diana:latest\n    volumes:\n      - .:/code\n    environment:\n      - PYTHONPATH=/code\n    restart: always\n\n  # web\n  web:\n    extends:\n      service: web_base\n    command: gunicorn app:app -c python:config.gunicorn\n    ports:\n      - '8004:8004'\n    links:\n      - redis:redis\n      - postgres:postgres\n\n  # celery\n  celery:\n    extends:\n      service: web_base\n    command: celery -A main.celery worker --autoscale=10,1 -l INFO\n    links:\n      - redis:redis\n      - postgres:postgres\n\n  # beat\n  beat:\n    extends:\n      service: web_base\n    command: celery -A main.celery beat -l INFO\n    links:\n      - redis:redis\n      - postgres:postgres\n",
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

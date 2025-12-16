@@ -1,0 +1,56 @@
+[
+  {
+    "name": "UltronTheAI/eBook-Generator-AI-Agent",
+    "stars": 6,
+    "description": "An AI-powered system for generating complete eBooks from simple prompts. This tool uses Google's Gemini AI models to create professional-quality eBooks with minimal human input.",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": "google-generativeai>=0.3.0\r\npydantic>=2.0.0\r\npython-dotenv>=1.0.0\r\nmarkdown>=3.4.0\r\npdfkit>=1.0.0\r\nPyPDF2>=3.0.0\r\ncairosvg>=2.7.0\r\nPillow>=10.0.0 ",
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "UltronTheAI/Certificate",
+    "stars": 5,
+    "description": "无",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "UltronTheAI/Game-Server",
+    "stars": 5,
+    "description": "无",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "hzqst/VmwareHardenedLoader",
+    "stars": 2142,
+    "description": "Vmware Hardened VM detection mitigation loader (anti anti-vm)",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "hzqst/unicorn_pe",
+    "stars": 896,
+    "description": "Unicorn PE is an unicorn based instrumentation project designed to emulate code execution for windows PE files.",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "hzqst/Syscall-Monitor",
+    "stars": 747,
+    "description": "Syscall Monitor is a system monitor program (like Sysinternal's Process Monitor) using Intel VT-X/EPT for Windows7+",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

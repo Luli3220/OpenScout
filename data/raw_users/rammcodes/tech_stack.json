@@ -1,0 +1,56 @@
+[
+  {
+    "name": "rammcodes/Dopefolio",
+    "stars": 3663,
+    "description": "Dopefolio 🔥 - Portfolio Template for Developers 🚀",
+    "files": {
+      "package.json": "{\n  \"name\": \"dopefolio\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"compile:scss\": \"node-sass sass/main.scss css/style.css -w\",\n    \"prefix:css\": \"postcss --use autoprefixer -b 'last 10 versions' css/style.css -o css/style.css\",\n    \"compress:css\": \"node-sass css/style.css css/style.css --output-style compressed\",\n    \"build\": \"npm-run-all prefix:css compress:css\"\n  },\n  \"author\": \"\",\n  \"license\": \"GPL-3.0\",\n  \"devDependencies\": {\n    \"autoprefixer\": \"^10.3.1\",\n    \"node-sass\": \"^6.0.1\",\n    \"npm-run-all\": \"^4.1.5\",\n    \"postcss-cli\": \"^8.3.1\"\n  }\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "rammcodes/WowFolio",
+    "stars": 562,
+    "description": "Wowfolio 🦄 - A Simple & Clean Portfolio Template For Developers 👨‍💻",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "rammcodes/rammcodes",
+    "stars": 13,
+    "description": "无",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "omar-sh7770/Edward-portfolio",
+    "stars": 16,
+    "description": "By combining React, TailwindCSS and threejs, anyone can create a 3D portfolio that goes beyond imagination.",
+    "files": {
+      "package.json": "{\n  \"name\": \"EdwardPortfolio\",\n  \"homepage\": \"https://edward7770.github.io/Edward-portfolio\",\n  \"private\": true,\n  \"version\": \"0.0.0\",\n  \"type\": \"module\",\n  \"scripts\": {\n    \"dev\": \"vite\",\n    \"predeploy\": \"npm run build\",\n    \"deploy\": \"gh-pages -d dist\",\n    \"build\": \"vite build\",\n    \"preview\": \"vite preview\"\n  },\n  \"dependencies\": {\n    \"@emailjs/browser\": \"^3.11.0\",\n    \"@react-three/drei\": \"^9.90.0\",\n    \"@react-three/fiber\": \"^8.15.12\",\n    \"firebase\": \"^10.7.1\",\n    \"firebase-tools\": \"^13.0.2\",\n    \"framer-motion\": \"^9.1.7\",\n    \"maath\": \"^0.5.3\",\n    \"react\": \"^18.2.0\",\n    \"react-dom\": \"^18.2.0\",\n    \"react-router-dom\": \"^6.20.1\",\n    \"react-tilt\": \"^0.1.4\",\n    \"react-vertical-timeline-component\": \"^3.6.0\",\n    \"three\": \"^0.149.0\"\n  },\n  \"devDependencies\": {\n    \"@types/react\": \"^18.0.27\",\n    \"@types/react-dom\": \"^18.0.10\",\n    \"@vitejs/plugin-react\": \"^3.1.0\",\n    \"autoprefixer\": \"^10.4.13\",\n    \"gh-pages\": \"^6.1.1\",\n    \"postcss\": \"^8.4.21\",\n    \"tailwindcss\": \"^3.2.6\",\n    \"vite\": \"^4.1.0\"\n  }\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "omar-sh7770/edward7770",
+    "stars": 12,
+    "description": "Config files for my GitHub profile.",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "omar-sh7770/Beautiful-Number-Threejs",
+    "stars": 8,
+    "description": "无",
+    "files": {
+      "package.json": "{\n  \"name\": \"sparks-and-effects\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Demonstrating fake-particles, mesh-lines and effect composition.\",\n  \"keywords\": [\n    \"glow\",\n    \"mesh-line\",\n    \"effects\",\n    \"particles\",\n    \"text-geometry\"\n  ],\n  \"main\": \"src/index.js\",\n  \"dependencies\": {\n    \"@react-three/fiber\": \"7.0.24\",\n    \"react\": \"17.0.2\",\n    \"react-dom\": \"17.0.2\",\n    \"react-scripts\": \"^5.0.1\",\n    \"three\": \"0.125.0\",\n    \"threejs-meshline\": \"2.0.12\"\n  },\n  \"devDependencies\": {\n    \"typescript\": \"3.3.3\"\n  },\n  \"scripts\": {\n    \"start\": \"react-scripts start\",\n    \"build\": \"react-scripts build\",\n    \"test\": \"react-scripts test --env=jsdom\",\n    \"eject\": \"react-scripts eject\"\n  },\n  \"browserslist\": [\n    \">0.2%\",\n    \"not dead\",\n    \"not ie <= 11\",\n    \"not op_mini all\"\n  ]\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

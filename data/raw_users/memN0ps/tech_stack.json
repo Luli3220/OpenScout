@@ -1,0 +1,56 @@
+[
+  {
+    "name": "memN0ps/eagle-rs",
+    "stars": 572,
+    "description": "Rusty Rootkit - Windows Kernel Rookit in Rust (Codename: Eagle)",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": "[workspace]\n\nmembers = [\n    \"client\",\n    \"driver\",\n    \"common\",\n]\n\n[profile.release]\nopt-level = 3",
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "memN0ps/redlotus-rs",
+    "stars": 559,
+    "description": "Rusty Bootkit - Windows UEFI Bootkit in Rust (Codename: RedLotus)",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": "[workspace]\n\nmembers = [\n    \"bootkit\",\n    \"driver\",\n    \"client\",\n    \"testing123\",\n]\n\nresolver = \"2\"",
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "memN0ps/venom-rs",
+    "stars": 353,
+    "description": "Rusty Injection - Shellcode Reflective DLL Injection (sRDI) in Rust (Codename: Venom)",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": "[workspace]\nmembers = [\n    \"generate_shellcode\",\n    \"reflective_loader\",\n    \"payload\",\n    \"inject\"\n]\n\n# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html\n[profile.release]\nopt-level = \"z\"     # Optimize for size.\nlto = true          # Enable Link Time Optimization\ncodegen-units = 1   # Reduce number of codegen units to increase optimizations.\npanic = \"abort\"     # Abort on panic\nstrip = true        # Automatically strip symbols from the binary.\n\n[profile.dev]\nopt-level = \"z\"     # Optimize for size.\nlto = true          # Enable Link Time Optimization\ncodegen-units = 1   # Reduce number of codegen units to increase optimizations.\npanic = \"abort\"     # Abort on panic\nstrip = true        # Automatically strip symbols from the binary.",
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

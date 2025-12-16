@@ -1,0 +1,56 @@
+[
+  {
+    "name": "benjamingr/favicon-bug",
+    "stars": 241,
+    "description": "Demonstrates Chrome/Firefox/Safari download 1GB favicons",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "benjamingr/tmp-promise",
+    "stars": 131,
+    "description": "A promises port of https://github.com/raszi/node-tmp",
+    "files": {
+      "package.json": "{\n  \"name\": \"tmp-promise\",\n  \"version\": \"3.0.3\",\n  \"description\": \"The tmp package with promises support and disposers.\",\n  \"main\": \"index.js\",\n  \"types\": \"index.d.ts\",\n  \"files\": [\n    \"index.js\",\n    \"index.d.ts\"\n  ],\n  \"scripts\": {\n    \"mocha\": \"mocha\",\n    \"check-types\": \"tsd\",\n    \"test\": \"npm run mocha && npm run check-types\",\n    \"publish\": \"node publish\"\n  },\n  \"keywords\": [\n    \"tmp\",\n    \"promise\",\n    \"tempfile\",\n    \"mkdtemp\",\n    \"mktemp\"\n  ],\n  \"author\": \"Benjamin Gruenbaum and Collaborators.\",\n  \"license\": \"MIT\",\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git://github.com/benjamingr/tmp-promise.git\"\n  },\n  \"dependencies\": {\n    \"tmp\": \"^0.2.0\"\n  },\n  \"devDependencies\": {\n    \"@types/tmp\": \"^0.2.0\",\n    \"mocha\": \"7.1.2\",\n    \"tsd\": \"0.25.0\"\n  }\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "benjamingr/PizzaHack",
+    "stars": 115,
+    "description": "无",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

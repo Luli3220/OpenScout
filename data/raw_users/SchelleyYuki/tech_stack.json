@@ -1,0 +1,38 @@
+[
+  {
+    "name": "SchelleyYuki/m1-test",
+    "stars": 162,
+    "description": "Java编译速度对比测试: M1 MacBook Air vs Intel Core i9 MacBook Pro",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "SchelleyYuki/software-engineering-primer",
+    "stars": 21,
+    "description": "Schelley精选的编程学习资源和折扣福利，包括Udacity折扣，AlgoExpert折扣，AlgoMonster折扣，Educative折扣，Exponent折扣",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

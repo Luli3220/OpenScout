@@ -1,0 +1,56 @@
+[
+  {
+    "name": "octaviovillegas/CursoIngresoJS",
+    "stars": 121,
+    "description": "Curso de ingreso con JavaScript",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "octaviovillegas/Curso_de_ingreso_PYTHON",
+    "stars": 75,
+    "description": "Curso de ingreso en PYTHON",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": "customtkinter==5.2.2\npillow==10.4.0\n",
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "octaviovillegas/APIREST-PHP-POO-JWT-MIDDLEWARE-Documentar",
+    "stars": 9,
+    "description": "API REST  en PHP con SlimFramework, POO + JSON Web Token + MiddleWare",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

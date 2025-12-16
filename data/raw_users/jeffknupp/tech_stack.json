@@ -1,0 +1,56 @@
+[
+  {
+    "name": "jeffknupp/sandman",
+    "stars": 2298,
+    "description": "Sandman \"makes things REST\".",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": "Flask==0.10.1\nFlask-HTTPAuth==2.2.1\nFlask-Admin==1.0.7\nFlask-SQLAlchemy==1.0\nJinja2==2.7.2\nMarkupSafe==0.19\nSQLAlchemy==0.9.4\nWTForms==1.0.5\nWerkzeug==0.9.4\nitsdangerous==0.24\nwsgiref==0.1.2\nclick==0.7\nsphinx-rtd-theme==0.1.6\n",
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "jeffknupp/sandman2",
+    "stars": 2046,
+    "description": "Automatically generate a RESTful API service for your legacy database. No code required!",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": "Flask==1.1.2\nFlask-Admin==1.5.7\nFlask-SQLAlchemy==2.4.4\nSQLAlchemy==1.3.20\nWTForms==2.3.3\ncoverage==5.3\npytest==6.2.0\nFlask-Cors==3.0.9\npytest-cov==2.10.1\npytest-flask==1.1.0\nsix==1.15.0\nwcwidth==0.2.5\nWerkzeug==1.0.1\nWTForms==2.3.3\nzipp==3.4.0\n",
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": "FROM python:3-alpine\n\nRUN apk add postgresql-dev musl libffi-dev musl-dev gcc\n\nCOPY start.sh /start.sh\n\nRUN pip install sandman2 psycopg2 pymysql\n\nENV PORT 80\n\nEXPOSE 80\n\nCMD [\"/start.sh\"]\n",
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "jeffknupp/blug",
+    "stars": 157,
+    "description": "Because \"I just blogged about it\" is too difficult to say.",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": "Jinja2>=2.6\nMarkdown>=2.2.0\nPyYAML>=3.10\nPygments>=1.5\n",
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

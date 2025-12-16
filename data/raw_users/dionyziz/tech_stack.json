@@ -1,0 +1,56 @@
+[
+  {
+    "name": "dionyziz/stream.js",
+    "stars": 555,
+    "description": "A tiny stand-alone Javascript library for streams",
+    "files": {
+      "package.json": "{\n  \"name\": \"stream.js\",\n  \"version\": \"1.1.2\",\n  \"description\": \"Lazy streams.\",\n  \"repository\": {\n    \"git\": \"https://github.com/dionyziz/stream.js\"\n  },\n  \"home\": \"https://dionyziz.github.io/stream.js-website/\",\n  \"license\": \"MIT\",\n  \"maintainers\": [\n    {\n      \"name\": \"Dionysis Zindros\",\n      \"email\": \"dionyziz@gmail.com\",\n      \"web\": \"http://dionyziz.com/\"\n    }\n  ],\n  \"contributors\": [\n    {\n      \"name\": \"Ryan Scheel\",\n      \"email\": \"ryan.havvy@gmail.com\",\n      \"web\": \"http://widget.mibbit.com/?channel=%23havvy&server=irc.mibbit.net\"\n    },\n    {\n      \"name\": \"Dionysis Zindros\",\n      \"email\": \"dionyziz@gmail.com\",\n      \"web\": \"http://dionyziz.com/\"\n    },\n    {\n      \"name\": \"Jon Ege Ronnenberg\",\n      \"email\": \"jon.ronnenberg+stream.js@gmail.com\",\n      \"web\": \"https://keybase.io/dotnetcarpenter\"\n    },\n    {\n      \"name\": \"George Gkasdrogkas\",\n      \"email\": \"georgegkas@gmail.com\",\n      \"web\": \"https://codepen.io/georgegkas\"\n    }\n  ],\n  \"main\": \"src/stream.js\",\n  \"scripts\": {\n    \"test\": \"istanbul cover jasmine && node external/sendtocodecov.js\",\n    \"build:browser\": \"browserify src/stream.js --standalone Stream --outfile stream.js\",\n    \"minify\": \"browserify src/stream.js --standalone Stream --outfile stream.min.js --debug --plugin [ minifyify --map stream.min.js.map --output stream.min.js.map ]\",\n    \"zip\": \"bestzip --\",\n    \"eslint\": \"eslint src/ spec/\"\n  },\n  \"directories\": {\n    \"lib\": \"src\"\n  },\n  \"engines\": {\n    \"node\": \">=6\"\n  },\n  \"keywords\": [\n    \"stream\",\n    \"lazy\",\n    \"infinite\",\n    \"data structure\"\n  ],\n  \"devDependencies\": {\n    \"bestzip\": \"^1.1.2\",\n    \"browserify\": \"^13.1.1\",\n    \"codecov.io\": \"^0.1.6\",\n    \"eslint\": \"^4.15.0\",\n    \"eslint-config-airbnb\": \"^16.1.0\",\n    \"eslint-plugin-import\": \"^2.8.0\",\n    \"istanbul\": \"^0.4.0\",\n    \"jasmine\": \"^2.4.1\",\n    \"minifyify\": \"^7.1.0\"\n  }\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "dionyziz/canvas-tetris",
+    "stars": 457,
+    "description": "A 2D tetris game in HTML5 canvas",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "dionyziz/wave-experiment",
+    "stars": 105,
+    "description": "A wave simulation in WebGL",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

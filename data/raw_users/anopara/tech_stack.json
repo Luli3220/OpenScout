@@ -1,0 +1,56 @@
+[
+  {
+    "name": "anopara/genetic-drawing",
+    "stars": 2222,
+    "description": "A genetic algorithm toy project for drawing",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "anopara/country-slice",
+    "stars": 434,
+    "description": "无",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": "[package]\nname = \"country-slice\"\nversion = \"0.2.0\"\nedition = \"2018\"\n\nauthors = [\"Anastasia Opara <anastasiaopara@gmail.com>\"] \n\n# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html\n\n[dependencies]\ngl = \"0.14.0\"\nglutin = \"0.27.0\"\nglam = \"0.20.0\"\ngltf = \"0.16.0\"\ndolly = \"0.1.4\"\nhotwatch = \"0.4.6\"\nbevy_app = \"0.5\"\nbevy_core = \"0.5\"\nbevy_ecs = \"0.5\"\nbevy_input = \"0.5\"\nfastrand = \"1.5.0\"\nlog = \"0.4.14\"\nsimple_logger = \"1.13.0\"\nserde_json = \"1.0\"\npuffin = \"0.12.1\"\npuffin_http = \"0.9.0\"\nbracket-noise = \"0.8.2\" #terrain noise\nlazy_static = \"1.4.0\"",
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "anopara/patch-based-texture-synthesis",
+    "stars": 217,
+    "description": "Based on \"Image Quilting for Texture Synthesis and Transfer\" and \"Real-Time Texture Synthesis by Patch-Based Sampling\" papers",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "IljaZimakovs/CookieChain-Fe",
+    "stars": 3,
+    "description": "无",
+    "files": {
+      "package.json": "{\n  \"name\": \"nextjs-template\",\n  \"version\": \"0.1.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"dev\": \"next dev\",\n    \"dev:https\": \"next dev --experimental-https\",\n    \"build\": \"next build\",\n    \"start\": \"next start\",\n    \"lint\": \"next lint\"\n  },\n  \"dependencies\": {\n    \"@radix-ui/react-dialog\": \"^1.1.1\",\n    \"@radix-ui/react-progress\": \"^1.1.0\",\n    \"@telegram-apps/react-router-integration\": \"^1.0.0\",\n    \"@telegram-apps/sdk-react\": \"^1.0.0\",\n    \"@telegram-apps/telegram-ui\": \"^2.1.5\",\n    \"@tonconnect/ui-react\": \"^2.0.5\",\n    \"axios\": \"^1.7.5\",\n    \"class-variance-authority\": \"^0.7.0\",\n    \"clsx\": \"^2.1.1\",\n    \"csshake\": \"^1.7.0\",\n    \"eruda\": \"^3.0.1\",\n    \"framer-motion\": \"^11.5.2\",\n    \"lucide-react\": \"^0.436.0\",\n    \"next\": \"14.2.4\",\n    \"normalize.css\": \"^8.0.1\",\n    \"react\": \"^18\",\n    \"react-dom\": \"^18\",\n    \"react-hot-toast\": \"^2.4.1\",\n    \"react-icons\": \"^5.3.0\",\n    \"react-spinners-kit\": \"^1.9.1\",\n    \"tailwind-merge\": \"^2.5.2\",\n    \"tailwindcss-animate\": \"^1.0.7\",\n    \"vaul\": \"^0.9.1\",\n    \"zustand\": \"^4.5.5\"\n  },\n  \"devDependencies\": {\n    \"@types/node\": \"^20\",\n    \"@types/react\": \"^18\",\n    \"@types/react-dom\": \"^18\",\n    \"eslint\": \"^8\",\n    \"eslint-config-next\": \"14.2.4\",\n    \"postcss\": \"^8\",\n    \"tailwindcss\": \"^3.4.1\",\n    \"typescript\": \"^5\"\n  }\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "IljaZimakovs/iljazimakovs",
+    "stars": 3,
+    "description": "无",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "IljaZimakovs/Py-Translation-and-Data-Upload-Tool",
+    "stars": 2,
+    "description": "无",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": "annotated-types==0.5.0\nanyio==3.7.1\nborb==2.1.17\nboto3==1.28.73\nbotocore==1.31.73\ncachetools==5.3.2\ncertifi==2023.7.22\ncffi==1.16.0\ncharset-normalizer==3.3.0\ncolorama==0.4.6\ncryptography==41.0.4\net-xmlfile==1.1.0\nfastapi==0.103.1\nfonttools==4.43.0\ngoogle-api-core==2.12.0\ngoogle-auth==2.23.3\ngoogle-cloud==0.34.0\ngoogle-cloud-core==2.3.3\ngoogle-cloud-translate==3.12.1\ngoogleapis-common-protos==1.61.0\ngrpcio==1.59.0\ngrpcio-status==1.59.0\nidna==3.4\njmespath==1.0.1\nlxml==4.9.3\nnumpy==1.26.0\nopenpyxl==3.1.2\npandas==2.1.1\nPillow==10.0.1\nproto-plus==1.22.3\nprotobuf==4.24.4\npyasn1==0.5.0\npyasn1-modules==0.3.0\npycparser==2.21\npydantic==2.3.0\npydantic_core==2.6.3\nPyPDF2==3.0.1\npypng==0.20220715.0\npython-barcode==0.15.1\npython-dateutil==2.8.2\npytz==2023.3.post1\nqrcode==7.4.2\nrequests==2.31.0\nrsa==4.9\ns3transfer==0.7.0\nsix==1.16.0\nsniffio==1.3.0\nstarlette==0.27.0\ntyping_extensions==4.7.1\ntzdata==2023.3\nurllib3==2.0.7\n",
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

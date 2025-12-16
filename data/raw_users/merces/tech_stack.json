@@ -1,0 +1,56 @@
+[
+  {
+    "name": "merces/bashacks",
+    "stars": 206,
+    "description": "A set of functions to increase productivity while hacking with Bash",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "merces/aleph",
+    "stars": 159,
+    "description": "An Open Source Malware Analysis Pipeline System",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": "argparse==1.2.1\nBabel==1.3\nbitstring==3.1.3\nblinker==1.3\ncelery==3.1.18\ncffi==0.8.6\nelasticsearch==1.2.0\nFlask-Babel==0.9\nFlask-Login==0.2.11\nFlask-Mail==0.9.0\nFlask-SQLAlchemy==2.0\nFlask-WTF==0.10.1\nFlask==0.10.1\nitsdangerous==0.24\nJinja2==2.7.3\nMarkupSafe==0.23\npefile==1.2.10-114\npluginbase==0.3\npycparser==2.10\npygeoip==0.3.1\npysqlite==2.6.3\npython-dateutil==2.2\npython-magic==0.4.6\npytz==2014.4\nrarfile==2.7\nrequests==2.3.0\nsimplejson==3.6.2\nsix==1.7.3\nspeaklater==1.3\nSQLAlchemy==0.9.7\nssdeep==3.1\nurllib3==1.9\nuuid==1.30\nvirustotal==1.0.3\nWerkzeug==0.15.3\nwsgiref==0.1.2\nWTForms==2.0.1\n",
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "merces/entropy",
+    "stars": 74,
+    "description": "CLI program to calculate the entropy of files",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

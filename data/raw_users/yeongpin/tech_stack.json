@@ -1,0 +1,56 @@
+[
+  {
+    "name": "yeongpin/cursor-free-vip",
+    "stars": 45979,
+    "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": "watchdog\npython-dotenv>=1.0.0\ncolorama>=0.4.6\nrequests\npsutil>=5.8.0\npywin32; platform_system == \"Windows\"\npyinstaller \nDrissionPage>=4.0.0\nselenium\nwebdriver_manager\narabic-reshaper\npython-bidi\nfaker",
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "yeongpin/chrome-side-ai-panel",
+    "stars": 46,
+    "description": "A powerful Chrome extension that provides a side panel interface to interact with AI services.",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "yeongpin/LanLocalChat",
+    "stars": 43,
+    "description": "(Docker , nginx) For Local Lan Chat & Send File & Send Images & Videos & Sound | 局域網聊天，發送文件，發送影片，圖片，音頻",
+    "files": {
+      "package.json": "{\n  \"name\": \"lan-chat\",\n  \"version\": \"1.0.18\",\n  \"description\": \"LAN Chat Application\",\n  \"main\": \"server/server.js\",\n  \"scripts\": {\n    \"server\": \"nodemon server/server.js\",\n    \"dev\": \"vite\",\n    \"build\": \"vite build\",\n    \"preview\": \"vite preview\",\n    \"start\": \"node server/server.js\",\n    \"build:all\": \"npm run build && npm run start\"\n  },\n  \"dependencies\": {\n    \"axios\": \"^0.26.1\",\n    \"busboy\": \"^1.6.0\",\n    \"cors\": \"^2.8.5\",\n    \"crypto-js\": \"^4.1.1\",\n    \"dotenv\": \"^16.0.3\",\n    \"express\": \"^4.17.1\",\n    \"multer\": \"^1.4.4\",\n    \"socket.io\": \"^4.4.1\",\n    \"socket.io-client\": \"^4.4.1\",\n    \"uuid\": \"^9.0.1\",\n    \"vue\": \"^3.2.31\"\n  },\n  \"devDependencies\": {\n    \"@vitejs/plugin-vue\": \"^4.6.2\",\n    \"dotenv\": \"^16.0.3\",\n    \"nodemon\": \"^2.0.22\",\n    \"vite\": \"^4.5.9\"\n  }\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": "# 構建階段\nFROM node:18-alpine as builder\n\nWORKDIR /app\n\n# 設置構建時環境變量\nARG VITE_MESSAGE_SALT\nENV VITE_MESSAGE_SALT=${VITE_MESSAGE_SALT:-mysecretkey123}\n\n# 複製項目文件\nCOPY package*.json ./\nRUN npm install\nCOPY . .\n\n# 安裝依賴並構建\nRUN echo \"Building with VITE_MESSAGE_SALT=${VITE_MESSAGE_SALT}\"\nRUN npm run build\nRUN ls -la dist/\nRUN echo \"構建完成，檢查 dist 目錄內容\"\n\n# 運行階段\nFROM node:18-alpine\n\nWORKDIR /app\n\n# 設置運行時環境變量\nENV VITE_MESSAGE_SALT=${VITE_MESSAGE_SALT:-mysecretkey123}\n\n# 複製構建產物和必要文件\nCOPY --from=builder /app/dist ./dist\nCOPY --from=builder /app/server ./server\nCOPY --from=builder /app/package*.json ./\n\n# 只安裝生產環境依賴\nRUN npm install --omit=dev\nRUN npm install dotenv\n\n# 創建上傳目錄\nRUN mkdir -p /app/server/uploads\n\n# 暴露端口\nEXPOSE 13050\n\n# 啟動服務\nCMD [\"sh\", \"-c\", \"ls -la && npm start\"]  # 啟動時顯示文件列表 ",
+      "docker-compose.yml": "version: '3.8'\n\nservices:\n  lanchat:\n    image: ghcr.io/yeongpin/lan-chat:main\n    build:\n      context: .\n      args:\n        - SERVER_PORT=${SERVER_PORT:-13050}\n        - PUBLIC_PORT=${PUBLIC_PORT:-5173}\n        - HOST=${HOST:-0.0.0.0}\n        - PUBLIC_HOST=${PUBLIC_HOST:-0.0.0.0}\n        - VITE_SERVER_PORT=${VITE_SERVER_PORT:-13050}\n        - VITE_NAME_LIMIT=${VITE_NAME_LIMIT:-20}\n        - VITE_MESSAGE_SALT=${VITE_MESSAGE_SALT:-mysecretkey123}\n        - MAX_FILE_SIZE=${MAX_FILE_SIZE:-500}\n        - CLEANUP_INTERVAL=${CLEANUP_INTERVAL:-1h}\n        - HISTORY_RETENTION=${HISTORY_RETENTION:-7d}\n        - UPLOADS_RETENTION=${UPLOADS_RETENTION:-1d}\n    ports:\n      - \"${SERVER_PORT:-13050}:13050\"\n    environment:\n        - SERVER_PORT=${SERVER_PORT:-13050}\n        - PUBLIC_PORT=${PUBLIC_PORT:-5173}\n        - HOST=${HOST:-0.0.0.0}\n        - PUBLIC_HOST=${PUBLIC_HOST:-0.0.0.0}\n        - VITE_SERVER_PORT=${VITE_SERVER_PORT:-13050}\n        - VITE_NAME_LIMIT=${VITE_NAME_LIMIT:-20}\n        - VITE_MESSAGE_SALT=${VITE_MESSAGE_SALT:-mysecretkey123}\n        - MAX_FILE_SIZE=${MAX_FILE_SIZE:-500}\n        - CLEANUP_INTERVAL=${CLEANUP_INTERVAL:-1h}\n        - HISTORY_RETENTION=${HISTORY_RETENTION:-7d}\n        - UPLOADS_RETENTION=${UPLOADS_RETENTION:-1d}\n    volumes:\n      - uploads:/app/server/uploads\n\nvolumes:\n  uploads: ",
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

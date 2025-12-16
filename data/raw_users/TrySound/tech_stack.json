@@ -1,0 +1,56 @@
+[
+  {
+    "name": "TrySound/rollup-plugin-terser",
+    "stars": 610,
+    "description": "Rollup plugin to minify generated bundle",
+    "files": {
+      "package.json": "{\n  \"name\": \"rollup-plugin-terser\",\n  \"version\": \"7.0.2\",\n  \"description\": \"Rollup plugin to minify generated es bundle\",\n  \"type\": \"commonjs\",\n  \"main\": \"rollup-plugin-terser.js\",\n  \"types\": \"rollup-plugin-terser.d.ts\",\n  \"exports\": {\n    \"require\": \"./rollup-plugin-terser.js\",\n    \"import\": \"./rollup-plugin-terser.mjs\"\n  },\n  \"files\": [\n    \"rollup-plugin-terser.js\",\n    \"rollup-plugin-terser.mjs\",\n    \"rollup-plugin-terser.d.ts\",\n    \"transform.js\"\n  ],\n  \"scripts\": {\n    \"test\": \"jest\",\n    \"prepublish\": \"yarn test\"\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git+https://github.com/TrySound/rollup-plugin-terser.git\"\n  },\n  \"keywords\": [\n    \"rollup\",\n    \"rollup-plugin\",\n    \"terser\",\n    \"minify\"\n  ],\n  \"author\": \"Bogdan Chadkin <trysound@yandex.ru>\",\n  \"license\": \"MIT\",\n  \"dependencies\": {\n    \"@babel/code-frame\": \"^7.10.4\",\n    \"jest-worker\": \"^26.2.1\",\n    \"serialize-javascript\": \"^4.0.0\",\n    \"terser\": \"^5.0.0\"\n  },\n  \"peerDependencies\": {\n    \"rollup\": \"^2.0.0\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.11.1\",\n    \"jest\": \"^26.2.2\",\n    \"prettier\": \"^2.0.5\",\n    \"rollup\": \"^2.23.1\"\n  }\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "TrySound/postcss-inline-svg",
+    "stars": 480,
+    "description": "PostCSS plugin to reference an SVG file and control its attributes with CSS syntax",
+    "files": {
+      "package.json": "{\n  \"name\": \"postcss-inline-svg\",\n  \"version\": \"6.0.0\",\n  \"description\": \"PostCSS plugin to reference an SVG file and control its attributes with CSS syntax\",\n  \"keywords\": [\n    \"postcss\",\n    \"css\",\n    \"postcss-plugin\",\n    \"svg\",\n    \"inline\"\n  ],\n  \"main\": \"lib/index.js\",\n  \"files\": [\n    \"lib\"\n  ],\n  \"scripts\": {\n    \"test\": \"jest\",\n    \"prepare\": \"husky install\"\n  },\n  \"lint-staged\": {\n    \"*.js\": [\n      \"prettier --write\"\n    ]\n  },\n  \"author\": \"Bogdan Chadkin <trysound@yandex.ru>\",\n  \"license\": \"MIT\",\n  \"repository\": \"TrySound/postcss-inline-svg\",\n  \"bugs\": {\n    \"url\": \"https://github.com/TrySound/postcss-inline-svg/issues\"\n  },\n  \"homepage\": \"https://github.com/TrySound/postcss-inline-svg\",\n  \"dependencies\": {\n    \"css-select\": \"^5.1.0\",\n    \"dom-serializer\": \"^2.0.0\",\n    \"htmlparser2\": \"^8.0.1\",\n    \"postcss-value-parser\": \"^4.2.0\"\n  },\n  \"peerDependencies\": {\n    \"postcss\": \"^8.1.4\"\n  },\n  \"devDependencies\": {\n    \"husky\": \"^8.0.3\",\n    \"jest\": \"^29.4.2\",\n    \"lint-staged\": \"^13.1.1\",\n    \"postcss\": \"^8.4.21\",\n    \"prettier\": \"^2.8.4\"\n  }\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "TrySound/rollup-plugin-uglify",
+    "stars": 261,
+    "description": "Rollup plugin to minify generated bundle",
+    "files": {
+      "package.json": "{\n  \"name\": \"rollup-plugin-uglify\",\n  \"version\": \"6.0.4\",\n  \"description\": \"Rollup plugin to minify generated bundle\",\n  \"main\": \"index.js\",\n  \"files\": [\n    \"index.js\",\n    \"transform.js\"\n  ],\n  \"scripts\": {\n    \"test\": \"jest --runInBand\",\n    \"prepublish\": \"yarn test\"\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git+https://github.com/TrySound/rollup-plugin-uglify.git\"\n  },\n  \"keywords\": [\n    \"rollup\",\n    \"rollup-plugin\",\n    \"uglify\",\n    \"minify\"\n  ],\n  \"author\": \"Bogdan Chadkin <trysound@yandex.ru>\",\n  \"license\": \"MIT\",\n  \"dependencies\": {\n    \"@babel/code-frame\": \"^7.0.0\",\n    \"jest-worker\": \"^24.0.0\",\n    \"serialize-javascript\": \"^2.1.2\",\n    \"uglify-js\": \"^3.4.9\"\n  },\n  \"peerDependencies\": {\n    \"rollup\": \">=0.66.0 <2\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.2.2\",\n    \"@babel/preset-env\": \"^7.3.1\",\n    \"babel-jest\": \"^24.0.0\",\n    \"jest\": \"^24.0.0\",\n    \"prettier\": \"^1.16.1\",\n    \"rollup\": \"^1.27.10\"\n  }\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

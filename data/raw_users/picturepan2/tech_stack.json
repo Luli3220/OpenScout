@@ -1,0 +1,56 @@
+[
+  {
+    "name": "picturepan2/spectre",
+    "stars": 11352,
+    "description": "Spectre.css - A Lightweight, Responsive and Modern CSS Framework",
+    "files": {
+      "package.json": "{\n  \"name\": \"spectre.css\",\n  \"version\": \"0.5.9\",\n  \"homepage\": \"http://picturepan2.github.io/spectre\",\n  \"author\": \"Yan Zhu <picturepan2@hotmail.com>\",\n  \"description\": \"Spectre.css: A lightweight, responsive and modern CSS framework\",\n  \"main\": \"dist/spectre.css\",\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"https://github.com/picturepan2/spectre.git\"\n  },\n  \"license\": \"MIT\",\n  \"keywords\": [\n    \"css\",\n    \"framework\",\n    \"flexbox\",\n    \"responsive\",\n    \"mobile-friendly\",\n    \"front-end\",\n    \"sass\",\n    \"modern\"\n  ],\n  \"bugs\": {\n    \"url\": \"https://github.com/picturepan2/spectre/issues\"\n  },\n  \"devDependencies\": {\n    \"gulp\": \"^4.0.2\",\n    \"gulp-autoprefixer\": \"^7.0.1\",\n    \"gulp-clean-css\": \"^4.3.0\",\n    \"gulp-csscomb\": \"^3.1.0\",\n    \"gulp-pug\": \"^4.0.1\",\n    \"gulp-rename\": \"^2.0.0\",\n    \"gulp-sass\": \"^4.1.0\",\n    \"jstransformer-highlight\": \"^2.0.0\",\n    \"jstransformer-markdown-it\": \"^2.1.0\"\n  },\n  \"browserslist\": [\n    \"last 4 Chrome versions\",\n    \"Edge >= 12\",\n    \"Firefox ESR\",\n    \"last 4 Safari versions\",\n    \"last 4 Opera versions\",\n    \"Explorer >= 10\"\n  ]\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "picturepan2/instagram.css",
+    "stars": 4024,
+    "description": "Instagram.css - Complete set of Instagram filters in pure CSS",
+    "files": {
+      "package.json": "{\n  \"name\": \"instagram.css\",\n  \"version\": \"0.1.4\",\n  \"homepage\": \"http://picturepan2.github.io/instagram.css\",\n  \"author\": \"Yan Zhu <picturepan2@hotmail.com>\",\n  \"description\": \"Instagram.css\",\n  \"main\": \"dist/instagram.css\",\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"https://github.com/picturepan2/instagram.css.git\"\n  },\n  \"license\": \"MIT\",\n  \"keywords\": [\n    \"css\",\n    \"pure-css\",\n    \"filters\"\n  ],\n  \"bugs\": {\n    \"url\": \"https://github.com/picturepan2/instagram.css/issues\"\n  },\n  \"devDependencies\": {\n    \"gulp\": \"latest\",\n    \"gulp-autoprefixer\": \"latest\",\n    \"gulp-clean-css\": \"^3.7.0\",\n    \"gulp-csscomb\": \"^3.0.8\",\n    \"gulp-rename\": \"^1.2.2\",\n    \"gulp-sass\": \"latest\"\n  },\n  \"browserslist\": [\n    \"> 0%\"\n  ]\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "picturepan2/devices.css",
+    "stars": 2403,
+    "description": "Devices.css - Modern devices crafted in pure CSS",
+    "files": {
+      "package.json": "{\n  \"name\": \"devices.css\",\n  \"version\": \"0.2.0\",\n  \"homepage\": \"https://devicescss.xyz\",\n  \"author\": \"Yan Zhu <picturepan2@hotmail.com>\",\n  \"description\": \"Devices.css: Modern devices crafted in pure CSS.\",\n  \"main\": \"dist/devices.css\",\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"https://github.com/picturepan2/devices.css.git\"\n  },\n  \"license\": \"MIT\",\n  \"keywords\": [\n    \"css\",\n    \"pure-css\",\n    \"devices\",\n    \"responsive\"\n  ],\n  \"bugs\": {\n    \"url\": \"https://github.com/picturepan2/devices.css/issues\"\n  },\n  \"devDependencies\": {\n    \"gulp\": \"latest\",\n    \"gulp-autoprefixer\": \"^6.1.0\",\n    \"gulp-clean-css\": \"^4.2.0\",\n    \"gulp-csscomb\": \"latest\",\n    \"gulp-plumber\": \"latest\",\n    \"gulp-pug\": \"latest\",\n    \"gulp-rename\": \"latest\",\n    \"gulp-sass\": \"latest\",\n    \"node-sass\": \"^7.0.1\"\n  },\n  \"browserslist\": [\n    \"last 4 Chrome versions\",\n    \"Edge >= 12\",\n    \"Firefox ESR\",\n    \"last 4 Safari versions\",\n    \"last 4 Opera versions\",\n    \"Explorer >= 10\"\n  ]\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

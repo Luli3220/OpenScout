@@ -1,0 +1,56 @@
+[
+  {
+    "name": "khemssharma/Chess",
+    "stars": 20,
+    "description": "Play chess from a pool of online users, with the computer or with a friend in-person",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "khemssharma/StudyNotion",
+    "stars": 11,
+    "description": "Create a Scale-able Full Stack Education Platform with React-Tailwind, MongoDB & Nodejs",
+    "files": {
+      "package.json": "{\n  \"name\": \"react-tailwind-css-starter-pack\",\n  \"version\": \"0.1.0\",\n  \"private\": true,\n  \"dependencies\": {\n    \"@ramonak/react-progress-bar\": \"^5.0.3\",\n    \"@react-oauth/google\": \"^0.12.1\",\n    \"@reduxjs/toolkit\": \"^1.9.5\",\n    \"axios\": \"^1.4.0\",\n    \"chart.js\": \"^4.4.1\",\n    \"concurrently\": \"^8.0.1\",\n    \"copy-to-clipboard\": \"^3.3.3\",\n    \"react\": \"^18.2.0\",\n    \"react-chartjs-2\": \"^5.2.0\",\n    \"react-dom\": \"^18.2.0\",\n    \"react-dropzone\": \"^14.2.3\",\n    \"react-hook-form\": \"^7.44.2\",\n    \"react-hot-toast\": \"^2.4.1\",\n    \"react-icons\": \"^4.8.0\",\n    \"react-markdown\": \"^8.0.7\",\n    \"react-otp-input\": \"^3.0.2\",\n    \"react-rating-stars-component\": \"^2.2.0\",\n    \"react-redux\": \"^8.0.5\",\n    \"react-router-dom\": \"^6.11.2\",\n    \"react-scripts\": \"5.0.1\",\n    \"react-super-responsive-table\": \"^5.2.1\",\n    \"react-type-animation\": \"^3.0.1\",\n    \"redux-toolkit\": \"^1.1.2\",\n    \"swiper\": \"^9.4.1\",\n    \"video-react\": \"^0.16.0\",\n    \"web-vitals\": \"^2.1.4\"\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git+https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git\"\n  },\n  \"author\": \"Pranay Gupta\",\n  \"bugs\": {\n    \"url\": \"https://github.com/thepranaygupta/react-tailwind-css-starter-pack/issues\"\n  },\n  \"scripts\": {\n    \"start\": \"react-scripts start\",\n    \"build\": \"react-scripts build\",\n    \"eject\": \"react-scripts eject\",\n    \"server\": \"cd server && npm run dev\",\n    \"dev\": \"concurrently -n \\\"client,server\\\" -c \\\"bgBlue,bgYellow\\\" \\\"npm start\\\" \\\"npm run server\\\"\",\n    \"test\":\"jest\"\n  },\n  \"eslintConfig\": {\n    \"extends\": [\n      \"react-app\",\n      \"react-app/jest\"\n    ]\n  },\n  \"browserslist\": {\n    \"production\": [\n      \">0.2%\",\n      \"not dead\",\n      \"not op_mini all\"\n    ],\n    \"development\": [\n      \"last 1 chrome version\",\n      \"last 1 firefox version\",\n      \"last 1 safari version\"\n    ]\n  },\n  \"devDependencies\": {\n    \"tailwindcss\": \"^3.2.7\"\n  }\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "khemssharma/3dPortfolio",
+    "stars": 8,
+    "description": "Portfolio website with seamless animations and 3D models to bring your assets to life!",
+    "files": {
+      "package.json": "{\r\n  \"name\": \"3dfolio\",\r\n  \"private\": true,\r\n  \"version\": \"0.0.0\",\r\n  \"type\": \"module\",\r\n  \"scripts\": {\r\n    \"dev\": \"vite\",\r\n    \"build\": \"vite build\",\r\n    \"preview\": \"vite preview\"\r\n  },\r\n  \"dependencies\": {\r\n    \"@emailjs/browser\": \"^3.10.0\",\r\n    \"@react-three/drei\": \"^9.56.24\",\r\n    \"@react-three/fiber\": \"^8.11.1\",\r\n    \"framer-motion\": \"^9.0.7\",\r\n    \"maath\": \"^0.5.2\",\r\n    \"react\": \"^18.2.0\",\r\n    \"react-dom\": \"^18.2.0\",\r\n    \"react-router-dom\": \"^6.8.1\",\r\n    \"react-tilt\": \"^0.1.4\",\r\n    \"react-vertical-timeline-component\": \"^3.6.0\",\r\n    \"three\": \"^0.149.0\"\r\n  },\r\n  \"devDependencies\": {\r\n    \"@types/react\": \"^18.0.27\",\r\n    \"@types/react-dom\": \"^18.0.10\",\r\n    \"@vitejs/plugin-react\": \"^3.1.0\",\r\n    \"autoprefixer\": \"^10.4.13\",\r\n    \"postcss\": \"^8.4.21\",\r\n    \"tailwindcss\": \"^3.2.6\",\r\n    \"vite\": \"^4.1.0\"\r\n  }\r\n}",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

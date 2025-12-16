@@ -1,0 +1,56 @@
+[
+  {
+    "name": "openbullet/OpenBullet2",
+    "stars": 2199,
+    "description": "OpenBullet reinvented",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": "# This Dockerfile is meant to be run locally to build the OpenBullet2 project\n# for normal usage via docker.\n\n# -------\n# BACKEND\n# -------\nFROM mcr.microsoft.com/dotnet/sdk:8.0-bookworm-slim AS backend\n\nWORKDIR /code\n\nCOPY . .\nRUN dotnet publish OpenBullet2.Web -c Release -o /build/web\n\nWORKDIR /build/web\n\n# Remove all .xml files\n# (we cannot use <GenerateDocumentationFile>false</GenerateDocumentationFile>\n# because we need it for swagger)\nRUN find . -name \"*.xml\" -type f -delete\n\n# Manually copy over the dbip-country-lite.mmdb file from /code to /build\n# since for some reason it doesn't get copied over by the dotnet publish command\nRUN cp /code/OpenBullet2.Web/dbip-country-lite.mmdb /build\n\n# --------\n# FRONTEND\n# --------\nFROM node:20.9.0 AS frontend\n\nWORKDIR /code\n\nCOPY openbullet2-web-client/package.json .\nCOPY openbullet2-web-client/package-lock.json .\nRUN npm install\n\nCOPY openbullet2-web-client .\nRUN npm run build\nRUN mkdir /build && mv dist/* /build\n\n# ---------\n# AGGREGATE\n# ---------\nFROM mcr.microsoft.com/dotnet/aspnet:8.0-bookworm-slim\n\nENV DEBIAN_FRONTEND=noninteractive\n\nWORKDIR /app\n\nCOPY --from=backend /build/web .\nCOPY --from=frontend /build ./wwwroot\nCOPY OpenBullet2.Web/dbip-country-lite.mmdb .\n\n# Install dependencies\nRUN apt-get update -yq && apt-get install -y --no-install-recommends apt-utils\nRUN apt-get upgrade -yq && apt-get install -yq apt-utils curl git nano wget unzip python3 python3-pip\n\n# Setup nodejs\nRUN curl -sL https://deb.nodesource.com/setup_current.x | bash - && apt-get install -yq nodejs build-essential\nRUN echo \"deb http://deb.debian.org/debian/ unstable main contrib non-free\" >> /etc/apt/sources.list.d/debian.list\n\n# Install chromium and firefox for selenium and puppeteer\nRUN apt-get update -yq && apt-get install -y --no-install-recommends firefox chromium\nRUN pip3 install webdrivermanager || true\nRUN webdrivermanager firefox chrome --linkpath /usr/local/bin || true\n\nRUN apt-get clean && rm -rf /var/lib/apt/lists/*\n\nEXPOSE 5000\nCMD [\"dotnet\", \"./OpenBullet2.Web.dll\", \"--urls=http://*:5000\"]\n",
+      "docker-compose.yml": "services:\n    openbullet2:\n        image: 'openbullet/openbullet2:latest'\n        container_name: openbullet2\n        restart: unless-stopped\n        volumes:\n        # Change UserData to the location of where you want UserData folder to be placed\n        # This currently assumes your on linux and want the folder in the same location as the docker-compose file\n        # You can set a windows dir like 'C:/OB2/UserData/:/app/UserData/' but it will always be 'local dir:docker dir'\n            - './UserData:/app/UserData/'\n        ports:\n            - '8069:5000'\n\nvolumes:\n    UserData:\n",
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "openbullet/openbullet",
+    "stars": 1644,
+    "description": "The OpenBullet web testing application.",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "openbullet/CaptchaSharp",
+    "stars": 110,
+    "description": ".NET universal interface for the Web APIs of all major captcha solving services",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

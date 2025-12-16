@@ -1,0 +1,56 @@
+[
+  {
+    "name": "thenewboston-developers/Core",
+    "stars": 40,
+    "description": "Core messaging server.",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": "FROM python:3.10.4-buster\n\nWORKDIR /opt/project\n\nEXPOSE 8000\n\nENV PYTHONDONTWRITEBYTECODE 1\nENV PYTHONUNBUFFERED 1\nENV PYTHONPATH .\nENV CORESETTING_IN_DOCKER true\n\n# TODO(dmu) LOW: Optimize images size by deleting no longer needed files after installation\n# We added build-essential to avoid hard to track issues later if add some package that requires it.\n# Need to remove it later (when we stabilize list of dependencies) for the sake of image size optimization.\nRUN set -xe \\\n    && apt-get update \\\n    && apt-get install build-essential \\\n    && pip install pip==23.0 virtualenvwrapper poetry==1.3.2\n\n# For image build time optimization purposes we install depdendencies here (so changes in the source code will not\n# require dependencies reinstallation)\nCOPY [\"pyproject.toml\", \"poetry.lock\", \"./\"]\nRUN poetry run pip install pip==23.0\n\n# We install dev dependencies to be able to run unittests inside the container\n# TODO(dmu) LOW: Once Docker Hub supports stages builds move dev dependencies to the next stage\nRUN poetry install --no-root\n\nCOPY [\"LICENSE\", \"README.rst\", \"Makefile\", \"conftest.py\", \"./\"]\nCOPY core core\nRUN poetry install  # this installs just the source code itself, since dependencies are installed before\n\nCOPY scripts/dockerized-core-run.sh ./run.sh\nRUN chmod a+x run.sh\n",
+      "docker-compose.yml": "services:\n\n  db:\n    image: postgres:14.2-alpine\n    restart: unless-stopped\n    environment:\n      POSTGRES_DB: core\n      POSTGRES_USER: core\n      POSTGRES_PASSWORD: core\n    volumes:\n      - postgresql-data:/var/lib/postgresql/data\n\n  redis:\n    image: redis:6.2.6-alpine\n    restart: unless-stopped\n    volumes:\n      - redis-data:/var/lib/redis\n\n  core:\n    image: thenewboston/core:latest\n    restart: unless-stopped\n    command: ./run.sh\n    environment:\n      CORESETTING_DATABASES: '{\"default\":{\"HOST\":\"db\"}}'\n      CORESETTING_CHANNEL_LAYERS: '{\"default\":{\"CONFIG\":{\"hosts\":[[\"redis\", 6379]]}}}'\n    env_file: .env\n    depends_on:\n      - db\n      - redis\n\n  core-reverse-proxy:\n    image: thenewboston/core-reverse-proxy:latest\n    restart: unless-stopped\n    ports:\n      - 80:80\n      - 443:443\n    depends_on:\n      - core\n    volumes:\n      - letsencrypt:/etc/letsencrypt\n      - acme-challenge:/usr/share/nginx/html/.well-known/acme-challenge/\n\n  certbot-renew:\n    image: certbot/certbot:v1.26.0\n    restart: unless-stopped\n    entrypoint: /bin/sh\n    # This will let us check certificate expiration every 7 days and renew if needed\n    command: -c 'date; certbot renew; sleep 7d'\n    volumes:\n      - letsencrypt:/etc/letsencrypt\n      - acme-challenge:/usr/share/nginx/html/.well-known/acme-challenge/\n\nvolumes:\n  postgresql-data:\n    driver: local\n  redis-data:\n    driver: local\n  letsencrypt:\n    driver: local\n  acme-challenge:\n    driver: local\n",
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "thenewboston-developers/tnbOS",
+    "stars": 37,
+    "description": "Platform for p2p applications.",
+    "files": {
+      "package.json": "{\n  \"author\": \"\",\n  \"browserslist\": [],\n  \"bugs\": {\n    \"url\": \"https://github.com/thenewboston-developers/tnbOS/issues\"\n  },\n  \"build\": {\n    \"productName\": \"tnbOS\",\n    \"appId\": \"com.thenewboston.tnbOS\",\n    \"asar\": true,\n    \"asarUnpack\": \"**\\\\*.{node,dll}\",\n    \"files\": [\n      \"dist\",\n      \"node_modules\",\n      \"package.json\"\n    ],\n    \"afterSign\": \".erb/scripts/notarize.js\",\n    \"mac\": {\n      \"target\": {\n        \"target\": \"default\",\n        \"arch\": [\n          \"arm64\",\n          \"x64\"\n        ]\n      },\n      \"type\": \"distribution\",\n      \"hardenedRuntime\": true,\n      \"entitlements\": \"assets/entitlements.mac.plist\",\n      \"entitlementsInherit\": \"assets/entitlements.mac.plist\",\n      \"gatekeeperAssess\": false\n    },\n    \"dmg\": {\n      \"contents\": [\n        {\n          \"x\": 130,\n          \"y\": 220\n        },\n        {\n          \"x\": 410,\n          \"y\": 220,\n          \"type\": \"link\",\n          \"path\": \"/Applications\"\n        }\n      ]\n    },\n    \"win\": {\n      \"target\": [\n        \"nsis\"\n      ]\n    },\n    \"linux\": {\n      \"target\": [\n        \"AppImage\"\n      ],\n      \"category\": \"Development\"\n    },\n    \"directories\": {\n      \"app\": \"release/app\",\n      \"buildResources\": \"assets\",\n      \"output\": \"release/build\"\n    },\n    \"extraResources\": [\n      \"./assets/**\"\n    ],\n    \"publish\": {\n      \"provider\": \"github\",\n      \"owner\": \"thenewboston-developers\",\n      \"repo\": \"tnbOS\"\n    }\n  },\n  \"dependencies\": {\n    \"@mdi/js\": \"^7.0.96\",\n    \"@mdi/react\": \"^1.6.1\",\n    \"@reduxjs/toolkit\": \"^1.8.3\",\n    \"axios\": \"^0.27.2\",\n    \"country-list\": \"^2.3.0\",\n    \"electron-debug\": \"^3.2.0\",\n    \"electron-log\": \"^4.4.8\",\n    \"electron-store\": \"^8.1.0\",\n    \"electron-updater\": \"^5.2.3\",\n    \"formik\": \"^2.2.9\",\n    \"lodash-es\": \"^4.17.21\",\n    \"qrcode\": \"^1.5.1\",\n    \"react\": \"^18.2.0\",\n    \"react-copy-to-clipboard\": \"^5.1.0\",\n    \"react-dom\": \"^18.2.0\",\n    \"react-redux\": \"^8.0.2\",\n    \"react-toastify\": \"^9.0.7\",\n    \"recharts\": \"^2.3.2\",\n    \"reconnecting-websocket\": \"^4.4.0\",\n    \"styled-components\": \"^5.3.5\",\n    \"tweetnacl\": \"^1.0.3\",\n    \"yup\": \"^0.32.11\"\n  },\n  \"description\": \"Platform for applications.\",\n  \"devDependencies\": {\n    \"@electron/notarize\": \"^1.2.3\",\n    \"@electron/rebuild\": \"^3.2.10\",\n    \"@pmmmwh/react-refresh-webpack-plugin\": \"^0.5.7\",\n    \"@svgr/webpack\": \"^6.3.1\",\n    \"@teamsupercell/typings-for-css-modules-loader\": \"^2.5.2\",\n    \"@testing-library/jest-dom\": \"^5.16.5\",\n    \"@testing-library/react\": \"^13.3.0\",\n    \"@types/country-list\": \"^2.1.1\",\n    \"@types/jest\": \"^28.1.7\",\n    \"@types/lodash-es\": \"^4.17.6\",\n    \"@types/node\": \"18.7.6\",\n    \"@types/qrcode\": \"^1.4.2\",\n    \"@types/react\": \"^18.0.17\",\n    \"@types/react-copy-to-clipboard\": \"^5.0.4\",\n    \"@types/react-dom\": \"^18.0.6\",\n    \"@types/react-test-renderer\": \"^18.0.0\",\n    \"@types/styled-components\": \"^5.1.25\",\n    \"@types/terser-webpack-plugin\": \"^5.0.4\",\n    \"@types/webpack-bundle-analyzer\": \"^4.4.2\",\n    \"@types/yup\": \"^0.29.14\",\n    \"@typescript-eslint/eslint-plugin\": \"^5\n... (truncated)",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "thenewboston-developers/Cooking-Core",
+    "stars": 31,
+    "description": "Cooking website API.",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": "# Use an official Python runtime as the base image\nFROM python:3.10.4-buster\n\n# Set the working directory in the container\nWORKDIR /opt/project\n\nENV PYTHONDONTWRITEBYTECODE 1\nENV PYTHONUNBUFFERED 1\nENV PYTHONPATH .\nENV COOKING_CORE_SETTING_IN_DOCKER true\n\n# Install dependencies\nRUN set -xe \\\n    && apt-get update \\\n    && apt-get install -y --no-install-recommends build-essential \\\n    && pip install virtualenvwrapper poetry==1.4.2 \\\n    && apt-get clean \\\n    && rm -rf /var/lib/apt/lists/*\n\n# Copy and install Python dependencies\nCOPY [\"poetry.lock\", \"pyproject.toml\", \"./\"]\nRUN poetry install --no-root\n\n# Copy project files\nCOPY [\"README.md\", \"Makefile\", \"./\"]\nCOPY cooking_core cooking_core\nCOPY local local\n\n# Expose the Django development server port (adjust if needed)\nEXPOSE 8000\n\n# Set up the entrypoint\nCOPY scripts/entrypoint.sh /entrypoint.sh\nRUN chmod a+x /entrypoint.sh\n\nENTRYPOINT [\"/entrypoint.sh\"]\n",
+      "docker-compose.yml": "version: '3.9'\n\nservices:\n\n  db:\n    image: postgres:14.2-alpine\n    restart: unless-stopped\n    ports:\n      - '5432:5432'\n    environment:\n      POSTGRES_DB: cooking_core\n      POSTGRES_USER: cooking_core\n      POSTGRES_PASSWORD: cooking_core\n    volumes:\n      - postgresql-data:/var/lib/postgresql/data\n\n  app:\n    build: .\n    restart: unless-stopped\n    ports:\n      - '8000:8000'\n    depends_on:\n      - db\n    environment:\n      COOKING_CORE_SETTING_DATABASES: '{\"default\":{\"HOST\":\"db\"}}'\n      COOKING_CORE_SETTING_LOCAL_SETTINGS_PATH: 'local/settings.prod.py'\n\nvolumes:\n  postgresql-data:\n    driver: local\n",
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "jsjoeio/styled-components-vs-emotion",
+    "stars": 251,
+    "description": "a short doc comparing the popular CSS-in-JS libraries styled-components and emotion",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "jsjoeio/twitter-stripe-mrr",
+    "stars": 109,
+    "description": "A Node script that calculates your total monthly revenue in Stripe and updates your Twitter bio",
+    "files": {
+      "package.json": "{\n  \"name\": \"twitter-banner-node\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"dryRun\": \"node index.js --dry-run\",\n    \"start\": \"node index.js\"\n  },\n  \"keywords\": [],\n  \"author\": \"Joe Previte\",\n  \"license\": \"MIT\",\n  \"dependencies\": {\n    \"date-fns\": \"^2.19.0\",\n    \"dotenv\": \"^8.2.0\",\n    \"node-telegram-bot-api\": \"^0.52.0\",\n    \"stripe\": \"^8.139.0\",\n    \"twitter\": \"^1.7.1\"\n  }\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "jsjoeio/mentored.dev",
+    "stars": 66,
+    "description": "A gamified learning platform to help you become a web developer",
+    "files": {
+      "package.json": "{\n  \"name\": \"mentored-dev\",\n  \"description\": \"a platform for learning how to code\",\n  \"version\": \"0.0.1\",\n  \"author\": \"JavaScript Joe <jjprevite@gmail.com>\",\n  \"dependencies\": {\n    \"@types/jest\": \"^24.0.11\",\n    \"@types/node\": \"^11.10.4\",\n    \"@types/react\": \"^16.8.6\",\n    \"@types/react-dom\": \"^16.8.4\",\n    \"apollo-boost\": \"^0.3.1\",\n    \"apollo-client\": \"^2.6.2\",\n    \"apollo-server-lambda\": \"^2.6.7\",\n    \"babel-plugin-styled-components\": \"^1.10.0\",\n    \"gatsby\": \"^2.1.19\",\n    \"gatsby-plugin-google-gtag\": \"^1.1.3\",\n    \"gatsby-plugin-layout\": \"^1.0.13\",\n    \"gatsby-plugin-manifest\": \"^2.0.24\",\n    \"gatsby-plugin-react-helmet\": \"^3.0.7\",\n    \"gatsby-plugin-styled-components\": \"^3.0.6\",\n    \"gatsby-plugin-typescript\": \"^2.0.9\",\n    \"gatsby-plugin-typography\": \"^2.2.7\",\n    \"graphql\": \"^14.4.2\",\n    \"onegraph-auth\": \"^1.2.23\",\n    \"react\": \"^16.8.3\",\n    \"react-apollo\": \"^2.5.6\",\n    \"react-apollo-hooks\": \"^0.4.5\",\n    \"react-dom\": \"^16.8.3\",\n    \"react-helmet\": \"^5.2.0\",\n    \"react-keyframes\": \"^0.2.3\",\n    \"react-typography\": \"^0.16.18\",\n    \"styled-components\": \"^4.1.3\",\n    \"typography\": \"^0.16.18\"\n  },\n  \"keywords\": [\n    \"gatsby, typescript\"\n  ],\n  \"license\": \"MIT\",\n  \"main\": \"n/a\",\n  \"scripts\": {\n    \"build\": \"gatsby build\",\n    \"build:lambda\": \"netlify-lambda build src/lambda\",\n    \"start:lambda\": \"netlify-lambda serve src/lambda\",\n    \"dev\": \"gatsby develop\",\n    \"test\": \"jest\",\n    \"type-check\": \"tsc --noEmit\",\n    \"type-check:watch\": \"tsc --noEmit --watch\"\n  },\n  \"devDependencies\": {\n    \"@babel/cli\": \"^7.2.3\",\n    \"@babel/core\": \"^7.4.0\",\n    \"@babel/plugin-proposal-class-properties\": \"^7.4.0\",\n    \"@babel/plugin-proposal-object-rest-spread\": \"^7.4.0\",\n    \"@babel/preset-env\": \"^7.4.1\",\n    \"@babel/preset-typescript\": \"^7.3.2\",\n    \"@testing-library/react\": \"^8.0.1\",\n    \"@types/styled-components\": \"^4.1.12\",\n    \"@types/typography\": \"^0.16.2\",\n    \"babel-jest\": \"^24.7.1\",\n    \"babel-preset-gatsby\": \"^0.1.11\",\n    \"dotenv\": \"^7.0.0\",\n    \"eslint\": \"^5.16.0\",\n    \"eslint-plugin-graphql\": \"^3.0.3\",\n    \"eslint-plugin-typescript\": \"^0.14.0\",\n    \"identity-obj-proxy\": \"^3.0.0\",\n    \"jest\": \"^24.7.1\",\n    \"jest-dom\": \"^3.1.3\",\n    \"netlify-lambda\": \"^1.5.0\",\n    \"standard\": \"^12.0.1\",\n    \"ts-jest\": \"^24.0.2\",\n    \"typescript\": \"^3.3.3\",\n    \"typescript-eslint-parser\": \"^22.0.0\"\n  },\n  \"standard\": {\n    \"parser\": \"typescript-eslint-parser\",\n    \"plugins\": [\n      \"typescript\"\n    ]\n  }\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "abruzzi/graphviz-scripts",
+    "stars": 108,
+    "description": "Some dot files for graphviz",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "abruzzi/3-pages-in-3-weeks",
+    "stars": 62,
+    "description": "3 Pages In 3 Weeks Workshop",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "abruzzi/bookmarks-frontend",
+    "stars": 59,
+    "description": "A bookmark application, front end part",
+    "files": {
+      "package.json": "{\n  \"name\": \"bookmarks-frontend\",\n  \"version\": \"1.0.0\",\n  \"description\": \"A bookmark application, frontend part\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"test\": \"npm test\"\n  },\n  \"browserify\": {\n    \"transform\": [\n      \"hbsfy\"\n    ]\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"https://github.com/abruzzi/bookmarks-frontend.git\"\n  },\n  \"keywords\": [\n    \"bookmarks\",\n    \"frontend\",\n    \"soc\"\n  ],\n  \"author\": \"Qiu Juntao\",\n  \"license\": \"MIT\",\n  \"bugs\": {\n    \"url\": \"https://github.com/abruzzi/bookmarks-frontend/issues\"\n  },\n  \"devDependencies\": {\n    \"backbone\": \"^1.2.1\",\n    \"browserify\": \"^10.2.4\",\n    \"gulp\": \"^3.9.0\",\n    \"gulp-concat\": \"^2.5.2\",\n    \"gulp-connect\": \"^2.2.0\",\n    \"gulp-less\": \"^3.0.5\",\n    \"gulp-livereload\": \"^3.8.1\",\n    \"gulp-minify-css\": \"^1.1.6\",\n    \"gulp-replace\": \"^0.5.4\",\n    \"gulp-uglify\": \"^1.2.0\",\n    \"handlebars\": \"^3.0.3\",\n    \"hbsfy\": \"^2.2.1\",\n    \"jquery\": \"^2.1.4\",\n    \"karma\": \"^0.12.37\",\n    \"karma-browserify\": \"^4.4.2\",\n    \"karma-jasmine\": \"^0.3.6\",\n    \"karma-phantomjs-launcher\": \"^0.2.3\",\n    \"lodash\": \"^3.9.3\",\n    \"underscore\": \"^1.8.3\",\n    \"vinyl-source-stream\": \"^1.1.0\",\n    \"yslow\": \"^3.1.0\"\n  }\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": "source 'https://ruby.taobao.org'\n\ngem 'sinatra'\n\ngroup :test do\n\tgem 'rspec'\n    gem 'capybara'\n    gem 'poltergeist'\n\tgem 'site_prism'\nend",
+      "Dockerfile": "FROM python:2.7\n\nRUN mkdir /webapp\nCOPY ./start.sh /webapp/start.sh\nCOPY ./public /webapp\n\nENV PORT 8080\n\nWORKDIR /webapp\nCMD /webapp/start.sh",
+      "docker-compose.yml": "app:\n  build: .\n  ports:\n    - 8080:8080\n  volumes:\n    - .:/web\n  working_dir: /web\n  entrypoint: /web/start.sh\n",
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

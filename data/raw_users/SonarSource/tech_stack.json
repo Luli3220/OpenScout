@@ -1,0 +1,56 @@
+[
+  {
+    "name": "SonarSource/sonarqube",
+    "stars": 10104,
+    "description": "Continuous Inspection",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "SonarSource/docker-sonarqube",
+    "stars": 1512,
+    "description": ":whale: SonarQube in Docker",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "SonarSource/eslint-plugin-sonarjs",
+    "stars": 1199,
+    "description": "SonarJS rules for ESLint",
+    "files": {
+      "package.json": "{\n  \"name\": \"eslint-plugin-sonarjs\",\n  \"version\": \"1.0.4\",\n  \"description\": \"SonarJS rules for ESLint\",\n  \"main\": \"lib/src/index.js\",\n  \"types\": \"lib/src/index.d.ts\",\n  \"repository\": \"git@github.com:SonarSource/eslint-plugin-sonarjs.git\",\n  \"license\": \"LGPL-3.0-only\",\n  \"keywords\": [\n    \"sonarjs\",\n    \"eslint\",\n    \"eslintplugin\"\n  ],\n  \"bugs\": {\n    \"url\": \"https://github.com/SonarSource/eslint-plugin-sonarjs/issues\"\n  },\n  \"homepage\": \"https://github.com/SonarSource/eslint-plugin-sonarjs\",\n  \"engines\": {\n    \"node\": \">=16\"\n  },\n  \"files\": [\n    \"lib\",\n    \"LICENSE\"\n  ],\n  \"scripts\": {\n    \"build\": \"rimraf lib && tsc -d -p src\",\n    \"test\": \"jest\",\n    \"ruling\": \"ts-node --files ruling/index.ts\",\n    \"precommit\": \"pretty-quick --staged\",\n    \"prepare\": \"husky install .husky\",\n    \"prepack\": \"npm run build\",\n    \"format\": \"prettier --write .\",\n    \"check-format\": \"prettier --list-different .\"\n  },\n  \"peerDependencies\": {\n    \"eslint\": \"^8.0.0 || ^9.0.0\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"7.24.4\",\n    \"@babel/eslint-parser\": \"7.24.1\",\n    \"@babel/plugin-proposal-export-default-from\": \"7.24.1\",\n    \"@babel/plugin-proposal-function-bind\": \"7.24.1\",\n    \"@babel/preset-env\": \"7.24.4\",\n    \"@babel/preset-flow\": \"7.24.1\",\n    \"@babel/preset-react\": \"7.24.1\",\n    \"@types/eslint\": \"8.56.10\",\n    \"@types/eslint-ruling\": \"npm:@types/eslint@^8.56.10\",\n    \"@types/jest\": \"29.5.12\",\n    \"@types/lodash\": \"4.17.0\",\n    \"@types/minimist\": \"1.2.5\",\n    \"@types/node\": \"20.12.7\",\n    \"@typescript-eslint/parser\": \"7.7.1\",\n    \"@typescript-eslint/rule-tester\": \"7.7.1\",\n    \"@typescript-eslint/utils\": \"7.7.1\",\n    \"eslint\": \"8.57.0\",\n    \"eslint-config-prettier\": \"9.1.0\",\n    \"eslint-plugin-import\": \"2.29.1\",\n    \"eslint-plugin-notice\": \"0.9.10\",\n    \"eslint-plugin-sonarjs\": \"0.25.1\",\n    \"eslint-ruling\": \"npm:eslint@8.57.0\",\n    \"husky\": \"9.0.11\",\n    \"jest\": \"29.7.0\",\n    \"jest-sonar-reporter\": \"2.0.0\",\n    \"lodash\": \"4.17.21\",\n    \"minimist\": \"1.2.8\",\n    \"prettier\": \"3.2.5\",\n    \"pretty-quick\": \"4.0.0\",\n    \"rimraf\": \"5.0.5\",\n    \"semver\": \"^7.6.0\",\n    \"ts-jest\": \"29.1.2\",\n    \"ts-node\": \"10.9.2\",\n    \"typescript\": \"5.4.5\"\n  },\n  \"prettier\": {\n    \"printWidth\": 100,\n    \"trailingComma\": \"all\",\n    \"singleQuote\": true,\n    \"arrowParens\": \"avoid\",\n    \"endOfLine\": \"lf\"\n  },\n  \"jest\": {\n    \"roots\": [\n      \"tests\",\n      \"src\"\n    ],\n    \"collectCoverageFrom\": [\n      \"src/**/*.ts\"\n    ],\n    \"moduleFileExtensions\": [\n      \"ts\",\n      \"js\",\n      \"json\"\n    ],\n    \"transform\": {\n      \"^.+\\\\.ts$\": [\n        \"ts-jest\",\n        {\n          \"babelConfig\": false\n        }\n      ]\n    },\n    \"testMatch\": [\n      \"<rootDir>/tests/**/*.test.ts\"\n    ]\n  }\n}\n",
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

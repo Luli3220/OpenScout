@@ -1,0 +1,56 @@
+[
+  {
+    "name": "LilithWittmann/VectorTileExporter",
+    "stars": 80,
+    "description": "Just some scripts to export vector tiles to geojson.",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": "certifi==2020.12.5\nchardet==4.0.0\nfuture==0.18.2\nidna==2.10\nmapbox-vector-tile==1.2.0\nprotobuf==3.15.7\npyclipper==1.2.1\nrequests==2.25.1\nShapely==1.7.1\nsix==1.15.0\nurllib3==1.26.4",
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "LilithWittmann/pepper-tablet-jailbreak",
+    "stars": 33,
+    "description": "无",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "LilithWittmann/jugendschutzprogramm",
+    "stars": 19,
+    "description": "无",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "aniketsingh0104/LinkedInAutoConnect",
+    "stars": 7,
+    "description": "An automated script to accept connection requests on LinkedIn",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": "selenium",
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "aniketsingh0104/Personalised-web-search-with-NLP",
+    "stars": 6,
+    "description": "Personalized Web search Engine. Based on the user profile and group profile personalization. Written in python.",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  },
+  {
+    "name": "aniketsingh0104/browser-control",
+    "stars": 5,
+    "description": "Using this you can remotely control browser - open, close, search, data cleanup for firefox and chrome by just hitting an API endpoint.",
+    "files": {
+      "package.json": null,
+      "go.mod": null,
+      "pom.xml": null,
+      "requirements.txt": null,
+      "Cargo.toml": null,
+      "Gemfile": null,
+      "Dockerfile": null,
+      "docker-compose.yml": null,
+      ".github/workflows/ci.yml": null,
+      "k8s.yaml": null,
+      "helm/Chart.yaml": null
+    }
+  }
+]

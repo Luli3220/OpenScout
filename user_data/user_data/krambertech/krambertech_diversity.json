@@ -1,0 +1,26 @@
+{
+  "username": "krambertech",
+  "raw_metrics": {
+    "distinct_languages": [
+      "JavaScript",
+      "HTML",
+      "TypeScript",
+      "ApacheConf",
+      "CSS"
+    ],
+    "distinct_topics": [
+      "typescript",
+      "apollo",
+      "graphql-code-generator",
+      "apollo-client",
+      "react",
+      "graphql",
+      "webpack",
+      "flux-architecture"
+    ],
+    "language_count": 5,
+    "topic_count": 8,
+    "total_owned_repos": 27
+  },
+  "diversity_score_100": 36.4
+}

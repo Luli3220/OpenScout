@@ -1,0 +1,15 @@
+{
+  "username": "KpLi0rn",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Python",
+      "Java",
+      "Go"
+    ],
+    "distinct_topics": [],
+    "language_count": 3,
+    "topic_count": 0,
+    "total_owned_repos": 18
+  },
+  "diversity_score_100": 18.0
+}

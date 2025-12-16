@@ -1,0 +1,28 @@
+{
+  "username": "picturepan2",
+  "raw_metrics": {
+    "distinct_languages": [
+      "WebAssembly",
+      "SCSS",
+      "HTML",
+      "CSS"
+    ],
+    "distinct_topics": [
+      "wordpress",
+      "lightweight",
+      "responsive-grid",
+      "responsive",
+      "testtool",
+      "css",
+      "spectre",
+      "flexbox",
+      "css-framework",
+      "modern",
+      "utilities"
+    ],
+    "language_count": 4,
+    "topic_count": 11,
+    "total_owned_repos": 31
+  },
+  "diversity_score_100": 32.8
+}

@@ -1,0 +1,19 @@
+{
+  "username": "GreatSuperstar",
+  "raw_metrics": {
+    "distinct_languages": [
+      "TypeScript",
+      "JavaScript",
+      "HTML",
+      "Solidity"
+    ],
+    "distinct_topics": [
+      "config",
+      "github-config"
+    ],
+    "language_count": 4,
+    "topic_count": 2,
+    "total_owned_repos": 15
+  },
+  "diversity_score_100": 25.6
+}

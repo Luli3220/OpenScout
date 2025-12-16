@@ -1,0 +1,19 @@
+{
+  "username": "JinSSJ3",
+  "raw_metrics": {
+    "distinct_languages": [
+      "C++",
+      "TypeScript",
+      "JavaScript",
+      "SCSS"
+    ],
+    "distinct_topics": [
+      "js",
+      "css"
+    ],
+    "language_count": 4,
+    "topic_count": 2,
+    "total_owned_repos": 11
+  },
+  "diversity_score_100": 25.6
+}

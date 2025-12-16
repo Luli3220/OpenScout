@@ -1,0 +1,26 @@
+{
+  "username": "gsathya",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Java",
+      "Shell",
+      "JavaScript",
+      "Go",
+      "Emacs Lisp",
+      "Nunjucks",
+      "Python",
+      "Clojure",
+      "Lua",
+      "TypeScript",
+      "Ruby",
+      "C",
+      "TeX",
+      "CSS"
+    ],
+    "distinct_topics": [],
+    "language_count": 14,
+    "topic_count": 0,
+    "total_owned_repos": 55
+  },
+  "diversity_score_100": 60.0
+}

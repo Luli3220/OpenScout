@@ -1,0 +1,47 @@
+{
+  "username": "merces",
+  "raw_metrics": {
+    "distinct_languages": [
+      "C++",
+      "Shell",
+      "Assembly",
+      "Visual Basic",
+      "Python",
+      "Rust",
+      "C",
+      "CSS"
+    ],
+    "distinct_topics": [
+      "openldap",
+      "command-line-tool",
+      "ppolicy",
+      "command-line",
+      "ida-plugin",
+      "sandbox",
+      "cryptography",
+      "reverse-engineering",
+      "osint",
+      "hexeditor",
+      "idapython",
+      "hexdumper",
+      "github",
+      "cli",
+      "git",
+      "compression",
+      "idapro",
+      "python",
+      "oneliners",
+      "hem",
+      "simulator",
+      "slapd",
+      "forensic-analysis",
+      "bash-hacks",
+      "malware-analysis",
+      "hiew"
+    ],
+    "language_count": 8,
+    "topic_count": 26,
+    "total_owned_repos": 20
+  },
+  "diversity_score_100": 68.8
+}

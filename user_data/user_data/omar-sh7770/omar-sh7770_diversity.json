@@ -1,0 +1,23 @@
+{
+  "username": "omar-sh7770",
+  "raw_metrics": {
+    "distinct_languages": [
+      "SCSS",
+      "Vue",
+      "JavaScript",
+      "PHP",
+      "HTML",
+      "C#",
+      "TypeScript",
+      "CSS"
+    ],
+    "distinct_topics": [
+      "config",
+      "github-config"
+    ],
+    "language_count": 8,
+    "topic_count": 2,
+    "total_owned_repos": 45
+  },
+  "diversity_score_100": 49.6
+}

@@ -1,0 +1,31 @@
+{
+  "username": "segiddins",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Shell",
+      "SCSS",
+      "Jupyter Notebook",
+      "Brainfuck",
+      "Objective-C",
+      "Go",
+      "Assembly",
+      "Starlark",
+      "TypeScript",
+      "Rust",
+      "Swift",
+      "Ruby",
+      "C"
+    ],
+    "distinct_topics": [
+      "ios",
+      "cocoapods-plugin",
+      "swift-package-manager",
+      "cocoapods",
+      "xcode"
+    ],
+    "language_count": 13,
+    "topic_count": 5,
+    "total_owned_repos": 93
+  },
+  "diversity_score_100": 64.0
+}

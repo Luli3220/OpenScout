@@ -1,0 +1,36 @@
+{
+  "username": "memN0ps",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Rust"
+    ],
+    "distinct_topics": [
+      "dll",
+      "injection",
+      "virtualization",
+      "hypervisor",
+      "srdi",
+      "ring0",
+      "position-independent-code",
+      "ring-1",
+      "rust",
+      "intel",
+      "vt-x",
+      "ring-2",
+      "blue-pill",
+      "rootkit",
+      "kernel",
+      "windows",
+      "bootkit",
+      "uefi",
+      "reflective",
+      "pic",
+      "shellcode",
+      "loader"
+    ],
+    "language_count": 1,
+    "topic_count": 22,
+    "total_owned_repos": 5
+  },
+  "diversity_score_100": 23.6
+}

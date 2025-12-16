@@ -1,0 +1,16 @@
+{
+  "username": "henrymorgen",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Java",
+      "JavaScript",
+      "HTML",
+      "Groovy"
+    ],
+    "distinct_topics": [],
+    "language_count": 4,
+    "topic_count": 0,
+    "total_owned_repos": 30
+  },
+  "diversity_score_100": 24.0
+}

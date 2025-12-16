@@ -1,0 +1,38 @@
+{
+  "username": "peggyrayzis",
+  "raw_metrics": {
+    "distinct_languages": [
+      "TypeScript",
+      "JavaScript",
+      "HTML"
+    ],
+    "distinct_topics": [
+      "spectacle",
+      "data-visualization",
+      "javascript",
+      "victory",
+      "java",
+      "apollo-server",
+      "react-native",
+      "node",
+      "objective-c",
+      "cli",
+      "universal-components",
+      "kotlin",
+      "charts",
+      "react",
+      "native-module",
+      "bridging",
+      "apollo",
+      "react-native-web",
+      "apollo-client",
+      "swift",
+      "graphql",
+      "bridge"
+    ],
+    "language_count": 3,
+    "topic_count": 22,
+    "total_owned_repos": 30
+  },
+  "diversity_score_100": 35.6
+}

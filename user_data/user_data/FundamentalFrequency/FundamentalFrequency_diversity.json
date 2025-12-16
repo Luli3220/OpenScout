@@ -1,0 +1,16 @@
+{
+  "username": "FundamentalFrequency",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Python",
+      "Dockerfile",
+      "C++",
+      "OpenSCAD"
+    ],
+    "distinct_topics": [],
+    "language_count": 4,
+    "topic_count": 0,
+    "total_owned_repos": 11
+  },
+  "diversity_score_100": 24.0
+}

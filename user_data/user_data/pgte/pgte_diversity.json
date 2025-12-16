@@ -1,0 +1,21 @@
+{
+  "username": "pgte",
+  "raw_metrics": {
+    "distinct_languages": [
+      "C++",
+      "JavaScript",
+      "Go",
+      "HTML",
+      "Kotlin",
+      "Astro",
+      "Ruby",
+      "Processing",
+      "CSS"
+    ],
+    "distinct_topics": [],
+    "language_count": 9,
+    "topic_count": 0,
+    "total_owned_repos": 141
+  },
+  "diversity_score_100": 54.0
+}

@@ -1,0 +1,23 @@
+{
+  "username": "octaviovillegas",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Java",
+      "Hack",
+      "JavaScript",
+      "PHP",
+      "HTML",
+      "C#",
+      "Python",
+      "TypeScript",
+      "Kotlin",
+      "C",
+      "CSS"
+    ],
+    "distinct_topics": [],
+    "language_count": 11,
+    "topic_count": 0,
+    "total_owned_repos": 90
+  },
+  "diversity_score_100": 60.0
+}

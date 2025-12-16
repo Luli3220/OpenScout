@@ -1,0 +1,28 @@
+{
+  "username": "Zizaco",
+  "raw_metrics": {
+    "distinct_languages": [
+      "JavaScript",
+      "Go",
+      "PHP",
+      "Python",
+      "TypeScript",
+      "Rust",
+      "CSS"
+    ],
+    "distinct_topics": [
+      "tech-demo",
+      "sql",
+      "procedural-generation",
+      "cli",
+      "webgl",
+      "vue",
+      "babylonjs",
+      "csv"
+    ],
+    "language_count": 7,
+    "topic_count": 8,
+    "total_owned_repos": 28
+  },
+  "diversity_score_100": 48.4
+}

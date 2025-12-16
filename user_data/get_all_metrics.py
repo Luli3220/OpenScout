@@ -1,3 +1,4 @@
+import math
 import requests
 import json
 import os
@@ -116,7 +117,7 @@ def calculate_influence_score(metrics: Dict[str, Any]) -> float:
     score = (norm_stars * 0.60) + (norm_fork_issue * 0.40)
     return round(score * 100, 2)
 
-# --- 3.2 贡献度 (Contribution) & 3.3 维护力 (Maintainership) & 3.4 活跃度 (Engagement) ---
+# --- 3.2 贡献度 (Contribution) & 3.3 维护力 (Maintainership) & 3.4 活跃度 (Engagement) & 3.6 代码能力 (Code Capability) ---
 # 这三个维度都依赖 Events API，为了节省请求，我们合并获取
 def get_events_metrics(client: GitHubAPIClient, username: str, user_repos: Set[str]) -> Dict[str, Any]:
     metrics = {
@@ -125,7 +126,10 @@ def get_events_metrics(client: GitHubAPIClient, username: str, user_repos: Set[s
         "merged_external_pr_count_approx": 0,
         "issue_comment_count": 0,
         "pr_review_comment_count": 0,
-        "events_fetched": 0
+        "events_fetched": 0,
+        # New for Code Capability
+        "merged_prs_with_stars": [], # List of star counts for merged external PRs
+        "total_closed_external_prs": 0 # For merge rate
     }
     
     page = 1
@@ -147,8 +151,18 @@ def get_events_metrics(client: GitHubAPIClient, username: str, user_repos: Set[s
             if evt_type == 'PullRequestEvent':
                 # Check for External PR
                 is_external = repo_name and repo_name not in user_repos and not repo_name.startswith(f"{username}/")
-                if is_external and payload.get('action') == 'closed' and payload.get('pull_request', {}).get('merged') == True:
-                    metrics["accepted_external_prs"] += 1
+                
+                if is_external and payload.get('action') == 'closed':
+                    metrics["total_closed_external_prs"] += 1
+                    if payload.get('pull_request', {}).get('merged') == True:
+                        metrics["accepted_external_prs"] += 1
+                        
+                        # Get Repo Stars for Code Capability
+                        try:
+                            stars = payload.get('pull_request', {}).get('base', {}).get('repo', {}).get('stargazers_count', 0)
+                            metrics["merged_prs_with_stars"].append(stars)
+                        except:
+                            pass
                 
                 # Maintainership: Merging others' PRs
                 # 简化逻辑：如果在自己的仓库关闭并合并了别人的PR
@@ -239,6 +253,20 @@ def calculate_diversity_score(metrics: Dict[str, Any]) -> float:
     norm_topic = min(1.0, topic_count / MAX_TOPICS)
     return round(((norm_lang * 0.60) + (norm_topic * 0.40)) * 100, 2)
 
+# --- 3.6 代码能力 (Code Capability) ---
+def calculate_code_capability_score(metrics: Dict[str, Any]) -> float:
+    merged_prs_stars = metrics.get('merged_prs_with_stars', [])
+    
+    # Core Contribution Value: sum(ln(stars + 1))
+    core_value = sum(math.log1p(stars) for stars in merged_prs_stars)
+    
+    # Just for 0-100 normalization example (this logic is actually handled better in calculate_radar.py)
+    # Let's assume a "good" value is around 50 (e.g. 10 PRs to 150-star repos -> 10 * 5 = 50)
+    MAX_VALUE = 100
+    norm_value = min(1.0, core_value / MAX_VALUE)
+    
+    return round(norm_value * 100, 2)
+
 # -- 4. 主流程 --
 def process_user(username: str, client: GitHubAPIClient):
     user_dir = os.path.join(BASE_USER_DATA_DIR, username)
@@ -251,7 +279,8 @@ def process_user(username: str, client: GitHubAPIClient):
         f"{username}_contribution.json",
         f"{username}_maintainership.json",
         f"{username}_engagement.json",
-        f"{username}_diversity.json"
+        f"{username}_diversity.json",
+        f"{username}_code_capability.json"
     ]
     
     if not FORCE_UPDATE and all(os.path.exists(os.path.join(user_dir, f)) for f in files):
@@ -286,6 +315,9 @@ def process_user(username: str, client: GitHubAPIClient):
     maint_score = calculate_maintainership_score(evt_metrics)
     eng_score = calculate_engagement_score(evt_metrics)
     
+    # Code Capability
+    code_score = calculate_code_capability_score(evt_metrics)
+    
     # Diversity
     div_metrics = get_diversity_metrics(client, username)
     div_score = calculate_diversity_score(div_metrics)
@@ -295,6 +327,7 @@ def process_user(username: str, client: GitHubAPIClient):
     save_data(username, "contribution", evt_metrics, cont_score) # Reuse event metrics subset
     save_data(username, "maintainership", evt_metrics, maint_score) # Reuse event metrics subset
     save_data(username, "engagement", evt_metrics, eng_score) # Reuse event metrics subset
+    save_data(username, "code_capability", evt_metrics, code_score) # Reuse event metrics subset
     save_data(username, "diversity", div_metrics, div_score)
 
 def save_data(username, dimension, metrics, score):

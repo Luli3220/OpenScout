@@ -1,0 +1,41 @@
+{
+  "username": "a327ex",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Lua",
+      "C#"
+    ],
+    "distinct_topics": [
+      "indiedev",
+      "timer",
+      "gamepad",
+      "2d",
+      "big5",
+      "camera",
+      "lua",
+      "box2d",
+      "input",
+      "anime",
+      "love2d",
+      "terminal-game",
+      "retro",
+      "tween",
+      "suika",
+      "emoji",
+      "indie",
+      "tutorial",
+      "gamedev",
+      "rpg",
+      "programming",
+      "shooter",
+      "physics",
+      "game-development",
+      "game",
+      "terminal"
+    ],
+    "language_count": 2,
+    "topic_count": 26,
+    "total_owned_repos": 19
+  },
+  "diversity_score_100": 32.8
+}

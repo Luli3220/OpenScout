@@ -1,0 +1,32 @@
+{
+  "username": "abruzzi",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Java",
+      "Shell",
+      "Haskell",
+      "Jupyter Notebook",
+      "MDX",
+      "SCSS",
+      "JavaScript",
+      "VimL",
+      "HTML",
+      "Python",
+      "TypeScript",
+      "Scala",
+      "Swift",
+      "Ruby",
+      "Cucumber",
+      "Makefile",
+      "CSS"
+    ],
+    "distinct_topics": [
+      "config",
+      "github-config"
+    ],
+    "language_count": 17,
+    "topic_count": 2,
+    "total_owned_repos": 234
+  },
+  "diversity_score_100": 61.6
+}

@@ -1,0 +1,25 @@
+{
+  "username": "Icenowy",
+  "raw_metrics": {
+    "distinct_languages": [
+      "C++",
+      "Shell",
+      "Java",
+      "Vala",
+      "Tcl",
+      "Makefile",
+      "PHP",
+      "Python",
+      "TypeScript",
+      "Verilog",
+      "Prolog",
+      "C",
+      "TeX"
+    ],
+    "distinct_topics": [],
+    "language_count": 13,
+    "topic_count": 0,
+    "total_owned_repos": 132
+  },
+  "diversity_score_100": 60.0
+}

@@ -1,0 +1,23 @@
+{
+  "username": "clockworkpi",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Shell",
+      "Go",
+      "Assembly",
+      "HTML",
+      "Python",
+      "Lua",
+      "C"
+    ],
+    "distinct_topics": [
+      "patch",
+      "osimage",
+      "kernel"
+    ],
+    "language_count": 7,
+    "topic_count": 3,
+    "total_owned_repos": 22
+  },
+  "diversity_score_100": 44.4
+}

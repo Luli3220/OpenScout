@@ -33,7 +33,11 @@ def get_raw_metrics(username):
         # Engagement
         "issue_comments": 0, "review_comments": 0,
         # Diversity
-        "languages": 0, "topics": 0
+        "languages": 0, "topics": 0,
+        # Code Capability
+        "merged_prs_stars": [],
+        "merged_prs_count": 0,
+        "closed_prs_count": 0
     }
 
     # Load Influence
@@ -71,6 +75,14 @@ def get_raw_metrics(username):
         metrics["languages"] = rm.get("language_count", 0)
         metrics["topics"] = rm.get("topic_count", 0)
 
+    # Load Code Capability
+    code_data = load_json(os.path.join(user_dir, f"{username}_code_capability.json"))
+    if code_data and "raw_metrics" in code_data:
+        rm = code_data["raw_metrics"]
+        metrics["merged_prs_stars"] = rm.get("merged_prs_with_stars", [])
+        metrics["merged_prs_count"] = rm.get("accepted_external_prs", 0)
+        metrics["closed_prs_count"] = rm.get("total_closed_external_prs", 0)
+
     return metrics
 
 def calculate_raw_scores(metrics):
@@ -90,6 +102,11 @@ def calculate_raw_scores(metrics):
     
     # Diversity: (Languages * 0.6) + (Topics * 0.4)
     scores["diversity"] = (metrics["languages"] * 0.6) + (metrics["topics"] * 0.4)
+    
+    # Code Capability: Core Contribution Value = sum(ln(stars + 1))
+    # Note: We prioritize "value" over "rate" as per calculation.md
+    core_value = sum(math.log1p(stars) for stars in metrics["merged_prs_stars"])
+    scores["code_capability"] = core_value
     
     return scores
 
@@ -115,7 +132,8 @@ def main():
         "contribution": [],
         "maintainership": [],
         "engagement": [],
-        "diversity": []
+        "diversity": [],
+        "code_capability": []
     }
     
     for user in users:
@@ -156,7 +174,7 @@ def main():
     # 3. Calculate Final Scores
     final_output = {}
     
-    dimensions_order = ["influence", "contribution", "maintainership", "engagement", "diversity"]
+    dimensions_order = ["influence", "contribution", "maintainership", "engagement", "diversity", "code_capability"]
     
     for user in users:
         raw_scores = user_raw_scores[user]
@@ -186,7 +204,7 @@ def main():
             user_final_scores.append(round(score, 1))
             
         # Add 6th dimension (empty/zero)
-        user_final_scores.append(0)
+        # user_final_scores.append(0)
         
         final_output[user] = user_final_scores
 

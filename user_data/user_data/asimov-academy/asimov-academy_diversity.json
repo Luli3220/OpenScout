@@ -1,0 +1,16 @@
+{
+  "username": "asimov-academy",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Python",
+      "Shell",
+      "Jupyter Notebook",
+      "HTML"
+    ],
+    "distinct_topics": [],
+    "language_count": 4,
+    "topic_count": 0,
+    "total_owned_repos": 41
+  },
+  "diversity_score_100": 24.0
+}

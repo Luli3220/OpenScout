@@ -1,0 +1,13 @@
+{
+  "username": "hushnymous",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Java"
+    ],
+    "distinct_topics": [],
+    "language_count": 1,
+    "topic_count": 0,
+    "total_owned_repos": 2
+  },
+  "diversity_score_100": 6.0
+}

@@ -1,0 +1,20 @@
+{
+  "username": "conal",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Haskell",
+      "TeX",
+      "Perl",
+      "JavaScript",
+      "HTML",
+      "Emacs Lisp",
+      "Agda",
+      "Makefile"
+    ],
+    "distinct_topics": [],
+    "language_count": 8,
+    "topic_count": 0,
+    "total_owned_repos": 94
+  },
+  "diversity_score_100": 48.0
+}

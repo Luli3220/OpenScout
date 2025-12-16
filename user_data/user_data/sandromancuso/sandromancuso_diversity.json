@@ -1,0 +1,23 @@
+{
+  "username": "sandromancuso",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Java",
+      "Shell",
+      "JavaScript",
+      "PHP",
+      "Groovy",
+      "C#",
+      "Lua",
+      "Scala",
+      "Ruby",
+      "Makefile",
+      "CSS"
+    ],
+    "distinct_topics": [],
+    "language_count": 11,
+    "topic_count": 0,
+    "total_owned_repos": 51
+  },
+  "diversity_score_100": 60.0
+}

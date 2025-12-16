@@ -1,0 +1,26 @@
+{
+  "username": "cyberglot",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Haskell",
+      "Racket",
+      "Emacs Lisp",
+      "Lean",
+      "Nix",
+      "Rust",
+      "Agda",
+      "CSS"
+    ],
+    "distinct_topics": [
+      "haskell-library",
+      "javascript",
+      "idris2-ecosystem",
+      "spacemacs",
+      "compiler"
+    ],
+    "language_count": 8,
+    "topic_count": 5,
+    "total_owned_repos": 16
+  },
+  "diversity_score_100": 52.0
+}

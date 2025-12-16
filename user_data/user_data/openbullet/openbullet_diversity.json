@@ -1,0 +1,29 @@
+{
+  "username": "openbullet",
+  "raw_metrics": {
+    "distinct_languages": [
+      "JavaScript",
+      "HTML",
+      "C#"
+    ],
+    "distinct_topics": [
+      "captcha-solving",
+      "recaptcha-v3",
+      "csharp",
+      "captcha-solver",
+      "hcaptcha",
+      "captcha-bypass",
+      "turnstile",
+      "csharp-lib",
+      "recaptcha",
+      "captcha",
+      "csharp-library",
+      "funcaptcha",
+      "recaptcha-v2"
+    ],
+    "language_count": 3,
+    "topic_count": 13,
+    "total_owned_repos": 11
+  },
+  "diversity_score_100": 28.4
+}

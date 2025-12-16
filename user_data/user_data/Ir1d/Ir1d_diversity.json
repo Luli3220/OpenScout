@@ -1,0 +1,28 @@
+{
+  "username": "Ir1d",
+  "raw_metrics": {
+    "distinct_languages": [
+      "C++",
+      "Java",
+      "JavaScript",
+      "HTML",
+      "Python",
+      "MATLAB",
+      "CSS"
+    ],
+    "distinct_topics": [
+      "low-level-vision",
+      "image-deblurring",
+      "image-denoising",
+      "image-dehazing",
+      "image-restoration",
+      "demoire",
+      "image-inpainting",
+      "reflection-removal"
+    ],
+    "language_count": 7,
+    "topic_count": 8,
+    "total_owned_repos": 44
+  },
+  "diversity_score_100": 48.4
+}

@@ -1,0 +1,40 @@
+{
+  "username": "dionyziz",
+  "raw_metrics": {
+    "distinct_languages": [
+      "C++",
+      "Matlab",
+      "JavaScript",
+      "PHP",
+      "HTML",
+      "Vim Script",
+      "Visual Basic",
+      "Python",
+      "TypeScript",
+      "Ruby",
+      "C",
+      "TeX",
+      "CoffeeScript",
+      "CSS"
+    ],
+    "distinct_topics": [
+      "videos",
+      "course",
+      "marabu",
+      "youtube",
+      "blockchain",
+      "proof-of-work",
+      "cross-chain",
+      "nipopow",
+      "security",
+      "channel",
+      "bounty",
+      "utxo",
+      "educational"
+    ],
+    "language_count": 14,
+    "topic_count": 13,
+    "total_owned_repos": 111
+  },
+  "diversity_score_100": 70.4
+}

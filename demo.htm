@@ -284,43 +284,8 @@
 
     <!-- LOGIC SCRIPT -->
     <script>
-        // --- 1. MOCK DATA STORE (Simulating OpenDigger API) ---
-        const MOCK_DB = {
-            "torvalds": {
-                name: "Linus Torvalds",
-                handle: "torvalds",
-                openRank: "98.5",
-                activity: "850",
-                summary: "Linux 内核与 Git 的缔造者。该开发者的 OpenRank 极高，属于开源生态中的领袖级人物。数据显示其代码提交频率极其稳定，主要集中在底层系统开发。代码审查（Review）活动频繁，展现了极强的技术把控力和项目管理能力。",
-                tags: ["系统架构", "C语言", "内核开发"],
-                radar: [95, 80, 90, 99, 60, 95], // Coding, Docs, Review, Impact, Community, Consistency
-                stack: { labels: ['C', 'Shell', 'Perl'], data: [90, 8, 2] },
-                trend: [120, 135, 110, 145, 160, 150, 130, 140, 155, 170, 165, 180]
-            },
-            "yyx990803": {
-                name: "Evan You",
-                handle: "yyx990803",
-                openRank: "96.2",
-                activity: "620",
-                summary: "Vue.js 创造者，前端领域的顶级专家。OpenDigger 数据显示其在 JavaScript 和 TypeScript 生态中拥有巨大的影响力。除了代码贡献，他在 Issue 管理和社区互动方面表现卓越，具有极强的技术布道能力和生态构建能力。",
-                tags: ["前端架构", "TypeScript", "开源治理"],
-                radar: [92, 85, 88, 94, 90, 85],
-                stack: { labels: ['TypeScript', 'JavaScript', 'Vue', 'HTML'], data: [60, 30, 5, 5] },
-                trend: [80, 90, 85, 100, 95, 110, 105, 120, 115, 100, 90, 95]
-            },
-            "junior_dev": {
-                name: "Alex Chen",
-                handle: "active_contributor",
-                openRank: "45.0",
-                activity: "120",
-                summary: "一位充满潜力的新晋贡献者。近期在多个 Python 数据分析项目中表现活跃。虽然影响力（OpenRank）尚处于成长阶段，但其提交的一致性很高，且积极参与 Issue 讨论，展现了良好的学习能力和协作态度，适合作为中初级工程师培养。",
-                tags: ["Python", "数据分析", "成长型"],
-                radar: [65, 70, 50, 40, 75, 80],
-                stack: { labels: ['Python', 'Jupyter', 'SQL'], data: [70, 20, 10] },
-                trend: [10, 15, 20, 25, 40, 35, 45, 50, 60, 55, 70, 80]
-            }
-        };
-
+        // --- 1. API INTERACTION ---
+        
         // --- 2. CHART INSTANCES ---
         let radarChartInstance = null;
         let stackChartInstance = null;
@@ -341,53 +306,64 @@
             });
             document.getElementById('jobRole').addEventListener('change', updateMatchScore);
 
-            // Initial Load
-            loadProfile('torvalds');
+            // Initial Load (Default User)
+            loadProfile('torvalds'); 
         });
 
         // --- 4. CORE LOGIC ---
-        function handleSearch() {
+        async function handleSearch() {
             const query = document.getElementById('searchInput').value.trim();
-            // In a real app, this would be an API call to OpenDigger
-            // Here we check mock DB or return a default fallback
-            const id = MOCK_DB[query] ? query : 'junior_dev'; 
-            loadProfile(id);
+            if (!query) return;
+            await loadProfile(query);
         }
 
-        function loadProfile(id) {
-            const data = MOCK_DB[id];
-            
-            // 1. Update Text Content
-            document.getElementById('userName').textContent = data.name;
-            document.getElementById('userHandle').textContent = `@${data.handle}`;
-            document.getElementById('openRank').textContent = data.openRank;
-            document.getElementById('activityScore').textContent = data.activity;
-            document.getElementById('aiSummary').textContent = data.summary;
-            
-            // Update Avatar (Using generic placeholder logic for demo)
-            // In real app: data.avatarUrl
-            const icon = document.getElementById('avatarIcon');
-            icon.className = id === 'torvalds' ? 'ph ph-linux-logo text-4xl text-slate-600' : 'ph ph-user text-4xl text-slate-400';
+        async function loadProfile(username) {
+            try {
+                // Fetch Radar Data from Python Backend
+                const response = await fetch(`/api/radar/${username}`);
+                const data = await response.json();
+                
+                // Update UI Text
+                document.getElementById('userName').textContent = data.username;
+                document.getElementById('userHandle').textContent = `@${data.username}`;
+                
+                // If data found
+                if (data.found) {
+                    // Update Scores
+                    const scores = data.radar;
+                    // Our backend returns [Influence, Contribution, Maintainership, Engagement, Diversity, CodeCapability]
+                    // We render them in that order.
+                    
+                    document.getElementById('openRank').textContent = "Calculated"; // Placeholder
+                    document.getElementById('activityScore').textContent = "Active"; // Placeholder
+                    document.getElementById('aiSummary').textContent = `已成功获取 ${username} 的六维能力数据。分析显示该开发者在 ${getStrongestDim(scores)} 方面表现突出。`;
 
-            // Update Tags
-            const tagsContainer = document.querySelector('.tag-1').parentElement;
-            const tags = tagsContainer.querySelectorAll('span');
-            tags.forEach((tag, index) => {
-                if (data.tags[index]) {
-                    tag.textContent = data.tags[index];
-                    tag.style.display = 'inline-flex';
+                    renderRadar(scores);
+                    
+                    // Reset other charts for now (or mock them if backend doesn't provide)
+                    renderStack({ labels: ['N/A'], data: [0] }); 
+                    renderTrend([10, 20, 30, 40, 50, 60, 50, 40, 30, 20, 10, 20]);
+                    
                 } else {
-                    tag.style.display = 'none';
+                     document.getElementById('aiSummary').textContent = "暂无该用户的详细分析数据，显示默认低分模型。请确保已运行后端数据抓取脚本。";
+                     renderRadar(data.radar);
                 }
-            });
+                
+                updateMatchScore();
 
-            // 2. Render Charts
-            renderRadar(data.radar);
-            renderStack(data.stack);
-            renderTrend(data.trend);
-
-            // 3. Trigger Match Update
-            updateMatchScore();
+            } catch (e) {
+                console.error("Error loading profile:", e);
+                alert("无法连接到后端服务器，请确保 server.py 正在运行。");
+            }
+        }
+        
+        function getStrongestDim(scores) {
+            const labels = ['影响力', '贡献度', '维护力', '活跃度', '多样性', '代码能力'];
+            let maxI = 0;
+            for(let i=1; i<scores.length; i++) {
+                if(scores[i] > scores[maxI]) maxI = i;
+            }
+            return labels[maxI];
         }
 
         // --- 5. VISUALIZATION FUNCTIONS (Chart.js) ---
@@ -399,7 +375,8 @@
             radarChartInstance = new Chart(ctx, {
                 type: 'radar',
                 data: {
-                    labels: ['代码能力', '文档质量', 'Code Review', '影响力', '社区互动', '持续性'],
+                    // Updated Labels to match the Python Backend Order
+                    labels: ['影响力', '贡献度', '维护力', '活跃度', '多样性', '代码能力'],
                     datasets: [{
                         label: '能力评分',
                         data: dataPoints,

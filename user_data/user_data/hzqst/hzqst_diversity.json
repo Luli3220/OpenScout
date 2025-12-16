@@ -1,0 +1,26 @@
+{
+  "username": "hzqst",
+  "raw_metrics": {
+    "distinct_languages": [
+      "C++",
+      "AngelScript",
+      "POV-Ray SDL",
+      "JavaScript",
+      "C#",
+      "Python",
+      "PowerShell",
+      "C"
+    ],
+    "distinct_topics": [
+      "modding",
+      "goldsrc",
+      "game",
+      "svencoop",
+      "reverse-engineering"
+    ],
+    "language_count": 8,
+    "topic_count": 5,
+    "total_owned_repos": 21
+  },
+  "diversity_score_100": 52.0
+}

@@ -1,0 +1,46 @@
+{
+  "username": "availproject",
+  "raw_metrics": {
+    "distinct_languages": [
+      "C++",
+      "Shell",
+      "MDX",
+      "Vue",
+      "Jupyter Notebook",
+      "JavaScript",
+      "Go",
+      "HTML",
+      "Python",
+      "Sway",
+      "TypeScript",
+      "Solidity",
+      "Kotlin",
+      "Rust",
+      "TeX"
+    ],
+    "distinct_topics": [
+      "social-oauth",
+      "passwordless-login",
+      "dapp",
+      "sdk",
+      "auth",
+      "blockchain-transactions",
+      "storage",
+      "user-onboarding",
+      "blockchain",
+      "cli",
+      "ethereum-provider",
+      "web3",
+      "arcana",
+      "avail",
+      "wallet-service",
+      "data-privacy",
+      "data-availability",
+      "configuration"
+    ],
+    "language_count": 15,
+    "topic_count": 18,
+    "total_owned_repos": 94
+  },
+  "diversity_score_100": 74.4
+}

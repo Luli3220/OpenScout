@@ -13,7 +13,7 @@ BASE_USER_DATA_DIR = "./user_data"
 FORCE_UPDATE = True # Force re-fetch even if data exists
 
 # 从环境变量读取 GitHub Tokens
-TOKENS = "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"
+TOKENS = ["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"]
 
 # -- 2. GitHub API 客户端类 --
 class GitHubAPIClient:
@@ -83,7 +83,9 @@ def get_influence_metrics(client: GitHubAPIClient, username: str) -> Dict[str, A
     page = 1
     while True:
         response = client.get(f"/users/{username}/repos", params={'type': 'owner', 'per_page': 100, 'page': page})
-        if response.status_code != 200: break
+        if response.status_code != 200:
+            print(f"Error fetching repos for {username}: Status {response.status_code}, Response: {response.text[:100]}")
+            break
         repos = response.json()
         if not repos: break
         for repo in repos:
@@ -316,11 +318,17 @@ def main():
     client = GitHubAPIClient(TOKENS)
     
     print(f"Starting comprehensive 5-dimension scan for {len(users)} users...")
+    # users = users[:5] # Uncomment for testing
     for user in tqdm(users, desc="Processing Users"):
         try:
+            # print(f"Processing {user}...")
             process_user(user, client)
+        except KeyboardInterrupt:
+            print("\nStopped by user.")
+            break
         except Exception as e:
-            # print(f"Error processing {user}: {e}")
-            pass
+            print(f"Error processing {user}: {e}")
+            # pass
 
-if __name__ =
+if __name__ == "__main__":
+    main()

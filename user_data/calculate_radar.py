@@ -1,0 +1,200 @@
+import json
+import os
+import math
+import statistics
+
+# Configuration
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+USERS_LIST_FILE = os.path.join(BASE_DIR, "users_list.json")
+USER_DATA_DIR = os.path.join(BASE_DIR, "user_data")
+OUTPUT_FILE = os.path.join(BASE_DIR, "radar_scores.json")
+
+def load_json(path):
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return None
+    except Exception as e:
+        print(f"Error loading {path}: {e}")
+        return None
+
+def get_raw_metrics(username):
+    user_dir = os.path.join(USER_DATA_DIR, username)
+    
+    # Initialize metrics with 0
+    metrics = {
+        # Influence
+        "stars": 0, "forks": 0, "issues": 0,
+        # Contribution
+        "ext_prs": 0, "created_issues": 0,
+        # Maintainership
+        "others_prs": 0,
+        # Engagement
+        "issue_comments": 0, "review_comments": 0,
+        # Diversity
+        "languages": 0, "topics": 0
+    }
+
+    # Load Influence
+    inf_data = load_json(os.path.join(user_dir, f"{username}_influence.json"))
+    if inf_data and "raw_metrics" in inf_data:
+        rm = inf_data["raw_metrics"]
+        metrics["stars"] = rm.get("total_stars", 0)
+        metrics["forks"] = rm.get("total_forks", 0)
+        metrics["issues"] = rm.get("total_open_issues", 0)
+
+    # Load Contribution
+    con_data = load_json(os.path.join(user_dir, f"{username}_contribution.json"))
+    if con_data and "raw_metrics" in con_data:
+        rm = con_data["raw_metrics"]
+        metrics["ext_prs"] = rm.get("accepted_external_prs", 0)
+        metrics["created_issues"] = rm.get("created_issues", 0)
+
+    # Load Maintainership
+    main_data = load_json(os.path.join(user_dir, f"{username}_maintainership.json"))
+    if main_data and "raw_metrics" in main_data:
+        rm = main_data["raw_metrics"]
+        metrics["others_prs"] = rm.get("merged_external_pr_count_approx", 0)
+
+    # Load Engagement
+    eng_data = load_json(os.path.join(user_dir, f"{username}_engagement.json"))
+    if eng_data and "raw_metrics" in eng_data:
+        rm = eng_data["raw_metrics"]
+        metrics["issue_comments"] = rm.get("issue_comment_count", 0)
+        metrics["review_comments"] = rm.get("pr_review_comment_count", 0)
+
+    # Load Diversity
+    div_data = load_json(os.path.join(user_dir, f"{username}_diversity.json"))
+    if div_data and "raw_metrics" in div_data:
+        rm = div_data["raw_metrics"]
+        metrics["languages"] = rm.get("language_count", 0)
+        metrics["topics"] = rm.get("topic_count", 0)
+
+    return metrics
+
+def calculate_raw_scores(metrics):
+    scores = {}
+    
+    # Influence: (Stars * 0.6) + ((Forks + Issues) * 0.4)
+    scores["influence"] = (metrics["stars"] * 0.6) + ((metrics["forks"] + metrics["issues"]) * 0.4)
+    
+    # Contribution: (Merged_External_PRs * 0.7) + (Created_Issues * 0.3)
+    scores["contribution"] = (metrics["ext_prs"] * 0.7) + (metrics["created_issues"] * 0.3)
+    
+    # Maintainership: Merged_Others_PRs * 1.0
+    scores["maintainership"] = metrics["others_prs"] * 1.0
+    
+    # Engagement: (Issue_Comments * 0.6) + (Review_Comments * 0.4)
+    scores["engagement"] = (metrics["issue_comments"] * 0.6) + (metrics["review_comments"] * 0.4)
+    
+    # Diversity: (Languages * 0.6) + (Topics * 0.4)
+    scores["diversity"] = (metrics["languages"] * 0.6) + (metrics["topics"] * 0.4)
+    
+    return scores
+
+def normal_cdf(x, mu, sigma):
+    if sigma == 0:
+        return 0.5 # If no variance, everyone is average
+    z = (x - mu) / sigma
+    return 0.5 * (1 + math.erf(z / math.sqrt(2)))
+
+def main():
+    print("Loading user list...")
+    users = load_json(USERS_LIST_FILE)
+    if not users:
+        print("Failed to load user list.")
+        return
+
+    print(f"Processing {len(users)} users...")
+    
+    # 1. Collect Raw Scores
+    user_raw_scores = {} # username -> {dim: score}
+    dimension_values = {
+        "influence": [],
+        "contribution": [],
+        "maintainership": [],
+        "engagement": [],
+        "diversity": []
+    }
+    
+    for user in users:
+        metrics = get_raw_metrics(user)
+        raw_scores = calculate_raw_scores(metrics)
+        user_raw_scores[user] = raw_scores
+        
+        for dim, val in raw_scores.items():
+            dimension_values[dim].append(val)
+
+    # 2. Calculate Stats (Mean, Std) for Log Values
+    dim_stats = {}
+    
+    for dim, values in dimension_values.items():
+        # Log transformation: ln(x + 1)
+        log_values = [math.log1p(v) for v in values]
+        
+        if not log_values:
+            dim_stats[dim] = {"mu": 0, "sigma": 1}
+            continue
+            
+        # Outlier handling: Remove max value for stat calculation if len > 1
+        calc_values = log_values[:]
+        if len(calc_values) > 1:
+            max_val = max(calc_values)
+            calc_values.remove(max_val)
+            
+        mu = statistics.mean(calc_values)
+        sigma = statistics.stdev(calc_values) if len(calc_values) > 1 else 0
+        
+        # Avoid zero sigma if all values are same
+        if sigma == 0:
+            sigma = 1 
+            
+        dim_stats[dim] = {"mu": mu, "sigma": sigma}
+        print(f"Stats for {dim}: mu={mu:.4f}, sigma={sigma:.4f}")
+
+    # 3. Calculate Final Scores
+    final_output = {}
+    
+    dimensions_order = ["influence", "contribution", "maintainership", "engagement", "diversity"]
+    
+    for user in users:
+        raw_scores = user_raw_scores[user]
+        user_final_scores = []
+        
+        for dim in dimensions_order:
+            raw_val = raw_scores[dim]
+            
+            # Zero handling
+            if raw_val == 0:
+                user_final_scores.append(10) # Tiny point for 0
+                continue
+                
+            # Log transform
+            log_val = math.log1p(raw_val)
+            
+            # Z-Score -> CDF -> 0-100
+            stats = dim_stats[dim]
+            cdf_prob = normal_cdf(log_val, stats["mu"], stats["sigma"])
+            score = cdf_prob * 100
+            
+            # Min score handling
+            if score < 40:
+                score = 40
+            
+            # Round to 1 decimal
+            user_final_scores.append(round(score, 1))
+            
+        # Add 6th dimension (empty/zero)
+        user_final_scores.append(0)
+        
+        final_output[user] = user_final_scores
+
+    # 4. Save Output
+    print(f"Saving results to {OUTPUT_FILE}...")
+    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        json.dump(final_output, f, indent=2)
+    print("Done.")
+
+if __name__ == "__main__":
+    main()

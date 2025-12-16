@@ -179,10 +179,10 @@ def get_github_users_adaptive(start_followers=100, target_limit=1000, token=None
 
 def main():
     # Configuration: WARNING - This token is publicly visible, change it immediately!
-    START_FOLLOWERS = 100
+    START_FOLLOWERS = 1000
     LIMIT = 100 
-    TOKEN = "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" # <<< EXPOSED TOKEN, CHANGE THIS!
-    OUTPUT_FILE = "./user_data/users_list.json"
+    TOKEN = "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" # <<< EXPOSED TOKEN, CHANGE THIS!
+    OUTPUT_FILE = "./users_list.json"
     
     get_github_users_adaptive(
         start_followers=START_FOLLOWERS, 

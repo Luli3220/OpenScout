@@ -8,11 +8,11 @@ import uvicorn
 app = FastAPI()
 
 # Paths
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-USER_DATA_DIR = os.path.join(BASE_DIR, "user_data")
-RADAR_FILE = os.path.join(USER_DATA_DIR, "radar_scores.json")
-USERS_LIST_FILE = os.path.join(USER_DATA_DIR, "users_list.json")
-HTML_FILE = os.path.join(BASE_DIR, "demo.htm")
+ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(ROOT_DIR, "data")
+HTML_FILE = os.path.join(ROOT_DIR, "OpenScout.htm")
+RADAR_FILE = os.path.join(DATA_DIR, "radar_scores.json")
+USERS_LIST_FILE = os.path.join(DATA_DIR, "users_list.json")
 
 # Load data
 def load_radar_scores():
@@ -46,7 +46,7 @@ async def get_radar_score(username: str):
         # or just return zeros so the UI doesn't crash
         return {
             "username": username,
-            "radar": [10, 10, 10, 10, 10, 10],
+            "radar": [50, 50, 50, 50, 50, 50],
             "found": False,
             "message": "User data not calculated yet"
         }
@@ -56,5 +56,5 @@ async def get_users():
     return load_users_list()
 
 if __name__ == "__main__":
-    print("Starting OpenScout Server at http://localhost:8000")
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    print("Starting OpenScout Server at http://localhost:8001")
+    uvicorn.run(app, host="0.0.0.0", port=8001)

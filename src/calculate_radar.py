@@ -4,10 +4,13 @@ import math
 import statistics
 
 # Configuration
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-USERS_LIST_FILE = os.path.join(BASE_DIR, "users_list.json")
-USER_DATA_DIR = os.path.join(BASE_DIR, "user_data")
-OUTPUT_FILE = os.path.join(BASE_DIR, "radar_scores.json")
+SRC_DIR = os.path.dirname(os.path.abspath(__file__))
+ROOT_DIR = os.path.dirname(SRC_DIR)
+DATA_DIR = os.path.join(ROOT_DIR, "data")
+
+USERS_LIST_FILE = os.path.join(DATA_DIR, "users_list.json")
+USER_DATA_DIR = os.path.join(DATA_DIR, "raw_users")
+OUTPUT_FILE = os.path.join(DATA_DIR, "radar_scores.json")
 
 def load_json(path):
     try:
@@ -94,8 +97,8 @@ def calculate_raw_scores(metrics):
     # Contribution: (Merged_External_PRs * 0.7) + (Created_Issues * 0.3)
     scores["contribution"] = (metrics["ext_prs"] * 0.7) + (metrics["created_issues"] * 0.3)
     
-    # Maintainership: Merged_Others_PRs * 1.0
-    scores["maintainership"] = metrics["others_prs"] * 1.0
+    # Maintainership: Merged_Others_PRs * 1.0 + Review_Comments * 0.3 (to avoid 0 score for reviewers)
+    scores["maintainership"] = (metrics["others_prs"] * 1.0) + (metrics["review_comments"] * 0.3)
     
     # Engagement: (Issue_Comments * 0.6) + (Review_Comments * 0.4)
     scores["engagement"] = (metrics["issue_comments"] * 0.6) + (metrics["review_comments"] * 0.4)
@@ -106,6 +109,12 @@ def calculate_raw_scores(metrics):
     # Code Capability: Core Contribution Value = sum(ln(stars + 1))
     # Note: We prioritize "value" over "rate" as per calculation.md
     core_value = sum(math.log1p(stars) for stars in metrics["merged_prs_stars"])
+    
+    # Fallback for Code Capability: If 0, check for attempts/reviews
+    if core_value == 0:
+        if metrics.get("closed_prs_count", 0) > 0 or metrics.get("review_comments", 0) > 0:
+            core_value = 1.0 # Base value to ensure non-zero score
+            
     scores["code_capability"] = core_value
     
     return scores
@@ -185,20 +194,19 @@ def main():
             
             # Zero handling
             if raw_val == 0:
-                user_final_scores.append(10) # Tiny point for 0
+                user_final_scores.append(50) # Tiny point for 0
                 continue
                 
             # Log transform
             log_val = math.log1p(raw_val)
             
-            # Z-Score -> CDF -> 0-100
+            # Z-Score -> CDF -> 50-100 Mapping
             stats = dim_stats[dim]
             cdf_prob = normal_cdf(log_val, stats["mu"], stats["sigma"])
-            score = cdf_prob * 100
             
-            # Min score handling
-            if score < 40:
-                score = 40
+            # User request: Start at 50, then add based on performance
+            # Mapping 0-1 probability to 50-100 range
+            score = 50 + (cdf_prob * 50)
             
             # Round to 1 decimal
             user_final_scores.append(round(score, 1))

@@ -9,13 +9,32 @@ from concurrent.futures import ThreadPoolExecutor
 
 # -- 1. 配置与常量 --
 GITHUB_API_BASE = "https://api.github.com"
-OUTPUT_DIR = "./user_data/micro_data"
-USER_LIST_FILE = "./user_data/users_list.json" # get_user_name.py 的输出文件
 
-# 从环境变量或配置文件读取所有可用的 GitHub Token
-# 轮询 Token 是微观数据收集的关键
-TOKENS = os.getenv("GITHUB_TOKENS", "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,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,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").split(',') 
-# 再次提醒：这些 Token 已经被硬编码暴露，请立即撤销并使用新 Token。
+SRC_DIR = os.path.dirname(os.path.abspath(__file__))
+ROOT_DIR = os.path.dirname(SRC_DIR)
+DATA_DIR = os.path.join(ROOT_DIR, "data")
+CONFIG_FILE = os.path.join(ROOT_DIR, "config.json")
+
+OUTPUT_DIR = os.path.join(DATA_DIR, "micro_data")
+USER_LIST_FILE = os.path.join(DATA_DIR, "users_list.json")
+
+# Load tokens from config.json
+TOKENS = []
+if os.path.exists(CONFIG_FILE):
+    try:
+        with open(CONFIG_FILE, 'r', encoding='utf-8') as f:
+            config = json.load(f)
+            TOKENS = config.get("github_tokens", [])
+    except Exception as e:
+        print(f"Error loading config.json: {e}")
+
+if not TOKENS:
+    # Fallback to env var or empty list
+    TOKENS = os.getenv("GITHUB_TOKENS", "").split(',')
+    TOKENS = [t for t in TOKENS if t] # Filter empty strings
+
+if not TOKENS:
+    print("Warning: No GitHub tokens found in config.json or environment variables.")
 
 
 # -- 2. GitHub API 客户端类（关键：Token 轮询） --

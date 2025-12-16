@@ -178,11 +178,23 @@ def get_github_users_adaptive(start_followers=100, target_limit=1000, token=None
     return list(existing_users)
 
 def main():
-    # Configuration: WARNING - This token is publicly visible, change it immediately!
+    SRC_DIR = os.path.dirname(os.path.abspath(__file__))
+    ROOT_DIR = os.path.dirname(SRC_DIR)
+    DATA_DIR = os.path.join(ROOT_DIR, "data")
+    CONFIG_FILE = os.path.join(ROOT_DIR, "config.json")
+    OUTPUT_FILE = os.path.join(DATA_DIR, "users_list.json")
+    
+    # Load configuration
+    if os.path.exists(CONFIG_FILE):
+        with open(CONFIG_FILE, 'r', encoding='utf-8') as f:
+            config = json.load(f)
+            TOKEN = config.get("github_token")
+    else:
+        print("Warning: config.json not found. Please create it in the root directory.")
+        TOKEN = None
+
     START_FOLLOWERS = 1000
     LIMIT = 100 
-    TOKEN = "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" # <<< EXPOSED TOKEN, CHANGE THIS!
-    OUTPUT_FILE = "./users_list.json"
     
     get_github_users_adaptive(
         start_followers=START_FOLLOWERS, 

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -39,7 +40,8 @@
             --card-bg: #ffffff;
             --text-main: #334155;
             --text-muted: #64748b;
-            --accent: #ea580c; /* Burnt Orange */
+            --accent: #ea580c;
+            /* Burnt Orange */
             --border: #e2e8f0;
         }
 
@@ -54,7 +56,8 @@
             position: relative;
             width: 100%;
             max-width: 100%;
-            height: 300px; /* Base height */
+            height: 300px;
+            /* Base height */
             max-height: 350px;
             margin-left: auto;
             margin-right: auto;
@@ -70,7 +73,8 @@
         .scout-card {
             background-color: var(--card-bg);
             border: 1px solid var(--border);
-            border-radius: 0.75rem; /* 12px */
+            border-radius: 0.75rem;
+            /* 12px */
             box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05);
             transition: all 0.3s ease;
         }
@@ -84,6 +88,7 @@
             color: white;
             transition: background-color 0.2s;
         }
+
         .btn-primary:hover {
             background-color: var(--accent);
         }
@@ -95,6 +100,7 @@
         }
     </style>
 </head>
+
 <body class="min-h-screen flex flex-col">
 
     <!-- Navigation / Header -->
@@ -125,13 +131,14 @@
                 OpenScout 利用 <strong>OpenDigger</strong> 的行为数据构建开发者画像，并结合 <strong>MaxKB</strong> 的大模型能力进行智能分析。
                 输入 GitHub ID，立即获取该开发者的技能雷达、贡献习惯及岗位匹配度报告。
             </p>
-            
+
             <div class="relative max-w-md mx-auto mt-6">
                 <div class="flex shadow-sm rounded-md">
-                    <input type="text" id="searchInput" placeholder="输入 GitHub ID (例如: torvalds)" 
-                           class="flex-1 block w-full rounded-l-md border-gray-300 focus:border-orange-500 focus:ring-orange-500 sm:text-sm p-3 border"
-                           value="torvalds">
-                    <button id="searchBtn" type="button" class="btn-primary inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-r-md">
+                    <input type="text" id="searchInput" placeholder="输入 GitHub ID (例如: torvalds)"
+                        class="flex-1 block w-full rounded-l-md border-gray-300 focus:border-orange-500 focus:ring-orange-500 sm:text-sm p-3 border"
+                        value="torvalds">
+                    <button id="searchBtn" type="button"
+                        class="btn-primary inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-r-md">
                         <i class="ph ph-magnifying-glass mr-2 text-lg"></i> 分析
                     </button>
                 </div>
@@ -139,8 +146,10 @@
                 <div class="mt-2 flex justify-center gap-2 text-xs text-slate-400">
                     <span>示例:</span>
                     <button class="hover:text-orange-600 underline demo-preset" data-id="torvalds">Linus (内核之神)</button>
-                    <button class="hover:text-orange-600 underline demo-preset" data-id="yyx990803">Evan You (前端专家)</button>
-                    <button class="hover:text-orange-600 underline demo-preset" data-id="junior_dev">Active Contributor (活跃新秀)</button>
+                    <button class="hover:text-orange-600 underline demo-preset" data-id="yyx990803">Evan You
+                        (前端专家)</button>
+                    <button class="hover:text-orange-600 underline demo-preset" data-id="junior_dev">Active Contributor
+                        (活跃新秀)</button>
                 </div>
             </div>
         </section>
@@ -152,13 +161,14 @@
             <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
                 <!-- Profile Card -->
                 <div class="scout-card p-6 flex flex-col items-center text-center lg:col-span-1">
-                    <div class="w-24 h-24 rounded-full bg-slate-100 mb-4 flex items-center justify-center border-2 border-orange-100 relative overflow-hidden">
+                    <div
+                        class="w-24 h-24 rounded-full bg-slate-100 mb-4 flex items-center justify-center border-2 border-orange-100 relative overflow-hidden">
                         <i class="ph ph-user text-4xl text-slate-400" id="avatarIcon"></i>
                         <img id="userAvatar" src="" alt="Avatar" class="absolute w-full h-full object-cover hidden">
                     </div>
                     <h2 class="text-2xl font-bold text-slate-800" id="userName">User Name</h2>
                     <p class="text-sm text-orange-600 font-medium mb-4" id="userHandle">@handle</p>
-                    
+
                     <div class="grid grid-cols-2 gap-4 w-full border-t border-slate-100 pt-4">
                         <div class="text-center">
                             <span class="block text-xl font-bold text-slate-700" id="openRank">0.0</span>
@@ -187,16 +197,19 @@
                         正在生成分析报告...
                     </div>
                     <div class="mt-4 flex gap-2">
-                        <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-100 text-slate-800 tag-1">Label</span>
-                        <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-100 text-slate-800 tag-2">Label</span>
-                        <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-100 text-slate-800 tag-3">Label</span>
+                        <span
+                            class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-100 text-slate-800 tag-1">Label</span>
+                        <span
+                            class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-100 text-slate-800 tag-2">Label</span>
+                        <span
+                            class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-100 text-slate-800 tag-3">Label</span>
                     </div>
                 </div>
             </div>
 
             <!-- 3. Metrics Grid (OpenDigger Data Visualization) -->
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                
+
                 <!-- Chart 1: The Six-Dimensional Radar -->
                 <div class="scout-card p-5 col-span-1 lg:col-span-1">
                     <div class="mb-4">
@@ -244,7 +257,8 @@
                         <h3 class="text-lg font-bold text-slate-800">岗位匹配模拟器</h3>
                         <p class="text-sm text-slate-600">选择一个目标岗位，AI 将计算该候选人的胜任概率。</p>
                     </div>
-                    <select id="jobRole" class="block w-full md:w-48 pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-orange-500 focus:border-orange-500 sm:text-sm rounded-md border">
+                    <select id="jobRole"
+                        class="block w-full md:w-48 pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-orange-500 focus:border-orange-500 sm:text-sm rounded-md border">
                         <option value="backend">后端架构师 (Java/Go)</option>
                         <option value="frontend">前端技术专家 (JS/TS)</option>
                         <option value="os">操作系统/底层开发 (C/C++)</option>
@@ -258,7 +272,8 @@
                         <span class="text-2xl font-bold text-orange-600" id="matchScore">85%</span>
                     </div>
                     <div class="w-full bg-gray-200 rounded-full h-2.5 mb-4">
-                        <div id="matchBar" class="bg-orange-600 h-2.5 rounded-full transition-all duration-1000" style="width: 85%"></div>
+                        <div id="matchBar" class="bg-orange-600 h-2.5 rounded-full transition-all duration-1000"
+                            style="width: 85%"></div>
                     </div>
                     <div class="flex gap-4 text-sm">
                         <div class="flex-1">
@@ -285,7 +300,7 @@
     <!-- LOGIC SCRIPT -->
     <script>
         // --- 1. API INTERACTION ---
-        
+
         // --- 2. CHART INSTANCES ---
         let radarChartInstance = null;
         let stackChartInstance = null;
@@ -307,7 +322,7 @@
             document.getElementById('jobRole').addEventListener('change', updateMatchScore);
 
             // Initial Load (Default User)
-            loadProfile('torvalds'); 
+            loadProfile('torvalds');
         });
 
         // --- 4. CORE LOGIC ---
@@ -322,33 +337,33 @@
                 // Fetch Radar Data from Python Backend
                 const response = await fetch(`/api/radar/${username}`);
                 const data = await response.json();
-                
+
                 // Update UI Text
                 document.getElementById('userName').textContent = data.username;
                 document.getElementById('userHandle').textContent = `@${data.username}`;
-                
+
                 // If data found
                 if (data.found) {
                     // Update Scores
                     const scores = data.radar;
                     // Our backend returns [Influence, Contribution, Maintainership, Engagement, Diversity, CodeCapability]
                     // We render them in that order.
-                    
+
                     document.getElementById('openRank').textContent = "Calculated"; // Placeholder
                     document.getElementById('activityScore').textContent = "Active"; // Placeholder
                     document.getElementById('aiSummary').textContent = `已成功获取 ${username} 的六维能力数据。分析显示该开发者在 ${getStrongestDim(scores)} 方面表现突出。`;
 
                     renderRadar(scores);
-                    
+
                     // Reset other charts for now (or mock them if backend doesn't provide)
-                    renderStack({ labels: ['N/A'], data: [0] }); 
+                    renderStack({ labels: ['N/A'], data: [0] });
                     renderTrend([10, 20, 30, 40, 50, 60, 50, 40, 30, 20, 10, 20]);
-                    
+
                 } else {
-                     document.getElementById('aiSummary').textContent = "暂无该用户的详细分析数据，显示默认低分模型。请确保已运行后端数据抓取脚本。";
-                     renderRadar(data.radar);
+                    document.getElementById('aiSummary').textContent = "暂无该用户的详细分析数据，显示默认低分模型。请确保已运行后端数据抓取脚本。";
+                    renderRadar(data.radar);
                 }
-                
+
                 updateMatchScore();
 
             } catch (e) {
@@ -356,12 +371,12 @@
                 alert("无法连接到后端服务器，请确保 server.py 正在运行。");
             }
         }
-        
+
         function getStrongestDim(scores) {
             const labels = ['影响力', '贡献度', '维护力', '活跃度', '多样性', '代码能力'];
             let maxI = 0;
-            for(let i=1; i<scores.length; i++) {
-                if(scores[i] > scores[maxI]) maxI = i;
+            for (let i = 1; i < scores.length; i++) {
+                if (scores[i] > scores[maxI]) maxI = i;
             }
             return labels[maxI];
         }
@@ -429,7 +444,7 @@
                     indexAxis: 'y', // Horizontal bar
                     scales: {
                         x: { display: false },
-                        y: { 
+                        y: {
                             grid: { display: false },
                             ticks: { font: { family: 'Inter' } }
                         }
@@ -490,7 +505,7 @@
         function updateMatchScore() {
             const role = document.getElementById('jobRole').value;
             const currentName = document.getElementById('userName').textContent;
-            
+
             // Simple deterministic logic for demo purposes
             let score = 50;
             let pros = "数据不足";
@@ -513,10 +528,10 @@
             // Update UI
             const bar = document.getElementById('matchBar');
             const scoreText = document.getElementById('matchScore');
-            
+
             scoreText.textContent = score + "%";
             bar.style.width = score + "%";
-            
+
             // Color coding
             if (score > 80) {
                 bar.className = "h-2.5 rounded-full transition-all duration-1000 bg-green-500";
@@ -535,4 +550,5 @@
 
     </script>
 </body>
+
 </html>

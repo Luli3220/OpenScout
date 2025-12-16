@@ -123,8 +123,16 @@ def batch_fetch(users: List[str], max_workers: int = 5, output_file: str = "./_u
 
 def main():
     # Configuration - Hardcoded parameters
-    USERS_FILE = "./user_data/users_list.json" 
-    OUTPUT_FILE = "./user_data/macro_data/macro_data_results.json"
+    SRC_DIR = os.path.dirname(os.path.abspath(__file__))
+    ROOT_DIR = os.path.dirname(SRC_DIR)
+    DATA_DIR = os.path.join(ROOT_DIR, "data")
+    
+    USERS_FILE = os.path.join(DATA_DIR, "users_list.json")
+    MACRO_DATA_DIR = os.path.join(DATA_DIR, "macro_data")
+    if not os.path.exists(MACRO_DATA_DIR):
+        os.makedirs(MACRO_DATA_DIR)
+    OUTPUT_FILE = os.path.join(MACRO_DATA_DIR, "macro_data_results.json")
+    
     MAX_WORKERS = 5
     
     # You can also manually add users here

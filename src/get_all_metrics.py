@@ -9,12 +9,34 @@ from tqdm import tqdm
 # -- 1. 配置与常量 --
 GITHUB_API_BASE = "https://api.github.com"
 OPENDIGGER_API_BASE = "https://oss.x-lab.info/open_digger/github" 
-USER_LIST_FILE = "./users_list.json" 
-BASE_USER_DATA_DIR = "./user_data" 
+
+SRC_DIR = os.path.dirname(os.path.abspath(__file__))
+ROOT_DIR = os.path.dirname(SRC_DIR)
+DATA_DIR = os.path.join(ROOT_DIR, "data")
+CONFIG_FILE = os.path.join(ROOT_DIR, "config.json")
+
+USER_LIST_FILE = os.path.join(DATA_DIR, "users_list.json")
+BASE_USER_DATA_DIR = os.path.join(DATA_DIR, "raw_users")
+
 FORCE_UPDATE = True # Force re-fetch even if data exists
 
-# 从环境变量读取 GitHub Tokens
-TOKENS = ["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"]
+# Load tokens from config.json
+TOKENS = []
+if os.path.exists(CONFIG_FILE):
+    try:
+        with open(CONFIG_FILE, 'r', encoding='utf-8') as f:
+            config = json.load(f)
+            TOKENS = config.get("github_tokens", [])
+    except Exception as e:
+        print(f"Error loading config.json: {e}")
+
+if not TOKENS:
+    # Fallback or empty
+    TOKENS = os.getenv("GITHUB_TOKENS", "").split(',')
+    TOKENS = [t for t in TOKENS if t]
+    
+if not TOKENS:
+    print("Warning: No GitHub tokens found in config.json or environment variables.")
 
 # -- 2. GitHub API 客户端类 --
 class GitHubAPIClient:
@@ -134,7 +156,7 @@ def get_events_metrics(client: GitHubAPIClient, username: str, user_repos: Set[s
     
     page = 1
     total_events = 0
-    while page <= 10: # 最多抓取 10 页 (1000条或90天)
+    while page <= 3: # Limit to 3 pages as per optimization suggestion
         response = client.get(f"/users/{username}/events/public", params={'per_page': 100, 'page': page})
         if response.status_code != 200: break
         events = response.json()
@@ -199,9 +221,16 @@ def calculate_contribution_score(metrics: Dict[str, Any]) -> float:
 
 def calculate_maintainership_score(metrics: Dict[str, Any]) -> float:
     merged = metrics.get('merged_external_pr_count_approx', 0)
+    pr_reviews = metrics.get('pr_review_comment_count', 0)
+    
     MAX_MERGED = 500
     norm_merged = min(1.0, merged / MAX_MERGED)
-    return round(norm_merged * 100, 2)
+    
+    # Add review contribution (max 100 reviews counts for full 30% weight)
+    norm_reviews = min(1.0, pr_reviews / 100)
+    
+    # Formula: (Merged * 0.7) + (Reviews * 0.3)
+    return round(((norm_merged * 0.70) + (norm_reviews * 0.30)) * 100, 2)
 
 def calculate_engagement_score(metrics: Dict[str, Any]) -> float:
     issue_comments = metrics.get('issue_comment_count', 0)
@@ -265,7 +294,14 @@ def calculate_code_capability_score(metrics: Dict[str, Any]) -> float:
     MAX_VALUE = 100
     norm_value = min(1.0, core_value / MAX_VALUE)
     
-    return round(norm_value * 100, 2)
+    score = round(norm_value * 100, 2)
+    
+    # Fallback: If score is 0 but user has attempted PRs or reviewed code, give base score
+    if score == 0:
+        if metrics.get('total_closed_external_prs', 0) > 0 or metrics.get('pr_review_comment_count', 0) > 0:
+            return 15.0
+            
+    return score
 
 # -- 4. 主流程 --
 def process_user(username: str, client: GitHubAPIClient):

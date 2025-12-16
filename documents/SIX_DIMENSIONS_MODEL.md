@@ -29,10 +29,12 @@ OpenScout 采用独创的六维评估模型，从多个角度全面量化开发�
 ### 🛡️ 维护力 (Maintainership)
 *   **定义**: 衡量开发者作为项目维护者（Maintainer）管理代码合入和把控项目质量的能力。
 *   **数据来源**:
-    *   **GitHub Events API**: 深入分析 `PullRequestEvent`。
-    *   **Merge Actions**: 统计用户作为执行者（Actor）**合并他人 PR** 的次数。这是一个关键指标，只有拥有仓库写权限的核心维护者才能执行此操作。
+    *   **GitHub Events API**: 深入分析 `PullRequestEvent` 和 `PullRequestReviewCommentEvent`。
+    *   **Merge Actions**: 统计用户作为执行者（Actor）**合并他人 PR** 的次数。
+    *   **Code Review**: 统计用户参与代码审查（Review）的次数，作为辅助指标。
 *   **计算权重 (示例)**:
-    *   合并他人 PR 数量 (100%): 直接反映维护职责的履行情况。
+    *   合并他人 PR 数量 (70%): 直接反映维护职责的履行情况。
+    *   PR 审查评论 (30%): 反映对代码质量的把控和团队协作。
 
 ### 💬 活跃度 (Engagement)
 *   **定义**: 衡量开发者在技术讨论、代码审查（Code Review）等软技能方面的投入。
@@ -59,9 +61,10 @@ OpenScout 采用独创的六维评估模型，从多个角度全面量化开发�
 *   **数据来源**:
     *   **GitHub Events API**: 分析 `PullRequestEvent`。
     *   **Core Contribution Value**: 统计被合并 PR 所属仓库的 Star 数，证明技术实力。
-    *   **PR Merge Rate**: 计算 PR 的合并率，反映代码质量和通过率。
+    *   **Activity Fallback**: 若无合并 PR，参考已关闭的 PR（尝试贡献）或代码审查记录（技术理解）。
 *   **计算权重 (示例)**:
     *   核心贡献含金量 (100%): $\sum \log(Repo\_Stars + 1)$，侧重于贡献的质量和难度。
+    *   *(注: 若核心贡献为 0 但有相关活动，给予基础分)*
 
 ## 3. 总结
 通过整合 OpenDigger 的权威算法数据与 GitHub 原生 API 的实时行为数据，OpenScout 能够构建出一个比单纯 "Commit 数" 更立体、更真实的开发者画像。

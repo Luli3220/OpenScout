@@ -93,10 +93,125 @@
             background-color: var(--accent);
         }
 
+        /* Ghost Button Styling */
+        .btn-ghost {
+            background-color: transparent;
+            color: var(--text-muted);
+            border: 1px solid transparent;
+            padding: 0.25rem 0.5rem;
+            border-radius: 0.375rem;
+            font-size: 0.875rem;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.25rem;
+            transition: all 0.2s ease;
+            cursor: pointer;
+        }
+
+        .btn-ghost:hover {
+            background-color: #f1f5f9;
+            /* Slate-100 */
+            color: var(--text-main);
+        }
+
         /* Highlight classes */
         .highlight-text {
             color: var(--accent);
             font-weight: 600;
+        }
+
+        /* Modal Styles */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(4px);
+            z-index: 100;
+            /* High z-index to sit on top */
+            display: none;
+            /* Hidden by default */
+            justify-content: center;
+            align-items: center;
+        }
+
+        .modal-overlay.active {
+            display: flex;
+        }
+
+        .modal-container {
+            background-color: #ffffff;
+            width: 800px;
+            max-width: 90%;
+            height: 80vh;
+            /* Fixed height */
+            border-radius: 12px;
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            animation: modalFadeIn 0.3s ease-out;
+        }
+
+        @keyframes modalFadeIn {
+            from {
+                opacity: 0;
+                transform: scale(0.95);
+            }
+
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+
+        .modal-header {
+            padding: 1.5rem;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .modal-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--text-main);
+        }
+
+        .modal-close-btn {
+            background: none;
+            border: none;
+            cursor: pointer;
+            color: var(--text-muted);
+            font-size: 1.5rem;
+            transition: color 0.2s;
+            padding: 0.25rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal-close-btn:hover {
+            color: var(--accent);
+        }
+
+        .modal-body {
+            flex-grow: 1;
+            padding: 1.5rem;
+            overflow-y: auto;
+            color: var(--text-main);
+            line-height: 1.6;
+        }
+
+        .modal-footer {
+            padding: 1rem 1.5rem;
+            border-top: 1px solid var(--border);
+            display: flex;
+            justify-content: flex-end;
+            gap: 1rem;
         }
     </style>
 </head>
@@ -212,11 +327,16 @@
 
                 <!-- Chart 1: The Six-Dimensional Radar -->
                 <div class="scout-card p-5 col-span-1 lg:col-span-1">
-                    <div class="mb-4">
-                        <h3 class="font-semibold text-slate-800 flex items-center gap-2">
-                            <i class="ph ph-polygon text-orange-600"></i> 能力六维图
-                        </h3>
-                        <p class="text-xs text-slate-500 mt-1">基于代码提交、Code Review、Issue 互动等 OpenDigger 指标综合计算。</p>
+                    <div class="mb-4 flex justify-between items-start">
+                        <div>
+                            <h3 class="font-semibold text-slate-800 flex items-center gap-2">
+                                <i class="ph ph-polygon text-orange-600"></i> 能力六维图
+                            </h3>
+                            <p class="text-xs text-slate-500 mt-1">基于代码提交、Code Review、Issue 互动等 OpenDigger 指标综合计算。</p>
+                        </div>
+                        <button class="btn-ghost" id="deepAuditBtn">
+                            <i class="ph ph-robot"></i> 深度审计
+                        </button>
                     </div>
                     <div class="chart-container">
                         <canvas id="radarChart"></canvas>
@@ -297,7 +417,68 @@
         </div>
     </footer>
 
+    <!-- Modal Component -->
+    <div class="modal-overlay" id="auditModal">
+        <div class="modal-container">
+            <div class="modal-header">
+                <h3 class="modal-title">MaxKB 深度代码审计报告</h3>
+                <button class="modal-close-btn" id="closeModalBtn">
+                    <i class="ph ph-x"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="prose prose-sm max-w-none text-slate-600">
+                    <p>正在生成深度审计报告...</p>
+                    <p class="mt-4">此处将展示详细的代码质量分析、架构评估以及安全隐患排查结果。</p>
+                    <!-- Content will be injected here dynamically later -->
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn-ghost" id="closeModalFooterBtn">关闭</button>
+                <button class="btn-primary px-4 py-2 rounded-md text-sm">下载报告</button>
+            </div>
+        </div>
+    </div>
+
     <!-- LOGIC SCRIPT -->
+    <script>
+        // Modal Logic
+        const deepAuditBtn = document.getElementById('deepAuditBtn');
+        const auditModal = document.getElementById('auditModal');
+        const closeModalBtn = document.getElementById('closeModalBtn');
+        const closeModalFooterBtn = document.getElementById('closeModalFooterBtn');
+
+        function openModal() {
+            auditModal.classList.add('active');
+            document.body.style.overflow = 'hidden'; // Prevent background scrolling
+        }
+
+        function closeModal() {
+            auditModal.classList.remove('active');
+            document.body.style.overflow = ''; // Restore background scrolling
+        }
+
+        if (deepAuditBtn) {
+            deepAuditBtn.addEventListener('click', openModal);
+        }
+
+        if (closeModalBtn) {
+            closeModalBtn.addEventListener('click', closeModal);
+        }
+
+        if (closeModalFooterBtn) {
+            closeModalFooterBtn.addEventListener('click', closeModal);
+        }
+
+        // Close modal when clicking outside
+        if (auditModal) {
+            auditModal.addEventListener('click', (e) => {
+                if (e.target === auditModal) {
+                    closeModal();
+                }
+            });
+        }
+    </script>
     <script>
         // --- 1. API INTERACTION ---
 

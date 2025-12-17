@@ -142,12 +142,27 @@ def fetch_top_original_repos_context(client: GitHubAPIClient, username: str) -> 
             "name": repo.get('full_name'),
             "stars": repo.get('stargazers_count', 0),
             "description": repo.get('description') or "无",
+            "languages_breakdown": {}, 
             "files": {}
         }
+
+        # [Improved] Fetch Language Breakdown
+        try:
+            lang_url = repo.get('languages_url')
+            if lang_url:
+                lang_resp = client.get(lang_url)
+                if lang_resp.status_code == 200:
+                    repo_data["languages_breakdown"] = lang_resp.json()
+        except Exception as e:
+            print(f"Error fetching languages for {repo_pure_name}: {e}")
+
+        # [Improved] Fetch README + Target Files
+        extended_target_files = TARGET_FILES + ["README.md", "README.rst"]
         
-        for file_path in TARGET_FILES:
+        for file_path in extended_target_files:
             content = get_file_content(client, username, repo_pure_name, file_path)
-            repo_data["files"][file_path] = content # content is str or None (will be null in JSON)
+            if content: # Only add if content exists
+                repo_data["files"][file_path] = content 
             
         result.append(repo_data)
     

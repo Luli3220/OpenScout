@@ -3,54 +3,34 @@
     "name": "FundamentalFrequency/LMN-3-Build-Guide",
     "stars": 1005,
     "description": "Build guide for the LMN-3 project",
+    "languages_breakdown": {},
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# LMN-3-Build-Guide\n![Final Assembly](images/assembly/fully_assembled.JPEG)\n\nThis repository contains the build guide for the LMN-3.\n\nIf you would like to support the project, please consider becoming a [sponsor](https://github.com/sponsors/stonepreston).\n\n## Bill of Materials\n\n| Description                | Model                            | Quantity | URL                                                                                            |\n|----------------------------|----------------------------------|----------|------------------------------------------------------------------------------------------------|\n| Diode                      | 1N4148                           | 49       | https://www.amazon.com/McIgIcM-1n4148-switching-Standard-Through/dp/B06XB1R2NK                 |\n| Rotary Encoder             | EC11                             | 4        | https://www.amazon.com/WayinTop-Encoder-Potentiometer-Electronics-Projects/dp/B08728K3YB?psc=1 |\n| Switch                     | 5 pin mechanical keyboard switch | 45       |                                                                                                |\n| Joystick                   | COM-09032                        | 1        | https://www.sparkfun.com/products/9032                                                         |\n| Keycap                    | Any                              | 45       |                                                                                                |\n| Microcontroller            | Teensy 4.1                       | 1        | https://www.pjrc.com/store/teensy41.html                                                       |\n| Raspberry Pi               | Raspberry Pi 4                   | 1        |                                                                                                |\n| Screen                     | Hyperpixel 4                     | 1        | https://shop.pimoroni.com/en-us/products/hyperpixel-4                                                        |\n| USB to Micro USB Cable     | USB2AUB2RA1M                     | 1        | https://www.amazon.com/StarTech-com-Fiber-Optic-Cable-Multimode/dp/B012S11KV6                        |\n| Raspberry Pi Power Adapter | 15W USB-C                        | 1        | https://www.raspberrypi.com/products/type-c-power-supply/ \n| Arduino Header Strip                    |                            | 2      | https://www.amazon.com/gp/product/B07PKKY8BX?psc=1                 |\n| Printable Clear Sticker Paper         |                            | 1      | https://www.amazon.com/dp/B087CNQ75R?psc=1         |\n| M2.5x30 Bolt          |                            | 8      |              |\n| M2.5x12 Bolt          |                            | 4      |                 |\n| M2.5 Nut        |                            | 8      |                 |\n| Acrylic Sheet (12 inch x 16 inch x 1/8 inch)        |                            | 4      | https://www.amazon.com/dp/B09NNW15HQ?\n... (truncated)"
     }
   },
   {
     "name": "FundamentalFrequency/LMN-3-DAW",
-    "stars": 513,
+    "stars": 514,
     "description": "LMN-3 DAW",
+    "languages_breakdown": {
+      "C++": 674114,
+      "CMake": 16761
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# LMN-3-DAW\n[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)\n\nThis repository contains the code for the LMN-3-DAW. \n\nIf you would like to support the project, please consider becoming a [sponsor](https://github.com/sponsors/stonepreston).\n\n## Overview Video\nAn overview video showcasing the project can be viewed [here](https://www.youtube.com/watch?v=h5UmPTttN1s)\n\n## Releases\nReleases can be found [here](https://github.com/FundamentalFrequency/LMN-3-DAW/releases). A release contains executables for \nx86_64, ARM, and aarch64 architectures. The aarch64 bit version of the application is recommended for running on the Pi. \nNote that this does require you to run the 64-Bit version of the Raspberry Pi OS if you are not already.\n\n## Configuration\nIf you wish to configure the application, you can add a `config.yaml` file to `~/.config/LMN-3`. \nThe only configuration currently supported is whether to show a title bar, and the width and height\nof the application window. You can also configure a basic color scheme. An example config file is shown below:\n```yaml\nconfig:\n  show-title-bar: false\n  size:\n    width: 800\n    height: 480\n  colours:\n    backgroundColour: \"ff1d2021\"\n    textColour: \"fff9f5d7\"\n    colour1: \"ff458588\"\n    colour2: \"ff689d6a\"\n    colour3: \"fff9f5d7\"\n    colour4: \"ffcc241d\"\n    colour5: \"ff98971a\"\n    colour6: \"ffd65d0e\"\n    colour7: \"ffb16286\"\n    colour8: \"ffd79921\"\n```\n\nThe first time you run the application, the directories `~/.config/LMN-3/samples` and \n`~/.config/LMN-3/drum kits` will be automatically created. See the sections below for details on how to add\nsynth samples and drum kits to the application.\n\n### Samples\nPlace any audio sample files you wish to use with the Sampler plugin in `~/.config/LMN-3/samples`. \n\n### Drum Kits\nDrum kits are handled a bit differently than regular samples. Drum kits are essentially directories located in \n`~/.config/LMN-3/drum_kits`, with each kit directory containing a `.yaml` mapping file along with any sample files \nassociated with it. \n\nAs an example, suppose I want to make a drum kit called AwesomeDrumKit. I would first create a directory in \n`~/.config/LMN-3/drum_kits` named AwesomeDrumKit.\n```\nmkdir ~/.config/LMN-3/drum_kits/AwesomeDrumKit\n```\n\nI would then add all the samples I want to use in that kit into that \nnewly created AwesomeDrumKit folder (if you are doing this using the file browser you will need to make sure\nand show hidden folders since `.config` is hidden.) Then I would create the yaml file:\n```\ntouch  ~/.config/LMN-3/drum_kits/AwesomeDrumKit/AwesomeDrumKit.yaml\n```\nNotice that the `.yaml` file has the same name as its parent directory. You would then edit the file and define the mapping that states which sample is played by which midi note number:\n```yaml\nname: \"AwesomeDrumKit\"\nmappings:\n  - note_number: \"53\"\n    file_name: \"cool_sample.wav\"\n  - note_number: \"54\"\n    file_name: \"wacky_sample.wav\"\n  - note_number:\n... (truncated)"
     }
   },
   {
     "name": "FundamentalFrequency/LMN-3-Emulator",
     "stars": 191,
     "description": "LMN-3 MIDI Emulator",
+    "languages_breakdown": {
+      "C++": 50749,
+      "CMake": 2302,
+      "C": 1450
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# LMN-3-Emulator\n[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)\n\n![screenshot of emulator](images/emulator.png)\n\nThis emulator allows the user to emulate the LMN-3 Hardware and produces MIDI signals that can be used to control the \n[LMN-3-DAW](https://github.com/FundamentalFrequency/LMN-3-DAW).\n\nIf you would like to support the project, please consider becoming a [sponsor](https://github.com/sponsors/stonepreston).\n\n## Releases\nReleases can be downloaded [here](https://github.com/FundamentalFrequency/LMN-3-Emulator/releases)\n\n## Building From Source\n\n### Cloning the Repository\nThis repository relies on git submodules. You must clone the submodules as well using:\n```bash\ngit clone --recurse-submodules https://github.com/FundamentalFrequency/LMN-3-Emulator\n```\n\n### Dependencies\nYou will need to run the following command to install the build dependencies:\n```bash\nsudo apt install apt install libasound2-dev libjack-jackd2-dev \\\n    ladspa-sdk \\\n    libcurl4-openssl-dev  \\\n    libfreetype6-dev \\\n    libx11-dev libxcomposite-dev libxcursor-dev libxcursor-dev libxext-dev libxinerama-dev libxrandr-dev libxrender-dev \\\n    libwebkit2gtk-4.0-dev \\\n    libglu1-mesa-dev mesa-common-dev \\ \n    build-essential cmake clang llvm lld\n```\n\n### Building the Project\nCMake is used to build the project. Execute the following commands to build all project targets:\n```bash\ncmake -B build -DCMAKE_CXX_COMPILER=clang++ -DCMAKE_C_COMPILER=clang -DCMAKE_CXX_FLAGS=-fuse-ld=lld -DCMAKE_BUILD_TYPE=Release\ncmake --build build -j8\n```\n\n## Contributing\nPull requests are welcome and very much appreciated.\n\n### Code Style\nPlease format your code before submitting a PR. It will fail the CI linting check otherwise. You can run the following\ncommands to format it according to the provided .clang-format file:\n```bash\nsudo apt install clang-format # install clang-format if you don't already have it\nfind Source/ -iname *.h -o -iname *.cpp | xargs clang-format -i --style=file\n```"
     }
   }
 ]

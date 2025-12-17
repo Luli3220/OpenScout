@@ -1,56 +1,51 @@
 [
   {
     "name": "SonarSource/sonarqube",
-    "stars": 10104,
+    "stars": 10106,
     "description": "Continuous Inspection",
+    "languages_breakdown": {
+      "Java": 35989270,
+      "Shell": 28460,
+      "Ruby": 13336,
+      "HTML": 10979,
+      "Batchfile": 6133,
+      "Dockerfile": 2311,
+      "JavaScript": 1799,
+      "Groovy": 1419,
+      "Starlark": 860,
+      "Scheme": 359
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# SonarQube [![Build Status](https://api.cirrus-ci.com/github/SonarSource/sonarqube.svg?branch=master)](https://cirrus-ci.com/github/SonarSource/sonarqube) [![Quality Gate Status](https://next.sonarqube.com/sonarqube/api/project_badges/measure?project=sonarqube&metric=alert_status&token=d95182127dd5583f57578d769b511660601a8547)](https://next.sonarqube.com/sonarqube/dashboard?id=sonarqube) [![AI Code Assurance](https://next.sonarqube.com/sonarqube/api/project_badges/ai_code_assurance?project=org.sonarsource.sonarqube%3Asonarqube-private&token=sqb_c0e2fa9ac4ef89f9a8403c6ba235e108ceb1dce1)](https://next.sonarqube.com/sonarqube/dashboard?id=sonarqube)\n\n## Continuous Inspection\n\nSonarQube provides the capability to not only show the health of an application but also to highlight issues newly introduced. With a Quality Gate in place, you can [achieve Clean Code](https://www.sonarsource.com/solutions/clean-code/) and therefore improve code quality systematically.\n\n## Links\n\n- [Website](https://www.sonarsource.com/products/sonarqube)\n- [Download](https://www.sonarsource.com/products/sonarqube/downloads)\n- [Documentation](https://docs.sonarsource.com/sonarqube)\n- [Webapp source code](https://github.com/SonarSource/sonarqube-webapp)\n- [X](https://twitter.com/SonarQube)\n- [SonarSource](https://www.sonarsource.com), author of SonarQube\n- [Issue tracking](https://jira.sonarsource.com/browse/SONAR/), read-only. Only SonarSourcers can create tickets.\n- [Responsible Disclosure](https://community.sonarsource.com/t/responsible-vulnerability-disclosure/9317)\n- [Next](https://next.sonarqube.com/sonarqube) instance of the next SonarQube version\n\n## Have Questions or Feedback?\n\nFor support questions (\"How do I?\", \"I got this error, why?\", ...), please first read the [documentation](https://docs.sonarsource.com/sonarqube) and then head to the [SonarSource Community](https://community.sonarsource.com/c/help/sq/10). The answer to your question has likely already been answered! 🤓\n\nBe aware that this forum is a community, so the standard pleasantries (\"Hi\", \"Thanks\", ...) are expected. And if you don't get an answer to your thread, you should sit on your hands for at least three days before bumping it. Operators are not standing by. 😄\n\n## Contributing\n\nIf you would like to see a new feature or report a bug, please create a new thread in our [forum](https://community.sonarsource.com/c/sq/10).\n\nPlease be aware that we are not actively looking for feature contributions. The truth is that it's extremely difficult for someone outside SonarSource to comply with our roadmap and expectations. Therefore, we typically only accept minor cosmetic changes and typo fixes.\n\nWith that in mind, if you would like to submit a code contribution, please create a pull request for this repository. Please explain your motives to contribute this change: what problem you are trying to fix, what improvement you are trying to make.\n\nMake sure that you follow our [code style](https://github.com/SonarS\n... (truncated)"
     }
   },
   {
     "name": "SonarSource/docker-sonarqube",
     "stars": 1512,
     "description": ":whale: SonarQube in Docker",
+    "languages_breakdown": {
+      "Go": 43159,
+      "Dockerfile": 16495,
+      "Shell": 14063
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# About this Repo [![Build Status](https://api.cirrus-ci.com/github/SonarSource/docker-sonarqube.svg)](https://cirrus-ci.com/github/SonarSource/docker-sonarqube)\n\nThis is the Git repo of the official Docker image for [SonarQube](https://registry.hub.docker.com/_/sonarqube/). See the Hub page for the full readme on how to use the Docker image and for information regarding contributing and issues.\n\nThe full readme is generated over in [docker-library/docs](https://github.com/docker-library/docs), specifically in [docker-library/docs/sonarqube](https://github.com/docker-library/docs/tree/master/sonarqube).\n\nSonar's [Clean Code solution](https://www.sonarsource.com/solutions/clean-code/) helps developers deliver high-quality, efficient code standards that benefit the entire team or organization.\n\n\nHave Questions or Feedback?\n---------------------------\n\nFor support questions (\"How do I?\", \"I got this error, why?\", ...), please first read the [documentation](https://docs.sonarqube.org) and then head to the [SonarSource forum](https://community.sonarsource.com/). There are chances that a question similar to yours has already been answered. \n\nBe aware that this forum is a community, so the standard pleasantries (\"Hi\", \"Thanks\", ...) are expected. And if you don't get an answer to your thread, you should sit on your hands for at least three days before bumping it. Operators are not standing by. :-)\n\n\nContributing\n------------\n\nIf you would like to see a new feature or report a bug, please create a new thread in our [forum](https://community.sonarsource.com/tags/c/sq/10/none/docker).\n\nPlease be aware that we are not actively looking for feature contributions. We typically accept minor improvements and bug fixes.\n\nWith that in mind, if you would like to submit a code contribution, please create a pull request for this repository. Please explain your motives to contribute this change: what problem you are trying to fix, what improvement you are trying to make.\n\n### License\n\nCopyright 2015-2025 SonarSource.\n\nSonarQube Community Build is released under the [GNU Lesser General Public License, Version 3.0⁠,](http://www.gnu.org/licenses/lgpl.txt) and packaged with [SSALv1](https://www.sonarsource.com/license/ssal/) analyzers. SonarQube Server Developer, Enterprise, and Data Center Editions are licensed under [SonarQube Server Terms and Conditions](https://www.sonarsource.com/legal/sonarqube/terms-and-conditions/).\n"
     }
   },
   {
     "name": "SonarSource/eslint-plugin-sonarjs",
     "stars": 1199,
     "description": "SonarJS rules for ESLint",
+    "languages_breakdown": {
+      "TypeScript": 393191,
+      "JavaScript": 5107,
+      "Shell": 1390,
+      "Dockerfile": 654,
+      "Starlark": 112
+    },
     "files": {
       "package.json": "{\n  \"name\": \"eslint-plugin-sonarjs\",\n  \"version\": \"1.0.4\",\n  \"description\": \"SonarJS rules for ESLint\",\n  \"main\": \"lib/src/index.js\",\n  \"types\": \"lib/src/index.d.ts\",\n  \"repository\": \"git@github.com:SonarSource/eslint-plugin-sonarjs.git\",\n  \"license\": \"LGPL-3.0-only\",\n  \"keywords\": [\n    \"sonarjs\",\n    \"eslint\",\n    \"eslintplugin\"\n  ],\n  \"bugs\": {\n    \"url\": \"https://github.com/SonarSource/eslint-plugin-sonarjs/issues\"\n  },\n  \"homepage\": \"https://github.com/SonarSource/eslint-plugin-sonarjs\",\n  \"engines\": {\n    \"node\": \">=16\"\n  },\n  \"files\": [\n    \"lib\",\n    \"LICENSE\"\n  ],\n  \"scripts\": {\n    \"build\": \"rimraf lib && tsc -d -p src\",\n    \"test\": \"jest\",\n    \"ruling\": \"ts-node --files ruling/index.ts\",\n    \"precommit\": \"pretty-quick --staged\",\n    \"prepare\": \"husky install .husky\",\n    \"prepack\": \"npm run build\",\n    \"format\": \"prettier --write .\",\n    \"check-format\": \"prettier --list-different .\"\n  },\n  \"peerDependencies\": {\n    \"eslint\": \"^8.0.0 || ^9.0.0\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"7.24.4\",\n    \"@babel/eslint-parser\": \"7.24.1\",\n    \"@babel/plugin-proposal-export-default-from\": \"7.24.1\",\n    \"@babel/plugin-proposal-function-bind\": \"7.24.1\",\n    \"@babel/preset-env\": \"7.24.4\",\n    \"@babel/preset-flow\": \"7.24.1\",\n    \"@babel/preset-react\": \"7.24.1\",\n    \"@types/eslint\": \"8.56.10\",\n    \"@types/eslint-ruling\": \"npm:@types/eslint@^8.56.10\",\n    \"@types/jest\": \"29.5.12\",\n    \"@types/lodash\": \"4.17.0\",\n    \"@types/minimist\": \"1.2.5\",\n    \"@types/node\": \"20.12.7\",\n    \"@typescript-eslint/parser\": \"7.7.1\",\n    \"@typescript-eslint/rule-tester\": \"7.7.1\",\n    \"@typescript-eslint/utils\": \"7.7.1\",\n    \"eslint\": \"8.57.0\",\n    \"eslint-config-prettier\": \"9.1.0\",\n    \"eslint-plugin-import\": \"2.29.1\",\n    \"eslint-plugin-notice\": \"0.9.10\",\n    \"eslint-plugin-sonarjs\": \"0.25.1\",\n    \"eslint-ruling\": \"npm:eslint@8.57.0\",\n    \"husky\": \"9.0.11\",\n    \"jest\": \"29.7.0\",\n    \"jest-sonar-reporter\": \"2.0.0\",\n    \"lodash\": \"4.17.21\",\n    \"minimist\": \"1.2.8\",\n    \"prettier\": \"3.2.5\",\n    \"pretty-quick\": \"4.0.0\",\n    \"rimraf\": \"5.0.5\",\n    \"semver\": \"^7.6.0\",\n    \"ts-jest\": \"29.1.2\",\n    \"ts-node\": \"10.9.2\",\n    \"typescript\": \"5.4.5\"\n  },\n  \"prettier\": {\n    \"printWidth\": 100,\n    \"trailingComma\": \"all\",\n    \"singleQuote\": true,\n    \"arrowParens\": \"avoid\",\n    \"endOfLine\": \"lf\"\n  },\n  \"jest\": {\n    \"roots\": [\n      \"tests\",\n      \"src\"\n    ],\n    \"collectCoverageFrom\": [\n      \"src/**/*.ts\"\n    ],\n    \"moduleFileExtensions\": [\n      \"ts\",\n      \"js\",\n      \"json\"\n    ],\n    \"transform\": {\n      \"^.+\\\\.ts$\": [\n        \"ts-jest\",\n        {\n          \"babelConfig\": false\n        }\n      ]\n    },\n    \"testMatch\": [\n      \"<rootDir>/tests/**/*.test.ts\"\n    ]\n  }\n}\n",
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# This repository has moved!\n\nThis repository contains `eslint-plugin-sonarjs` up to version `^1.0.0`. For versions `>=2.0.0` please go to the repository of the [SonarJS analyzer](https://github.com/SonarSource/SonarJS/blob/master/packages/jsts/src/rules/README.md). The new versions of `eslint-plugin-sonarjs` makes all SonarJS rules available for ESLint users, instead of a subset as it was with `^1.0.0` living here.\n\nNo new changes are expected to land here.\n\n# eslint-plugin-sonarjs [![npm version](https://badge.fury.io/js/eslint-plugin-sonarjs.svg)](https://badge.fury.io/js/eslint-plugin-sonarjs) [![Build Status](https://api.cirrus-ci.com/github/SonarSource/eslint-plugin-sonarjs.svg?branch=master)](https://cirrus-ci.com/github/SonarSource/eslint-plugin-sonarjs) [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=eslint-plugin-sonarjs&metric=alert_status)](https://sonarcloud.io/dashboard?id=eslint-plugin-sonarjs) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=eslint-plugin-sonarjs&metric=coverage)](https://sonarcloud.io/dashboard?id=eslint-plugin-sonarjs)\n\nSonarJS rules for ESLint to help developers produce [Clean Code](https://www.sonarsource.com/solutions/clean-code/) by detecting bugs and suspicious patterns.\n\n## Rules\n\n### Bug Detection :bug:\n\nRules in this category aim to find places in code that have a high chance of being bugs, i.e. don't work as intended.\n\n- All branches in a conditional structure should not have exactly the same implementation ([`no-all-duplicated-branches`])\n- Collection elements should not be replaced unconditionally ([`no-element-overwrite`])\n- Empty collections should not be accessed or iterated ([`no-empty-collection`])\n- Function calls should not pass extra arguments ([`no-extra-arguments`])\n- Related \"if/else if\" statements should not have the same condition ([`no-identical-conditions`])\n- Identical expressions should not be used on both sides of a binary operator ([`no-identical-expressions`])\n- Return values from functions without side effects should not be ignored ([`no-ignored-return`]) (_uses-types_)\n- Loops with at most one iteration should be refactored ([`no-one-iteration-loop`])\n- The output of functions that don't return anything should not be used ([`no-use-of-empty-return-value`])\n- Non-existent operators '=+', '=-' and '=!' should not be used ([`non-existent-operator`]) (:wrench: _fixable_)\n\n### Code Smell Detection :pig:\n\nCode Smells, or maintainability issues, are raised for places of code which might be costly to change in the future. These rules also help to keep the high code quality and readability. And finally, some rules report issues on different suspicious code patterns.\n\n- Cognitive Complexity of functions should not be too high ([`cognitive-complexity`])\n- \"if ... else if\" constructs should end with \"else\" clauses ([`elseif-without-else`]) (_disabled_)\n- \"switch\" statements should not have too many \"case\" clauses ([`max-switch-cases`])\n- Collaps\n... (truncated)"
     }
   }
 ]

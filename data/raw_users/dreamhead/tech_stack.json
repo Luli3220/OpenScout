@@ -3,54 +3,27 @@
     "name": "dreamhead/moco",
     "stars": 4435,
     "description": "Easy Setup Stub Server",
+    "languages_breakdown": {
+      "Java": 1040573,
+      "Shell": 10020,
+      "Groovy": 1233
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "<img src=\"moco-doc/DukeChoice-960x90-lm.png?raw=true\">\n\n<a href=\"https://github.com/dreamhead/moco\">\n  <img src=\"moco-doc/moco.png?raw=true\" width=\"100px\">\n</a>\n\n# [Moco](https://github.com/dreamhead/moco) \n[![Build](https://github.com/dreamhead/moco/actions/workflows/build.yaml/badge.svg)](https://github.com/dreamhead/moco/actions/workflows/build.yaml)\n[![HitCount](http://hits.dwyl.com/dreamhead/moco.svg?style=flat-square)](http://hits.dwyl.com/dreamhead/moco)\n\nMoco is an easy setup stub framework.\n\n## Latest Release\n* [![Maven Central](https://img.shields.io/maven-central/v/com.github.dreamhead/moco-core.svg?label=Maven%20Central)](https://central.sonatype.com/artifact/com.github.dreamhead/moco-core)\n* [Release Notes](moco-doc/ReleaseNotes.md)\n\n## User Voice\n* [Let me know](https://jinshuju.net/f/Agawf9) if you are using Moco.\n* Join Moco [mailing list](https://groups.google.com/forum/#!forum/moco-stub) to discuss.\n\n## Why\nIntegration, especially based on HTTP protocol, e.g. web service, REST etc, is wildly used in most of our development.\n\nIn the old days, we just deployed another WAR to an application server, e.g. Jetty or Tomcat etc. As we all know, it's so boring to develop a WAR and deploy it to any application server, even if we use an embeded server. And the WAR needs to be reassembled even if we just want to change a little bit.\n\n## Quick Start\n* Download [Standalone Moco Runner](https://repo1.maven.org/maven2/com/github/dreamhead/moco-runner/1.5.0/moco-runner-1.5.0-standalone.jar)\n* Write your own configuration file to describe your Moco server configuration as follow:\n```json\n[\n  {\n    \"response\" :\n      {\n        \"text\" : \"Hello, Moco\"\n      }\n  }\n]\n```\n(foo.json)\n\n* Run Moco HTTP server with the configuration file.\n```shell\njava -jar moco-runner-<version>-standalone.jar http -p 12306 -c foo.json\n```\n\n* Now, open your favorite browser to visit http://localhost:12306 and you will see \"Hello, Moco\".\n\n## Documents\n* More [Usages](moco-doc/usage.md)\n* Detailed [HTTP APIs](moco-doc/apis.md) or [Socket APIs](moco-doc/socket-apis.md)\n* Detailed [REST API](moco-doc/rest-apis.md)\n* Detailed [Websocket API](moco-doc/websocket-apis.md)\n* [Global Settings](moco-doc/global-settings.md) for multiple configuration files.\n* [Command Line Usages](moco-doc/cmd.md)\n* [Extend Moco](moco-doc/extending.md) if current API does not meet your requirement.\n\n## Build\nMake sure you have JDK and Gradle installed.\n\n* Clone Moco\n\n```shell\ngit clone git@github.com:dreamhead/moco.git\n```\n* Build Moco\n\n```shell\n./gradlew build\n```\n* Build uberjar\n\n```shell\n./gradlew uberjar\n```\n* Check code before commit\n\n```shell\n./gradlew check\n```\n\n## Contributing\nCheck out what you can help [here](moco-doc/plan.md) if you do not have any existing idea.\n\n## Copyright and license\nCopyright 2012-2023 ZHENG Ye\n\nLicensed under MIT License (the \"License\"); You may obtain a copy of the License in the LICENSE file, or at:\n\nhttps://raw.github.com/dreamhead/moco/master/MIT-LICENSE.txt\n\n## \n... (truncated)"
     }
   },
   {
     "name": "dreamhead/patterns-of-distributed-systems",
     "stars": 4210,
     "description": "《Patterns of Distributed Systems》中文版",
-    "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
-    }
+    "languages_breakdown": {},
+    "files": {}
   },
   {
     "name": "dreamhead/ugly-code",
     "stars": 82,
     "description": "the published articles about ugly code",
-    "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
-    }
+    "languages_breakdown": {},
+    "files": {}
   }
 ]

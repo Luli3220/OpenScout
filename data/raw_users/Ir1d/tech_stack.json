@@ -3,54 +3,29 @@
     "name": "Ir1d/lowLevelVision",
     "stars": 99,
     "description": "无",
+    "languages_breakdown": {},
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# A low-level vision paperReading List for 2019 & 2020\n\nThe following papers are related to low-level vision, including [denoise](#denoising), [inpainting](#inpainting), [lowlight enhancement](#lowlight-enhancement), [dehaze](#dehazing), [derain](#derain), [deblur](#deblur), [demoireing](#demoireing), [reflection removal](#reflection-removal), [super resolution](#super-resolution) and [image restoration](#image-restoration).\n\nPull Requests are welcomed. Feel free to add related papers you like to this list.\n\nA lot of interesting papers are not yet covered by me in the arxiv sections.\n\n## TODO\n\n<details>\n<summary>Supported Conference List</summary>\n- [x] [IJCAI 2019](https://www.ijcai19.org/accepted-papers.html)\n- [x] [ICLR 2019](https://openreview.net/group?id=ICLR.cc/2019/Conference)\n- [x] [ICML 2019](https://icml.cc/Conferences/2019/Schedule?type=Poster)\n- [x] [CVPR 2019](http://openaccess.thecvf.com/CVPR2019_search.py) \n- [x] [AAAI 2019](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)\n- [x] [BMVC 2019](https://bmvc2019.org/programme/detailed-programme/#/)\n- [x] [ACM MM 2019](https://2019.acmmm.org/accepted-papers/index.html)\n- [x] [ICIP 2019](https://cmsworkshops.com/ICIP2019/Papers/TechnicalProgram_MS.asp)\n- [x] [ICME 2019](https://www.icme2019.org/conf_schedule)\n- [x] [ICCV 2019](http://openaccess.thecvf.com/ICCV2019.py)\n- [ ] NeurIPS 2019\n- [x] [AAAI 2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)\n- [x] [CVPR 2020](http://openaccess.thecvf.com/CVPR2020.py)\n- [x] [ECCV 2020](https://www.ecva.net/papers.php)\n- [x] [ACM MM 2020](https://2020.acmmm.org/main-track-list.html)\n\n</details>\n\n`[Note]`: \n\n- some IJCAI accepted papers are not available at the moment\n- arxiv sections are updated on 2019.7.2\n- only titles are maintained for new papers\n\n## Workshops\n\n- [NTIRE 2018](http://openaccess.thecvf.com/CVPR2018_workshops/CVPR2018_W13.py)\n- [NTIRE 2019](http://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_NTIRE.py)\n- [AIM 2019](http://openaccess.thecvf.com/ICCV2019_workshops/ICCV2019_AIM.py)\n- [UG2+ 2019](http://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_UG2_Prize_Challenge.py)\n- [Vision for All Seasons Bad Weather and Nighttime 2019](http://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_Vision_for_All_Seasons_Bad_Weather_and_Nighttime.py)\n\n## Denoising\n\n(keywords: denoise, noise, denoising)\n\n### CVPR19\n\n- Toward Convolutional Blind Denoising of Real Photographs\n  - Shi Guo, Zifei Yan, Kai Zhang, Wangmeng Zuo, Lei Zhang\n- Noise2Void - Learning Denoising From Single Noisy Images\n  - Alexander Krull, Tim-Oliver Buchholz, Florian Jug\n- FOCNet: A Fractional Optimal Control Network for Image Denoising\n  - Xixi Jia, Sanyang Liu, Xiangchu Feng, Lei Zhang\n- Unprocessing Images for Learned Raw Denoising\n  - Tim Brooks, Ben Mildenhall, Tianfan Xue, Jiawen Chen, Dillon Sharlet, Jonathan T. Barron\n- Model-Blind Video Denoising via Frame-To-Frame Tr\n... (truncated)"
     }
   },
   {
     "name": "Ir1d/image-processing-datasets",
     "stars": 68,
     "description": "image-processing-datasets",
+    "languages_breakdown": {},
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# image-processing-datasets\n\n## Dehazing\n\n> Waterloo IVC Dehazed Image Database\n\nKede Ma, Wentao Liu and Zhou Wang, \"Perceptual evaluation of single image dehazing algorithms,\" IEEE International Conference on Image Processing, Sept. 2015\n\nThe dataset consists of 25 hazy images covering diverse outdoor scenes and indoor static objects. 22 images of outdoor scenes are captured in the real world and are degraded by haze to different extents, while the hazes of the other 3 indoor images are simulated homogenously. Then 8 dehazing algorithms proposed between 2009 and 2014 are selected to produce 8 different dehazed images for each of the 25 hazy images to form 25 image sets, each of which includes 9 images of the same content (1 hazy, 8 dehazed). In the subjective test, 24 subjects were showed 9 images of one image set at the same time on a display, and were asked to give scores according to perceptual qualities of these images.\n\n> Vision enhancement in homogeneous and heterogeneous fog\n\nFRIDA dataset designed for Advanced Driver Assistance Systems (ADAS) that is a synthetic image database (computer graphics generated scenes) with 66 roads synthesized scenes.\n\n> D-hazy: A dataset to evaluate quantitatively dehazing algorithms\n\nhttp://www.meo.etc.upt.ro/AncutiProjectPages/D_Hazzy_ICIP2016/ (dataset publicly available)\n\nA dataset of 1400+ images of real complex scenes has been derived from the Middleburry1 and the NYU-Depth V22 datasets. It contains high quality real scenes, and the depth map associated to each image has been used to yield synthesized hazy images based on Koschmieder’s light propagation model.\n\n> A color image database for haze model and dehazing methods evaluation\n\nWe created a database called CHIC (Color Hazy Image for Comparison), consisting of two scenes in controlled environment. In addition to the haze-free image, we provide 9 images of different fog densities. Moreover, for each scene, we provide a number of parameters such as local scene depth, distance from the camera of known objects such as Macbeth Color Checkers, their radiance, and the haze level through transmittance.\n\n> HazeRD: an outdoor dataset for dehazing algorithms\n\nhttps://ieee-dataport.org/documents/hazerd-outdoor-dataset-dehazing-algorithms\n\nHazeRD contains 10 different scenes based on the architectural biometrics project. For each scene, the ground RGB images, depth maps, and synthesized hazy images following the atmospheric optics are provided; the hazy images come with five different haze level using real life physical parameters. HazeRD focuses on outdoor scenes whereas other datasets provide indoor scenes(?); and, the synthesis is based on real life parameters.\n\n> I-HAZE: A DEHAZING BENCHMARK WITH REAL HAZY AND HAZE-FREE INDOOR IMAGES *(NTIRE18)*\n\nContains 35 image pairs of hazy and corresponding haze-free (ground-truth) indoor images. Hazy images have been generated\nusing real haze produced by two professional haze machines (LSM1500 PRO 1500 W). The images \n... (truncated)"
     }
   },
   {
     "name": "Ir1d/DARKFACE_eval_tools",
     "stars": 57,
     "description": "无",
+    "languages_breakdown": {
+      "MATLAB": 12947
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# DarkFace\n\nug2challenge: http://www.ug2challenge.org\n\nDarkFace: https://flyywh.github.io/CVPRW2019LowLight\n\n## Guidlines\n\nPlease check http://www.ug2challenge.org/rules19_t2.html\n\n## EvalTools\n\nhttps://hub.docker.com/r/scaffrey/eval_tools_ap\n\n**Please note that the eval_tools is expected to work with octave, there might be bugs when running from MATLAB**\n\n```\ndocker pull scaffrey/eval_tools_ap:dry_run\n```\n\n```\ndocker run --rm -it \\\n    -v /path/to/your/submission:/tools/data \\\n    -v /path/to/save/result:/tools/output \\\n    scaffrey/eval_tools_ap:dry_run YOUR_ALGORITHM_NAME ./data/gt/ /root/UG2/Sub_challenge2_1/output/userid/output/submission_#/\n```\n\nwill lead to:\n\n```\noctave df_eval.m YOUR_ALGORITHM_NAME ./data/gt/ /root/UG2/Sub_challenge2_1/output/userid/output/submission_#/\n# df_eval.m takes three args\n# the first one is ALGORITHM_NAME (used in the plot)\n# the second one is the folder which contains ground_truth\n# the third one is the folder which contains your submission\n# note that the locations here should be the paths inside the docker image\n\n```\n\n`/path/to/your/submission` should contain:\n- a `file_list.txt`, downloaded from: `<Google Drive>`\n\n`/path/to/save/result` will contain:\n- output of eval_tools including your scores\n\n## Acknowledgments\n\nCode borrows heavily from the eval tools of WIDER FACE. Thanks for the sharing.\n\n## Reference results on track2.2_test_sample\n\nDSFD ap: 0.470909\nFaster-RCNN ap: 0.114775\nPyramidBox ap: 0.352745\nSSH ap: 0.332407\n\n"
     }
   }
 ]

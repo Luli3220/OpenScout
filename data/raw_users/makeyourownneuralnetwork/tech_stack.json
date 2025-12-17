@@ -3,54 +3,33 @@
     "name": "makeyourownneuralnetwork/makeyourownneuralnetwork",
     "stars": 2467,
     "description": "Code for the Make Your Own Neural Network book",
+    "languages_breakdown": {
+      "Jupyter Notebook": 189727
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# makeyourownneuralnetwork\nCode for the [Make Your Own Neural Network book](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608/r)\n\nblog: https://makeyourownneuralnetwork.blogspot.com/\n"
     }
   },
   {
     "name": "makeyourownneuralnetwork/gan",
     "stars": 397,
     "description": "python notebooks accompanying the book Make Your Own GAN",
+    "languages_breakdown": {
+      "Jupyter Notebook": 7006077
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# Make Your First GAN With PyTorch\n\npython notebooks accompanying the book: [Make Your First GAN With PyTorch](https://www.amazon.com/dp/B085RNKXPD)\n\nblog: [https://makeyourownneuralnetwork.blogspot.com](https://makeyourownneuralnetwork.blogspot.com)\n"
     }
   },
   {
     "name": "makeyourownneuralnetwork/complex_valued_neuralnetwork",
     "stars": 43,
     "description": "无",
+    "languages_breakdown": {
+      "Jupyter Notebook": 352072
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# complex_valued_neuralnetwork"
     }
   }
 ]

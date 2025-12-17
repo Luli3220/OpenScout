@@ -3,36 +3,27 @@
     "name": "hushnymous/android_frameworks_base",
     "stars": 162,
     "description": "无",
-    "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
-    }
+    "languages_breakdown": {
+      "Java": 48474884,
+      "C++": 6906556,
+      "C": 461223,
+      "Makefile": 254807,
+      "HTML": 199746,
+      "Rust": 130287,
+      "Python": 49411,
+      "Shell": 19392,
+      "GLSL": 19154
+    },
+    "files": {}
   },
   {
     "name": "hushnymous/android_packages_apps_Settings",
     "stars": 79,
     "description": "无",
-    "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
-    }
+    "languages_breakdown": {
+      "Java": 3669554,
+      "Makefile": 3674
+    },
+    "files": {}
   }
 ]

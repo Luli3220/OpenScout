@@ -1,56 +1,33 @@
 [
   {
     "name": "henrymorgen/android-knowledge-system",
-    "stars": 666,
+    "stars": 667,
     "description": "Android应用开发最强原创知识体系",
+    "languages_breakdown": {},
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# Android最强原创知识体系\n\n\n为了方便大家的阅读以及自己的知识体系的建立，特意来写出这个引导文章。以前我是遇到什么写什么，想到什么写什么，从2016年开始我将围绕这个知识体系来写文章，从点到面来逐步建立并完善自己的知识体系。对于Android应用开发知识体系的建立，我这里貌似是最早的，后面有很多人开始模仿，也算是带了个好头。\n\n我这个知识体系和其他的知识体系不同的是所有的分支文章都是我原创写出来的，所以文章的风格会比较统一，文章之间的过度和衔接也比较自然。\n\n很多人都有一个误区，就是喜欢搞个思维导图，思维导图本身并没有问题，但是弄个思维导图，然后每个分支总结下，或者找几篇文章看看甚至看都不看就列在分支下面，然后看着思维导图有了满满的成就感，以为自己掌握了，其实只是知道而已，真正的掌握是去实现每个例子，去跟踪每段源码... 然后经过思考用自己的话写出来，未经自己思考的知识不是知识。而本体系就是告诉你，应该如何做，才会把知识变为你自己的。\n\n\n---\n#### **BATcoder技术视频(基于Android 11.0)**\n[一个视频帮你突破系统底层学习瓶颈！](http://liuwangshu.cn/batcoder/android-framework.html) \n\n[是时候安装Ubuntu，开始研究系统源码了！](http://liuwangshu.cn/batcoder/aosp/1-install-ubuntu.html) \n\n[是时候下载Android11系统源码和内核源码了！](http://liuwangshu.cn/batcoder/aosp/2-download-aosp.html) \n\n[做了多年安卓还没编译过源码？一个视频带你玩转！](http://liuwangshu.cn/batcoder/aosp/3-compiling-aosp.html)  \n\n\n\n## **1.Android框架层**\n[Android系统架构与系统源码目录](http://liuwangshu.cn/framework/system-architecture.html)\n#### **AOSP基础（基于Android 9.0）**\n[Android AOSP基础（一）VirtualBox 安装 Ubuntu](http://liuwangshu.cn/framework/aosp/1-install-ubuntu.html)               \n[Android AOSP基础（二）AOSP源码和内核源码下载](http://liuwangshu.cn/framework/aosp/2-download-aosp.html)                \n[Android AOSP基础（三）Android系统源码的整编和单编](http://liuwangshu.cn/framework/aosp/3-compiling-aosp.html)              \n[Android AOSP基础（四）Source Insight和Android Studio导入系统源码](http://liuwangshu.cn/framework/aosp/4-import-aosp.html)                                              \n[Android AOSP基础（五）Android Studio调试系统源码的三种方式](http://liuwangshu.cn/framework/aosp/5-debug-aosp.html)  \n\n\n#### **系统启动流程（基于Android 7.0）**\n[Android系统启动流程（一）解析init进程启动过程](http://liuwangshu.cn/framework/booting/1-init.html)                  \n[Android系统启动流程（二）解析Zygote进程启动过程](http://liuwangshu.cn/framework/booting/2-zygote.html)             \n[Android系统启动流程（三）解析SyetemServer进程启动过程](http://liuwangshu.cn/framework/booting/3-syetemserver.html)     \n[ Android系统启动流程（四）Launcher启动过程与系统启动流程](http://liuwangshu.cn/framework/booting/4-launcher.html)     \n\n\n#### **应用程序进程启动过程（基于Android 7.0）**\n[Android应用程序进程启动过程（前篇）](http://liuwangshu.cn/framework/applicationprocess/1.html)                      \n[Android应用程序进程启动过程（后篇）](http://liuwangshu.cn/framework/applicationprocess/2.html)\n\n\n#### **深入理解四大组件（基于Android 7.0/8.0）**\n[Android深入四大组件（一）应用程序启动过程](http://blog.csdn.net/itachi85/article/details/69388942)                     \n[Android深入四大组件（二）Service的启动过程](http://liuwangshu.cn/framework/component/2-service-start.html)             \n[Android深入四大组件（三）Service的绑定过程](http://liuwangshu.cn/framework/component/3-service-bind.html)              \n[Android深入四大组件（四）广播的注册、发送和接收过程](http://liuwangshu.cn/framework/component/4-broadcastreceiver.html)                                                                                                               \n[Android深入四大组件（五）Content Provider的启动过程](http://liuwangshu.cn/framework/component/5-contentprovider-start.html)                               \n[Android深入四大组件（六）Android8.0 根Activity启动过程（前篇）](http://liuwangshu.cn/framework/component/6-activity-st\n... (truncated)"
     }
   },
   {
     "name": "henrymorgen/android-advanced-light",
     "stars": 483,
     "description": "《Android进阶之光》源码",
+    "languages_breakdown": {
+      "Java": 258900
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "## **Android进阶三部曲第一部《Android进阶之光》源码**\n\n![1059158635_副本.jpg](http://upload-images.jianshu.io/upload_images/1417629-ffc5287016553464.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)\n\n### **源码目录介绍**\n\n\n目录        |  简介\n------------|--------------------------\n chapter_1   | 第1章 Android新特性\nchapter_2   | 第2章 Material Design\nchapter_3   | 第3章 View体系与自定义View\n无源码  | 第4章 多线程编程\nchapter_5  | 第5章 网络编程与网络框架\n无源码  | 第6章 设计模式\nchapter_7   | 第7章 事件总线\nchapter_8   | 第8章 函数响应式编程\nchapter_9  | 第9章 注解与依赖注入框架\nchapter_10   | 第10章 应用架构设计\n无源码  | 第11章 系统架构与MediaPlayer框架\n### **本书内容**\n本书共分为11章。<br>\n第1章介绍Android 5.0、Android 6.0、Android 7.0的新特性，包括Android 5.0的RecyclerView、Android 6.0的运行时权限机制和Android 7.0的多窗口模式等知识点。<br>\n第2章介绍Material Design以及Design Support Library常用的控件，并给出实例将Design Support Library中的常用控件结合在一起使用。<br>\n第3章介绍View相关的进阶知识，包括View的滑动、View的事件分发和View的工作流程。最后结合以上知识点来介绍自定义View。<br>\n第4章介绍多线程编程。本章不仅包括基础的线程知识，还会介绍线程同步和线程池等进阶知识点，最后结合这些知识点来分析Android 7.0的AsyncTask的源码。<br>\n第5章介绍网络编程的基础知识以及常用的网络框架：Volley、OKHttp和Retrofit的使用方法和原理分析。<br>\n第6章将设计模式进行分类，并介绍每个分类中常用的设计模式。<br>\n第7章介绍事件总线EventBus和otto的使用方法和原理。<br>\n第8章介绍函数响应式编程RxJava的使用方法，包括RxJava的基本使用、操作符、使用场景和源码分析等知识点。<br>\n第9章介绍注解的知识点和依赖注入框架ButterKnife和Dagger2的使用方法以及原理。<br>\n第10章介绍Android应用架构设计，包括MVP框架以及MVP结合RxJava和Dagger2，MVVM框架相关的Data Binding支持库。<br>\n第11章主要是指引读者进行Android系统源码阅读并带其入门，介绍Android系统框架、源码目录和阅读源码工具，并以分析MediaPlayer框架的源码作为示例。<br>\n### **后续内容**\n由于本书篇幅有限，我还有很多想要讲的技术知识无法在本书中展现，这些技术知识我会继续在自己的博客和微信公众号上分享出来。如果感兴趣，你可以继续关注我的博客和微信公众号，或者购买Android进阶三部曲第二部《Android进阶解密》。<br>\n独立博客：http://liuwangshu.cn<br>\nCSDN博客：https://liuwangshu.blog.csdn.net/<br>\nQQ群：499174415<br>\n \n分享Android、Java和大前端相关技术。 <br>\n\n![](https://upload-images.jianshu.io/upload_images/1417629-be3e83818814b47c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)\n\n### **License**\n\n © 2017 [刘望舒][itachi85]. This code is distributed under the MIT license.\n\n\n[itachi85]:http://liuwangshu.cn\n"
     }
   },
   {
     "name": "henrymorgen/android-advanced-decode",
     "stars": 187,
     "description": "《Android进阶解密》源码",
+    "languages_breakdown": {
+      "Java": 103696
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "## **Android进阶三部曲第二部《Android进阶解密》源码**\n\n![](https://upload-images.jianshu.io/upload_images/1417629-9c4d6f64ebf88d26.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)\n\n### **源码目录介绍**\n\n\n目录        |  简介\n------------|--------------------------\n chapter_12   | 第12章 理解ClassLoader\nchapter_13   | 第13章 热修复原理\nchapter_14   | 第14章 Hook技术\nchapter_15  | 第15章 插件化技术\n\n### **本书内容**\n本书共分为17章，各章内容如下：<br>\n第1章介绍Android系统架构、系统源码目录和如何阅读源码，带领大家走进Android系统源码的世界。<br>\n第2章介绍Android系统启动过程，为下面的章节做好铺垫。<br>\n第3章介绍应用程序进程启动过程。<br>\n第4章介绍四大组件的工作过程，包括根Activity的启动过程，Service的启动和绑定过程，广播的注册、发送和接收过程，Content Provider的启动过程。<br>\n第5章从源码角度分析上下文Context。<br>\n第6章介绍ActivityManagerService，包括AMS家族、AMS的启动过程、AMS重要的数据结构和Activity栈管理等内容。<br>\n第7章介绍WindowManager，包括WindowManager的关联类、Window的属性和Window的操作等内容。<br>\n第8章介绍WindowManagerService，包括WMS的创建过程、WMS的重要成员和Window的添加过程等内容。<br>\n第9章结合MediaRecorder框架来介绍JNI的原理。<br>\n第10章介绍Android开发所需要了解的Java虚拟机知识。<br>\n第11章介绍Dalvik和ART虚拟机。<br>\n第12章介绍ClassLoader，它是理解热修复原理和插件化原理必备的知识点。<br>\n第13章介绍热修复原理，包括热修复框架的对比、资源修复、代码修复和动态链接库的修复。<br>\n第14章介绍Hook技术，为讲解插件化原理做铺垫。<br>\n第15章介绍插件化原理，包括插件化的产生、四大组件的插件化、资源的插件化和so的插件化。<br>\n第16章介绍绘制优化，包括绘制性能分析和布局优化。<br>\n第17章介绍内存优化，从避免内存泄漏开始讲起，然后介绍常用的内存分析工具：Memory Monitor、Allocation Tracker和Heap Dump，最后介绍分析内存泄漏的利器：MAT和LeakCanary。<br>\n### **后续内容**\n由于本书篇幅有限，我还有很多想要讲的技术知识无法在本书中展现，这些技术知识我会继续在自己的博客和微信公众号上分享出来。如果感兴趣，你可以继续关注我的博客和微信公众号 <br>\n独立博客：http://liuwangshu.cn<br>\nCSDN博客：https://liuwangshu.blog.csdn.net/<br>\nQQ群：499174415<br>\n \n分享Android、Java和大前端相关技术。 <br>\n\n![](https://upload-images.jianshu.io/upload_images/1417629-be3e83818814b47c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)\n\n### **License**\n\n © 2018 [刘望舒][itachi85]. This code is distributed under the MIT license.\n\n\n[itachi85]:http://liuwangshu.cn\n"
     }
   }
 ]

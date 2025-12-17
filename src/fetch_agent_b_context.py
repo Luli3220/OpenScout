@@ -71,6 +71,64 @@ def is_valid_file(filename: str) -> bool:
     
     return ext in ALLOWED_EXTENSIONS
 
+def fetch_core_source_file(client: GitHubAPIClient, username: str) -> Optional[str]:
+    """Fallback: Fetches the largest source code file from the user's top repo."""
+    try:
+        # 1. Get Top 1 Original Repo
+        r_resp = client.get(f"/users/{username}/repos", params={'type': 'owner', 'sort': 'stars', 'direction': 'desc', 'per_page': 1})
+        if r_resp.status_code != 200: return None
+        repos = r_resp.json()
+        if not repos: return None
+        
+        top_repo = repos[0]
+        repo_name = top_repo['name']
+        default_branch = top_repo.get('default_branch', 'main')
+
+        # 2. Get File Tree (Recursive to find deep files)
+        # Recursive=1 might return many files, we filter
+        tree_url = f"/repos/{username}/{repo_name}/git/trees/{default_branch}?recursive=1"
+        t_resp = client.get(tree_url)
+        if t_resp.status_code != 200: return None
+        
+        tree_data = t_resp.json()
+        if 'tree' not in tree_data: return None
+        
+        # 3. Filter for Source Files
+        candidates = []
+        for item in tree_data['tree']:
+            if item['type'] == 'blob':
+                path = item['path']
+                # Filter: Allowlist extensions, ignore vendor/dist
+                if is_valid_file(path):
+                    candidates.append(item)
+        
+        if not candidates: return None
+
+        # 4. Sort by Size (Size is distinct in tree API)
+        # We want a file that is substantial but not huge. API tree 'size' is bytes.
+        # Let's pick the largest file that is under 50KB to avoid pure generated garbage, but large enough to show logic.
+        # Or just largest overall within reasonable limit.
+        candidates.sort(key=lambda x: x.get('size', 0), reverse=True)
+        
+        target_file = candidates[0] # Take the largest valid source file
+        
+        # 5. Fetch Content
+        f_resp = client.get(f"/repos/{username}/{repo_name}/contents/{target_file['path']}")
+        if f_resp.status_code == 200:
+            data = f_resp.json()
+            if 'content' in data:
+                import base64
+                content = base64.b64decode(data['content']).decode('utf-8', errors='replace')
+                # Truncate
+                if len(content) > 3000:
+                    content = content[:3000] + "\n... (file truncated)"
+                return f"\n=== Fallback Source Audit: {target_file['path']} (Size: {target_file['size']} bytes) ===\n{content}\n"
+
+    except Exception as e:
+        print(f"Error fetching core source file: {e}")
+    
+    return None
+
 def fetch_agent_b_context(client: GitHubAPIClient, username: str) -> Optional[str]:
     """
     Fetches code quality audit context (patches) for a user.
@@ -223,6 +281,13 @@ def fetch_agent_b_context(client: GitHubAPIClient, username: str) -> Optional[st
         except Exception as e:
             print(f"Error fetching files for PR {pr_number}: {e}")
             
+    # --- Fallback Strategy ---
+    if not final_output or len(final_output) < 200:
+        # print(f"  [Agent B] No sufficient PRs found for {username}, switching to Source File Audit...")
+        source_code = fetch_core_source_file(client, username)
+        if source_code:
+            final_output = (final_output or "") + source_code
+
     return final_output if final_output else None
 
 # --- Main Execution ---

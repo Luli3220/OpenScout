@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ContractWolf/smart-contract-audits",
+    "stars": 724,
+    "description": "ContractWolf audited smart contracts",
+    "languages_breakdown": {},
+    "files": {}
+  },
+  {
+    "name": "ContractWolf/raw-logos",
+    "stars": 544,
+    "description": "Raw logos for audited clients",
+    "languages_breakdown": {},
+    "files": {}
+  },
+  {
+    "name": "ContractWolf/audit-certificates",
+    "stars": 457,
+    "description": "ContractWolf audit certifications",
+    "languages_breakdown": {},
+    "files": {}
+  }
+]

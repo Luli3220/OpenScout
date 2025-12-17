@@ -1,4 +1,4 @@
 {
   "username": "aleju",
-  "agent_b_context": "\n=== PR #14270 in numpy/numpy (Stars: 31028) ===\n\n=== PR #40 in jmschrei/pomegranate (Stars: 3499) ===\n\n=== PR #6 in facebookarchive/eyescream (Stars: 598) ===\n"
+  "agent_b_context": "\n=== PR #14270 in numpy/numpy (Stars: 31028) ===\n\n=== PR #40 in jmschrei/pomegranate (Stars: 3499) ===\n\n=== PR #6 in facebookarchive/eyescream (Stars: 598) ===\n\n=== Fallback Source Audit: numpy/linalg/lapack_lite/f2c_d_lapack.c (Size: 1180206 bytes) ===\n\n"
 }

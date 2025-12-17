@@ -3,54 +3,34 @@
     "name": "camilamaia/jornada-big-tech",
     "stars": 130,
     "description": "Jornada Big Tech: I will have 3 months to study and prepare myself for the Big Tech interviews. Repository containing all my study material.",
+    "languages_breakdown": {
+      "Java": 60406
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# Jornada Big Tech (Big Tech Journey)\n\n<p>\n  <img\n    src=\"images/logo.png\"\n    width=\"100\"\n    alt=\"Response details\"\n  >\n</p>\n\nJornada Big Tech: I will have 3 months to study and prepare myself for the Big Tech interviews.\nRepository containing all my study material.\n\nCheck this journey on [YouTube][playlist] (PT-BR).\n\n[playlist]: https://www.youtube.com/playlist?list=PLBol2MsQo_E77Fk4cimEFMusT6EuOQ-N0\n"
     }
   },
   {
     "name": "camilamaia/factory-boy-best-practices",
     "stars": 49,
     "description": "factory_boy best practices",
+    "languages_breakdown": {
+      "Python": 29927,
+      "HTML": 1579,
+      "Makefile": 130,
+      "CSS": 25
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# factory_boy Best Practices\n\n1. Factories should represent their models\n\n1. Do not rely on defaults from factories\n\n    * If a default value is changed, all tests that depend on it will break\n    * The setup of a test should contain all the logic to ensure it will always pass\n    * Explicit better than implicit\n\n1. Factories should contain only the required data\n\n    * If the field is nullable (null=True) the attribute should be under a trait \n    and not as a default value\n    * If we want to have explicitly the attribute, we can use MyFactory(with_myattr=True)\n    * When are we going to remember to test the case MyFactory(myattr=None)?\n    * We should not assume there is an author when DB actually allows to not have it.\n\n1. Build over create\n\n    * MyFactory.build(): creates a local object (memory)\n    * MyFactory.create(): creates a local object + stores it in the DB\n\n1. If FK is in the table: SubFactor\n\n   If FK is in the other table: RelatedFactory + trait\n\n\n    * SubFactory: builds/creates the SubFactory during the process of creation of the main factory\n    * RelatedFactory: builds/creates the RelatedFactory after creating the main factory\n\n1. Use fixtures to wrap factories to avoid duplication\n\n1. Avoid sharing factories or fixtures among different files\n\n1. get_or_create should be used only for unique keys\n"
     }
   },
   {
     "name": "camilamaia/talks",
     "stars": 8,
     "description": "A repo to share my talks presentations",
+    "languages_breakdown": {},
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# Talks\nA repo to share my talks presentations\n"
     }
   }
 ]

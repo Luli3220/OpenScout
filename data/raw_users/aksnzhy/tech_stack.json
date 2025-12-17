@@ -3,54 +3,48 @@
     "name": "aksnzhy/xlearn",
     "stars": 3099,
     "description": "High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI interface.",
+    "languages_breakdown": {
+      "C++": 3709269,
+      "Shell": 347323,
+      "Python": 243910,
+      "Makefile": 96746,
+      "CMake": 36295,
+      "C": 24701,
+      "M4": 19093,
+      "Batchfile": 3333,
+      "R": 3078,
+      "Dockerfile": 1106
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "<img src=\"https://github.com/aksnzhy/xLearn/raw/master/img/xlearn_logo.png\" width = \"400\"/>\n\n[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](./LICENCE)\n[![Project Status](https://img.shields.io/badge/version-0.4.4-green.svg)]()\n\n## What is xLearn?\n\nxLearn is a ***high performance***, ***easy-to-use***, and ***scalable*** machine learning package that contains linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM), all of which can be used to solve large-scale machine learning problems. xLearn is especially useful for solving machine learning problems on large-scale sparse data. Many real world datasets deal with high dimensional sparse feature vectors like a recommendation system where the number of categories and users is on the order of millions. In that case, if you are the user of liblinear, libfm, and libffm, now xLearn is your another better choice.\n\n[Get Started! (English)](http://xlearn-doc.readthedocs.io/en/latest/index.html)\n\n[Get Started! (中文)](http://xlearn-doc-cn.readthedocs.io/en/latest/index.html)\n\n### Performance\n\n<img src=\"https://github.com/aksnzhy/xLearn/raw/master/img/speed.png\" width = \"800\"/>\n\nxLearn is developed by high-performance C++ code with careful design and optimizations. Our system is designed to maximize CPU and memory utilization, provide cache-aware computation, and support lock-free learning. By combining these insights, xLearn is 5x-13x faster compared to similar systems.\n\n### Ease-of-use\n\n<img src=\"https://github.com/aksnzhy/xLearn/raw/master/img/code.png\" width = \"600\"/>\n\nxLearn does not rely on any third-party library and users can just clone the code and compile it by using cmake. Also, xLearn supports very simple Python and CLI interface for data scientists, and it also offers many useful features that have been widely used in machine learning and data mining competitions, such as cross-validation, early-stop, etc.\n\n### Scalability\n\n<img src=\"https://github.com/aksnzhy/xLearn/raw/master/img/scalability.png\" width = \"650\"/>\n\nxLearn can be used for solving large-scale machine learning problems. xLearn supports out-of-core training, which can handle very large data (TB) by just leveraging the disk of a PC.\n\n## How to Contribute\n\nxLearn has been developed and used by many active community members. Your help is very valuable to make it better for everyone.\n\n * Please contribute if you find any bug in xLearn.\n * Contribute new features you want to see in xLearn.\n * Contribute to the tests to make it more reliable.\n * Contribute to the documents to make it clearer for everyone.\n * Contribute to the examples to share your experience with other users.\n * Open issue if you met problems during development.\n\nNote that, please post iusse and contribution in *English* so that everyone can get help from them.\n\n## What's New\n\n - 2019-10-13 [Andrew Kane](https://github.com/ankane) add [Ruby bindings](https://github.com/ankane/xlearn) for xLearn!\n\n - 2019-4-25 xLearn 0.4.4 version \n... (truncated)"
     }
   },
   {
     "name": "aksnzhy/bitcoin-bubble-index",
     "stars": 239,
     "description": "A visualization analysis tool for price bubble of Bitcoin, including basic price information, 60-days accumulative increase, hot keywords index, and bubble index.",
+    "languages_breakdown": {
+      "Python": 9320,
+      "HTML": 5079
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# Bitcoin Bubble Index\n\n### What's this?\n\nThis project provides a visualization analysis tool for price bubble of Bitcoin, including basic price information, 60-days accumulative increase, hot keywords index, and bubble index. We accumulated the original data (`2010/07/17` - `2020/03/09`) and put them into `/original_data` folder, and we visualize our analysis result using [echarts][1].\n\n### Datasets\n\nWe provide the following dataset:\n\n - *price.txt:* The bitcoin price in USD per day. \n - *sentaddr.txt:* Number of unique active addresses per day. \n - *transaction.txt:* Number of transactions in BTC blockchain per day. \n - *difficulty.txt:* Average mining difficulty per day. \n - *gtrend.txt:* Google Trends to \"Bitcoin\".\n - *tweets.txt:* Tweets per day #Bitcoin.\n\nYou can get the lastest data from [bitinfocharts.com][2]\n\n### How to use\n\nOpen `index.html` in your browser directly and you will see the following page:\n\n<img src=\"https://github.com/aksnzhy/bitcoin-bubble-index/blob/master/index.png\" width = \"800\"/>\n\nIn `original_data` folder, you can run the command:\n\n```\npython process_data.py\n```\n\nto get the analysis result, which will be stored in `data.json`.\n\n\n  [1]: https://github.com/apache/incubator-echarts\n  [2]: https://bitinfocharts.com/comparison/bitcoin-transactions.html"
     }
   },
   {
     "name": "aksnzhy/xlearn_doc",
     "stars": 21,
     "description": "Document of xLearn",
+    "languages_breakdown": {
+      "HTML": 254664,
+      "JavaScript": 101576,
+      "CSS": 14511,
+      "Python": 5101,
+      "Batchfile": 814,
+      "Makefile": 603
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "Get Started with xLearn !\n----------------------------------------\n\nxLearn is a high-performance, easy-to-use, and scalable machine learning package, \nwhich can be used to solve large-scale machine learning problems, especially for the problems \non large-scale sparse data, which is very common in scenes like CTR prediction and recommender \nsystem. If you are the user of liblinear, libfm, or libffm, now xLearn is your another better \nchoice. This is because xLearn handles all of these models in a uniform platform and provides \nbetter performance and scalability compared to its competitors.\n\nThis is a quick start tutorial showing snippets for you to quickly try out xLearn on a small \ndemo dataset (Criteo CTR prediction) for a binary classification task.\n\nLink to the Other Helpful Resources\n----------------------------------------\n\n * See `Installation Guide`__ on how to install xLearn.\n * See `Command Line Guide`__ on how to use xLearn command line. \n * See `Python API Guide`__ on how to use xLearn Python API.\n * See `R API Guide`__ on how to use xLearn R API.\n * See `Demo Page`__ Learning to use xLearn by Examples.\n * See `Tutorial`__ on tutorials on specific tasks.\n\nQuick Install\n----------------------------------\n\nThe easiest way to install xLearn Python package is to use ``pip``. The following command will \ndownload the xLearn source code and install python package it locally. ::\n\n    sudo pip install xlearn\n\nThe installation process will take a while to complete. And then you can type the following \nscript in your python shell to check whether the xLearn has been installed successfully:\n\n>>> import xlearn as xl\n>>> xl.hello()\n\nYou will see: ::\n\n  -------------------------------------------------------------------------\n           _\n          | |\n     __  _| |     ___  __ _ _ __ _ __\n     \\ \\/ / |    / _ \\/ _` | '__| '_ \\\n      >  <| |___|  __/ (_| | |  | | | |\n     /_/\\_\\_____/\\___|\\__,_|_|  |_| |_|\n\n        xLearn   -- 0.44 Version --\n  -------------------------------------------------------------------------\n\nIf you meet any installation problem, or you want to build the lastest code from github, or you want to \nuse the xLearn command line instead of the python API, you can see how to build xLearn from source code \nin `Installation Guide`__.\n\nPython Demo\n----------------------------------\n\nHere is a simple Python demo no how to use xLearn:\n\n.. code-block:: python\n\n    import xlearn as xl\n\n    # Training task\n    ffm_model = xl.create_ffm() # Use field-aware factorization machine\n    ffm_model.setTrain(\"./small_train.txt\")  # Training data\n    ffm_model.setValidate(\"./small_test.txt\")  # Validation data\n\n    # param:\n    #  0. binary classification\n    #  1. learning rate: 0.2\n    #  2. regular lambda: 0.002\n    #  3. evaluation metric: accuracy\n    param = {'task':'binary', 'lr':0.2, \n             'lambda':0.002, 'metric':'acc'}\n\n    # Start to train\n    # The trained model will be stored in model.out\n    ffm_model.fit(param, './model.out')\n\n... (truncated)"
     }
   }
 ]

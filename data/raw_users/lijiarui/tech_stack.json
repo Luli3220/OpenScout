@@ -3,54 +3,36 @@
     "name": "lijiarui/PADCHAT",
     "stars": 41,
     "description": "无",
+    "languages_breakdown": {
+      "JavaScript": 32157
+    },
     "files": {
       "package.json": "{\n  \"name\": \"padchat\",\n  \"version\": \"3.0.1\",\n  \"description\": \"\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"start\": \"node ./demo.js\"\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"\"\n  },\n  \"keywords\": [],\n  \"author\": \"\",\n  \"license\": \"ISC\",\n  \"dependencies\": {\n    \"log4js\": \"^2.5.2\",\n    \"random-js\": \"^1.0.8\",\n    \"socket.io-client\": \"^2.0.4\",\n    \"uuid\": \"^3.2.1\"\n  },\n  \"bugs\": {\n    \"url\": \"https://github.com/lijiarui/websocket-api/issues\"\n  },\n  \"homepage\": \"https://github.com/lijiarui/websocket-api#readme\",\n  \"devDependencies\": {\n    \"@types/log4js\": \"^2.3.5\",\n    \"@types/socket.io-client\": \"^1.4.32\",\n    \"@types/uuid\": \"^3.4.3\",\n    \"eslint\": \"^4.16.0\",\n    \"eslint-config-egg\": \"^6.0.0\"\n  }\n}\n",
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# PADCHAT\n\npadchat 提供非web的微信接口解决方案，需要authKey 请加微信联系 `nrfsy940126`\n\n本项目已经对所有操作进行了封装，请参考demo。\n\n运行demo:\n\n```bash\n# npm start authKey name\n# 两个参数：第一个为授权key，第二个为子账号名称（区别不同账号用，可任意设置）\nnpm start key test\n```\n\n与旧版本(websocket协议版本)区别:\n\n* 新版本接口使用socket.io协议通讯\n* 同一个授权key支持登陆多个子账号（依授权数量限制）\n* 新版本的变量及参数名都使用小驼峰命名，包括接收到push事件（旧版本的push为大驼峰，容易混淆）\n* 最大区别是新版本将所有接口都进行了封装，降低使用难度\n\n\n\n** 以下内容为旧版websocket协议接口，仅供参考。 后续会更新socket.io版本的**\n\n\n\n\n\n## API\n\nAPI 概述如下\n\n**接口** | **code** | **备注**\n---|------|-\n**登陆管理** | |\n连接认证 | auth | 调用接口身份认证\n建立连接 | connect | 建立与微信服务的连接\n登陆 | login | 登陆账号/恢复连接\n注销登录 | logout |\n断开连接 | disconnect | 仅关闭连接不退出ipad登陆\n获取登陆设备参数 | getDeviceInfo |\n获取二次登陆数据 | getAutoLoginData |\n~登陆状态~ | ~status~ | 暂无用\n**用户管理** |\n获取用户信息 | getContact |\n搜索用户 | searchContact |\n通过好友请求 | acceptUser |\n添加好友 | addContact |\n打招呼 | sayHello |\n删除好友 | deleteContact |\n设置好友备注 | setRemark |\n同步通讯录 | syncContact |\n【未实现接口】获取好友、群二维码 |\n**群管理** |\n创建群 | createRoom |\n获取群成员 | getRoomMembers |\n【未实现接口】修改群名称 |\n添加群成员 | addRoomMember |\n邀请好友进群 | inviteRoomMember |\n删除群成员 | deleteRoomMember |\n退出群 | quitRoom |\n**发送消息** |\n发送文本消息 | sendMsg |\n发送App消息 | sendAppMsg |\n发送图片消息 | sendImage |\n发送名片 | shareCard |\n【未实现接口】上传文件 |\n**获取图片、文件** |\n获取消息图片原图 | getMsgImage |\n【未实现接口】获取文件 |\n**朋友圈操作** |\n发朋友圈 |\n朋友圈上传图片 |\n获取好友朋友圈信息 |\n获取朋友圈动态 |\n获取朋友圈消息详情 |\n操作朋友圈（删除、删除评论、取消赞） |\n评论朋友圈 |\n**收藏操作** |\n同步收藏消息 |\n添加收藏 |\n获取收藏消息详情 |\n删除收藏 |\n**标签管理** |\n添加标签 |\n删除标签 |\n获取所有标签 |\n设置用户标签 |\n**接收转账及红包**  |\n查看转账消息 |\n接受转账 |\n接收红包 |\n领取红包 |\n查看红包信息 |\n**公众号操作** |\n获取公众号gh |\n获取公众号信息 |\n操作公众号菜单 |\n获取公众号授权信息 |\n获取公众号授权页面 |\n\n\n## 请求结构\n\n### 1. 服务地址\n\n地址： ws://api.batorange.com/ws\n\n### 2. 通信协议\n\nWebSocket 通信协议\n* [websockets 官方github](https://github.com/websockets)\n* [NodeJs 参考](https://github.com/websockets/ws)\n\n#### 连接授权\n\n连接websocket后，需要在10秒内进行授权操作，如果未成功授权，则连接会被服务端关闭。\n\n#### API请求操作结果（识别异步请求）\n\n由于websocket自身是异步操作，未原生支持识别请求返回的结果（即向服务端发送一个请求，服务端返回执行结果，客户端却无法确认是自己这个主动请求的结果，或者是另一个请求的返回结果，或者是服务端主动推送）。因此本服务增加了一个字段`cmdId`，用于标识请求，并在返回操作结果时一块返回。\n\n如果希望发送api请求后，能识别服务端执行本次请求后的返回结果，可提供`cmdId`字段，请一定提供随机值，建议使用`uuid`模块随机生成。当收到服务端推送过来的数据中包含`cmdId`字段时，即可确认为之前请求对应的执行结果。\n建议结合使用`Promise`+`Event.once(cmdId)`来实现。\n\n> `example/wx.js`已经对此进行了封装，可直接使用。\n\n#### 数据规则约定\n\nAPI请求的数据结构中，所有字段名称为`小驼峰`写法。\n\n推送回来的数据结构中，第一级字段名称为`小驼峰`写法，`data`字段下所有字段名称为`大驼峰`写法。\n\n### 3. API请求结构\n\nAPI请求是以websocket协议发送的json数据，以下为json数据的字段\n\n| **名称**   | **类型** | **描述**             | **必选** |\n| --------- | ------   | ----------------    | ------ |\n| code      | String/Number   | API命令码，见[API概览](#API)             | 是      |\n| cmdId      | String   | 指令id。用于识别API异步操作结果，操作结果会增加此属性推送回来  |  否      |\n| authKey      | String    | 授权码，需要购买。仅连接认证时需要             |   否    |\n| data      | Object   | 取决于是不同的API要求  |  否      |\n\n#### data字段总述\n\n此部分为请求API指令时，需要附加的data数据。根据使用的API不同，需要提供不同的字段及对应数据。\n\n字段名称 | 说明 | 备注\n-----|----|---\n**发送消息** | |\ntoUserName | 目标用户/群id | 群id包含@chatroom部分\ncontent | 文本内容 | 文本消息内容<br>App消息xml结构体<br>名片自定义标题<br>添加好友时，为验证信息\nimage | 图片base64编码 | 发送图片消息<br>上传头像<br>朋友圈上传图片\natList | 要at的用户`数组` | `[\"wxid1\",\"wxid2\"]` <br>文本消息时有效\n**群及好友管理** | |\nroomName\n... (truncated)"
     }
   },
   {
     "name": "lijiarui/xposed-wechat",
     "stars": 22,
     "description": "无",
+    "languages_breakdown": {
+      "Java": 51757,
+      "CMake": 1777,
+      "C++": 258
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "xposed 二次开发 SDK 参数文档说明\n\n* demo: `demo.apk`\n![](https://github.com/lijiarui/xposed-wechat/blob/master/demo.jpeg)\n* main sdk directory: `sdk/*`\n\n## 1. 调用说明\n\n首先下载安装微控工具 xposed 模块，如何安装请参照 xposed 模块安装，在此不再说明。 在使用 sdk 的工程中加入 sdk 的接口动态库(libwtoolsdk.so)和接口调用 jar 包 (wtoolsdk.jar)    \n\n引入接口调用 jar 包，然后调用相关函数即可，接口类名:com.easy.wtool.sdk.WToolSDK， 相关函数说明参见接口说明。     \n\n示例:Android Studio 调用 SDK 示例     \n\n## 2. 接口说明\n\n### 1) 接口函数返回说明\n\n所有接口函数(除编解码函数)都返回一个 json 格式的字符串，返回数据字段如下:\n\n| 序号   | 字段名     | 类型   | 说明                                       |\n| ---- | ------- | ---- | ---------------------------------------- |\n| 1    | result  | 整形   | 执行结果编码，必须 <br /> 0 表示成功<br />为负表示错误代码，具体含义见errmsg |\n| 2    | errmsg  | 字符串  | 执行错误描述，可选                                |\n| 3    | content | 字符串  | 执行结果内容，可选，为 json 格式，具体字段见各接口说明。          |\n\n示例:\n\n执行成功返回:{“result”:0,”errmsg”:””}\n\n执行失败返回:{“result”:-2000,”errmsg”:”SDK 未初始化”}\n\n注:在接口中注明【编码】的字符串，需要调用字符串解码函数解码。\n\n### 2) 字符串编码\n\n函数:String encodeValue(String value) \n\n描述:字符串进行编码\n\n参数:value 要编码的字符串 \n\n返回:编码后的字符串\n\n### 3) 字符串解码\n\n函数:String decodeValue(String value) \n\n描述:对字符串进行解码(在传输过程中模块对一些字符串进行了编码，使用时要 进行解码，编码的字符串在相应的接口有说明，加有【编码】标识)\n\n参数:value 要解码的字符串 \n\n返回:解码后的字符串\n\n### 4) SDK 初始化\n\n函数:String init(String appId,String authCode) \n\n描述:在使用 SDK 前首先调用该接口进行初始化 \n\n参数: \n\nappId 应用 ID(向接口提供者申请，每个使用 sdk 的应用都有一个唯一的 appid，用于在同一设备上多个应用同时使用 sdk)\n\nauthCode 授权码(向接口提供者获取，以下同) \n\n返回:\n\n见接口函数返回说明，无 content。\n\n### 5) SDK 释放\n\n函数:String unload()\n\n描述:在应用退出时需要调用该接口释放 SDK 创建的资源。\n\n### 6) 任务接口\n\n函数:String sendTask(String taskParams)\n\n描述:SDK 任务接口，SDK 的所有操作都使用该接口进行，如发送文本消息等，具 体操作通过 taskParams 来指定。任务执行有些是异步的(标记为【异步】)，该接口 调用后会立即返回，结果成功只代表提交任务成功，不代表执行成功，执行成功需 要通过任务执行结果回调来查看(见:设置任务执行结果回调)，非异步任务(标记 为【同步】) 不需要回调;在调用该接口前，先设置任务执行结果回调 setOnTaskEndListener\n\n注:所有字段名都为小写字母\n\n参数及返回、回调:\n\ntaskParams 接口参数，json 格式字符串，根据不同内容做不同操作\n\n| 序号   | 字段名          | 类型   | 说明                                       |\n| ---- | ------------ | ---- | ---------------------------------------- |\n| 1    | type         | 整形   | 操作类型，取值如下:<br /> 1:发送文本消息<br />2:发送图片消息<br />3:发送语音消息<br />4:发送视频消息<br />5:获取微信好友列表<br />6:获取微信群列表<br />12:转发消息<br />26:获取自己的用户信息(微信号昵称等)<br /> |\n| 2    | taskid       | 长整形  | 任务编号，这个编号全局必须唯一，在任务执行 结果回调中使用该编号查看执行结果   |\n| 3    | content Json | 对象   | 操作参数，根据不同操作类型确定，见 content 定义             |\n\n返回见接口函数返回说明，content 根据不同操作确定，见 content 定义 \n\n#### content 定义:\n\n##### 1) 【同步】获取微信好友列表\naction=5\n\n参数 content:\n\n| 序号   | 字段名       | 类型   | 说明              |\n| ---- | --------- | ---- | --------------- |\n| 1    | pageindex | 整形   | 页号(为 0 时获取所有)   |\n| 2    | pagecount | 整形   | 每页条数(为 0 是获取所有) |\n\n返回 content:json 数组，每条好友信息如下(不需要回调，结果同步返回):\n\n| 序号   | 字段名      | 类型   | 说明                               |\n| ---- | -------- | ---- | -------------------------------- |\n| 1    | wxid     | 字符串  | 好友 wxid【编码】 注:以下发消息中的 wxid 就是取于此 |\n| 2    | nickname | 字符串  | 好友昵称【编码】                         |\n| 3    | wxno     | 字符串  | 好友微信号，可能为空，暂无用 处【编码】             |\n\n##### 2) 【同步】获取微信群列表\naction=6 \n\n参数 content:\n\n| 序号   | 字段名          | 类型   | 说明\n... (truncated)"
     }
   },
   {
     "name": "lijiarui/lijiarui.github.io",
     "stars": 7,
     "description": "My personal blog",
-    "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
-    }
+    "languages_breakdown": {
+      "HTML": 9880450,
+      "JavaScript": 65047,
+      "CSS": 64494
+    },
+    "files": {}
   }
 ]

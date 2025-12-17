@@ -3,54 +3,43 @@
     "name": "abruzzi/graphviz-scripts",
     "stars": 108,
     "description": "Some dot files for graphviz",
+    "languages_breakdown": {
+      "Makefile": 496
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "### Graphviz dot scripts\n\nHere are some `dot` scripts I'm using in recent months.\n\nSimply grub them and run it in your local enviroment, you will need `graphviz` installed in your machine first.\n\n```sh\n$ dot -Tpng merge.dot -o merge.png\n```"
     }
   },
   {
     "name": "abruzzi/3-pages-in-3-weeks",
     "stars": 62,
     "description": "3 Pages In 3 Weeks Workshop",
+    "languages_breakdown": {
+      "CSS": 375678,
+      "JavaScript": 275172,
+      "HTML": 20670
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "### 3 pages in 3 weeks\n\n`3 pages in 3 weeks` esstentially is a series workshop which try to help `DEV`s, `QA`s or even `UX`s to practice the basic `HTML/CSS` skills. As the name says, we'll use 3 weeks to implement 3 pages, each page is a individual web design from `dribbble.com`. \n\nIt doesn't matter which 3 pages your choose actaully, but the basic idea behind it is try to choose some `modern` and `fancy` ones.\n\n#### Week 1\n\nCommon workflow of how to build a static page from scrath by using:\n\n1.    Compass/SCSS\n2.    Guard + LiveReload\n3.    Using FontIcon as Icon\n4.    Google Fonts API\n\nAnd also, some demostration and showcase will be involved. So people from no-tech background will get the basic understanding of what's happening.\n\n#### Week 2\n\nBasic princples of Web Design\n\n1.    HTML5/CSS3 Basic\n2.    Transition\n3.    Animation\n\n#### Week 3\n\n1.   How to use Color\n2.   How to use Image\n3.   What makes one design different with another\n4.   CRAP\n"
     }
   },
   {
     "name": "abruzzi/bookmarks-frontend",
     "stars": 59,
     "description": "A bookmark application, front end part",
+    "languages_breakdown": {
+      "JavaScript": 831682,
+      "CSS": 7983,
+      "Ruby": 3390,
+      "HTML": 989,
+      "Shell": 553
+    },
     "files": {
       "package.json": "{\n  \"name\": \"bookmarks-frontend\",\n  \"version\": \"1.0.0\",\n  \"description\": \"A bookmark application, frontend part\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"test\": \"npm test\"\n  },\n  \"browserify\": {\n    \"transform\": [\n      \"hbsfy\"\n    ]\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"https://github.com/abruzzi/bookmarks-frontend.git\"\n  },\n  \"keywords\": [\n    \"bookmarks\",\n    \"frontend\",\n    \"soc\"\n  ],\n  \"author\": \"Qiu Juntao\",\n  \"license\": \"MIT\",\n  \"bugs\": {\n    \"url\": \"https://github.com/abruzzi/bookmarks-frontend/issues\"\n  },\n  \"devDependencies\": {\n    \"backbone\": \"^1.2.1\",\n    \"browserify\": \"^10.2.4\",\n    \"gulp\": \"^3.9.0\",\n    \"gulp-concat\": \"^2.5.2\",\n    \"gulp-connect\": \"^2.2.0\",\n    \"gulp-less\": \"^3.0.5\",\n    \"gulp-livereload\": \"^3.8.1\",\n    \"gulp-minify-css\": \"^1.1.6\",\n    \"gulp-replace\": \"^0.5.4\",\n    \"gulp-uglify\": \"^1.2.0\",\n    \"handlebars\": \"^3.0.3\",\n    \"hbsfy\": \"^2.2.1\",\n    \"jquery\": \"^2.1.4\",\n    \"karma\": \"^0.12.37\",\n    \"karma-browserify\": \"^4.4.2\",\n    \"karma-jasmine\": \"^0.3.6\",\n    \"karma-phantomjs-launcher\": \"^0.2.3\",\n    \"lodash\": \"^3.9.3\",\n    \"underscore\": \"^1.8.3\",\n    \"vinyl-source-stream\": \"^1.1.0\",\n    \"yslow\": \"^3.1.0\"\n  }\n}\n",
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
       "Gemfile": "source 'https://ruby.taobao.org'\n\ngem 'sinatra'\n\ngroup :test do\n\tgem 'rspec'\n    gem 'capybara'\n    gem 'poltergeist'\n\tgem 'site_prism'\nend",
       "Dockerfile": "FROM python:2.7\n\nRUN mkdir /webapp\nCOPY ./start.sh /webapp/start.sh\nCOPY ./public /webapp\n\nENV PORT 8080\n\nWORKDIR /webapp\nCMD /webapp/start.sh",
       "docker-compose.yml": "app:\n  build: .\n  ports:\n    - 8080:8080\n  volumes:\n    - .:/web\n  working_dir: /web\n  entrypoint: /web/start.sh\n",
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# bookmarks-frontend\n\nThere are some useful setup here for this project:\n\nTech stack here is:\n\n1.  gulp\n2.  browserify\n3.  backbone.js\n4.  handlebars\n5.  less\n6.  karma/jasmine\n\nIt's a typical front end project you can start working on without feel shame.\n\n```sh\n$ npm install\n$ gulp dev\n```\n\nand since we're doing frontend and backend separation, I'm introducing the `sinatra` as a fake-server to do the tricks. So\n\n```sh\n$ bundle install\n$ ruby app.rb\n```\n\nIt's recommended that start a gulp `watch` in a terminal, and launch the sinatra in another one.\n"
     }
   }
 ]

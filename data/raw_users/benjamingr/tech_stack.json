@@ -3,54 +3,33 @@
     "name": "benjamingr/favicon-bug",
     "stars": 241,
     "description": "Demonstrates Chrome/Firefox/Safari download 1GB favicons",
+    "languages_breakdown": {
+      "JavaScript": 913
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# Favicon Download Bug\n\nThis repository demonstrates that browsers will download huge favicon and touch-icon files to the point that they crash and/or bring the computer to a halt - all in the background with no indication to the user that any form of download or networking is happening.\n\n(no spinner)\n\nI originally tested this with Chrome. People have pointed <strike>[Firefox](http://i.imgur.com/3zkPKD7.png)</strike> and [Safari](https://i.imgur.com/B2LeRy4.png) do this too, [IE](https://github.com/benjamingr/favicon-bug/issues/5)  does not appear to be affected.\n\n[Chrome bug 500639](https://code.google.com/p/chromium/issues/detail?id=500639) <strike>[Firefox bug 1174811](https://bugzilla.mozilla.org/show_bug.cgi?id=1174811)</strike> (fixed)\n\nThis is what it looks like before crashing on my computer (currently testing on travel laptop with 4gb ram):\n\n![](http://i.imgur.com/J16lwjF.png)\n\n\nInspired by [a tweet](https://twitter.com/a_de_pasquale/status/608997818913665024) by [a_de_pasquale](https://twitter.com/a_de_pasquale).\n\n### Running it\n\n 1. Install [io.js](http://www.iojs.org) (NodeJS works too)\n 2. Run: `node exploit.js`\n 3. Test your browser by visiting http://localhost:3000  (or if you have `process.env.PORT` set then that port)\n      \n### Running it for Apple Touch Icon\n\n 1. Install [io.js](http://www.iojs.org) (NodeJS works too)\n 2. Run: `node exploit-ios.js`\n 3. Test on iOS by visiting http://ip-of-computer:3000 and tapping on the share icon (or if you have `process.env.PORT` set then that port)\n"
     }
   },
   {
     "name": "benjamingr/tmp-promise",
     "stars": 131,
     "description": "A promises port of https://github.com/raszi/node-tmp",
+    "languages_breakdown": {
+      "JavaScript": 5581,
+      "TypeScript": 671
+    },
     "files": {
       "package.json": "{\n  \"name\": \"tmp-promise\",\n  \"version\": \"3.0.3\",\n  \"description\": \"The tmp package with promises support and disposers.\",\n  \"main\": \"index.js\",\n  \"types\": \"index.d.ts\",\n  \"files\": [\n    \"index.js\",\n    \"index.d.ts\"\n  ],\n  \"scripts\": {\n    \"mocha\": \"mocha\",\n    \"check-types\": \"tsd\",\n    \"test\": \"npm run mocha && npm run check-types\",\n    \"publish\": \"node publish\"\n  },\n  \"keywords\": [\n    \"tmp\",\n    \"promise\",\n    \"tempfile\",\n    \"mkdtemp\",\n    \"mktemp\"\n  ],\n  \"author\": \"Benjamin Gruenbaum and Collaborators.\",\n  \"license\": \"MIT\",\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git://github.com/benjamingr/tmp-promise.git\"\n  },\n  \"dependencies\": {\n    \"tmp\": \"^0.2.0\"\n  },\n  \"devDependencies\": {\n    \"@types/tmp\": \"^0.2.0\",\n    \"mocha\": \"7.1.2\",\n    \"tsd\": \"0.25.0\"\n  }\n}\n",
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# tmp-promise\n\n[![CircleCI](https://circleci.com/gh/benjamingr/tmp-promise.svg?style=svg)](https://circleci.com/gh/benjamingr/tmp-promise)\n[![npm version](https://badge.fury.io/js/tmp-promise.svg)](https://badge.fury.io/js/tmp-promise)\n\nA simple utility for creating temporary files or directories.\n\nThe [tmp](https://github.com/raszi/node-tmp) package with promises support. If you want to use `tmp` with `async/await` then this helper might be for you.\n\nThis documentation is mostly copied from that package's - but with promise usage instead of callback usage adapted.\n\n## Installation\n\n    npm i tmp-promise\n\n**Note:** Node.js 8+ is supported - older versions of Node.js are not supported by the Node.js foundation. If you need to use an older version of Node.js install tmp-promise@1.10\n\n    npm i tmp-promise@1.1.0\n\n## About\n\nThis adds promises support to a [widely used library][2]. This package is used to create temporary files and directories in a [Node.js][1] environment.\n \n\ntmp-promise offers both an asynchronous and a synchronous API. For all API calls, all\nthe parameters are optional.\n\nInternally, tmp uses crypto for determining random file names, or, when using templates, a six letter random identifier. And just in case that you do not have that much entropy left on your system, tmp will fall back to pseudo random numbers.\n\nYou can set whether you want to remove the temporary file on process exit or not, and the destination directory can also be set.\n\ntmp-promise also uses promise [disposers](http://stackoverflow.com/questions/28915677/what-is-the-promise-disposer-pattern) to provide a nice way to perform cleanup when you're done working with the files.\n\n## Usage (API Reference)\n\n### Asynchronous file creation\n\nSimple temporary file creation, the file will be closed and unlinked on process exit.\n\nWith Node.js 10 and es - modules:\n\n```js\nimport { file } from 'tmp-promise'\n\n(async () => {\n  const {fd, path, cleanup} = await file();\n  // work with file here in fd\n  cleanup();\n})(); \n```\n\nOr the older way:\n\n```javascript\nvar tmp = require('tmp-promise');\n\ntmp.file().then(o => {  \n  console.log(\"File: \", o.path);\n  console.log(\"Filedescriptor: \", o.fd);\n  \n  // If we don't need the file anymore we could manually call cleanup\n  // But that is not necessary if we didn't pass the keep option because the library\n  // will clean after itself.\n  o.cleanup();\n});\n```\n\nSimple temporary file creation with a [disposer](http://stackoverflow.com/questions/28915677/what-is-the-promise-disposer-pattern):\n\nWith Node.js 10 and es - modules:\n\n```js\nimport { withFile } from 'tmp-promise'\n\nwithFile(async ({path, fd}) => {\n  // when this function returns or throws - release the file \n  await doSomethingWithFile(db);\n});\n```\n\nOr the older way:\n\n```js\ntmp.withFile(o => {\n  console.log(\"File: \", o.path);\n  console.log(\"Filedescriptor: \", o.fd);\n  // the file remains opens until the below promise resolves\n  return somePromiseReturningFn();\n}).then(v => {\n  // file is closed\n... (truncated)"
     }
   },
   {
     "name": "benjamingr/PizzaHack",
     "stars": 115,
     "description": "无",
+    "languages_breakdown": {},
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# PizzaHack\n\nThis repository typically contains an interactive SQL Injection tutorial. Due to a content licensing and distribution issue - this repositoriy is not available at the moment.\n\nPlease check later.\n\n"
     }
   }
 ]

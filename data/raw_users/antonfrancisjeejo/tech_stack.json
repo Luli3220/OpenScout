@@ -3,54 +3,39 @@
     "name": "antonfrancisjeejo/flipkart-clone",
     "stars": 16,
     "description": "无",
+    "languages_breakdown": {
+      "JavaScript": 56235,
+      "CSS": 13602,
+      "HTML": 418
+    },
     "files": {
       "package.json": "{\n  \"name\": \"flipkartclone\",\n  \"version\": \"0.1.0\",\n  \"private\": true,\n  \"dependencies\": {\n    \"@reduxjs/toolkit\": \"^1.9.1\",\n    \"@supabase/supabase-js\": \"^2.2.3\",\n    \"@testing-library/jest-dom\": \"^5.16.5\",\n    \"@testing-library/react\": \"^13.4.0\",\n    \"@testing-library/user-event\": \"^13.5.0\",\n    \"react\": \"^18.2.0\",\n    \"react-dom\": \"^18.2.0\",\n    \"react-icons\": \"^4.7.1\",\n    \"react-redux\": \"^8.0.5\",\n    \"react-router-dom\": \"^6.6.1\",\n    \"react-scripts\": \"5.0.1\",\n    \"react-slick\": \"^0.29.0\",\n    \"slick-carousel\": \"^1.8.1\",\n    \"web-vitals\": \"^2.1.4\"\n  },\n  \"scripts\": {\n    \"start\": \"react-scripts start\",\n    \"build\": \"react-scripts build\",\n    \"test\": \"react-scripts test\",\n    \"eject\": \"react-scripts eject\"\n  },\n  \"eslintConfig\": {\n    \"extends\": [\n      \"react-app\",\n      \"react-app/jest\"\n    ]\n  },\n  \"browserslist\": {\n    \"production\": [\n      \">0.2%\",\n      \"not dead\",\n      \"not op_mini all\"\n    ],\n    \"development\": [\n      \"last 1 chrome version\",\n      \"last 1 firefox version\",\n      \"last 1 safari version\"\n    ]\n  }\n}\n",
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "Flipkart clone using reactjs...\n"
     }
   },
   {
     "name": "antonfrancisjeejo/tinder-clone-expo-app",
     "stars": 8,
     "description": "无",
+    "languages_breakdown": {
+      "JavaScript": 33378,
+      "CSS": 22
+    },
     "files": {
-      "package.json": "{\n  \"name\": \"tinder-expo-app\",\n  \"version\": \"1.0.0\",\n  \"main\": \"node_modules/expo/AppEntry.js\",\n  \"scripts\": {\n    \"start\": \"expo start\",\n    \"android\": \"expo start --android\",\n    \"ios\": \"expo start --ios\",\n    \"web\": \"expo start --web\",\n    \"build:tailwind\": \"tailwindcss --input input.css --output tailwind.css --no-autoprefixer && tailwind-rn\",\n    \"dev:tailwind\": \"concurrently \\\"tailwindcss --input input.css --output tailwind.css --no-autoprefixer --watch\\\" \\\"tailwind-rn --watch\\\"\"\n  },\n  \"dependencies\": {\n    \"@react-native-async-storage/async-storage\": \"^1.18.2\",\n    \"@react-navigation/native\": \"^6.1.6\",\n    \"@react-navigation/stack\": \"^6.3.16\",\n    \"expo\": \"~48.0.18\",\n    \"expo-status-bar\": \"~1.4.4\",\n    \"firebase\": \"^9.22.2\",\n    \"react\": \"18.2.0\",\n    \"react-native\": \"0.71.8\",\n    \"react-native-deck-swiper\": \"^2.0.14\",\n    \"react-native-gesture-handler\": \"~2.9.0\",\n    \"react-native-safe-area-context\": \"4.5.0\",\n    \"react-native-screens\": \"~3.20.0\",\n    \"tailwind-react-native-classnames\": \"^1.5.1\",\n    \"tailwind-rn\": \"^4.2.0\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.20.0\",\n    \"concurrently\": \"^8.2.0\",\n    \"postcss\": \"^8.4.24\",\n    \"tailwindcss\": \"^3.3.2\"\n  },\n  \"private\": true\n}\n",
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "package.json": "{\n  \"name\": \"tinder-expo-app\",\n  \"version\": \"1.0.0\",\n  \"main\": \"node_modules/expo/AppEntry.js\",\n  \"scripts\": {\n    \"start\": \"expo start\",\n    \"android\": \"expo start --android\",\n    \"ios\": \"expo start --ios\",\n    \"web\": \"expo start --web\",\n    \"build:tailwind\": \"tailwindcss --input input.css --output tailwind.css --no-autoprefixer && tailwind-rn\",\n    \"dev:tailwind\": \"concurrently \\\"tailwindcss --input input.css --output tailwind.css --no-autoprefixer --watch\\\" \\\"tailwind-rn --watch\\\"\"\n  },\n  \"dependencies\": {\n    \"@react-native-async-storage/async-storage\": \"^1.18.2\",\n    \"@react-navigation/native\": \"^6.1.6\",\n    \"@react-navigation/stack\": \"^6.3.16\",\n    \"expo\": \"~48.0.18\",\n    \"expo-status-bar\": \"~1.4.4\",\n    \"firebase\": \"^9.22.2\",\n    \"react\": \"18.2.0\",\n    \"react-native\": \"0.71.8\",\n    \"react-native-deck-swiper\": \"^2.0.14\",\n    \"react-native-gesture-handler\": \"~2.9.0\",\n    \"react-native-safe-area-context\": \"4.5.0\",\n    \"react-native-screens\": \"~3.20.0\",\n    \"tailwind-react-native-classnames\": \"^1.5.1\",\n    \"tailwind-rn\": \"^4.2.0\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.20.0\",\n    \"concurrently\": \"^8.2.0\",\n    \"postcss\": \"^8.4.24\",\n    \"tailwindcss\": \"^3.3.2\"\n  },\n  \"private\": true\n}\n"
     }
   },
   {
     "name": "antonfrancisjeejo/news-app-react-alan-ai",
     "stars": 7,
     "description": "无",
+    "languages_breakdown": {
+      "JavaScript": 11847,
+      "HTML": 656,
+      "CSS": 173
+    },
     "files": {
-      "package.json": "{\n  \"name\": \"alan_react\",\n  \"version\": \"0.1.0\",\n  \"private\": true,\n  \"dependencies\": {\n    \"@alan-ai/alan-sdk-web\": \"^1.8.34\",\n    \"@emotion/react\": \"^11.9.3\",\n    \"@emotion/styled\": \"^11.9.3\",\n    \"@mui/icons-material\": \"^5.8.4\",\n    \"@mui/material\": \"^5.9.0\",\n    \"@mui/styles\": \"^5.9.0\",\n    \"@testing-library/jest-dom\": \"^4.2.4\",\n    \"@testing-library/react\": \"^9.5.0\",\n    \"@testing-library/user-event\": \"^7.2.1\",\n    \"react\": \"^18.2.0\",\n    \"react-dom\": \"^18.2.0\",\n    \"react-scripts\": \"5.0.1\",\n    \"words-to-numbers\": \"^1.5.1\"\n  },\n  \"scripts\": {\n    \"start\": \"react-scripts start\",\n    \"build\": \"react-scripts build\",\n    \"test\": \"react-scripts test\",\n    \"eject\": \"react-scripts eject\"\n  },\n  \"eslintConfig\": {\n    \"extends\": \"react-app\"\n  },\n  \"browserslist\": {\n    \"production\": [\n      \">0.2%\",\n      \"not dead\",\n      \"not op_mini all\"\n    ],\n    \"development\": [\n      \"last 1 chrome version\",\n      \"last 1 firefox version\",\n      \"last 1 safari version\"\n    ]\n  }\n}\n",
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "package.json": "{\n  \"name\": \"alan_react\",\n  \"version\": \"0.1.0\",\n  \"private\": true,\n  \"dependencies\": {\n    \"@alan-ai/alan-sdk-web\": \"^1.8.34\",\n    \"@emotion/react\": \"^11.9.3\",\n    \"@emotion/styled\": \"^11.9.3\",\n    \"@mui/icons-material\": \"^5.8.4\",\n    \"@mui/material\": \"^5.9.0\",\n    \"@mui/styles\": \"^5.9.0\",\n    \"@testing-library/jest-dom\": \"^4.2.4\",\n    \"@testing-library/react\": \"^9.5.0\",\n    \"@testing-library/user-event\": \"^7.2.1\",\n    \"react\": \"^18.2.0\",\n    \"react-dom\": \"^18.2.0\",\n    \"react-scripts\": \"5.0.1\",\n    \"words-to-numbers\": \"^1.5.1\"\n  },\n  \"scripts\": {\n    \"start\": \"react-scripts start\",\n    \"build\": \"react-scripts build\",\n    \"test\": \"react-scripts test\",\n    \"eject\": \"react-scripts eject\"\n  },\n  \"eslintConfig\": {\n    \"extends\": \"react-app\"\n  },\n  \"browserslist\": {\n    \"production\": [\n      \">0.2%\",\n      \"not dead\",\n      \"not op_mini all\"\n    ],\n    \"development\": [\n      \"last 1 chrome version\",\n      \"last 1 firefox version\",\n      \"last 1 safari version\"\n    ]\n  }\n}\n"
     }
   }
 ]

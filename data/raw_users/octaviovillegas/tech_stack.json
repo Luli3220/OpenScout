@@ -3,54 +3,39 @@
     "name": "octaviovillegas/CursoIngresoJS",
     "stars": 121,
     "description": "Curso de ingreso con JavaScript",
+    "languages_breakdown": {
+      "CSS": 669027,
+      "HTML": 258822,
+      "JavaScript": 26031
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# **CursoIngresoJS**\n-----\nCurso de ingreso con JavaScript\n\nejercitación y TP para rendir el examen de ingreso \n# **UTNFRA**\n## **Técnico superior en programación**\n\n[Sitio WEB de GitHub](http://octaviovillegas.github.io/CursoIngresoJS/index.html)\n\n\n![QR](http://octaviovillegas.github.io/CursoIngresoJS/img/qrInicio.png)\n\n\n-----\n\n### ¿Cómo está organizado?\n \n* Cada concepto abordado tiene una serie de ejercicios a resolver. \n\n* Se debe realizar los ejercicios en el orden que se presentan.\n\n* Los ejercicios tienen un incremento de complejidad que acompaña la complejidad del tema abordado.\n\n* Es necesario comprender el tema anterior para continuar con los siguientes temas.\n\n* Cada tema tiene en los enunciados el objetivo que se deben cumplir.\n\n\n### ¿Que debo hacer para poder programar y responder a los enunciados.?\n \n\n\n* :one: . Crear una cuenta en GitHub (lo más recomendable).\n>Hacer FORK del repositorio.\n\n![principal](http://octaviovillegas.github.io/CursoIngresoJS/img/fork.png)\n\n \n\n * :two: . Descargar el ZIP\n>Tengas o no cuenta en GitHub.\nse debe descargar el .ZIP\n\n\n![principal](http://octaviovillegas.github.io/CursoIngresoJS/img/bajarzip.gif)\n\n\n* :three: . Utilizar un editor de texto liviano y de software libre.\n\n>Se puede utilizar el que quieran, si no conocen ninguno, aca le paso el link de uno liviano , portable multiplataforma y de software libre.\n\n\n>[SublimeText](https://www.sublimetext.com/3)\n\n* :four: . Mostrar el curso de ingreso en el navegador de internet.\n\n>Después de descomprimir la carpeta, ingresamos, tomamos el archivo index.html y lo abrimos/lanzamos en el navegador.\n\n\n\n\n### ¿Qué debo hacer para proponer mejoras o hacer consultas sobre errores ?\n \n* Debo entrar en la issues **\n\n![issues](http://octaviovillegas.github.io/CursoIngresoJS/img/issues.png)\n\n>Este espacio de las \"ISSUES\" es para solucionar temas Como:\n>* funcionales de la WEB.\n>* consultas sobre enunciados.\n>* textos con errores que imposibiliten el funcionamiento.\n \n:no_entry_sign:*las consultas que **No se responden**, son las consultas sobre los algoritmos de programación.*\n\n\n\n\n\n\n\n-----\n## Ingreso a la Web \n\n\n**Menú Principal**\n>Una vez que tenemos todo correcto deberíamos ver la siguiente página con el menú de acceso a todos los ejercicios.\n>Este menú te lleva por cada tema explorado en este curso de ingreso.\n\n\n![principal](http://octaviovillegas.github.io/CursoIngresoJS/img/principal.gif)\n\n\n\n-----\n# Entrada y salida de datos \n-----\n\n\n**Entrada y salida de datos**\n\n**Objetivos**\n* Interactuar con el usuario.\n* Mostrar información acorde a lo pedido.\n* Tomar datos como cadena de caracteres y transformarlos a número.\n* Manejo de porcentajes dinámicos sobre valores dinámicos.\n\n**Ejercicios del TP**\n* 1-Ferrete facturación.:heavy_check_mark:\n* 2-Ferrete construción.:heavy_check_mark:\n* 3-Ferrete pinturas.:heavy_check_mark:\n\n[PDF de los TPs](http://octaviovillegas.github.io/CursoIngresoJS/Guia%20de%20TPs%20curso%20de%20ingreso.pdf)\n\n\n![principal](http://octaviovillegas.\n... (truncated)"
     }
   },
   {
     "name": "octaviovillegas/Curso_de_ingreso_PYTHON",
     "stars": 75,
     "description": "Curso de ingreso en PYTHON",
+    "languages_breakdown": {
+      "Python": 208155
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
       "requirements.txt": "customtkinter==5.2.2\npillow==10.4.0\n",
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "<table>\n  <tbody>\n    <tr>\n      <td>\n        <img src='https://github.com/caidevOficial/Logos/blob/master/Instituciones/utn_logo_ingreso.gif?raw=true' width='800'>\n      <td>\n    </tr>\n  </tbody>\n</table>\n\n## Curso de ingreso con Python\n\n### Ejercitación y Trabajos Pr&aacute;cticos para rendir el examen de ingreso.\n## **Carrera: T&eacute;cnico superior en programación**\n\n[Sitio WEB de GitHub](http://www.sistemas-utnfra.com.ar/files/apunte-ingreso/Introduccion_Programacion_PY.pdf)\n\n\n-----\n\n### ¿Cómo está organizado?\n \n* Cada concepto abordado tiene una serie de ejercicios a resolver. \n\n* Se debe realizar los ejercicios en el orden que se presentan.\n\n* Los ejercicios tienen un incremento de complejidad que acompaña la complejidad del tema abordado.\n\n* Es necesario comprender el tema anterior para continuar con los siguientes temas.\n\n* Cada tema tiene en los enunciados el objetivo que se deben cumplir.\n\n-----\n<br><br><br>\n\n<table align='center'>\n    <theader>\n        <h2 align='center'>Videos de las clases: 🎥</h2>\n    </theader>\n    <tbody>\n        <tr align='center'>\n            <td>\n                [Preparación del entorno de desarrollo | Windows]\n            <td/>\n            <td>\n                Link ➡️ <a href=\"https://youtu.be/QMXxZZrOIVE\"> <img  align='center' alt='Youtube Logo' src='https://raw.githubusercontent.com/caidevOficial/Python_RepositoryCloner/main/Media/YT_Logo.png' width=50/>\n              </a>\n            </td>\n        </tr>\n        <tr align='center'>\n            <td>\n                Entrada y salida de datos\n            <td/>\n            <td>\n                Link ➡️ <a href=\"https://youtu.be/nqjMKuYC32g/\"> <img  align='center' alt='Youtube Logo' src='https://raw.githubusercontent.com/caidevOficial/Python_RepositoryCloner/main/Media/YT_Logo.png' width=50/>\n              </a>\n            </td>\n        </tr>\n        <tr align='center'>\n            <td>\n                Resolución de ejercicios de entrada y salida\n            <td/>\n            <td>\n                Link ➡️ <a href=\"https://youtu.be/pO4qQ8LYMco/\"> <img  align='center' alt='Youtube Logo' src='https://raw.githubusercontent.com/caidevOficial/Python_RepositoryCloner/main/Media/YT_Logo.png' width=50/>\n              </a>\n            </td>\n        </tr>\n        <tr align='center'>\n            <td>\n                Condicional if\n            <td/>\n            <td>\n                Link ➡️ <a href=\"https://youtu.be/5TKIK31xN-8/\"> <img  align='center' alt='Youtube Logo' src='https://raw.githubusercontent.com/caidevOficial/Python_RepositoryCloner/main/Media/YT_Logo.png' width=50/>\n              </a>\n            </td>\n        </tr>\n        <tr align='center'>\n            <td>\n                Ejercicio completo paso a paso (TP4)\n            <td/>\n            <td>\n                Link ➡️ <a href=\"https://youtu.be/VAqrcy13J6U/\"> <img  align='center' alt='Youtube Logo' src='https://raw.githubusercontent.com/caidevOficial/Python_RepositoryCloner/main/Media/YT_Logo.png' width=50/>\n    \n... (truncated)"
     }
   },
   {
     "name": "octaviovillegas/APIREST-PHP-POO-JWT-MIDDLEWARE-Documentar",
     "stars": 9,
     "description": "API REST  en PHP con SlimFramework, POO + JSON Web Token + MiddleWare",
+    "languages_breakdown": {
+      "JavaScript": 146359,
+      "PHP": 124788,
+      "HTML": 55645,
+      "CSS": 20836
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# APIREST-PHP-POO-JWT-MIDDLEWARE-Documentar\nAPI REST  en PHP con SlimFramework, POO + JSON Web Token + MiddleWare\n\n<br>\nTambién tengo un archivo .htaccess en mi directorio src / public; Esto depende del módulo de reescritura de Apache que está habilitado y simplemente hace que todas las peticiones de la web vayan a index.php para que Slim pueda manejar todo el enrutamiento para nosotros. Aquí está mi archivo .htaccess:\n<br>\n<br>\n<br>\n<br>\n\n<p>RewriteEngine on</p>\n<p>RewriteCond %{REQUEST_FILENAME} !-d </p>\n<p>RewriteCond %{REQUEST_FILENAME} !-f </p>\n<p>RewriteRule . index.php [L] </p>\n"
     }
   }
 ]

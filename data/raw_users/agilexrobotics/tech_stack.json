@@ -3,54 +3,42 @@
     "name": "agilexrobotics/ugv_gazebo_sim",
     "stars": 271,
     "description": "gazebo_sim",
+    "languages_breakdown": {
+      "C++": 269166,
+      "CMake": 108664,
+      "Python": 16037,
+      "Shell": 383
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# AgileX Product Gazebo Simulate\n\n\n\n## Install the Gazebo software\n\nGazebo is  a simulator. Gazebo simulates multiple robots in a 3D environment, with extensive dynamic interaction between objects.\n\n[http://gazebosim.org](http://gazebosim.org/)\n\nDownload and install gazebo you can go to the website :http://gazebosim.org/install\n\n------\n\n\n\n## Current support Gazebo simulation product list\n\n| Product name      | support status | Link                                                         |\n| :---------------- | -------------- | ------------------------------------------------------------ |\n| SCOUT 1.0×        | ×              |                                                              |\n| HUNTER 1.0        | ×              |                                                              |\n| SCOUT 2.0         | √              | [Scout Series ](https://github.com/agilexrobotics/ugv_gazebo_sim/tree/master/scout) |\n| HUNTER 2.0        | √              | [Hunter 2.0](https://github.com/agilexrobotics/ugv_gazebo_sim/tree/master/hunter) |\n| HUNTER SE         | √              | [HUNTER SE](https://github.com/agilexrobotics/ugv_gazebo_sim/tree/master/hunter_se) |\n| SCOUT MINI        | √              | [Scout Series ](https://github.com/agilexrobotics/ugv_gazebo_sim/tree/master/scout) |\n| SCOUT MINI(OMNI)  | ×              |                                                              |\n| TRACER            | √              | [Tracer](https://github.com/agilexrobotics/ugv_gazebo_sim/tree/master/tracer) |\n| TRACER MINI MODLE | √              | [TRACER MINI MODLE](https://github.com/agilexrobotics/ugv_gazebo_sim/tree/master/tracer_mini) |\n| BUNKER            | √              | [BUNKER](https://github.com/agilexrobotics/ugv_gazebo_sim/tree/master/bunker) |\n| BUNKER MINI       | ×              |                                                              |\n| BUNKER PRO        | ×              |                                                              |\n| AUTOKI MODLE      | √              | [AUTOKI](https://github.com/agilexrobotics/ugv_gazebo_sim/tree/master/autokit) |\n| RANGER MINI V1    | √              | [Ranger Mni Series](https://github.com/agilexrobotics/ugv_gazebo_sim/tree/master/ranger_mini) |\n| RANGER MINI V2    | √              | [Ranger Mni Series](https://github.com/agilexrobotics/ugv_gazebo_sim/tree/master/ranger_mini) |\n| RANGER MINI V3    | √              | [Ranger Mni Series](https://github.com/agilexrobotics/ugv_gazebo_sim/tree/master/ranger_mini) |\n| LIMO              | √              | [Limo](https://github.com/agilexrobotics/ugv_gazebo_sim/tree/master/limo) |\n| LIMO COBOT        | √              | [LIMO COBOT](https://github.com/agilexrobotics/limo_cobot_sim) |\n| SCOUT COBOT KIT   | √              | [SCOUT COBOT KIT](https://github.com/agilexrobotics/scout_cobot_sim) |\n| COBOT S KIT       | √              | [COBOT S KIT](https://github.com/agilexrobotics/cobot_s_sim) |\n\n\n\n## About usage\n\n1) clone the current repositories to your own wo\n... (truncated)"
     }
   },
   {
     "name": "agilexrobotics/piper_sdk",
-    "stars": 230,
+    "stars": 232,
     "description": "The code for controlling the Piper robotic arm",
-    "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
-    }
+    "languages_breakdown": {
+      "Python": 700033,
+      "Shell": 29976
+    },
+    "files": {}
   },
   {
     "name": "agilexrobotics/piper_ros",
     "stars": 222,
     "description": "piper ros workspace",
-    "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
-    }
+    "languages_breakdown": {
+      "C++": 7652529,
+      "Python": 347157,
+      "CMake": 189258,
+      "Shell": 22069,
+      "TeX": 7222,
+      "Dockerfile": 5483,
+      "C": 4785,
+      "NASL": 2404,
+      "HTML": 1171,
+      "Makefile": 252
+    },
+    "files": {}
   }
 ]

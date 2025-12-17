@@ -3,54 +3,42 @@
     "name": "khemssharma/Chess",
     "stars": 20,
     "description": "Play chess from a pool of online users, with the computer or with a friend in-person",
+    "languages_breakdown": {
+      "TypeScript": 33107,
+      "JavaScript": 697,
+      "HTML": 366,
+      "CSS": 58
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# Changelog\n## Features\n1. Game is Playable as illegal moves are prevented\n2. Pub/Sub are handled in local RAM and a dozen player can play their own 2 player game.\n## Bugs\n1. Moves aren't being stored neither in Local Storage or Database. (will result in progress loss if page is refreshed.) \n2. Implement Auth and Chat for better engagement."
     }
   },
   {
     "name": "khemssharma/StudyNotion",
     "stars": 11,
     "description": "Create a Scale-able Full Stack Education Platform with React-Tailwind, MongoDB & Nodejs",
+    "languages_breakdown": {
+      "JavaScript": 409589,
+      "CSS": 4498,
+      "HTML": 701
+    },
     "files": {
       "package.json": "{\n  \"name\": \"react-tailwind-css-starter-pack\",\n  \"version\": \"0.1.0\",\n  \"private\": true,\n  \"dependencies\": {\n    \"@ramonak/react-progress-bar\": \"^5.0.3\",\n    \"@react-oauth/google\": \"^0.12.1\",\n    \"@reduxjs/toolkit\": \"^1.9.5\",\n    \"axios\": \"^1.4.0\",\n    \"chart.js\": \"^4.4.1\",\n    \"concurrently\": \"^8.0.1\",\n    \"copy-to-clipboard\": \"^3.3.3\",\n    \"react\": \"^18.2.0\",\n    \"react-chartjs-2\": \"^5.2.0\",\n    \"react-dom\": \"^18.2.0\",\n    \"react-dropzone\": \"^14.2.3\",\n    \"react-hook-form\": \"^7.44.2\",\n    \"react-hot-toast\": \"^2.4.1\",\n    \"react-icons\": \"^4.8.0\",\n    \"react-markdown\": \"^8.0.7\",\n    \"react-otp-input\": \"^3.0.2\",\n    \"react-rating-stars-component\": \"^2.2.0\",\n    \"react-redux\": \"^8.0.5\",\n    \"react-router-dom\": \"^6.11.2\",\n    \"react-scripts\": \"5.0.1\",\n    \"react-super-responsive-table\": \"^5.2.1\",\n    \"react-type-animation\": \"^3.0.1\",\n    \"redux-toolkit\": \"^1.1.2\",\n    \"swiper\": \"^9.4.1\",\n    \"video-react\": \"^0.16.0\",\n    \"web-vitals\": \"^2.1.4\"\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git+https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git\"\n  },\n  \"author\": \"Pranay Gupta\",\n  \"bugs\": {\n    \"url\": \"https://github.com/thepranaygupta/react-tailwind-css-starter-pack/issues\"\n  },\n  \"scripts\": {\n    \"start\": \"react-scripts start\",\n    \"build\": \"react-scripts build\",\n    \"eject\": \"react-scripts eject\",\n    \"server\": \"cd server && npm run dev\",\n    \"dev\": \"concurrently -n \\\"client,server\\\" -c \\\"bgBlue,bgYellow\\\" \\\"npm start\\\" \\\"npm run server\\\"\",\n    \"test\":\"jest\"\n  },\n  \"eslintConfig\": {\n    \"extends\": [\n      \"react-app\",\n      \"react-app/jest\"\n    ]\n  },\n  \"browserslist\": {\n    \"production\": [\n      \">0.2%\",\n      \"not dead\",\n      \"not op_mini all\"\n    ],\n    \"development\": [\n      \"last 1 chrome version\",\n      \"last 1 firefox version\",\n      \"last 1 safari version\"\n    ]\n  },\n  \"devDependencies\": {\n    \"tailwindcss\": \"^3.2.7\"\n  }\n}\n",
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# StudyNotion Online Education Platform (MERN App) [Website Link](https://studynotion-six-pied.vercel.app/)\n\n![Main Page](images/mainpage.png)\n\n## Project Description\n\nStudyNotion is a fully functional ed-tech platform that enables users to create, consume,\nand rate educational content. The platform is built using the MERN stack, which includes\nReactJS, NodeJS, MongoDB, and ExpressJS.\nStudyNotion aims to provide:\n* A seamless and interactive learning experience for students, making education\nmore accessible and engaging.\n* A platform for instructors to showcase their expertise and connect with learners\nacross the globe.\nIn the following sections, we will cover the technical details of the platform, including:\n1. System architecture: The high-level overview of the platform's components and\ndiagrams of the architecture.\n2. Front-end: The description of the front-end architecture, user interface design,\nfeatures, and functionalities of the front-end, and frameworks, libraries, and tools\nused.\n3. Back-end: The description of the back-end architecture, features and functionalities of\nthe back-end, frameworks, libraries, tools used, and data models and database schema.\n4. API Design: The description of the API design, list of API endpoints, their\nfunctionalities, and sample API requests and responses.\n5. Deployment: The description of the deployment process, hosting environment and\ninfrastructure, and deployment scripts and configuration.\n6. Testing: The description of the testing process, types of testing, test frameworks and\ntools used.\n7. Future Enhancements: The list of potential future enhancements to the platform,\nexplanation of how these enhancements would improve the platform, estimated\ntimeline and priority for implementing these enhancements.\n\nIn summary, StudyNotion is a versatile and intuitive ed-tech platform that is designed to\nprovide an immersive learning experience to students and a platform for instructors to\nshowcase their expertise. In the following sections, we will delve into the technical details\nof the platform, which will provide a comprehensive understanding of the platform's\nfeatures and functionalities.\n\n## System Architecture\n\nThe StudyNotion ed-tech platform consists of three main components: the front end, the\nback end, and the database. The platform follows a client-server architecture, with the\nfront end serving as the client and the back end and database serving as the server.\n\n### Front-end \n\nThe front end of the platform is built using ReactJS, ReactJS allows for the creation of dynamic and responsive user\ninterfaces, which are critical for providing an engaging learning experience to the students.\nThe front end communicates with the back end using RESTful API calls\n\n### Back-end \n\nThe back end of the platform is built using NodeJS and ExpressJS,. The back end\nprovides APIs for the front end to consume, which include functionalities such as user\nauthentication, course creation, and course consumption. The back end al\n... (truncated)"
     }
   },
   {
     "name": "khemssharma/3dPortfolio",
     "stars": 8,
     "description": "Portfolio website with seamless animations and 3D models to bring your assets to life!",
+    "languages_breakdown": {
+      "JavaScript": 39293,
+      "CSS": 6561,
+      "HTML": 379
+    },
     "files": {
       "package.json": "{\r\n  \"name\": \"3dfolio\",\r\n  \"private\": true,\r\n  \"version\": \"0.0.0\",\r\n  \"type\": \"module\",\r\n  \"scripts\": {\r\n    \"dev\": \"vite\",\r\n    \"build\": \"vite build\",\r\n    \"preview\": \"vite preview\"\r\n  },\r\n  \"dependencies\": {\r\n    \"@emailjs/browser\": \"^3.10.0\",\r\n    \"@react-three/drei\": \"^9.56.24\",\r\n    \"@react-three/fiber\": \"^8.11.1\",\r\n    \"framer-motion\": \"^9.0.7\",\r\n    \"maath\": \"^0.5.2\",\r\n    \"react\": \"^18.2.0\",\r\n    \"react-dom\": \"^18.2.0\",\r\n    \"react-router-dom\": \"^6.8.1\",\r\n    \"react-tilt\": \"^0.1.4\",\r\n    \"react-vertical-timeline-component\": \"^3.6.0\",\r\n    \"three\": \"^0.149.0\"\r\n  },\r\n  \"devDependencies\": {\r\n    \"@types/react\": \"^18.0.27\",\r\n    \"@types/react-dom\": \"^18.0.10\",\r\n    \"@vitejs/plugin-react\": \"^3.1.0\",\r\n    \"autoprefixer\": \"^10.4.13\",\r\n    \"postcss\": \"^8.4.21\",\r\n    \"tailwindcss\": \"^3.2.6\",\r\n    \"vite\": \"^4.1.0\"\r\n  }\r\n}",
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "<div align=\"center\">\r\n  <br />\r\n    <a href=\"https://youtu.be/0fYi8SGA20k?feature=shared\" target=\"_blank\">\r\n      <img src=\"https://github.com/adrianhajdin/project_3D_developer_portfolio/assets/151519281/4722160a-8e61-403f-a905-728feae1f7e6\" alt=\"Project Banner\">\r\n    </a>\r\n  <br />\r\n\r\n  <div>\r\n    <img src=\"https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB\" alt=\"react.js\" />\r\n    <img src=\"https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000\" alt=\"three.js\" />\r\n    <img src=\"https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4\" alt=\"tailwindcss\" />\r\n  </div>\r\n\r\n  <h3 align=\"center\">A 3D Developer Portfolio</h3>\r\n\r\n   <div align=\"center\">\r\n     Build this project step by step with our detailed tutorial on <a href=\"https://www.youtube.com/@javascriptmastery/videos\" target=\"_blank\"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!\r\n    </div>\r\n</div>\r\n\r\n## 📋 <a name=\"table\">Table of Contents</a>\r\n\r\n1. 🤖 [Introduction](#introduction)\r\n2. ⚙️ [Tech Stack](#tech-stack)\r\n3. 🔋 [Features](#features)\r\n4. 🤸 [Quick Start](#quick-start)\r\n5. 🕸️ [Snippets](#snippets)\r\n6. 🔗 [Links](#links)\r\n7. 🚀 [More](#more)\r\n\r\n## 🚨 Tutorial\r\n\r\nThis repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href=\"https://www.youtube.com/@javascriptmastery/videos\" target=\"_blank\"><b>JavaScript Mastery</b></a>. \r\n\r\nIf you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!\r\n\r\n<a href=\"https://youtu.be/0fYi8SGA20k?feature=shared\" target=\"_blank\"><img src=\"https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d\" /></a>\r\n\r\n## <a name=\"introduction\">🤖 Introduction</a>\r\n\r\nBy developing this project, you will gain hands-on experience in crafting immersive web experiences, mastering 3D libraries, and implementing engaging animations. The combination of creativity and technical skills showcased in this project serves as an excellent learning opportunity for developers seeking to enhance their portfolio and captivate users with cutting-edge web design.\r\n\r\nIf you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.\r\n\r\n<a href=\"https://discord.com/invite/n6EdbFJ\" target=\"_blank\"><img src=\"https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e\" /></a>\r\n\r\n## <a name=\"tech-stack\">⚙️ Tech Stack</a>\r\n\r\n- React.js\r\n- Three.js\r\n- React Three Fiber\r\n- React Three Drei\r\n- Email JS\r\n- Vite\r\n- Tailwind CSS\r\n\r\n## <a name=\"features\">🔋 Features</a>\r\n\r\n👉 **Customizable 3D Hero Section**: Includes a 3D desktop model easily customizable to suit specific needs.\r\n\r\n👉 **Interactive Exper\n... (truncated)"
     }
   }
 ]

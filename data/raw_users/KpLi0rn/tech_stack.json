@@ -3,54 +3,36 @@
     "name": "KpLi0rn/ShiroVulnEnv",
     "stars": 63,
     "description": "Shiro内存马注入环境",
+    "languages_breakdown": {
+      "Java": 28727
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
       "pom.xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project xmlns=\"http://maven.apache.org/POM/4.0.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\n         xsi:schemaLocation=\"http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd\">\n    <modelVersion>4.0.0</modelVersion>\n    <parent>\n        <groupId>org.springframework.boot</groupId>\n        <artifactId>spring-boot-starter-parent</artifactId>\n        <version>2.4.5</version>\n        <relativePath/> <!-- lookup parent from repository -->\n    </parent>\n    <groupId>com.shiro.vuln</groupId>\n    <artifactId>shirodemo</artifactId>\n    <version>0.0.1-SNAPSHOT</version>\n    <name>shirodemo</name>\n    <description>Demo project for Spring Boot</description>\n    <properties>\n        <java.version>1.8</java.version>\n    </properties>\n    <dependencies>\n        <dependency>\n            <groupId>org.springframework.boot</groupId>\n            <artifactId>spring-boot-starter-web</artifactId>\n        </dependency>\n\n        <dependency>\n            <groupId>org.springframework.boot</groupId>\n            <artifactId>spring-boot-starter-test</artifactId>\n            <scope>test</scope>\n        </dependency>\n\n        <dependency>\n            <groupId>org.apache.shiro</groupId>\n            <artifactId>shiro-core</artifactId>\n            <version>1.2.4</version>\n        </dependency>\n        <dependency>\n            <groupId>org.apache.shiro</groupId>\n            <artifactId>shiro-web</artifactId>\n            <version>1.6.0</version>\n        </dependency>\n        <dependency>\n            <groupId>org.apache.shiro</groupId>\n            <artifactId>shiro-spring</artifactId>\n            <version>1.6.0</version>\n        </dependency>\n\n        <dependency>\n            <groupId>commons-collections</groupId>\n            <artifactId>commons-collections</artifactId>\n            <version>3.2.1</version>\n        </dependency>\n        <dependency>\n            <groupId>org.javassist</groupId>\n            <artifactId>javassist</artifactId>\n            <version>3.25.0-GA</version>\n            <scope>test</scope>\n        </dependency>\n\n\n    </dependencies>\n\n    <build>\n        <plugins>\n            <plugin>\n                <groupId>org.springframework.boot</groupId>\n                <artifactId>spring-boot-maven-plugin</artifactId>\n            </plugin>\n        </plugins>\n    </build>\n\n</project>\n",
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# ShiroVulnEnv\n\n博客文章中的环境：http://wjlshare.com/archives/1545\n增加了 CommonsBeanutils 和 Tomcat 通用的回显 payload\n\n### 介绍\n文章的漏洞环境，利用代码都在 test/java 下\n\n![image](https://github.com/KpLi0rn/ShiroVulnEnv/blob/main/images/exploit.png)\n\n生成的序列化文件在项目根目录下\n\n![image](https://github.com/KpLi0rn/ShiroVulnEnv/blob/main/images/exploit2.png)\n\n### 步骤\n\n#### Step1 \n启动服务\n![image](https://github.com/KpLi0rn/ShiroVulnEnv/blob/main/images/start1.png)\n\n#### Step2\n来到 AESEncode 处，利用 AES 加密 tomcatHeader.ser 生成密文\n![image](https://github.com/KpLi0rn/ShiroVulnEnv/blob/main/images/start2.png)\n\n#### Step3 \n添加到 rememberMe 中进行发送，绕过 Tomcat Header 限制\n![image](https://github.com/KpLi0rn/ShiroVulnEnv/blob/main/images/start3.png)\n\n#### Step4\n来到 AESEncode 处，利用 AES 加密 tomcatInject.ser 生成密文\n![image](https://github.com/KpLi0rn/ShiroVulnEnv/blob/main/images/start4.png)\n\n#### Step5\n添加到 rememberMe 中进行发送，进行内存马的注入\n![image](https://github.com/KpLi0rn/ShiroVulnEnv/blob/main/images/start5.png)\n\n#### Step6 \n注入成功，回显如下\n![image](https://github.com/KpLi0rn/ShiroVulnEnv/blob/main/images/start6.png)\n\n\n### 参考链接\n感谢三梦师傅和Litch1师傅，文章链接如下：\n\nhttps://xz.aliyun.com/t/7388#toc-2\nhttps://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651374294&idx=3&sn=82d050ca7268bdb7bcf7ff7ff293d7b3\n"
     }
   },
   {
     "name": "KpLi0rn/DeserializeAll",
     "stars": 44,
     "description": "一个简单的批量反编译jar包的小脚本",
+    "languages_breakdown": {
+      "Python": 1066
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# DeserializeAll\n一个简单的批量反编译化jar包的小脚本\n\npython3 版本，利用了 cfr.jar\n\npython DeserializeAll.py <待反编译位置> <结果输出位置>\n"
     }
   },
   {
     "name": "KpLi0rn/LearnCompiler",
     "stars": 23,
     "description": "编译原理学习代码仓库",
+    "languages_breakdown": {
+      "Java": 872269,
+      "ANTLR": 27942,
+      "Go": 19854
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# LearnCompiler\n编译原理学习代码仓库\n编译原理之美学习笔记&代码，课程为：https://time.geekbang.org/column/article/118378\n\n因为不会 Go 语言，所以顺便学习的时候把 go 也写写\n\n\n\n极客时间后面部分跨度也太大了吧，直接就是一个完整项目，人傻了... \n\n(半抄半看的弄了弄，把函数部分抽离出来了，然后语义检查也一并没做，弄的血压都高了 \n\n"
     }
   }
 ]

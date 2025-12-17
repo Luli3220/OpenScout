@@ -3,54 +3,29 @@
     "name": "Mahi-Kanakdhar/Mahi-Kanakdhar",
     "stars": 7,
     "description": "无",
+    "languages_breakdown": {},
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# 𝔸𝕟𝕟𝕪𝕖𝕠𝕟𝕘𝕙𝕒𝕤𝕖𝕪𝕠 👋, 𝕀'𝕞 𝕄𝕒𝕙𝕚 마히 💜\n\nhttps://linktr.ee/Mahi.K\n\n\n![Image of Yaktocat](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)\n"
     }
   },
   {
     "name": "Mahi-Kanakdhar/My-Portfolio-1",
     "stars": 7,
     "description": "无",
-    "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
-    }
+    "languages_breakdown": {
+      "HTML": 1309,
+      "CSS": 348
+    },
+    "files": {}
   },
   {
     "name": "Mahi-Kanakdhar/My-Portfolio-5",
     "stars": 7,
     "description": "无",
-    "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
-    }
+    "languages_breakdown": {
+      "HTML": 4234,
+      "CSS": 1548
+    },
+    "files": {}
   }
 ]

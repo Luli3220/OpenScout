@@ -1,56 +1,46 @@
 [
   {
     "name": "marticliment/UniGetUI",
-    "stars": 19553,
+    "stars": 19557,
     "description": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
+    "languages_breakdown": {
+      "C#": 1499529,
+      "HTML": 50029,
+      "Python": 47573,
+      "Inno Setup": 31365,
+      "CSS": 5908,
+      "Batchfile": 5528,
+      "PowerShell": 1844,
+      "JavaScript": 996
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# <img src=\"https://raw.githubusercontent.com/marticliment/UniGetUI/main/media/icon.png\" height=\"40\">UniGetUI (formerly WingetUI)\n\n[![Downloads@latest](https://img.shields.io/github/downloads/marticliment/UniGetUI/3.2.0/total?style=for-the-badge)](https://github.com/marticliment/UniGetUI/releases/latest/download/UniGetUI.Installer.exe)\n[![Release Version Badge](https://img.shields.io/github/v/release/marticliment/UniGetUI?style=for-the-badge)](https://github.com/marticliment/UniGetUI/releases)\n[![Issues Badge](https://img.shields.io/github/issues/marticliment/UniGetUI?style=for-the-badge)](https://github.com/marticliment/UniGetUI/issues)\n[![Closed Issues Badge](https://img.shields.io/github/issues-closed/marticliment/UniGetUI?color=%238256d0&style=for-the-badge)](https://github.com/marticliment/UniGetUI/issues?q=is%3Aissue+is%3Aclosed)<br>\nThe main goal of this project is to create an intuitive GUI for the most common CLI package managers for Windows 10 and 11, such as [WinGet](https://learn.microsoft.com/en-us/windows/package-manager/), [Scoop](https://scoop.sh/), [Chocolatey](https://chocolatey.org/), [Pip](https://pypi.org/), [Npm](https://www.npmjs.com/), [.NET Tool](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-tool-install), [PowerShell Gallery](https://www.powershellgallery.com/) and more (Check out the package manager compatibility table)!.\nWith this app, you can easily download, install, update, and uninstall any software published on the supported package managers — and much more!\n\n![image](https://github.com/user-attachments/assets/7cb447ca-ee8b-4bce-8561-b9332fb0139a)\nView more screenshots [here](#screenshots)\n\nCheck out the [Supported Package Managers Table](#supported-package-managers) for more details!\n\n**Disclaimer:** This project has no connection with any supported package managers — it's completely unofficial. Be aware that I, the developer of UniGetUI, am NOT responsible for the downloaded software. Proceed with caution\n\n![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/marticliment/WingetUI/dotnet-test.yml?branch=main&style=for-the-badge&label=Tests)<br>\n\n\n> [!CAUTION]\n> **The OFFICIAL website for UniGetUI is [https://www.marticliment.com/unigetui/](https://www.marticliment.com/unigetui/)**<br>\n> **Any other website should be considered unofficial, despite what they may say.**\n\n🔒 Found a security issue? Please report it via [our disclosure program](https://whitehub.net/programs/unigetui/)\n\n## Support the developer\n\nIt really does make a big difference, and is very much appreciated. Thanks :)<br>\n[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P86KKPB)\n\n## Table of contents\n - **[UniGetUI Homepage](https://www.marticliment.com/unigetui/)**\n - [Table of contents](#table-of-contents)\n - [Installation](#installation)\n - [Update UniGetUI](#update-UniGetUI)\n - [Support the developer](#support-the-developer)\n - [Features](#features)\n   - [Supported Package \n... (truncated)"
     }
   },
   {
     "name": "marticliment/ElevenClock",
     "stars": 2539,
     "description": "ElevenClock: Customize Windows 11 taskbar clock",
+    "languages_breakdown": {
+      "Python": 422730,
+      "Inno Setup": 5600,
+      "Batchfile": 2465
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
       "requirements.txt": "PyInstaller==5.13.0\nPySide6==6.6.0\nkeyboard\npsutil\npytz\nwin32mica\nwinshell\npypiwin32",
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": " <h1><img height=40 src=\"https://github.com/marticliment/ElevenClock/blob/main/elevenclock/resources/icon.png?raw=true\"> ElevenClock</h1>\n\n[![Downloads@4.4.1.1](https://img.shields.io/github/downloads/marticliment/elevenclock/4.4.1.1/total?style=for-the-badge)](https://github.com/martinet101/ElevenClock/releases/latest/download/ElevenClock.Installer.exe)\n[![Release Version Badge](https://img.shields.io/github/v/release/martinet101/ElevenClock?style=for-the-badge)](https://github.com/martinet101/ElevenClock/releases)\n[![Issues Badge](https://img.shields.io/github/issues/martinet101/ElevenClock?style=for-the-badge)](https://github.com/martinet101/ElevenClock/issues)\n[![Closed Issues Badge](https://img.shields.io/github/issues-closed/martinet101/ElevenClock?color=%238256d0&style=for-the-badge)](https://github.com/martinet101/ElevenClock/issues?q=is%3Aissue+is%3Aclosed)\n\nElevenClock is **free software** (under [Apache License 2.0](https://github.com/marticliment/ElevenClock/blob/main/LICENSE)) that lets you put a **customizable clock on your Windows 11 taskbar(s)**. When Microsoft created the Windows 11 clock, they removed the ability to make it customizable, and to show it on multiple displays. You can customize ElevenClock however you wish — from adding seconds, to changing its color scheme — __and__ it appears on all the displays\nconnected to your PC.\nYou can choose to show or hide the clock with full-screen apps, and what happens when you click, double-click or middle-click it.\nDo you want a clock (or two clocks) on each of your displays? You can have them, and **customize them independently**, or leave them looking like the Windows’ clock... It’s your choice.\nElevenClock is millisecond-accurate, auto-synced with Internet Time... You can even set it to different time zones.\n\n**This is ElevenClock's official repository. If you are searching ElevenClock's homepage, please refer to [https://www.marticliment.com/elevenclock/](https://www.marticliment.com/elevenclock/)**\n\n## Table of contents\n - **[ElevenClock Homepage](https://www.marticliment.com/elevenclock/)**\n - [Table of contents](#table-of-contents)\n - [Installation](#fast-installation)\n - [Support the developer](#support-the-developer)\n - [Features](#features)\n - [Translating ElevenClock][translating link]\n   - [Currently supported languages](#currently-supported-languages)\n - [Screenshots](#screenshots)\n - [Frequently Asked Questions](#frequently-asked-questions)\n - [Legacy installation](#legacy-installation)\n\n## Microsoft store installation:\n\n[<img alt=\"alt_text\" width=\"240px\" src=\"https://upload.wikimedia.org/wikipedia/commons/f/f7/Get_it_from_Microsoft_Badge.svg\" href=\"\"/>](https://marticliment.com/redirect/?elevenclockstore)  \n<br>\nAlternatively, you can install ElevenClock from Winget or Chocolatey:\n```powershell\nwinget install ElevenClock --source winget\n```\n```powershell\nchoco install elevenclock\n```\n<br>\n\nYou can also download ElevenClock from its [homepage](https://www.marticliment.c\n... (truncated)"
     }
   },
   {
     "name": "marticliment/Widgets-for-UniGetUI",
     "stars": 155,
     "description": "Widgets to interact with UniGetUI from Dev Home and Windows Widgets",
+    "languages_breakdown": {
+      "C#": 69680,
+      "Batchfile": 1136
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# <img src=\"https://raw.githubusercontent.com/marticliment/WingetUI/main/media/icon.png\" height=\"40\">Widgets for UniGetUI (formerly WingetUI)\n\nThis repository contains the code of a set of Windows Widgets that can be used to interact with UniGetUI (formerly WingetUI). The widgets can be displayed on the **Windows Widgets** pane and/or on **Dev Home**.\n\nPlease note that the widgets are **ONLY** compatible with Windows 10 and 11\n\nCurrently, the widgets allow viewing available updates, updating specific packages, and bulk-updating everything. A widget for each Package Manager is available, as well as a widget that will list every available package without source distinction.\n\n## Installation\nWidgets for UniGetUI can be installed from the Microsoft Store:\n\n<a href=\"https://www.microsoft.com/store/apps/9NB9M5KZ8SLX\"><img alt=\"alt_text\" width=\"240px\" src=\"https://get.microsoft.com/images/en-us%20dark.svg\" /></a> \n\nAlternatively, you can download the `msix` installer from the [Releases](https://github.com/marticliment/WingetUI-Widgets/releases/tag/0.6) page. The `msix` installers are published a few days after a new version passes Microsoft Store certification.\n\n## Screenshots\n\n<img src=\"https://github.com/user-attachments/assets/87d0f263-b43f-4220-ade1-2af54581c7c0\" width=800px></img>\n\n<img src=\"https://github.com/user-attachments/assets/43a2fcae-420d-4c5d-a25b-9e6dd974221e\" width=400px></img>\n<img src=\"https://github.com/user-attachments/assets/5c21fa2a-19c3-4e4c-82d5-342efe5c250f\" width=400px></img>\n\n## More Screenshots:\n<details>\n<img src=\"src/Package/Images/WidgetCovers/winget_dark.png\" width=400px></img>\n<img src=\"src/Package/Images/WidgetCovers/winget_light.png\" width=400px></img>\n\n<img src=\"src/Package/Images/WidgetCovers/scoop_dark.png\" width=400px></img>\n<img src=\"src/Package/Images/WidgetCovers/scoop_light.png\" width=400px></img>\n\n<img src=\"src/Package/Images/WidgetCovers/choco_dark.png\" width=400px></img>\n<img src=\"src/Package/Images/WidgetCovers/choco_light.png\" width=400px></img>\n\n<img src=\"src/Package/Images/WidgetCovers/pip_dark.png\" width=400px></img>\n<img src=\"src/Package/Images/WidgetCovers/pip_light.png\" width=400px></img>\n\n<img src=\"src/Package/Images/WidgetCovers/npm_dark.png\" width=400px></img>\n<img src=\"src/Package/Images/WidgetCovers/npm_light.png\" width=400px></img>\n\n<img src=\"src/Package/Images/WidgetCovers/dotnet_dark.png\" width=400px></img>\n<img src=\"src/Package/Images/WidgetCovers/dotnet_light.png\" width=400px></img>\n\n</details>\n<br><br>\n"
     }
   }
 ]

@@ -70,13 +70,66 @@ def load_users_list():
             return json.load(f)
     return []
 
+def format_tech_stack(tech_stack_json):
+    """
+    Parses the raw JSON tech stack and formats it into a concise, LLM-readable string.
+    """
+    try:
+        repos = json.loads(tech_stack_json)
+    except:
+        return tech_stack_json
+
+    if not isinstance(repos, list):
+        return tech_stack_json
+
+    output = []
+    for repo in repos:
+        name = repo.get("name", "Unknown")
+        stars = repo.get("stars", 0)
+        desc = repo.get("description", "No description")
+        langs = repo.get("languages_breakdown", {})
+        
+        # Format languages
+        total_bytes = sum(langs.values())
+        if total_bytes > 0:
+            # Sort by percentage
+            sorted_langs = sorted(langs.items(), key=lambda x: x[1], reverse=True)
+            # Take top 5 languages to save space
+            lang_str = ", ".join([f"{k}: {v/total_bytes:.1%}" for k,v in sorted_langs[:5]])
+        else:
+            lang_str = "Unknown"
+            
+        repo_str = f"### Project: {name} (Stars: {stars})\n"
+        repo_str += f"- Description: {desc}\n"
+        repo_str += f"- Languages: {lang_str}\n"
+        repo_str += "- Key Files:\n"
+        
+        files = repo.get("files", {})
+        for fname, content in files.items():
+            if not content: continue
+            
+            # Truncate content
+            clean_content = content.strip()
+            # Limit file size for LLM context (e.g., 1500 chars)
+            if len(clean_content) > 1500:
+                clean_content = clean_content[:1500] + "\n...[Truncated]..."
+            
+            # Indent content for readability
+            indented_content = "\n".join(["  " + line for line in clean_content.split('\n')])
+            repo_str += f"  [{fname}]\n{indented_content}\n\n"
+            
+        output.append(repo_str)
+        
+    return "\n".join(output)
+
 def load_tech_stack(username):
     path = os.path.join(RAW_USERS_DIR, username, "tech_stack.json")
     if os.path.exists(path):
         with open(path, 'r', encoding='utf-8') as f:
-            # Convert JSON object to a string representation for the LLM
-            data = json.load(f)
-            return json.dumps(data, ensure_ascii=False, indent=2)
+            # Read raw content
+            content = f.read()
+            # Return optimized string
+            return format_tech_stack(content)
     return "No tech stack data found."
 
 def load_agent_b_context(username):
@@ -117,7 +170,7 @@ async def analyze_user(username: str):
             }
         ],
         "stream": True,
-        "form_data": {
+        "inputs": {
             "TechHunter":   tech_stack,       # 对应截图里的 TechHunter
             "CodeAuditor": code_audit,      # 对应截图里的 CodeAuditor
             "Six_Dimension": radar_str      # 对应截图里的 Six_Dimension

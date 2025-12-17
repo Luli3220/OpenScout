@@ -1,56 +1,51 @@
 [
   {
     "name": "HansKristian-Work/vkd3d-proton",
-    "stars": 2470,
+    "stars": 2468,
     "description": "Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.",
+    "languages_breakdown": {
+      "C": 16176502,
+      "HLSL": 327702,
+      "C++": 40245,
+      "Python": 26140,
+      "Meson": 18997,
+      "Shell": 12716,
+      "GLSL": 10069,
+      "Makefile": 2343
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# vkd3d-proton\n\nvkd3d-proton is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.\nThe project serves as the development effort for Direct3D 12 support in [Proton](https://github.com/ValveSoftware/Proton).\n\n## Upstream\n\nThe original project is available at [WineHQ](https://gitlab.winehq.org/wine/vkd3d).\n\n## Priorities\n\nPerformance and game compatibility are important targets, at the expense of compatibility with older drivers and systems.\nModern Vulkan extensions and features are aggressively made use of to improve game performance and compatibility.\nIt is recommended to use the very latest drivers you can get your hands on for the best experience.\nBackwards compatibility with the vkd3d standalone API is not a goal of this project.\n\n## Drivers\n\nThere are some hard requirements on drivers to be able to implement D3D12 in a reasonably performant way.\n\n- Vulkan 1.3\n- Descriptor indexing with at least 1000000 UpdateAfterBind descriptors for all types except UniformBuffer.\n  Essentially all features in `VkPhysicalDeviceDescriptorIndexingFeatures` must be supported.\n- Further, the following device features are required:\n  - `samplerMirrorClampToEdge`\n  - `shaderDrawParameters`\n- `VK_EXT_robustness2`\n- `VK_KHR_push_descriptor`\n\nSome notable extensions that **should** be supported for optimal or correct behavior.\nThese extensions will likely become mandatory later.\n\n- `VK_EXT_image_view_min_lod`\n\n`VK_EXT_mutable_descriptor_type` (or the vendor `VALVE` alias) and `VK_EXT_descriptor_buffer` are also highly recommended, but not mandatory.\n\n### AMD (RADV)\n\nFor AMD, RADV is the recommended driver and the one that sees most testing on AMD GPUs.\nThe minimum requirement at the moment is Mesa 22.0.\n\nNOTE: For older Mesa versions, use the v2.6 release.\n\n### NVIDIA\n\nThe [Vulkan beta drivers](https://developer.nvidia.com/vulkan-driver) generally contain the latest\ndriver fixes that we identify while getting games to work.\nThe latest drivers (stable, beta or Vulkan beta tracks) are always preferred.\nIf you're having problems, always try the latest drivers.\nAt minimum, 535 series drivers are needed, which fixes a bunch of bugs.\n\n### Intel\n\nWe have not done any testing against Intel GPUs yet.\n\n------\n\n## Cloning the repo\n\nTo clone the repo you should run:\n```\ngit clone --recursive https://github.com/HansKristian-Work/vkd3d-proton\n```\nin order to pull in all the submodules which are needed for building.\n\n## Building vkd3d-proton\n\n### Requirements:\n- [wine](https://www.winehq.org/) (for `widl`) [for native builds]\n  - On Windows this may be substituted for [Strawberry Perl](http://strawberryperl.com/) as it ships `widl` and is easy to find and install -- although this dependency may be eliminated in the future.\n- [Meson](http://mesonbuild.com/) build system (at least version 0.49)\n- [glslang](https://github.com/KhronosGroup/glslang) compiler\n- [Mingw-w64](http://mingw-w64.org/) compiler, headers and tools (at least version 7.0) [for cross\n... (truncated)"
     }
   },
   {
     "name": "HansKristian-Work/dxil-spirv",
     "stars": 216,
     "description": "DXIL conversion to SPIR-V for D3D12 translation libraries",
+    "languages_breakdown": {
+      "C++": 2281208,
+      "Assembly": 1194613,
+      "GLSL": 972415,
+      "C": 40545,
+      "Python": 30104,
+      "CMake": 10611,
+      "Meson": 3362,
+      "Shell": 1799,
+      "Perl": 37
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# dxil-spirv\n\nThis project aims to provide translation of DXIL (SM 6.x) shaders to SPIR-V which can be used in the vkd3d project,\nwhich implements D3D12 on top of Vulkan.\nUsing [dxbc-spirv](https://github.com/doitsujin/dxbc-spirv) it also handles legacy DXBC shaders.\n\n## Building\n\n### Dependencies\n\nCheck out submodules first with `git submodule update --init --recursive`.\nNo external dependencies apart from the submodules are required to build.\n\nThis project implements a \"small\" LLVM C++ API subset which acts as a drop-in replacement for the full LLVM.\nIt is possible to build against the true LLVM C++ API if llvm is checked out in `external/llvm` and `-DDXIL_SPIRV_NATIVE_LLVM=ON` CMake option is used.\nSee `checkout_llvm.sh` script.\n\n### Build\n\nStandard CMake build.\n\n```shell\nmkdir build\ncd build\ncmake .. -DCMAKE_BUILD_TYPE=Release\ncmake --build . --config Release\n```\n\n## Linking against dxil-spirv\n\nOnly the C API is installed and is expected to be kept ABI/API stable when it releases.\n\n### pkg-config\n\n```shell\npkg-config dxil-spirv-c-shared --cflags --libs\n```\n\n### CMake module\n\nSomething like:\n\n```\nfind_package(dxil_spirv_c_shared)\nif (dxil_spirv_c_shared_FOUND)\n\tmessage(\"Found dxil-spirv! Enabling DXIL support.\")\n\ttarget_link_libraries(vkd3d-shader PRIVATE dxil-spirv-c-shared)\n\ttarget_compile_definitions(vkd3d-shader PRIVATE HAVE_DXIL_SPV)\n\ttarget_sources(vkd3d-shader PRIVATE vkd3d/libs/vkd3d-shader/dxil.c)\nelse()\n\tmessage(\"Did not find dxil-spirv :( Disabling DXIL support.\")\nendif()\n```\n\n## Testing\n\nThe primary method of testing dxil-spirv and avoiding regressions is through a reference shader suite.\n\n### Build DXC\n\nFirst, build DXC. To keep output consistent, we must use a fixed version of DXC.\nCurrently, this only works on Linux, the Windows build of DXC does not seem to support CMake properly.\n\n```shell\n./checkout_dxc.sh\n./build_dxc.sh\n```\n\nThe test suite accepts an arbitrary path to DXC, so if you have a standalone binary somewhere, that can work as well.\n\n### Run test suite\n\nWhen adding new tests, place the HLSL test in `shaders/` somewhere and run:\n\n```shell\n./test_shaders.py shaders --dxc external/dxc-build/bin/dxc --dxil-spirv cmake-build-debug/dxil-spirv\n```\n\nIf there is any mismatch, the test script will complain. If there are legitimate changes to be made,\nadd `--update` to the command. The updated files should now be committed alongside the dxil-spirv change.\n`--parallel` can (and should) be used to speed up the process.\n\nTo update DXBC references, run:\n\n```shell\n./cmake-build-debug/dxbc-spirv-sandbox ./reference-dxbc\n```\n\n### Running large repro suites\n\nFor internal development, we also have an extensive repro suite which cover real-world content.\nThese cannot be made public for obvious reasons, so the intent is that symlinks are set up during development.\nShaders can be dumped with `VKD3D_SHADER_DUMP_PATH`.\n\n```shell\n# The scripts might not work properly if the paths aren't laid out like this.\nln -s ${DXIL_SPIRV_REPO}/shaders sha\n... (truncated)"
     }
   },
   {
     "name": "HansKristian-Work/pyroveil",
-    "stars": 124,
+    "stars": 125,
     "description": "Vulkan layer to replace shaders or roundtrip them to workaround driver bugs",
+    "languages_breakdown": {
+      "C++": 63664,
+      "CMake": 5774
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# Pyroveil\n\nPyroveil is a Vulkan layer that can automatically replace shaders or roundtrip them via SPIRV-Cross -> glslang.\nThis can create SPIR-V that is more compatible with NVIDIA drivers in particular.\n\n## Checkout and build\n\nMake sure to install `git`, `cmake`, `ninja` and gcc toolchains first (often called `base-devel` or similar).\n\n```\ngit clone https://github.com/HansKristian-Work/pyroveil.git\ncd pyroveil\ngit submodule update --init\ncmake . -Bbuild -G Ninja -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=$HOME/.local\nninja -C build install\n```\n\nAlternative path if using Steam Flatpak. (I assume this is correct).\n\n```\ncmake . -Bbuild -G Ninja -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=$HOME/.var/app/com.valvesoftware.Steam/.local\n```\n\n## To use\n\nThe layer needs a config file to operate. See the folders under `hacks/` for some ready to go config files.\nUse `PYROVEIL_CONFIG=/path/to/pyroveil.json` to pick the config you want.\nIn Steam, run the game with `PYROVEIL=1 %command%`.\n\nTo know that it's active, run `grep \"pyroveil:\" ~/steam-$appid.txt` on the `PROTON_LOG` output. You should see, e.g.:\n\n```\npyroveil: Found config in /tmp/pyroveil.json!\npyroveil: Adding match for spirvExecutionModel: 5365 (MeshEXT).\npyroveil: Adding GLSL roundtrip via SPIRV-Cross for match.\n...\npyroveil: Found match for execution model in 55736cd1c3064f67.\n...\n```\n\nSome config files use a roundtripCache to provide patched SPIR-V.\nIn this case, `cache/` folder next to pyroveil.json must also be copied.\nIt is likely easier to simply use the path that you checked out for the `pyroveil.json`. E.g.\n\n`PYROVEIL=1 PYROVEIL_CONFIG=/path/to/pyroveil/checkout/hacks/monster-hunter-wilds-nv/pyroveil.json %command%`\n\n## To use with Bottles (Flatpak)\n\nSome manual workarounds will be required to make this work with a Bottles setup.\n\nAssuming you have gone through the [checkout and build](#checkout-and-build) section, you will now have two files in the `CMAKE_INSTALL_PREFIX` directory:\n* `$CMAKE_INSTALL_PREFIX/lib/libVkLayer_pyroveil_64.so`\n* `$CMAKE_INSTALL_PREFIX/share/vulkan/implicit_layer.d/VkLayer_pyroveil_64.json`\n\nBy default Bottles will search several locations for Vulkan layer manifests, one of them is:\n* `$HOME/.var/app/com.usebottles.bottles/config/vulkan/implicit_layer.d`\n\nCopy over `VkLayer_pyroveil_64.json` into the location above. Open it and edit **ONLY** the `layer.library_path` field in the json like so (or any other path you like, as long as Bottles can access it):\n```json\n    \"layer\" : {\n        \"library_path\": \"/home/YOUR_USER/.var/app/com.usebottles.bottles/config/vulkan/lib/libVkLayer_pyroveil_64.so\"\n    }\n```\n\nFor the final step it's suggested to copy the relevant hack to the `drive_c` folder of your game.\n\nFinally, in the Bottles app, set the Launch options by clicking on the three dots next to your Program/Game, and clicking \"Change Launch Options\". Next add one of the hack locations:\n\n`PYROVEIL=1 PYROVEIL_CONFIG=/home/YOUR_USER/.var/app/com.usebottl\n... (truncated)"
     }
   }
 ]

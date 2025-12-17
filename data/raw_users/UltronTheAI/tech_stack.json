@@ -3,54 +3,38 @@
     "name": "UltronTheAI/eBook-Generator-AI-Agent",
     "stars": 6,
     "description": "An AI-powered system for generating complete eBooks from simple prompts. This tool uses Google's Gemini AI models to create professional-quality eBooks with minimal human input.",
+    "languages_breakdown": {
+      "Python": 35078
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
       "requirements.txt": "google-generativeai>=0.3.0\r\npydantic>=2.0.0\r\npython-dotenv>=1.0.0\r\nmarkdown>=3.4.0\r\npdfkit>=1.0.0\r\nPyPDF2>=3.0.0\r\ncairosvg>=2.7.0\r\nPillow>=10.0.0 ",
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "<!-- Copyright (c) 2025 Swaraj Puppalwar (UltronTheAI) -->\r\n<!-- Licensed under the MIT License. See LICENSE file in the project root for full license information. -->\r\n<!-- Project: https://github.com/UltronTheAI/eBook-Generator-AI-Agent -->\r\n\r\n# eBook Generator AI Agent\r\n\r\n![eBook Generator](https://img.shields.io/badge/eBook-Generator-blue)\r\n![Python](https://img.shields.io/badge/Python-3.8+-green)\r\n![Gemini AI](https://img.shields.io/badge/Gemini-AI-orange)\r\n\r\nAn AI-powered system for generating complete eBooks from simple prompts. This tool uses Google's Gemini AI models to create professional-quality eBooks with minimal human input.\r\n\r\n## Features\r\n\r\n- 📚 **Complete eBook Generation**: Creates full eBooks including content, covers, and formatting\r\n- 🤖 **AI-Powered Content**: Uses Google's Gemini AI models for high-quality content\r\n- 🎨 **Automated Cover Design**: Generates custom covers for each eBook\r\n- 📄 **PDF Output**: Produces professionally formatted PDF eBooks\r\n- ⚙️ **Customizable**: Adjust prompts, templates, and formatting to your needs\r\n\r\n## Quick Start\r\n\r\n1. Clone the repository\r\n2. Install dependencies: `pip install -r requirements.txt`\r\n3. Set up your Gemini API key in `.env`\r\n4. Run the generator: `python app.py`\r\n\r\n## Example Output\r\n\r\nThe system generates complete eBooks on topics like:\r\n- Productivity guides\r\n- Technical manuals\r\n- Self-help books\r\n- Fiction stories\r\n- Educational content\r\n\r\nEach eBook includes:\r\n- Professional cover\r\n- Table of contents\r\n- Multiple chapters\r\n- Consistent formatting\r\n\r\n## Documentation\r\n\r\nDetailed documentation is available in the `docs` directory:\r\n\r\n- [Installation Guide](docs/installation.md)\r\n- [Usage Guide](docs/usage.md)\r\n- [Architecture](docs/architecture.md)\r\n- [Module Reference](docs/module_reference.md)\r\n- [AI Models](docs/ai_models.md)\r\n- [Customization](docs/customization.md)\r\n- [Troubleshooting](docs/troubleshooting.md)\r\n\r\n## Requirements\r\n\r\n- Python 3.8+\r\n- Google Gemini API key\r\n- wkhtmltopdf (for PDF generation)\r\n- Dependencies listed in `requirements.txt`\r\n\r\n## License\r\n\r\nThis project is licensed under the MIT License - see the LICENSE file for details.\r\n\r\n## Acknowledgments\r\n\r\n- Google Gemini AI for providing the AI models\r\n- The open-source community for various libraries used in this project "
     }
   },
   {
     "name": "UltronTheAI/Certificate",
     "stars": 5,
     "description": "无",
+    "languages_breakdown": {
+      "HTML": 3443,
+      "CSS": 744
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# Certificate\n      \nweb : https://ultrontheai.github.io/Certificate/cir.html\n"
     }
   },
   {
     "name": "UltronTheAI/Game-Server",
     "stars": 5,
     "description": "无",
+    "languages_breakdown": {
+      "JavaScript": 260677,
+      "HTML": 7260,
+      "CSS": 6155,
+      "Python": 433
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# Game-Server\n"
     }
   }
 ]

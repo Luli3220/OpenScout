@@ -3,54 +3,35 @@
     "name": "IljaZimakovs/CookieChain-Fe",
     "stars": 3,
     "description": "无",
+    "languages_breakdown": {
+      "TypeScript": 96522,
+      "CSS": 2827,
+      "JavaScript": 227
+    },
     "files": {
       "package.json": "{\n  \"name\": \"nextjs-template\",\n  \"version\": \"0.1.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"dev\": \"next dev\",\n    \"dev:https\": \"next dev --experimental-https\",\n    \"build\": \"next build\",\n    \"start\": \"next start\",\n    \"lint\": \"next lint\"\n  },\n  \"dependencies\": {\n    \"@radix-ui/react-dialog\": \"^1.1.1\",\n    \"@radix-ui/react-progress\": \"^1.1.0\",\n    \"@telegram-apps/react-router-integration\": \"^1.0.0\",\n    \"@telegram-apps/sdk-react\": \"^1.0.0\",\n    \"@telegram-apps/telegram-ui\": \"^2.1.5\",\n    \"@tonconnect/ui-react\": \"^2.0.5\",\n    \"axios\": \"^1.7.5\",\n    \"class-variance-authority\": \"^0.7.0\",\n    \"clsx\": \"^2.1.1\",\n    \"csshake\": \"^1.7.0\",\n    \"eruda\": \"^3.0.1\",\n    \"framer-motion\": \"^11.5.2\",\n    \"lucide-react\": \"^0.436.0\",\n    \"next\": \"14.2.4\",\n    \"normalize.css\": \"^8.0.1\",\n    \"react\": \"^18\",\n    \"react-dom\": \"^18\",\n    \"react-hot-toast\": \"^2.4.1\",\n    \"react-icons\": \"^5.3.0\",\n    \"react-spinners-kit\": \"^1.9.1\",\n    \"tailwind-merge\": \"^2.5.2\",\n    \"tailwindcss-animate\": \"^1.0.7\",\n    \"vaul\": \"^0.9.1\",\n    \"zustand\": \"^4.5.5\"\n  },\n  \"devDependencies\": {\n    \"@types/node\": \"^20\",\n    \"@types/react\": \"^18\",\n    \"@types/react-dom\": \"^18\",\n    \"eslint\": \"^8\",\n    \"eslint-config-next\": \"14.2.4\",\n    \"postcss\": \"^8\",\n    \"tailwindcss\": \"^3.4.1\",\n    \"typescript\": \"^5\"\n  }\n}\n",
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# Telegram Mini Apps Next.js Template\n\nThis template demonstrates how developers can implement a web application on the Telegram\nMini Apps platform using the following technologies and libraries:\n\n- [Next.js](https://nextjs.org/)\n- [TypeScript](https://www.typescriptlang.org/)\n- [TON Connect](https://docs.ton.org/develop/dapps/ton-connect/overview)\n- [@telegram-apps SDK](https://docs.telegram-mini-apps.com/packages/telegram-apps-sdk)\n- [Telegram UI](https://github.com/Telegram-Mini-Apps/TelegramUI)\n\n> The template was created using [pnpm](https://pnpm.io/). Therefore, it is required to use\n> it for this project as well. Using other package managers, you will receive a corresponding error.\n\n## Install Dependencies\n\nIf you have just cloned this template, you should install the project dependencies using the\ncommand:\n\n```Bash\npnpm install\n```\n\n## Scripts\n\nThis project contains the following scripts:\n\n- `dev`. Runs the application in development mode.\n- `dev:https`. Runs the application in development mode using self-signed SSL certificate.\n- `build`. Builds the application for production.\n- `start`. Starts the Next.js server in production mode.\n- `lint`. Runs [eslint](https://eslint.org/) to ensure the code quality meets the required\n  standards.\n\nTo run a script, use the `pnpm run` command:\n\n```Bash\npnpm run {script}\n# Example: pnpm run build\n```\n\n## Create Bot and Mini App\n\nBefore you start, make sure you have already created a Telegram Bot. Here is\na [comprehensive guide](https://docs.telegram-mini-apps.com/platform/creating-new-app) on how to\ndo it.\n\n## Run\n\nAlthough Mini Apps are designed to be opened\nwithin [Telegram applications](https://docs.telegram-mini-apps.com/platform/about#supported-applications),\nyou can still develop and test them outside of Telegram during the development process.\n\nTo run the application in the development mode, use the `dev` script:\n\n```bash\npnpm run dev\n```\n\nAfter this, you will see a similar message in your terminal:\n\n```bash\n▲ Next.js 14.2.3\n- Local:        http://localhost:3000\n\n✓ Starting...\n✓ Ready in 2.9s\n```\n\nTo view the application, you need to open the `Local`\nlink (`http://localhost:3000` in this example) in your browser.\n\nIt is important to note that some libraries in this template, such as `@telegram-apps/sdk`, are not\nintended for use outside of Telegram.\n\nNevertheless, they appear to function properly. This is because the `src/hooks/useTelegramMock.ts`\nfile, which is imported in the application's `Root` component, employs the `mockTelegramEnv`\nfunction to simulate the Telegram environment. This trick convinces the application that it is\nrunning in a Telegram-based environment. Therefore, be cautious not to use this function in\nproduction mode unless you fully understand its implications.\n\n### Run Inside Telegram\n\nAlthough it is possible to run the application outside of Telegram, it is recommended to develop it\nwithin Telegram for the most accurate representation of its real-world functionality.\n\nTo \n... (truncated)"
     }
   },
   {
     "name": "IljaZimakovs/iljazimakovs",
     "stars": 3,
     "description": "无",
+    "languages_breakdown": {},
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# 👋 Welcome to My GitHub!\n\n## About Me\nMy only wish as a child was not to become a developer. <br /> But coincidentally, I fell into the exciting trap called coding and have enjoyed my life in this lovely trap for almost 8 years. <br /> I love coding as much as I love my wife—and sometimes even more! ❤️Shh! Be quiet. I've never said that in front of my wife.\n\n## 🌟 My Main Offers\n\nHere are some of the key services I provide:\n\n- **Full-Stack Development**: Responsive frontends (React, Vue, Next.js) + Scalable backends (Django, Node.js, Go)\n- **Blockchain & Smart Contract Solutions**: Secure smart contracts, token development, dApps, and cross-chain interoperability\n- **NFT & Web3 Integration**: NFT development, marketplace integration, and Web3 capabilities for decentralized apps\n- **AI, Automation & Trading Bots**: AI-driven solutions for process optimization and customizable trading bots\n\n## ⚡ Technical Skills & Tools\n\n<table>\n  <tr>\n    <td align=\"center\" style=\"min-width: 90px;\">\n      <img src=\"https://skillicons.dev/icons?i=js\" alt=\"JavaScript\" width=\"45\" height=\"45\" />\n      <br />&nbsp;&nbsp;JavaScript&nbsp;&nbsp;\n    </td>\n    <td align=\"center\" style=\"min-width: 90px;\">\n      <img src=\"https://skillicons.dev/icons?i=ts\" alt=\"TypeScript\" width=\"45\" height=\"45\" />\n      <br />&nbsp;&nbsp;TypeScript&nbsp;\n    </td>\n    <td align=\"center\" style=\"min-width: 90px;\">\n        <img src=\"https://skillicons.dev/icons?i=python\" alt=\"Python\" width=\"45\" height=\"45\" />\n        <br />&nbsp;Python&nbsp;&nbsp;\n      </td>\n    <td align=\"center\" style=\"min-width: 90px;\">\n    <img src=\"https://skillicons.dev/icons?i=go\" alt=\"Go\" width=\"45\" height=\"45\" />\n    <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Go&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n    </td>\n    <td align=\"center\" style=\"min-width: 90px;\">\n        <img src=\"https://skillicons.dev/icons?i=rust\" alt=\"Rust\" width=\"45\" height=\"45\" />\n        <br />&nbsp;&nbsp;&nbsp;&nbsp;Rust&nbsp;&nbsp;&nbsp;&nbsp;\n      </td>\n      <td align=\"center\" style=\"min-width: 90px;\">\n        <img src=\"https://skillicons.dev/icons?i=solidity\" alt=\"Solidity\" width=\"45\" height=\"45\" />\n        <br />Solidity\n      </td>\n    <td align=\"center\" style=\"min-width: 90px;\">\n      <img src=\"https://skillicons.dev/icons?i=react\" alt=\"React\" width=\"45\" height=\"45\" />\n      <br />&nbsp;&nbsp;&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;&nbsp;\n    </td>\n    <td align=\"center\" style=\"min-width: 90px;\">\n      <img src=\"https://skillicons.dev/icons?i=nextjs\" alt=\"Next.js\" width=\"45\" height=\"45\" />\n      <br />&nbsp;&nbsp;Next.js&nbsp;&nbsp;\n    </td>\n    <td align=\"center\" style=\"min-width: 90px;\">\n      <img src=\"https://skillicons.dev/icons?i=vue\" alt=\"Vue.js\" width=\"45\" height=\"45\" />\n      <br />&nbsp;&nbsp;&nbsp;&nbsp;Vue&nbsp;&nbsp;&nbsp;&nbsp;\n    </td>    \n    \n  </tr>\n  <tr>\n    <td align=\"center\" style=\"min-width: 90px;\">\n        <img src=\"https://skillicons.dev/icons?i=nodejs\" alt=\"Node.js\" width=\"45\" height=\"45\" />\n        <br />&nbsp;&nbsp;Nod\n... (truncated)"
     }
   },
   {
     "name": "IljaZimakovs/Py-Translation-and-Data-Upload-Tool",
     "stars": 2,
     "description": "无",
+    "languages_breakdown": {
+      "Python": 5193
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
       "requirements.txt": "annotated-types==0.5.0\nanyio==3.7.1\nborb==2.1.17\nboto3==1.28.73\nbotocore==1.31.73\ncachetools==5.3.2\ncertifi==2023.7.22\ncffi==1.16.0\ncharset-normalizer==3.3.0\ncolorama==0.4.6\ncryptography==41.0.4\net-xmlfile==1.1.0\nfastapi==0.103.1\nfonttools==4.43.0\ngoogle-api-core==2.12.0\ngoogle-auth==2.23.3\ngoogle-cloud==0.34.0\ngoogle-cloud-core==2.3.3\ngoogle-cloud-translate==3.12.1\ngoogleapis-common-protos==1.61.0\ngrpcio==1.59.0\ngrpcio-status==1.59.0\nidna==3.4\njmespath==1.0.1\nlxml==4.9.3\nnumpy==1.26.0\nopenpyxl==3.1.2\npandas==2.1.1\nPillow==10.0.1\nproto-plus==1.22.3\nprotobuf==4.24.4\npyasn1==0.5.0\npyasn1-modules==0.3.0\npycparser==2.21\npydantic==2.3.0\npydantic_core==2.6.3\nPyPDF2==3.0.1\npypng==0.20220715.0\npython-barcode==0.15.1\npython-dateutil==2.8.2\npytz==2023.3.post1\nqrcode==7.4.2\nrequests==2.31.0\nrsa==4.9\ns3transfer==0.7.0\nsix==1.16.0\nsniffio==1.3.0\nstarlette==0.27.0\ntyping_extensions==4.7.1\ntzdata==2023.3\nurllib3==2.0.7\n",
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "# Translation and Data Upload Tool\n\n## Overview\n\nThis tool is designed to translate text data from a selected file, format the data, and upload it to an AWS DynamoDB table. The tool uses Google Cloud Translate API for translation and Boto3 library for AWS DynamoDB interaction.\n\n## Video Preview\n\n[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-Translation-and-Data-Upload-Tool.png)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Py-Translation-and-Data-Upload-Tool.mp4)\n\n## Prerequisites\n\nBefore using this tool, ensure you have the following:\n\n- Python installed on your system\n- Google Cloud Translate API credentials saved in a file named `credentials.json`\n- AWS access credentials (access key ID and secret access key) saved in a `.env` file:\n  ```\n  AWS_ACCESS_KEY_ID=YOUR_AWS_ACCESS_KEY_ID\n  AWS_SECRET_ACCESS_KEY=YOUR_AWS_SECRET_ACCESS_KEY\n  REGION=YOUR_AWS_REGION\n  TABLE=YOUR_DYNAMODB_TABLE_NAME\n  ```\n\n## How to Use\n\n1. **Select a File:**\n   Run the script and a file dialog will prompt you to select a text file. Only `.txt` files are supported.\n\n2. **Data Processing:**\n   - The tool processes the selected file to identify and translate JSON objects.\n   - It translates specified fields from English to Japanese using Google Cloud Translate API.\n   - Fields to be translated: `headquarters`, `other_offices`, `segment`, `markets`, `company_name`, and `summary`.\n\n3. **DynamoDB Upload:**\n   - The translated data is uploaded to the specified DynamoDB table.\n   - Uploaded fields: `info_type`, `net_loc`, `headquarters`, `headquarters_ja`, `other_offices`, `other_offices_ja`, `industry_segment`, `markets`, `name`, `name_ja`, `summary`, `summary_ja`, `website`.\n\n4. **Output:**\n   - The tool prints the translated data for each entry.\n   - DynamoDB response (success or error) is printed for each upload attempt.\n\n## Notes\n\n- Make sure the AWS credentials in the `.env` file have the necessary permissions to access the DynamoDB table.\n- Ensure the `credentials.json` file contains valid Google Cloud Translate API credentials.\n- The tool assumes a specific structure in the input file (JSON objects) and specific fields to translate. Modify the code accordingly if your input data structure differs.\n- Error handling and edge cases are minimal. Enhance the code as per your specific requirements and error scenarios.\n"
     }
   }
 ]

@@ -3,54 +3,35 @@
     "name": "conal/talk-2015-essence-and-origins-of-frp",
     "stars": 417,
     "description": "A keynote talk for LambdaJam 2015 (July 15--16)",
+    "languages_breakdown": {
+      "TeX": 16218,
+      "Makefile": 503
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "## The essence and origins of FRP\n\nVersions:\n\n*   [LambdaJam](lambdajam.com) 2015 (July 15--16) keynote:\n    *   [slides](http://conal.net/talks/essence-and-origins-of-frp-lambdajam-2015.pdf)\n    *   [Video](https://www.youtube.com/watch?v=rfmkzp76M4M)\n*   Related talks, also from Lambda Jam 2015:\n    *   [Denotational Design: from meanings to programs](https://github.com/conal/talk-2014-lambdajam-denotational-design)\n    *   [A more elegant specification for FRP](https://github.com/conal/talk-2015-more-elegant-frp), previously part of the essence-and-origins talk\n*   Preview version from [BayHac](http://bayhac.org/) 2015 (June 12--14):\n    *   [slides](http://conal.net/talks/essence-and-origins-of-frp-bayhac-2015.pdf)\n    *   [video](http://begriffs.com/posts/2015-07-22-essence-of-frp.html)\n\n### Abstract\n\nFunctional Reactive Programming (FRP) is now 20 years old.\nAlthough originally motivated by interactive 3D computer graphics, FRP is a general paradigm for describing dynamic (time-varying) information.\nSuch information had traditionally been described in software only indirectly, as successive side effects of sequential execution.\nIn contrast, FRP expressions describe entire evolutions of values over time, representing these evolutions directly as first-class values.\nFrom the start, FRP has been based on two simple and fundamental principles, namely (a) having a precise and simple denotation and (b) continuous time.\nThe first property, which Peter Landin called \"denotative\" (and \"genuinely functional\"), applies across problem domains and ensures a precise, implementation-independent specification, insulated from operational details as found in efficient implementations.\nAs such, denotative systems can be reasoned about practically and rigorously.\nThe second property (temporal continuity) is domain-specific and is crucial for simple composability, natural specification of behavior via integration and differentiation, and adaptively efficient implementations.\n\nOver the last few years, something about FRP has generated a lot of interest among programmers, inspiring several so-called \"FRP\" systems implemented in various programming languages.\nMost of these systems, however, lack both of FRP's fundamental properties.\nMissing a denotation, they're defined only in vague and/or operational terms (e.g. \"graphs\" and \"update propagation\").\nMissing continuous time, they fail to provide temporal modularity (sampling-independence and natural temporal transformability), committing prematurely to sampling rates that may turn out to be too low for accuracy or too high for efficiency.\nFor the same reason, these systems cannot express behaviors as integrals or derivatives and must instead express explicit approximations, leading to cluttered code with poor quality and/or performance.\n(Discrete notions of imagery have these same drawbacks, remedied by vector graphics and other continuous models.)\n\nIn this talk, I'll share with you the essence of the original (den\n... (truncated)"
     }
   },
   {
     "name": "conal/talk-2018-essence-of-ad",
     "stars": 201,
     "description": "The simple essence of automatic differentiation",
-    "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
-    }
+    "languages_breakdown": {
+      "TeX": 78450,
+      "Makefile": 1645
+    },
+    "files": {}
   },
   {
     "name": "conal/lambda-ccc",
     "stars": 149,
     "description": "Convert lambda expressions to CCC combinators",
+    "languages_breakdown": {
+      "Haskell": 369069,
+      "Makefile": 816,
+      "Shell": 733
+    },
     "files": {
-      "package.json": null,
-      "go.mod": null,
-      "pom.xml": null,
-      "requirements.txt": null,
-      "Cargo.toml": null,
-      "Gemfile": null,
-      "Dockerfile": null,
-      "docker-compose.yml": null,
-      ".github/workflows/ci.yml": null,
-      "k8s.yaml": null,
-      "helm/Chart.yaml": null
+      "README.md": "Convert lambda expressions to CCC combinators and then to circuits.\n\nAdditional info:\n\n*   [Project notes](doc/notes.md).\n*   The talk [From Haskell to Hardware via CCCs](https://github.com/conal/talk-2015-haskell-to-hardware).\n*   Instructions in test/Tests.hs.\n\nDependencies:\n\n*   GHC 7.8.2 or better\n*   KURE, [commit 7ce26aa](https://github.com/ku-fpg/kure/commit/7ce26aa)\n*   HERMIT, [commit 5557609](https://github.com/ku-fpg/hermit/commit/5557609)\n*   [hermit-extras](http://github.com/conal/hermit-extras)\n*   [circat](https://github.com/conal/circat), for circuit specification, display, and conversion to netlists.\n\nTo use these versions of KURE and HERMIT, clone the repos (or pull if already cloned), and use \"git checkout [commit-id]\".\n\nTo try out:\n\n*   `cabal install` circat and lambda-ccc (in that order)\n*   In a shell, `cd` to lambda-ccc/test, and type `make`.\n    If all works, you'll see something like the following output:\n\n        bash-3.2$ ./test\n        [starting HERMIT v0.5.0.1 on TreeTest.hs]\n        % ghc TreeTest.hs -fforce-recomp -O2 -dcore-lint -fsimple-list-literals -fexpose-all-unfoldings -fplugin=LambdaCCC.Monomorphize -fplugin-opt=LambdaCCC.Monomorphize:-v0 -fplugin-opt=LambdaCCC.Monomorphize:DoTree.hss -fplugin-opt=LambdaCCC.Monomorphize:resume -fplugin-opt=LambdaCCC.Monomorphize:*: -v0\n\n        real\t0m6.098s\n        user\t0m5.968s\n        sys\t0m0.245s\n        let f = \\ ds -> abst (repr ds) in let f0 = \\ ds -> let (a1,a'1) = repr (repr ds) in abst (repr (f a1) + repr (f a'1)) in let f1 = \\ ds -> let (a1,a'1) = repr (repr ds) in abst (repr (f0 a1) + repr (f0 a'1)) in let f2 = \\ eta -> let a = repr eta in abst (a * a) in let f3 = \\ eta -> abst (let (a1,a'1) = repr (repr eta) in abst (f2 a1,f2 a'1)) in let f4 = \\ eta -> abst (let (a1,a'1) = repr (repr eta) in abst (f3 a1,f3 a'1)) in \\ x -> let (a1,a'1) = repr (let (a1,a'1) = repr (repr x) in abst (f4 a1,f4 a'1)) in repr (f1 a1) + repr (f1 a'1)\n        Wrote out/sumSquare-t3.pdf\n        Wrote out/sumSquare-t3.v.txt\n\nThe `.v.txt` file is Verilog code. Additionally the PDF will be displayed if the display code figures out how to on your system.\n\nThere are many other examples in `test/TreeTest.hs`. At any time, all examples but one are commented out.\n\n"
     }
   }
 ]

@@ -1,0 +1,4 @@
+{
+  "username": "dani-garcia",
+  "agent_b_context": "\n=== PR #17365 in bitwarden/clients (Stars: 11712) ===\n\n=== PR #602 in bitwarden/sdk-internal (Stars: 87) ===\nFile: lint-staged.config.js\nPatch:\n@@ -8,6 +8,6 @@ export default {\n   \"Cargo.toml\": (stagedFiles) => [\n     \"cargo +nightly fmt\",\n     \"cargo +nightly udeps --workspace --all-features\",\n-    \"cargo sort --workspace\",\n+    \"cargo sort --workspace --grouped\",\n   ],\n };\n\n\n=== PR #562 in bitwarden/sdk-internal (Stars: 87) ===\n"
+}

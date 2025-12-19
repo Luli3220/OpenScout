@@ -143,75 +143,81 @@ def cache_github_profile(username: str, data: dict):
     with open(profile_path, "w", encoding="utf-8") as f:
         json.dump(cached, f, ensure_ascii=False, indent=2)
 
-def format_tech_stack(tech_stack_json):
-    """
-    Parses the raw JSON tech stack and formats it into a concise, LLM-readable string.
-    """
-    try:
-        repos = json.loads(tech_stack_json)
-    except:
-        return tech_stack_json
-
-    if not isinstance(repos, list):
-        return tech_stack_json
-
-    output = []
-    for repo in repos:
-        name = repo.get("name", "Unknown")
-        stars = repo.get("stars", 0)
-        desc = repo.get("description", "No description")
-        langs = repo.get("languages_breakdown", {})
-        
-        # Format languages
-        total_bytes = sum(langs.values())
-        if total_bytes > 0:
-            # Sort by percentage
-            sorted_langs = sorted(langs.items(), key=lambda x: x[1], reverse=True)
-            # Take top 5 languages to save space
-            lang_str = ", ".join([f"{k}: {v/total_bytes:.1%}" for k,v in sorted_langs[:5]])
-        else:
-            lang_str = "Unknown"
-            
-        repo_str = f"### Project: {name} (Stars: {stars})\n"
-        repo_str += f"- Description: {desc}\n"
-        repo_str += f"- Languages: {lang_str}\n"
-        repo_str += "- Key Files:\n"
-        
-        files = repo.get("files", {})
-        for fname, content in files.items():
-            if not content: continue
-            
-            # Truncate content
-            clean_content = content.strip()
-            # Limit file size for LLM context (e.g., 1500 chars)
-            if len(clean_content) > 1500:
-                clean_content = clean_content[:1500] + "\n...[Truncated]..."
-            
-            # Indent content for readability
-            indented_content = "\n".join(["  " + line for line in clean_content.split('\n')])
-            repo_str += f"  [{fname}]\n{indented_content}\n\n"
-            
-        output.append(repo_str)
-        
-    return "\n".join(output)
-
-def load_tech_stack(username):
-    path = os.path.join(RAW_USERS_DIR, username, "tech_stack.json")
+def load_json(path):
     if os.path.exists(path):
         with open(path, 'r', encoding='utf-8') as f:
-            # Read raw content
-            content = f.read()
-            # Return optimized string
-            return format_tech_stack(content)
-    return "No tech stack data found."
+            return json.load(f)
+    return {}
 
-def load_agent_b_context(username):
-    path = os.path.join(RAW_USERS_DIR, username, "agent_b_context.json")
-    if os.path.exists(path):
-        with open(path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            return data.get("agent_b_context") or "No code audit data found."
-    return "No code audit data found."
+def generate_payload(username):
+    # 1. Load Data
+    github_profile = load_json(os.path.join(RAW_USERS_DIR, username, "github_profile.json"))
+    radar_scores = load_json(RADAR_FILE)
+    macro_data = load_json(MACRO_DATA_FILE)
+    tech_stack = load_json(os.path.join(RAW_USERS_DIR, username, "tech_stack.json"))
+    diversity = load_json(os.path.join(RAW_USERS_DIR, username, f"{username}_diversity.json"))
+
+    # --- Agent A: Six_Dimension ---
+    # Github Profile
+    profile_info = {
+        "login": github_profile.get("login", username),
+        "name": github_profile.get("name", username)
+    }
+    
+    # Radar Scores
+    user_radar = radar_scores.get(username, [])
+
+    # OpenRank (Monthly)
+    user_macro = macro_data.get(username, {}).get("openrank", {})
+    # Filter for YYYY-MM
+    month_key_re = re.compile(r"^\d{4}-(0[1-9]|1[0-2])$")
+    monthly_openrank = {k: v for k, v in user_macro.items() if month_key_re.match(k)}
+    
+    # Get last 12 months (or all if less)
+    sorted_months = sorted(monthly_openrank.keys(), reverse=True)[:12]
+    # Sort back to chronological for readability if needed, but dict order doesn't matter much for JSON
+    recent_openrank = {k: monthly_openrank[k] for k in sorted(sorted_months)}
+
+    six_dimension_payload = {
+        "profile": profile_info,
+        "radar_scores": user_radar,
+        "openrank_history": recent_openrank
+    }
+
+    # --- Agent B: TechHunter ---
+    raw_diversity = diversity.get("raw_metrics", {})
+    tech_hunter_payload = {
+        "distinct_languages": raw_diversity.get("distinct_languages", []),
+        "distinct_topics": raw_diversity.get("distinct_topics", [])
+    }
+
+    # --- Agent C: CodeAuditor ---
+    top_repos = []
+    if isinstance(tech_stack, list):
+        # Take top 3
+        for repo in tech_stack[:3]:
+            files = repo.get("files", {})
+            readme_content = files.get("README.md", "")
+            
+            # Truncate
+            if len(readme_content) > 1500:
+                readme_content = readme_content[:1500] + "...(truncated)"
+            
+            top_repos.append({
+                "name": repo.get("name"),
+                "description": repo.get("description"),
+                "readme": readme_content
+            })
+    
+    code_auditor_payload = {
+        "top_repositories": top_repos
+    }
+
+    return {
+        "tech_hunter_payload": json.dumps(tech_hunter_payload, ensure_ascii=False),
+        "code_auditor_payload": json.dumps(code_auditor_payload, ensure_ascii=False),
+        "six_dimension_payload": json.dumps(six_dimension_payload, ensure_ascii=False)
+    }
 
 @app.get("/")
 async def get_index():
@@ -219,35 +225,19 @@ async def get_index():
 
 @app.get("/api/analyze/{username}")
 async def analyze_user(username: str):
-    # 1. Gather Context Data
-    tech_stack = load_tech_stack(username)
-    code_audit = load_agent_b_context(username)
-    
-    radar_scores = load_radar_scores().get(username, [])
-    radar_str = str(radar_scores) if radar_scores else "No radar data"
-
     print(f"--- Analyzing User: {username} ---")
-    print(f"Tech Stack Data Length: {len(tech_stack)}")
-    print(f"Code Audit Data Length: {len(code_audit)}")
-    print(f"Radar Data: {radar_str}")
 
-    # 2. Prepare MaxKB Payload (OpenAI Format with Parameters)
-    # User instructions: Pass data via parameters (inputs), input message is NULL.
+    # 1. Generate New Payload Structure
+    inputs_data = generate_payload(username)
+    
+    # 2. Prepare MaxKB Payload (Official Form Data Format)
+    message = "请根据传入的表单数据生成深度分析报告。"
     payload = {
-        "model": "OpenScout",
-        "messages": [
-            {
-                "role": "user",
-                "content": "Start Analysis"  # Use a neutral start string or empty if supported. 
-                                           # Using "Start Analysis" to ensure trigger.
-            }
-        ],
+        "message": message,
+        "messages": [{"role": "user", "content": message}],
         "stream": True,
-        "inputs": {
-            "TechHunter":   tech_stack,       # 对应截图里的 TechHunter
-            "CodeAuditor": code_audit,      # 对应截图里的 CodeAuditor
-            "Six_Dimension": radar_str      # 对应截图里的 Six_Dimension
-        }
+        "re_chat": True,
+        "form_data": inputs_data
     }
     
     headers = {
@@ -258,11 +248,28 @@ async def analyze_user(username: str):
     # 3. Stream from MaxKB
     def event_stream():
         try:
-            with requests.post(MAXKB_API_URL, json=payload, headers=headers, stream=True) as r:
+            with requests.post(MAXKB_API_URL, json=payload, headers=headers, stream=True, timeout=(10, 300)) as r:
                 if r.status_code != 200:
                     yield f"Error from MaxKB: {r.status_code} - {r.text}"
                     return
 
+                content_type = (r.headers.get("content-type") or "").lower()
+                if "application/json" in content_type:
+                    try:
+                        data = r.json()
+                        if isinstance(data, dict) and data.get("message"):
+                            yield str(data.get("message"))
+                            return
+                    except Exception:
+                        pass
+                    text = r.text
+                    if text:
+                        yield text
+                    else:
+                        yield "Error from MaxKB: empty response"
+                    return
+
+                yielded_any = False
                 for line in r.iter_lines():
                     if line:
                         decoded_line = line.decode('utf-8')
@@ -273,23 +280,25 @@ async def analyze_user(username: str):
                                      break
                                  data = json.loads(json_str)
                                  
-                                 # OpenAI format: choices[0].delta.content
                                  choices = data.get("choices", [])
                                  if choices:
                                      delta = choices[0].get("delta", {})
                                      content = delta.get("content", "")
-                                     # Also check reasoning_content if content is empty
                                      reasoning = delta.get("reasoning_content", "")
                                      
                                      if content:
+                                         yielded_any = True
                                          yield content
                                      elif reasoning:
-                                         # Optional: yield reasoning content? 
-                                         # Maybe just ignore it or yield it with a marker?
-                                         # For now, let's yield it so user sees something happening.
+                                         yielded_any = True
                                          yield reasoning
                              except:
                                  pass
+                        else:
+                            yielded_any = True
+                            yield decoded_line
+                if not yielded_any:
+                    yield "Error from MaxKB: empty response"
         except Exception as e:
             yield f"Internal Server Error: {str(e)}"
 
@@ -325,9 +334,6 @@ async def get_radar_score(username: str):
         labels, series = extract_monthly_series(user_macro.get("openrank", {}), max_points=48)
         response["openrank_labels"] = labels
         response["openrank_series"] = series
-        # If user found in macro data but not radar, still consider partial success?
-        # But UI depends on "found" for radar rendering. We'll keep "found" tied to radar for now, 
-        # or update logic if needed. The current frontend checks `data.found`.
     
     return response
 

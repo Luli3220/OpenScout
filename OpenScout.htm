@@ -19,7 +19,7 @@
     <!-- Application Structure Plan: The app is designed as a functional dashboard. 
          1. Header: Search and Identity. 
          2. Hero Profile: Immediate visual identification of the candidate. 
-         3. AI Analysis (MaxKB Proxy): The "Brain" of the operation, summarizing data. 
+         3. AI Analysis (LLM Proxy): The "Brain" of the operation, summarizing data. 
          4. Metrics Grid (OpenDigger Proxy): 
             - Radar Chart for holistic skill assessment. 
             - Activity Heatmap for consistency analysis. 
@@ -30,7 +30,7 @@
          1. Skill Radar (Chart.js): Goal: Inform/Compare. Best for multi-variable developer assessment (Code, Community, etc.). 
          2. Activity Trend (Chart.js Line): Goal: Change. Shows consistency over time. 
          3. Tech Stack (Chart.js Bar): Goal: Inform. Shows language distribution.
-         4. AI Summary (Text Block): Goal: Inform/Synthesize. Simulates MaxKB's output. 
+         4. AI Summary (Text Block): Goal: Inform/Synthesize. Simulates AI output. 
          5. Match Score (JS Logic): Goal: Engage. Simulates the decision-making process. 
          CONFIRMATION: NO SVG graphics used (except font icons). NO Mermaid JS used. -->
     <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
@@ -229,7 +229,7 @@
                     <span class="font-bold text-xl tracking-tight text-slate-800">OpenScout</span>
                 </div>
                 <div class="flex items-center gap-4">
-                    <span class="text-sm text-slate-500 hidden md:block">Powered by OpenDigger & MaxKB</span>
+                    <span class="text-sm text-slate-500 hidden md:block">Powered by OpenDigger & OpenScout AI</span>
                     <button class="text-slate-600 hover:text-orange-600 transition-colors">
                         <i class="ph ph-github-logo text-2xl"></i>
                     </button>
@@ -245,7 +245,7 @@
         <section class="text-center space-y-4 max-w-3xl mx-auto">
             <h1 class="text-3xl font-bold text-slate-800">开源人才智能雷达</h1>
             <p class="text-slate-600 leading-relaxed">
-                OpenScout 利用 <strong>OpenDigger</strong> 的行为数据构建开发者画像，并结合 <strong>MaxKB</strong> 的大模型能力进行智能分析。
+                OpenScout 利用 <strong>OpenDigger</strong> 的行为数据构建开发者画像，并结合 <strong>AI</strong> 大模型能力进行智能分析。
                 输入 GitHub ID，立即获取该开发者的技能雷达、贡献习惯及岗位匹配度报告。
             </p>
 
@@ -274,7 +274,7 @@
         <!-- DASHBOARD CONTAINER (Initially Hidden until search) -->
         <div id="dashboard" class="space-y-6 transition-opacity duration-500 opacity-100">
 
-            <!-- 2. Hero Profile & AI Analysis (MaxKB Integration) -->
+            <!-- 2. Hero Profile & AI Analysis -->
             <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
                 <!-- Profile Card -->
                 <div class="scout-card p-6 flex flex-col items-center text-center lg:col-span-1">
@@ -298,28 +298,25 @@
                     </div>
                 </div>
 
-                <!-- AI Insight (MaxKB Simulation) -->
-                <div class="scout-card p-6 lg:col-span-2 flex flex-col relative overflow-hidden">
+                <!-- AI Insight -->
+                <div class="scout-card p-6 lg:col-span-2 flex flex-col relative overflow-hidden h-72 lg:h-80 min-h-0">
                     <div class="absolute top-0 right-0 p-2 opacity-10">
                         <i class="ph ph-robot text-8xl"></i>
                     </div>
-                    <div class="flex items-center gap-2 mb-3">
-                        <div class="bg-orange-100 p-1.5 rounded-md">
-                            <i class="ph ph-sparkle text-orange-600"></i>
+                    <div class="flex items-center justify-between gap-3 mb-3">
+                        <div class="flex items-center gap-2">
+                            <div class="bg-orange-100 p-1.5 rounded-md">
+                                <i class="ph ph-sparkle text-orange-600"></i>
+                            </div>
+                            <h3 class="font-semibold text-slate-800">AI 智能人才画像</h3>
                         </div>
-                        <h3 class="font-semibold text-slate-800">MaxKB 智能人才画像</h3>
+                        <button class="btn-ghost" id="viewReportBtn">
+                            <i class="ph ph-arrows-out"></i> 查看完整报告
+                        </button>
                     </div>
-                    <div class="prose prose-sm text-slate-600 flex-grow" id="aiSummary">
+                    <div class="prose prose-sm text-slate-600 flex-grow overflow-y-auto min-h-0 pr-2" id="aiSummary">
                         <!-- AI Text Injected Here -->
                         正在生成分析报告...
-                    </div>
-                    <div class="mt-4 flex gap-2">
-                        <span
-                            class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-100 text-slate-800 tag-1">Label</span>
-                        <span
-                            class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-100 text-slate-800 tag-2">Label</span>
-                        <span
-                            class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-100 text-slate-800 tag-3">Label</span>
                     </div>
                 </div>
             </div>
@@ -336,9 +333,6 @@
                             </h3>
                             <p class="text-xs text-slate-500 mt-1">基于代码提交、Code Review、Issue 互动等 OpenDigger 指标综合计算。</p>
                         </div>
-                        <button class="btn-ghost" id="deepAuditBtn">
-                            <i class="ph ph-robot"></i> 深度审计
-                        </button>
                     </div>
                     <div class="chart-container">
                         <canvas id="radarChart"></canvas>
@@ -423,121 +417,19 @@
     <div class="modal-overlay" id="auditModal">
         <div class="modal-container">
             <div class="modal-header">
-                <h3 class="modal-title">MaxKB 深度代码审计报告</h3>
+                <h3 class="modal-title">智能人才画像报告</h3>
                 <button class="modal-close-btn" id="closeModalBtn">
                     <i class="ph ph-x"></i>
                 </button>
             </div>
             <div class="modal-body">
-                <div class="prose prose-sm max-w-none text-slate-600">
-                    <p>正在生成深度审计报告...</p>
-                    <p class="mt-4">此处将展示详细的代码质量分析、架构评估以及安全隐患排查结果。</p>
-                    <!-- Content will be injected here dynamically later -->
-                </div>
+                <div class="prose prose-sm max-w-none text-slate-600" id="reportContent"></div>
             </div>
             <div class="modal-footer">
                 <button class="btn-ghost" id="closeModalFooterBtn">关闭</button>
-                <button class="btn-primary px-4 py-2 rounded-md text-sm">下载报告</button>
             </div>
         </div>
     </div>
-
-    <!-- LOGIC SCRIPT -->
-    <script>
-        // Modal Logic
-        const deepAuditBtn = document.getElementById('deepAuditBtn');
-        const auditModal = document.getElementById('auditModal');
-        const closeModalBtn = document.getElementById('closeModalBtn');
-        const closeModalFooterBtn = document.getElementById('closeModalFooterBtn');
-        const modalBodyContent = document.querySelector('.modal-body .prose');
-        let currentController = null;
-
-        function openModal() {
-            auditModal.classList.add('active');
-            document.body.style.overflow = 'hidden'; // Prevent background scrolling
-
-            // Trigger Deep Audit
-            startDeepAudit();
-        }
-
-        function closeModal() {
-            auditModal.classList.remove('active');
-            document.body.style.overflow = ''; // Restore background scrolling
-
-            // Abort fetch if running
-            if (currentController) {
-                currentController.abort();
-                currentController = null;
-            }
-        }
-
-        async function startDeepAudit() {
-            const username = document.getElementById('searchInput').value.trim() || 'cescoffier'; // Fallback
-            modalBodyContent.innerHTML = '<p>正在连接 MaxKB 智能体进行深度审计...</p>';
-
-            if (currentController) currentController.abort();
-            currentController = new AbortController();
-
-            try {
-                const response = await fetch(`/api/analyze/${username}`, {
-                    signal: currentController.signal
-                });
-
-                if (!response.ok) {
-                    throw new Error(`Server Error: ${response.status}`);
-                }
-
-                const reader = response.body.getReader();
-                const decoder = new TextDecoder();
-                let fullText = '';
-
-                modalBodyContent.innerHTML = ''; // Clear loading message
-
-                while (true) {
-                    const { done, value } = await reader.read();
-                    if (done) break;
-
-                    const chunk = decoder.decode(value, { stream: true });
-                    fullText += chunk;
-
-                    // Render Markdown
-                    modalBodyContent.innerHTML = marked.parse(fullText);
-
-                    // Auto scroll to bottom
-                    const modalBody = document.querySelector('.modal-body');
-                    modalBody.scrollTop = modalBody.scrollHeight;
-                }
-
-            } catch (err) {
-                if (err.name === 'AbortError') {
-                    console.log('Audit aborted');
-                } else {
-                    modalBodyContent.innerHTML = `<p class="text-red-600">审计失败: ${err.message}</p>`;
-                }
-            }
-        }
-
-        if (deepAuditBtn) {
-            deepAuditBtn.addEventListener('click', openModal);
-        }
-
-        if (closeModalBtn) {
-            closeModalBtn.addEventListener('click', closeModal);
-        }
-
-        if (closeModalFooterBtn) {
-            closeModalFooterBtn.addEventListener('click', closeModal);
-        }
-
-        // Close modal when clicking outside
-        if (auditModal) {
-            auditModal.addEventListener('click', (e) => {
-                if (e.target === auditModal) {
-                    closeModal();
-                }
-            });
-        }
-    </script>
     <script>
         // --- 1. API INTERACTION ---
 
@@ -545,6 +437,93 @@
         let radarChartInstance = null;
         let stackChartInstance = null;
         let trendChartInstance = null;
+        let analyzeController = null;
+        let analysisFullText = '';
+
+        const auditModal = document.getElementById('auditModal');
+        const viewReportBtn = document.getElementById('viewReportBtn');
+        const closeModalBtn = document.getElementById('closeModalBtn');
+        const closeModalFooterBtn = document.getElementById('closeModalFooterBtn');
+        const reportContent = document.getElementById('reportContent');
+        const aiSummaryEl = document.getElementById('aiSummary');
+        const searchBtn = document.getElementById('searchBtn');
+        let renderTimer = null;
+
+        function openModal() {
+            if (!auditModal) return;
+            auditModal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+            renderAnalysis();
+        }
+
+        function closeModal() {
+            if (!auditModal) return;
+            auditModal.classList.remove('active');
+            document.body.style.overflow = '';
+        }
+
+        function renderAnalysis() {
+            const html = marked.parse(analysisFullText || '正在生成分析报告...');
+            if (aiSummaryEl) aiSummaryEl.innerHTML = html;
+            if (reportContent) reportContent.innerHTML = html;
+            const modalBody = document.querySelector('.modal-body');
+            if (modalBody && auditModal && auditModal.classList.contains('active')) {
+                modalBody.scrollTop = modalBody.scrollHeight;
+            }
+        }
+
+        function scheduleRenderAnalysis() {
+            if (renderTimer) return;
+            renderTimer = window.setTimeout(() => {
+                renderTimer = null;
+                renderAnalysis();
+            }, 80);
+        }
+
+        async function startAnalyze(username) {
+            analysisFullText = '';
+            renderAnalysis();
+
+            if (analyzeController) analyzeController.abort();
+            analyzeController = new AbortController();
+
+            try {
+                if (searchBtn) searchBtn.disabled = true;
+                const response = await fetch(`/api/analyze/${username}`, { signal: analyzeController.signal });
+                if (!response.ok) {
+                    analysisFullText = `请求失败：${response.status}`;
+                    renderAnalysis();
+                    return;
+                }
+
+                if (!response.body) {
+                    analysisFullText = await response.text();
+                    renderAnalysis();
+                    return;
+                }
+
+                const reader = response.body.getReader();
+                const decoder = new TextDecoder();
+
+                while (true) {
+                    const { done, value } = await reader.read();
+                    if (done) break;
+                    analysisFullText += decoder.decode(value, { stream: true });
+                    scheduleRenderAnalysis();
+                }
+                analysisFullText += decoder.decode();
+                if (!analysisFullText.trim()) {
+                    analysisFullText = '分析返回为空，请稍后重试。';
+                }
+                renderAnalysis();
+            } catch (err) {
+                if (err && err.name === 'AbortError') return;
+                analysisFullText = `审计失败：${err.message || String(err)}`;
+                renderAnalysis();
+            } finally {
+                if (searchBtn) searchBtn.disabled = false;
+            }
+        }
 
         // --- 3. INIT FUNCTION ---
         document.addEventListener('DOMContentLoaded', () => {
@@ -565,6 +544,15 @@
             loadProfile(defaultUsername);
         });
 
+        if (viewReportBtn) viewReportBtn.addEventListener('click', openModal);
+        if (closeModalBtn) closeModalBtn.addEventListener('click', closeModal);
+        if (closeModalFooterBtn) closeModalFooterBtn.addEventListener('click', closeModal);
+        if (auditModal) {
+            auditModal.addEventListener('click', (e) => {
+                if (e.target === auditModal) closeModal();
+            });
+        }
+
         // --- 4. CORE LOGIC ---
         async function handleSearch() {
             const query = document.getElementById('searchInput').value.trim();
@@ -574,6 +562,8 @@
 
         async function loadProfile(username) {
             try {
+                startAnalyze(username);
+
                 const avatarIcon = document.getElementById('avatarIcon');
                 const userAvatar = document.getElementById('userAvatar');
                 if (userAvatar) {
@@ -625,8 +615,6 @@
                     document.getElementById('openRank').textContent = data.openrank_sum ? data.openrank_sum.toFixed(2) : "0.00";
                     document.getElementById('activityScore').textContent = data.activity_sum ? data.activity_sum.toFixed(2) : "0.00";
 
-                    document.getElementById('aiSummary').textContent = `已成功获取 ${username} 的六维能力数据。分析显示该开发者在 ${getStrongestDim(scores)} 方面表现突出。`;
-
                     renderRadar(scores);
 
                     // Reset other charts for now (or mock them if backend doesn't provide)
@@ -634,7 +622,6 @@
                     renderTrend(data.openrank_labels, data.openrank_series);
 
                 } else {
-                    document.getElementById('aiSummary').textContent = "暂无该用户的详细分析数据，显示默认低分模型。请确保已运行后端数据抓取脚本。";
                     renderRadar(data.radar);
                     renderTrend(data.openrank_labels, data.openrank_series);
                     // Reset stats
@@ -780,7 +767,7 @@
             });
         }
 
-        // --- 6. JOB MATCH LOGIC (Simulating MaxKB Decision) ---
+        // --- 6. JOB MATCH LOGIC (Simulating AI Decision) ---
         function updateMatchScore() {
             const role = document.getElementById('jobRole').value;
             const currentName = document.getElementById('userName').textContent;

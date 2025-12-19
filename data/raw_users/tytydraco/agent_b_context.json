@@ -1,4 +1,0 @@
-{
-  "username": "tytydraco",
-  "agent_b_context": "\n=== PR #211 in DadSchoorse/vkBasalt (Stars: 1419) ===\n\n=== PR #78 in Swordfish90/LibretroDroid (Stars: 91) ===\nFile: libretrodroid/src/main/cpp/libretrodroidjni.cpp\nPatch:\n@@ -376,7 +376,7 @@ JNIEXPORT void JNICALL Java_com_swordfish_libretrodroid_LibretroDroid_loadGameFr\n             gameFileBytes,\n             0,\n             size,\n-            reinterpret_cast<int8_t*>(size)\n+            reinterpret_cast<int8_t*>(data)\n         );\n         LibretroDroid::getInstance().loadGameFromBytes(data, size);\n     } catch (std::exception &exception) {\n\n\n=== PR #76 in Swordfish90/LibretroDroid (Stars: 91) ===\n"
-}

@@ -253,7 +253,7 @@
                 <div class="flex shadow-sm rounded-md">
                     <input type="text" id="searchInput" placeholder="输入 GitHub ID (例如: torvalds)"
                         class="flex-1 block w-full rounded-l-md border-gray-300 focus:border-orange-500 focus:ring-orange-500 sm:text-sm p-3 border"
-                        value="abruzzi">
+                        value="cescoffier">
                     <button id="searchBtn" type="button"
                         class="btn-primary inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-r-md">
                         <i class="ph ph-magnifying-glass mr-2 text-lg"></i> 分析
@@ -358,13 +358,13 @@
                     </div>
                 </div>
 
-                <!-- Chart 3: Activity Trend -->
+                <!-- Chart 3: OpenRank Trend -->
                 <div class="scout-card p-5 col-span-1 lg:col-span-1 md:col-span-2">
                     <div class="mb-4">
                         <h3 class="font-semibold text-slate-800 flex items-center gap-2">
-                            <i class="ph ph-trend-up text-orange-600"></i> 贡献持续性
+                            <i class="ph ph-trend-up text-orange-600"></i> OpenRank 走势
                         </h3>
-                        <p class="text-xs text-slate-500 mt-1">过去 12 个月的活跃趋势，用于评估工作稳定性。</p>
+                        <p class="text-xs text-slate-500 mt-1">OpenRank 长周期趋势，用于观察影响力变化。</p>
                     </div>
                     <div class="chart-container">
                         <canvas id="trendChart"></canvas>
@@ -472,7 +472,7 @@
         }
 
         async function startDeepAudit() {
-            const username = document.getElementById('searchInput').value.trim() || 'torvalds'; // Fallback
+            const username = document.getElementById('searchInput').value.trim() || 'cescoffier'; // Fallback
             modalBodyContent.innerHTML = '<p>正在连接 MaxKB 智能体进行深度审计...</p>';
 
             if (currentController) currentController.abort();
@@ -561,8 +561,8 @@
             });
             document.getElementById('jobRole').addEventListener('change', updateMatchScore);
 
-            // Initial Load (Default User)
-            loadProfile('abruzzi');
+            const defaultUsername = document.getElementById('searchInput').value.trim() || 'cescoffier';
+            loadProfile(defaultUsername);
         });
 
         // --- 4. CORE LOGIC ---
@@ -574,13 +574,45 @@
 
         async function loadProfile(username) {
             try {
-                // Fetch Radar Data from Python Backend
-                const response = await fetch(`/api/radar/${username}`);
-                const data = await response.json();
+                const avatarIcon = document.getElementById('avatarIcon');
+                const userAvatar = document.getElementById('userAvatar');
+                if (userAvatar) {
+                    userAvatar.classList.add('hidden');
+                    userAvatar.src = '';
+                }
+                if (avatarIcon) {
+                    avatarIcon.classList.remove('hidden');
+                }
 
-                // Update UI Text
-                document.getElementById('userName').textContent = data.username;
-                document.getElementById('userHandle').textContent = `@${data.username}`;
+                const [radarRes, githubRes] = await Promise.allSettled([
+                    fetch(`/api/radar/${username}`),
+                    fetch(`/api/github/${username}`)
+                ]);
+
+                if (radarRes.status !== 'fulfilled' || !radarRes.value.ok) {
+                    const status = radarRes.status === 'fulfilled' ? radarRes.value.status : 'network';
+                    throw new Error(`Radar API Error: ${status}`);
+                }
+
+                const data = await radarRes.value.json();
+
+                let displayLogin = data.username;
+                let displayName = data.username;
+
+                if (githubRes.status === 'fulfilled' && githubRes.value.ok) {
+                    const gh = await githubRes.value.json();
+                    displayLogin = gh.login || displayLogin;
+                    displayName = gh.name || gh.login || displayName;
+
+                    if (userAvatar && gh.avatar_url) {
+                        userAvatar.src = gh.avatar_url;
+                        userAvatar.classList.remove('hidden');
+                        if (avatarIcon) avatarIcon.classList.add('hidden');
+                    }
+                }
+
+                document.getElementById('userName').textContent = displayName || username;
+                document.getElementById('userHandle').textContent = `@${displayLogin || username}`;
 
                 // If data found
                 if (data.found) {
@@ -592,18 +624,19 @@
                     // Use real data from backend
                     document.getElementById('openRank').textContent = data.openrank_sum ? data.openrank_sum.toFixed(2) : "0.00";
                     document.getElementById('activityScore').textContent = data.activity_sum ? data.activity_sum.toFixed(2) : "0.00";
-                    
+
                     document.getElementById('aiSummary').textContent = `已成功获取 ${username} 的六维能力数据。分析显示该开发者在 ${getStrongestDim(scores)} 方面表现突出。`;
 
                     renderRadar(scores);
 
                     // Reset other charts for now (or mock them if backend doesn't provide)
                     renderStack({ labels: ['N/A'], data: [0] });
-                    renderTrend([10, 20, 30, 40, 50, 60, 50, 40, 30, 20, 10, 20]);
+                    renderTrend(data.openrank_labels, data.openrank_series);
 
                 } else {
                     document.getElementById('aiSummary').textContent = "暂无该用户的详细分析数据，显示默认低分模型。请确保已运行后端数据抓取脚本。";
                     renderRadar(data.radar);
+                    renderTrend(data.openrank_labels, data.openrank_series);
                     // Reset stats
                     document.getElementById('openRank').textContent = "0.00";
                     document.getElementById('activityScore').textContent = "0.00";
@@ -701,19 +734,19 @@
             });
         }
 
-        function renderTrend(trendData) {
+        function renderTrend(labels, trendData) {
             const ctx = document.getElementById('trendChart').getContext('2d');
             if (trendChartInstance) trendChartInstance.destroy();
-
-            const labels = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+            const safeLabels = Array.isArray(labels) && labels.length ? labels : ['N/A'];
+            const safeData = Array.isArray(trendData) && trendData.length ? trendData : [0];
 
             trendChartInstance = new Chart(ctx, {
                 type: 'line',
                 data: {
-                    labels: labels,
+                    labels: safeLabels,
                     datasets: [{
-                        label: '月度活跃值',
-                        data: trendData,
+                        label: 'OpenRank',
+                        data: safeData,
                         borderColor: '#334155',
                         backgroundColor: 'rgba(51, 65, 85, 0.05)',
                         borderWidth: 2,
@@ -732,7 +765,8 @@
                             grid: { color: '#f1f5f9' }
                         },
                         x: {
-                            grid: { display: false }
+                            grid: { display: false },
+                            ticks: { maxRotation: 0, autoSkip: true }
                         }
                     },
                     plugins: {

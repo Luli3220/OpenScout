@@ -1,7 +1,9 @@
 import json
 import os
+import re
+import time
 import requests
-from fastapi import FastAPI, HTTPException
+from fastapi import BackgroundTasks, FastAPI, HTTPException
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import HTMLResponse, FileResponse, StreamingResponse
 import uvicorn
@@ -27,6 +29,7 @@ def load_config():
 config = load_config()
 MAXKB_API_URL = config.get("maxkb_api_url", "")
 MAXKB_API_KEY = config.get("maxkb_api_key", "")
+GITHUB_TOKEN = config.get("github_token") or ((config.get("github_tokens") or [None])[0])
 
 # Load data
 def load_radar_scores():
@@ -48,8 +51,8 @@ def calculate_recent_sum(data_dict):
     if not data_dict:
         return 0.0
     
-    # Filter for monthly keys (YYYY-MM)
-    monthly_keys = [k for k in data_dict.keys() if len(k) == 7 and k[4] == '-']
+    month_key_re = re.compile(r"^\d{4}-(0[1-9]|1[0-2])$")
+    monthly_keys = [k for k in data_dict.keys() if isinstance(k, str) and month_key_re.match(k)]
     monthly_keys.sort(reverse=True) # Newest first
     
     # Take top 12
@@ -64,11 +67,81 @@ def calculate_recent_sum(data_dict):
     
     return round(total, 2)
 
+def extract_monthly_series(data_dict, max_points=48):
+    if not data_dict:
+        return [], []
+    month_key_re = re.compile(r"^\d{4}-(0[1-9]|1[0-2])$")
+    monthly_keys = [k for k in data_dict.keys() if isinstance(k, str) and month_key_re.match(k)]
+    monthly_keys.sort()
+    labels = []
+    values = []
+    for k in monthly_keys:
+        val = data_dict.get(k)
+        if isinstance(val, (int, float)):
+            labels.append(k)
+            values.append(val)
+    if max_points and len(labels) > max_points:
+        labels = labels[-max_points:]
+        values = values[-max_points:]
+    return labels, values
+
 def load_users_list():
     if os.path.exists(USERS_LIST_FILE):
         with open(USERS_LIST_FILE, 'r', encoding='utf-8') as f:
             return json.load(f)
     return []
+
+def ensure_user_dir(username: str):
+    user_dir = os.path.join(RAW_USERS_DIR, username)
+    os.makedirs(user_dir, exist_ok=True)
+    return user_dir
+
+def load_cached_github_profile(username: str):
+    path = os.path.join(RAW_USERS_DIR, username, "github_profile.json")
+    if not os.path.exists(path):
+        return None
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except:
+        return None
+
+def cache_github_profile(username: str, data: dict):
+    user_dir = ensure_user_dir(username)
+    profile_path = os.path.join(user_dir, "github_profile.json")
+    cached = {
+        "login": data.get("login"),
+        "name": data.get("name"),
+        "avatar_remote_url": data.get("avatar_url"),
+        "html_url": data.get("html_url"),
+        "cached_at": int(time.time())
+    }
+    avatar_url = cached.get("avatar_remote_url")
+    avatar_file = None
+    if avatar_url:
+        try:
+            r = requests.get(avatar_url, stream=True, timeout=20)
+            if r.status_code == 200:
+                content_type = (r.headers.get("content-type") or "").split(";")[0].strip().lower()
+                ext = ".jpg"
+                if content_type == "image/png":
+                    ext = ".png"
+                elif content_type in ("image/jpeg", "image/jpg"):
+                    ext = ".jpg"
+                elif content_type == "image/gif":
+                    ext = ".gif"
+                avatar_file = f"github_avatar{ext}"
+                avatar_path = os.path.join(user_dir, avatar_file)
+                with open(avatar_path, "wb") as f:
+                    for chunk in r.iter_content(chunk_size=1024 * 64):
+                        if chunk:
+                            f.write(chunk)
+        except:
+            avatar_file = None
+    if avatar_file:
+        cached["avatar_file"] = avatar_file
+    with open(profile_path, "w", encoding="utf-8") as f:
+        json.dump(cached, f, ensure_ascii=False, indent=2)
 
 def format_tech_stack(tech_stack_json):
     """
@@ -234,6 +307,8 @@ async def get_radar_score(username: str):
         "found": False,
         "activity_sum": 0.0,
         "openrank_sum": 0.0,
+        "openrank_labels": [],
+        "openrank_series": [],
         "message": "User data not calculated yet"
     }
 
@@ -247,6 +322,9 @@ async def get_radar_score(username: str):
         user_macro = macro_data[username]
         response["activity_sum"] = calculate_recent_sum(user_macro.get("activity", {}))
         response["openrank_sum"] = calculate_recent_sum(user_macro.get("openrank", {}))
+        labels, series = extract_monthly_series(user_macro.get("openrank", {}), max_points=48)
+        response["openrank_labels"] = labels
+        response["openrank_series"] = series
         # If user found in macro data but not radar, still consider partial success?
         # But UI depends on "found" for radar rendering. We'll keep "found" tied to radar for now, 
         # or update logic if needed. The current frontend checks `data.found`.
@@ -256,6 +334,52 @@ async def get_radar_score(username: str):
 @app.get("/api/users")
 async def get_users():
     return load_users_list()
+
+@app.get("/api/github/{username}")
+async def get_github_user(username: str, background_tasks: BackgroundTasks):
+    cached = load_cached_github_profile(username)
+    if cached:
+        avatar_file = cached.get("avatar_file")
+        avatar_url = None
+        if avatar_file:
+            avatar_path = os.path.join(RAW_USERS_DIR, username, avatar_file)
+            if os.path.exists(avatar_path):
+                avatar_url = f"/api/avatar/{username}"
+        return {
+            "login": cached.get("login"),
+            "name": cached.get("name"),
+            "avatar_url": avatar_url or cached.get("avatar_remote_url"),
+            "html_url": cached.get("html_url")
+        }
+
+    url = f"https://api.github.com/users/{username}"
+    headers = {
+        "Accept": "application/vnd.github+json"
+    }
+    if GITHUB_TOKEN:
+        headers["Authorization"] = f"token {GITHUB_TOKEN}"
+    r = requests.get(url, headers=headers, timeout=15)
+    if r.status_code == 404:
+        raise HTTPException(status_code=404, detail="GitHub user not found")
+    if r.status_code >= 400:
+        raise HTTPException(status_code=r.status_code, detail=r.text)
+    data = r.json()
+    background_tasks.add_task(cache_github_profile, username, data)
+    return {
+        "login": data.get("login"),
+        "name": data.get("name"),
+        "avatar_url": data.get("avatar_url"),
+        "html_url": data.get("html_url")
+    }
+
+@app.get("/api/avatar/{username}")
+async def get_cached_avatar(username: str):
+    cached = load_cached_github_profile(username)
+    if cached and cached.get("avatar_file"):
+        avatar_path = os.path.join(RAW_USERS_DIR, username, cached["avatar_file"])
+        if os.path.exists(avatar_path):
+            return FileResponse(avatar_path)
+    raise HTTPException(status_code=404, detail="Avatar not cached")
 
 if __name__ == "__main__":
     print("Starting OpenScout Server at http://localhost:8001")

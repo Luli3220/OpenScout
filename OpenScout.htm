@@ -371,6 +371,23 @@
         </div>
     </main>
 
+    <!-- Representative Repos (动态注入) -->
+    <section id="repReposSection" class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 w-full">
+        <div class="scout-card p-6">
+            <div class="flex items-center justify-between mb-4">
+                <div>
+                    <h3 class="font-semibold text-slate-800 flex items-center gap-2">
+                        <i class="ph ph-github-logo text-orange-600"></i> 代表仓库
+                    </h3>
+                    <p class="text-xs text-slate-500 mt-1">按 Star 排序，显示 Stars / Forks / 贡献得分与仓库链接。</p>
+                </div>
+            </div>
+            <div id="repReposList" class="space-y-3">
+                <!-- Filled by JS -->
+            </div>
+        </div>
+    </section>
+
     <footer class="bg-white border-t border-gray-200 py-8 mt-8">
         <div class="max-w-7xl mx-auto px-4 text-center">
             <p class="text-slate-400 text-sm">&copy; 2025 OpenScout Project. Data provided by OpenDigger.</p>
@@ -582,11 +599,13 @@
 
                     // Fetch and render tech stack distribution (keep top 4 languages, group rest as '其他')
                     await fetchAndRenderTechStack(username);
+                    await fetchAndRenderRepresentativeRepos(username);
                     renderTrend(data.openrank_labels, data.openrank_series);
 
                 } else {
                     renderRadar(data.radar);
                     await fetchAndRenderTechStack(username);
+                    await fetchAndRenderRepresentativeRepos(username);
                     renderTrend(data.openrank_labels, data.openrank_series);
                     // Reset stats
                     document.getElementById('openRank').textContent = "0.00";
@@ -787,6 +806,58 @@
                     }
                 }
             });
+        }
+
+        // --- Representative Repos ---
+        async function fetchAndRenderRepresentativeRepos(username) {
+            try {
+                const res = await fetch(`/api/representative/${username}`);
+                if (!res.ok) {
+                    document.getElementById('repReposList').innerHTML = '<p class="text-sm text-slate-500">无法获取代表仓库数据。</p>';
+                    return;
+                }
+                const repos = await res.json();
+                if (!Array.isArray(repos) || repos.length === 0) {
+                    document.getElementById('repReposList').innerHTML = '<p class="text-sm text-slate-500">未找到代表仓库。</p>';
+                    return;
+                }
+
+                // Build HTML
+                const outer = document.createDocumentFragment();
+                repos.forEach(r => {
+                    const row = document.createElement('div');
+                    row.className = 'flex items-center justify-between p-3 bg-white border border-slate-100 rounded-md';
+
+                    const left = document.createElement('div');
+                    left.className = 'flex items-start gap-3';
+                    const meta = document.createElement('div');
+                    meta.innerHTML = `<a class="font-medium text-slate-800 hover:underline" href="${r.html_url}" target="_blank" rel="noopener">${r.full_name || r.name}</a>
+                        <div class="text-xs text-slate-500">${r.description || ''}</div>`;
+                    left.appendChild(meta);
+
+                    const right = document.createElement('div');
+                    right.className = 'text-sm text-slate-600 flex items-center gap-4';
+                    const stars = document.createElement('div');
+                    stars.innerHTML = `<i class="ph ph-star text-orange-500 mr-1"></i> ${r.stars || 0}`;
+                    const forks = document.createElement('div');
+                    forks.innerHTML = `<i class="ph ph-git-branch text-slate-400 mr-1"></i> ${r.forks || 0}`;
+                    const score = document.createElement('div');
+                    score.innerHTML = `<strong class="text-slate-800">${r.contribution_score || 0}</strong>`;
+                    right.appendChild(stars);
+                    right.appendChild(forks);
+                    right.appendChild(score);
+
+                    row.appendChild(left);
+                    row.appendChild(right);
+                    outer.appendChild(row);
+                });
+
+                const container = document.getElementById('repReposList');
+                container.innerHTML = '';
+                container.appendChild(outer);
+            } catch (e) {
+                document.getElementById('repReposList').innerHTML = '<p class="text-sm text-slate-500">加载代表仓库失败。</p>';
+            }
         }
 
         // 岗位匹配模拟器逻辑已移除

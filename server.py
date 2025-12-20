@@ -391,6 +391,18 @@ async def get_tech_stack(username: str):
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
+
+@app.get("/api/representative/{username}")
+async def get_representative_repos(username: str):
+    path = os.path.join(RAW_USERS_DIR, username, "representative_repos.json")
+    if not os.path.exists(path):
+        return []
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
 @app.get("/api/avatar/{username}")
 async def get_cached_avatar(username: str):
     cached = load_cached_github_profile(username)

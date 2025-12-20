@@ -378,6 +378,19 @@ async def get_github_user(username: str, background_tasks: BackgroundTasks):
         "html_url": data.get("html_url")
     }
 
+
+@app.get("/api/tech_stack/{username}")
+async def get_tech_stack(username: str):
+    path = os.path.join(RAW_USERS_DIR, username, "tech_stack.json")
+    if not os.path.exists(path):
+        # Return empty list for consistency
+        return []
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
 @app.get("/api/avatar/{username}")
 async def get_cached_avatar(username: str):
     cached = load_cached_github_profile(username)

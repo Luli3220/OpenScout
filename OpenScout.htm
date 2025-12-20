@@ -366,43 +366,7 @@
                 </div>
             </div>
 
-            <!-- 4. Interactive Simulation: Job Matching -->
-            <section class="scout-card p-6 border-l-4 border-l-orange-500">
-                <div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 mb-6">
-                    <div>
-                        <h3 class="text-lg font-bold text-slate-800">岗位匹配模拟器</h3>
-                        <p class="text-sm text-slate-600">选择一个目标岗位，AI 将计算该候选人的胜任概率。</p>
-                    </div>
-                    <select id="jobRole"
-                        class="block w-full md:w-48 pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-orange-500 focus:border-orange-500 sm:text-sm rounded-md border">
-                        <option value="backend">后端架构师 (Java/Go)</option>
-                        <option value="frontend">前端技术专家 (JS/TS)</option>
-                        <option value="os">操作系统/底层开发 (C/C++)</option>
-                        <option value="community">开源社区运营</option>
-                    </select>
-                </div>
-
-                <div class="bg-slate-50 rounded-lg p-6">
-                    <div class="flex items-center justify-between mb-2">
-                        <span class="text-sm font-medium text-slate-700">匹配度评分</span>
-                        <span class="text-2xl font-bold text-orange-600" id="matchScore">85%</span>
-                    </div>
-                    <div class="w-full bg-gray-200 rounded-full h-2.5 mb-4">
-                        <div id="matchBar" class="bg-orange-600 h-2.5 rounded-full transition-all duration-1000"
-                            style="width: 85%"></div>
-                    </div>
-                    <div class="flex gap-4 text-sm">
-                        <div class="flex-1">
-                            <strong class="block text-slate-800 mb-1">优势匹配:</strong>
-                            <p class="text-slate-500" id="matchPros">技术栈高度重合；在大型项目中有丰富协作经验。</p>
-                        </div>
-                        <div class="flex-1">
-                            <strong class="block text-slate-800 mb-1">潜在缺口:</strong>
-                            <p class="text-slate-500" id="matchCons">近期文档贡献较少，可能需要加强技术文档编写。</p>
-                        </div>
-                    </div>
-                </div>
-            </section>
+            <!-- 岗位匹配模拟器 已移除 -->
 
         </div>
     </main>
@@ -538,7 +502,6 @@
                     handleSearch();
                 });
             });
-            document.getElementById('jobRole').addEventListener('change', updateMatchScore);
 
             const defaultUsername = document.getElementById('searchInput').value.trim() || 'cescoffier';
             loadProfile(defaultUsername);
@@ -617,19 +580,20 @@
 
                     renderRadar(scores);
 
-                    // Reset other charts for now (or mock them if backend doesn't provide)
-                    renderStack({ labels: ['N/A'], data: [0] });
+                    // Fetch and render tech stack distribution (keep top 4 languages, group rest as '其他')
+                    await fetchAndRenderTechStack(username);
                     renderTrend(data.openrank_labels, data.openrank_series);
 
                 } else {
                     renderRadar(data.radar);
+                    await fetchAndRenderTechStack(username);
                     renderTrend(data.openrank_labels, data.openrank_series);
                     // Reset stats
                     document.getElementById('openRank').textContent = "0.00";
                     document.getElementById('activityScore').textContent = "0.00";
                 }
 
-                updateMatchScore();
+                // match simulator removed
 
             } catch (e) {
                 console.error("Error loading profile:", e);
@@ -647,6 +611,57 @@
         }
 
         // --- 5. VISUALIZATION FUNCTIONS (Chart.js) ---
+
+        // Fetch tech stack for a user, aggregate top 4 languages and group rest into '其他', then render
+        async function fetchAndRenderTechStack(username) {
+            try {
+                const res = await fetch(`/api/tech_stack/${username}`);
+                if (!res.ok) {
+                    renderStack({ labels: ['N/A'], data: [0] });
+                    return;
+                }
+                const tech = await res.json();
+                const langTotals = {};
+                if (Array.isArray(tech)) {
+                    tech.forEach(repo => {
+                        const lb = repo.languages_breakdown || repo.languages || {};
+                        for (const [lang, val] of Object.entries(lb || {})) {
+                            const num = typeof val === 'number' ? val : parseFloat(val) || 0;
+                            if (!lang) continue;
+                            langTotals[lang] = (langTotals[lang] || 0) + num;
+                        }
+                    });
+                }
+
+                const entries = Object.entries(langTotals);
+                if (!entries.length) {
+                    renderStack({ labels: ['N/A'], data: [0] });
+                    return;
+                }
+
+                entries.sort((a, b) => b[1] - a[1]);
+                const top = entries.slice(0, 4);
+                const rest = entries.slice(4);
+                const restSum = rest.reduce((s, e) => s + e[1], 0);
+
+                const selected = top.slice();
+                if (restSum > 0) selected.push(['其他', restSum]);
+
+                const total = selected.reduce((s, e) => s + e[1], 0) || 1;
+                let labels = selected.map(e => e[0]);
+                let data = selected.map(e => Math.round((e[1] / total) * 100));
+
+                // adjust rounding to ensure sum == 100
+                const sum = data.reduce((a, b) => a + b, 0);
+                if (sum !== 100 && data.length > 0) {
+                    data[data.length - 1] += 100 - sum;
+                }
+
+                renderStack({ labels, data });
+            } catch (e) {
+                renderStack({ labels: ['N/A'], data: [0] });
+            }
+        }
 
         function renderRadar(dataPoints) {
             const ctx = document.getElementById('radarChart').getContext('2d');
@@ -692,6 +707,9 @@
             const ctx = document.getElementById('stackChart').getContext('2d');
             if (stackChartInstance) stackChartInstance.destroy();
 
+            const palette = ['#ea580c', '#334155', '#94a3b8', '#cbd5e1', '#f97316'];
+            const bg = (palette.slice(0, (stackData.labels || []).length));
+
             stackChartInstance = new Chart(ctx, {
                 type: 'bar',
                 data: {
@@ -699,23 +717,27 @@
                     datasets: [{
                         label: '代码占比 (%)',
                         data: stackData.data,
-                        backgroundColor: ['#334155', '#ea580c', '#94a3b8', '#cbd5e1'],
-                        borderRadius: 4
+                        backgroundColor: bg,
+                        borderRadius: 4,
+                        maxBarThickness: 40
                     }]
                 },
                 options: {
                     maintainAspectRatio: false,
                     responsive: true,
+                    layout: { padding: { left: 28, right: 8, top: 8, bottom: 8 } },
                     indexAxis: 'y', // Horizontal bar
                     scales: {
-                        x: { display: false },
+                        x: { display: false, beginAtZero: true },
                         y: {
                             grid: { display: false },
-                            ticks: { font: { family: 'Inter' } }
+                            ticks: { font: { family: 'Inter', size: 14 }, color: '#64748b' },
+                            offset: true
                         }
                     },
                     plugins: {
-                        legend: { display: false }
+                        legend: { display: false },
+                        tooltip: { enabled: true }
                     }
                 }
             });
@@ -767,52 +789,7 @@
             });
         }
 
-        // --- 6. JOB MATCH LOGIC (Simulating AI Decision) ---
-        function updateMatchScore() {
-            const role = document.getElementById('jobRole').value;
-            const currentName = document.getElementById('userName').textContent;
-
-            // Simple deterministic logic for demo purposes
-            let score = 50;
-            let pros = "数据不足";
-            let cons = "数据不足";
-
-            if (currentName.includes("Linus")) {
-                if (role === 'os') { score = 99; pros = "该领域的绝对权威；技术栈完全匹配。"; cons = "无明显短板。"; }
-                else if (role === 'backend') { score = 80; pros = "极强的底层理解能力。"; cons = "可能对现代 Web 框架不感兴趣。"; }
-                else { score = 40; pros = "通用编程能力极强。"; cons = "专业领域不匹配 (Web/Frontend)。"; }
-            } else if (currentName.includes("Evan")) {
-                if (role === 'frontend') { score = 98; pros = "行业领袖；精通 JS/TS 生态。"; cons = "可能更关注架构而非业务代码。"; }
-                else if (role === 'community') { score = 90; pros = "拥有极强的社区号召力。"; cons = "技术投入时间可能被压缩。"; }
-                else { score = 50; pros = "学习能力强。"; cons = "技术栈主要集中在应用层。"; }
-            } else {
-                // Junior
-                if (role === 'os') { score = 30; pros = "有热情。"; cons = "缺乏底层经验。"; }
-                else { score = 75; pros = "活跃度高，处于快速成长期。"; cons = "缺乏大型项目主导经验。"; }
-            }
-
-            // Update UI
-            const bar = document.getElementById('matchBar');
-            const scoreText = document.getElementById('matchScore');
-
-            scoreText.textContent = score + "%";
-            bar.style.width = score + "%";
-
-            // Color coding
-            if (score > 80) {
-                bar.className = "h-2.5 rounded-full transition-all duration-1000 bg-green-500";
-                scoreText.className = "text-2xl font-bold text-green-600";
-            } else if (score > 60) {
-                bar.className = "h-2.5 rounded-full transition-all duration-1000 bg-orange-500";
-                scoreText.className = "text-2xl font-bold text-orange-600";
-            } else {
-                bar.className = "h-2.5 rounded-full transition-all duration-1000 bg-slate-400";
-                scoreText.className = "text-2xl font-bold text-slate-500";
-            }
-
-            document.getElementById('matchPros').textContent = pros;
-            document.getElementById('matchCons').textContent = cons;
-        }
+        // 岗位匹配模拟器逻辑已移除
 
     </script>
 </body>

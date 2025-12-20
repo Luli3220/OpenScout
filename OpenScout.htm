@@ -53,6 +53,87 @@
             font-family: 'Inter', system-ui, sans-serif;
         }
 
+        /* Animations */
+        @keyframes shimmer {
+            0% {
+                background-position: -1000px 0;
+            }
+
+            100% {
+                background-position: 1000px 0;
+            }
+        }
+
+        .skeleton {
+            animation: shimmer 2s infinite linear;
+            background: linear-gradient(to right, #f1f5f9 4%, #e2e8f0 25%, #f1f5f9 36%);
+            background-size: 1000px 100%;
+            border-radius: 4px;
+            display: inline-block;
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translate3d(0, 20px, 0);
+            }
+
+            to {
+                opacity: 1;
+                transform: none;
+            }
+        }
+
+        .fade-in-up {
+            animation: fadeInUp 0.6s ease-out both;
+        }
+
+        @keyframes blink {
+            50% {
+                opacity: 0;
+            }
+        }
+
+        .cursor-blink::after {
+            content: '_';
+            animation: blink 1s step-end infinite;
+            color: var(--accent);
+            font-weight: bold;
+        }
+
+        /* Heatmap Styles */
+        .heatmap-grid {
+            display: flex;
+            gap: 4px;
+            flex-wrap: wrap;
+            margin-top: 1rem;
+            justify-content: center;
+        }
+
+        .heatmap-cell {
+            width: 12px;
+            height: 12px;
+            border-radius: 2px;
+            background-color: #ebedf0;
+            /* default/0 */
+        }
+
+        .heatmap-cell[data-level="1"] {
+            background-color: #9be9a8;
+        }
+
+        .heatmap-cell[data-level="2"] {
+            background-color: #40c463;
+        }
+
+        .heatmap-cell[data-level="3"] {
+            background-color: #30a14e;
+        }
+
+        .heatmap-cell[data-level="4"] {
+            background-color: #216e39;
+        }
+
         /* Chart Container Styling - Critical for Responsiveness */
         .chart-container {
             position: relative;
@@ -78,11 +159,15 @@
             border-radius: 0.75rem;
             /* 12px */
             box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05);
-            transition: all 0.3s ease;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            will-change: transform, box-shadow;
         }
 
         .scout-card:hover {
-            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+            transform: translateY(-4px) scale(1.02);
+            border-color: var(--accent);
+            z-index: 10;
         }
 
         .btn-primary {
@@ -262,11 +347,12 @@
                 <!-- Presets for Demo -->
                 <div class="mt-2 flex justify-center gap-2 text-xs text-slate-400">
                     <span>示例:</span>
-                    <button class="hover:text-orange-600 underline demo-preset" data-id="torvalds">Linus (内核之神)</button>
-                    <button class="hover:text-orange-600 underline demo-preset" data-id="yyx990803">Evan You
-                        (前端专家)</button>
-                    <button class="hover:text-orange-600 underline demo-preset" data-id="junior_dev">Active Contributor
-                        (活跃新秀)</button>
+                    <button class="hover:text-orange-600 underline demo-preset"
+                        data-id="HansKristian-Work">HansKristian-Work (图形学)</button>
+                    <button class="hover:text-orange-600 underline demo-preset" data-id="camilamaia">camilamaia
+                        (K8s)</button>
+                    <button class="hover:text-orange-600 underline demo-preset" data-id="cescoffier">cescoffier
+                        (Java/Quarkus)</button>
                 </div>
             </div>
         </section>
@@ -325,22 +411,30 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
 
                 <!-- Chart 1: The Six-Dimensional Radar -->
-                <div class="scout-card p-5 col-span-1 lg:col-span-1">
+                <div class="scout-card p-5 col-span-1 lg:col-span-1" id="radarCard">
                     <div class="mb-4 flex justify-between items-start">
                         <div>
                             <h3 class="font-semibold text-slate-800 flex items-center gap-2">
                                 <i class="ph ph-polygon text-orange-600"></i> 能力六维图
                             </h3>
-                            <p class="text-xs text-slate-500 mt-1">基于代码提交、Code Review、Issue 互动等 OpenDigger 指标综合计算。</p>
+                            <p class="text-xs text-slate-500 mt-1">融合 OpenDigger 算法与 GitHub 行为数据，六维量化开发者的开源价值。</p>
                         </div>
                     </div>
                     <div class="chart-container">
                         <canvas id="radarChart"></canvas>
                     </div>
+                    <div class="mt-4 pt-4 border-t border-slate-100">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="text-xs font-semibold text-slate-600">近一年活跃度 (Activity Heatmap)</span>
+                        </div>
+                        <div id="activityHeatmap" class="heatmap-grid" title="颜色越深代表该月 OpenRank/活跃度 越高">
+                            <!-- Heatmap Cells Injected Here -->
+                        </div>
+                    </div>
                 </div>
 
                 <!-- Chart 2: Language & Tech Stack -->
-                <div class="scout-card p-5 col-span-1 lg:col-span-1">
+                <div class="scout-card p-5 col-span-1 lg:col-span-1" id="stackCard">
                     <div class="mb-4">
                         <h3 class="font-semibold text-slate-800 flex items-center gap-2">
                             <i class="ph ph-code text-orange-600"></i> 技术栈分布
@@ -353,7 +447,7 @@
                 </div>
 
                 <!-- Chart 3: OpenRank Trend -->
-                <div class="scout-card p-5 col-span-1 lg:col-span-1 md:col-span-2">
+                <div class="scout-card p-5 col-span-1 lg:col-span-1 md:col-span-2" id="trendCard">
                     <div class="mb-4">
                         <h3 class="font-semibold text-slate-800 flex items-center gap-2">
                             <i class="ph ph-trend-up text-orange-600"></i> OpenRank 走势
@@ -445,7 +539,8 @@
 
         function renderAnalysis() {
             const html = marked.parse(analysisFullText || '正在生成分析报告...');
-            if (aiSummaryEl) aiSummaryEl.innerHTML = html;
+            // Add typewriter cursor
+            if (aiSummaryEl) aiSummaryEl.innerHTML = html + '<span class="cursor-blink"></span>';
             if (reportContent) reportContent.innerHTML = html;
             const modalBody = document.querySelector('.modal-body');
             if (modalBody && auditModal && auditModal.classList.contains('active')) {
@@ -542,6 +637,7 @@
 
         async function loadProfile(username) {
             try {
+                setLoadingState(true);
                 startAnalyze(username);
 
                 const avatarIcon = document.getElementById('avatarIcon');
@@ -581,41 +677,38 @@
                     }
                 }
 
+                setLoadingState(false);
+
                 document.getElementById('userName').textContent = displayName || username;
                 document.getElementById('userHandle').textContent = `@${displayLogin || username}`;
 
                 // If data found
+                const orVal = data.openrank_sum || 0;
+                const actVal = data.activity_sum || 0;
+
+                // Animate Numbers
+                animateValue('openRank', 0, orVal, 1000);
+                animateValue('activityScore', 0, actVal, 1000);
+
                 if (data.found) {
-                    // Update Scores
-                    const scores = data.radar;
-                    // Our backend returns [Influence, Contribution, Maintainership, Engagement, Diversity, CodeCapability]
-                    // We render them in that order.
-
-                    // Use real data from backend
-                    document.getElementById('openRank').textContent = data.openrank_sum ? data.openrank_sum.toFixed(2) : "0.00";
-                    document.getElementById('activityScore').textContent = data.activity_sum ? data.activity_sum.toFixed(2) : "0.00";
-
-                    renderRadar(scores);
-
-                    // Fetch and render tech stack distribution (keep top 4 languages, group rest as '其他')
+                    renderRadar(data.radar);
                     await fetchAndRenderTechStack(username);
                     await fetchAndRenderRepresentativeRepos(username);
                     renderTrend(data.openrank_labels, data.openrank_series);
-
+                    renderHeatmap(data.openrank_labels, data.openrank_series);
                 } else {
                     renderRadar(data.radar);
                     await fetchAndRenderTechStack(username);
                     await fetchAndRenderRepresentativeRepos(username);
                     renderTrend(data.openrank_labels, data.openrank_series);
-                    // Reset stats
-                    document.getElementById('openRank').textContent = "0.00";
-                    document.getElementById('activityScore').textContent = "0.00";
+                    renderHeatmap([], []);
                 }
 
-                // match simulator removed
+                triggerEntranceAnimations();
 
             } catch (e) {
                 console.error("Error loading profile:", e);
+                setLoadingState(false);
                 alert("无法连接到后端服务器，请确保 server.py 正在运行。");
             }
         }
@@ -628,6 +721,99 @@
             }
             return labels[maxI];
         }
+
+        // --- UI Animation Helpers ---
+
+        function animateValue(objId, start, end, duration) {
+            const obj = document.getElementById(objId);
+            if (!obj) return;
+            let startTimestamp = null;
+            const step = (timestamp) => {
+                if (!startTimestamp) startTimestamp = timestamp;
+                const progress = Math.min((timestamp - startTimestamp) / duration, 1);
+                const val = progress * (end - start) + start;
+                obj.textContent = val.toFixed(2);
+                if (progress < 1) {
+                    window.requestAnimationFrame(step);
+                }
+            };
+            window.requestAnimationFrame(step);
+        }
+
+        function setLoadingState(isLoading) {
+            const els = ['userName', 'userHandle', 'openRank', 'activityScore'];
+            if (isLoading) {
+                document.getElementById('userName').innerHTML = '<span class="skeleton" style="width: 120px; height: 32px;"></span>';
+                document.getElementById('userHandle').innerHTML = '<span class="skeleton" style="width: 80px; height: 20px;"></span>';
+                document.getElementById('openRank').innerHTML = '<span class="skeleton" style="width: 60px; height: 32px;"></span>';
+                document.getElementById('activityScore').innerHTML = '<span class="skeleton" style="width: 60px; height: 32px;"></span>';
+
+                // Reset Animations
+                document.getElementById('radarCard').classList.remove('fade-in-up');
+                document.getElementById('stackCard').classList.remove('fade-in-up');
+                document.getElementById('trendCard').classList.remove('fade-in-up');
+                document.getElementById('radarCard').style.opacity = '0';
+                document.getElementById('stackCard').style.opacity = '0';
+                document.getElementById('trendCard').style.opacity = '0';
+            } else {
+                // Content will be filled by data
+            }
+        }
+
+        function triggerEntranceAnimations() {
+            const cards = ['radarCard', 'stackCard', 'trendCard'];
+            cards.forEach((id, index) => {
+                const el = document.getElementById(id);
+                if (el) {
+                    el.style.animationDelay = `${index * 150}ms`;
+                    el.classList.add('fade-in-up');
+
+                    // Remove class after animation to allow hover transform to work cleanly
+                    el.addEventListener('animationend', () => {
+                        el.classList.remove('fade-in-up');
+                        el.style.animationDelay = '';
+                        el.style.opacity = '1';
+                    }, { once: true });
+                }
+            });
+        }
+
+        function renderHeatmap(labels, seriesData) {
+            const container = document.getElementById('activityHeatmap');
+            if (!container) return;
+            container.innerHTML = '';
+
+            // seriesData is [val, val, val...] monthly.
+            // We want last 12 months.
+            const data = (seriesData || []).slice(-12);
+            const lbls = (labels || []).slice(-12);
+
+            // Normalize for color: 0-100 scale? OpenRank can be anything.
+            // Let's assume max in series is 100% intensity or use a fixed scale.
+            // OpenRank can be 200, 300.
+            // We'll use relative scale based on max value in the set.
+            const maxVal = Math.max(...data, 10);
+
+            data.forEach((val, index) => {
+                const div = document.createElement('div');
+                div.className = 'heatmap-cell';
+                const label = lbls[index] || 'Unknown';
+                div.title = `${label}: ${val.toFixed(2)}`;
+
+                // Calculate level 0-4
+                let level = 0;
+                if (val > 0) {
+                    const ratio = val / maxVal;
+                    if (ratio > 0.75) level = 4;
+                    else if (ratio > 0.5) level = 3;
+                    else if (ratio > 0.25) level = 2;
+                    else level = 1;
+                }
+                div.setAttribute('data-level', level);
+                container.appendChild(div);
+            });
+        }
+
 
         // --- 5. VISUALIZATION FUNCTIONS (Chart.js) ---
 
@@ -683,20 +869,28 @@
         }
 
         function renderRadar(dataPoints) {
-            const ctx = document.getElementById('radarChart').getContext('2d');
+            const canvas = document.getElementById('radarChart');
+            const ctx = canvas.getContext('2d');
             if (radarChartInstance) radarChartInstance.destroy();
+
+            // Gradient
+            const gradient = ctx.createLinearGradient(0, 0, 0, canvas.height);
+            gradient.addColorStop(0, 'rgba(234, 88, 12, 0.4)');
+            gradient.addColorStop(1, 'rgba(234, 88, 12, 0.05)');
 
             radarChartInstance = new Chart(ctx, {
                 type: 'radar',
                 data: {
-                    // Updated Labels to match the Python Backend Order
                     labels: ['影响力', '贡献度', '维护力', '活跃度', '多样性', '代码能力'],
                     datasets: [{
                         label: '能力评分',
                         data: dataPoints,
-                        backgroundColor: 'rgba(234, 88, 12, 0.2)', // Orange with opacity
+                        backgroundColor: gradient,
                         borderColor: 'rgba(234, 88, 12, 1)',
                         pointBackgroundColor: 'rgba(234, 88, 12, 1)',
+                        pointBorderColor: '#fff',
+                        pointHoverBackgroundColor: '#fff',
+                        pointHoverBorderColor: 'rgba(234, 88, 12, 1)',
                         borderWidth: 2
                     }]
                 },
@@ -716,7 +910,29 @@
                         }
                     },
                     plugins: {
-                        legend: { display: false }
+                        legend: { display: false },
+                        tooltip: {
+                            callbacks: {
+                                label: function (context) {
+                                    return `Score: ${context.raw}`;
+                                },
+                                afterLabel: function (context) {
+                                    const descriptions = {
+                                        '影响力': '衡量社区声望与项目受关注度 (Stars, Forks, OpenRank)。',
+                                        '贡献度': '衡量外部代码贡献能力 (Merged PRs, Issues)。',
+                                        '维护力': '衡量项目管理与代码把控能力 (Merge PRs, Reviews)。',
+                                        '活跃度': '衡量技术讨论与互动投入 (Issue/PR Comments)。',
+                                        '多样性': '衡量技术栈广度与领域丰富度 (Languages, Topics)。',
+                                        '代码能力': '衡量代码技术含金量与工程规范 (Core Contribution)。'
+                                    };
+                                    return descriptions[context.label] || '';
+                                }
+                            },
+                            backgroundColor: 'rgba(15, 23, 42, 0.9)',
+                            padding: 10,
+                            bodyFont: { size: 12 },
+                            titleFont: { size: 13, weight: 'bold' }
+                        }
                     }
                 }
             });
@@ -763,10 +979,16 @@
         }
 
         function renderTrend(labels, trendData) {
-            const ctx = document.getElementById('trendChart').getContext('2d');
+            const canvas = document.getElementById('trendChart');
+            const ctx = canvas.getContext('2d');
             if (trendChartInstance) trendChartInstance.destroy();
             const safeLabels = Array.isArray(labels) && labels.length ? labels : ['N/A'];
             const safeData = Array.isArray(trendData) && trendData.length ? trendData : [0];
+
+            // Gradient
+            const gradient = ctx.createLinearGradient(0, 0, 0, canvas.height);
+            gradient.addColorStop(0, 'rgba(51, 65, 85, 0.2)');
+            gradient.addColorStop(1, 'rgba(51, 65, 85, 0.0)');
 
             trendChartInstance = new Chart(ctx, {
                 type: 'line',
@@ -776,7 +998,7 @@
                         label: 'OpenRank',
                         data: safeData,
                         borderColor: '#334155',
-                        backgroundColor: 'rgba(51, 65, 85, 0.05)',
+                        backgroundColor: gradient,
                         borderWidth: 2,
                         tension: 0.4, // Smooth curve
                         fill: true,
@@ -787,6 +1009,10 @@
                 options: {
                     maintainAspectRatio: false,
                     responsive: true,
+                    interaction: {
+                        intersect: false,
+                        mode: 'index',
+                    },
                     scales: {
                         y: {
                             beginAtZero: true,
@@ -801,7 +1027,8 @@
                         legend: { display: false },
                         tooltip: {
                             mode: 'index',
-                            intersect: false
+                            intersect: false,
+                            backgroundColor: 'rgba(15, 23, 42, 0.9)'
                         }
                     }
                 }

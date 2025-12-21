@@ -245,64 +245,19 @@ async def analyze_user(username: str):
         "Content-Type": "application/json"
     }
 
-    # 3. Stream from MaxKB
-    def event_stream():
-        try:
-            with requests.post(MAXKB_API_URL, json=payload, headers=headers, stream=True, timeout=(10, 300)) as r:
-                if r.status_code != 200:
-                    yield f"Error from MaxKB: {r.status_code} - {r.text}"
-                    return
-
-                content_type = (r.headers.get("content-type") or "").lower()
-                if "application/json" in content_type:
-                    try:
-                        data = r.json()
-                        if isinstance(data, dict) and data.get("message"):
-                            yield str(data.get("message"))
-                            return
-                    except Exception:
-                        pass
-                    text = r.text
-                    if text:
-                        yield text
-                    else:
-                        yield "Error from MaxKB: empty response"
-                    return
-
-                yielded_any = False
-                for line in r.iter_lines():
-                    if line:
-                        decoded_line = line.decode('utf-8')
-                        if decoded_line.startswith("data:"):
-                             try:
-                                 json_str = decoded_line[5:].strip()
-                                 if json_str == "[DONE]":
-                                     break
-                                 data = json.loads(json_str)
-                                 
-                                 choices = data.get("choices", [])
-                                 if choices:
-                                     delta = choices[0].get("delta", {})
-                                     content = delta.get("content", "")
-                                     reasoning = delta.get("reasoning_content", "")
-                                     
-                                     if content:
-                                         yielded_any = True
-                                         yield content
-                                     elif reasoning:
-                                         yielded_any = True
-                                         yield reasoning
-                             except:
-                                 pass
-                        else:
-                            yielded_any = True
-                            yield decoded_line
-                if not yielded_any:
-                    yield "Error from MaxKB: empty response"
-        except Exception as e:
-            yield f"Internal Server Error: {str(e)}"
-
-    return StreamingResponse(event_stream(), media_type="text/plain")
+    # 3. Request from MaxKB (Non-streaming for structured output)
+    try:
+        # Change stream=True to stream=False to get the full JSON with multiple agent outputs
+        payload["stream"] = False
+        r = requests.post(MAXKB_API_URL, json=payload, headers=headers, timeout=(10, 300))
+        
+        if r.status_code != 200:
+            raise HTTPException(status_code=r.status_code, detail=f"Error from MaxKB: {r.text}")
+            
+        return r.json()
+        
+    except requests.exceptions.RequestException as e:
+        raise HTTPException(status_code=500, detail=f"Internal Server Error: {str(e)}")
 
 @app.get("/api/radar/{username}")
 async def get_radar_score(username: str):

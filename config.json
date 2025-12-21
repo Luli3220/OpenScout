@@ -3,6 +3,6 @@
   "github_tokens": [
     "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"
   ],
-  "maxkb_api_url": "http://localhost:8080/chat/api/019b3b8c-2d53-7c41-8bfc-bae704471a82/chat/completions",
-  "maxkb_api_key": "application-c68f33c6071cb554f367e38febc47409"
+  "maxkb_api_url": "http://localhost:8080/chat/api/019b3f8b-470c-7011-bed4-59dc18f4a679/chat/completions",
+  "maxkb_api_key": "application-0085d1ee1b64d5d8b0c0023608c67979"
 }

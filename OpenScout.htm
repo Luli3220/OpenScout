@@ -360,10 +360,10 @@
         <!-- DASHBOARD CONTAINER (Initially Hidden until search) -->
         <div id="dashboard" class="space-y-6 transition-opacity duration-500 opacity-100">
 
-            <!-- 2. Hero Profile & AI Analysis -->
-            <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+            <!-- 2. Profile & Multi-Agent Analysis -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                 <!-- Profile Card -->
-                <div class="scout-card p-6 flex flex-col items-center text-center lg:col-span-1">
+                <div class="scout-card p-6 flex flex-col items-center text-center h-full">
                     <div
                         class="w-24 h-24 rounded-full bg-slate-100 mb-4 flex items-center justify-center border-2 border-orange-100 relative overflow-hidden">
                         <i class="ph ph-user text-4xl text-slate-400" id="avatarIcon"></i>
@@ -384,25 +384,83 @@
                     </div>
                 </div>
 
-                <!-- AI Insight -->
-                <div class="scout-card p-6 lg:col-span-2 flex flex-col relative overflow-hidden h-72 lg:h-80 min-h-0">
-                    <div class="absolute top-0 right-0 p-2 opacity-10">
-                        <i class="ph ph-robot text-8xl"></i>
-                    </div>
-                    <div class="flex items-center justify-between gap-3 mb-3">
-                        <div class="flex items-center gap-2">
-                            <div class="bg-orange-100 p-1.5 rounded-md">
-                                <i class="ph ph-sparkle text-orange-600"></i>
-                            </div>
-                            <h3 class="font-semibold text-slate-800">AI 智能人才画像</h3>
+                <!-- Agent 1: The Career Strategist -->
+                <div class="scout-card p-6 flex flex-col h-full relative overflow-hidden">
+                    <div class="flex items-center gap-3 mb-4">
+                        <div class="bg-indigo-100 p-2 rounded-md">
+                            <i class="ph ph-strategy text-indigo-600 text-xl"></i>
                         </div>
-                        <button class="btn-ghost" id="viewReportBtn">
-                            <i class="ph ph-arrows-out"></i> 查看完整报告
-                        </button>
+                        <h3 class="font-bold text-slate-800">The Career Strategist</h3>
                     </div>
-                    <div class="prose prose-sm text-slate-600 flex-grow overflow-y-auto min-h-0 pr-2" id="aiSummary">
-                        <!-- AI Text Injected Here -->
-                        正在生成分析报告...
+                    <div class="prose prose-sm text-slate-600 flex-grow overflow-y-auto max-h-64" id="careerContent">
+                        <div class="flex items-center justify-center h-full text-slate-400 text-xs italic">
+                            等待分析...
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Agent 2: The Tech Stack Evaluator -->
+                <div class="scout-card p-6 flex flex-col h-full relative overflow-hidden">
+                    <div class="flex items-center gap-3 mb-4">
+                        <div class="bg-emerald-100 p-2 rounded-md">
+                            <i class="ph ph-code text-emerald-600 text-xl"></i>
+                        </div>
+                        <h3 class="font-bold text-slate-800">The Tech Stack Evaluator</h3>
+                    </div>
+                    <div class="prose prose-sm text-slate-600 flex-grow overflow-y-auto max-h-64" id="techContent">
+                        <div class="flex items-center justify-center h-full text-slate-400 text-xs italic">
+                            等待分析...
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Agent 3: The Project Analyst -->
+                <div class="scout-card p-6 flex flex-col h-full relative overflow-hidden">
+                    <div class="flex items-center gap-3 mb-4">
+                        <div class="bg-purple-100 p-2 rounded-md">
+                            <i class="ph ph-kanban text-purple-600 text-xl"></i>
+                        </div>
+                        <h3 class="font-bold text-slate-800">The Project Analyst</h3>
+                    </div>
+                    <div class="prose prose-sm text-slate-600 flex-grow overflow-y-auto max-h-64" id="projectContent">
+                        <div class="flex items-center justify-center h-full text-slate-400 text-xs italic">
+                            等待分析...
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Summary Agent: Chief Talent Officer -->
+                <div
+                    class="scout-card p-6 flex flex-col relative overflow-hidden border-t-4 border-t-orange-500 md:col-span-2 lg:col-span-4">
+                    <div class="absolute top-0 right-0 p-4 opacity-5">
+                        <i class="ph ph-seal-check text-9xl text-orange-600"></i>
+                    </div>
+                    <div class="flex items-center justify-between gap-3 mb-4 relative z-10">
+                        <div class="flex items-center gap-3">
+                            <div class="bg-orange-100 p-2 rounded-md">
+                                <i class="ph ph-user-focus text-orange-600 text-2xl"></i>
+                            </div>
+                            <div>
+                                <h3 class="font-bold text-xl text-slate-800">Chief Talent Officer</h3>
+                                <p class="text-xs text-slate-500">综合评估报告与招聘建议</p>
+                            </div>
+                        </div>
+                        <div class="flex flex-col sm:flex-row items-end sm:items-center gap-2">
+                            <div id="keywordsContent"
+                                class="flex flex-nowrap gap-2 max-w-[520px] overflow-x-auto text-sm text-slate-700">
+                                <div class="text-slate-400 text-xs italic">等待分析...</div>
+                            </div>
+                            <button class="btn-ghost" id="viewReportBtn">
+                                <i class="ph ph-arrows-out"></i> 全屏阅读
+                            </button>
+                        </div>
+                    </div>
+                    <div class="prose prose-sm text-slate-600 max-h-96 overflow-y-auto relative z-10"
+                        id="summaryContent">
+                        <div class="p-8 text-center text-slate-400">
+                            <i class="ph ph-robot text-4xl mb-2 block"></i>
+                            <span>正在等待各子 Agent 提交分析数据...</span>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -475,6 +533,19 @@
                     </h3>
                     <p class="text-xs text-slate-500 mt-1">按 Star 排序，显示 Stars / Forks / 贡献得分与仓库链接。</p>
                 </div>
+                <div class="flex items-center gap-2">
+                    <div id="repReposPageInfo" class="text-xs text-slate-500 whitespace-nowrap"></div>
+                    <select id="repReposPageSize"
+                        class="text-xs border border-slate-200 rounded-md px-2 py-1 bg-white text-slate-700">
+                        <option value="10">10/页</option>
+                        <option value="20">20/页</option>
+                        <option value="50">50/页</option>
+                    </select>
+                    <button class="btn-ghost px-2 py-1 text-xs disabled:opacity-50 disabled:cursor-not-allowed"
+                        id="repReposPrevBtn">上一页</button>
+                    <button class="btn-ghost px-2 py-1 text-xs disabled:opacity-50 disabled:cursor-not-allowed"
+                        id="repReposNextBtn">下一页</button>
+                </div>
             </div>
             <div id="repReposList" class="space-y-3">
                 <!-- Filled by JS -->
@@ -520,15 +591,31 @@
         const closeModalBtn = document.getElementById('closeModalBtn');
         const closeModalFooterBtn = document.getElementById('closeModalFooterBtn');
         const reportContent = document.getElementById('reportContent');
-        const aiSummaryEl = document.getElementById('aiSummary');
-        const searchBtn = document.getElementById('searchBtn');
-        let renderTimer = null;
+
+        // Agent Content Elements
+        const careerContentEl = document.getElementById('careerContent');
+        const techContentEl = document.getElementById('techContent');
+        const projectContentEl = document.getElementById('projectContent');
+        const summaryContentEl = document.getElementById('summaryContent');
+        const keywordsContentEl = document.getElementById('keywordsContent');
+        const repReposListEl = document.getElementById('repReposList');
+        const repReposPageInfoEl = document.getElementById('repReposPageInfo');
+        const repReposPageSizeEl = document.getElementById('repReposPageSize');
+        const repReposPrevBtn = document.getElementById('repReposPrevBtn');
+        const repReposNextBtn = document.getElementById('repReposNextBtn');
+
+        const repReposState = {
+            repos: [],
+            page: 1,
+            pageSize: 10
+        };
 
         function openModal() {
             if (!auditModal) return;
             auditModal.classList.add('active');
             document.body.style.overflow = 'hidden';
-            renderAnalysis();
+            // Render full report in modal
+            renderFullReportInModal();
         }
 
         function closeModal() {
@@ -537,67 +624,279 @@
             document.body.style.overflow = '';
         }
 
-        function renderAnalysis() {
-            const html = marked.parse(analysisFullText || '正在生成分析报告...');
-            // Add typewriter cursor
-            if (aiSummaryEl) aiSummaryEl.innerHTML = html + '<span class="cursor-blink"></span>';
-            if (reportContent) reportContent.innerHTML = html;
-            const modalBody = document.querySelector('.modal-body');
-            if (modalBody && auditModal && auditModal.classList.contains('active')) {
-                modalBody.scrollTop = modalBody.scrollHeight;
+        function renderFullReportInModal() {
+            // Concatenate all agent outputs for the modal view
+            if (!reportContent) return;
+
+            const careerText = careerContentEl ? careerContentEl.innerHTML : '';
+            const techText = techContentEl ? techContentEl.innerHTML : '';
+            const projectText = projectContentEl ? projectContentEl.innerHTML : '';
+            const summaryText = summaryContentEl ? summaryContentEl.innerHTML : '';
+
+            // Using simple concatenation with headers for the modal
+            // Note: innerHTML already contains rendered HTML from marked.parse
+            let fullHtml = `
+                <h2 class="text-xl font-bold mb-4 text-indigo-700">1. The Career Strategist</h2>
+                <div class="mb-8">${careerText}</div>
+                
+                <h2 class="text-xl font-bold mb-4 text-emerald-700">2. The Tech Stack Evaluator</h2>
+                <div class="mb-8">${techText}</div>
+                
+                <h2 class="text-xl font-bold mb-4 text-purple-700">3. The Project Analyst</h2>
+                <div class="mb-8">${projectText}</div>
+                
+                <hr class="my-6 border-slate-200">
+                
+                <h2 class="text-2xl font-bold mb-4 text-orange-700">Chief Talent Officer Summary</h2>
+                <div>${summaryText}</div>
+            `;
+
+            reportContent.innerHTML = fullHtml;
+        }
+
+        function setAgentLoading(isLoading) {
+            const loadingHtml = `
+                <div class="flex flex-col items-center justify-center h-full text-slate-400 space-y-3 p-6">
+                    <i class="ph ph-spinner animate-spin text-2xl"></i>
+                    <span class="text-xs italic">正在进行深度分析...</span>
+                </div>
+            `;
+            const waitingHtml = `
+                <div class="flex items-center justify-center h-full text-slate-400 text-xs italic">
+                    等待分析...
+                </div>
+            `;
+
+            const html = isLoading ? loadingHtml : waitingHtml;
+
+            [careerContentEl, techContentEl, projectContentEl, summaryContentEl].forEach(el => {
+                if (el) el.innerHTML = html;
+            });
+
+            if (keywordsContentEl) {
+                keywordsContentEl.innerHTML = isLoading
+                    ? '<div class="flex items-center gap-2 text-slate-400 text-xs italic"><i class="ph ph-spinner animate-spin"></i><span>关键词生成中...</span></div>'
+                    : '<div class="text-slate-400 text-xs italic">等待分析...</div>';
             }
         }
 
-        function scheduleRenderAnalysis() {
-            if (renderTimer) return;
-            renderTimer = window.setTimeout(() => {
-                renderTimer = null;
-                renderAnalysis();
-            }, 80);
+        function updateAgentContent(element, text) {
+            if (element) {
+                element.innerHTML = marked.parse(text || '无数据');
+            }
+        }
+
+        function extractStrictJsonObject(text) {
+            if (!text) return null;
+            let s = String(text).trim();
+            const fenceMatch = s.match(/```(?:json)?\s*([\s\S]*?)\s*```/i);
+            if (fenceMatch && fenceMatch[1]) s = fenceMatch[1].trim();
+            const start = s.indexOf('{');
+            const end = s.lastIndexOf('}');
+            if (start >= 0 && end > start) s = s.slice(start, end + 1).trim();
+            try {
+                const obj = JSON.parse(s);
+                if (!obj || typeof obj !== 'object' || Array.isArray(obj)) return null;
+                return obj;
+            } catch {
+                return null;
+            }
+        }
+
+        function splitKeywords(rawValue) {
+            const value = (rawValue ?? '').toString().trim();
+            return value
+                ? value.split(/[,，\n]/).map(v => v.trim()).filter(Boolean)
+                : [];
+        }
+
+        function formatKeywordsCompact(rawValue) {
+            const parts = splitKeywords(rawValue);
+            if (!parts.length) return '';
+            const shown = parts.slice(0, 3).join(' / ');
+            const more = parts.length > 3 ? ` …(+${parts.length - 3})` : '';
+            return `${shown}${more}`;
+        }
+
+        function renderKeywordChip(label, rawValue) {
+            const value = formatKeywordsCompact(rawValue) || '无';
+            const chip = document.createElement('span');
+            chip.className = 'inline-flex items-center gap-1 px-2 py-1 rounded-md bg-white border border-slate-200 text-xs text-slate-700 whitespace-nowrap';
+
+            const k = document.createElement('span');
+            k.className = 'text-slate-500';
+            k.textContent = `${label}:`;
+
+            const v = document.createElement('span');
+            v.className = 'text-slate-800';
+            v.textContent = value;
+
+            chip.appendChild(k);
+            chip.appendChild(v);
+            return chip;
+        }
+
+        function updateKeywordsContent(element, text) {
+            if (!element) return;
+            const obj = extractStrictJsonObject(text);
+            if (!obj) {
+                element.innerHTML = '<div class="text-slate-400 text-xs italic">未收到关键词数据。</div>';
+                return;
+            }
+
+            const techCore = obj.tech_core ?? '';
+            const careerPersona = obj.career_persona ?? '';
+            const engineeringTrait = obj.engineering_trait ?? '';
+
+            element.innerHTML = '';
+            element.appendChild(renderKeywordChip('tech_core', techCore));
+            element.appendChild(renderKeywordChip('career_persona', careerPersona));
+            element.appendChild(renderKeywordChip('engineering_trait', engineeringTrait));
+        }
+
+        function renderRepresentativeReposPage() {
+            if (!repReposListEl) return;
+
+            const total = Array.isArray(repReposState.repos) ? repReposState.repos.length : 0;
+            const pageSize = Math.max(1, Number(repReposState.pageSize) || 10);
+            const totalPages = Math.max(1, Math.ceil(total / pageSize));
+            const page = Math.min(Math.max(1, Number(repReposState.page) || 1), totalPages);
+            repReposState.page = page;
+
+            const startIndex = (page - 1) * pageSize;
+            const endIndex = Math.min(startIndex + pageSize, total);
+            const pageRepos = repReposState.repos.slice(startIndex, endIndex);
+
+            if (repReposPageInfoEl) {
+                repReposPageInfoEl.textContent = total
+                    ? `第 ${page}/${totalPages} 页 · ${startIndex + 1}-${endIndex} / ${total}`
+                    : '';
+            }
+            if (repReposPrevBtn) repReposPrevBtn.disabled = page <= 1;
+            if (repReposNextBtn) repReposNextBtn.disabled = page >= totalPages;
+
+            if (!total) {
+                repReposListEl.innerHTML = '<p class="text-sm text-slate-500">未找到代表仓库。</p>';
+                return;
+            }
+
+            const outer = document.createDocumentFragment();
+            pageRepos.forEach(r => {
+                const row = document.createElement('div');
+                row.className = 'flex items-center justify-between p-3 bg-white border border-slate-100 rounded-md';
+
+                const left = document.createElement('div');
+                left.className = 'flex items-start gap-3';
+                const meta = document.createElement('div');
+                const link = document.createElement('a');
+                link.className = 'font-medium text-slate-800 hover:underline';
+                link.href = r.html_url || '#';
+                link.target = '_blank';
+                link.rel = 'noopener';
+                link.textContent = (r.full_name || r.name || 'Unknown Repo');
+
+                const desc = document.createElement('div');
+                desc.className = 'text-xs text-slate-500';
+                desc.textContent = r.description || '';
+
+                meta.appendChild(link);
+                meta.appendChild(desc);
+                left.appendChild(meta);
+
+                const right = document.createElement('div');
+                right.className = 'text-sm text-slate-600 flex items-center gap-4';
+                const stars = document.createElement('div');
+                stars.innerHTML = `<i class="ph ph-star text-orange-500 mr-1"></i> ${r.stars || 0}`;
+                const forks = document.createElement('div');
+                forks.innerHTML = `<i class="ph ph-git-branch text-slate-400 mr-1"></i> ${r.forks || 0}`;
+                const score = document.createElement('div');
+                const scoreVal = Number(r.contribution_score || 0);
+                score.innerHTML = `<strong class="text-slate-800">${Number.isFinite(scoreVal) ? scoreVal.toFixed(2) : 0}</strong>`;
+                right.appendChild(stars);
+                right.appendChild(forks);
+                right.appendChild(score);
+
+                row.appendChild(left);
+                row.appendChild(right);
+                outer.appendChild(row);
+            });
+
+            repReposListEl.innerHTML = '';
+            repReposListEl.appendChild(outer);
         }
 
         async function startAnalyze(username) {
-            analysisFullText = '';
-            renderAnalysis();
-
             if (analyzeController) analyzeController.abort();
             analyzeController = new AbortController();
 
+            setAgentLoading(true);
+
             try {
-                if (searchBtn) searchBtn.disabled = true;
                 const response = await fetch(`/api/analyze/${username}`, { signal: analyzeController.signal });
+
                 if (!response.ok) {
-                    analysisFullText = `请求失败：${response.status}`;
-                    renderAnalysis();
+                    const errMsg = `请求失败：${response.status}`;
+                    [careerContentEl, techContentEl, projectContentEl, summaryContentEl, keywordsContentEl].forEach(el => {
+                        if (el) el.innerHTML = `<div class="text-red-500">${errMsg}</div>`;
+                    });
                     return;
                 }
 
-                if (!response.body) {
-                    analysisFullText = await response.text();
-                    renderAnalysis();
-                    return;
+                // Expecting full JSON response with answer_list
+                const data = await response.json();
+
+                // Parse answer_list from choices[0]
+                // Structure: choices[0].answer_list = [ {content: "...", ...}, ... ]
+                let agentsData = [];
+                if (data.choices && data.choices.length > 0 && data.choices[0].answer_list) {
+                    agentsData = data.choices[0].answer_list;
+                } else if (data.choices && data.choices.length > 0 && data.choices[0].message) {
+                    // Fallback if structure is different
+                    agentsData = [{ content: data.choices[0].message.content }];
                 }
 
-                const reader = response.body.getReader();
-                const decoder = new TextDecoder();
+                // Map to Cards (Indices based on observed order in intro.md)
+                // 0: Career Strategist
+                // 1: Tech Stack Evaluator
+                // 2: Project Analyst
+                // 3: Chief Talent Officer (Summary)
 
-                while (true) {
-                    const { done, value } = await reader.read();
-                    if (done) break;
-                    analysisFullText += decoder.decode(value, { stream: true });
-                    scheduleRenderAnalysis();
+                if (agentsData.length >= 1) updateAgentContent(careerContentEl, agentsData[0].content);
+                else updateAgentContent(careerContentEl, "未收到 Career Strategist 数据");
+
+                if (agentsData.length >= 2) updateAgentContent(techContentEl, agentsData[1].content);
+                else updateAgentContent(techContentEl, "未收到 Tech Stack Evaluator 数据");
+
+                if (agentsData.length >= 3) updateAgentContent(projectContentEl, agentsData[2].content);
+                else updateAgentContent(projectContentEl, "未收到 Project Analyst 数据");
+
+                if (agentsData.length >= 4) updateAgentContent(summaryContentEl, agentsData[3].content);
+                else if (agentsData.length === 1) {
+                    // If only one big message, put it in summary? Or try to split?
+                    // For now, if only 1 item, put it in summary
+                    updateAgentContent(summaryContentEl, agentsData[0].content);
+                    updateAgentContent(careerContentEl, "数据合并显示在总览中");
+                    updateAgentContent(techContentEl, "数据合并显示在总览中");
+                    updateAgentContent(projectContentEl, "数据合并显示在总览中");
+                } else {
+                    updateAgentContent(summaryContentEl, "未收到 Chief Talent Officer 总结数据");
                 }
-                analysisFullText += decoder.decode();
-                if (!analysisFullText.trim()) {
-                    analysisFullText = '分析返回为空，请稍后重试。';
+
+                if (agentsData.length >= 5) {
+                    const last = agentsData[agentsData.length - 1];
+                    updateKeywordsContent(keywordsContentEl, last && last.content);
+                } else {
+                    if (keywordsContentEl) {
+                        keywordsContentEl.innerHTML = '<div class="text-slate-400 text-xs italic">未收到关键词数据。</div>';
+                    }
                 }
-                renderAnalysis();
+
             } catch (err) {
                 if (err && err.name === 'AbortError') return;
-                analysisFullText = `审计失败：${err.message || String(err)}`;
-                renderAnalysis();
-            } finally {
-                if (searchBtn) searchBtn.disabled = false;
+                const errMsg = `分析中断：${err.message || String(err)}`;
+                [careerContentEl, techContentEl, projectContentEl, summaryContentEl, keywordsContentEl].forEach(el => {
+                    if (el) el.innerHTML = `<div class="text-red-500">${errMsg}</div>`;
+                });
             }
         }
 
@@ -614,6 +913,27 @@
                     handleSearch();
                 });
             });
+
+            if (repReposPageSizeEl) {
+                repReposPageSizeEl.addEventListener('change', () => {
+                    repReposState.pageSize = Number(repReposPageSizeEl.value) || 10;
+                    repReposState.page = 1;
+                    renderRepresentativeReposPage();
+                });
+                repReposState.pageSize = Number(repReposPageSizeEl.value) || 10;
+            }
+            if (repReposPrevBtn) {
+                repReposPrevBtn.addEventListener('click', () => {
+                    repReposState.page = Math.max(1, (Number(repReposState.page) || 1) - 1);
+                    renderRepresentativeReposPage();
+                });
+            }
+            if (repReposNextBtn) {
+                repReposNextBtn.addEventListener('click', () => {
+                    repReposState.page = (Number(repReposState.page) || 1) + 1;
+                    renderRepresentativeReposPage();
+                });
+            }
 
             const defaultUsername = document.getElementById('searchInput').value.trim() || 'cescoffier';
             loadProfile(defaultUsername);
@@ -1040,50 +1360,24 @@
             try {
                 const res = await fetch(`/api/representative/${username}`);
                 if (!res.ok) {
-                    document.getElementById('repReposList').innerHTML = '<p class="text-sm text-slate-500">无法获取代表仓库数据。</p>';
+                    if (repReposListEl) repReposListEl.innerHTML = '<p class="text-sm text-slate-500">无法获取代表仓库数据。</p>';
+                    if (repReposPageInfoEl) repReposPageInfoEl.textContent = '';
                     return;
                 }
                 const repos = await res.json();
                 if (!Array.isArray(repos) || repos.length === 0) {
-                    document.getElementById('repReposList').innerHTML = '<p class="text-sm text-slate-500">未找到代表仓库。</p>';
+                    repReposState.repos = [];
+                    repReposState.page = 1;
+                    renderRepresentativeReposPage();
                     return;
                 }
 
-                // Build HTML
-                const outer = document.createDocumentFragment();
-                repos.forEach(r => {
-                    const row = document.createElement('div');
-                    row.className = 'flex items-center justify-between p-3 bg-white border border-slate-100 rounded-md';
-
-                    const left = document.createElement('div');
-                    left.className = 'flex items-start gap-3';
-                    const meta = document.createElement('div');
-                    meta.innerHTML = `<a class="font-medium text-slate-800 hover:underline" href="${r.html_url}" target="_blank" rel="noopener">${r.full_name || r.name}</a>
-                        <div class="text-xs text-slate-500">${r.description || ''}</div>`;
-                    left.appendChild(meta);
-
-                    const right = document.createElement('div');
-                    right.className = 'text-sm text-slate-600 flex items-center gap-4';
-                    const stars = document.createElement('div');
-                    stars.innerHTML = `<i class="ph ph-star text-orange-500 mr-1"></i> ${r.stars || 0}`;
-                    const forks = document.createElement('div');
-                    forks.innerHTML = `<i class="ph ph-git-branch text-slate-400 mr-1"></i> ${r.forks || 0}`;
-                    const score = document.createElement('div');
-                    score.innerHTML = `<strong class="text-slate-800">${r.contribution_score || 0}</strong>`;
-                    right.appendChild(stars);
-                    right.appendChild(forks);
-                    right.appendChild(score);
-
-                    row.appendChild(left);
-                    row.appendChild(right);
-                    outer.appendChild(row);
-                });
-
-                const container = document.getElementById('repReposList');
-                container.innerHTML = '';
-                container.appendChild(outer);
+                repReposState.repos = repos;
+                repReposState.page = 1;
+                renderRepresentativeReposPage();
             } catch (e) {
-                document.getElementById('repReposList').innerHTML = '<p class="text-sm text-slate-500">加载代表仓库失败。</p>';
+                if (repReposListEl) repReposListEl.innerHTML = '<p class="text-sm text-slate-500">加载代表仓库失败。</p>';
+                if (repReposPageInfoEl) repReposPageInfoEl.textContent = '';
             }
         }
 

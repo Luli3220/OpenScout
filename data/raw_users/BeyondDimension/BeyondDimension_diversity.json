@@ -1,0 +1,39 @@
+{
+  "username": "BeyondDimension",
+  "raw_metrics": {
+    "distinct_languages": [
+      "C#",
+      "JavaScript",
+      "CSS"
+    ],
+    "distinct_topics": [
+      "xamarin",
+      "wpf",
+      "ios-app",
+      "webview2",
+      "android-app",
+      "steamtools",
+      "steam-api",
+      "avalonia",
+      "xaml",
+      "dotnet",
+      "dotnetcore",
+      "xamarin-bindings",
+      "steam",
+      "mvvm",
+      "macos-app",
+      "windows-app",
+      "crossplatform",
+      "linux-app",
+      "hybrid-apps",
+      "cross-platform",
+      "avaloniaui",
+      "csharp",
+      "xamarin-binding"
+    ],
+    "language_count": 3,
+    "topic_count": 23,
+    "total_owned_repos": 21
+  },
+  "diversity_score_100": 36.4
+}

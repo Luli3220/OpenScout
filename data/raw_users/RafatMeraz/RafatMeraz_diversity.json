@@ -1,0 +1,19 @@
+{
+  "username": "RafatMeraz",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "C++",
+      "Java",
+      "Ruby",
+      "PHP",
+      "Dart",
+      "Go"
+    ],
+    "distinct_topics": [],
+    "language_count": 7,
+    "topic_count": 0,
+    "total_owned_repos": 51
+  },
+  "diversity_score_100": 42.0
+}

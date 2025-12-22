@@ -1,0 +1,23 @@
+{
+  "username": "Marcos9868",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "Handlebars",
+      "Dockerfile",
+      "PHP",
+      "C#",
+      "Astro",
+      "JavaScript",
+      "TypeScript",
+      "Shell",
+      "CSS",
+      "Hack"
+    ],
+    "distinct_topics": [],
+    "language_count": 11,
+    "topic_count": 0,
+    "total_owned_repos": 100
+  },
+  "diversity_score_100": 60.0
+}

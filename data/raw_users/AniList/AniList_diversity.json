@@ -1,0 +1,23 @@
+{
+  "username": "AniList",
+  "raw_metrics": {
+    "distinct_languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "distinct_topics": [
+      "anilist",
+      "api",
+      "anime",
+      "graphql",
+      "documentation",
+      "anichart",
+      "manga",
+      "discord"
+    ],
+    "language_count": 2,
+    "topic_count": 8,
+    "total_owned_repos": 4
+  },
+  "diversity_score_100": 18.4
+}

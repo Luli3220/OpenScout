@@ -1,0 +1,34 @@
+{
+  "username": "CedricGuillemet",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "Python",
+      "C++",
+      "C",
+      "JavaScript",
+      "TypeScript",
+      "Shell"
+    ],
+    "distinct_topics": [
+      "github-config",
+      "gpu",
+      "shaders",
+      "texture",
+      "sdf",
+      "config",
+      "glsl",
+      "opengl",
+      "tools",
+      "procgen",
+      "games",
+      "imgui",
+      "tool",
+      "demoscene"
+    ],
+    "language_count": 7,
+    "topic_count": 14,
+    "total_owned_repos": 37
+  },
+  "diversity_score_100": 53.2
+}

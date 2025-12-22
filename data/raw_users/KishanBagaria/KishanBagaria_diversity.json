@@ -1,0 +1,49 @@
+{
+  "username": "KishanBagaria",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Visual Basic .NET",
+      "Python",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "distinct_topics": [
+      "cli-app",
+      "padding-oracle-attack",
+      "aes",
+      "llama",
+      "pac",
+      "localhost",
+      "userscripts",
+      "crypto",
+      "proxy",
+      "js-library",
+      "javascript",
+      "userscript",
+      "exploit",
+      "encryption",
+      "tampermonkey",
+      "domains",
+      "padding-oracle-attacks",
+      "decryption",
+      "poc",
+      "cipher-block-chaining",
+      "python",
+      "http-proxy",
+      "proxy-auto-config",
+      "deviantart",
+      "airdrop",
+      "padding-oracle",
+      "cryptography",
+      "greasemonkey",
+      "cbc",
+      "bookmarklet",
+      "network",
+      "ios"
+    ],
+    "language_count": 4,
+    "topic_count": 32,
+    "total_owned_repos": 7
+  },
+  "diversity_score_100": 49.6
+}

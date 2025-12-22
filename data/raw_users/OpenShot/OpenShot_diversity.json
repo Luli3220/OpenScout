@@ -1,0 +1,36 @@
+{
+  "username": "OpenShot",
+  "raw_metrics": {
+    "distinct_languages": [
+      "C++",
+      "Python"
+    ],
+    "distinct_topics": [
+      "videoeditor-sdk",
+      "audio",
+      "video",
+      "video-production",
+      "video-library",
+      "audio-processing",
+      "c-plus-plus",
+      "videoediting",
+      "gplv3",
+      "qt5",
+      "juce",
+      "audio-library",
+      "video-editing",
+      "openshot",
+      "video-effects",
+      "audio-effects",
+      "ffmpeg",
+      "python",
+      "juce-framework",
+      "lgplv3",
+      "video-processing"
+    ],
+    "language_count": 2,
+    "topic_count": 21,
+    "total_owned_repos": 4
+  },
+  "diversity_score_100": 28.8
+}

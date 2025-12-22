@@ -1,0 +1,16 @@
+{
+  "username": "SilverFire",
+  "raw_metrics": {
+    "distinct_languages": [
+      "PHP",
+      "Arduino",
+      "C",
+      "JavaScript"
+    ],
+    "distinct_topics": [],
+    "language_count": 4,
+    "topic_count": 0,
+    "total_owned_repos": 13
+  },
+  "diversity_score_100": 24.0
+}

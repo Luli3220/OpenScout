@@ -1,0 +1,36 @@
+{
+  "username": "DCjanus",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Python",
+      "Rust",
+      "Shell",
+      "C#",
+      "JavaScript",
+      "TypeScript",
+      "Makefile",
+      "Go"
+    ],
+    "distinct_topics": [
+      "subtitle",
+      "tokenizer",
+      "atom-feed",
+      "tantivy",
+      "redis",
+      "analysis",
+      "subtitle-downloader",
+      "rdb",
+      "rss",
+      "xunlei",
+      "full-text-search",
+      "cli",
+      "rust",
+      "third-party-libraries",
+      "command-line-tool"
+    ],
+    "language_count": 8,
+    "topic_count": 15,
+    "total_owned_repos": 21
+  },
+  "diversity_score_100": 60.0
+}

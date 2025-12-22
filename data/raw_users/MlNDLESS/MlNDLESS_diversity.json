@@ -1,0 +1,14 @@
+{
+  "username": "MlNDLESS",
+  "raw_metrics": {
+    "distinct_languages": [],
+    "distinct_topics": [
+      "github-config",
+      "config"
+    ],
+    "language_count": 0,
+    "topic_count": 2,
+    "total_owned_repos": 1
+  },
+  "diversity_score_100": 1.6
+}

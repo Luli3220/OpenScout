@@ -1,0 +1,29 @@
+{
+  "username": "Soulghost",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "Python",
+      "C++",
+      "Objective-C++",
+      "Rust",
+      "Java",
+      "JavaScript",
+      "Objective-C"
+    ],
+    "distinct_topics": [
+      "vulnerability",
+      "exploit",
+      "scanner",
+      "reverse-engineering",
+      "rendering",
+      "vulnerability-scanners",
+      "rust",
+      "ios"
+    ],
+    "language_count": 8,
+    "topic_count": 8,
+    "total_owned_repos": 28
+  },
+  "diversity_score_100": 54.4
+}

@@ -1,0 +1,14 @@
+{
+  "username": "Gazler",
+  "raw_metrics": {
+    "accepted_external_prs": 0,
+    "created_issues": 0,
+    "merged_external_pr_count_approx": 0,
+    "issue_comment_count": 1,
+    "pr_review_comment_count": 3,
+    "events_fetched": 23,
+    "merged_prs_with_stars": [],
+    "total_closed_external_prs": 1
+  },
+  "code_capability_score_100": 15.0
+}

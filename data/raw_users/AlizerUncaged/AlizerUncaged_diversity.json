@@ -1,0 +1,33 @@
+{
+  "username": "AlizerUncaged",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "Python",
+      "Java",
+      "C#",
+      "JavaScript",
+      "Jupyter Notebook",
+      "Less"
+    ],
+    "distinct_topics": [
+      "api",
+      "ai",
+      "chatbot",
+      "java",
+      "aimbot",
+      "vtuber",
+      "quiz-app",
+      "computer-vision",
+      "wpf",
+      "machine-learning",
+      "asp-net-core",
+      "asp-net",
+      "quiz-game"
+    ],
+    "language_count": 7,
+    "topic_count": 13,
+    "total_owned_repos": 60
+  },
+  "diversity_score_100": 52.4
+}

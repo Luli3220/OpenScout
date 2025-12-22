@@ -1,0 +1,31 @@
+{
+  "username": "AllenFang",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "Python",
+      "Java",
+      "Lua",
+      "JavaScript",
+      "TypeScript",
+      "Shell"
+    ],
+    "distinct_topics": [
+      "react",
+      "boilerplate",
+      "bootstrap-table",
+      "react-table",
+      "vue2",
+      "git",
+      "vue2-component",
+      "npm",
+      "lerna",
+      "table",
+      "docker"
+    ],
+    "language_count": 7,
+    "topic_count": 11,
+    "total_owned_repos": 25
+  },
+  "diversity_score_100": 50.8
+}

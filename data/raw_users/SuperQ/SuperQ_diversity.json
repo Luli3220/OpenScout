@@ -1,0 +1,22 @@
+{
+  "username": "SuperQ",
+  "raw_metrics": {
+    "distinct_languages": [
+      "C",
+      "Makefile",
+      "Python",
+      "Go"
+    ],
+    "distinct_topics": [
+      "latency",
+      "prometheus",
+      "monitoring-tool",
+      "smokeping",
+      "latency-monitor"
+    ],
+    "language_count": 4,
+    "topic_count": 5,
+    "total_owned_repos": 11
+  },
+  "diversity_score_100": 28.0
+}

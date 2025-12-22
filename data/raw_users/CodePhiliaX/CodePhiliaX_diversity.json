@@ -1,0 +1,37 @@
+{
+  "username": "CodePhiliaX",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "MDX",
+      "TypeScript"
+    ],
+    "distinct_topics": [
+      "oracle",
+      "dbeaver",
+      "redis",
+      "bi",
+      "text2sql",
+      "chatgpt",
+      "db2",
+      "clickhouse-client",
+      "clickhouse",
+      "database",
+      "postgresql",
+      "hive",
+      "mysql",
+      "navicat",
+      "ai",
+      "redis-client",
+      "datagrip",
+      "sqlserver",
+      "gpt"
+    ],
+    "language_count": 5,
+    "topic_count": 19,
+    "total_owned_repos": 11
+  },
+  "diversity_score_100": 45.2
+}

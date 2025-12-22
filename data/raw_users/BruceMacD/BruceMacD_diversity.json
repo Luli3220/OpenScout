@@ -1,0 +1,39 @@
+{
+  "username": "BruceMacD",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "Python",
+      "Swift",
+      "C#",
+      "C",
+      "JavaScript",
+      "MDX",
+      "Jupyter Notebook",
+      "TypeScript",
+      "Shell",
+      "Go"
+    ],
+    "distinct_topics": [
+      "llama2",
+      "vector-d",
+      "electron",
+      "milvus",
+      "chat",
+      "rag",
+      "llm",
+      "mistral-7b",
+      "macos",
+      "ollama",
+      "openai",
+      "chatgpt",
+      "embeddings",
+      "mistral",
+      "desktop"
+    ],
+    "language_count": 11,
+    "topic_count": 15,
+    "total_owned_repos": 22
+  },
+  "diversity_score_100": 72.0
+}

@@ -1,0 +1,14 @@
+{
+  "username": "Axcent-ape",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Shell",
+      "Python"
+    ],
+    "distinct_topics": [],
+    "language_count": 2,
+    "topic_count": 0,
+    "total_owned_repos": 35
+  },
+  "diversity_score_100": 12.0
+}

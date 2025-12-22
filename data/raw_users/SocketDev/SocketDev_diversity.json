@@ -1,0 +1,31 @@
+{
+  "username": "SocketDev",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Shell"
+    ],
+    "distinct_topics": [
+      "api",
+      "codequality",
+      "staticcodeanalysis",
+      "codeanalysis",
+      "sdk",
+      "socket",
+      "socket-app-install",
+      "dependency-management",
+      "security",
+      "cli",
+      "firewall",
+      "typescript",
+      "javascript"
+    ],
+    "language_count": 5,
+    "topic_count": 13,
+    "total_owned_repos": 31
+  },
+  "diversity_score_100": 40.4
+}

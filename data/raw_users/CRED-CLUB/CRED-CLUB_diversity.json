@@ -1,0 +1,44 @@
+{
+  "username": "CRED-CLUB",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Python",
+      "Lua",
+      "Swift",
+      "TypeScript",
+      "Smarty",
+      "Kotlin",
+      "Dart",
+      "Go"
+    ],
+    "distinct_topics": [
+      "3dbuttons",
+      "ui",
+      "package",
+      "swift5",
+      "android-library",
+      "framework",
+      "ui-components",
+      "styled-components",
+      "neumorphism",
+      "dart",
+      "system",
+      "design",
+      "flutter-ui",
+      "flutter",
+      "android",
+      "synth",
+      "cred",
+      "neopop",
+      "swift",
+      "react",
+      "ios",
+      "buttonkit",
+      "flutter-package"
+    ],
+    "language_count": 8,
+    "topic_count": 23,
+    "total_owned_repos": 13
+  },
+  "diversity_score_100": 66.4
+}

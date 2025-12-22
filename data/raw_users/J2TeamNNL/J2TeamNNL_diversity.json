@@ -1,0 +1,33 @@
+{
+  "username": "J2TeamNNL",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Java",
+      "PHP",
+      "JavaScript",
+      "TypeScript",
+      "CSS"
+    ],
+    "distinct_topics": [
+      "ajax",
+      "block-ads",
+      "facebook-graph-api",
+      "facebook-api",
+      "j2team-community",
+      "graph",
+      "facebook",
+      "curl",
+      "php",
+      "toolkit",
+      "chromium-extension",
+      "jquery",
+      "tools",
+      "tool",
+      "javascript"
+    ],
+    "language_count": 5,
+    "topic_count": 15,
+    "total_owned_repos": 11
+  },
+  "diversity_score_100": 42.0
+}

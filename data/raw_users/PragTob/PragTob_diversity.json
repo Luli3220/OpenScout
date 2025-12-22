@@ -1,0 +1,30 @@
+{
+  "username": "PragTob",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "Erlang",
+      "Crystal",
+      "CoffeeScript",
+      "Elixir",
+      "Rust",
+      "Ruby",
+      "JavaScript",
+      "TypeScript",
+      "Shell"
+    ],
+    "distinct_topics": [
+      "aspect-oriented-programming",
+      "merge",
+      "deepmerge",
+      "maps",
+      "ruby",
+      "keyword-lists",
+      "elixir"
+    ],
+    "language_count": 10,
+    "topic_count": 7,
+    "total_owned_repos": 66
+  },
+  "diversity_score_100": 65.6
+}

@@ -193,8 +193,8 @@ def main():
         print("Warning: config.json not found. Please create it in the root directory.")
         TOKEN = None
 
-    START_FOLLOWERS = 1000
-    LIMIT = 100 
+    START_FOLLOWERS = 500
+    LIMIT = 500 
     
     get_github_users_adaptive(
         start_followers=START_FOLLOWERS, 

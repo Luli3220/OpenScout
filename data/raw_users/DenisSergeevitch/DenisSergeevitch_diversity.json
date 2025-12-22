@@ -1,0 +1,14 @@
+{
+  "username": "DenisSergeevitch",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Python",
+      "JavaScript"
+    ],
+    "distinct_topics": [],
+    "language_count": 2,
+    "topic_count": 0,
+    "total_owned_repos": 9
+  },
+  "diversity_score_100": 12.0
+}

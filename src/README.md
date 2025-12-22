@@ -1,47 +1,94 @@
 # GitHub User Data Collection & Analysis
 
 ## 简介
-本项目包含两个核心 Python 脚本，旨在自动化收集 GitHub 活跃用户名单，并进一步抓取这些用户在 OpenDigger 上的详细开源分析数据。
+本目录包含一组 Python 脚本，用于批量收集 GitHub 用户名单，并进一步抓取这些用户在 GitHub / OpenDigger 上的指标数据，最终产出可用于分析与可视化的结构化 JSON 文件。
 
 ## 1. 核心代码
 
 ### `get_user_name.py` (获取用户名单)
-*   **功能**: 利用 GitHub Search API 批量抓取 GitHub 用户名。
-*   **特性**:
-    *   **自适应分段**: 自动将查询条件（如粉丝数）拆分为小区间（如 `followers:500..550`），突破 GitHub API 单次返回 1000 条的限制。
-    *   **断点续传**: 自动记录抓取进度（`fetch_state.json`），中断后可无缝继续。
-    *   **去重保存**: 实时去重并定期（每 500 条）保存到 JSON，防止数据丢失。
-    *   **防止死循环**: 智能处理超过 1000 条结果的密集区间。
+*   **作用**: 通过 GitHub Search API 按粉丝数区间 (`followers:min..max`) 抓取用户名列表，并自适应缩放区间以规避 Search API 的 1000 条结果上限。
+*   **主要输入**:
+    *   可选：项目根目录 `config.json` 中的 `github_token`（用于提升速率限制）
+    *   可选：已存在的 `data/users_list.json`（会自动加载并去重，起到“断点续跑”的效果）
+*   **主要输出**: `data/users_list.json`（JSON 数组：用户名字符串列表）
 
 ### `get_user_info.py` (获取详细数据)
-*   **功能**: 根据用户名单，批量获取 OpenDigger 的多维指标数据（OpenRank、Activity、Network 等）。
-*   **特性**:
-    *   **多线程并发**: 使用 `ThreadPoolExecutor` 加速抓取。
-    *   **可视化进度**: 集成 `tqdm` 进度条，实时展示抓取状态和剩余时间。
-    *   **智能过滤**: 自动剔除无效数据，只保留成功抓取的用户记录。
-    *   **增量抓取**: 自动跳过已存在的记录，支持多次运行补充数据。
+*   **作用**: 读取用户名单，批量抓取 OpenDigger 指标（当前包含 `openrank.json`、`activity.json`），并将成功结果汇总保存。
+*   **主要输入**: `data/users_list.json`
+*   **主要输出**: `data/macro_data/macro_data_results.json`（JSON 对象：`username -> {username, openrank, activity, status}`）
+
+### `get_all_metrics.py` (抓取 6 维原始指标数据)
+*   **作用**: 综合使用 GitHub API + OpenDigger API，为每个用户抓取并计算多维原始指标与 0-100 分数（影响力、贡献度、维护力、参与度、多样性、代码能力），并拆分为文件落盘。
+*   **主要输入**:
+    *   `data/users_list.json`
+    *   项目根目录 `config.json` 中的 `github_tokens`（数组）或环境变量 `GITHUB_TOKENS`（逗号分隔），用于轮询 Token
+    *   可选：`--refresh` 或环境变量 `REFRESH_DATA=1`（强制重抓，忽略已存在文件）
+*   **主要输出**: `data/raw_users/<username>/` 目录下的多个 JSON 文件，例如：
+    *   `<username>_influence.json`
+    *   `<username>_contribution.json`
+    *   `<username>_maintainership.json`
+    *   `<username>_engagement.json`
+    *   `<username>_diversity.json`
+    *   `<username>_code_capability.json`
+
+### `calculate_radar.py` (计算雷达图分数)
+*   **作用**: 读取 `data/raw_users/<username>/` 下的原始指标，进行对数变换 + 统计归一化，生成 6 维雷达分数（50-100 区间）。
+*   **主要输入**:
+    *   `data/users_list.json`
+    *   `data/raw_users/<username>/*_*.json`（由 `get_all_metrics.py` 生成）
+    *   可选：`--refresh` 或环境变量 `REFRESH_DATA=1`（忽略已有输出重新计算）
+*   **主要输出**: `data/radar_scores.json`（JSON 对象：`username -> [influence, contribution, maintainership, engagement, diversity, code_capability]`）
+
+### `fetch_representative_repos.py` (抓取代表仓库)
+*   **作用**: 为每个用户抓取其个人仓库列表，并对仓库计算一个代表性/贡献度分数（结合代码量、stars、forks、该用户在仓库中的贡献次数等），用于挑选“代表作”仓库。
+*   **主要输入**:
+    *   `data/users_list.json`
+    *   项目根目录 `config.json` 的 `github_token` / `github_tokens[0]` 或环境变量 `GITHUB_TOKEN`
+    *   可选：`--refresh` 或环境变量 `REFRESH_DATA=1`
+*   **主要输出**: `data/raw_users/<username>/representative_repos.json`（JSON 数组：仓库列表与打分、语言构成等字段）
+
+### `fetch_tech_stack_context.py` (抓取技术栈上下文)
+*   **作用**: 为每个用户选取其 star 最高的 3 个非 fork 仓库，抓取语言构成与关键工程文件（如 `package.json`、`go.mod`、`Dockerfile`、CI 配置等）的内容片段，形成用于“技术栈画像”的上下文数据。
+*   **主要输入**:
+    *   `data/users_list.json`
+    *   项目根目录 `config.json` 的 `github_tokens`（数组）或 `github_token`
+    *   可选：`--refresh` 或环境变量 `REFRESH_DATA=1`
+*   **主要输出**: `data/raw_users/<username>/tech_stack.json`（JSON 数组：Top3 仓库信息、语言构成、目标文件内容片段）
 
 ## 2. 如何运行
 
 ### 第一步：获取用户名单
 ```bash
-# 确保已安装 requests
-# 默认配置：从 500 粉丝开始，目标获取 6000 用户
+# 确保已安装 requests、tqdm
+# 默认配置：从 500 粉丝开始，目标获取 500 用户
 python get_user_name.py
 ```
-> 输出文件: `users_list.json`
+> 输出文件: `../data/users_list.json`
 
-### 第二步：获取详细数据
+### 第二步：抓取 OpenDigger 指标 (OpenRank & Activity)
 ```bash
-# 确保已安装 tqdm
-# 自动读取上一步生成的 users_list.json
+# 默认配置：从 users_list.json 读取用户名
 python get_user_info.py
 ```
-> 输出文件: `_users_info.json`
+> 输出文件: `../data/macro_data/macro_data_results.json`
 
-## 3. 文件结构
-*   `get_user_name.py`: 用户抓取脚本
-*   `get_user_info.py`: 数据详情抓取脚本
-*   `users_list.json`: (自动生成) 纯用户名的 JSON 列表
-*   `_users_info.json`: (自动生成) 包含详细指标的最终数据文件
-*   `fetch_state.json`: (自动生成) 用于记录抓取进度的状态文件
+### 第三步：抓取多维原始指标 (可选)
+```bash
+python get_all_metrics.py
+```
+> 输出目录: `../data/raw_users/<username>/`
+
+### 第四步：计算雷达分数 (可选)
+```bash
+python calculate_radar.py
+```
+> 输出文件: `../data/radar_scores.json`
+
+### 额外：代表仓库与技术栈上下文 (可选)
+```bash
+python fetch_representative_repos.py
+python fetch_tech_stack_context.py
+```
+> 输出文件: `../data/raw_users/<username>/representative_repos.json` 与 `../data/raw_users/<username>/tech_stack.json`
+
+

@@ -1,0 +1,40 @@
+{
+  "username": "jrief",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "C",
+      "Python",
+      "JavaScript"
+    ],
+    "distinct_topics": [
+      "rich-text-editor",
+      "stepper-form",
+      "forms",
+      "file-upload",
+      "dialog",
+      "datepicker",
+      "button-control",
+      "dual-listbox",
+      "slugify",
+      "phone-number",
+      "datetimepicker",
+      "datetimerangepicker",
+      "dark-mode",
+      "country-picker",
+      "daterangepicker",
+      "select2",
+      "form",
+      "calendar",
+      "python",
+      "django-admin",
+      "sorting",
+      "django",
+      "formsets"
+    ],
+    "language_count": 4,
+    "topic_count": 23,
+    "total_owned_repos": 27
+  },
+  "diversity_score_100": 42.4
+}

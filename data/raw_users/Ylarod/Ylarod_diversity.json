@@ -1,0 +1,35 @@
+{
+  "username": "Ylarod",
+  "raw_metrics": {
+    "distinct_languages": [
+      "C++",
+      "Python",
+      "Rust",
+      "Makefile",
+      "Java",
+      "Dockerfile",
+      "Swift",
+      "C",
+      "JavaScript",
+      "CMake",
+      "TypeScript",
+      "Shell"
+    ],
+    "distinct_topics": [
+      "obfuscation",
+      "android",
+      "obfuscator",
+      "kernel",
+      "bootimg",
+      "010editor-template",
+      "signal-trace",
+      "gki",
+      "llvm",
+      "module"
+    ],
+    "language_count": 12,
+    "topic_count": 10,
+    "total_owned_repos": 32
+  },
+  "diversity_score_100": 68.0
+}

@@ -1,0 +1,27 @@
+{
+  "username": "nstrayer",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "C++",
+      "Python",
+      "Rust",
+      "Jupyter Notebook",
+      "Astro",
+      "Stata",
+      "JavaScript",
+      "R",
+      "TypeScript",
+      "Shell",
+      "OpenEdge ABL",
+      "Go",
+      "CSS",
+      "Svelte"
+    ],
+    "distinct_topics": [],
+    "language_count": 15,
+    "topic_count": 0,
+    "total_owned_repos": 158
+  },
+  "diversity_score_100": 60.0
+}

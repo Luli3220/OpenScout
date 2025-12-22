@@ -1,0 +1,17 @@
+{
+  "username": "satazor",
+  "raw_metrics": {
+    "distinct_languages": [
+      "C++",
+      "Java",
+      "MDX",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "distinct_topics": [],
+    "language_count": 5,
+    "topic_count": 0,
+    "total_owned_repos": 16
+  },
+  "diversity_score_100": 30.0
+}

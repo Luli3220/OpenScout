@@ -1,0 +1,53 @@
+{
+  "username": "TGlide",
+  "raw_metrics": {
+    "distinct_languages": [
+      "SCSS",
+      "HTML",
+      "Python",
+      "C++",
+      "Nix",
+      "Dart",
+      "Java",
+      "Vue",
+      "Lua",
+      "Astro",
+      "C",
+      "JavaScript",
+      "GLSL",
+      "TypeScript",
+      "GDScript",
+      "Shell",
+      "CSS",
+      "Svelte"
+    ],
+    "distinct_topics": [
+      "fetch-wallpapers",
+      "reddit-api",
+      "sveltekit",
+      "reddit",
+      "wallpaper",
+      "svelte",
+      "vue",
+      "godot",
+      "tailwind",
+      "reddit-wallpaper-downloader",
+      "openai",
+      "game",
+      "typescript",
+      "javascript",
+      "chakra-ui",
+      "appwrite",
+      "zod",
+      "praw",
+      "python",
+      "code",
+      "pyqt5",
+      "react"
+    ],
+    "language_count": 18,
+    "topic_count": 22,
+    "total_owned_repos": 128
+  },
+  "diversity_score_100": 77.6
+}

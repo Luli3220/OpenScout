@@ -1,0 +1,17 @@
+{
+  "username": "novemberborn",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "JavaScript",
+      "CSS"
+    ],
+    "distinct_topics": [
+      "hacktoberfest"
+    ],
+    "language_count": 3,
+    "topic_count": 1,
+    "total_owned_repos": 47
+  },
+  "diversity_score_100": 18.8
+}

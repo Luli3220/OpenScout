@@ -1,0 +1,19 @@
+{
+  "username": "cipolleschi",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Java",
+      "Ruby",
+      "Swift",
+      "Kotlin",
+      "TypeScript",
+      "Objective-C",
+      "Shell"
+    ],
+    "distinct_topics": [],
+    "language_count": 7,
+    "topic_count": 0,
+    "total_owned_repos": 40
+  },
+  "diversity_score_100": 42.0
+}

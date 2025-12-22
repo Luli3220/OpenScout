@@ -1,0 +1,42 @@
+{
+  "username": "andrew-johnson-4",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "Rust",
+      "C",
+      "JavaScript",
+      "Makefile"
+    ],
+    "distinct_topics": [
+      "domain-specific-language",
+      "diagramming",
+      "dfa",
+      "automata",
+      "regex-engine",
+      "visual-programming",
+      "tutorial",
+      "neural-network",
+      "book",
+      "rust",
+      "language",
+      "category-theory",
+      "documentation",
+      "computer-science",
+      "lsts",
+      "reference",
+      "programming-language",
+      "compilers",
+      "lambda-calculus",
+      "modelling",
+      "data-structure",
+      "regex",
+      "algorithm",
+      "regex-parser"
+    ],
+    "language_count": 5,
+    "topic_count": 24,
+    "total_owned_repos": 18
+  },
+  "diversity_score_100": 49.2
+}

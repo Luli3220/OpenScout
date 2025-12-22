@@ -1,0 +1,44 @@
+{
+  "username": "ryuichiueda",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Python",
+      "Java",
+      "Jupyter Notebook",
+      "CMake",
+      "Makefile",
+      "Ruby",
+      "Arduino",
+      "Go",
+      "Haskell",
+      "C++",
+      "Dockerfile",
+      "Lua",
+      "TeX",
+      "Shell",
+      "Cuda",
+      "HTML",
+      "Roff",
+      "Rust",
+      "Awk",
+      "C",
+      "JavaScript"
+    ],
+    "distinct_topics": [
+      "ros",
+      "shell",
+      "gluelang",
+      "probabilistic-robotics",
+      "raspberry-pi-mouse",
+      "cli",
+      "raspberry-pi-ros",
+      "joke",
+      "julius",
+      "raspimouse-ros"
+    ],
+    "language_count": 21,
+    "topic_count": 10,
+    "total_owned_repos": 219
+  },
+  "diversity_score_100": 68.0
+}

@@ -1,0 +1,26 @@
+{
+  "username": "kirs",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Pascal",
+      "HTML",
+      "Objective-C",
+      "Rust",
+      "Clojure",
+      "Ruby",
+      "C",
+      "Emacs Lisp",
+      "Scala",
+      "JavaScript",
+      "PHP",
+      "Vim Script",
+      "Go",
+      "CSS"
+    ],
+    "distinct_topics": [],
+    "language_count": 14,
+    "topic_count": 0,
+    "total_owned_repos": 69
+  },
+  "diversity_score_100": 60.0
+}

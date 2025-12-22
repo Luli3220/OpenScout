@@ -1,0 +1,49 @@
+{
+  "username": "medyo",
+  "raw_metrics": {
+    "distinct_languages": [
+      "TypeScript",
+      "Java",
+      "Ruby",
+      "CSS"
+    ],
+    "distinct_topics": [
+      "producthunt",
+      "error-page",
+      "reddit",
+      "ui",
+      "tech-news",
+      "chrome-store",
+      "tech",
+      "empty-state",
+      "developer",
+      "loading-screen",
+      "github",
+      "states",
+      "devto",
+      "android-ui",
+      "events",
+      "conferences",
+      "data-scientist",
+      "firefox-addon",
+      "progress-bar",
+      "hacker-news",
+      "server",
+      "extension",
+      "stackoverflow",
+      "hackernews",
+      "trending",
+      "error-handling",
+      "error-pages",
+      "android",
+      "loading",
+      "chrome-extension",
+      "extension-chrome",
+      "state"
+    ],
+    "language_count": 4,
+    "topic_count": 32,
+    "total_owned_repos": 11
+  },
+  "diversity_score_100": 49.6
+}

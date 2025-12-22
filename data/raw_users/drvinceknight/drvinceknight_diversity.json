@@ -1,0 +1,34 @@
+{
+  "username": "drvinceknight",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "Python",
+      "Lua",
+      "TeX",
+      "JavaScript",
+      "Jupyter Notebook",
+      "Shell",
+      "OpenEdge ABL",
+      "CSS"
+    ],
+    "distinct_topics": [
+      "nash",
+      "jupyter-notebook",
+      "game-theory",
+      "game",
+      "python",
+      "students",
+      "computer-science",
+      "mathematics",
+      "notebook",
+      "automated-assessment",
+      "algorithm",
+      "equilibria"
+    ],
+    "language_count": 9,
+    "topic_count": 12,
+    "total_owned_repos": 120
+  },
+  "diversity_score_100": 63.6
+}

@@ -1,0 +1,15 @@
+{
+  "username": "jshier",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Objective-C",
+      "Ruby",
+      "Swift"
+    ],
+    "distinct_topics": [],
+    "language_count": 3,
+    "topic_count": 0,
+    "total_owned_repos": 30
+  },
+  "diversity_score_100": 18.0
+}

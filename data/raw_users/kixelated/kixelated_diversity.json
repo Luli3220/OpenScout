@@ -1,0 +1,22 @@
+{
+  "username": "kixelated",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Python",
+      "Rust",
+      "Ruby",
+      "TypeScript",
+      "JavaScript",
+      "Assembly",
+      "Vim Script",
+      "Shell",
+      "Go",
+      "CSS"
+    ],
+    "distinct_topics": [],
+    "language_count": 10,
+    "topic_count": 0,
+    "total_owned_repos": 26
+  },
+  "diversity_score_100": 60.0
+}

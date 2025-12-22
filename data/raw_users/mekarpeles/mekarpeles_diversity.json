@@ -1,0 +1,20 @@
+{
+  "username": "mekarpeles",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "Python",
+      "Java",
+      "C",
+      "Common Lisp",
+      "JavaScript",
+      "Shell",
+      "CSS"
+    ],
+    "distinct_topics": [],
+    "language_count": 8,
+    "topic_count": 0,
+    "total_owned_repos": 66
+  },
+  "diversity_score_100": 48.0
+}

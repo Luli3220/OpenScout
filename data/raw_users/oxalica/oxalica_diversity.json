@@ -1,0 +1,37 @@
+{
+  "username": "oxalica",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "C++",
+      "Python",
+      "Rust",
+      "JavaScript",
+      "Nix",
+      "Makefile"
+    ],
+    "distinct_topics": [
+      "ffi",
+      "cargo",
+      "lsp-server",
+      "onedrive",
+      "nix-flakes",
+      "nostd",
+      "nix",
+      "cloud",
+      "setjmp-longjmp",
+      "setjmp",
+      "async",
+      "linux",
+      "fuse",
+      "blockdevice",
+      "nixos",
+      "rust",
+      "nixpkgs"
+    ],
+    "language_count": 7,
+    "topic_count": 17,
+    "total_owned_repos": 45
+  },
+  "diversity_score_100": 55.6
+}

@@ -1,0 +1,14 @@
+{
+  "username": "thorwebdev",
+  "raw_metrics": {
+    "accepted_external_prs": 0,
+    "created_issues": 4,
+    "merged_external_pr_count_approx": 0,
+    "issue_comment_count": 0,
+    "pr_review_comment_count": 2,
+    "events_fetched": 50,
+    "merged_prs_with_stars": [],
+    "total_closed_external_prs": 0
+  },
+  "code_capability_score_100": 15.0
+}

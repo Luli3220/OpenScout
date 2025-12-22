@@ -1,0 +1,52 @@
+{
+  "username": "woidzero",
+  "raw_metrics": {
+    "distinct_languages": [
+      "TypeScript",
+      "SCSS",
+      "Python",
+      "PHP"
+    ],
+    "distinct_topics": [
+      "vscode-theme-dark",
+      "config",
+      "python3",
+      "vscode-theme",
+      "geometrydash",
+      "userstyles-themes",
+      "python-library",
+      "configuration-management",
+      "colors",
+      "python-package",
+      "colorization",
+      "css",
+      "php",
+      "spicetify-extensions",
+      "vscode-snippets",
+      "pypi-package",
+      "vscode-extension",
+      "pypi",
+      "configuration",
+      "userstyle",
+      "terminal",
+      "mysql",
+      "rich",
+      "console",
+      "spicetify",
+      "command-line",
+      "python",
+      "gdps",
+      "geometrydashprivateserver",
+      "core",
+      "snippets",
+      "vscode",
+      "pycord",
+      "discord",
+      "print"
+    ],
+    "language_count": 4,
+    "topic_count": 35,
+    "total_owned_repos": 12
+  },
+  "diversity_score_100": 52.0
+}

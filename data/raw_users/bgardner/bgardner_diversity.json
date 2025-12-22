@@ -1,0 +1,20 @@
+{
+  "username": "bgardner",
+  "raw_metrics": {
+    "distinct_languages": [
+      "PHP",
+      "HTML"
+    ],
+    "distinct_topics": [
+      "wordpress",
+      "wordpress-plugin",
+      "design",
+      "wordpress-theme",
+      "seo"
+    ],
+    "language_count": 2,
+    "topic_count": 5,
+    "total_owned_repos": 4
+  },
+  "diversity_score_100": 16.0
+}

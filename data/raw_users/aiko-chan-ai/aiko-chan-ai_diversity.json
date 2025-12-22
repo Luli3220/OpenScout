@@ -1,0 +1,45 @@
+{
+  "username": "aiko-chan-ai",
+  "raw_metrics": {
+    "distinct_languages": [
+      "TypeScript",
+      "HTML",
+      "JavaScript",
+      "Batchfile"
+    ],
+    "distinct_topics": [
+      "discord-selfbot",
+      "discordselfbot",
+      "file-converter",
+      "discord-client",
+      "mihoyo",
+      "node",
+      "markdown",
+      "selfbot",
+      "nova",
+      "discord-rpc",
+      "npm",
+      "color",
+      "npm-package",
+      "discordapp",
+      "css",
+      "discord-bot",
+      "discord-api",
+      "javascript",
+      "discord-js",
+      "discordjs",
+      "discord-bot-client",
+      "selfbot-discord",
+      "html",
+      "nodejs",
+      "discord-rich-presence",
+      "selfbot-for-discord",
+      "discord",
+      "nova-desktop"
+    ],
+    "language_count": 4,
+    "topic_count": 28,
+    "total_owned_repos": 14
+  },
+  "diversity_score_100": 46.4
+}

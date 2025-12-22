@@ -1,0 +1,18 @@
+{
+  "username": "undefined-moe",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "C++",
+      "Rust",
+      "JavaScript",
+      "TypeScript",
+      "CSS"
+    ],
+    "distinct_topics": [],
+    "language_count": 6,
+    "topic_count": 0,
+    "total_owned_repos": 19
+  },
+  "diversity_score_100": 36.0
+}

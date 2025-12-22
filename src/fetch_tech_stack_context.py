@@ -200,6 +200,12 @@ def main():
     with open(user_list_file, 'r', encoding='utf-8') as f:
         users = json.load(f)
         
+    import argparse
+    parser = argparse.ArgumentParser(add_help=False)
+    parser.add_argument('--refresh', action='store_true')
+    args, _ = parser.parse_known_args()
+    refresh = args.refresh or os.environ.get('REFRESH_DATA') in ('1', 'true', 'True')
+
     # Init Client
     client = GitHubAPIClient(tokens)
     
@@ -219,11 +225,10 @@ def main():
                 os.makedirs(user_dir)
                 
             output_file = os.path.join(user_dir, "tech_stack.json")
-            
-            # Skip if file already exists (optional, but good for resuming)
-            # if os.path.exists(output_file):
-            #     continue
-                
+            # Skip if file already exists unless refresh requested
+            if os.path.exists(output_file) and not refresh:
+                continue
+
             data = fetch_top_original_repos_context(client, user)
             
             with open(output_file, 'w', encoding='utf-8') as f:

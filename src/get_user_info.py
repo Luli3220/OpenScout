@@ -60,26 +60,21 @@ def fetch_user_data(username: str) -> Optional[Dict[str, Any]]:
         
     return user_data
 
-def batch_fetch(users: List[str], max_workers: int = 5, output_file: str = "./_users_info.json") -> Dict[str, Any]:
+def batch_fetch(users: List[str], max_workers: int = 5, output_file: str = "./_users_info.json", refresh: bool = False) -> Dict[str, Any]:
     """
     Fetch data for multiple users concurrently with progress bar and periodic saving.
     """
     results = {}
     
     # Load existing results if any, to avoid re-fetching (optional, but good practice)
-    if os.path.exists(output_file):
+    if not refresh and os.path.exists(output_file):
         try:
             with open(output_file, 'r', encoding='utf-8') as f:
                 results = json.load(f)
-                # Ensure results is a dict
                 if not isinstance(results, dict):
-                     # If it was a list or something else, reset or handle accordingly
-                     # For now, let's assume we start fresh or it's a dict
-                     if isinstance(results, list):
-                         # convert list to dict by username if possible, or just start fresh
-                         results = {} 
+                    results = {}
         except:
-            pass
+            results = {}
 
     # Filter out users already fetched
     users_to_fetch = [u for u in users if u not in results]
@@ -173,7 +168,14 @@ def main():
     print(f"Metrics to fetch: {', '.join(METRICS)}")
     
     start_time = time.time()
-    data = batch_fetch(user_list, MAX_WORKERS, OUTPUT_FILE)
+    # parse refresh flag
+    import argparse
+    parser = argparse.ArgumentParser(add_help=False)
+    parser.add_argument('--refresh', action='store_true')
+    args, _ = parser.parse_known_args()
+    refresh = args.refresh or os.environ.get('REFRESH_DATA') in ('1', 'true', 'True')
+
+    data = batch_fetch(user_list, MAX_WORKERS, OUTPUT_FILE, refresh=refresh)
     duration = time.time() - start_time
     
     print(f"\nCompleted in {duration:.2f} seconds.")

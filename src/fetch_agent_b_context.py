@@ -322,6 +322,12 @@ def main():
     with open(user_list_file, 'r', encoding='utf-8') as f:
         users = json.load(f)
         
+    import argparse
+    parser = argparse.ArgumentParser(add_help=False)
+    parser.add_argument('--refresh', action='store_true')
+    args, _ = parser.parse_known_args()
+    refresh = args.refresh or os.environ.get('REFRESH_DATA') in ('1', 'true', 'True')
+
     # Init Client
     client = GitHubAPIClient(tokens)
     
@@ -340,15 +346,18 @@ def main():
                 os.makedirs(user_dir)
                 
             output_file = os.path.join(user_dir, "agent_b_context.json")
-            
+            # Skip if exists and not refreshing
+            if os.path.exists(output_file) and not refresh:
+                continue
+
             context_str = fetch_agent_b_context(client, user)
-            
+
             # Save as JSON object
             data_to_save = {
                 "username": user,
                 "agent_b_context": context_str # Can be None
             }
-            
+
             with open(output_file, 'w', encoding='utf-8') as f:
                 json.dump(data_to_save, f, indent=2, ensure_ascii=False)
                 

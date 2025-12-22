@@ -126,6 +126,12 @@ def normal_cdf(x, mu, sigma):
     return 0.5 * (1 + math.erf(z / math.sqrt(2)))
 
 def main():
+    import argparse
+    parser = argparse.ArgumentParser(add_help=False)
+    parser.add_argument('--refresh', action='store_true')
+    args, _ = parser.parse_known_args()
+    refresh = args.refresh or os.environ.get('REFRESH_DATA') in ('1', 'true', 'True')
+
     print("Loading user list...")
     users = load_json(USERS_LIST_FILE)
     if not users:
@@ -134,6 +140,15 @@ def main():
 
     print(f"Processing {len(users)} users...")
     
+    # Load existing final output if any and not refreshing
+    existing_output = {}
+    if os.path.exists(OUTPUT_FILE) and not refresh:
+        try:
+            with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
+                existing_output = json.load(f)
+        except:
+            existing_output = {}
+
     # 1. Collect Raw Scores
     user_raw_scores = {} # username -> {dim: score}
     dimension_values = {
@@ -145,11 +160,13 @@ def main():
         "code_capability": []
     }
     
-    for user in users:
+    # Compute for all users (ensures stats include full population)
+    users_to_compute = users
+
+    for user in users_to_compute:
         metrics = get_raw_metrics(user)
         raw_scores = calculate_raw_scores(metrics)
         user_raw_scores[user] = raw_scores
-        
         for dim, val in raw_scores.items():
             dimension_values[dim].append(val)
 

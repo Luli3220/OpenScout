@@ -104,7 +104,7 @@ def process_user(username):
     user_dir = ensure_user_dir(username)
     # --- 核心修改：检测文件是否存在，存在则跳过 ---
     out_path = os.path.join(user_dir, 'representative_repos.json')
-    if os.path.exists(out_path):
+    if os.path.exists(out_path) and not globals().get('REFRESH', False):
         print(f'---> Skip: {username} (File already exists)')
         return
 
@@ -146,6 +146,14 @@ def process_user(username):
     print(f'DONE: Saved {username}')
 
 def main():
+    # parse refresh flag
+    import argparse
+    parser = argparse.ArgumentParser(add_help=False)
+    parser.add_argument('--refresh', action='store_true')
+    args, _ = parser.parse_known_args()
+    global REFRESH
+    REFRESH = args.refresh or os.environ.get('REFRESH_DATA') in ('1', 'true', 'True')
+
     users = list_users()
     for u in users:
         username = u.get('login') if isinstance(u, dict) else u

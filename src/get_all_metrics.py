@@ -18,7 +18,7 @@ CONFIG_FILE = os.path.join(ROOT_DIR, "config.json")
 USER_LIST_FILE = os.path.join(DATA_DIR, "users_list.json")
 BASE_USER_DATA_DIR = os.path.join(DATA_DIR, "raw_users")
 
-FORCE_UPDATE = True # Force re-fetch even if data exists
+FORCE_UPDATE = False # Force re-fetch even if data exists; can be set via --refresh or REFRESH_DATA
 
 # Load tokens from config.json
 TOKENS = []
@@ -377,6 +377,13 @@ def save_data(username, dimension, metrics, score):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 def main():
+    import argparse
+    parser = argparse.ArgumentParser(add_help=False)
+    parser.add_argument('--refresh', action='store_true', help='Force refresh all fetched metrics')
+    args, _ = parser.parse_known_args()
+    global FORCE_UPDATE
+    FORCE_UPDATE = args.refresh or os.environ.get('REFRESH_DATA') in ('1', 'true', 'True')
+
     if not os.path.exists(USER_LIST_FILE):
         print(f"User list file {USER_LIST_FILE} not found.")
         return

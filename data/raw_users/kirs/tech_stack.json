@@ -1,0 +1,45 @@
+[
+  {
+    "name": "kirs/pg_web_stats",
+    "stars": 97,
+    "description": "Web UI to view pg_stat_statements",
+    "languages_breakdown": {
+      "Ruby": 8208,
+      "HTML": 3746,
+      "Dockerfile": 346
+    },
+    "files": {
+      "Gemfile": "source 'https://rubygems.org'\n\n# Specify your gem's dependencies in pg_web_stats.gemspec\ngemspec\n",
+      "Dockerfile": "FROM ruby:2.5\n\nWORKDIR /pg_web_stats\n\nENV RACK_ENV=production\nCOPY Gemfile Gemfile.lock pg_web_stats.gemspec /pg_web_stats/\nRUN bundle install\n\nCOPY . /pg_web_stats/\nRUN mkdir /etc/pg_web_stats \\\n && ln -sf /etc/pg_web_stats/config.yml /pg_web_stats/config.yml\n\nEXPOSE 9292\nCMD [\"bundle\", \"exec\", \"rackup\", \"--host\", \"0.0.0.0\", \"--port\", \"9292\"]\n",
+      "README.md": "pg_web_stats\n============\n\n![](http://f.cl.ly/items/1M2D402O0E0c0p2Y461E/Screen%20Shot%202013-06-29%20at%2012.30.22.png)\n\nMountable Sinatra app to render [pg_stat_statements](http://www.postgresql.org/docs/9.2/static/pgstatstatements.html) in user friendly way. [![Code Climate](https://codeclimate.com/github/kirs/pg_web_stats.png)](https://codeclimate.com/github/kirs/pg_web_stats)\n\n<a href=\"https://evilmartians.com/\">\n<img src=\"https://evilmartians.com/badges/sponsored-by-evil-martians.svg\" alt=\"Sponsored by Evil Martians\" width=\"236\" height=\"54\"></a>\n\n### Features\n\n* Sorting by any column from pg_stat_statements\n* Filtering by database or user\n* Highlighting important queries && hidding not important queries\n\n## Installation\n\n0. Prepare your PG setup: enable the `pg_stat_statements` extension and execute `CREATE EXTENSION pg_stat_statements` inside the database you want to inspect. *Hint: there is an [awesome article about pg_stat_statements in russian](http://evtuhovich.ru/blog/2013/06/28/pg-stat-statements/#comment-945382408).*\n1. Clone the repo\n2. Fill `config.yml.example` with your credentians and save it as `config.yml`\n3. Start the app: `rake server` (or run `rake console` to have command line)\n4. ???\n5. PROFIT\n\n## Mount inside a rails app\n\nAdd this line to your application's Gemfile:\n\n    gem 'pg_web_stats', require: 'pg_web_stats_app'\n\nOr if gem is not released yet\n\n    gem 'pg_web_stats', git: 'https://github.com/shhavel/pg_web_stats', require: 'pg_web_stats_app'\n\nAnd then execute:\n\n    $ bundle\n\nCreate file config/initializers/pg_web_stats.rb\n\n```ruby\n# Configure database connection\nconfig_hash = YAML.load_file(Rails.root.join('config', 'database.yml'))[Rails.env]\nPG_WEB_STATS = PgWebStats.new(config_hash)\n\n# Restrict access to pg_web_stats with Basic Authentication\n# (or use any other authentication system).\nPgWebStatsApp.use(Rack::Auth::Basic) do |user, password|\n  password == \"secret\"\nend\n```\n\nAdd to routes.rb\n\n```ruby\nmount PgWebStatsApp, at: '/pg_stats'\n```\n\nRestart rails app and visit [http://localhost:3000/pg_stats](http://localhost:3000/pg_stats)\n\n<hr />\nMade by [Kir Shatrov](https://github.com/kirs), sponsored by [Evil Martians](http://evl.ms).\n\nThanks to [Ivan Evtuhovich](https://twitter.com/evtuhovich) for advice about making this app.\n"
+    }
+  },
+  {
+    "name": "kirs/hedonism",
+    "stars": 42,
+    "description": "Map with food recommendations, all over the world.",
+    "languages_breakdown": {
+      "JavaScript": 3656,
+      "Ruby": 1966,
+      "CSS": 1089,
+      "HTML": 992
+    },
+    "files": {
+      "README.md": "# Kir's travel tips\n\n![15826752_10210955414016316_5604299271961768961_n](https://cloud.githubusercontent.com/assets/522155/21998536/682e3c88-dc03-11e6-861f-59c8ac97785f.jpg)\n\nI travelled to more than 30 countries during the last few years.\n**I always make a note when someone tells me \"Oh, you should totally visit that restaurant in %city%\"**\n\nThis is a list of points of interest (cafes, restaurants, markets) sorted by cities.\nAn item included in the list doesn't guarantee it's worth visiting or that I've been there. It's up to you to check reviews on Yelp!\n\nPRs are welcome.\n"
+    }
+  },
+  {
+    "name": "kirs/rails-4-angular-sorcery",
+    "stars": 23,
+    "description": "Demo app with Rails 4 + Angular.js + Sorcery",
+    "languages_breakdown": {
+      "JavaScript": 639179,
+      "Ruby": 30084,
+      "CSS": 347
+    },
+    "files": {
+      "Gemfile": "source 'https://rubygems.org'\n\n# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'\ngem 'rails', '4.0.0'\n# gem \"devise\", \"~> 3.0.0.rc\"\ngem \"sorcery\", github: \"NoamB/sorcery\"\n\ngem 'sqlite3'\ngem \"bootstrap-sass\", \"~> 2.3.1.2\"\n\n# Use SCSS for stylesheets\ngem 'sass-rails', '~> 4.0.0'\n\n# Use Uglifier as compressor for JavaScript assets\ngem 'uglifier', '>= 1.3.0'\n\n# Use CoffeeScript for .js.coffee assets and views\ngem 'coffee-rails', '~> 4.0.0'\n\n# See https://github.com/sstephenson/execjs#readme for more supported runtimes\n# gem 'therubyracer', platforms: :ruby\n\n# Use jquery as the JavaScript library\ngem 'jquery-rails'\n\n# Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder\ngem 'jbuilder', '~> 1.0.1'\n\n# Use ActiveModel has_secure_password\n# gem 'bcrypt-ruby', '~> 3.0.0'\n\n# Use unicorn as the app server\n# gem 'unicorn'\n\n# Use Capistrano for deployment\n# gem 'capistrano', group: :development\n\n# Use debugger\n# gem 'debugger', group: [:development, :test]\n\n# Choose your favorite template engine.\ngem 'haml_coffee_assets'\ngem 'ng-rails-csrf'\n",
+      "README.md": "Almost clone of [angular-devise](https://github.com/karlfreeman/angular-devise), but with Rails 4.0 and Sorcery :)\n\nAn example Rails 4 app that uses a Angular.js UI for user signup, authentication, password retrieval and users list.\n\nFor now projects in build with: Rails 4.0, Angular 1.1.5, HAMLC templates and Sorcery.\n\nIf you want to see the source with plain templates (without HAMLC), checkout this commit: https://github.com/kirs/rails-4-angular-sorcery/tree/6c8ed8a6c7d02196d9fd89df2fa430a717fe3b04\n"
+    }
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "knu/elscreen",
+    "stars": 177,
+    "description": "elscreen patched to work with recent Emacs",
+    "languages_breakdown": {
+      "Emacs Lisp": 139349
+    },
+    "files": {}
+  },
+  {
+    "name": "knu/noreferrer",
+    "stars": 128,
+    "description": "Cross-browser support for HTML5's noreferrer link type.",
+    "languages_breakdown": {
+      "CoffeeScript": 4889,
+      "CSS": 53
+    },
+    "files": {
+      "README.md": "noreferrer.js\n=============\n\nCross-browser support for HTML5's noreferrer link type.\n\nHTML5 defines a new link type called \"noreferrer\" which may be used to\nannotate a hyperlink to indicate that a Referer (sic) header should\nnot be sent when following the link.\n\nThis is particularly useful when you want to put hyperlinks to\nexternal resources on your private site which URL should not be\nleaked.\n\nAt the time of writing, WebKit-based browsers such as Safari,\nMobileSafari, Chrome and Opera 15+ already support this feature but\nIE, Firefox and Opera 12- do not.\n\nThis package contains two variants of JavaScript implementations that\nadd the \"noreferrer\" link type to those browsers without native\nsupport.\n\nRequirements\n------------\n\n* noreferrer.js depends on:\n\n    * prototype.js 1.6 or later\n\n* jquery.noreferrer.js depends on:\n\n    * jQuery 1.2 or later\n\nCompatibility\n-------------\n\n* Chrome, Safari, MobileSafari, Opera 15+ and other WebKit-based\n  browsers\n\n    These have native support for noreferrer links, so noreferrer.js\n    does nothing.\n\n* IE 6+\n\n    noreferrer.js uses a simple meta refresh technique to suppress\n    Referer, plus disables opening a new window with middle clicking.\n\n* Opera 12-\n\n    There seems to be no way to prevent the browser from sending a\n    Referer header, so noreferrer.js replaces all noreferrer links\n    with those using Google's redirector.\n\n* Firefox and other browsers\n\n    noreferrer.js uses a data URI technique to suppress Referer, plus\n    disables opening a new window with middle clicking.\n\nUsage\n-----\n\nJust include either noreferrer.js or jquery.noreferrer.js, depending\non the JavaScript framework you are using, at the end of the <head>\npart of an HTML document, and an onload event handler is attached to\nenable the noreferrer trick for each link with the noreferrer rel\ntype.\n\n    <script type='text/javascript' src='noreferrer.js'></script>\n\nIt does not deal with dynamically created links at the moment.\n\nHistory\n-------\n\n* v0.1.3\n\n   * Bundled jquery.noreferrer.js.\n\n   * Make small optimizations.\n\nAuthor\n------\n\nAkinori MUSHA <<knu@idaemons.org>>\n\nLicense\n-------\n\nAll files except for ones under \"vendor\" are licensed under a 2-clause\nBSD license.\n\nSee LICENSE for the copyright information and license terms.\n"
+    }
+  },
+  {
+    "name": "knu/postgresql-plruby",
+    "stars": 117,
+    "description": "PL/Ruby procedural language for the PostgreSQL database system by Guy Decoux",
+    "languages_breakdown": {
+      "C": 252204,
+      "Ruby": 62200,
+      "C++": 20561
+    },
+    "files": {}
+  }
+]

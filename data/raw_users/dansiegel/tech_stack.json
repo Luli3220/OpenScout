@@ -1,0 +1,45 @@
+[
+  {
+    "name": "dansiegel/Mobile.BuildTools",
+    "stars": 226,
+    "description": "The Mobile.BuildTools makes it easier to develop code bases in a clean, consistent, secure, and configurable way. Determine at Build which environment your app needs to run on, and what Client Secrets it should have. Plus many more amazing features!",
+    "languages_breakdown": {
+      "C#": 710850,
+      "PowerShell": 2349,
+      "HTML": 896,
+      "TypeScript": 828,
+      "SCSS": 825,
+      "CSS": 708,
+      "Sass": 141,
+      "Shell": 47
+    },
+    "files": {
+      ".github/workflows/ci.yml": "name: CI\n\non:\n  push:\n    branches: [master]\n    paths:\n    - 'Directory.*'\n    - 'src/**'\n    - 'E2E/**'\n    - 'tests/**'\n\njobs:\n  build:\n    uses: avantipoint/workflow-templates/.github/workflows/msbuild-build.yml@master\n    with:\n      name: Build Mobile.BuildTools\n      solution-path: Mobile.BuildTools.sln\n      submodules: true\n      install-workload: 'maui macos maui-tizen'\n      vs-version: 17.12\n      code-sign: true\n    secrets:\n      codeSignKeyVault: ${{ secrets.CodeSignKeyVault }}\n      codeSignClientId: ${{ secrets.CodeSignClientId }}\n      codeSignTenantId: ${{ secrets.CodeSignTenantId }}\n      codeSignClientSecret: ${{ secrets.CodeSignClientSecret }}\n      codeSignCertificate: ${{ secrets.CodeSignCertificate }}\n\n  deploy-internal:\n    uses: avantipoint/workflow-templates/.github/workflows/deploy-nuget.yml@master\n    needs: build\n    if: ${{ github.event_name == 'push' }}\n    with:\n      name: Deploy Internal\n    secrets:\n      feedUrl: ${{ secrets.IN_HOUSE_NUGET_FEED }}\n      apiKey: ${{ secrets.IN_HOUSE_API_KEY }}\n\n  deploy-sponsors:\n    uses: avantipoint/workflow-templates/.github/workflows/deploy-nuget.yml@master\n    needs: build\n    if: ${{ github.event_name == 'push' }}\n    with:\n      name: Deploy Sponsor Connect\n    secrets:\n      feedUrl: ${{ secrets.SPONSOR_CONNECT_NUGET_FEED }}\n      apiKey: ${{ secrets.SPONSOR_CONNECT_TOKEN }}\n"
+    }
+  },
+  {
+    "name": "dansiegel/Prism.Plugin.Popups",
+    "stars": 190,
+    "description": "This provides extensibility for Prism.Forms INavigationService to handle Popup Views",
+    "languages_breakdown": {
+      "C#": 78494,
+      "HTML": 527
+    },
+    "files": {
+      ".github/workflows/ci.yml": "name: Prism.Plugin.Popups CI\n\non:\n  push:\n    branches: [ master ]\n    paths:\n      - \"samples/**\"\n      - \"src/**\"\n      - \"tests/**\"\n      - \"version.json\"\n      - \"Prism.Plugin.Popups.sln\"\n      - \".github/workflows/ci.yml\"\n  workflow_dispatch:\n\njobs:\n  build:\n    uses: avantipoint/workflow-templates/.github/workflows/dotnet-build.yml@master\n    with:\n      name: Prism.Plugin.Popups\n      solution-path: Prism.Plugin.Popups.sln\n      dotnet-version: 7.0.x\n      code-sign: true\n    secrets:\n      codeSignKeyVault: ${{ secrets.CodeSignKeyVault }}\n      codeSignClientId: ${{ secrets.CodeSignClientId }}\n      codeSignTenantId: ${{ secrets.CodeSignTenantId }}\n      codeSignClientSecret: ${{ secrets.CodeSignClientSecret }}\n      codeSignCertificate: ${{ secrets.CodeSignCertificate }}\n\n  deploy-internal:\n    uses: avantipoint/workflow-templates/.github/workflows/deploy-nuget.yml@master\n    needs: build\n    with:\n      name: Deploy Internal\n    secrets:\n      feedUrl: ${{ secrets.IN_HOUSE_NUGET_FEED }}\n      apiKey: ${{ secrets.IN_HOUSE_API_KEY }}\n\n  deploy-sponsors:\n    uses: avantipoint/workflow-templates/.github/workflows/deploy-nuget.yml@master\n    needs: build\n    with:\n      name: Deploy Sponsor Connect\n    secrets:\n      feedUrl: ${{ secrets.SPONSOR_CONNECT_NUGET_FEED }}\n      apiKey: ${{ secrets.SPONSOR_CONNECT_TOKEN }}\n"
+    }
+  },
+  {
+    "name": "dansiegel/Prism.Container.Extensions",
+    "stars": 128,
+    "description": "The packages here provide additional extensions around the Prism Ioc abstractions. This allows for more advanced scenarios.",
+    "languages_breakdown": {
+      "C#": 215350,
+      "PowerShell": 2605,
+      "HTML": 527
+    },
+    "files": {
+      "README.md": "﻿# Prism.Container.Extensions\n\nThe Prism Container Extensions provide various additional extensions making the Prism Container easier to use with IServiceCollection/IServiceProvider and in scenarios where you may require a Singleton container that may need to be initialized from Platform specific code prior to PrismApplication being created. Note that both the Prism.Container.Extensions and Prism.DryIoc.Extensions are platform agnostic meaning you can use them on WPF or Xamarin Forms.\n\nFor more information be sure to check out the docs at [prismplugins.com](https://prismplugins.com)\n\n| Stage | Status |\n|:-----:|--------|\n| Build Extensions | [![Build Status](https://dev.azure.com/dansiegel/Prism.Plugins/_apis/build/status/dansiegel.Prism.Container.Extensions?branchName=master&stageName=Build%20NuGet%20Packages&jobName=Build%20Container%20Extensions)](https://dev.azure.com/dansiegel/Prism.Plugins/_build/latest?definitionId=41&branchName=master) |\n| SponsorConnect Deploy | [![Build Status](https://dev.azure.com/dansiegel/Prism.Plugins/_apis/build/status/dansiegel.Prism.Container.Extensions?branchName=master&stageName=Deploy%20NuGets&jobName=SponsorConnect.org)](https://dev.azure.com/dansiegel/Prism.Plugins/_build/latest?definitionId=41&branchName=master) |\n| NuGet Deploy | [![Build Status](https://dev.azure.com/dansiegel/Prism.Plugins/_apis/build/status/dansiegel.Prism.Container.Extensions?branchName=master&stageName=Deploy%20NuGets&jobName=NuGet.org)](https://dev.azure.com/dansiegel/Prism.Plugins/_build/latest?definitionId=41&branchName=master) |\n\n## NuGet\n\nWant to consume the CI packages? Sign up as a [GitHub sponsor](https://xam.dev/sponsor-container-extensions) and you can access the Sponsor Connect private feed.\n\n| Package | NuGet | Sponsor Connect |\n|-------|:-----:|:------:|\n| Prism.Container.Extensions | [![Latest NuGet][ContainerExtensionsShield]][ContainerExtensionsNuGet] | [![Latest CI Package][ContainerExtensionsSponsorConnectShield]][ContainerExtensionsSponsorConnect] |\n| Prism.Forms.Extended | [![Latest NuGet][PrismFormsExtendedShield]][PrismFormsExtendedNuGet] | [![Latest CI Package][PrismFormsExtendedSponsorConnectShield]][PrismFormsExtendedSponsorConnect] |\n| Prism.DryIoc.Extensions | [![Latest NuGet][DryIocExtensionsShield]][DryIocExtensionsNuGet] | [![Latest CI Package][DryIocExtensionsSponsorConnectShield]][DryIocExtensionsSponsorConnect] |\n| Prism.Microsoft.DependencyInjection.Extensions | [![Latest NuGet][MsftDependencyInjectionExtensionsShield]][MsftDependencyInjectionExtensionsNuGet] | [![Latest CI Package][MsftDependencyInjectionExtensionsSponsorConnectShield]][MsftDependencyInjectionExtensionsSponsorConnect] |\n| Prism.Unity.Extensions | [![Latest NuGet][UnityExtensionsShield]][UnityExtensionsNuGet] | [![Latest CI Package][UnityExtensionsSponsorConnectShield]][UnityExtensionsSponsorConnect] |\n| Shiny.Prism | [![Latest NuGet][ShinyPrismShield]][ShinyPrismNuGet] | [![Latest CI Package][ShinyPrismSponsorConnectShield]][ShinyPr\n... (truncated)"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "jshier/CocoaHeadsBluetooth",
+    "stars": 15,
+    "description": "An app to demonstrate some of the capabilities of the CoreBluetooth framework on iOS.",
+    "languages_breakdown": {
+      "Swift": 14566
+    },
+    "files": {
+      "README.md": "# CocoaHeadsBluetooth\nAn app to demonstrate some of the capabilities of the CoreBluetooth framework on iOS. It must run on a real device, so you must provide your own provisioning profile and signing identity. Requires Xcode 7.1.\n"
+    }
+  },
+  {
+    "name": "jshier/Dragonfly",
+    "stars": 7,
+    "description": "A Swift MQTT client using Network.framework.",
+    "languages_breakdown": {
+      "Swift": 105179
+    },
+    "files": {
+      "README.md": "# Dragonfly\nA Swift MQTT client using Network.framework.\n"
+    }
+  },
+  {
+    "name": "jshier/SwiftyNotificationCenter",
+    "stars": 5,
+    "description": "A Swifty wrapper for NSNotificationCenter. No more stringly notifications. ",
+    "languages_breakdown": {
+      "Swift": 17688,
+      "Ruby": 6990,
+      "Objective-C": 598
+    },
+    "files": {
+      "Gemfile": "source \"https://rubygems.org\"\n\ngem 'fastlane'\n",
+      "README.md": "[![Build Status](https://travis-ci.org/jshier/SwiftyNotificationCenter.svg?branch=master)](https://travis-ci.org/jshier/SwiftyNotificationCenter)\n\n# SwiftyNotificationCenter\nA Swifty wrapper for NSNotificationCenter. No more stringly notifications. \n"
+    }
+  }
+]

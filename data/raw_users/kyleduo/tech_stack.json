@@ -1,0 +1,39 @@
+[
+  {
+    "name": "kyleduo/SwitchButton",
+    "stars": 4749,
+    "description": "A cute widget of Switch Button for  you to create beautiful and friendly UI.",
+    "languages_breakdown": {
+      "Java": 66530
+    },
+    "files": {
+      "README.md": "\nSwitchButton\n============\n\n[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SwitchButton-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1119)\n\n**To get a quick preview, you can get Demo apk in [Google Play](https://play.google.com/store/apps/details?id=com.kyleduo.switchbutton.demo) or [Directly download](./demo/switchbutton_demo_200.apk).**\n\nThis project provides you a convenient way to use and customise a SwitchButton widget in Android.\n\n***\n\n\nChange Log\n---\n\n[All Change Log](./CHANGELOG.md)\n\n**Some attributes are changed in 2.0.0 and you need to update them to the new ones, since the measurement logic has been totally changed. (Default behavior and style does not change.)**\n\n**因为2.0.0测量逻辑的改变，部分属性已经做了修改，请更新到新的属性。（默认行为和样式并没有变化）**\n\n> 1.  Re-clarify the meaning of some params.\n> 2.  Update the measurement of SwitchButton and the logic becomes more clear, especially the text part.\n> 3.  Support config SwitchButton's size by setting a exact width and height. There are now TWO mainly method to control it's size.\n> 4.  When use SwitchButon in a scrollable view, SwitchButton consume scroll gestures only horizontal. This means the when you want to scroll the scrollable view vertically and start your touch on a SwitchButton, it will not stop you now.\n> 5.  Bug fix.\n\n>1.  重新明确了参数的含义。\n>2.  更新了SwitchButton的测量机制，逻辑更加清晰；尤其是文字部分。\n>3.  支持设置确定的宽高，来确定SwitchButton的View大小。现在有两种方式可以控制SwitchButton的大小了。\n>4.  可滚动的View中的SwitchButton只会消费横向滚动事件。这意味着你可以从SwitchButton开始按下并纵向滚动可滚动View，SwitchButton现在不会阻止你滚动了。\n>5.  Bug 修复。\n\n\nUsing SwitchButton in your application\n---\n\n**In Gradle**\n​\t\nAdd dependencies in build.gradle of your module\n\n```groovy\ndependencies {\n    implementation 'com.kyleduo.switchbutton:library:2.1.0'\n}\n```\n\n> Version 2.1.0 can be pulled from `mavenCentral()`\n\n#### Migrate to 2.0.0 (迁移到2.0.0)\n\n**ENG**\n\n**There is a big diagram below to show how SwitchButton measure it self in 2.0.0. It is strongly recommended that you should check it out.**\n\n1.  **kswBackMeasureRatio** has been removed from SwitchButton attributes since it has an ambiguous meaning. I've add the new **kswThumbRangeRatio** attribute to represent how much multiple the scroll range of thumb than the width of thumb.\n2.  **kswTextMarginH** and **kswAutoAdjustTextPosition** have been removed from SwitchButton attributes since I updated the measurement logic of text part. And these two attributes do not represent the back meaning well. **kswTextThumbInset**, **kswTextExtra** and **kswTextAdjust** was introduced to represent \"how much the text go under thumb\", \"how much extra space do you want around the text\" and \"how much to move the text from the center of text area to adjust the text's position\". There are all shown on the diagram.\n3.  Setters and getters are also changed due to the change of attributes.\n\n**CHN**\n\n下面有一张图表来解释SwitchButton在2.0.0版本中是如何进行测量的，非常建议你看一看。\n\n1.  **kswBackMeasureRatio** 属性被移除了，因为名称有歧义。新增加的 **kswThumbRangeRatio** 属性表示thumb移动区域和thumb宽度的比值。\n2. \n... (truncated)"
+    }
+  },
+  {
+    "name": "kyleduo/TinyPNG4Mac",
+    "stars": 3958,
+    "description": "Native client of TinyPNG on macOS",
+    "languages_breakdown": {
+      "Swift": 104120,
+      "Shell": 764
+    },
+    "files": {
+      "README.md": "# Tiny Image\n\n>  The App's name is renamed to Image Image for property sake, since previous name contains TinyPNG and macOS.\n\n![preview](./preview/banner.png)\n\n\n\nTinyPNG for macOS is a 3rd-party client of [TinyPNG](https://tinypng.com). With which you can compress images without opening browser.\n\n[中文](./README_ZH.md)\n\n### 2.2.1 Release Note\n\n> Version 2.0.0+ supports macOS 13 Ventura and later. For lower version systems, please use the previous version.\n\n1. Support format converting. Convert image to specific format or automatically pick the smallest one in supported format list (PNG, JPEG, AVIF, WEBP).\n2. Add cache for number of image compressed.\n\n[Change Log](./CHANGE_LOG.md)\n\n\n\n### Usage\n\n1. Register an **API key** at [link](https://tinypng.com/developers).\n2. Paste your API key to `Settings` window. (You can edit it when you need to)\n3. Drag images or directories containing images to the window.\n\n\n\n### Download\n\nThrough [Release Page](https://github.com/kyleduo/TinyPNG4Mac/releases)\n\nCheck  `System Settings -> Security & privacy` page if you can not open this app.\n\n\n\n### Thanks\n\n[droptogif](https://github.com/mortenjust/droptogif) -- A very useful client for convert video to gif. I learnt how to create window from that project.\n\n\n\n### Licenses\n\nDeveloped by [@kyleduo](https://github.com/kyleduo) and available under the [MIT](http://opensource.org/licenses/MIT) license.\n"
+    }
+  },
+  {
+    "name": "kyleduo/ExamplesFromMyBlog",
+    "stars": 147,
+    "description": "Source code of by blog. A set of demo project from my blog.",
+    "languages_breakdown": {
+      "Objective-C": 175328,
+      "Java": 82873,
+      "Shell": 7953,
+      "Ruby": 258
+    },
+    "files": {
+      "README.md": "# ExamplesFromMyBlog\n\nThis Repository contains source code of some demos in my blog. -->  [https://kyleduo.com](https://kyleduo.com)\n\n### [Digging] 支付宝首页交互\n\n![alipay](preview/alipay.png)\n\n### [Digging] Android Translucent Status Bar\n\nHow to implement perfect translucent bar in >= 4.4 and why.\n\n![cover](https://static.kyleduo.com/blog/image/digging-translucentstatusbar/cover.png)\n\n\n\n\n\n### ExchangeFragment\n\nExchange fragment in FragmentTabHost.\n\n[Link](https://blog.kyleduo.com/2016/04/14/exchange-fragment-in-fragmenttabhost/)\n\nPreview:\n\n![Preview](./preview/ExchangeFragment.gif)\n\n"
+    }
+  }
+]

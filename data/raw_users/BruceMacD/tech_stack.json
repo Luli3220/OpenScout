@@ -1,0 +1,38 @@
+[
+  {
+    "name": "BruceMacD/chatd",
+    "stars": 1077,
+    "description": "Chat with your documents using local AI",
+    "languages_breakdown": {
+      "JavaScript": 42672,
+      "CSS": 5845,
+      "HTML": 3773
+    },
+    "files": {
+      "package.json": "{\n  \"name\": \"chatd\",\n  \"productName\": \"chatd\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Chat with your documents using local AI\",\n  \"main\": \"src/index.js\",\n  \"scripts\": {\n    \"start\": \"electron-forge start\",\n    \"package\": \"electron-forge package\",\n    \"make\": \"electron-forge make\",\n    \"publish\": \"electron-forge publish\",\n    \"lint\": \"echo \\\"No linting configured\\\"\"\n  },\n  \"keywords\": [],\n  \"author\": \"BruceMacD\",\n  \"license\": \"MIT\",\n  \"dependencies\": {\n    \"@opendocsg/pdf2md\": \"^0.1.28\",\n    \"@orama/orama\": \"^2.0.7\",\n    \"@xenova/transformers\": \"^2.6.2\",\n    \"electron-squirrel-startup\": \"^1.0.0\",\n    \"langchain\": \"^0.0.170\",\n    \"mammoth\": \"^1.6.0\",\n    \"odt2html\": \"^1.0.1\",\n    \"ollama\": \"^0.4.6\",\n    \"winston\": \"^3.11.0\"\n  },\n  \"devDependencies\": {\n    \"@electron-forge/cli\": \"^6.1.1\",\n    \"@electron-forge/maker-deb\": \"^6.1.1\",\n    \"@electron-forge/maker-rpm\": \"^6.1.1\",\n    \"@electron-forge/maker-squirrel\": \"^6.1.1\",\n    \"@electron-forge/maker-zip\": \"^6.1.1\",\n    \"electron\": \"^24.1.1\"\n  }\n}\n",
+      "README.md": "<div align=\"center\">\n    <img src=\"./screenshots/logo.png\" width=\"300\">\n</div>\n\n[See a video demo.](https://github.com/BruceMacD/chatd/assets/5853428/a7d8b77c-beae-41a4-bfd6-0fd5cf932b43)\n\nChat with your documents using local AI. All your data stays on your computer and is never sent to the cloud. Chatd is a completely private and secure way to interact with your documents.\n\nChatd is a desktop application that lets you use a local large language model (`Mistral-7B`) to chat with your documents. What makes chatd different from other \"chat with local documents\" apps is that it comes with the local LLM runner packaged in. This means that you don't need to install anything else to use chatd, just run the executable.\n\nChatd uses Ollama to run the LLM. Ollama is an LLM server that provides a cross-platform LLM runner API. If you already have an Ollama instance running locally, chatd will automatically use it. Otherwise, chatd will start an Ollama server for you and manage its lifecycle.\n\n<div align=\"center\">\n    <img src=\"./screenshots/chat_screen.png\" width=\"30%\"></img>\n    <img src=\"./screenshots/welcome_screen.png\" width=\"30%\"></img>\n    <img src=\"./screenshots/home_screen.png\" width=\"30%\"></img>\n</div>\n\n## Quickstart\n\n1. Download the latest release from [chatd.ai](https://chatd.ai) or the [releases page](https://github.com/BruceMacD/chatd/releases).\n2. Unzip the downloaded file.\n3. Run the `chatd` executable.\n\n## Advanced Setup\n\n- [Enable GPU support.](docs/enable_gpu_support.md)\n- [Select a custom model.](docs/select_a_custom_model.md)\n\n## Links\n\n- [chatd.ai](https://chatd.ai)\n- [ollama.ai](https://ollama.ai)\n\n## Development\n\nRun the following commands in the root directory.\n\n```bash\nnpm install\nnpm run start\n```\n\n## Packaging and Distribution\n\n### MacOS\n\n1. Download the latest `ollama-darwin` release for MacOS from [here](https://github.com/ollama/ollama/releases).\n2. Make the downloaded binary executable: `chmod +x path/to/ollama-darwin`\n3. Copy the `ollama-darwin` executable to the `chatd/src/service/ollama/runners` directory.\n4. Optional: The Electron app needs be signed to be able to run on MacOS systems other than the one it was compiled on, so you need a developer certificate. To sign the app, set the following environment variables:\n\n```bash\nAPPLE_ID=your_apple_id@example.com\nAPPLE_IDENTITY=\"Developer ID Application: Your Name (ABCDEF1234)\"\nAPPLE_ID_PASSWORD=your_apple_id_app_specific_password\nAPPLE_TEAM_ID=ABCDEF1234\n```\n\nYou can find your Apple ID, Apple Team ID, and Apple ID Application in your Apple Developer account. You can create an app-specific password [here](https://appleid.apple.com/account/manage).\n\n5. Run `npm run package` to package the app.\n\n### Windows\n\n1. Download the latest `ollama-windows-amd64.zip` release from [here](https://github.com/ollama/ollama/releases).\n2. Copy the contents of the zip into `chatd/src/service/ollama/runners/`.\n3. Run `npm run package` to package the app.\n\nNote: The Windows app is not signed, so y\n... (truncated)"
+    }
+  },
+  {
+    "name": "BruceMacD/Adversarial-Faces",
+    "stars": 137,
+    "description": "Testing the effectiveness of practical implementations of adversarial examples against facial recognition.",
+    "languages_breakdown": {
+      "Python": 5024
+    },
+    "files": {
+      "README.md": "# Adversarial-Faces\n\n![mock mask](https://raw.githubusercontent.com/BruceMacD/Adversarial-Faces/master/data/mock_mask.png)\n\nTesting the effectiveness of practical implementations of adversarial examples against facial recognition.\n\nCheck out the accompanying blog: https://medium.com/@brucewmacdonald/fooling-facial-detection-with-fashion-d668ed919eb\n\n## Dependencies\n\n    OpenCV v3.0+\n    PIL (Pillow)\n    dlib\n    mlrose\n    numpy\n    Python 3\n\n\n### * Featured in the Museum of Technology (Vienna) in an exhibition on robotics and artificial intelligence, November 2020\n"
+    }
+  },
+  {
+    "name": "BruceMacD/Face-Swap-OpenCV",
+    "stars": 16,
+    "description": "A basic face-swap implementation using OpenCV and dlib.",
+    "languages_breakdown": {
+      "Python": 15778
+    },
+    "files": {
+      "README.md": "# Face-Swap-OpenCV\n![face swap sample](https://raw.githubusercontent.com/BruceMacD/Face-Swap-OpenCV/master/images/face_swapped.png)\n\nThis is a basic face-swap implementation using OpenCV. Check out the code for a step-by-step explanation.\n\n## Usage\n./face_swap.py -i <data/input1.jpg> -i <data/input2.jpg>\n\n```\n./face_swap.py -i data/headshot1.jpg -i data/headshot2.jpg\n```\n\n## Requirements\n* OpenCV v3.0+\n* numpy\n* dlib (for the landmark detection)\n* Python 3\n\n## Sources\nBased on the work of Satya Mallick\n\nhttps://www.learnopencv.com/face-swap-using-opencv-c-python/\n\nFacial landmarks\n\nhttps://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/\n\nHead shot 1\n\nhttps://www.pexels.com/photo/adult-attractive-beautiful-beauty-415829/\n\nHead shot 2\n\nhttps://www.pexels.com/photo/man-wearing-black-zip-up-jacket-near-beach-smiling-at-the-photo-736716/\n\n![delauney triangulation](https://github.com/BruceMacD/Face-Swap-OpenCV/blob/master/images/delauney_landmarks.png)\n"
+    }
+  }
+]

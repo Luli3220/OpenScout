@@ -1,0 +1,41 @@
+[
+  {
+    "name": "trulymittal/API-Authentication-NodeJs",
+    "stars": 227,
+    "description": "API Authentication using JWT's (JSON Web Tokens). Plug n Play inside any app which requires authentication. NodeJs Express MongoDB & Redis.",
+    "languages_breakdown": {
+      "JavaScript": 9356,
+      "Shell": 240
+    },
+    "files": {
+      "package.json": "{\n  \"name\": \"Auth_tutorial\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"start\": \"nodemon app.js\"\n  },\n  \"keywords\": [],\n  \"author\": \"\",\n  \"license\": \"ISC\",\n  \"dependencies\": {\n    \"@hapi/joi\": \"^17.1.1\",\n    \"bcrypt\": \"^5.0.0\",\n    \"dotenv\": \"^8.2.0\",\n    \"express\": \"^4.17.1\",\n    \"http-errors\": \"^1.7.3\",\n    \"jsonwebtoken\": \"^8.5.1\",\n    \"mongoose\": \"^5.9.19\",\n    \"morgan\": \"^1.10.0\",\n    \"nodemon\": \"^2.0.4\",\n    \"redis\": \"^3.0.2\"\n  }\n}\n",
+      "README.md": "# API Authentication using NodeJs\n\nThis is an Authentication API using JWT's that you can plug inside your current project or you can start with a new one. Email & Password is used for authentication.\n\nThe API based on Node.js, Express, MongoDB & Redis, following the **MVC pattern** i.e. Model ~~View~~ Controller.\n\n**Mongoose** is used for storing Users in Database.\n**Redis** is used for storing Refresh Tokens - to validate them as well at the same time Blacklisting them.\n\nThe application is **production ready**.\n\n---\n\n## To start setting up the project\n\nStep 1: Clone the repo\n\n```bash\ngit clone https://github.com/trulymittal/API-Authentication-NodeJs.git\n```\n\nStep 2: cd into the cloned repo and run:\n\n```bash\nnpm install\n```\n\nStep 3: Put your credentials in the .env file.\n\n```bash\nPORT=3000\nMONGODB_URI=mongodb://localhost:27017\nDB_NAME=YOUR_DB_NAME\nACCESS_TOKEN_SECRET=GENERATE_FROM_GENERATE_KEYS_FILE_IN_HELPER\nREFRESH_TOKEN_SECRET=GENERATE_FROM_GENERATE_KEYS_FILE_IN_HELPER\n```\n\nStep 4: To generate 256-bit keys for JWT\n\n```bash\nnode ./helpers/generate_keys.js\n```\n\nStep 5: Install Redis (Linux Ubuntu)\n\n```bash\nsudo apt-get install redis-server\n```\n\nStep 6: Run Redis Server (Linux Ubuntu)\n\n```bash\nredis-server\n```\n\nStep 7: Install MongoDB (Linux Ubuntu)\n\nSee <https://docs.mongodb.com/manual/installation/> for more infos\n\nStep 8: Run Mongo daemon\n\n```bash\nsudo service mongod start\n```\n\nStep 9: Start the API by\n\n```bash\nnpm start\n```\n\nStep 10 (Optional): Change the expiration time of Access Token and Refresh Token according to your needs by going inside the **`./helpers/jwt_helper.js`** file.\n\n## Author\n\n- [**Truly Mittal**](https://trulymittal.com)\n\n## Contribute\n\nYou can fork this repo and send me a PR.\n\n## License\n\nThis project is licensed under the MIT License.\n"
+    }
+  },
+  {
+    "name": "trulymittal/google-maps-directions-tutorial",
+    "stars": 104,
+    "description": "Google Maps API integration in React with directions service",
+    "languages_breakdown": {
+      "JavaScript": 4370,
+      "HTML": 1721
+    },
+    "files": {
+      "package.json": "{\n  \"name\": \"google-maps\",\n  \"version\": \"0.1.0\",\n  \"private\": true,\n  \"dependencies\": {\n    \"@chakra-ui/react\": \"^1.8.6\",\n    \"@emotion/react\": \"^11\",\n    \"@emotion/styled\": \"^11\",\n    \"@react-google-maps/api\": \"^2.7.0\",\n    \"@testing-library/jest-dom\": \"^5.14.1\",\n    \"@testing-library/react\": \"^12.0.0\",\n    \"@testing-library/user-event\": \"^13.2.1\",\n    \"framer-motion\": \"^6\",\n    \"react\": \"^17.0.2\",\n    \"react-dom\": \"^17.0.2\",\n    \"react-icons\": \"^4.3.1\",\n    \"react-scripts\": \"5.0.0\",\n    \"web-vitals\": \"^2.1.0\"\n  },\n  \"scripts\": {\n    \"start\": \"react-scripts start\",\n    \"build\": \"react-scripts build\",\n    \"test\": \"react-scripts test\",\n    \"eject\": \"react-scripts eject\"\n  },\n  \"eslintConfig\": {\n    \"extends\": [\n      \"react-app\",\n      \"react-app/jest\"\n    ]\n  },\n  \"browserslist\": {\n    \"production\": [\n      \">0.2%\",\n      \"not dead\",\n      \"not op_mini all\"\n    ],\n    \"development\": [\n      \"last 1 chrome version\",\n      \"last 1 firefox version\",\n      \"last 1 safari version\"\n    ]\n  }\n}\n",
+      "README.md": "# Getting Started with Google Maps API with Places autocomplete and Directions service and renderer.\n\n## What is covered?\n\n1. Google maps in React\n2. Adding Markers\n3. Panning and zooming maps\n4. Disable default controls\n5. Places Autocomplete\n6. Directions Service\n7. Directions Renderer on map\n\n## Youtube tutorial\n\n[https://youtu.be/iP3DnhCUIsE](https://youtu.be/iP3DnhCUIsE)\n\n## Starting the app\n\nCreate an API in the google developers console [https://console.developers.google.com](https://console.developers.google.com), make sure to enable billing for the google project, otherwise you may get a warning as _development purposes only_.\n\nAdd a `.env` file or `.env.local` in the project root and specify your API key as `REACT_APP_GOOGLE_MAPS_API_KEY=your_api_key_here`\n\nIn the project directory, you can run:\n\n```\nyarn install\nyarn start\n```\n\nOR using npm\n\n```\nnpm install\nnpm start\n```\n\n## Author\n\n- [**Truly Mittal**](https://trulymittal.com)\n\n## Contribute\n\nYou can fork this repo and send me a PR.\n"
+    }
+  },
+  {
+    "name": "trulymittal/Nodejs-REST-API",
+    "stars": 86,
+    "description": "This is a RESTful API example based on Node.js and MongoDB, following the MVC pattern i.e. Model View Controller.",
+    "languages_breakdown": {
+      "JavaScript": 5527,
+      "Shell": 129
+    },
+    "files": {
+      "package.json": "{\n  \"name\": \"restapi_youtube\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Youtube Tutorial\",\n  \"main\": \"app.js\",\n  \"scripts\": {\n    \"start\": \"node app.js\",\n    \"dev\": \"nodemon app.js\"\n  },\n  \"author\": \"Me\",\n  \"license\": \"ISC\",\n  \"dependencies\": {\n    \"dotenv\": \"^8.2.0\",\n    \"express\": \"^4.17.1\",\n    \"http-errors\": \"^1.7.3\",\n    \"mongoose\": \"^5.7.13\"\n  },\n  \"devDependencies\": {\n    \"nodemon\": \"^2.0.6\"\n  }\n}\n",
+      "README.md": "# RESTful API\n\nThis is a RESTful API example based on Node.js and MongoDB, following the **MVC pattern** i.e. Model ~~View~~ Controller.\n\n**Mongoose** is used for Database transactions which is an elegant solution to mongodb object modeling for node.js.\n\nThe application is **production ready**, and can be used behind a Nginx reverse proxy securely.\n\n---\n\n#### To start setting up the project\n\nStep 1: Clone the repo\n\n```bash\ngit clone https://github.com/trulymittal/Nodejs-REST-API.git\n```\n\nStep 2: cd into the cloned repo and run:\n\n```bash\nnpm install\n```\n\nStep 3: Put your credentials in the .env file.\n\n```bash\nPORT=3000\nMONGODB_URI=YOUR MONGODB URI\nDB_NAME=DATABASE NAME OF YOUR CHOICE\nDB_USER=DATABASE USER\nDB_PASS=DATABASE USER PASSWORD \n```\n\nStep 4: Start the API by\n\n```bash\nnpm start\n```\n\n## Author\n\n- [**Truly Mittal**](https://trulymittal.com)\n\n## License\n\nThis project is licensed under the MIT License.\n"
+    }
+  }
+]

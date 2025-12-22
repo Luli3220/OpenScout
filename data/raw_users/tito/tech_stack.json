@@ -1,0 +1,38 @@
+[
+  {
+    "name": "tito/2048",
+    "stars": 474,
+    "description": "2048 Game with Kivy",
+    "languages_breakdown": {
+      "Java": 83380,
+      "D": 27792,
+      "Python": 17814
+    },
+    "files": {
+      "README.md": "# 2048 Game with Kivy\n\nJoin the numbers and get to the 2048 tile!\n\n[![2048 with Kivy](https://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.meltingrocks.kivy2048)\n\nThis game has been created from the game 2048 by [Gabriele\nCirulli](http://gabrielecirulli.com/), itself based on [1024 by Veewo\nStudio](https://itunes.apple.com/us/app/1024!/id823499224) conceptually similar\nto [Threes by Asher Vollmer.](http://asherv.com/threes/).\n\nThis implementation use only Kivy framework, and can be played on mobile with\nswipes or desktop with keyboard.\n\n![Screenshot](/screenshot.png)\n"
+    }
+  },
+  {
+    "name": "tito/kivy-gmaps",
+    "stars": 100,
+    "description": "Google maps integration within Kivy application",
+    "languages_breakdown": {
+      "Python": 16353,
+      "Java": 759
+    },
+    "files": {
+      "README.md": "Kivy / Google Maps integration\n==============================\n\nExample that shows how to integrate Google Maps within a Kivy application.\nCurrently works only on Android.\n\n**Work in progress**\n\n![ScreenShot](https://raw.github.com/tito/kivy-gmaps/master/screenshot.png)\n\nConfiguration\n-------------\n\n* Configure your `package.name` and `package.domain`. The sum of both should\n  not be more than 20 characters, or Google Maps API will not work:\n\n        package.name = kivygmaps\n        package.domain = com.mr\n\n* Follow the [Android Maps API v2 documentation](https://developers.google.com/maps/documentation/android/start#the_google_maps_api_key) to get your Android Maps API key\n* Put your API Key into buildozer.spec in `[app:android.meta_data]` section as\n  `com.google.android.maps.v2.API_KEY`:\n\n        [app:android.meta_data]\n        com.google.android.maps.v2.API_KEY = YOURAPIKEYHERE\n\nUsage\n-----\n\nThe `gmaps` module provide a `GMap` widget that you can directly use into your\napplication. Right now, you can add only one GMap per application, on an\ntransparent background. If you cover the background, the widget will not be\nshown. Here is an hello world example:\n\n```python\nimport gmaps\nfrom kivy.app import App\n\nclass HelloGmaps(App):\n    def build(self):\n        self.map_widget = GMap()\n        self.map_widget.bind(on_ready=self.create_some_markers)\n        return self.map_widget\n\n    def create_some_markers(self, map_widget):\n        # get the google map interface\n        sydney = map_widget.create_latlng(-33.867, 151.206)\n        marker = map_widget.create_marker(\n            title='Sydney',\n            snippet='The most populous city in Autralia',\n            position=sydney)\n        map_widget.map.addMarker(marker)\n\nif __name__ == '__main__':\n    HelloGmaps().run()\n```\n\n### Threads\n\nAll the operation done on the map **must** be done within the internal thread\nof the android widget. It means, you cannot interact directly from Kivy. You\ncan create object (LatLng, Marker..), but interact with the map must stay in\nthe map thread.\n\nAll the event fired by the `GMap` are happening in the map thread. For example,\nif you bind to the `GMap.on_map_click`, your callback will be already in the\nmap thread. If you want to call a method within the map thread, you can use\n`GMap.execute()` method. You cannot return values from it, and the call\nwill be asynchronous:\n\n```python\nmap = GMap()\ndef my_func(...):\n    pass\nmap.execute(my_func)\n```\n\nYou can also decorate your function with `android.runnable.run_on_ui_thread`, or `GMap.run_on_ui_thread`:\n\n```python\nfrom android.runnable import run_on_ui_thread\n\n@run_on_ui_thread\ndef set_position(self, lat, lng):\n    pos = self.map_widget.create_latlng(lat, lng)\n    self.map_widget.map.moveCamera(\n        self.map_widget.camera_update_factory.newLatLngZoom(\n        pos, 13))\n```\n\nWhen the Android Google Maps widget is created, it will fire an event name\n`on_ready`. This is where you can create markers, change the camera, and s\n... (truncated)"
+    }
+  },
+  {
+    "name": "tito/pymt",
+    "stars": 97,
+    "description": "A multitouch python framework",
+    "languages_breakdown": {
+      "Python": 1365292,
+      "C": 121866,
+      "Shell": 1779
+    },
+    "files": {}
+  }
+]

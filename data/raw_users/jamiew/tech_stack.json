@@ -1,0 +1,40 @@
+[
+  {
+    "name": "jamiew/heroku-static-site",
+    "stars": 145,
+    "description": "A basic Ruby/Rack app for publishing a static HTML/CSS/javascript website on Heroku (for free)",
+    "languages_breakdown": {
+      "HTML": 803,
+      "CSS": 564,
+      "Ruby": 493,
+      "Shell": 207,
+      "JavaScript": 10
+    },
+    "files": {
+      "Gemfile": "source 'https://rubygems.org'\nruby '2.6.0'\n\ngem 'rack'\n",
+      "README.md": "heroku-static-site\n===========\n\nA simple ruby + rack application for serving a basic static website, suitable for deploying to [Heroku](http://heroku.com).\nTheir free 1-dyno plan covers 80% of my projects and Just Works&trade;\n\nFor even simpler free HTML cloud hosting check out [GitHub Pages](http://pages.github.com).\n\nI put static sites on Heroku when I will be adding some simple dynamic stuff later,\nor for redundancy with GH pages (whose uptime isn't perfect).\n\n\nUsage\n-----\n\nRun the app locally:\n\n1. `gem install bundler`\n2. `bundle install`\n3. `bundle exec rackup`\n4. Visit <http://localhost:9292>\n\nMake something great, then push it to your [Heroku](http://heroku.com) account:\n\n1. `gem install heroku`\n2. `heroku login`\n3. `heroku create --stack=cedar mynewapp`\n4. `heroku git:clone -a mynewapp`\n5. `git add .`\n6. `git commit -am \"make it better\"`\n7. `git push heroku master`\n\n\n\nLicense\n-------\n\n&copy; copyfree 2012 [Jamie Dubs](http://jamiedubs.com).\nThis source code made freely available under an [MIT License](http://www.opensource.org/licenses/mit-license.php).\n\n"
+    }
+  },
+  {
+    "name": "jamiew/tumblr-photo-downloader",
+    "stars": 142,
+    "description": "Easily download all the photos from a Tumblr blog",
+    "languages_breakdown": {
+      "Ruby": 2947
+    },
+    "files": {
+      "Gemfile": "source 'https://rubygems.org'\n\ngem 'mechanize'\n",
+      "README.md": "Tumblr Photo Downloader\n=======================\n\nRuby script to download all the photos from a Tumblr blog.\n\nTumblr used to have a GUI backup tool for Mac OS but it appears to be unmaintained :''( [Tumblr Backup.app](http://staff.tumblr.com/post/286303145/tumblr-backup-mac-beta)\n\n\nUsage\n-----\n\nCheckout the code:\n\n    git clone https://github.com/jamiew/tumblr-photo-downloader\n    cd tumblr-photo-downloader\n\nInstall bundler if you don't have it already:\n\n    gem install bundler\n    bundle install\n\nRun the script, specifying your blog URL as the argument:\n\n    bundle exec ruby tumblr-photo-downloader.rb jamiew.tumblr.com\n\nBy default, images will be saved in a sub-directory of the directory containing the script (eg tumblr-photo-downloader/jamiew.tumblr.com). If you want them to be saved to a different directory, you can pass its name as an optional second argument:\n\n    bundle exec ruby tumblr-photo-downloader.rb jamiew.tumblr.com ~/pictures/jamiew-tumblr-images/\n\nIf you have run the script previously, specifying the same Tumblr URL and destination directory, then it will stop after sequentially encountering links to 50 images that have been previously downloaded.\n\nEnjoy!\n\n\n\nLicense\n-------\n\nSource code released under an [MIT license](http://en.wikipedia.org/wiki/MIT_License)\n\nPull requests welcome.\n\n\nContributing\n------------\n\n1. Fork it\n2. Create your feature branch (`git checkout -b my-new-feature`)\n3. Commit your changes (`git commit -am 'Added some feature'`)\n4. Push to the branch (`git push origin my-new-feature`)\n5. Create new Pull Request\n\n\nAuthors\n-------\n\n* [Jamie Wilkinson](http://jamiedubs.com) ([@jamiew](https://github.com/jamiew))\n* [James Scott-Brown](http://jamesscottbrown.com/) ([@jamesscottbrown](https://github.com/jamesscottbrown))\n* [Chris McKenzie](http://getpostdelete.com/) ([@kristopolous](https://github.com/kristopolous))\n* [@zamabe](https://github.com/zamabe)\n\n\n"
+    }
+  },
+  {
+    "name": "jamiew/jsonview-chrome",
+    "stars": 141,
+    "description": "DEPRECATED – Beautify how Chrome displays JSON - port of the Firefox extension. NOT JSONView in the Chrome store",
+    "languages_breakdown": {
+      "JavaScript": 10422,
+      "CSS": 891
+    },
+    "files": {}
+  }
+]

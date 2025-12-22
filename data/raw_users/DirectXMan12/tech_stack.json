@@ -1,0 +1,34 @@
+[
+  {
+    "name": "DirectXMan12/kubebuilder-workshops",
+    "stars": 158,
+    "description": "KubeBuilder Workshops",
+    "languages_breakdown": {
+      "Dockerfile": 904
+    },
+    "files": {
+      "README.md": "# KubeBuilder Workshops\n\nThis repository contains a series of similar workshops for building\noperators with KubeBuilder.\n\nEach workshop lives on a different branch:\n\n## Branches\n\n- [kubecon-eu-2019](https://github.com/DirectXMan12/kubebuilder-workshops/tree/kubecon-eu-2019):\n  \n  * **Level**: Intermediate\n  * **Topic**: Write an operator that deploys and manages the standard\n    Kubernetes GuestBook application.  Contains associated slides for\n    \"freeform\" implementation, plus suggested implementation details as\n    commits.\n\n- [software-architecture-2019](https://github.com/DirectXMan12/kubebuilder-workshops/tree/software-architecture-2019)\n  \n  * **Level**: Basic\n  * **Topic**: Write an operator that deploys and manages MongoDB.\n    Contains step-by-step in-repository instructions without focusing too\n    much on the underlying MongoDB mechanics.\n\n- [kubecon-us-2019](https://github.com/DirectXMan12/kubebuilder-workshops/tree/kubecon-us-2019):\n  \n  * **Level**: Intermediate\n  * **Topic**: Write an operator that deploys and manages the standard\n    Kubernetes GuestBook application, but focusing on new extensibility\n    features, like declarative defaulting a server-side apply.  Contains\n    associated slides and suggested implementation steps.\n\n# Contributing\n\nIf you'd like to contribute fixes, check out\n[CONTRIBUTING.md](CONTRIBUTING.md).\n"
+    }
+  },
+  {
+    "name": "DirectXMan12/kubecon-eu-2018-demo",
+    "stars": 8,
+    "description": "KubeCon EU 2018 Custom Metrics Autoscaling Demo Files",
+    "languages_breakdown": {
+      "Go": 6082
+    },
+    "files": {
+      "README.md": "Horizontal Pod Autoscaler Reloaded: Scale on Custom Metrics\n===========================================================\n\nThese are the demo files for the KubeCon 2018 presentation by\n@directxman12 (Solly Ross) and @MaciekPytel (Maciek Pytel).\n\nLayout\n------\n\n* The [loadbalancer](loadbalancer) directory contains files for building\n  the fake load balancer application used to demonstrate `Object` metrics.\n\n* The [adapter-config](adapter-config) directory contains the files used\n  to run the Prometheus adapter.\n\n* The [prometheus-config](prometheus-config) directory contains the files\n  used to deploy Prometheus.\n\n* The [cpu-consumer-config](cpu-consumer-config) directory contains the\n  files used to deploy the sample cpu-consuming application that we\n  autoscale.\n\nInstructions\n------------\n\n1. Ensure your cluster is fully set up.  Make sure you have metrics-server\n   running (or some other provider of metrics.k8s.io, if you're from the\n   future).  Make sure that your API aggregation certificates, etc are set\n   up.  If you use an installer, this is probably done for you.\n\n2. Make sure Prometheus is installed and set up to collect metrics from\n   pods.  You can use the Prometheus Operator if you're not familiar with\n   setting up Prometheus from scratch.\n\n3. Build and install the right version of the Prometheus adapter.  You'll\n   need a version with the \"advanced configuration\" feature. It currently\n   lives at\n   [feature/advanced-config](https://github.com/DirectXMan12/k8s-prometheus-adapter/tree/feature/advanced-config),\n   but it'll probably be in master at some point in the future. There's an\n   image version of it available at\n   `docker.io/directxman12/k8s-prometheus-adapter:advanced-config`.\n\n   An appropriate configuration for use in this demo (in ConfigMap form)\n   it can be found in the file\n   [adapter-config/adapter-config.yaml](adapter-config/configmap.yaml).\n   Use it and the Deployment and support files in the same directory to\n   deploy the adapter.\n\n4. Build and launch the [fake loadbalancer](loadbalancer) application, and\n   make sure Prometheus collects its metrics (which can be found at\n   `/_metrics`). They end in `_latency_seconds`.\n\n5. Connect to the fake loadbalancer.  It expects the HTTP host header to\n   be of the form `<svc>.<namespace>.balance.local`.  It will proxy\n   anything on port 80 to port 80 on the service, except the path\n   `/_metrics`, which contain its own metrics.\n"
+    }
+  },
+  {
+    "name": "DirectXMan12/cs545_final_proj",
+    "stars": 5,
+    "description": "Fall 2011 CS545 (Digital Image Processing) Final Project",
+    "languages_breakdown": {
+      "C": 36314,
+      "C++": 30809
+    },
+    "files": {}
+  }
+]

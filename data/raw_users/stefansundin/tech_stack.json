@@ -1,0 +1,46 @@
+[
+  {
+    "name": "stefansundin/altdrag",
+    "stars": 1579,
+    "description": ":file_folder: Easily drag windows when pressing the alt key. (Windows)",
+    "languages_breakdown": {
+      "C": 233587,
+      "NSIS": 71889,
+      "C++": 11109,
+      "Batchfile": 2823,
+      "Shell": 1387
+    },
+    "files": {}
+  },
+  {
+    "name": "stefansundin/rssbox",
+    "stars": 803,
+    "description": ":newspaper: I consume the world via RSS feeds, and this is my attempt to keep it that way.",
+    "languages_breakdown": {
+      "Ruby": 119231,
+      "HTML": 35937,
+      "JavaScript": 13276,
+      "Dockerfile": 2660,
+      "Shell": 1173,
+      "CSS": 1045,
+      "Procfile": 40
+    },
+    "files": {
+      "Gemfile": "source \"https://rubygems.org\"\n\nruby \">= 2.8.0\"\n\ngem \"rake\", require: false\ngem \"irb\"\ngem \"rack\"\ngem \"sinatra\"\ngem \"puma\"\ngem \"dotenv\"\ngem \"redis\"\ngem \"addressable\"\ngem \"rack-ssl-enforcer\"\ngem \"secure_headers\"\ngem \"tzinfo\"\ngem \"nokogiri\"\ngem \"prometheus-client\", require: \"prometheus/middleware/exporter\"\ngem \"opengraph_parser\"\n\ngem \"airbrake\", require: false\ngem \"newrelic_rpm\", require: false\n\n# openssl 3.6.0 is causing issues in the version of the openssl gem that ships with Ruby. https://github.com/ruby/openssl/issues/949\ngem \"openssl\", require: false\n\n# Silence Ruby deprecation warning by including drb here. https://github.com/Mon-Ouie/pry-remote/pull/88\ngem \"drb\"\n\ngroup :development do\n  gem \"sinatra-contrib\", require: \"sinatra/reloader\"\n  gem \"powder\"\n  # gem \"binding_of_caller\"\n  # gem \"better_errors\"\n  gem \"pry-remote\"\n  gem \"github-release-party\"\nend\n",
+      "Dockerfile": "# https://hub.docker.com/r/stefansundin/rssbox\n# docker pull stefansundin/rssbox\n# docker run --rm -it -p 3000:3000 stefansundin/rssbox\n# docker run --rm -it --entrypoint bin/cons stefansundin/rssbox\n\n# docker network create rssbox\n# docker run --rm --network=rssbox --name=redis redis redis-server --appendonly yes\n# docker run --rm --network=rssbox --name=rssbox --env-file=.dockerenv -i -t -p 3000:3000 stefansundin/rssbox\n# docker run --rm --network=rssbox -t redis redis-cli -h redis monitor\n\n# Simple build:\n# docker build --pull --progress plain -t stefansundin/rssbox .\n\n# Multi-arch:\n# docker buildx create --use --name multiarch --node multiarch0\n# docker buildx build --pull --push --progress plain --platform linux/amd64,linux/arm64,linux/riscv64 -t stefansundin/rssbox .\n# Push to public ECR:\n# docker buildx imagetools create -t public.ecr.aws/stefansundin/rssbox stefansundin/rssbox\n\n# Verify jemalloc:\n# docker run --rm -it --entrypoint ruby -e MALLOC_CONF=stats_print:true stefansundin/rssbox -- -e exit\n# Verify YJIT:\n# docker run --rm -it --entrypoint ruby -e RUBYOPT=\"--yjit\" stefansundin/rssbox -e \"puts RUBY_DESCRIPTION\"\n\nFROM ruby:3.4 AS builder\n\nRUN echo 'gem: --no-document' >> /usr/local/etc/gemrc\n\nWORKDIR /app\nCOPY Gemfile Gemfile.lock ./\n\nRUN bundle config set --local without development:test\nRUN bundle config set --local deployment true\nRUN bundle install --retry=3 --jobs=4\n\n\nFROM ruby:3.4-slim\n\nLABEL org.opencontainers.image.authors=\"Stefan Sundin\"\nLABEL org.opencontainers.image.url=\"https://github.com/stefansundin/rssbox\"\n\nRUN \\\n  apt-get update && \\\n  apt-get upgrade -y && \\\n  apt-get install -y --no-install-recommends \\\n    libjemalloc2 \\\n    # Uncomment if you need YJIT:\n    # rustc \\\n    vim less && \\\n  apt-get clean && \\\n  rm -rf /var/lib/apt/lists/*\n\nRUN ln -s $(uname -m)-linux-gnu/libjemalloc.so.2 /usr/lib/libjemalloc.so.2\nENV LD_PRELOAD=/usr/lib/libjemalloc.so.2\nENV MALLOC_ARENA_MAX=2\n\nENV APP_ENV=production\n\nWORKDIR /app\nCOPY --from=builder /usr/local/etc/gemrc /usr/local/etc/gemrc\nCOPY --from=builder /usr/local/bundle/config /usr/local/bundle/config\nCOPY --from=builder /app /app\n\nRUN bundle check\n\nCOPY . .\nRUN find -not -path './vendor/*'\n\n# Disable irb history to prevent .irb_history permission error from showing\nRUN echo \"IRB.conf[:SAVE_HISTORY] = nil\" >> .irbrc\n\n# Touch config/application.rb to indicate when the docker image was built\nRUN touch config/application.rb\n\n# Run the container as an unprivileged user\nRUN mkdir -p tmp /nonexistent\nRUN chown nobody:nogroup tmp /nonexistent\nUSER nobody:nogroup\n\nEXPOSE 3000\nENV PORT=3000\nENTRYPOINT [\"bundle\", \"exec\", \"puma\", \"-C\", \"config/puma.rb\"]\n",
+      "docker-compose.yml": "# Grafana is available at http://localhost:3001/. Login with admin/admin. Configure a Prometheus data source to pull metrics from http://prometheus:9090.\n\nservices:\n  web:\n    build: .\n    environment:\n      - PORT=3000\n      - REDIS_URL=redis://redis:6379/3\n    # env_file: .dockerenv\n    ports:\n      - \"3000:3000\"\n    networks:\n      - backend\n      - monitoring\n    depends_on:\n      - redis\n\n  redis:\n    image: redis\n    networks:\n      - backend\n\n  prometheus:\n    image: prom/prometheus\n    ports:\n      - \"9090:9090\"\n    volumes:\n      - ${PWD}/prometheus.yml:/etc/prometheus/prometheus.yml\n    networks:\n      - monitoring\n\n  grafana:\n    image: grafana/grafana\n    ports:\n      - \"3001:3000\"\n    networks:\n      - monitoring\n    depends_on:\n      - prometheus\n\nnetworks:\n  backend:\n  monitoring:\n",
+      "README.md": "# RSS Box\n\nThis app uses the API of other websites and gives you an RSS feed in return. Quick and simple.\n\nList of public RSS Box instances: https://github.com/stefansundin/rssbox/discussions/64\n\nTo open `vlc://` links, see [vlc-protocol](https://github.com/stefansundin/vlc-protocol).\n\n## Roll your own\n\nTo deploy to Elastic Beanstalk, see [.ebextensions/README.md](.ebextensions/README.md).\n\nTo deploy to Kubernetes, see [kubernetes/README.md](kubernetes/README.md).\n\nA Docker image is available on [Docker Hub](https://hub.docker.com/r/stefansundin/rssbox) and [Amazon ECR](https://gallery.ecr.aws/stefansundin/rssbox).\n\n**Note:** Redis is an optional dependency! It is only used for the URL resolution feature.\n\n### Configuration\n\nYou need to get API keys for the respective services and populate the environment variables, e.g. by using an [.env](.env.example) file.\n\nA couple of services do not have official APIs, or do not require API keys, so they will work without any keys.\n\nThese services do not require API keys: Instagram, Mixcloud, Speedrun, Dailymotion.\n\n#### YouTube\n\nGo to the [Google Developer Console](https://console.developers.google.com/), create a project and a server key. Copy the server key. Enable \"YouTube Data API v3\" in the project.\n\n#### Vimeo\n\nGo to the [Vimeo developer website](https://developer.vimeo.com/apps) and create an app. Then create a personal access token.\n\n#### Instagram\n\n> [!WARNING]\n> The Instagram integration is not being maintained and may not work very well at all. You may be wasting your time.\n\n#### Facebook\n\nFacebook was supported in the past, but I have been unable to obtain API access since they locked it down in 2018. Maybe we can rebuild it some day, but using scraping techniques or something. [Discuss here.](https://github.com/stefansundin/rssbox/issues/5)\n\n#### SoundCloud\n\nGo to the [SoundCloud developer website](https://soundcloud.com/you/apps). You need to open a support ticket to create an app. Copy your client id and secret.\n\n#### Twitch\n\nGo to your [Twitch settings](https://www.twitch.tv/settings/connections) and create an app. Copy your client id.\n\nTo download Twitch videos, you also need to configure a separate client id.\n\n#### Imgur\n\nGo to the [Imgur settings](https://imgur.com/account/settings/apps) and create an app. Copy your client id.\n"
+    }
+  },
+  {
+    "name": "stefansundin/superf4",
+    "stars": 781,
+    "description": ":file_folder: Kill programs instantly with Ctrl+Alt+F4. (Windows)",
+    "languages_breakdown": {
+      "C": 28543,
+      "NSIS": 11100,
+      "Shell": 889
+    },
+    "files": {}
+  }
+]

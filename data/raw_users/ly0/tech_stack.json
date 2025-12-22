@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ly0/baidupcsapi",
+    "stars": 1226,
+    "description": "百度网盘api",
+    "languages_breakdown": {
+      "Python": 84974,
+      "Makefile": 5593
+    },
+    "files": {
+      "requirements.txt": "requests>=2.0.0\nrequests_toolbelt>=0.1.2\nrsa>=3.1.4\n",
+      "README.md": "百度网盘API\n====================================\n\n**注意,本项目仅支持Python3,不提供backporting到Python2**\n\n讨论\n======\n[Google Group](https://groups.google.com/forum/#!forum/baidupcsapi)\n\n贡献者(字典序)\n======\n* [a1exwang](https://github.com/a1exwang)\n* [capric8416](https://github.com/a1exwang)\n* [jonans](https://github.com/jonans)\n* [ly0](https://github.com/ly0)\n* [morefreeze](https://github.com/morefreeze)\n* [Naville](https://github.com/Naville)\n\n项目名称解释\n-----------\n后来我才搞清楚pcs并不是指百度网盘，想过改成baidupanapi但是由于历史原因就算了。\n\n文档\n-----------\nhttp://baidupcsapi.readthedocs.org/\n\nTODOS\n------\n* [ ] 获取分享链接中文件列表接口\n* [ ] 保存分享到用户网盘接口\n\n正文\n======================\n\n~~百度网盘现在不开放PCS API，所以目前只能用百度自己的API~~\n应该是可以了,参考 (https://github.com/mozillazg/baidu-pcs-python-sdk/wiki/%E5%A6%82%E4%BD%95%E8%8E%B7%E5%8F%96-Access-Token-%E5%92%8C-Refresh-Token%EF%BC%9F)\n\n一个基于此api的 fuse（测试环境ubuntu12.04）\nhttp://github.com/ly0/baidu-fuse\n\nweb版百度网盘(可以用来开放资源,测试环境ubuntu14.04)\nhttps://github.com/ly0/web.baidupan\n\n* 文档 http://ly0.github.io/baidupcsapi\n* Free software: MIT license\n* PyPI: https://pypi.python.org/pypi/baidupcsapi\n* Python version: 2.7\n* require: requests>=2.0.0, requests_toolbelt>=0.1.2\n\n* 删掉了一些原作者在pan.baidu.com上没有的api，修改了大部分api和相关的程序部分，为了区分原作者的程序,在pypi上发布为baidupcsapi\n\n\nInstallation\n------------\n\nTo install baidupcsapi, simply:\n\n```shell\n$ pip3 install baidupcsapi\n```\n\n一些简单的例子\n-----------\n```python\n>>> from baidupcsapi import PCS\n>>> pcs = PCS('username','password')\n>>> print(pcs.quota().content)\n>>> print(pcs.list_files('/').content)\n```\n\n断点续传\n-----------\n\n下载\n-------\n\n\n```python\n>>> headers = {'Range': 'bytes=0-99'}\n>>> pcs = PCS('username','password')\n>>> pcs.download('/test_sdk/test.txt', headers=headers)\n```\n\n上传\n-------\n\n上传文件的进度条实现范例\n------\n\n回调函数参数要求 有size和progress两个参数名，\n\t\tsize：文件总字节数\n\t\tprogress：当前传输完成字节数\n\t\t\n```python\nimport progressbar\nfrom baidupcsapi import PCS\nclass ProgressBar():\n    def __init__(self):\n        self.first_call = True\n    def __call__(self, *args, **kwargs):\n        if self.first_call:\n            self.widgets = [progressbar.Percentage(), ' ', progressbar.Bar(marker=progressbar.RotatingMarker('>')),\n                            ' ', progressbar.ETA()]\n            self.pbar = progressbar.ProgressBar(widgets=self.widgets, maxval=kwargs['size']).start()\n            self.first_call = False\n\n        if kwargs['size'] <= kwargs['progress']:\n            self.pbar.finish()\n        else:\n            self.pbar.update(kwargs['progress'])\n\n\npcs = PCS('username','password')\ntest_file = open('bigfile.pdf','rb').read()\nret = pcs.upload('/',test_file,'bigfile.pdf',callback=ProgressBar())\n```\n\n上传大文件\n------\n\n将大文件切成一个个块，分批上传\n注意upload系列的函数都可以指定callback参数\n\n```python\n#coding: utf-8\nimport os,json,sys,tempfile\nfrom baidupcsapi import PCS\n\npcs = PCS('username','password')\nchinksize = 1024*1024*16\nfid = 1\nmd5list = []\ntmpdir = tempfile.mkdtemp('bdpcs')\nwith open(sys.argv[1],'rb') as infile:\n    while 1:\n        data = infile.read(chinksize)\n        if len(data) == 0: break\n        smallfile = os.path.join(tm\n... (truncated)"
+    }
+  },
+  {
+    "name": "ly0/web.baidupan",
+    "stars": 81,
+    "description": "百度云网盘web端",
+    "languages_breakdown": {
+      "Python": 2874
+    },
+    "files": {
+      "README.md": "web.baidupan\n============\n\n第一次使用请先修改 launcher.py 里 `pcs = PCS('username', 'password')` 成你自己的用户名和密码\n\n最新版请切换到 dev 分支\n\n纯属娱乐, 代码丑陋功能简略, javascript什么的毛也不会, 离线任务懒得弄了, 可以把模板复制粘贴一份调用*baidupcsapi*的接口就好.\n\nTODOLIST\n------------\n- [ ] 在需要输入验证码的时候由访问者输入\n- [ ] 获得离线下载资源\n- [ ] 在线提交离线下载\n- [ ] 保存指定的百度盘分享链接到本盘\n- [ ] 分享指定文件(列表)和文件夹\n- [ ] 自动识别百度的验证码\n- [X] 加入修改user-agent的提示\n- [ ] 支持多百度帐号\n\n已知BUG\n------------\n- [X] 获得下载地址的接口会因为时间原因失效\n\n\n截图:\n![image](https://raw.githubusercontent.com/ly0/web.baidupan/master/screenshot.png)\n\n运行:<br>\n`python launcher.py`\n\n依赖: <br>\n[baidupcsapi](http://github.com/ly0/baidupcsapi) (其他依赖在这个库里了)<br>\n[web.py](http://webpy.org)\n"
+    }
+  },
+  {
+    "name": "ly0/esp8266-smartlink",
+    "stars": 77,
+    "description": "A simple method for configuring Wi-Fi setting on ESP8266",
+    "languages_breakdown": {
+      "C": 6204
+    },
+    "files": {
+      "README.md": "﻿esp8266-smartlink \n=======\n\nInstruction in English is followed by Chinese.\n\n### 名词定义\n*Smartlink* 用于在物理网设备没有外部输入端时，使用手机对其进行配置的一种通用的说法。  \n\n### Definition of Smartlink\n*Smartlink* is a generic phrase when you configure your IoT devices by mobile phone, PC etc. instead of physical external devices.\n\n### 使用方法\n在需要使用 `smartlink` 的地方调用\n\n```c\nsmartlink_init(callback_func, callback_func_args, callback_failed_func, max_retry);\n```\n\n**手机端**: 设置完成后会调用 `(*callback_func)(callback_func_args)`，连接失败则会调用 `(*callback_failed_func)(callback_func_args)`\n使用手机手动添加一个Wi-Fi网络，ssid为 ssid<!-SL-!>password,确定的几乎一瞬间 8266 就会收到并且开始配置。\n\n**SDK 版本**: 0.9.4 by Espressif\n\n### Usage\nCall `smartlink_init(callback_func, callback_func_args, callback_failed_func, max_retry);` when you want to use Smarklink to configure.\n\n`callback_func`: callback function when connect target successfully.  \n`callback_func_args`: arguments of success callback function.  \n`callback_failed_func`: callback function when fail to connect target.  \n`max_retry`: maximiun number of retry.\n\n**Mobile**: Add a ssid named `ssid<!-SL-!>password` manually, 8266 will receive this request almost immediately and finish configuration.\n\n**SDK Version**: 0.9.4 by Espressif\n\n### 原理\n`Probe Request` 包的 `tagged parameter` 字段是不加密的，这个字段中的 `ssid` 可以每次最大传送 32 字节的数据。\n\n### Principle\n`tagged parameter` in `Probe Request` packet is not encrypted, we can reuse this area to send data to our IoT devices.\n\n### 协议\nThe MIT License (MIT)\n\nCopyright (c) 2014 latyas\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n\n\n### License\nSee above.\n\n### Reference\n[Cisco Support Forums](https://supportforums.cisco.com/document/52391/80211-frames-starter-guide-learn-wireless-sniffer-traces)\n"
+    }
+  }
+]

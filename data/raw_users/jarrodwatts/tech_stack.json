@@ -1,0 +1,45 @@
+[
+  {
+    "name": "jarrodwatts/code-like-google",
+    "stars": 123,
+    "description": "A Next.JS Project using ESLint and Prettier to format code like Google's style guidelines.",
+    "languages_breakdown": {
+      "TypeScript": 2169,
+      "CSS": 2072,
+      "Shell": 1311,
+      "JavaScript": 411
+    },
+    "files": {
+      "package.json": "{\n  \"name\": \"code-like-google\",\n  \"version\": \"0.1.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"dev\": \"next dev\",\n    \"build\": \"next build\",\n    \"start\": \"next start\",\n    \"check-types\": \"tsc --pretty --noEmit\",\n    \"check-format\": \"prettier --check .\",\n    \"check-lint\": \"eslint . --ext ts --ext tsx --ext js\",\n    \"format\": \"prettier --write .\",\n    \"test-all\": \"npm run check-format && npm run check-lint && npm run check-types && npm run build\",\n    \"prepare\": \"husky install\"\n  },\n  \"dependencies\": {\n    \"next\": \"10.1.3\",\n    \"react\": \"17.0.2\",\n    \"react-dom\": \"17.0.2\"\n  },\n  \"devDependencies\": {\n    \"@types/node\": \"^15.0.1\",\n    \"@types/react\": \"^17.0.4\",\n    \"@typescript-eslint/eslint-plugin\": \"^4.22.0\",\n    \"@typescript-eslint/parser\": \"^4.22.0\",\n    \"eslint\": \"^7.25.0\",\n    \"eslint-config-google\": \"^0.14.0\",\n    \"eslint-config-prettier\": \"^8.3.0\",\n    \"eslint-plugin-react\": \"^7.23.2\",\n    \"husky\": \"^6.0.0\",\n    \"prettier\": \"2.2.1\",\n    \"typescript\": \"^4.2.4\"\n  }\n}\n",
+      "README.md": "# Next.JS Style Guide: Google Edition\n\n## This project is a guide for creating new Next.JS projects using Google's TypeScript Style guidelines.\n\n<br>\n\n### Technologies we are using:\n\n- ESLint ([`.eslintrc.js`](./.eslintrc.js))\n- Prettier ([`.prettierrc`](./.prettierrc))\n- Typescript ([`tsconfig.json`](./tsconfig.json))\n- `eslint-config-prettier` (helps eslint and prettier get along)\n\n### Auto-formatting on save:\n\nInside `/.vscode/settings.json` we set prettier as the default formatter, and also set `editor.codeActionsOnSave` to run:\n\n- **Lint:** `\"source.fixAll.eslint\"`\n- **Format:** `\"source.fixAll.format\"`\n\n### Checking standards pre-commit:\n\nUsing [husky](https://www.npmjs.com/package/husky) we can check all of our style standards to make sure our git commits are up to par. Check those checks out at [`.husky/pre-commit`](.husky/pre-commit)\n"
+    }
+  },
+  {
+    "name": "jarrodwatts/reddit-clone",
+    "stars": 87,
+    "description": "无",
+    "languages_breakdown": {
+      "TypeScript": 91241,
+      "JavaScript": 1030
+    },
+    "files": {
+      "package.json": "{\n  \"name\": \"reddit-clone\",\n  \"version\": \"0.1.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"dev\": \"next dev\",\n    \"build\": \"next build\",\n    \"start\": \"next start\"\n  },\n  \"dependencies\": {\n    \"@material-ui/core\": \"^4.11.4\",\n    \"@material-ui/icons\": \"^4.11.2\",\n    \"@material-ui/lab\": \"*\",\n    \"aws-amplify\": \"^4.1.0\",\n    \"next\": \"10.2.3\",\n    \"react\": \"17.0.2\",\n    \"react-dom\": \"17.0.2\",\n    \"react-dropzone\": \"^11.3.2\",\n    \"react-hook-form\": \"^7.8.4\",\n    \"uuid\": \"^3.4.0\"\n  },\n  \"devDependencies\": {\n    \"@types/node\": \"^15.12.2\",\n    \"@types/react\": \"^17.0.11\",\n    \"@typescript-eslint/eslint-plugin\": \"^4.26.1\",\n    \"@typescript-eslint/parser\": \"^4.26.1\",\n    \"eslint\": \"^7.28.0\",\n    \"eslint-config-google\": \"^0.14.0\",\n    \"eslint-config-prettier\": \"^8.3.0\",\n    \"eslint-plugin-react\": \"^7.24.0\",\n    \"prettier\": \"^2.3.1\",\n    \"typescript\": \"^4.3.2\"\n  }\n}\n",
+      "README.md": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).\n\n## Getting Started\n\nFirst, run the development server:\n\n```bash\nnpm run dev\n# or\nyarn dev\n```\n\nOpen [http://localhost:3000](http://localhost:3000) with your browser to see the result.\n\nYou can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.\n\n[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.\n\nThe `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.\n\n## Learn More\n\nTo learn more about Next.js, take a look at the following resources:\n\n- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.\n- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.\n\nYou can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!\n\n## Deploy on Vercel\n\nThe easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.\n\nCheck out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.\n"
+    }
+  },
+  {
+    "name": "jarrodwatts/evmkit",
+    "stars": 86,
+    "description": "The best way to build full-stack, type-safe web3 apps.",
+    "languages_breakdown": {
+      "TypeScript": 47285,
+      "SCSS": 11711,
+      "JavaScript": 7283,
+      "CSS": 3373,
+      "Solidity": 673
+    },
+    "files": {
+      "README.md": "<p align=\"center\">\r\n  <img src=\"./landing/public/hero.png\" height=\"200px\"/>\r\n</p>\r\n\r\n<h1 align=\"center\">\r\n  EVM Kit\r\n</h1>\r\n\r\n<p align=\"center\">\r\n  Build full-stack, type-safe web3 applications on any EVM-compatible chain.\r\n</p>\r\n\r\n<p align=\"center\">\r\n  Get started with EVM Kit by running <code>npx evmkit create my-evmkit-app</code>\r\n</p>\r\n\r\n<br/>\r\n\r\n## What is EVM Kit?\r\n\r\nEVM Kit is a web3 development stack made by [Jarrod](https://twitter.com/jarrodwattsdev) and powered by [thirdweb](https://thirdweb.com/), designed to create full-stack web3 applications on EVM-compatible chains.\r\n\r\nIt uses [TypeScript](https://www.typescriptlang.org/) across the board, and is separated into two parts:\r\n\r\n1. `/contracts`: [Solidity](https://docs.soliditylang.org/en/v0.8.20/), [Hardhat](https://hardhat.org/) and [thirdweb](https://thirdweb.com/).\r\n2. `/application`: [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), [shadcn/ui](https://ui.shadcn.com/), and [thirdweb](https://thirdweb.com/).\r\n\r\nIt's an opinionated template built with tools with a focus on developer experience; designed to enable you to create\r\nperformant, scalable, and secure web3 applications with elegant user experiences.\r\n\r\n<br/>\r\n\r\n## Why EVM Kit?\r\n\r\nEVM Kit has all the features you would expect in a modern web3 development stack, including:\r\n\r\n- A type-safe development environment across the board\r\n- Beautiful UI components with [shadcn/ui](https://ui.shadcn.com/) and customizability with [Tailwind CSS](https://tailwindcss.com/)\r\n- Elegant onboarding experiences with support for local wallets and account abstraction\r\n- Provided infrastructure for connection to decentralized services\r\n\r\nEVM Kit is not another beginner-farming template. It combines modern tools with a focus on developer experience;\r\nintended to be used to create production-ready applications.\r\n"
+    }
+  }
+]

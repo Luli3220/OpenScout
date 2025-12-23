@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-%3E%3D3.8-red)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-![b111bf2b96bf376180b7fcd1dd3ede8.png](https://raw.githubusercontent.com/Frank-whw/img/main/blog/202412302221674.png)
+![b111bf2b96bf376180b7fcd1dd3ede8.png]()
 
 ## 目录
 - [简介](#简介)
@@ -26,27 +26,27 @@ $$ Score_{final} = 50 + 50 \times \Phi\left(\frac{\ln(S_{raw} + 1) - \mu}{\sigma
 #### 维度定义与计算公式：
 
 - **影响力 (Influence)**
-  $$ S_{inf} = 0.6 \cdot \text{Stars} + 0.4 \cdot (\text{Forks} + \text{Issues}) $$
+  $ S_{inf} = 0.6 \cdot \text{Stars} + 0.4 \cdot (\text{Forks} + \text{Issues}) $
   *综合 Stars、Forks、Issues 等社区关注度指标，反映项目的受关注程度。*
 
 - **贡献度 (Contribution)**
-  $$ S_{con} = 0.7 \cdot \text{Merged PRs} + 0.3 \cdot \text{Created Issues} $$
+  $ S_{con} = 0.7 \cdot \text{Merged PRs} + 0.3 \cdot \text{Created Issues} $
   *核心考量外部 PR 贡献与 Issue 提出数量，反映开发者对开源社区的实质性产出。*
 
 - **维护力 (Maintainership)**
-  $$ S_{main} = 1.0 \cdot \text{Merged Others' PRs} + 0.3 \cdot \text{Review Comments} $$
+  $ S_{main} = 1.0 \cdot \text{Merged Others' PRs} + 0.3 \cdot \text{Review Comments} $
   *评估作为维护者合并 PR 与 Code Review 的活跃度，体现项目维护责任感。*
 
 - **参与度 (Engagement)**
-  $$ S_{eng} = 0.6 \cdot \text{Issue Comments} + 0.4 \cdot \text{Review Comments} $$
+  $ S_{eng} = 0.6 \cdot \text{Issue Comments} + 0.4 \cdot \text{Review Comments} $
   *社区互动与讨论参与程度，反映开发者在社区中的活跃交流情况。*
 
 - **多样性 (Diversity)**
-  $$ S_{div} = 0.6 \cdot \text{Languages} + 0.4 \cdot \text{Topics} $$
+  $ S_{div} = 0.6 \cdot \text{Languages} + 0.4 \cdot \text{Topics} $
   *技术栈广度与跨领域项目涉猎情况，衡量技术视野的宽广度。*
 
 - **代码能力 (Code Capability)**
-  $$ S_{code} = \sum_{\text{PR} \in \text{Merged}} \ln(\text{Repo Stars} + 1) $$
+  $ S_{code} = \sum_{\text{PR} \in \text{Merged}} \ln(\text{Repo Stars} + 1) $
   *基于合并代码所属仓库的 Stars 权重进行深度评估，体现代码被认可的含金量。*
 
 ### 2. 智能多 Agent 数据流水线

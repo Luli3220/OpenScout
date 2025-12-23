@@ -109,18 +109,21 @@ OpenScout/
 │   ├── users_list.json     # 目标用户名单
 │   └── radar_scores.json   # 最终计算的雷达分数
 ├── src/                    # 核心源代码
-│   ├── get_user_name.py            # [Scout] 用户名单获取
-│   ├── get_user_info.py            # [Metric] OpenDigger 数据获取
-│   ├── get_all_metrics.py          # [Metric] 全维度指标抓取
-│   ├── calculate_radar.py          # [Analysis] 雷达分计算
+│   ├── get_user_name.py              # [Scout] 用户名单获取
+│   ├── get_user_info.py              # [Metric] OpenDigger 数据获取
+│   ├── get_all_metrics.py            # [Metric] 全维度指标抓取
+│   ├── calculate_radar.py            # [Analysis] 雷达分计算
 │   ├── fetch_representative_repos.py # [Context] 代表作抓取
 │   └── fetch_tech_stack_context.py   # [Context] 技术栈上下文提取
+│   └── run_pipeline                  # [Context] 数据初始化or新用户自动挖掘
+│   └── README.md                     # [Context] 数据挖掘介绍文档
 ├── OpenScout.htm           # [Frontend] 前端展示页面
 ├── server.py               # [Backend] 后端 API 服务
-├── server.mk               # [MaxKB] 多Agent导出包
+├── OpenScout.mk            # [MaxKB] 多Agent导出包
 ├── requirements.txt        # [Dependency] 项目依赖文件
 ├── config.json             # 配置文件 (Token 等)
 └── README.md               # 项目文档
+└── Intro2MaxKB.md          # MaxKB配置文档
 ```
 
 ## 安装部署
@@ -154,7 +157,7 @@ pip install -r requirements.txt
 - `maxkb_api_url`：MaxKB 应用 API 的基础路径（不包含 `/chat/completions`）。
 - `maxkb_api_key`：MaxKB 访问 Key（用于 `Authorization: Bearer ...`）。
 
-### 3. 运行数据流水线
+### 3. 运行数据流水线([详情见](./src/README.md))
 
 #### 方式一：一键全自动运行 (推荐)
 使用 `run_pipeline.py` 脚本按顺序执行所有步骤：
@@ -215,18 +218,11 @@ python server.py
 
 ## MaxKB 智能体配置
 
-MaxKB 侧的部署、导入与联调细节见：`Intro2MaxKB.md`。
+MaxKB 侧的部署、导入与联调细节见：[Intro2MaxKB](Intro2MaxKB.md)。
 
 - 导入：将 `OpenScout.mk` 导入 MaxKB
 - 配置：为各 Agent 绑定可用模型并发布
 - 联调：配置 `config.json` 中的 `maxkb_api_url` / `maxkb_api_key` 后，通过前端触发分析
-
-### 多 Agent 职责概览
-
-- **The Career Strategist**：基于 Profile、六维雷达与 OpenRank/活跃度趋势，判断职业阶段（上升/稳定/沉寂）、社区生态位（Maintainer/Core/Casual），给出结论式画像。
-- **The Tech Stack Evaluator**：基于语言分布与 Topics，提炼核心技术栈（排除辅助语言）、评估技术广度（I 型/T 型），并判断技术栈的现代性与技术品味。
-- **The Project Analyst**：基于 Top 仓库的 Description/README 片段，判断项目含金量（玩具/练习/资料/生产级），评估文档与工程素养（安装、架构、测试、徽章等）及沟通表达能力。
-- **Chief Talent Officer**：综合以上三位 Agent 输出，生成结构化的《OpenScout 深度人才评估报告》，包含核心画像、技术基因、项目实战与招聘建议（岗位方向/面试重点）。
 
 ## 贡献指南
 欢迎提交 Issue 或 Pull Request 来改进评估模型或增加新的数据源支持。

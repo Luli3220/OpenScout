@@ -13,28 +13,6 @@
     <script src="https://unpkg.com/@phosphor-icons/web"></script>
     <!-- Marked.js for Markdown Rendering -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-
-    <!-- Placeholder Comments Required by Instruction -->
-    <!-- Chosen Palette: Warm Neutrals (Sand/Beige background, Slate text, Burnt Orange accents) -->
-    <!-- Application Structure Plan: The app is designed as a functional dashboard. 
-         1. Header: Search and Identity. 
-         2. Hero Profile: Immediate visual identification of the candidate. 
-         3. AI Analysis (LLM Proxy): The "Brain" of the operation, summarizing data. 
-         4. Metrics Grid (OpenDigger Proxy): 
-            - Radar Chart for holistic skill assessment. 
-            - Activity Heatmap for consistency analysis. 
-            - Contribution Bar for tech stack breakdown.
-         5. Job Match Simulator: Interactive element to demonstrate utility in recruitment.
-         This structure flows from "Who is this?" to "What are they like?" to "Data Proof" to "Actionable Decision". -->
-    <!-- Visualization & Content Choices: 
-         1. Skill Radar (Chart.js): Goal: Inform/Compare. Best for multi-variable developer assessment (Code, Community, etc.). 
-         2. Activity Trend (Chart.js Line): Goal: Change. Shows consistency over time. 
-         3. Tech Stack (Chart.js Bar): Goal: Inform. Shows language distribution.
-         4. AI Summary (Text Block): Goal: Inform/Synthesize. Simulates AI output. 
-         5. Match Score (JS Logic): Goal: Engage. Simulates the decision-making process. 
-         CONFIRMATION: NO SVG graphics used (except font icons). NO Mermaid JS used. -->
-    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
-
     <style>
         /* Custom Theme Configuration */
         :root {
@@ -314,7 +292,7 @@
                     <span class="font-bold text-xl tracking-tight text-slate-800">OpenScout</span>
                 </div>
                 <div class="flex items-center gap-4">
-                    <span class="text-sm text-slate-500 hidden md:block">Powered by OpenDigger & OpenScout AI</span>
+                    <span class="text-sm text-slate-500 hidden md:block">Powered by OpenDigger & MaxKB</span>
                     <button class="text-slate-600 hover:text-orange-600 transition-colors">
                         <i class="ph ph-github-logo text-2xl"></i>
                     </button>
@@ -721,14 +699,16 @@
         function renderKeywordChip(label, rawValue) {
             const value = formatKeywordsCompact(rawValue) || '无';
             const chip = document.createElement('span');
-            chip.className = 'inline-flex items-center gap-1 px-2 py-1 rounded-md bg-white border border-slate-200 text-xs text-slate-700 whitespace-nowrap';
+            // Modified for better visibility but keeping it "plain":
+            // bg-slate-100 (light gray), border-slate-300 (defined border), shadow-sm (subtle lift), font-medium
+            chip.className = 'inline-flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-slate-100 border border-slate-300 text-xs text-slate-700 whitespace-nowrap shadow-sm font-medium';
 
             const k = document.createElement('span');
-            k.className = 'text-slate-500';
+            k.className = 'text-slate-500 font-normal'; // Keep label slightly lighter and normal weight
             k.textContent = `${label}:`;
 
             const v = document.createElement('span');
-            v.className = 'text-slate-800';
+            v.className = 'text-slate-900'; // Make value darker for contrast
             v.textContent = value;
 
             chip.appendChild(k);
@@ -954,7 +934,7 @@
             // Update UI to show mining status
             document.getElementById('userName').textContent = username;
             document.getElementById('userBio').textContent = "Data mining in progress... Please wait.";
-            
+
             // Show a loading spinner or similar on the radar chart
             const radarCanvas = document.getElementById('radarChart');
             const ctx = radarCanvas.getContext('2d');
@@ -962,7 +942,7 @@
             ctx.font = "20px Arial";
             ctx.fillStyle = "gray";
             ctx.textAlign = "center";
-            ctx.fillText("Mining Data...", radarCanvas.width/2, radarCanvas.height/2);
+            ctx.fillText("Mining Data...", radarCanvas.width / 2, radarCanvas.height / 2);
 
             // Poll every 5 seconds
             if (!miningInterval) {
@@ -1016,7 +996,7 @@
                     alert('User not found in local database and mining failed.');
                     return;
                 }
-                
+
                 // Clear any mining interval if successful
                 if (miningInterval) {
                     clearInterval(miningInterval);

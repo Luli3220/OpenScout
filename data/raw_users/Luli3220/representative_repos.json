@@ -1,0 +1,161 @@
+[
+  {
+    "name": "ML-Learning",
+    "full_name": "Luli3220/ML-Learning",
+    "html_url": "https://github.com/Luli3220/ML-Learning",
+    "description": "机器学习-张伟楠的学习及个人思考",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 30036728,
+      "Python": 938
+    },
+    "contributions_by_user": 57,
+    "contribution_score": 15238.83,
+    "S_code": 29333.66,
+    "S_social": 1,
+    "S_maint": 57
+  },
+  {
+    "name": "verl",
+    "full_name": "Luli3220/verl",
+    "html_url": "https://github.com/Luli3220/verl",
+    "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 5374981,
+      "Shell": 553939,
+      "Roff": 16664,
+      "Jinja": 5927
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2906.01,
+    "S_code": 5812.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "PaperAssignment_Data_Collection",
+    "full_name": "Luli3220/PaperAssignment_Data_Collection",
+    "html_url": "https://github.com/Luli3220/PaperAssignment_Data_Collection",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "HTML": 19673
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 123.61,
+    "S_code": 19.21,
+    "S_social": 2,
+    "S_maint": 11
+  },
+  {
+    "name": "Luli3220.github.io",
+    "full_name": "Luli3220/Luli3220.github.io",
+    "html_url": "https://github.com/Luli3220/Luli3220.github.io",
+    "description": "homepage",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "SCSS": 68350,
+      "JavaScript": 53893,
+      "HTML": 20081,
+      "CSS": 5867,
+      "Python": 803,
+      "Ruby": 720,
+      "Shell": 28
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 137.12,
+    "S_code": 146.23,
+    "S_social": 2,
+    "S_maint": 6
+  },
+  {
+    "name": "RL4LLM",
+    "full_name": "Luli3220/RL4LLM",
+    "html_url": "https://github.com/Luli3220/RL4LLM",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 21177
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 30.34,
+    "S_code": 20.68,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "Numpy100",
+    "full_name": "Luli3220/Numpy100",
+    "html_url": "https://github.com/Luli3220/Numpy100",
+    "description": "Numpy的100题",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 76844
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 107.52,
+    "S_code": 75.04,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "2025_Paper_LLMPostTraining",
+    "full_name": "Luli3220/2025_Paper_LLMPostTraining",
+    "html_url": "https://github.com/Luli3220/2025_Paper_LLMPostTraining",
+    "description": "2025-PaperLearning-LLM&PostTraining",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1856
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 190.91,
+    "S_code": 1.81,
+    "S_social": 0,
+    "S_maint": 19
+  },
+  {
+    "name": "2025_ECNU_Web",
+    "full_name": "Luli3220/2025_ECNU_Web",
+    "html_url": "https://github.com/Luli3220/2025_ECNU_Web",
+    "description": "2025_ECNU_Web",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 1034079,
+      "CSS": 66510,
+      "JavaScript": 64189,
+      "Python": 26367
+    },
+    "contributions_by_user": 58,
+    "contribution_score": 1161.61,
+    "S_code": 1163.23,
+    "S_social": 0,
+    "S_maint": 58
+  },
+  {
+    "name": "Graph-CoT",
+    "full_name": "Luli3220/Graph-CoT",
+    "html_url": "https://github.com/Luli3220/Graph-CoT",
+    "description": "Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs (ACL 2024)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 271629,
+      "Python": 119336,
+      "Shell": 8520
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 195.06,
+    "S_code": 390.12,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

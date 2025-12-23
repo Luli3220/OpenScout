@@ -1,14 +1,14 @@
-# OpenScout
-
 [![Python Version](https://img.shields.io/badge/python-%3E%3D3.8-red)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-![b111bf2b96bf376180b7fcd1dd3ede8.png]()
+
+# OpenScout
 
 ## 目录
 - [简介](#简介)
 - [核心特性](#核心特性)
-- [架构概览](#架构概览)
-- [快速开始](#快速开始)
+- [技术架构](#技术架构)
+- [安装部署](#安装部署)
+- [MaxKB 智能体配置](#maxkb-智能体配置)
 
 ## 简介
 
@@ -21,47 +21,84 @@
 ### 1. 多维度能力雷达 (6-Dimension Radar)
 基于自研评估模型，从以下六个维度对开发者进行量化评分（50-100 分）。所有原始指标经过 $\ln(x+1)$ 对数正态分布归一化，并通过 CDF 映射至 50-100 区间。
 
-$$ Score_{final} = 50 + 50 \times \Phi\left(\frac{\ln(S_{raw} + 1) - \mu}{\sigma}\right) $$
+```text
+Score_final = 50 + 50 * Φ((ln(S_raw + 1) - μ) / σ)
+```
 
 #### 维度定义与计算公式：
 
 - **影响力 (Influence)**
-  $ S_{inf} = 0.6 \cdot \text{Stars} + 0.4 \cdot (\text{Forks} + \text{Issues}) $
+  ```text
+  S_inf = 0.6 * Stars + 0.4 * (Forks + Issues)
+  ```
   *综合 Stars、Forks、Issues 等社区关注度指标，反映项目的受关注程度。*
 
 - **贡献度 (Contribution)**
-  $ S_{con} = 0.7 \cdot \text{Merged PRs} + 0.3 \cdot \text{Created Issues} $
+  ```text
+  S_con = 0.7 * Merged PRs + 0.3 * Created Issues
+  ```
   *核心考量外部 PR 贡献与 Issue 提出数量，反映开发者对开源社区的实质性产出。*
 
 - **维护力 (Maintainership)**
-  $ S_{main} = 1.0 \cdot \text{Merged Others' PRs} + 0.3 \cdot \text{Review Comments} $
+  ```text
+  S_main = 1.0 * Merged Others' PRs + 0.3 * Review Comments
+  ```
   *评估作为维护者合并 PR 与 Code Review 的活跃度，体现项目维护责任感。*
 
 - **参与度 (Engagement)**
-  $ S_{eng} = 0.6 \cdot \text{Issue Comments} + 0.4 \cdot \text{Review Comments} $
+  ```text
+  S_eng = 0.6 * Issue Comments + 0.4 * Review Comments
+  ```
   *社区互动与讨论参与程度，反映开发者在社区中的活跃交流情况。*
 
 - **多样性 (Diversity)**
-  $ S_{div} = 0.6 \cdot \text{Languages} + 0.4 \cdot \text{Topics} $
+  ```text
+  S_div = 0.6 * Languages + 0.4 * Topics
+  ```
   *技术栈广度与跨领域项目涉猎情况，衡量技术视野的宽广度。*
 
 - **代码能力 (Code Capability)**
-  $ S_{code} = \sum_{\text{PR} \in \text{Merged}} \ln(\text{Repo Stars} + 1) $
+  ```text
+  S_code = Σ_{PR ∈ Merged} ln(Repo Stars + 1)
+  ```
   *基于合并代码所属仓库的 Stars 权重进行深度评估，体现代码被认可的含金量。*
 
 ### 2. 智能多 Agent 数据流水线
-系统包含多个专注于不同任务的 Agent 脚本，协同完成从名单发现到深度画像的全过程：
-- **Scout Agent (`get_user_name`)**: 自适应分片算法突破 GitHub API 限制，海量扫描活跃开发者
-- **Metric Agent (`get_all_metrics`)**: 并发抓取 GitHub 事件流与 OpenDigger 宏观指标
-- **Context Agent (`fetch_tech_stack_context`)**: 深度提取核心仓库的工程配置文件（如 `go.mod`, `package.json`），构建技术栈上下文
-- **Analysis Agent (`calculate_radar`)**: 运用统计学模型（对数正态分布归一化）计算最终雷达分数
+### 多 Agent 职责概览
 
-### 3. 代表作自动甄选
-- **Representative Repos**: 自动计算并筛选开发者最具代表性的 Top 仓库，综合考量代码贡献量与项目本身的影响力权重。
-
-## 架构概览
+- **The Career Strategist**：基于 Profile、六维雷达与 OpenRank/活跃度趋势，判断职业阶段（上升/稳定/沉寂）、社区生态位（Maintainer/Core/Casual），给出结论式画像。
+- **The Tech Stack Evaluator**：基于语言分布与 Topics，提炼核心技术栈（排除辅助语言）、评估技术广度（I 型/T 型），并判断技术栈的现代性与技术品味。
+- **The Project Analyst**：基于 Top 仓库的 Description/README 片段，判断项目含金量（玩具/练习/资料/生产级），评估文档与工程素养（安装、架构、测试、徽章等）及沟通表达能力。
+- **Chief Talent Officer**：综合以上三位 Agent 输出，生成结构化的《OpenScout 深度人才评估报告》，包含核心画像、技术基因、项目实战与招聘建议（岗位方向/面试重点）。
+- **Keywords Generator**：基于《OpenScout 深度人才评估报告》生成 3 个精准关键词，并严格按 JSON 输出：`tech_core` / `career_persona` / `engineering_trait`。
 
 ![Multi-Agent Architecture](image/Multi-agent.png)
+
+## 技术架构
+
+OpenScout 面向“数据采集 + 指标建模 + 智能分析 + 可视化展示”构建端到端链路，核心由四层组成：
+
+- **数据层（GitHub / OpenDigger）**：提供开发者事件、仓库元数据与生态宏观指标（OpenRank、Activity 等）。
+- **采集与建模层（Pipeline）**：位于 `src/`，以脚本流水线方式按阶段增量抓取与计算，将结构化结果落盘到 `data/`。
+- **服务层（Backend API）**：`server.py` 对外提供统一 API，并负责触发缺失用户的自动挖掘与缓存读取。
+- **分析层（MaxKB 多 Agent）**：通过 MaxKB 编排多 Agent，对结构化表单数据进行“岗位画像/技术栈评估/项目审计/总结归纳”等深度分析。
+
+### 前端技术栈
+
+- `OpenScout.htm`：前端（HTML + JS）
+- Tailwind CSS：样式框架
+- Chart.js：数据可视化引擎（雷达图/趋势图/技术栈分布）
+- Marked.js：Markdown 渲染（多 Agent 分析报告展示）
+
+### 后端技术栈
+
+- FastAPI：Python Web 框架（统一 API、静态页面托管、后台任务）
+- OpenDigger API：开源生态数据分析（OpenRank、Activity）
+- GitHub API：基础数据源（用户资料、仓库/事件相关数据）
+- MaxKB API：多 Agent 智能分析编排（可对接星火等大模型）
+- `config.json`：本地配置管理（Token、MaxKB 接入参数）
+
+
 
 ### 目录结构
 ```
@@ -86,7 +123,7 @@ OpenScout/
 └── README.md               # 项目文档
 ```
 
-## 快速开始
+## 安装部署
 
 ### 环境要求
 - Python 3.8+
@@ -94,19 +131,28 @@ OpenScout/
 
 ### 1. 安装依赖
 ```bash
-pip install requests tqdm
+pip install -r requirements.txt
 ```
 
-### 2. 配置 Token
-在项目根目录创建 `config.json`，填入你的 GitHub Token：
+### 2. 配置（GitHub / MaxKB）
+在项目根目录创建/编辑 `config.json`：
+
 ```json
 {
   "github_tokens": [
     "ghp_your_token_1",
     "ghp_your_token_2"
-  ]
+  ],
+  "maxkb_api_url": "http://localhost:8080/chat/api/<app_id>",
+  "maxkb_api_key": "application-your-api-key"
 }
 ```
+
+说明：
+
+- `github_tokens`：用于 GitHub API 访问与速率限制轮询。
+- `maxkb_api_url`：MaxKB 应用 API 的基础路径（不包含 `/chat/completions`）。
+- `maxkb_api_key`：MaxKB 访问 Key（用于 `Authorization: Bearer ...`）。
 
 ### 3. 运行数据流水线
 
@@ -158,6 +204,29 @@ python src/calculate_radar.py
 python src/fetch_tech_stack_context.py
 python src/fetch_representative_repos.py
 ```
+
+### 4. 启动服务
+
+```bash
+python server.py
+```
+
+默认启动后打开 `http://localhost:8001`。
+
+## MaxKB 智能体配置
+
+MaxKB 侧的部署、导入与联调细节见：`Intro2MaxKB.md`。
+
+- 导入：将 `OpenScout.mk` 导入 MaxKB
+- 配置：为各 Agent 绑定可用模型并发布
+- 联调：配置 `config.json` 中的 `maxkb_api_url` / `maxkb_api_key` 后，通过前端触发分析
+
+### 多 Agent 职责概览
+
+- **The Career Strategist**：基于 Profile、六维雷达与 OpenRank/活跃度趋势，判断职业阶段（上升/稳定/沉寂）、社区生态位（Maintainer/Core/Casual），给出结论式画像。
+- **The Tech Stack Evaluator**：基于语言分布与 Topics，提炼核心技术栈（排除辅助语言）、评估技术广度（I 型/T 型），并判断技术栈的现代性与技术品味。
+- **The Project Analyst**：基于 Top 仓库的 Description/README 片段，判断项目含金量（玩具/练习/资料/生产级），评估文档与工程素养（安装、架构、测试、徽章等）及沟通表达能力。
+- **Chief Talent Officer**：综合以上三位 Agent 输出，生成结构化的《OpenScout 深度人才评估报告》，包含核心画像、技术基因、项目实战与招聘建议（岗位方向/面试重点）。
 
 ## 贡献指南
 欢迎提交 Issue 或 Pull Request 来改进评估模型或增加新的数据源支持。

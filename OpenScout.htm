@@ -948,6 +948,30 @@
             });
         }
 
+        let miningInterval = null;
+
+        function showMiningState(username) {
+            // Update UI to show mining status
+            document.getElementById('userName').textContent = username;
+            document.getElementById('userBio').textContent = "Data mining in progress... Please wait.";
+            
+            // Show a loading spinner or similar on the radar chart
+            const radarCanvas = document.getElementById('radarChart');
+            const ctx = radarCanvas.getContext('2d');
+            ctx.clearRect(0, 0, radarCanvas.width, radarCanvas.height);
+            ctx.font = "20px Arial";
+            ctx.fillStyle = "gray";
+            ctx.textAlign = "center";
+            ctx.fillText("Mining Data...", radarCanvas.width/2, radarCanvas.height/2);
+
+            // Poll every 5 seconds
+            if (!miningInterval) {
+                miningInterval = setInterval(() => {
+                    loadProfile(username);
+                }, 5000);
+            }
+        }
+
         // --- 4. CORE LOGIC ---
         async function handleSearch() {
             const query = document.getElementById('searchInput').value.trim();
@@ -981,6 +1005,23 @@
                 }
 
                 const data = await radarRes.value.json();
+
+                if (data.mining) {
+                    // Mining in progress
+                    showMiningState(username);
+                    return;
+                }
+
+                if (!data.found) {
+                    alert('User not found in local database and mining failed.');
+                    return;
+                }
+                
+                // Clear any mining interval if successful
+                if (miningInterval) {
+                    clearInterval(miningInterval);
+                    miningInterval = null;
+                }
 
                 let displayLogin = data.username;
                 let displayName = data.username;

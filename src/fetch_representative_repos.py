@@ -150,11 +150,17 @@ def main():
     import argparse
     parser = argparse.ArgumentParser(add_help=False)
     parser.add_argument('--refresh', action='store_true')
+    parser.add_argument('--username', type=str, help='Fetch data for a single user')
     args, _ = parser.parse_known_args()
     global REFRESH
     REFRESH = args.refresh or os.environ.get('REFRESH_DATA') in ('1', 'true', 'True')
 
-    users = list_users()
+    if args.username:
+        users = [args.username]
+    else:
+        users = list_users()
+
+    print(f"Fetching representative repos for {len(users)} users...")
     for u in users:
         username = u.get('login') if isinstance(u, dict) else u
         if not username: continue

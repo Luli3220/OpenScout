@@ -172,9 +172,40 @@ def main():
     import argparse
     parser = argparse.ArgumentParser(add_help=False)
     parser.add_argument('--refresh', action='store_true')
+    parser.add_argument('--username', type=str, help='Fetch data for a single user')
     args, _ = parser.parse_known_args()
     refresh = args.refresh or os.environ.get('REFRESH_DATA') in ('1', 'true', 'True')
 
+    if args.username:
+        user_list = [args.username]
+        print(f"Single user mode: Fetching data for {args.username}")
+    else:
+        # Load from file if exists
+        if USERS_FILE and os.path.exists(USERS_FILE):
+            try:
+                with open(USERS_FILE, 'r', encoding='utf-8') as f:
+                    if USERS_FILE.endswith('.json'):
+                        loaded_data = json.load(f)
+                        if isinstance(loaded_data, list):
+                            user_list.extend(loaded_data)
+                        else:
+                            print("Warning: JSON file does not contain a list.")
+                    else:
+                        user_list.extend([line.strip() for line in f if line.strip()])
+                print(f"Loaded users from {USERS_FILE}")
+            except Exception as e:
+                print(f"Error reading file {USERS_FILE}: {e}")
+        elif USERS_FILE:
+            print(f"Warning: File {USERS_FILE} not found.")
+
+        # Remove duplicates
+        user_list = list(set(user_list))
+
+        if not user_list:
+            print("No users provided. Using default sample list.")
+            user_list = ["torvalds", "frank-zsy", "X-lab2017", "yyx990803"]
+
+    print(f"Starting batch fetch for {len(user_list)} users...")
     data = batch_fetch(user_list, MAX_WORKERS, OUTPUT_FILE, refresh=refresh)
     duration = time.time() - start_time
     

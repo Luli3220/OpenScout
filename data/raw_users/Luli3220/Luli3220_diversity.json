@@ -1,0 +1,16 @@
+{
+  "username": "Luli3220",
+  "raw_metrics": {
+    "distinct_languages": [
+      "SCSS",
+      "Jupyter Notebook",
+      "Python",
+      "HTML"
+    ],
+    "distinct_topics": [],
+    "language_count": 4,
+    "topic_count": 0,
+    "total_owned_repos": 7
+  },
+  "diversity_score_100": 24.0
+}

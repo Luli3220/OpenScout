@@ -2,11 +2,13 @@ import json
 import os
 import re
 import time
+import sys
 import requests
 from fastapi import BackgroundTasks, FastAPI, HTTPException
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import HTMLResponse, FileResponse, StreamingResponse
 import uvicorn
+import subprocess
 
 app = FastAPI()
 
@@ -19,6 +21,32 @@ MACRO_DATA_FILE = os.path.join(DATA_DIR, "macro_data", "macro_data_results.json"
 USERS_LIST_FILE = os.path.join(DATA_DIR, "users_list.json")
 RAW_USERS_DIR = os.path.join(DATA_DIR, "raw_users")
 CONFIG_FILE = os.path.join(ROOT_DIR, "config.json")
+SRC_DIR = os.path.join(ROOT_DIR, "src")
+PIPELINE_SCRIPT = os.path.join(SRC_DIR, "run_pipeline.py")
+
+# In-memory status for mining jobs
+mining_status = {} # username -> status ("processing", "done", "failed")
+
+def run_pipeline_for_user(username: str):
+    """Background task to run pipeline for a user"""
+    print(f"Starting background mining for {username}")
+    mining_status[username] = "processing"
+    try:
+        # Run the pipeline script via subprocess
+        result = subprocess.run(
+            [sys.executable, PIPELINE_SCRIPT, "--username", username],
+            check=True,
+            capture_output=True,
+            text=True
+        )
+        print(f"Mining for {username} completed.")
+        mining_status[username] = "done"
+    except subprocess.CalledProcessError as e:
+        print(f"Mining for {username} failed: {e.stderr}")
+        mining_status[username] = "failed"
+    except Exception as e:
+        print(f"Mining for {username} error: {str(e)}")
+        mining_status[username] = "failed"
 
 def load_config():
     if os.path.exists(CONFIG_FILE):
@@ -28,6 +56,9 @@ def load_config():
 
 config = load_config()
 MAXKB_API_URL = config.get("maxkb_api_url", "")
+if MAXKB_API_URL:
+    MAXKB_API_URL = f"{MAXKB_API_URL.rstrip('/')}/chat/completions"
+
 MAXKB_API_KEY = config.get("maxkb_api_key", "")
 GITHUB_TOKEN = config.get("github_token") or ((config.get("github_tokens") or [None])[0])
 
@@ -224,7 +255,7 @@ async def get_index():
     return FileResponse(HTML_FILE)
 
 @app.get("/api/analyze/{username}")
-async def analyze_user(username: str):
+def analyze_user(username: str):
     print(f"--- Analyzing User: {username} ---")
 
     # 1. Generate New Payload Structure
@@ -260,7 +291,7 @@ async def analyze_user(username: str):
         raise HTTPException(status_code=500, detail=f"Internal Server Error: {str(e)}")
 
 @app.get("/api/radar/{username}")
-async def get_radar_score(username: str):
+def get_radar_score(username: str, background_tasks: BackgroundTasks):
     scores = load_radar_scores()
     macro_data = load_macro_data()
     
@@ -269,6 +300,8 @@ async def get_radar_score(username: str):
         "username": username,
         "radar": [50, 50, 50, 50, 50, 50], # Default
         "found": False,
+        "mining": False,
+        "mining_status": "none",
         "activity_sum": 0.0,
         "openrank_sum": 0.0,
         "openrank_labels": [],
@@ -276,10 +309,37 @@ async def get_radar_score(username: str):
         "message": "User data not calculated yet"
     }
 
+    # Check mining status first
+    if username in mining_status:
+        status = mining_status[username]
+        response["mining_status"] = status
+        if status == "processing":
+            response["mining"] = True
+            response["message"] = "Mining in progress..."
+            return response
+        elif status == "failed":
+            response["message"] = "Mining failed."
+            # Don't return yet, maybe we have old data? Or just failed state.
+        elif status == "done":
+            # If done, reload scores to get fresh data
+            scores = load_radar_scores()
+            macro_data = load_macro_data()
+            # Clean up status so we don't return "done" forever, or keep it?
+            # Let's keep it "done" until next restart or clear.
+            # But "found" will become True below if data is there.
+
     if username in scores:
         response["radar"] = scores[username]
         response["found"] = True
         response["message"] = "Success"
+    else:
+        # Not found and not mining -> Start Mining
+        if response["mining_status"] == "none":
+             print(f"User {username} not found. Triggering auto-mining.")
+             background_tasks.add_task(run_pipeline_for_user, username)
+             response["mining"] = True
+             response["mining_status"] = "processing"
+             response["message"] = "User not found locally. Auto-mining started."
     
     # Add Macro Data if available
     if username in macro_data:
@@ -293,11 +353,11 @@ async def get_radar_score(username: str):
     return response
 
 @app.get("/api/users")
-async def get_users():
+def get_users():
     return load_users_list()
 
 @app.get("/api/github/{username}")
-async def get_github_user(username: str, background_tasks: BackgroundTasks):
+def get_github_user(username: str, background_tasks: BackgroundTasks):
     cached = load_cached_github_profile(username)
     if cached:
         avatar_file = cached.get("avatar_file")
@@ -359,7 +419,7 @@ async def get_representative_repos(username: str):
         raise HTTPException(status_code=500, detail=str(e))
 
 @app.get("/api/avatar/{username}")
-async def get_cached_avatar(username: str):
+def get_cached_avatar(username: str):
     cached = load_cached_github_profile(username)
     if cached and cached.get("avatar_file"):
         avatar_path = os.path.join(RAW_USERS_DIR, username, cached["avatar_file"])

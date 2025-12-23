@@ -192,19 +192,23 @@ def main():
         print("No tokens found. Exiting.")
         return
 
-    # Load Users
-    if not os.path.exists(user_list_file):
-        print(f"User list file not found: {user_list_file}")
-        return
-        
-    with open(user_list_file, 'r', encoding='utf-8') as f:
-        users = json.load(f)
-        
     import argparse
     parser = argparse.ArgumentParser(add_help=False)
     parser.add_argument('--refresh', action='store_true')
+    parser.add_argument('--username', type=str, help='Fetch data for a single user')
     args, _ = parser.parse_known_args()
     refresh = args.refresh or os.environ.get('REFRESH_DATA') in ('1', 'true', 'True')
+
+    # Load Users
+    users = []
+    if args.username:
+        users = [args.username]
+    elif os.path.exists(user_list_file):
+        with open(user_list_file, 'r', encoding='utf-8') as f:
+            users = json.load(f)
+    else:
+        print(f"User list file not found: {user_list_file}")
+        return
 
     # Init Client
     client = GitHubAPIClient(tokens)

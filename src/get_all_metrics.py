@@ -380,16 +380,21 @@ def main():
     import argparse
     parser = argparse.ArgumentParser(add_help=False)
     parser.add_argument('--refresh', action='store_true', help='Force refresh all fetched metrics')
+    parser.add_argument('--username', type=str, help='Fetch data for a single user')
     args, _ = parser.parse_known_args()
     global FORCE_UPDATE
     FORCE_UPDATE = args.refresh or os.environ.get('REFRESH_DATA') in ('1', 'true', 'True')
 
-    if not os.path.exists(USER_LIST_FILE):
-        print(f"User list file {USER_LIST_FILE} not found.")
-        return
+    if args.username:
+        users = [args.username]
+        print(f"Single user mode: Fetching data for {args.username}")
+    else:
+        if not os.path.exists(USER_LIST_FILE):
+            print(f"User list file {USER_LIST_FILE} not found.")
+            return
 
-    with open(USER_LIST_FILE, 'r', encoding='utf-8') as f:
-        users = json.load(f)
+        with open(USER_LIST_FILE, 'r', encoding='utf-8') as f:
+            users = json.load(f)
     
     client = GitHubAPIClient(TOKENS)
     

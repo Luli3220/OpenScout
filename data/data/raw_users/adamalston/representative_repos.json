@@ -1,0 +1,730 @@
+[
+  {
+    "name": "adamalston",
+    "full_name": "adamalston/adamalston",
+    "html_url": "https://github.com/adamalston/adamalston",
+    "description": ":)",
+    "stars": 246,
+    "forks": 581,
+    "languages": {},
+    "contributions_by_user": 40,
+    "contribution_score": 3216.0,
+    "S_code": 0.0,
+    "S_social": 1408,
+    "S_maint": 40
+  },
+  {
+    "name": "v2",
+    "full_name": "adamalston/v2",
+    "html_url": "https://github.com/adamalston/v2",
+    "description": ":test_tube: Personal website built using React!",
+    "stars": 197,
+    "forks": 40,
+    "languages": {
+      "TypeScript": 29598,
+      "JavaScript": 2836,
+      "HTML": 1559,
+      "SCSS": 481
+    },
+    "contributions_by_user": 201,
+    "contribution_score": 2580.83,
+    "S_code": 33.67,
+    "S_social": 277,
+    "S_maint": 201
+  },
+  {
+    "name": "Heartbleed",
+    "full_name": "adamalston/Heartbleed",
+    "html_url": "https://github.com/adamalston/Heartbleed",
+    "description": "Heartbleed vulnerability exploited 🩸",
+    "stars": 18,
+    "forks": 8,
+    "languages": {
+      "Python": 18948
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 367.25,
+    "S_code": 18.5,
+    "S_social": 34,
+    "S_maint": 29
+  },
+  {
+    "name": "Packet-Sniffing-and-Spoofing",
+    "full_name": "adamalston/Packet-Sniffing-and-Spoofing",
+    "html_url": "https://github.com/adamalston/Packet-Sniffing-and-Spoofing",
+    "description": "Packet sniffing and spoofing 🗃️",
+    "stars": 14,
+    "forks": 9,
+    "languages": {
+      "C": 15276,
+      "Python": 1791
+    },
+    "contributions_by_user": 46,
+    "contribution_score": 532.33,
+    "S_code": 16.67,
+    "S_social": 32,
+    "S_maint": 46
+  },
+  {
+    "name": "SYN-Flood",
+    "full_name": "adamalston/SYN-Flood",
+    "html_url": "https://github.com/adamalston/SYN-Flood",
+    "description": "SYN Flood Attack 🌊",
+    "stars": 14,
+    "forks": 4,
+    "languages": {
+      "C": 4667
+    },
+    "contributions_by_user": 35,
+    "contribution_score": 396.28,
+    "S_code": 4.56,
+    "S_social": 22,
+    "S_maint": 35
+  },
+  {
+    "name": "v1",
+    "full_name": "adamalston/v1",
+    "html_url": "https://github.com/adamalston/v1",
+    "description": "Personal website version 1.0",
+    "stars": 9,
+    "forks": 1,
+    "languages": {
+      "HTML": 16351,
+      "CSS": 9862
+    },
+    "contributions_by_user": 81,
+    "contribution_score": 844.8,
+    "S_code": 25.6,
+    "S_social": 11,
+    "S_maint": 81
+  },
+  {
+    "name": "Clean-My-Mac",
+    "full_name": "adamalston/Clean-My-Mac",
+    "html_url": "https://github.com/adamalston/Clean-My-Mac",
+    "description": ":soap: Shell script to clean my Mac",
+    "stars": 6,
+    "forks": 1,
+    "languages": {
+      "Shell": 736
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 256.36,
+    "S_code": 0.72,
+    "S_social": 8,
+    "S_maint": 24
+  },
+  {
+    "name": "SQL-Injection",
+    "full_name": "adamalston/SQL-Injection",
+    "html_url": "https://github.com/adamalston/SQL-Injection",
+    "description": "SQL Injection exploit 💉",
+    "stars": 6,
+    "forks": 5,
+    "languages": {
+      "PHP": 2229
+    },
+    "contributions_by_user": 34,
+    "contribution_score": 373.09,
+    "S_code": 2.18,
+    "S_social": 16,
+    "S_maint": 34
+  },
+  {
+    "name": "COVID-19-Dashboard",
+    "full_name": "adamalston/COVID-19-Dashboard",
+    "html_url": "https://github.com/adamalston/COVID-19-Dashboard",
+    "description": ":microbe: COVID-19 dashboard and map built with React, Leaflet, and Mapbox.",
+    "stars": 5,
+    "forks": 5,
+    "languages": {
+      "JavaScript": 24423,
+      "SCSS": 12125
+    },
+    "contributions_by_user": 61,
+    "contribution_score": 657.85,
+    "S_code": 35.69,
+    "S_social": 15,
+    "S_maint": 61
+  },
+  {
+    "name": "carbon",
+    "full_name": "adamalston/carbon",
+    "html_url": "https://github.com/adamalston/carbon",
+    "description": "A design system built by IBM",
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "TypeScript": 4223381,
+      "JavaScript": 4101998,
+      "SCSS": 1552422,
+      "MDX": 661732,
+      "HTML": 170643,
+      "Vue": 2591,
+      "Dockerfile": 642,
+      "Shell": 571
+    },
+    "contributions_by_user": 135,
+    "contribution_score": 6595.44,
+    "S_code": 10462.87,
+    "S_social": 7,
+    "S_maint": 135
+  },
+  {
+    "name": "overwatch",
+    "full_name": "adamalston/overwatch",
+    "html_url": "https://github.com/adamalston/overwatch",
+    "description": "🔎 Containerized Monitoring for CI/CD Pipelines in the Cloud",
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "Dockerfile": 858
+    },
+    "contributions_by_user": 32,
+    "contribution_score": 334.42,
+    "S_code": 0.84,
+    "S_social": 7,
+    "S_maint": 32
+  },
+  {
+    "name": "Summarizer",
+    "full_name": "adamalston/Summarizer",
+    "html_url": "https://github.com/adamalston/Summarizer",
+    "description": "📝 Summarizer is a full stack web application that allows a user to summarize any online article",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 35111,
+      "HTML": 13895,
+      "CSS": 1812
+    },
+    "contributions_by_user": 124,
+    "contribution_score": 1268.81,
+    "S_code": 49.63,
+    "S_social": 2,
+    "S_maint": 124
+  },
+  {
+    "name": "kubesat",
+    "full_name": "adamalston/kubesat",
+    "html_url": "https://github.com/adamalston/kubesat",
+    "description": "🛰️ Deploy Kubernetes on AWS manually using Terraform and Ansible",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Python": 60320,
+      "HCL": 13392,
+      "HTML": 5270
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 156.57,
+    "S_code": 77.13,
+    "S_social": 4,
+    "S_maint": 11
+  },
+  {
+    "name": "cypress",
+    "full_name": "adamalston/cypress",
+    "html_url": "https://github.com/adamalston/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 9981495,
+      "JavaScript": 7867549,
+      "Vue": 787690,
+      "HTML": 544957,
+      "SCSS": 82825,
+      "CSS": 23048,
+      "Shell": 7418,
+      "Svelte": 2786,
+      "CoffeeScript": 1829,
+      "EJS": 970
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9426.1,
+    "S_code": 18848.21,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "security",
+    "full_name": "adamalston/security",
+    "html_url": "https://github.com/adamalston/security",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 22.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "Poker",
+    "full_name": "adamalston/Poker",
+    "html_url": "https://github.com/adamalston/Poker",
+    "description": "Voice based interactive poker game developed for visually impaired players! 🎤",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 38634,
+      "HTML": 5955,
+      "CSS": 659
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 158.09,
+    "S_code": 44.19,
+    "S_social": 3,
+    "S_maint": 13
+  },
+  {
+    "name": "SMTP",
+    "full_name": "adamalston/SMTP",
+    "html_url": "https://github.com/adamalston/SMTP",
+    "description": "SMTP client and server implemented using socket programming in Python. 📧",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Python": 12100
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 101.91,
+    "S_code": 11.82,
+    "S_social": 3,
+    "S_maint": 9
+  },
+  {
+    "name": "comp550",
+    "full_name": "adamalston/comp550",
+    "html_url": "https://github.com/adamalston/comp550",
+    "description": "[sp20] Algorithms and Analysis. Formal specification and verification of programs. Techniques of algorithm analysis. Problem-solving paradigms. Survey of algorithms.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 89,
+    "contribution_score": 892.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 89
+  },
+  {
+    "name": "comp435",
+    "full_name": "adamalston/comp435",
+    "html_url": "https://github.com/adamalston/comp435",
+    "description": "[fa19] Cybersecurity Concepts. Topics in computer security including confidentiality, integrity, availability, authentication policies, basic cryptography and cryptographic protocols, ethics, and privacy.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 3045
+    },
+    "contributions_by_user": 51,
+    "contribution_score": 513.49,
+    "S_code": 2.97,
+    "S_social": 1,
+    "S_maint": 51
+  },
+  {
+    "name": "SushiGame",
+    "full_name": "adamalston/SushiGame",
+    "html_url": "https://github.com/adamalston/SushiGame",
+    "description": "Take over a sushi restaurant in this endless Java game! 🍣",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Java": 105009
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 137.27,
+    "S_code": 102.55,
+    "S_social": 3,
+    "S_maint": 8
+  },
+  {
+    "name": "website",
+    "full_name": "adamalston/website",
+    "html_url": "https://github.com/adamalston/website",
+    "description": "Ghostty website. For the source to the Ghostty project, please see https://github.com/ghostty-org/ghostty",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 84191,
+      "CSS": 38919,
+      "Shell": 5283,
+      "Dockerfile": 1169,
+      "Nix": 882,
+      "Makefile": 818,
+      "JavaScript": 118
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 64.15,
+    "S_code": 128.3,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "carbon-website",
+    "full_name": "adamalston/carbon-website",
+    "html_url": "https://github.com/adamalston/carbon-website",
+    "description": "The website for the Carbon Design System.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "MDX": 2721451,
+      "JavaScript": 367128,
+      "SCSS": 77270
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1545.82,
+    "S_code": 3091.65,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ghostty-config",
+    "full_name": "adamalston/ghostty-config",
+    "html_url": "https://github.com/adamalston/ghostty-config",
+    "description": "A beautiful config generator for Ghostty terminal.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 70995,
+      "TypeScript": 49328,
+      "JavaScript": 9331,
+      "CSS": 2852,
+      "HTML": 1853
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 65.6,
+    "S_code": 131.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "2048",
+    "full_name": "adamalston/2048",
+    "html_url": "https://github.com/adamalston/2048",
+    "description": "2048 in grayscale for players with a visual impairment. ⚪⚫",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 18365,
+      "CSS": 2915,
+      "HTML": 567
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 130.67,
+    "S_code": 21.33,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "accessibility",
+    "full_name": "adamalston/accessibility",
+    "html_url": "https://github.com/adamalston/accessibility",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "comp426",
+    "full_name": "adamalston/comp426",
+    "html_url": "https://github.com/adamalston/comp426",
+    "description": "[fa19] Web programming. Developing applications for the World Wide Web including both client-side and server-side programming. Emphasis on Model-View-Controller architecture, AJAX, RESTful Web services, and database interaction.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3305937,
+      "HTML": 25126,
+      "CSS": 11085
+    },
+    "contributions_by_user": 44,
+    "contribution_score": 2071.91,
+    "S_code": 3263.82,
+    "S_social": 0,
+    "S_maint": 44
+  },
+  {
+    "name": "Meltdown-Spectre",
+    "full_name": "adamalston/Meltdown-Spectre",
+    "html_url": "https://github.com/adamalston/Meltdown-Spectre",
+    "description": "Meltdown & Spectre - catastrophic vulnerabilities - exploited 🛡️",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 15921
+    },
+    "contributions_by_user": 50,
+    "contribution_score": 507.77,
+    "S_code": 15.55,
+    "S_social": 0,
+    "S_maint": 50
+  },
+  {
+    "name": "Network-Tools",
+    "full_name": "adamalston/Network-Tools",
+    "html_url": "https://github.com/adamalston/Network-Tools",
+    "description": "Common networking tools reimplemented including a ground-up rebuild of scapy 📡",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 24744
+    },
+    "contributions_by_user": 33,
+    "contribution_score": 342.08,
+    "S_code": 24.16,
+    "S_social": 0,
+    "S_maint": 33
+  },
+  {
+    "name": "comp535",
+    "full_name": "adamalston/comp535",
+    "html_url": "https://github.com/adamalston/comp535",
+    "description": "[sp20] Computer Security. Principles of securing the creation, storage, and transmission of data and ensuring its integrity, confidentiality and availability. Topics include access control, cryptography and cryptographic protocols, network security, and online privacy.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 21,
+    "contribution_score": 210.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 21
+  },
+  {
+    "name": "comp431",
+    "full_name": "adamalston/comp431",
+    "html_url": "https://github.com/adamalston/comp431",
+    "description": "[sp20] Internet Services and Protocols. Application-level protocols HTTP, SMTP, FTP, transport protocols TCP and UDP, and the network-level protocol IP. Internet architecture, naming, addressing, routing, and DNS. Sockets programming. Physical-layer technologies. Ethernet, ATM, and wireless.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 38316,
+      "DIGITAL Command Language": 152
+    },
+    "contributions_by_user": 57,
+    "contribution_score": 588.78,
+    "S_code": 37.57,
+    "S_social": 0,
+    "S_maint": 57
+  },
+  {
+    "name": "comp521",
+    "full_name": "adamalston/comp521",
+    "html_url": "https://github.com/adamalston/comp521",
+    "description": "[fa19] Files and Databases. File organization, database history, practice, major models, system structure, and design. Placement of data on secondary storage. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 116041,
+      "Python": 8013
+    },
+    "contributions_by_user": 49,
+    "contribution_score": 550.57,
+    "S_code": 121.15,
+    "S_social": 0,
+    "S_maint": 49
+  },
+  {
+    "name": "comp455",
+    "full_name": "adamalston/comp455",
+    "html_url": "https://github.com/adamalston/comp455",
+    "description": "[fa19] Theory of computation. Finite automata, regular languages, pushdown automata, context-free languages, and Turing machines. Undecidable problems.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 52,
+    "contribution_score": 520.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 52
+  },
+  {
+    "name": "comp426-backend",
+    "full_name": "adamalston/comp426-backend",
+    "html_url": "https://github.com/adamalston/comp426-backend",
+    "description": "The backend starter project for the comp426 final.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 14828
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 17.24,
+    "S_code": 14.48,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "Twitter426",
+    "full_name": "adamalston/Twitter426",
+    "html_url": "https://github.com/adamalston/Twitter426",
+    "description": "Twitter 426, a Twitter-like application for students in COMP 426 (web programming)! Implemented in dark mode 🌙",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9972,
+      "CSS": 3613,
+      "HTML": 2471
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 77.84,
+    "S_code": 15.68,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "Redventures-Movie-Quotes",
+    "full_name": "adamalston/Redventures-Movie-Quotes",
+    "html_url": "https://github.com/adamalston/Redventures-Movie-Quotes",
+    "description": "Case competition project for movie recommendations based on movie quotes! 🎞️",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 128952,
+      "HTML": 5174,
+      "JavaScript": 3250,
+      "Rich Text Format": 2183
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 138.14,
+    "S_code": 136.29,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "Connect4",
+    "full_name": "adamalston/Connect4",
+    "html_url": "https://github.com/adamalston/Connect4",
+    "description": "Connect 4 game with an immersive UI! 🎲",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 13576,
+      "CSS": 4644,
+      "HTML": 2263
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 30.0,
+    "S_code": 20.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "SmmryChromeExtension",
+    "full_name": "adamalston/SmmryChromeExtension",
+    "html_url": "https://github.com/adamalston/SmmryChromeExtension",
+    "description": "Chrome extension that summarizes online articles! 📰",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 834
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 150.41,
+    "S_code": 0.81,
+    "S_social": 0,
+    "S_maint": 15
+  },
+  {
+    "name": "comp411",
+    "full_name": "adamalston/comp411",
+    "html_url": "https://github.com/adamalston/comp411",
+    "description": "[sp19] Digital logic, circuit components. Data representation, computer architecture and implementation, assembly language programming.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 5,
+    "contribution_score": 50.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "rgbTextColorizer",
+    "full_name": "adamalston/rgbTextColorizer",
+    "html_url": "https://github.com/adamalston/rgbTextColorizer",
+    "description": "Create strings with RGB keys attached to each letter for an awesome gradient effect! 🌈",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 2837
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 61.39,
+    "S_code": 2.77,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "comp110",
+    "full_name": "adamalston/comp110",
+    "html_url": "https://github.com/adamalston/comp110",
+    "description": "[fa17] Introduction to programming. Fundamental programming skills, typically using Java or JavaScript. Problem analysis and algorithm design with examples drawn from numerical and discrete problems.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 160887,
+      "JavaScript": 43677,
+      "HTML": 19852,
+      "CSS": 13381
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 146.11,
+    "S_code": 232.22,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "comp410",
+    "full_name": "adamalston/comp410",
+    "html_url": "https://github.com/adamalston/comp410",
+    "description": "[fa18] Analysis of data structures and their associated algorithms. Abstract data types, lists, stacks, queues, trees, and graphs. Sorting, searching, hashing.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 29159
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 174.24,
+    "S_code": 28.48,
+    "S_social": 0,
+    "S_maint": 16
+  },
+  {
+    "name": "CacheSimulator",
+    "full_name": "adamalston/CacheSimulator",
+    "html_url": "https://github.com/adamalston/CacheSimulator",
+    "description": "Simulate your very own direct-mapped with addresses collected from a MIPS simulator running insertion sort. ⚙️",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 1288
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 180.63,
+    "S_code": 1.26,
+    "S_social": 0,
+    "S_maint": 18
+  },
+  {
+    "name": "PokemonGo-Map",
+    "full_name": "adamalston/PokemonGo-Map",
+    "html_url": "https://github.com/adamalston/PokemonGo-Map",
+    "description": "[Shutdown] Live visualization of all the pokemon in your area... and more! 🌏",
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 4.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 0
+  }
+]

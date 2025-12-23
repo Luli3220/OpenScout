@@ -1,0 +1,845 @@
+[
+  {
+    "name": "awesome-grid-layout",
+    "full_name": "simoneas02/awesome-grid-layout",
+    "html_url": "https://github.com/simoneas02/awesome-grid-layout",
+    "description": "👓 A curated list of CSS Grid Layout Module or only Css Grid.",
+    "stars": 102,
+    "forks": 9,
+    "languages": {},
+    "contributions_by_user": 21,
+    "contribution_score": 450.0,
+    "S_code": 0.0,
+    "S_social": 120,
+    "S_maint": 21
+  },
+  {
+    "name": "react-cheatsheet",
+    "full_name": "simoneas02/react-cheatsheet",
+    "html_url": "https://github.com/simoneas02/react-cheatsheet",
+    "description": ":blue_book: React ES6 Reference",
+    "stars": 52,
+    "forks": 13,
+    "languages": {},
+    "contributions_by_user": 9,
+    "contribution_score": 246.0,
+    "S_code": 0.0,
+    "S_social": 78,
+    "S_maint": 9
+  },
+  {
+    "name": "youtube-css-grid",
+    "full_name": "simoneas02/youtube-css-grid",
+    "html_url": "https://github.com/simoneas02/youtube-css-grid",
+    "description": "Layout do YouTube com CSS Grid Layout",
+    "stars": 31,
+    "forks": 7,
+    "languages": {
+      "HTML": 24692,
+      "CSS": 8994
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 176.45,
+    "S_code": 32.9,
+    "S_social": 45,
+    "S_maint": 7
+  },
+  {
+    "name": "JS",
+    "full_name": "simoneas02/JS",
+    "html_url": "https://github.com/simoneas02/JS",
+    "description": ":memo: :purple_heart: Simples notas sobre conceitos de JS",
+    "stars": 24,
+    "forks": 8,
+    "languages": {
+      "JavaScript": 2417,
+      "HTML": 297
+    },
+    "contributions_by_user": 51,
+    "contribution_score": 591.33,
+    "S_code": 2.65,
+    "S_social": 40,
+    "S_maint": 51
+  },
+  {
+    "name": "css-grid-examples",
+    "full_name": "simoneas02/css-grid-examples",
+    "html_url": "https://github.com/simoneas02/css-grid-examples",
+    "description": null,
+    "stars": 21,
+    "forks": 2,
+    "languages": {},
+    "contributions_by_user": 17,
+    "contribution_score": 220.0,
+    "S_code": 0.0,
+    "S_social": 25,
+    "S_maint": 17
+  },
+  {
+    "name": "made-with-heart",
+    "full_name": "simoneas02/made-with-heart",
+    "html_url": "https://github.com/simoneas02/made-with-heart",
+    "description": "<:purple_heart: /> A Polymer element to show your love!",
+    "stars": 21,
+    "forks": 5,
+    "languages": {
+      "HTML": 3131
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 183.53,
+    "S_code": 3.06,
+    "S_social": 31,
+    "S_maint": 12
+  },
+  {
+    "name": "2017-goals",
+    "full_name": "simoneas02/2017-goals",
+    "html_url": "https://github.com/simoneas02/2017-goals",
+    "description": ":sparkles: :heart_decoration:  :sparkles: My professional and personal goals for 2017.",
+    "stars": 17,
+    "forks": 4,
+    "languages": {},
+    "contributions_by_user": 26,
+    "contribution_score": 310.0,
+    "S_code": 0.0,
+    "S_social": 25,
+    "S_maint": 26
+  },
+  {
+    "name": "simoneas02.github.io",
+    "full_name": "simoneas02/simoneas02.github.io",
+    "html_url": "https://github.com/simoneas02/simoneas02.github.io",
+    "description": ":six_pointed_star: My personal website.",
+    "stars": 10,
+    "forks": 1,
+    "languages": {
+      "HTML": 6790,
+      "JavaScript": 3319,
+      "CSS": 1833
+    },
+    "contributions_by_user": 50,
+    "contribution_score": 529.83,
+    "S_code": 11.66,
+    "S_social": 12,
+    "S_maint": 50
+  },
+  {
+    "name": "javascript30",
+    "full_name": "simoneas02/javascript30",
+    "html_url": "https://github.com/simoneas02/javascript30",
+    "description": ":boom::bomb::boom:  30 day vanilla JS coding challenge :tada: ",
+    "stars": 10,
+    "forks": 0,
+    "languages": {
+      "HTML": 54147,
+      "JavaScript": 23425,
+      "CSS": 16767
+    },
+    "contributions_by_user": 108,
+    "contribution_score": 1146.06,
+    "S_code": 92.13,
+    "S_social": 10,
+    "S_maint": 108
+  },
+  {
+    "name": "crazy-learning",
+    "full_name": "simoneas02/crazy-learning",
+    "html_url": "https://github.com/simoneas02/crazy-learning",
+    "description": ":stuck_out_tongue_winking_eye::book: Study guide for Front-End Development.",
+    "stars": 9,
+    "forks": 3,
+    "languages": {},
+    "contributions_by_user": 12,
+    "contribution_score": 150.0,
+    "S_code": 0.0,
+    "S_social": 15,
+    "S_maint": 12
+  },
+  {
+    "name": "algorithms",
+    "full_name": "simoneas02/algorithms",
+    "html_url": "https://github.com/simoneas02/algorithms",
+    "description": "This is a place to get notes on studying algorithms 💜",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3497
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 271.71,
+    "S_code": 3.42,
+    "S_social": 5,
+    "S_maint": 26
+  },
+  {
+    "name": "code-style-guide",
+    "full_name": "simoneas02/code-style-guide",
+    "html_url": "https://github.com/simoneas02/code-style-guide",
+    "description": " :white_check_mark:  :thumbsup: A sample code style guide",
+    "stars": 5,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 34.0,
+    "S_code": 0.0,
+    "S_social": 7,
+    "S_maint": 2
+  },
+  {
+    "name": "react-alarm-clock",
+    "full_name": "simoneas02/react-alarm-clock",
+    "html_url": "https://github.com/simoneas02/react-alarm-clock",
+    "description": ":alarm_clock: Alarm clock for developers ",
+    "stars": 4,
+    "forks": 4,
+    "languages": {
+      "JavaScript": 26181,
+      "CSS": 4355,
+      "HTML": 626
+    },
+    "contributions_by_user": 36,
+    "contribution_score": 399.22,
+    "S_code": 30.43,
+    "S_social": 12,
+    "S_maint": 36
+  },
+  {
+    "name": "css-grid-presentation",
+    "full_name": "simoneas02/css-grid-presentation",
+    "html_url": "https://github.com/simoneas02/css-grid-presentation",
+    "description": "A simple presentation about CSS Grid Layout 💞 ",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9406,
+      "HTML": 534
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 32.85,
+    "S_code": 9.71,
+    "S_social": 4,
+    "S_maint": 2
+  },
+  {
+    "name": "api-node-example",
+    "full_name": "simoneas02/api-node-example",
+    "html_url": "https://github.com/simoneas02/api-node-example",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9614,
+      "HTML": 88
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 100.74,
+    "S_code": 9.47,
+    "S_social": 3,
+    "S_maint": 9
+  },
+  {
+    "name": "dev-beers",
+    "full_name": "simoneas02/dev-beers",
+    "html_url": "https://github.com/simoneas02/dev-beers",
+    "description": "🍺 Beers list with React / Redux!!! 🍻💻",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 12627,
+      "CSS": 11783,
+      "HTML": 2183
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 238.98,
+    "S_code": 25.97,
+    "S_social": 3,
+    "S_maint": 22
+  },
+  {
+    "name": "Exercism-JS",
+    "full_name": "simoneas02/Exercism-JS",
+    "html_url": "https://github.com/simoneas02/Exercism-JS",
+    "description": "A sample track to practice my challenges in JS",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 816
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 46.4,
+    "S_code": 0.8,
+    "S_social": 3,
+    "S_maint": 4
+  },
+  {
+    "name": "2018-goals",
+    "full_name": "simoneas02/2018-goals",
+    "html_url": "https://github.com/simoneas02/2018-goals",
+    "description": "✨ 💟 ✨ My professional and personal goals for this year!",
+    "stars": 3,
+    "forks": 2,
+    "languages": {},
+    "contributions_by_user": 37,
+    "contribution_score": 384.0,
+    "S_code": 0.0,
+    "S_social": 7,
+    "S_maint": 37
+  },
+  {
+    "name": "gatsby-bootcamp",
+    "full_name": "simoneas02/gatsby-bootcamp",
+    "html_url": "https://github.com/simoneas02/gatsby-bootcamp",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8664,
+      "CSS": 23
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 208.24,
+    "S_code": 8.48,
+    "S_social": 2,
+    "S_maint": 20
+  },
+  {
+    "name": "trance-subgenres",
+    "full_name": "simoneas02/trance-subgenres",
+    "html_url": "https://github.com/simoneas02/trance-subgenres",
+    "description": "Conheça um pouco sobre algumas vertentes do Psytrance!  ☮ 💜 ☯ 🤝",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 28716,
+      "HTML": 654,
+      "CSS": 302
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 208.49,
+    "S_code": 28.98,
+    "S_social": 2,
+    "S_maint": 19
+  },
+  {
+    "name": "react-todo",
+    "full_name": "simoneas02/react-todo",
+    "html_url": "https://github.com/simoneas02/react-todo",
+    "description": ":pencil: A simple TODO List",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9468,
+      "CSS": 4544,
+      "HTML": 777
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 161.22,
+    "S_code": 14.44,
+    "S_social": 2,
+    "S_maint": 15
+  },
+  {
+    "name": "react-library",
+    "full_name": "simoneas02/react-library",
+    "html_url": "https://github.com/simoneas02/react-library",
+    "description": "📚 My amazing list of the books 💜🙇‍♀️💜",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3536,
+      "HTML": 2056
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 66.73,
+    "S_code": 5.46,
+    "S_social": 2,
+    "S_maint": 6
+  },
+  {
+    "name": "react-weather",
+    "full_name": "simoneas02/react-weather",
+    "html_url": "https://github.com/simoneas02/react-weather",
+    "description": "☀🌤⛅ A simple application to search the weather in your city 🌦☁🌧⛈",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5523,
+      "HTML": 2419
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 77.88,
+    "S_code": 7.76,
+    "S_social": 2,
+    "S_maint": 7
+  },
+  {
+    "name": "vue-todo",
+    "full_name": "simoneas02/vue-todo",
+    "html_url": "https://github.com/simoneas02/vue-todo",
+    "description": ":pencil: :pencil2: A simple TODO List",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Vue": 2275,
+      "JavaScript": 1519,
+      "HTML": 202
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 15.95,
+    "S_code": 3.9,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "data-science",
+    "full_name": "simoneas02/data-science",
+    "html_url": "https://github.com/simoneas02/data-science",
+    "description": "🐍 A planning study to become a data scientist and to improve my current skills. 🤘🏼🌻",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 260528
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 355.21,
+    "S_code": 254.42,
+    "S_social": 4,
+    "S_maint": 22
+  },
+  {
+    "name": "js-ninja",
+    "full_name": "simoneas02/js-ninja",
+    "html_url": "https://github.com/simoneas02/js-ninja",
+    "description": ":ribbon: My solution for challenges  applied in the course curso Javascript Ninja 🐱‍👤",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 97953,
+      "HTML": 8684
+    },
+    "contributions_by_user": 38,
+    "contribution_score": 436.07,
+    "S_code": 104.14,
+    "S_social": 2,
+    "S_maint": 38
+  },
+  {
+    "name": "psytrance-fest",
+    "full_name": "simoneas02/psytrance-fest",
+    "html_url": "https://github.com/simoneas02/psytrance-fest",
+    "description": "The best Psytrance festivals in the world",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 4530,
+      "CSS": 2514,
+      "Vue": 2046,
+      "JavaScript": 461,
+      "HTML": 320
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 166.82,
+    "S_code": 9.64,
+    "S_social": 1,
+    "S_maint": 16
+  },
+  {
+    "name": "bookish-react",
+    "full_name": "simoneas02/bookish-react",
+    "html_url": "https://github.com/simoneas02/bookish-react",
+    "description": "A simple application about books 📚",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 56152,
+      "JavaScript": 44075,
+      "Gherkin": 1065
+    },
+    "contributions_by_user": 142,
+    "contribution_score": 1471.46,
+    "S_code": 98.92,
+    "S_social": 1,
+    "S_maint": 142
+  },
+  {
+    "name": "refactoring",
+    "full_name": "simoneas02/refactoring",
+    "html_url": "https://github.com/simoneas02/refactoring",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6505,
+      "HTML": 690
+    },
+    "contributions_by_user": 59,
+    "contribution_score": 595.51,
+    "S_code": 7.03,
+    "S_social": 1,
+    "S_maint": 59
+  },
+  {
+    "name": "mentoria",
+    "full_name": "simoneas02/mentoria",
+    "html_url": "https://github.com/simoneas02/mentoria",
+    "description": "Projeto com a finalidade de apoiar mulheres no desenvolvimento de habilidades voltadas para a área de tecnologia.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 26.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "circle-ci-test",
+    "full_name": "simoneas02/circle-ci-test",
+    "html_url": "https://github.com/simoneas02/circle-ci-test",
+    "description": "A simple project to get understand Jest and CircleCI.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4958
+    },
+    "contributions_by_user": 31,
+    "contribution_score": 314.42,
+    "S_code": 4.84,
+    "S_social": 1,
+    "S_maint": 31
+  },
+  {
+    "name": "react-responsive-menu",
+    "full_name": "simoneas02/react-responsive-menu",
+    "html_url": "https://github.com/simoneas02/react-responsive-menu",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9619,
+      "HTML": 1721,
+      "CSS": 1537
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 88.29,
+    "S_code": 12.58,
+    "S_social": 1,
+    "S_maint": 8
+  },
+  {
+    "name": "curriculo",
+    "full_name": "simoneas02/curriculo",
+    "html_url": "https://github.com/simoneas02/curriculo",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 241
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.12,
+    "S_code": 0.24,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "nubank-fake",
+    "full_name": "simoneas02/nubank-fake",
+    "html_url": "https://github.com/simoneas02/nubank-fake",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 573
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.28,
+    "S_code": 0.56,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "webpack-example",
+    "full_name": "simoneas02/webpack-example",
+    "html_url": "https://github.com/simoneas02/webpack-example",
+    "description": "Just a example how configure a webpack",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9074,
+      "HTML": 347,
+      "CSS": 124
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 156.66,
+    "S_code": 9.32,
+    "S_social": 1,
+    "S_maint": 15
+  },
+  {
+    "name": "hacktoberfest-pull",
+    "full_name": "simoneas02/hacktoberfest-pull",
+    "html_url": "https://github.com/simoneas02/hacktoberfest-pull",
+    "description": null,
+    "stars": 1,
+    "forks": 4,
+    "languages": {
+      "HTML": 7998,
+      "CSS": 1911
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 82.84,
+    "S_code": 9.68,
+    "S_social": 9,
+    "S_maint": 6
+  },
+  {
+    "name": "hacker-news",
+    "full_name": "simoneas02/hacker-news",
+    "html_url": "https://github.com/simoneas02/hacker-news",
+    "description": "🕶 A simple app to show the data of Hacker News 🕵️‍♀️",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 79580,
+      "HTML": 404
+    },
+    "contributions_by_user": 52,
+    "contribution_score": 561.05,
+    "S_code": 78.11,
+    "S_social": 1,
+    "S_maint": 52
+  },
+  {
+    "name": "react-ninja",
+    "full_name": "simoneas02/react-ninja",
+    "html_url": "https://github.com/simoneas02/react-ninja",
+    "description": "All applications created in the course React Ninja 🔖🌠🥇",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9122,
+      "HTML": 1590
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 167.23,
+    "S_code": 10.46,
+    "S_social": 1,
+    "S_maint": 16
+  },
+  {
+    "name": "contracts-list",
+    "full_name": "simoneas02/contracts-list",
+    "html_url": "https://github.com/simoneas02/contracts-list",
+    "description": ":cyclone: :raising_hand: Este projeto é apenas para fins de processo seletivo para a vaga de Engenheiro de Software Front-End",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 10071,
+      "CSS": 5554,
+      "HTML": 1769
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 210.49,
+    "S_code": 16.99,
+    "S_social": 1,
+    "S_maint": 20
+  },
+  {
+    "name": "js-todo",
+    "full_name": "simoneas02/js-todo",
+    "html_url": "https://github.com/simoneas02/js-todo",
+    "description": ":pencil: A simple TODO List",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "CSS": 2244,
+      "JavaScript": 1671,
+      "HTML": 1185
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 34.49,
+    "S_code": 4.98,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "js-counter",
+    "full_name": "simoneas02/js-counter",
+    "html_url": "https://github.com/simoneas02/js-counter",
+    "description": "A simple Counter with vanilla JS",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1514,
+      "HTML": 740
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 23.1,
+    "S_code": 2.2,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "cassandra-training",
+    "full_name": "simoneas02/cassandra-training",
+    "html_url": "https://github.com/simoneas02/cassandra-training",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Scala": 7467
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.65,
+    "S_code": 7.29,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "beta-contrata",
+    "full_name": "simoneas02/beta-contrata",
+    "html_url": "https://github.com/simoneas02/beta-contrata",
+    "description": "Teste para candidatas à vaga de desenvolvedora Front-end da BETA",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9751,
+      "CSS": 5415,
+      "HTML": 2042
+    },
+    "contributions_by_user": 27,
+    "contribution_score": 280.4,
+    "S_code": 16.8,
+    "S_social": 1,
+    "S_maint": 27
+  },
+  {
+    "name": "desafio-frontend",
+    "full_name": "simoneas02/desafio-frontend",
+    "html_url": "https://github.com/simoneas02/desafio-frontend",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "rave-news",
+    "full_name": "simoneas02/rave-news",
+    "html_url": "https://github.com/simoneas02/rave-news",
+    "description": "Rave News: A collaborative content hub for the global electronic music scene.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8974,
+      "CSS": 1105
+    },
+    "contributions_by_user": 52,
+    "contribution_score": 524.92,
+    "S_code": 9.84,
+    "S_social": 0,
+    "S_maint": 52
+  },
+  {
+    "name": "gatsby-demo-blog",
+    "full_name": "simoneas02/gatsby-demo-blog",
+    "html_url": "https://github.com/simoneas02/gatsby-demo-blog",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 14318
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 16.99,
+    "S_code": 13.98,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "kafka-training",
+    "full_name": "simoneas02/kafka-training",
+    "html_url": "https://github.com/simoneas02/kafka-training",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Scala": 15049
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.35,
+    "S_code": 14.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "spark-training",
+    "full_name": "simoneas02/spark-training",
+    "html_url": "https://github.com/simoneas02/spark-training",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Scala": 89672,
+      "HCL": 8078
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 47.73,
+    "S_code": 95.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "livecode-frontInCampinas",
+    "full_name": "simoneas02/livecode-frontInCampinas",
+    "html_url": "https://github.com/simoneas02/livecode-frontInCampinas",
+    "description": "Live code in the Front in Campinas event",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 1686,
+      "HTML": 977
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.3,
+    "S_code": 2.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dev-cars",
+    "full_name": "simoneas02/dev-cars",
+    "html_url": "https://github.com/simoneas02/dev-cars",
+    "description": "🚗 A car registration for developers",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "my-first-blog",
+    "full_name": "simoneas02/my-first-blog",
+    "html_url": "https://github.com/simoneas02/my-first-blog",
+    "description": ":unicorn: Aplicação com Django para fins de mentoria do evento Django Girls Recife-PE",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 7021,
+      "HTML": 2025
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 94.42,
+    "S_code": 8.83,
+    "S_social": 0,
+    "S_maint": 9
+  }
+]

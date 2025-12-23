@@ -1,0 +1,38 @@
+{
+  "username": "goFrendiAsgard",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Python",
+      "Java",
+      "Jupyter Notebook",
+      "PLpgSQL",
+      "Assembly",
+      "TypeScript",
+      "Objective-C",
+      "Go",
+      "Dockerfile",
+      "TeX",
+      "Smarty",
+      "PHP",
+      "Shell",
+      "CSS",
+      "HTML",
+      "Vim script",
+      "C",
+      "JavaScript",
+      "OpenEdge ABL"
+    ],
+    "distinct_topics": [
+      "nodejs",
+      "chain",
+      "programming-language",
+      "chimera-framework",
+      "language-agnostic",
+      "cbse"
+    ],
+    "language_count": 19,
+    "topic_count": 6,
+    "total_owned_repos": 156
+  },
+  "diversity_score_100": 64.8
+}

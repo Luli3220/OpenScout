@@ -1,0 +1,423 @@
+[
+  {
+    "name": "voxel_svio",
+    "full_name": "ZikangYuan/voxel_svio",
+    "html_url": "https://github.com/ZikangYuan/voxel_svio",
+    "description": "[RA-L 2025 Accept without Revision] A stereo visual-inertial odometry system based on voxel map",
+    "stars": 743,
+    "forks": 126,
+    "languages": {
+      "C++": 609972,
+      "CMake": 6892
+    },
+    "contributions_by_user": 83,
+    "contribution_score": 3121.2,
+    "S_code": 602.41,
+    "S_social": 995,
+    "S_maint": 83
+  },
+  {
+    "name": "liw_oam",
+    "full_name": "ZikangYuan/liw_oam",
+    "html_url": "https://github.com/ZikangYuan/liw_oam",
+    "description": "[IROS 2023] A LiDAR-inertial-wheel odometry and mapping system based on BA framework",
+    "stars": 572,
+    "forks": 73,
+    "languages": {
+      "C++": 425905,
+      "Python": 14747,
+      "CMake": 6601
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 1904.39,
+    "S_code": 436.77,
+    "S_social": 718,
+    "S_maint": 25
+  },
+  {
+    "name": "sr_lio",
+    "full_name": "ZikangYuan/sr_lio",
+    "html_url": "https://github.com/ZikangYuan/sr_lio",
+    "description": "[IROS 2024] A  LiDAR-inertial odometry (LIO) package that can adjust the execution frequency beyond the sweep frequency",
+    "stars": 518,
+    "forks": 62,
+    "languages": {
+      "C++": 320070,
+      "Python": 14118,
+      "CMake": 6515
+    },
+    "contributions_by_user": 121,
+    "contribution_score": 2660.36,
+    "S_code": 332.72,
+    "S_social": 642,
+    "S_maint": 121
+  },
+  {
+    "name": "sr_livo",
+    "full_name": "ZikangYuan/sr_livo",
+    "html_url": "https://github.com/ZikangYuan/sr_livo",
+    "description": "[RA-L 2024] A LiDAR-inertial-visual odometry and mapping system based on the sweep reconstruction method",
+    "stars": 351,
+    "forks": 34,
+    "languages": {
+      "C++": 440538,
+      "CMake": 6726
+    },
+    "contributions_by_user": 36,
+    "contribution_score": 1416.39,
+    "S_code": 436.78,
+    "S_social": 419,
+    "S_maint": 36
+  },
+  {
+    "name": "SDV-LOAM",
+    "full_name": "ZikangYuan/SDV-LOAM",
+    "html_url": "https://github.com/ZikangYuan/SDV-LOAM",
+    "description": "[TPAMI 2023] A cascaded vision-LiDAR odometry and mapping system",
+    "stars": 333,
+    "forks": 35,
+    "languages": {
+      "C++": 553857,
+      "CMake": 11829
+    },
+    "contributions_by_user": 32,
+    "contribution_score": 1402.21,
+    "S_code": 552.43,
+    "S_social": 403,
+    "S_maint": 32
+  },
+  {
+    "name": "dynamic_lio",
+    "full_name": "ZikangYuan/dynamic_lio",
+    "html_url": "https://github.com/ZikangYuan/dynamic_lio",
+    "description": "[IROS 2025] A LiDAR-inertial odometry for dynamic environments",
+    "stars": 242,
+    "forks": 17,
+    "languages": {
+      "C++": 575952,
+      "CMake": 8301,
+      "Python": 6594,
+      "C": 2374,
+      "Shell": 2018,
+      "Dockerfile": 1846,
+      "Makefile": 335
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 1083.71,
+    "S_code": 583.42,
+    "S_social": 276,
+    "S_maint": 24
+  },
+  {
+    "name": "semi_elastic_lio",
+    "full_name": "ZikangYuan/semi_elastic_lio",
+    "html_url": "https://github.com/ZikangYuan/semi_elastic_lio",
+    "description": "[ICRA 2025] A LiDAR-inertial odometry utilizing semi-elastic LiDAR-inertial state estimation method",
+    "stars": 134,
+    "forks": 14,
+    "languages": {
+      "C++": 395029,
+      "Python": 14118,
+      "CMake": 6610
+    },
+    "contributions_by_user": 51,
+    "contribution_score": 1037.01,
+    "S_code": 406.01,
+    "S_social": 162,
+    "S_maint": 51
+  },
+  {
+    "name": "panoramic_lidar_dso",
+    "full_name": "ZikangYuan/panoramic_lidar_dso",
+    "html_url": "https://github.com/ZikangYuan/panoramic_lidar_dso",
+    "description": "A panoramic direct LiDAR-assisted visual odometry",
+    "stars": 58,
+    "forks": 2,
+    "languages": {
+      "C++": 897022,
+      "C": 14661,
+      "CMake": 11799
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 804.92,
+    "S_code": 901.84,
+    "S_social": 62,
+    "S_maint": 23
+  },
+  {
+    "name": "UniGaussians",
+    "full_name": "ZikangYuan/UniGaussians",
+    "html_url": "https://github.com/ZikangYuan/UniGaussians",
+    "description": null,
+    "stars": 16,
+    "forks": 0,
+    "languages": {
+      "HTML": 184305,
+      "JavaScript": 102491,
+      "CSS": 7382
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 405.64,
+    "S_code": 287.28,
+    "S_social": 16,
+    "S_maint": 23
+  },
+  {
+    "name": "kitti360_2bag",
+    "full_name": "ZikangYuan/kitti360_2bag",
+    "html_url": "https://github.com/ZikangYuan/kitti360_2bag",
+    "description": "A tool for converting data of KITTI-360 dataset to ROS bag format.",
+    "stars": 13,
+    "forks": 3,
+    "languages": {
+      "C++": 7932,
+      "C": 2274,
+      "CMake": 792
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 213.37,
+    "S_code": 10.74,
+    "S_social": 19,
+    "S_maint": 17
+  },
+  {
+    "name": "kaist2bag",
+    "full_name": "ZikangYuan/kaist2bag",
+    "html_url": "https://github.com/ZikangYuan/kaist2bag",
+    "description": "A tool to generate rosbag from KAIST dataset measurements",
+    "stars": 10,
+    "forks": 1,
+    "languages": {
+      "C++": 51440,
+      "CMake": 7902,
+      "Python": 2345
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 134.12,
+    "S_code": 60.24,
+    "S_social": 12,
+    "S_maint": 8
+  },
+  {
+    "name": "kitti2bag",
+    "full_name": "ZikangYuan/kitti2bag",
+    "html_url": "https://github.com/ZikangYuan/kitti2bag",
+    "description": "A tool for converting data of KITTI-Odometry dataset to ROS bag format.",
+    "stars": 10,
+    "forks": 0,
+    "languages": {
+      "C++": 5237,
+      "C": 2274,
+      "CMake": 778
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 84.05,
+    "S_code": 8.09,
+    "S_social": 10,
+    "S_maint": 6
+  },
+  {
+    "name": "gs-dso",
+    "full_name": "ZikangYuan/gs-dso",
+    "html_url": "https://github.com/ZikangYuan/gs-dso",
+    "description": "a monocular direct sparse odometry with prior continuous 3D gaussian maps for indoor environments",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "C++": 866350,
+      "Cuda": 94619,
+      "Metal": 49138,
+      "Objective-C++": 31898,
+      "CMake": 24866,
+      "C": 1257
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 527.55,
+    "S_code": 1043.09,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "BumpyPatch",
+    "full_name": "ZikangYuan/BumpyPatch",
+    "html_url": "https://github.com/ZikangYuan/BumpyPatch",
+    "description": "[2023 IEEE IRC] BumpyPatch : Heightmap-based Point Cloud to Find Less Bumpy Road",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 11609051,
+      "Makefile": 457964,
+      "CMake": 134976,
+      "Python": 95326,
+      "C": 20332,
+      "C++": 20152,
+      "Shell": 18390
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6039.3,
+    "S_code": 12066.59,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "ct-lio",
+    "full_name": "ZikangYuan/ct-lio",
+    "html_url": "https://github.com/ZikangYuan/ct-lio",
+    "description": "CT-LIO: Continuous-Time LiDAR-Inertial Odometry",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "C++": 253053,
+      "CMake": 21861,
+      "Python": 2091,
+      "C": 445
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 145.47,
+    "S_code": 270.95,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "kitti_carla2bag",
+    "full_name": "ZikangYuan/kitti_carla2bag",
+    "html_url": "https://github.com/ZikangYuan/kitti_carla2bag",
+    "description": "A tool for converting data of KITTI-CARLA dataset to ROS bag format.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "C++": 13418,
+      "C": 2274,
+      "CMake": 800
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 174.05,
+    "S_code": 16.11,
+    "S_social": 3,
+    "S_maint": 16
+  },
+  {
+    "name": "FAST-LIVO2",
+    "full_name": "ZikangYuan/FAST-LIVO2",
+    "html_url": "https://github.com/ZikangYuan/FAST-LIVO2",
+    "description": "FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry",
+    "stars": 2,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 4.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "kitti_carla_calib",
+    "full_name": "ZikangYuan/kitti_carla_calib",
+    "html_url": "https://github.com/ZikangYuan/kitti_carla_calib",
+    "description": "A tool for eliminating the motion distortion of LiDAR point cloud of KITTI-CARLA dataset",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C++": 21123,
+      "CMake": 714
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 224.66,
+    "S_code": 21.33,
+    "S_social": 2,
+    "S_maint": 21
+  },
+  {
+    "name": "RGBD-DSO",
+    "full_name": "ZikangYuan/RGBD-DSO",
+    "html_url": "https://github.com/ZikangYuan/RGBD-DSO",
+    "description": "This is the RGB-D version of monocular DSO",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C++": 646952,
+      "CMake": 11351
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 325.44,
+    "S_code": 642.87,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "ZikangYuan.github.io",
+    "full_name": "ZikangYuan/ZikangYuan.github.io",
+    "html_url": "https://github.com/ZikangYuan/ZikangYuan.github.io",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 78909,
+      "SCSS": 2202
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 261.6,
+    "S_code": 79.21,
+    "S_social": 1,
+    "S_maint": 22
+  },
+  {
+    "name": "iftd",
+    "full_name": "ZikangYuan/iftd",
+    "html_url": "https://github.com/ZikangYuan/iftd",
+    "description": "Image Feature Triangle Descriptor for Loop Detection in Driving Scenes",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 52267,
+      "CMake": 2265
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 48.63,
+    "S_code": 53.25,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "EPIC",
+    "full_name": "ZikangYuan/EPIC",
+    "html_url": "https://github.com/ZikangYuan/EPIC",
+    "description": "Exploring on Point Clouds: A Lightweight LiDAR-Based UAV Exploration Framework for Large-Scale Scenarios",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 3476838,
+      "C": 2266310,
+      "Makefile": 288490,
+      "Python": 271955,
+      "CMake": 170617,
+      "Shell": 61249,
+      "GLSL": 4825
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3195.5,
+    "S_code": 6387.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "uav_frontier_exploration_3d",
+    "full_name": "ZikangYuan/uav_frontier_exploration_3d",
+    "html_url": "https://github.com/ZikangYuan/uav_frontier_exploration_3d",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 53834,
+      "Python": 9868,
+      "Lua": 3405,
+      "CMake": 1918,
+      "Shell": 335
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.87,
+    "S_code": 67.73,
+    "S_social": 1,
+    "S_maint": 0
+  }
+]

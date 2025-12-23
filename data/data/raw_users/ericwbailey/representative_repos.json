@@ -1,0 +1,541 @@
+[
+  {
+    "name": "a11y-syntax-highlighting",
+    "full_name": "ericwbailey/a11y-syntax-highlighting",
+    "html_url": "https://github.com/ericwbailey/a11y-syntax-highlighting",
+    "description": "💄 Accessible light and dark syntax highlighting themes",
+    "stars": 215,
+    "forks": 13,
+    "languages": {
+      "HTML": 199598,
+      "CSS": 8806
+    },
+    "contributions_by_user": 95,
+    "contribution_score": 1533.76,
+    "S_code": 203.52,
+    "S_social": 241,
+    "S_maint": 95
+  },
+  {
+    "name": "millennials-to-snake-people",
+    "full_name": "ericwbailey/millennials-to-snake-people",
+    "html_url": "https://github.com/ericwbailey/millennials-to-snake-people",
+    "description": "🐍 Chrome extension that replaces occurrences of 'Millennials' with 'Snake People'",
+    "stars": 195,
+    "forks": 113,
+    "languages": {
+      "JavaScript": 11414
+    },
+    "contributions_by_user": 83,
+    "contribution_score": 1677.57,
+    "S_code": 11.15,
+    "S_social": 421,
+    "S_maint": 83
+  },
+  {
+    "name": "empathy-prompts",
+    "full_name": "ericwbailey/empathy-prompts",
+    "html_url": "https://github.com/ericwbailey/empathy-prompts",
+    "description": "💡 Ideas to help consider Inclusive Design principles when making things for others to use.",
+    "stars": 195,
+    "forks": 14,
+    "languages": {
+      "CSS": 183935,
+      "JavaScript": 44367,
+      "HTML": 33611
+    },
+    "contributions_by_user": 151,
+    "contribution_score": 2083.89,
+    "S_code": 255.77,
+    "S_social": 223,
+    "S_maint": 151
+  },
+  {
+    "name": "accessible-html-content-patterns",
+    "full_name": "ericwbailey/accessible-html-content-patterns",
+    "html_url": "https://github.com/ericwbailey/accessible-html-content-patterns",
+    "description": "♿️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.",
+    "stars": 184,
+    "forks": 7,
+    "languages": {
+      "Handlebars": 72656,
+      "Makefile": 253,
+      "JavaScript": 172
+    },
+    "contributions_by_user": 207,
+    "contribution_score": 2501.68,
+    "S_code": 71.37,
+    "S_social": 198,
+    "S_maint": 207
+  },
+  {
+    "name": "ericwbailey.website",
+    "full_name": "ericwbailey/ericwbailey.website",
+    "html_url": "https://github.com/ericwbailey/ericwbailey.website",
+    "description": "📐 Repo for my personal website.",
+    "stars": 64,
+    "forks": 5,
+    "languages": {
+      "HTML": 247486,
+      "Nunjucks": 133360,
+      "SCSS": 53764,
+      "JavaScript": 5335
+    },
+    "contributions_by_user": 2032,
+    "contribution_score": 20682.82,
+    "S_code": 429.63,
+    "S_social": 74,
+    "S_maint": 2032
+  },
+  {
+    "name": "a11y-webring.club",
+    "full_name": "ericwbailey/a11y-webring.club",
+    "html_url": "https://github.com/ericwbailey/a11y-webring.club",
+    "description": "🌐 A webring for digital accessibility practitioners.",
+    "stars": 63,
+    "forks": 116,
+    "languages": {
+      "Nunjucks": 40184,
+      "CSS": 19579,
+      "JavaScript": 4096
+    },
+    "contributions_by_user": 293,
+    "contribution_score": 3551.18,
+    "S_code": 62.36,
+    "S_social": 295,
+    "S_maint": 293
+  },
+  {
+    "name": "styled-component-template",
+    "full_name": "ericwbailey/styled-component-template",
+    "html_url": "https://github.com/ericwbailey/styled-component-template",
+    "description": "💅 Help keep your Sass partials consistent",
+    "stars": 25,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 13,
+    "contribution_score": 180.0,
+    "S_code": 0.0,
+    "S_social": 25,
+    "S_maint": 13
+  },
+  {
+    "name": "alfred-wcag-workflow",
+    "full_name": "ericwbailey/alfred-wcag-workflow",
+    "html_url": "https://github.com/ericwbailey/alfred-wcag-workflow",
+    "description": "🎩 Search through, copy, and open Web Content Accessibility Guideline (WCAG) Success Criterion (SC) using Alfred",
+    "stars": 21,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 13,
+    "contribution_score": 172.0,
+    "S_code": 0.0,
+    "S_social": 21,
+    "S_maint": 13
+  },
+  {
+    "name": "alfred-emoji-snippets",
+    "full_name": "ericwbailey/alfred-emoji-snippets",
+    "html_url": "https://github.com/ericwbailey/alfred-emoji-snippets",
+    "description": "🙃 Emoji Snippets for Alfred App",
+    "stars": 17,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 65,
+    "contribution_score": 688.0,
+    "S_code": 0.0,
+    "S_social": 19,
+    "S_maint": 65
+  },
+  {
+    "name": "enchilada",
+    "full_name": "ericwbailey/enchilada",
+    "html_url": "https://github.com/ericwbailey/enchilada",
+    "description": "🌯 A collection of files and opinionated code used to set up projects. Check the repo Wiki for more info.",
+    "stars": 17,
+    "forks": 1,
+    "languages": {
+      "SCSS": 198630,
+      "JavaScript": 43076,
+      "Handlebars": 12548,
+      "Makefile": 1642
+    },
+    "contributions_by_user": 644,
+    "contribution_score": 6602.95,
+    "S_code": 249.9,
+    "S_social": 19,
+    "S_maint": 644
+  },
+  {
+    "name": "favicon",
+    "full_name": "ericwbailey/favicon",
+    "html_url": "https://github.com/ericwbailey/favicon",
+    "description": "🖼 An attempt to capture all possible favicons for a web project.",
+    "stars": 16,
+    "forks": 2,
+    "languages": {},
+    "contributions_by_user": 24,
+    "contribution_score": 280.0,
+    "S_code": 0.0,
+    "S_social": 20,
+    "S_maint": 24
+  },
+  {
+    "name": "lowvision.support",
+    "full_name": "ericwbailey/lowvision.support",
+    "html_url": "https://github.com/ericwbailey/lowvision.support",
+    "description": "👁 Help improve your website's accessibility by simulating common low vision disorders and color-blindness.",
+    "stars": 14,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 32,
+    "contribution_score": 352.0,
+    "S_code": 0.0,
+    "S_social": 16,
+    "S_maint": 32
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "ericwbailey/dotfiles",
+    "html_url": "https://github.com/ericwbailey/dotfiles",
+    "description": "🤖 Computer setup",
+    "stars": 11,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 621,
+    "contribution_score": 6236.0,
+    "S_code": 0.0,
+    "S_social": 13,
+    "S_maint": 621
+  },
+  {
+    "name": "working-with-high-contrast-mode-talk",
+    "full_name": "ericwbailey/working-with-high-contrast-mode-talk",
+    "html_url": "https://github.com/ericwbailey/working-with-high-contrast-mode-talk",
+    "description": "🔆 Presented for Accessibility Camp Toronto on November 18, 2017 and ID24 on October 11, 2018.",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 275495,
+      "HTML": 229748,
+      "CSS": 196485
+    },
+    "contributions_by_user": 61,
+    "contribution_score": 960.64,
+    "S_code": 685.28,
+    "S_social": 4,
+    "S_maint": 61
+  },
+  {
+    "name": "sublime-snippets",
+    "full_name": "ericwbailey/sublime-snippets",
+    "html_url": "https://github.com/ericwbailey/sublime-snippets",
+    "description": "Sublime Text snippets",
+    "stars": 4,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 184,
+    "contribution_score": 1852.0,
+    "S_code": 0.0,
+    "S_social": 6,
+    "S_maint": 184
+  },
+  {
+    "name": "literallytheindianocean.io",
+    "full_name": "ericwbailey/literallytheindianocean.io",
+    "html_url": "https://github.com/ericwbailey/literallytheindianocean.io",
+    "description": "🌊 Literally.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 9,
+    "contribution_score": 94.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 9
+  },
+  {
+    "name": "modal-nodes",
+    "full_name": "ericwbailey/modal-nodes",
+    "html_url": "https://github.com/ericwbailey/modal-nodes",
+    "description": "A modular, low-specificity CSS framework for cantina.co",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "HTML": 70680,
+      "CSS": 31696,
+      "JavaScript": 1502
+    },
+    "contributions_by_user": 142,
+    "contribution_score": 1474.72,
+    "S_code": 101.44,
+    "S_social": 2,
+    "S_maint": 142
+  },
+  {
+    "name": "emoji",
+    "full_name": "ericwbailey/emoji",
+    "html_url": "https://github.com/ericwbailey/emoji",
+    "description": "🎉 I'm sorry. ",
+    "stars": 2,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 50,
+    "contribution_score": 504.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 50
+  },
+  {
+    "name": "ericwbailey",
+    "full_name": "ericwbailey/ericwbailey",
+    "html_url": "https://github.com/ericwbailey/ericwbailey",
+    "description": "README",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 22.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "remove-board-movement-events-from-the-github-issue-timeline",
+    "full_name": "ericwbailey/remove-board-movement-events-from-the-github-issue-timeline",
+    "html_url": "https://github.com/ericwbailey/remove-board-movement-events-from-the-github-issue-timeline",
+    "description": "This extension can remove and restore the presence of timeline items generated by a project board event from GitHub's timeline.",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 1216
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 90.59,
+    "S_code": 1.19,
+    "S_social": 5,
+    "S_maint": 8
+  },
+  {
+    "name": "unreliable-narrator",
+    "full_name": "ericwbailey/unreliable-narrator",
+    "html_url": "https://github.com/ericwbailey/unreliable-narrator",
+    "description": "A potentially treacherous public domain font based on Barry Schwartz's take on Frederic Goudy’s Kennerley Oldstyle.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 22.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "es-theme-simplebigart-iii",
+    "full_name": "ericwbailey/es-theme-simplebigart-iii",
+    "html_url": "https://github.com/ericwbailey/es-theme-simplebigart-iii",
+    "description": "🕹 A fork of robertybob/es-theme-simplebigart",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "sadhighfive.com",
+    "full_name": "ericwbailey/sadhighfive.com",
+    "html_url": "https://github.com/ericwbailey/sadhighfive.com",
+    "description": "👏 For quickly communicating that feeling of sorrowful solidarity.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "test",
+    "full_name": "ericwbailey/test",
+    "html_url": "https://github.com/ericwbailey/test",
+    "description": "This repo is for testing and evaluating GitHub-related things",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Objective-C": 30842,
+      "HTML": 91
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 105.1,
+    "S_code": 30.21,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "design-system.club",
+    "full_name": "ericwbailey/design-system.club",
+    "html_url": "https://github.com/ericwbailey/design-system.club",
+    "description": "A webring for design system practitioners.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Nunjucks": 11441,
+      "SCSS": 9813,
+      "JavaScript": 6186
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.4,
+    "S_code": 26.8,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rotisseriechicken599.com",
+    "full_name": "ericwbailey/rotisseriechicken599.com",
+    "html_url": "https://github.com/ericwbailey/rotisseriechicken599.com",
+    "description": "$5.99",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 497
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 50.24,
+    "S_code": 0.49,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "it-is-not-an-accessibility-job-if-it-is-in-office-only.com",
+    "full_name": "ericwbailey/it-is-not-an-accessibility-job-if-it-is-in-office-only.com",
+    "html_url": "https://github.com/ericwbailey/it-is-not-an-accessibility-job-if-it-is-in-office-only.com",
+    "description": "🚫 It's not.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 778
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.38,
+    "S_code": 0.76,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "close-zoom-tab",
+    "full_name": "ericwbailey/close-zoom-tab",
+    "html_url": "https://github.com/ericwbailey/close-zoom-tab",
+    "description": "This extension closes browser tabs that launch a Zoom session. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 417
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 120.2,
+    "S_code": 0.41,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "gimmiethat.space",
+    "full_name": "ericwbailey/gimmiethat.space",
+    "html_url": "https://github.com/ericwbailey/gimmiethat.space",
+    "description": "I need some space.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 2214
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 31.08,
+    "S_code": 2.16,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "overlayfactsheet",
+    "full_name": "ericwbailey/overlayfactsheet",
+    "html_url": "https://github.com/ericwbailey/overlayfactsheet",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 40643,
+      "CSS": 6135
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 162.84,
+    "S_code": 45.68,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "emily-and-eric.wedding",
+    "full_name": "ericwbailey/emily-and-eric.wedding",
+    "html_url": "https://github.com/ericwbailey/emily-and-eric.wedding",
+    "description": "💍 October 12, 2019",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 8263,
+      "HTML": 6436
+    },
+    "contributions_by_user": 35,
+    "contribution_score": 357.18,
+    "S_code": 14.35,
+    "S_social": 0,
+    "S_maint": 35
+  },
+  {
+    "name": "ijustwanttogiveyoumoney.com",
+    "full_name": "ericwbailey/ijustwanttogiveyoumoney.com",
+    "html_url": "https://github.com/ericwbailey/ijustwanttogiveyoumoney.com",
+    "description": "💵 Help me help you",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 842,
+      "CSS": 423
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 70.62,
+    "S_code": 1.24,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "markdown-test-file",
+    "full_name": "ericwbailey/markdown-test-file",
+    "html_url": "https://github.com/ericwbailey/markdown-test-file",
+    "description": "A pure markdown test page to make sure your markdown support works as intended",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "color-blindness-emulation",
+    "full_name": "ericwbailey/color-blindness-emulation",
+    "html_url": "https://github.com/ericwbailey/color-blindness-emulation",
+    "description": "SVG filter collection that emulate 8 types of color blindness.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 2443
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.19,
+    "S_code": 2.39,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

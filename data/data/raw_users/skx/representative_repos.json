@@ -1,0 +1,2010 @@
+[
+  {
+    "name": "sysadmin-util",
+    "full_name": "skx/sysadmin-util",
+    "html_url": "https://github.com/skx/sysadmin-util",
+    "description": "Tools for Linux/Unix sysadmins.",
+    "stars": 992,
+    "forks": 113,
+    "languages": {
+      "Perl": 35036,
+      "Shell": 17457,
+      "C": 3554,
+      "Python": 1367,
+      "Ruby": 863,
+      "Makefile": 624
+    },
+    "contributions_by_user": 117,
+    "contribution_score": 3634.76,
+    "S_code": 57.52,
+    "S_social": 1218,
+    "S_maint": 117
+  },
+  {
+    "name": "bookmarks.public",
+    "full_name": "skx/bookmarks.public",
+    "html_url": "https://github.com/skx/bookmarks.public",
+    "description": "A template for self-hosted bookmarks using HTML & jQuery.",
+    "stars": 655,
+    "forks": 103,
+    "languages": {
+      "JavaScript": 16226,
+      "Perl": 5394,
+      "HTML": 4161,
+      "Python": 1666,
+      "CSS": 513
+    },
+    "contributions_by_user": 83,
+    "contribution_score": 2565.65,
+    "S_code": 27.3,
+    "S_social": 861,
+    "S_maint": 83
+  },
+  {
+    "name": "tunneller",
+    "full_name": "skx/tunneller",
+    "html_url": "https://github.com/skx/tunneller",
+    "description": "Allow internal services, running on localhost, to be accessed over the internet..",
+    "stars": 493,
+    "forks": 43,
+    "languages": {
+      "Go": 22851
+    },
+    "contributions_by_user": 65,
+    "contribution_score": 1819.16,
+    "S_code": 22.32,
+    "S_social": 579,
+    "S_maint": 65
+  },
+  {
+    "name": "simple.vm",
+    "full_name": "skx/simple.vm",
+    "html_url": "https://github.com/skx/simple.vm",
+    "description": "Simple virtual machine which interprets bytecode.",
+    "stars": 477,
+    "forks": 50,
+    "languages": {
+      "C": 50037,
+      "Perl": 27918,
+      "Makefile": 1131,
+      "Emacs Lisp": 775
+    },
+    "contributions_by_user": 215,
+    "contribution_score": 3342.99,
+    "S_code": 77.99,
+    "S_social": 577,
+    "S_maint": 215
+  },
+  {
+    "name": "deployr",
+    "full_name": "skx/deployr",
+    "html_url": "https://github.com/skx/deployr",
+    "description": "A simple golang application to automate the deployment of software releases.",
+    "stars": 343,
+    "forks": 26,
+    "languages": {
+      "Go": 55878
+    },
+    "contributions_by_user": 112,
+    "contribution_score": 1937.28,
+    "S_code": 54.57,
+    "S_social": 395,
+    "S_maint": 112
+  },
+  {
+    "name": "go.vm",
+    "full_name": "skx/go.vm",
+    "html_url": "https://github.com/skx/go.vm",
+    "description": "A simple virtual machine - compiler & interpreter - written in golang",
+    "stars": 341,
+    "forks": 36,
+    "languages": {
+      "Go": 88951
+    },
+    "contributions_by_user": 115,
+    "contribution_score": 2019.43,
+    "S_code": 86.87,
+    "S_social": 413,
+    "S_maint": 115
+  },
+  {
+    "name": "gobasic",
+    "full_name": "skx/gobasic",
+    "html_url": "https://github.com/skx/gobasic",
+    "description": "A BASIC interpreter written in golang.",
+    "stars": 338,
+    "forks": 28,
+    "languages": {
+      "Go": 206069,
+      "HTML": 103520,
+      "Shell": 656,
+      "Makefile": 369
+    },
+    "contributions_by_user": 501,
+    "contribution_score": 5949.67,
+    "S_code": 303.33,
+    "S_social": 394,
+    "S_maint": 501
+  },
+  {
+    "name": "monkey",
+    "full_name": "skx/monkey",
+    "html_url": "https://github.com/skx/monkey",
+    "description": "An interpreted language written in Go",
+    "stars": 300,
+    "forks": 34,
+    "languages": {
+      "Go": 219422,
+      "Emacs Lisp": 2088
+    },
+    "contributions_by_user": 405,
+    "contribution_score": 4894.16,
+    "S_code": 216.32,
+    "S_social": 368,
+    "S_maint": 405
+  },
+  {
+    "name": "simple-vpn",
+    "full_name": "skx/simple-vpn",
+    "html_url": "https://github.com/skx/simple-vpn",
+    "description": "A simple VPN allowing mesh-like communication between nodes, over websockets",
+    "stars": 294,
+    "forks": 49,
+    "languages": {
+      "Go": 33530
+    },
+    "contributions_by_user": 59,
+    "contribution_score": 1390.37,
+    "S_code": 32.74,
+    "S_social": 392,
+    "S_maint": 59
+  },
+  {
+    "name": "sysbox",
+    "full_name": "skx/sysbox",
+    "html_url": "https://github.com/skx/sysbox",
+    "description": "sysadmin/scripting utilities, distributed as a single binary",
+    "stars": 282,
+    "forks": 17,
+    "languages": {
+      "Go": 142997
+    },
+    "contributions_by_user": 186,
+    "contribution_score": 2561.82,
+    "S_code": 139.65,
+    "S_social": 316,
+    "S_maint": 186
+  },
+  {
+    "name": "esp8266",
+    "full_name": "skx/esp8266",
+    "html_url": "https://github.com/skx/esp8266",
+    "description": "Collection of projects for the WeMos Mini D1",
+    "stars": 175,
+    "forks": 55,
+    "languages": {
+      "C++": 435876,
+      "C": 125728,
+      "Perl": 17441,
+      "JavaScript": 14281,
+      "HTML": 1074,
+      "Shell": 736,
+      "Makefile": 206
+    },
+    "contributions_by_user": 284,
+    "contribution_score": 3700.69,
+    "S_code": 581.39,
+    "S_social": 285,
+    "S_maint": 284
+  },
+  {
+    "name": "kilua",
+    "full_name": "skx/kilua",
+    "html_url": "https://github.com/skx/kilua",
+    "description": "A minimal text-editor with lua scripting.",
+    "stars": 169,
+    "forks": 15,
+    "languages": {
+      "C++": 93762,
+      "Lua": 52963,
+      "C": 2974,
+      "Perl": 1636,
+      "Makefile": 1265,
+      "Shell": 134
+    },
+    "contributions_by_user": 404,
+    "contribution_score": 4512.58,
+    "S_code": 149.15,
+    "S_social": 199,
+    "S_maint": 404
+  },
+  {
+    "name": "sos",
+    "full_name": "skx/sos",
+    "html_url": "https://github.com/skx/sos",
+    "description": "Simple Object Storage (I wish I could call it Steve's Simple Storage, or S3 ;)",
+    "stars": 156,
+    "forks": 15,
+    "languages": {
+      "Go": 55776,
+      "Shell": 1438,
+      "Makefile": 409
+    },
+    "contributions_by_user": 173,
+    "contribution_score": 2130.14,
+    "S_code": 56.27,
+    "S_social": 186,
+    "S_maint": 173
+  },
+  {
+    "name": "github-action-publish-binaries",
+    "full_name": "skx/github-action-publish-binaries",
+    "html_url": "https://github.com/skx/github-action-publish-binaries",
+    "description": "Publish binaries when new releases are made.",
+    "stars": 138,
+    "forks": 19,
+    "languages": {
+      "Shell": 3826,
+      "Dockerfile": 676
+    },
+    "contributions_by_user": 30,
+    "contribution_score": 654.2,
+    "S_code": 4.4,
+    "S_social": 176,
+    "S_maint": 30
+  },
+  {
+    "name": "evalfilter",
+    "full_name": "skx/evalfilter",
+    "html_url": "https://github.com/skx/evalfilter",
+    "description": "A bytecode-based virtual machine to implement scripting/filtering support in your golang project.",
+    "stars": 119,
+    "forks": 12,
+    "languages": {
+      "Go": 430015,
+      "HTML": 3866,
+      "Emacs Lisp": 2175,
+      "JavaScript": 1035,
+      "Makefile": 189
+    },
+    "contributions_by_user": 709,
+    "contribution_score": 7589.52,
+    "S_code": 427.03,
+    "S_social": 143,
+    "S_maint": 709
+  },
+  {
+    "name": "cpmulator",
+    "full_name": "skx/cpmulator",
+    "html_url": "https://github.com/skx/cpmulator",
+    "description": "Z80-based CP/M emulator, in golang.  Happily runs Zork, Microsoft BASIC, Turbo Pascal, Wordstar, etc.",
+    "stars": 118,
+    "forks": 4,
+    "languages": {
+      "Go": 275337,
+      "Assembly": 83958,
+      "Shell": 1888,
+      "Makefile": 1700,
+      "Max": 1580,
+      "Dockerfile": 1502,
+      "DIGITAL Command Language": 1
+    },
+    "contributions_by_user": 436,
+    "contribution_score": 4790.69,
+    "S_code": 357.39,
+    "S_social": 126,
+    "S_maint": 436
+  },
+  {
+    "name": "rss2email",
+    "full_name": "skx/rss2email",
+    "html_url": "https://github.com/skx/rss2email",
+    "description": "Convert RSS feeds to emails",
+    "stars": 115,
+    "forks": 22,
+    "languages": {
+      "Go": 123458,
+      "Dockerfile": 1472
+    },
+    "contributions_by_user": 305,
+    "contribution_score": 3429.0,
+    "S_code": 122.0,
+    "S_social": 159,
+    "S_maint": 305
+  },
+  {
+    "name": "lighthouse-of-doom",
+    "full_name": "skx/lighthouse-of-doom",
+    "html_url": "https://github.com/skx/lighthouse-of-doom",
+    "description": "A simple text-based adventure game",
+    "stars": 104,
+    "forks": 5,
+    "languages": {
+      "C": 37683,
+      "Makefile": 2463
+    },
+    "contributions_by_user": 218,
+    "contribution_score": 2427.6,
+    "S_code": 39.21,
+    "S_social": 114,
+    "S_maint": 218
+  },
+  {
+    "name": "e-comments",
+    "full_name": "skx/e-comments",
+    "html_url": "https://github.com/skx/e-comments",
+    "description": "External comments for static HTML pages, a lightweight self-hosted disqus alternative.",
+    "stars": 101,
+    "forks": 7,
+    "languages": {
+      "JavaScript": 33418,
+      "Ruby": 21749,
+      "Perl": 2148,
+      "HTML": 1325,
+      "CSS": 799,
+      "Makefile": 605
+    },
+    "contributions_by_user": 124,
+    "contribution_score": 1499.32,
+    "S_code": 58.64,
+    "S_social": 115,
+    "S_maint": 124
+  },
+  {
+    "name": "marionette",
+    "full_name": "skx/marionette",
+    "html_url": "https://github.com/skx/marionette",
+    "description": "Something like puppet, for the localhost only.",
+    "stars": 97,
+    "forks": 9,
+    "languages": {
+      "Go": 214426
+    },
+    "contributions_by_user": 377,
+    "contribution_score": 4104.7,
+    "S_code": 209.4,
+    "S_social": 115,
+    "S_maint": 377
+  },
+  {
+    "name": "foth",
+    "full_name": "skx/foth",
+    "html_url": "https://github.com/skx/foth",
+    "description": "Tutorial-style FORTH implementation written in golang",
+    "stars": 94,
+    "forks": 7,
+    "languages": {
+      "Go": 119570,
+      "Forth": 5878
+    },
+    "contributions_by_user": 126,
+    "contribution_score": 1537.25,
+    "S_code": 122.51,
+    "S_social": 108,
+    "S_maint": 126
+  },
+  {
+    "name": "linux-security-modules",
+    "full_name": "skx/linux-security-modules",
+    "html_url": "https://github.com/skx/linux-security-modules",
+    "description": "A place to store my toy linux-security modules.",
+    "stars": 91,
+    "forks": 18,
+    "languages": {
+      "C": 22191,
+      "Makefile": 1874
+    },
+    "contributions_by_user": 53,
+    "contribution_score": 795.75,
+    "S_code": 23.5,
+    "S_social": 127,
+    "S_maint": 53
+  },
+  {
+    "name": "kpie",
+    "full_name": "skx/kpie",
+    "html_url": "https://github.com/skx/kpie",
+    "description": "Simple devilspie-like program for window manipulation, with Lua.",
+    "stars": 80,
+    "forks": 11,
+    "languages": {
+      "C": 31806,
+      "Makefile": 1935,
+      "Lua": 1184,
+      "Roff": 959
+    },
+    "contributions_by_user": 171,
+    "contribution_score": 1931.52,
+    "S_code": 35.04,
+    "S_social": 102,
+    "S_maint": 171
+  },
+  {
+    "name": "assembler",
+    "full_name": "skx/assembler",
+    "html_url": "https://github.com/skx/assembler",
+    "description": "Basic X86-64 assembler, written in golang",
+    "stars": 76,
+    "forks": 11,
+    "languages": {
+      "Go": 50860,
+      "Assembly": 5104
+    },
+    "contributions_by_user": 58,
+    "contribution_score": 803.33,
+    "S_code": 54.65,
+    "S_social": 98,
+    "S_maint": 58
+  },
+  {
+    "name": "dhcp.io",
+    "full_name": "skx/dhcp.io",
+    "html_url": "https://github.com/skx/dhcp.io",
+    "description": "Dynamic DNS - Via Redis, Perl, and Amazon Route53.",
+    "stars": 68,
+    "forks": 10,
+    "languages": {
+      "Perl": 205462,
+      "Dockerfile": 1084,
+      "Makefile": 840,
+      "Shell": 266
+    },
+    "contributions_by_user": 342,
+    "contribution_score": 3697.39,
+    "S_code": 202.79,
+    "S_social": 88,
+    "S_maint": 342
+  },
+  {
+    "name": "math-compiler",
+    "full_name": "skx/math-compiler",
+    "html_url": "https://github.com/skx/math-compiler",
+    "description": "A simple intel/AMD64 assembly-language compiler for mathematical operations",
+    "stars": 67,
+    "forks": 5,
+    "languages": {
+      "Go": 41451,
+      "Shell": 3941
+    },
+    "contributions_by_user": 150,
+    "contribution_score": 1676.16,
+    "S_code": 44.33,
+    "S_social": 77,
+    "S_maint": 150
+  },
+  {
+    "name": "overseer",
+    "full_name": "skx/overseer",
+    "html_url": "https://github.com/skx/overseer",
+    "description": "A golang-based remote protocol tester for testing sites & service availability",
+    "stars": 64,
+    "forks": 12,
+    "languages": {
+      "Go": 150787,
+      "Shell": 904
+    },
+    "contributions_by_user": 354,
+    "contribution_score": 3790.07,
+    "S_code": 148.14,
+    "S_social": 88,
+    "S_maint": 354
+  },
+  {
+    "name": "templer",
+    "full_name": "skx/templer",
+    "html_url": "https://github.com/skx/templer",
+    "description": "A modular extensible static-site-generator written in perl.",
+    "stars": 64,
+    "forks": 14,
+    "languages": {
+      "Perl": 158677
+    },
+    "contributions_by_user": 461,
+    "contribution_score": 4871.48,
+    "S_code": 154.96,
+    "S_social": 92,
+    "S_maint": 461
+  },
+  {
+    "name": "github2mr",
+    "full_name": "skx/github2mr",
+    "html_url": "https://github.com/skx/github2mr",
+    "description": "Export all your github repositories to a form suitable for 'myrepos' to work with.",
+    "stars": 54,
+    "forks": 8,
+    "languages": {
+      "Go": 10172
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 264.97,
+    "S_code": 9.93,
+    "S_social": 70,
+    "S_maint": 12
+  },
+  {
+    "name": "node-reverse-proxy.js",
+    "full_name": "skx/node-reverse-proxy.js",
+    "html_url": "https://github.com/skx/node-reverse-proxy.js",
+    "description": "A reverse HTTP-proxy in node.js",
+    "stars": 54,
+    "forks": 26,
+    "languages": {
+      "JavaScript": 38800,
+      "Python": 36904,
+      "Perl": 9824
+    },
+    "contributions_by_user": 127,
+    "contribution_score": 1523.76,
+    "S_code": 83.52,
+    "S_social": 106,
+    "S_maint": 127
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "skx/dotfiles",
+    "html_url": "https://github.com/skx/dotfiles",
+    "description": "Yet another dotfile-repository",
+    "stars": 53,
+    "forks": 2,
+    "languages": {
+      "Emacs Lisp": 1791827,
+      "Shell": 8710,
+      "Vim Script": 4955,
+      "Lua": 4168,
+      "Perl": 1008
+    },
+    "contributions_by_user": 962,
+    "contribution_score": 10618.12,
+    "S_code": 1768.23,
+    "S_social": 57,
+    "S_maint": 962
+  },
+  {
+    "name": "webmail",
+    "full_name": "skx/webmail",
+    "html_url": "https://github.com/skx/webmail",
+    "description": "A golang webmail server.",
+    "stars": 53,
+    "forks": 27,
+    "languages": {
+      "Go": 28964,
+      "HTML": 15425,
+      "Shell": 1302
+    },
+    "contributions_by_user": 59,
+    "contribution_score": 826.31,
+    "S_code": 44.62,
+    "S_social": 107,
+    "S_maint": 59
+  },
+  {
+    "name": "puppet-summary",
+    "full_name": "skx/puppet-summary",
+    "html_url": "https://github.com/skx/puppet-summary",
+    "description": "The Puppet Summary is a web interface providing reporting features for Puppet, it replaces the Puppet Dashboard project",
+    "stars": 49,
+    "forks": 20,
+    "languages": {
+      "Go": 345617,
+      "Dockerfile": 401
+    },
+    "contributions_by_user": 347,
+    "contribution_score": 3816.95,
+    "S_code": 337.91,
+    "S_social": 89,
+    "S_maint": 347
+  },
+  {
+    "name": "org-worklog",
+    "full_name": "skx/org-worklog",
+    "html_url": "https://github.com/skx/org-worklog",
+    "description": "A template for maintaining a work-log, via org-mode.",
+    "stars": 41,
+    "forks": 4,
+    "languages": {},
+    "contributions_by_user": 5,
+    "contribution_score": 148.0,
+    "S_code": 0.0,
+    "S_social": 49,
+    "S_maint": 5
+  },
+  {
+    "name": "rss2hook",
+    "full_name": "skx/rss2hook",
+    "html_url": "https://github.com/skx/rss2hook",
+    "description": "POST to webhook(s) when new feed-items appear.",
+    "stars": 38,
+    "forks": 6,
+    "languages": {
+      "Go": 7439
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 343.63,
+    "S_code": 7.26,
+    "S_social": 50,
+    "S_maint": 24
+  },
+  {
+    "name": "critical",
+    "full_name": "skx/critical",
+    "html_url": "https://github.com/skx/critical",
+    "description": "A simple/minimal TCL interpreter, written in golang",
+    "stars": 38,
+    "forks": 5,
+    "languages": {
+      "Go": 85074,
+      "Tcl": 6474
+    },
+    "contributions_by_user": 105,
+    "contribution_score": 1190.7,
+    "S_code": 89.4,
+    "S_social": 48,
+    "S_maint": 105
+  },
+  {
+    "name": "pam_pwnd",
+    "full_name": "skx/pam_pwnd",
+    "html_url": "https://github.com/skx/pam_pwnd",
+    "description": "A PAM module to test passwords against previous leaks at haveibeenpwned.com",
+    "stars": 36,
+    "forks": 3,
+    "languages": {
+      "C": 20755,
+      "Makefile": 956,
+      "Shell": 217
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 344.71,
+    "S_code": 21.41,
+    "S_social": 42,
+    "S_maint": 25
+  },
+  {
+    "name": "tweaked.io",
+    "full_name": "skx/tweaked.io",
+    "html_url": "https://github.com/skx/tweaked.io",
+    "description": "The code behind http://tweaked.io/",
+    "stars": 36,
+    "forks": 7,
+    "languages": {
+      "JavaScript": 39347,
+      "Perl": 2355,
+      "Makefile": 1289,
+      "HTML": 404,
+      "Shell": 303
+    },
+    "contributions_by_user": 150,
+    "contribution_score": 1621.34,
+    "S_code": 42.67,
+    "S_social": 50,
+    "S_maint": 150
+  },
+  {
+    "name": "alphavet",
+    "full_name": "skx/alphavet",
+    "html_url": "https://github.com/skx/alphavet",
+    "description": "A golang linter to detect functions not in alphabetical order",
+    "stars": 33,
+    "forks": 3,
+    "languages": {
+      "Go": 6149
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 221.0,
+    "S_code": 6.0,
+    "S_social": 39,
+    "S_maint": 14
+  },
+  {
+    "name": "cpm-dist",
+    "full_name": "skx/cpm-dist",
+    "html_url": "https://github.com/skx/cpm-dist",
+    "description": "A curated collection of CP/M software",
+    "stars": 32,
+    "forks": 2,
+    "languages": {
+      "C": 264148,
+      "Assembly": 86637,
+      "Pascal": 42432,
+      "Roff": 7498,
+      "BASIC": 2274
+    },
+    "contributions_by_user": 79,
+    "contribution_score": 1058.77,
+    "S_code": 393.54,
+    "S_social": 36,
+    "S_maint": 79
+  },
+  {
+    "name": "dns-api-go",
+    "full_name": "skx/dns-api-go",
+    "html_url": "https://github.com/skx/dns-api-go",
+    "description": "The code behind https://dns-api.org/",
+    "stars": 31,
+    "forks": 13,
+    "languages": {
+      "Go": 185235,
+      "HTML": 8560,
+      "Shell": 1431,
+      "Makefile": 817,
+      "Dockerfile": 327
+    },
+    "contributions_by_user": 71,
+    "contribution_score": 919.88,
+    "S_code": 191.77,
+    "S_social": 57,
+    "S_maint": 71
+  },
+  {
+    "name": "bfcc",
+    "full_name": "skx/bfcc",
+    "html_url": "https://github.com/skx/bfcc",
+    "description": "BrainFuck Compiler Challenge",
+    "stars": 31,
+    "forks": 1,
+    "languages": {
+      "Go": 23127,
+      "Shell": 1602,
+      "Makefile": 1116
+    },
+    "contributions_by_user": 88,
+    "contribution_score": 958.62,
+    "S_code": 25.24,
+    "S_social": 33,
+    "S_maint": 88
+  },
+  {
+    "name": "markdownshare.com",
+    "full_name": "skx/markdownshare.com",
+    "html_url": "https://github.com/skx/markdownshare.com",
+    "description": "The code which was previously used at http://markdownshare.com/",
+    "stars": 30,
+    "forks": 3,
+    "languages": {
+      "Perl": 110816,
+      "HTML": 669,
+      "Makefile": 229,
+      "Shell": 118
+    },
+    "contributions_by_user": 174,
+    "contribution_score": 1866.61,
+    "S_code": 109.21,
+    "S_social": 36,
+    "S_maint": 174
+  },
+  {
+    "name": "z80-examples",
+    "full_name": "skx/z80-examples",
+    "html_url": "https://github.com/skx/z80-examples",
+    "description": "Z80 assembly-language programs.",
+    "stars": 28,
+    "forks": 3,
+    "languages": {
+      "Makefile": 207
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 218.1,
+    "S_code": 0.2,
+    "S_social": 34,
+    "S_maint": 15
+  },
+  {
+    "name": "github-action-tester",
+    "full_name": "skx/github-action-tester",
+    "html_url": "https://github.com/skx/github-action-tester",
+    "description": "Run tests when pull-requests are opened, or commits pushed.",
+    "stars": 26,
+    "forks": 8,
+    "languages": {
+      "Shell": 1246,
+      "Dockerfile": 520
+    },
+    "contributions_by_user": 37,
+    "contribution_score": 454.86,
+    "S_code": 1.72,
+    "S_social": 42,
+    "S_maint": 37
+  },
+  {
+    "name": "purppura",
+    "full_name": "skx/purppura",
+    "html_url": "https://github.com/skx/purppura",
+    "description": "A server for receiving and processing alerts & events.",
+    "stars": 23,
+    "forks": 1,
+    "languages": {
+      "Go": 53638,
+      "HTML": 8927,
+      "JavaScript": 3789,
+      "Perl": 1668,
+      "Dockerfile": 1492,
+      "Makefile": 771
+    },
+    "contributions_by_user": 129,
+    "contribution_score": 1374.32,
+    "S_code": 68.64,
+    "S_social": 25,
+    "S_maint": 129
+  },
+  {
+    "name": "maildir-tools",
+    "full_name": "skx/maildir-tools",
+    "html_url": "https://github.com/skx/maildir-tools",
+    "description": "Golang-based utility which can be used for scripting Maildir things, and also as a basic email client",
+    "stars": 23,
+    "forks": 3,
+    "languages": {
+      "Go": 43166,
+      "Shell": 1435
+    },
+    "contributions_by_user": 52,
+    "contribution_score": 599.78,
+    "S_code": 43.56,
+    "S_social": 29,
+    "S_maint": 52
+  },
+  {
+    "name": "chronicle2",
+    "full_name": "skx/chronicle2",
+    "html_url": "https://github.com/skx/chronicle2",
+    "description": "Chronicle is a simple blog compiler, written in Perl with minimal dependencies.",
+    "stars": 21,
+    "forks": 3,
+    "languages": {
+      "Perl": 180414,
+      "HTML": 24332,
+      "CSS": 7433,
+      "PHP": 724,
+      "Pascal": 473
+    },
+    "contributions_by_user": 410,
+    "contribution_score": 4258.19,
+    "S_code": 208.38,
+    "S_social": 27,
+    "S_maint": 410
+  },
+  {
+    "name": "implant",
+    "full_name": "skx/implant",
+    "html_url": "https://github.com/skx/implant",
+    "description": "Simple utility for embedding files/resources inside golang binaries",
+    "stars": 20,
+    "forks": 4,
+    "languages": {
+      "Go": 21373,
+      "Shell": 1500
+    },
+    "contributions_by_user": 78,
+    "contribution_score": 847.17,
+    "S_code": 22.34,
+    "S_social": 28,
+    "S_maint": 78
+  },
+  {
+    "name": "dns-api.org",
+    "full_name": "skx/dns-api.org",
+    "html_url": "https://github.com/skx/dns-api.org",
+    "description": "The code which was previously used at https://dns-api.org/",
+    "stars": 20,
+    "forks": 7,
+    "languages": {
+      "Perl": 34348,
+      "HTML": 10976,
+      "Shell": 525,
+      "Makefile": 243
+    },
+    "contributions_by_user": 74,
+    "contribution_score": 830.51,
+    "S_code": 45.01,
+    "S_social": 34,
+    "S_maint": 74
+  },
+  {
+    "name": "yal",
+    "full_name": "skx/yal",
+    "html_url": "https://github.com/skx/yal",
+    "description": "Yet another lisp interpreter",
+    "stars": 18,
+    "forks": 0,
+    "languages": {
+      "Go": 244783,
+      "Common Lisp": 30951,
+      "Shell": 4574,
+      "Lua": 2835,
+      "NewLisp": 2727,
+      "Emacs Lisp": 983,
+      "Makefile": 395
+    },
+    "contributions_by_user": 611,
+    "contribution_score": 6286.26,
+    "S_code": 280.52,
+    "S_social": 18,
+    "S_maint": 611
+  },
+  {
+    "name": "markdownshare",
+    "full_name": "skx/markdownshare",
+    "html_url": "https://github.com/skx/markdownshare",
+    "description": "The code behind https://markdownshare.com/",
+    "stars": 17,
+    "forks": 3,
+    "languages": {
+      "Go": 88732,
+      "HTML": 11529,
+      "Shell": 1464,
+      "Makefile": 1080
+    },
+    "contributions_by_user": 100,
+    "contribution_score": 1096.2,
+    "S_code": 100.4,
+    "S_social": 23,
+    "S_maint": 100
+  },
+  {
+    "name": "z80-playground-cpm-fat",
+    "full_name": "skx/z80-playground-cpm-fat",
+    "html_url": "https://github.com/skx/z80-playground-cpm-fat",
+    "description": "CP/M for the Z80 Playground that runs on the FAT disk format",
+    "stars": 16,
+    "forks": 4,
+    "languages": {
+      "Assembly": 387002,
+      "Perl": 1152,
+      "Makefile": 1108
+    },
+    "contributions_by_user": 116,
+    "contribution_score": 1398.07,
+    "S_code": 380.14,
+    "S_social": 24,
+    "S_maint": 116
+  },
+  {
+    "name": "ephemeris",
+    "full_name": "skx/ephemeris",
+    "html_url": "https://github.com/skx/ephemeris",
+    "description": "A static blog-compiler",
+    "stars": 16,
+    "forks": 5,
+    "languages": {
+      "Go": 40005,
+      "Perl": 2641,
+      "HTML": 252
+    },
+    "contributions_by_user": 109,
+    "contribution_score": 1162.95,
+    "S_code": 41.89,
+    "S_social": 26,
+    "S_maint": 109
+  },
+  {
+    "name": "z80retroshield",
+    "full_name": "skx/z80retroshield",
+    "html_url": "https://github.com/skx/z80retroshield",
+    "description": "Arduino library for driving the Z80 retro-shield.",
+    "stars": 14,
+    "forks": 4,
+    "languages": {
+      "Shell": 18381,
+      "C++": 14910,
+      "C": 514
+    },
+    "contributions_by_user": 44,
+    "contribution_score": 500.51,
+    "S_code": 33.01,
+    "S_social": 22,
+    "S_maint": 44
+  },
+  {
+    "name": "closure-based-brainfuck-vm",
+    "full_name": "skx/closure-based-brainfuck-vm",
+    "html_url": "https://github.com/skx/closure-based-brainfuck-vm",
+    "description": "An understandable fast brainfuck interpreter using closures rather than bytecode",
+    "stars": 13,
+    "forks": 0,
+    "languages": {
+      "Go": 9973
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 280.87,
+    "S_code": 9.74,
+    "S_social": 13,
+    "S_maint": 25
+  },
+  {
+    "name": "aws-utils",
+    "full_name": "skx/aws-utils",
+    "html_url": "https://github.com/skx/aws-utils",
+    "description": "A small collection of AWS utilities, packaged as a single standalone binary.",
+    "stars": 13,
+    "forks": 4,
+    "languages": {
+      "Go": 68810
+    },
+    "contributions_by_user": 99,
+    "contribution_score": 1065.6,
+    "S_code": 67.2,
+    "S_social": 21,
+    "S_maint": 99
+  },
+  {
+    "name": "github-action-build",
+    "full_name": "skx/github-action-build",
+    "html_url": "https://github.com/skx/github-action-build",
+    "description": "Build a project, creating artifacts",
+    "stars": 13,
+    "forks": 6,
+    "languages": {
+      "Shell": 709,
+      "Dockerfile": 502
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 180.59,
+    "S_code": 1.18,
+    "S_social": 25,
+    "S_maint": 13
+  },
+  {
+    "name": "webserver-attacks",
+    "full_name": "skx/webserver-attacks",
+    "html_url": "https://github.com/skx/webserver-attacks",
+    "description": "Identify attacks against webservers via simple rules",
+    "stars": 12,
+    "forks": 5,
+    "languages": {
+      "Perl": 18243
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 172.91,
+    "S_code": 17.82,
+    "S_social": 22,
+    "S_maint": 12
+  },
+  {
+    "name": "Device-Osram-Lightify",
+    "full_name": "skx/Device-Osram-Lightify",
+    "html_url": "https://github.com/skx/Device-Osram-Lightify",
+    "description": "Interface to the Osram Lightify system",
+    "stars": 12,
+    "forks": 2,
+    "languages": {
+      "Perl": 33972
+    },
+    "contributions_by_user": 43,
+    "contribution_score": 478.59,
+    "S_code": 33.18,
+    "S_social": 16,
+    "S_maint": 43
+  },
+  {
+    "name": "predis",
+    "full_name": "skx/predis",
+    "html_url": "https://github.com/skx/predis",
+    "description": "A redis-server written in Perl.",
+    "stars": 12,
+    "forks": 2,
+    "languages": {
+      "Perl": 36655
+    },
+    "contributions_by_user": 41,
+    "contribution_score": 459.9,
+    "S_code": 35.8,
+    "S_social": 16,
+    "S_maint": 41
+  },
+  {
+    "name": "labeller",
+    "full_name": "skx/labeller",
+    "html_url": "https://github.com/skx/labeller",
+    "description": "Script label addition/removal for gmail/gsuite email.",
+    "stars": 11,
+    "forks": 1,
+    "languages": {
+      "Go": 15191
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 213.42,
+    "S_code": 14.83,
+    "S_social": 13,
+    "S_maint": 18
+  },
+  {
+    "name": "da-serverspec",
+    "full_name": "skx/da-serverspec",
+    "html_url": "https://github.com/skx/da-serverspec",
+    "description": "ServerSpec.org configuration for the Debian-Administration cluster.",
+    "stars": 10,
+    "forks": 2,
+    "languages": {
+      "Ruby": 8045
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 121.93,
+    "S_code": 7.86,
+    "S_social": 14,
+    "S_maint": 9
+  },
+  {
+    "name": "Buffalo-220-NAS",
+    "full_name": "skx/Buffalo-220-NAS",
+    "html_url": "https://github.com/skx/Buffalo-220-NAS",
+    "description": "Installing NFS on a Buffalo 220 NAS device",
+    "stars": 10,
+    "forks": 8,
+    "languages": {
+      "Shell": 1319
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 182.64,
+    "S_code": 1.29,
+    "S_social": 26,
+    "S_maint": 13
+  },
+  {
+    "name": "docker-api-gateway",
+    "full_name": "skx/docker-api-gateway",
+    "html_url": "https://github.com/skx/docker-api-gateway",
+    "description": "Trivial API-gateway for docker, via HAProxy",
+    "stars": 10,
+    "forks": 1,
+    "languages": {
+      "Go": 6548
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 247.2,
+    "S_code": 6.39,
+    "S_social": 12,
+    "S_maint": 22
+  },
+  {
+    "name": "go-experiments",
+    "full_name": "skx/go-experiments",
+    "html_url": "https://github.com/skx/go-experiments",
+    "description": "Repository containing experiments as I learn about golang",
+    "stars": 9,
+    "forks": 0,
+    "languages": {
+      "Go": 27611,
+      "Makefile": 1560
+    },
+    "contributions_by_user": 60,
+    "contribution_score": 632.24,
+    "S_code": 28.49,
+    "S_social": 9,
+    "S_maint": 60
+  },
+  {
+    "name": "http2xmpp",
+    "full_name": "skx/http2xmpp",
+    "html_url": "https://github.com/skx/http2xmpp",
+    "description": "HTTP to XMPP (jabber) bridge.",
+    "stars": 9,
+    "forks": 0,
+    "languages": {
+      "Perl": 7963,
+      "JavaScript": 6059,
+      "Shell": 1276
+    },
+    "contributions_by_user": 33,
+    "contribution_score": 355.47,
+    "S_code": 14.94,
+    "S_social": 9,
+    "S_maint": 33
+  },
+  {
+    "name": "pass",
+    "full_name": "skx/pass",
+    "html_url": "https://github.com/skx/pass",
+    "description": "password-store distribution, with plugins.",
+    "stars": 8,
+    "forks": 3,
+    "languages": {
+      "Shell": 47401
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 141.15,
+    "S_code": 46.29,
+    "S_social": 14,
+    "S_maint": 9
+  },
+  {
+    "name": "asql",
+    "full_name": "skx/asql",
+    "html_url": "https://github.com/skx/asql",
+    "description": "A toy utility to process Apache log files via SQL.",
+    "stars": 8,
+    "forks": 4,
+    "languages": {
+      "Perl": 39211,
+      "Makefile": 1552,
+      "Shell": 564
+    },
+    "contributions_by_user": 129,
+    "contribution_score": 1342.18,
+    "S_code": 40.36,
+    "S_social": 16,
+    "S_maint": 129
+  },
+  {
+    "name": "remotehttp",
+    "full_name": "skx/remotehttp",
+    "html_url": "https://github.com/skx/remotehttp",
+    "description": "Magic wrapper to deny HTTP-requests to to \"local\" resources.",
+    "stars": 8,
+    "forks": 2,
+    "languages": {
+      "Go": 9393,
+      "Shell": 672
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 288.91,
+    "S_code": 9.83,
+    "S_social": 12,
+    "S_maint": 26
+  },
+  {
+    "name": "golang-metrics",
+    "full_name": "skx/golang-metrics",
+    "html_url": "https://github.com/skx/golang-metrics",
+    "description": "Automatic submission of system metrics to graphite, for golang applications",
+    "stars": 8,
+    "forks": 0,
+    "languages": {
+      "Go": 8310
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 270.06,
+    "S_code": 8.12,
+    "S_social": 8,
+    "S_maint": 25
+  },
+  {
+    "name": "nanoexec",
+    "full_name": "skx/nanoexec",
+    "html_url": "https://github.com/skx/nanoexec",
+    "description": "Trigger commands over a nanomsg queue",
+    "stars": 8,
+    "forks": 4,
+    "languages": {
+      "C": 7325
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 215.58,
+    "S_code": 7.15,
+    "S_social": 16,
+    "S_maint": 18
+  },
+  {
+    "name": "dashboard",
+    "full_name": "skx/dashboard",
+    "html_url": "https://github.com/skx/dashboard",
+    "description": "Redis & node.js powered dashboard skeleton",
+    "stars": 8,
+    "forks": 4,
+    "languages": {
+      "JavaScript": 149269,
+      "Ruby": 3613,
+      "Perl": 1986,
+      "Shell": 101
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 357.67,
+    "S_code": 151.34,
+    "S_social": 16,
+    "S_maint": 25
+  },
+  {
+    "name": "knownfs",
+    "full_name": "skx/knownfs",
+    "html_url": "https://github.com/skx/knownfs",
+    "description": "A FUSE-based filesystem that exports ~/.ssh/known_hosts",
+    "stars": 7,
+    "forks": 0,
+    "languages": {
+      "Go": 11352
+    },
+    "contributions_by_user": 43,
+    "contribution_score": 449.54,
+    "S_code": 11.09,
+    "S_social": 7,
+    "S_maint": 43
+  },
+  {
+    "name": "ms-lite",
+    "full_name": "skx/ms-lite",
+    "html_url": "https://github.com/skx/ms-lite",
+    "description": "A collection of plugins for a qpsmtpd-powered virtual-host aware SMTP system.",
+    "stars": 7,
+    "forks": 0,
+    "languages": {
+      "Perl": 75755,
+      "Makefile": 124
+    },
+    "contributions_by_user": 165,
+    "contribution_score": 1701.05,
+    "S_code": 74.1,
+    "S_social": 7,
+    "S_maint": 165
+  },
+  {
+    "name": "mpd-web",
+    "full_name": "skx/mpd-web",
+    "html_url": "https://github.com/skx/mpd-web",
+    "description": "Simple HTTP view of an MPD server",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "Go": 8141,
+      "HTML": 3048,
+      "Shell": 610
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 197.76,
+    "S_code": 11.52,
+    "S_social": 6,
+    "S_maint": 18
+  },
+  {
+    "name": "org-diary",
+    "full_name": "skx/org-diary",
+    "html_url": "https://github.com/skx/org-diary",
+    "description": "Easily maintain a simple work-log / journal with the use of org-mode",
+    "stars": 6,
+    "forks": 1,
+    "languages": {
+      "Emacs Lisp": 5914
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 98.89,
+    "S_code": 5.78,
+    "S_social": 8,
+    "S_maint": 8
+  },
+  {
+    "name": "yawns",
+    "full_name": "skx/yawns",
+    "html_url": "https://github.com/skx/yawns",
+    "description": "Yet another weblog/news site",
+    "stars": 6,
+    "forks": 1,
+    "languages": {
+      "Perl": 610602,
+      "HTML": 101589,
+      "JavaScript": 22272,
+      "CSS": 7691,
+      "Shell": 3695,
+      "Makefile": 1937
+    },
+    "contributions_by_user": 1277,
+    "contribution_score": 13151.13,
+    "S_code": 730.26,
+    "S_social": 8,
+    "S_maint": 1277
+  },
+  {
+    "name": "DockerFiles",
+    "full_name": "skx/DockerFiles",
+    "html_url": "https://github.com/skx/DockerFiles",
+    "description": "Container for various dockerfiles.",
+    "stars": 6,
+    "forks": 1,
+    "languages": {
+      "Shell": 13328,
+      "Python": 1617,
+      "Perl": 347,
+      "PHP": 20
+    },
+    "contributions_by_user": 55,
+    "contribution_score": 573.48,
+    "S_code": 14.95,
+    "S_social": 8,
+    "S_maint": 55
+  },
+  {
+    "name": "cidr_match.js",
+    "full_name": "skx/cidr_match.js",
+    "html_url": "https://github.com/skx/cidr_match.js",
+    "description": "A simple module to test whether a given IPv4 address is within a particular CIDR range.",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2618
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 163.28,
+    "S_code": 2.56,
+    "S_social": 6,
+    "S_maint": 15
+  },
+  {
+    "name": "runme",
+    "full_name": "skx/runme",
+    "html_url": "https://github.com/skx/runme",
+    "description": "A quick hack for running commands from README.md files",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Go": 9699
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 204.74,
+    "S_code": 9.47,
+    "S_social": 5,
+    "S_maint": 19
+  },
+  {
+    "name": "turtle",
+    "full_name": "skx/turtle",
+    "html_url": "https://github.com/skx/turtle",
+    "description": "A simple turtle-implementation, using FORTH as a scripting-language",
+    "stars": 5,
+    "forks": 2,
+    "languages": {
+      "Go": 6484,
+      "Forth": 1426,
+      "Shell": 1370
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 172.53,
+    "S_code": 9.06,
+    "S_social": 9,
+    "S_maint": 15
+  },
+  {
+    "name": "arduino-mega-z80-simplest",
+    "full_name": "skx/arduino-mega-z80-simplest",
+    "html_url": "https://github.com/skx/arduino-mega-z80-simplest",
+    "description": "The simplest possible project combining an Arduino Mega and a Zilog Z80 processor",
+    "stars": 5,
+    "forks": 3,
+    "languages": {
+      "C++": 13275
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 78.48,
+    "S_code": 12.96,
+    "S_social": 11,
+    "S_maint": 5
+  },
+  {
+    "name": "mod_blacklist",
+    "full_name": "skx/mod_blacklist",
+    "html_url": "https://github.com/skx/mod_blacklist",
+    "description": "A simple Apache module to blacklist remote hosts.",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "C": 2810,
+      "Makefile": 267
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 141.5,
+    "S_code": 3.0,
+    "S_social": 5,
+    "S_maint": 13
+  },
+  {
+    "name": "mod_writable",
+    "full_name": "skx/mod_writable",
+    "html_url": "https://github.com/skx/mod_writable",
+    "description": "Disallow serving writable files under Apache 2.4.x",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "C": 1510,
+      "Makefile": 131
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 60.8,
+    "S_code": 1.6,
+    "S_social": 5,
+    "S_maint": 5
+  },
+  {
+    "name": "z80emulater",
+    "full_name": "skx/z80emulater",
+    "html_url": "https://github.com/skx/z80emulater",
+    "description": "A free portable Z80 emulator.",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "C": 115919,
+      "C++": 33716,
+      "Makefile": 478
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 185.3,
+    "S_code": 146.59,
+    "S_social": 6,
+    "S_maint": 10
+  },
+  {
+    "name": "subcommands",
+    "full_name": "skx/subcommands",
+    "html_url": "https://github.com/skx/subcommands",
+    "description": "Easy subcommand handling for a golang based command-line application",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Go": 11647,
+      "Shell": 753
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 242.05,
+    "S_code": 12.11,
+    "S_social": 3,
+    "S_maint": 23
+  },
+  {
+    "name": "purple",
+    "full_name": "skx/purple",
+    "html_url": "https://github.com/skx/purple",
+    "description": "A simplified version of mauvealert",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Perl": 22249,
+      "HTML": 10349,
+      "JavaScript": 4054,
+      "Shell": 457,
+      "Makefile": 339,
+      "CSS": 265
+    },
+    "contributions_by_user": 75,
+    "contribution_score": 774.41,
+    "S_code": 36.83,
+    "S_social": 3,
+    "S_maint": 75
+  },
+  {
+    "name": "calibre-plugins",
+    "full_name": "skx/calibre-plugins",
+    "html_url": "https://github.com/skx/calibre-plugins",
+    "description": "A small collection of calibre-plugins.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Python": 1136
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 56.55,
+    "S_code": 1.11,
+    "S_social": 3,
+    "S_maint": 5
+  },
+  {
+    "name": "lexing-parsing-linting-stuffs",
+    "full_name": "skx/lexing-parsing-linting-stuffs",
+    "html_url": "https://github.com/skx/lexing-parsing-linting-stuffs",
+    "description": "Code to go with my talk",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 6054
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 26.96,
+    "S_code": 5.91,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "devopswithdocker.com",
+    "full_name": "skx/devopswithdocker.com",
+    "html_url": "https://github.com/skx/devopswithdocker.com",
+    "description": "Repository created for the Helsinki University course.",
+    "stars": 2,
+    "forks": 3,
+    "languages": {
+      "Dockerfile": 5456,
+      "Shell": 1259
+    },
+    "contributions_by_user": 54,
+    "contribution_score": 559.28,
+    "S_code": 6.56,
+    "S_social": 8,
+    "S_maint": 54
+  },
+  {
+    "name": "httpd",
+    "full_name": "skx/httpd",
+    "html_url": "https://github.com/skx/httpd",
+    "description": "Simple golang HTTP server",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Go": 1493,
+      "Dockerfile": 461
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 118.95,
+    "S_code": 1.91,
+    "S_social": 4,
+    "S_maint": 11
+  },
+  {
+    "name": "run-directory",
+    "full_name": "skx/run-directory",
+    "html_url": "https://github.com/skx/run-directory",
+    "description": "A simple application inspired by `run-parts`.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Go": 4788,
+      "Shell": 1490
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.07,
+    "S_code": 6.13,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "thyme",
+    "full_name": "skx/thyme",
+    "html_url": "https://github.com/skx/thyme",
+    "description": "A simple package-building system, using docker",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Perl": 9699,
+      "Go": 4958
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 271.16,
+    "S_code": 14.31,
+    "S_social": 2,
+    "S_maint": 26
+  },
+  {
+    "name": "Redis--SQLite",
+    "full_name": "skx/Redis--SQLite",
+    "html_url": "https://github.com/skx/Redis--SQLite",
+    "description": "Redis-Compatible module which writes to SQLite",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Perl": 60384
+    },
+    "contributions_by_user": 59,
+    "contribution_score": 627.48,
+    "S_code": 58.97,
+    "S_social": 4,
+    "S_maint": 59
+  },
+  {
+    "name": "edinburgh.io",
+    "full_name": "skx/edinburgh.io",
+    "html_url": "https://github.com/skx/edinburgh.io",
+    "description": "Open pub database",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 380011,
+      "CSS": 23046,
+      "HTML": 11531,
+      "Perl": 9436,
+      "Makefile": 537
+    },
+    "contributions_by_user": 184,
+    "contribution_score": 2051.31,
+    "S_code": 414.61,
+    "S_social": 2,
+    "S_maint": 184
+  },
+  {
+    "name": "z80-cpm-scripting-interpreter",
+    "full_name": "skx/z80-cpm-scripting-interpreter",
+    "html_url": "https://github.com/skx/z80-cpm-scripting-interpreter",
+    "description": "A trivial I/O language, with repl, written in z80 assembler to run under  CP/M.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Makefile": 138
+    },
+    "contributions_by_user": 33,
+    "contribution_score": 332.07,
+    "S_code": 0.13,
+    "S_social": 1,
+    "S_maint": 33
+  },
+  {
+    "name": "org-tag-cloud",
+    "full_name": "skx/org-tag-cloud",
+    "html_url": "https://github.com/skx/org-tag-cloud",
+    "description": "Easily maintain a tag-cloud of org-mode tags.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Emacs Lisp": 2053
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 63.0,
+    "S_code": 2.0,
+    "S_social": 1,
+    "S_maint": 6
+  },
+  {
+    "name": "aws-list",
+    "full_name": "skx/aws-list",
+    "html_url": "https://github.com/skx/aws-list",
+    "description": "Export a dump of all running EC2 instances, along with AMI details, AMI age, etc, etc.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 42.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "z80-formatter",
+    "full_name": "skx/z80-formatter",
+    "html_url": "https://github.com/skx/z80-formatter",
+    "description": "A formatter for Z80 assembly language files",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Perl": 6204,
+      "Makefile": 261
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 75.16,
+    "S_code": 6.31,
+    "S_social": 1,
+    "S_maint": 7
+  },
+  {
+    "name": "headerfile",
+    "full_name": "skx/headerfile",
+    "html_url": "https://github.com/skx/headerfile",
+    "description": "Parse files with simple key:value headers, easily.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Go": 5969,
+      "Shell": 956
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 115.38,
+    "S_code": 6.76,
+    "S_social": 1,
+    "S_maint": 11
+  },
+  {
+    "name": "Test--RemoteServer",
+    "full_name": "skx/Test--RemoteServer",
+    "html_url": "https://github.com/skx/Test--RemoteServer",
+    "description": "The Perl module Test::RemoteServer",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Perl": 14797
+    },
+    "contributions_by_user": 39,
+    "contribution_score": 403.23,
+    "S_code": 14.45,
+    "S_social": 3,
+    "S_maint": 39
+  },
+  {
+    "name": "WebService--Amazon--Route53--Caching",
+    "full_name": "skx/WebService--Amazon--Route53--Caching",
+    "html_url": "https://github.com/skx/WebService--Amazon--Route53--Caching",
+    "description": "Perl module to cache the results of WebService::Amazon::Route53",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Perl": 23692
+    },
+    "contributions_by_user": 28,
+    "contribution_score": 293.57,
+    "S_code": 23.14,
+    "S_social": 1,
+    "S_maint": 28
+  },
+  {
+    "name": "git-history-2",
+    "full_name": "skx/git-history-2",
+    "html_url": "https://github.com/skx/git-history-2",
+    "description": "A small repository to demonstrate history ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "git-history-1",
+    "full_name": "skx/git-history-1",
+    "html_url": "https://github.com/skx/git-history-1",
+    "description": "A small repository to demonstrate history",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 10,
+    "contribution_score": 100.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "save-check.el",
+    "full_name": "skx/save-check.el",
+    "html_url": "https://github.com/skx/save-check.el",
+    "description": "Automatically perform syntax checks on files, after they've been saved.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Emacs Lisp": 9536
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 144.66,
+    "S_code": 9.31,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "org-nested-links",
+    "full_name": "skx/org-nested-links",
+    "html_url": "https://github.com/skx/org-nested-links",
+    "description": "Link to nested-headers in Emacs org-mode, via regular expressions.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Emacs Lisp": 1993
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.97,
+    "S_code": 1.95,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "toy-language-benchmarks",
+    "full_name": "skx/toy-language-benchmarks",
+    "html_url": "https://github.com/skx/toy-language-benchmarks",
+    "description": "Trivial benchmarks for some of my scripting languages",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 6766
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 73.3,
+    "S_code": 6.61,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "CGI--Application--Plugin--Throttle",
+    "full_name": "skx/CGI--Application--Plugin--Throttle",
+    "html_url": "https://github.com/skx/CGI--Application--Plugin--Throttle",
+    "description": "Rate-limiting for CGI::Application-based applications, using Redis for persistence.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Perl": 30355
+    },
+    "contributions_by_user": 33,
+    "contribution_score": 348.82,
+    "S_code": 29.64,
+    "S_social": 2,
+    "S_maint": 33
+  },
+  {
+    "name": "release-test",
+    "full_name": "skx/release-test",
+    "html_url": "https://github.com/skx/release-test",
+    "description": "Just a test repository to confirm that my github action works",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 44
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.02,
+    "S_code": 0.04,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "CGI--Application--Plugin--RemoteIP",
+    "full_name": "skx/CGI--Application--Plugin--RemoteIP",
+    "html_url": "https://github.com/skx/CGI--Application--Plugin--RemoteIP",
+    "description": "Unified IP detection for CGI::Application .. applications.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Perl": 9046
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 94.42,
+    "S_code": 8.83,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "CGI--Application--Plugin--AB",
+    "full_name": "skx/CGI--Application--Plugin--AB",
+    "html_url": "https://github.com/skx/CGI--Application--Plugin--AB",
+    "description": "A/B testing for CGI::Application-based applications.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Perl": 7548
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 93.69,
+    "S_code": 7.37,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "CGI--Session--Driver--redis",
+    "full_name": "skx/CGI--Session--Driver--redis",
+    "html_url": "https://github.com/skx/CGI--Session--Driver--redis",
+    "description": "CGI::Session driver using redis for storage.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Perl": 11031
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 295.39,
+    "S_code": 10.77,
+    "S_social": 0,
+    "S_maint": 29
+  },
+  {
+    "name": "yawns-planet",
+    "full_name": "skx/yawns-planet",
+    "html_url": "https://github.com/skx/yawns-planet",
+    "description": "A planet-planet like generator for Yawns based site.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Perl": 43998
+    },
+    "contributions_by_user": 28,
+    "contribution_score": 301.48,
+    "S_code": 42.97,
+    "S_social": 0,
+    "S_maint": 28
+  },
+  {
+    "name": "link_extractor.js",
+    "full_name": "skx/link_extractor.js",
+    "html_url": "https://github.com/skx/link_extractor.js",
+    "description": "Extract hyperlinks from javascript strings.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3990
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 141.95,
+    "S_code": 3.9,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "wordpress-no-links",
+    "full_name": "skx/wordpress-no-links",
+    "html_url": "https://github.com/skx/wordpress-no-links",
+    "description": "A plugin to reject comment submissions that contain links with them.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PHP": 1815
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.89,
+    "S_code": 1.77,
+    "S_social": 0,
+    "S_maint": 3
+  }
+]

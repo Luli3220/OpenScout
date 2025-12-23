@@ -1,0 +1,49 @@
+[
+  {
+    "name": "mudongliang/LinuxFlaw",
+    "stars": 338,
+    "description": "The vm images in this repo are lost, we recommend our new project: https://github.com/hust-open-atom-club/S2VulnHub",
+    "languages_breakdown": {
+      "C": 289367,
+      "Python": 115717,
+      "Perl": 76169,
+      "PHP": 14693,
+      "Shell": 7674,
+      "HTML": 5862,
+      "Classic ASP": 3863,
+      "C++": 2941,
+      "Ruby": 2907,
+      "Assembly": 2401,
+      "Raku": 2218,
+      "TeX": 1694,
+      "Rich Text Format": 1364,
+      "Dockerfile": 834,
+      "Visual Basic 6.0": 606,
+      "XSLT": 344,
+      "Makefile": 109
+    },
+    "files": {
+      "README.md": "# LinuxFlaw\n\nThis repo records all the vulnerabilities of linux software I have reproduced in my local workspace.\n\nIf the vulnerability has both CVE-ID and EDB-ID, CVE-ID is preferred as its directory name. All the vulnerable source code packages are stored in [source-packages](https://github.com/mudongliang/source-packages)\n\n## Vmware Workstation Images\nImage Name|username|password\n----------|--------|--------\n[Ubuntu 8.10](https://psu.box.com/s/yzy7l5okh77xa7bwzilk90jwf1it0bs1) | exploit | exploit\n[Ubuntu 10.04LTS](https://psu.box.com/s/g7pvmwsvi0a4o85j0clthkn64iuplzzl) | exploit | exploit\n[CentOS 6.5](https://psu.box.com/s/afzod6ewo0sdsz86wpw5f3ynwv7mz6uv) | core | core\n[CentOS 5.5](https://psu.box.com/s/rvqv9yxeywvq5rhzp212u1q8799w263s) | core | core\n[Ubuntu 11.04](https://psu.box.com/s/l1xjsuue2lfibtwr9osr5d00ddnqy19y) | dzm77 | dzm77\n[Ubuntu 12.04](https://psu.box.com/s/m55ncbvgmmcaua57ofhf606zhpstu4ch) | ubuntu | ubuntu\n[Fedora](https://psu.box.com/s/rfxl4zw1tkv84jxc6el3fqyo8clf77je) | fedora | fedora\n[OpenSUSE](https://psu.box.com/s/q940eadlnx9cwez0w0ru61he3vyhj7eu) | core | core\n[Ubuntu 14.04_core](https://psu.box.com/s/uag1v3u9eboce4nylrgwc0cbcdghxu5n) | core | core\n[Kali](https://psu.box.com/s/4r3zacu2uq4ni1eb8lyxh9bk6r4kkvo6) | root | kali\n[Ubuntu_14.04_alex](https://psu.box.com/s/ui1kr4bgczlzb6f731xn66onc3ek799k) | research-cve | toortoor\n[Ubuntu_14.04_pt](https://psu.box.com/s/tah44vnuaqj4y2ml7740ma8o9we3gy3e) | pt | pt\n\nFor details of vulnerabilities(in which virtual machine, what is the reproduction workspace, etc.), please refer to [virtualmachine.csv](./virtualmachine.csv)\n\nIf you encounter problems with keyword \"Failed to lock files\", you could try to delete any `.lck` or `.lock` files or folders in the directory of the problematic VM.\n\n## CVE-ID List\n\n- [ ] CVE-2001-0144\n- [ ] CVE-2001-0550\n- [x] CVE-2002-0656\n- [x] CVE-2002-1496\n- [x] CVE-2002-1896\n- [ ] CVE-2003-0577 (Fail to reproduce)\n- [x] CVE-2004-0238\n- [x] CVE-2004-0270\n- [x] CVE-2004-0557\n- [x] CVE-2004-0597\n- [x] CVE-2004-0990\n- [x] CVE-2004-1120\n- [x] CVE-2004-1255\n- [ ] CVE-2004-1256 (Fail to reproduce)\n- [x] CVE-2004-1257\n- [ ] CVE-2004-1258 (Fail to reproduce)\n- [ ] CVE-2004-1259 (Fail to reproduce)\n- [ ] CVE-2004-1260 (Fail to reproduce)\n- [x] CVE-2004-1261\n- [x] CVE-2004-1262\n- [x] CVE-2004-1265\n- [ ] CVE-2004-1266 (Fail to reproduce)\n- [x] CVE-2004-1271\n- [ ] CVE-2004-1272 (Fail to reproduce)\n- [x] CVE-2004-1275\n- [x] CVE-2004-1278\n- [x] CVE-2004-1279\n- [ ] CVE-2004-1283 (Fail to reproduce)\n- [x] CVE-2004-1287\n- [x] CVE-2004-1288\n- [x] CVE-2004-1289\n- [x] CVE-2004-1290\n- [x] CVE-2004-1292\n- [x] CVE-2004-1293\n- [x] CVE-2004-1297\n- [x] CVE-2004-1298\n- [x] CVE-2004-1299\n- [ ] CVE-2004-1455 (Fail to reproduce)\n- [x] CVE-2004-2093\n- [x] CVE-2004-2167\n- [x] CVE-2005-0101\n- [x] CVE-2005-0199\n- [x] CVE-2005-1275\n- [x] CVE-2005-3120\n- [x] CVE-2005-3252\n- [x] CVE-2005-3862\n- [x] CVE-2005-4667\n- [x] CVE-2005-4807\n- [x] CVE-2006-0539\n- [x] CVE-2006-1148\n- [x] CVE-2006-154\n... (truncated)"
+    }
+  },
+  {
+    "name": "mudongliang/source-packages",
+    "stars": 10,
+    "description": "This repo stores source code of the vulnerable program.",
+    "languages_breakdown": {},
+    "files": {
+      "README.md": "# source-packages\nThis repo stores source code of vulnerable programs for LinuxFlaw\n"
+    }
+  },
+  {
+    "name": "mudongliang/mudongliang.github.io",
+    "stars": 9,
+    "description": "Dongliang Mu de Blog",
+    "languages_breakdown": {
+      "SCSS": 11626,
+      "HTML": 4866,
+      "Ruby": 2998
+    },
+    "files": {}
+  }
+]

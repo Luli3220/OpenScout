@@ -1,0 +1,38 @@
+[
+  {
+    "name": "thoughtpolice/minibsdiff",
+    "stars": 130,
+    "description": "A miniature, portable version of bsdiff.",
+    "languages_breakdown": {
+      "C": 37362,
+      "Makefile": 4034,
+      "Nix": 2521
+    },
+    "files": {
+      "README.md": "# minibsdiff: a miniature, portable version of bsdiff [![Build Status][]](http://travis-ci.org/thoughtpolice/minibsdiff)\n\n[Build Status]: https://secure.travis-ci.org/thoughtpolice/minibsdiff.png?branch=master\n\nColin Percival's [bsdiff][] is a popular tool for creating and applying patches\nto binary software. This is a stripped down copy of `bsdiff` that's designed to\nbe portable and reusable as a library in your own software (if you wanted to\nsay, create your own update system.) Many people end up reusing bsdiff (it's\nstable, well-known, works great, and has a good license,) but I haven't found a\nstandalone copy of the library somewhere that I could easily reuse, so I made it.\n\nThis code is based on [bsdiff v4.3](http://www.daemonology.net/bsdiff/bsdiff-4.3.tar.gz).\n\nThe main differences:\n\n  * Control and data blocks in the patch output are not `bzip2` compressed.\n    You'll have to apply your own compression method. **This is a very\n    important part of bsdiff's design, and if you don't apply a compression\n    method at some level when using this library, it won't buy you anything**.\n    Please see the 'Usage' section below.\n\n  * Patches produced by this library are incompatible with those produced by\n    the classic bsdiff tool. (The header format has changed appropriately so\n    they are both incompatible with each other.) You're encouraged to change\n    this when using the library yourself - see 'Usage' below.\n\n  * The code has been refactored into a reusable API (documented below)\n    consisting of a few simple functions in `bsdiff.h` and `bspatch.h`. It\n    should be easily usable from any programming language. It has zero external\n    dependencies.\n\n  * It works everywhere (even under MSVC.)\n\n  * There's a simple example included that should show you how to get started.\n\n  * Because there are no external dependencies and it's so small, **minibsdiff\n    is great place to start if you need to customize bsdiff yourself**! You'll\n    inevitably want to do this as time goes on, and most of the work is done\n    for you.\n\n# Usage\n\n## Building\n\nCopy `bsdiff.{c,h}`, `bspatch.{c,h}`, `minibsdiff-config.h` and\n`{stdbool,stdint}-msvc.h` in your source tree and you're ready to go. You\nshouldn't need any special build settings for it to Just Work(TM).\n\n## API\n\n```c\n#include \"bsdiff.h\"\n#include \"bspatch.h\"\n\n/*-\n * Determine the maximum size of a patch between two files. This function\n * should be used to allocate a buffer big enough for `bsdiff` to store\n * its output in.\n */\noff_t bsdiff_patchsize_max(off_t oldsize, off_t newsize);\n\n/*-\n * Create a binary patch from the buffers pointed to by oldp and newp (with\n * respective sizes,) and store the result in the buffer pointed to by 'patch'.\n *\n * The input pointer 'patch' must not be NULL, and the size of the buffer must\n * be at least 'bsdiff_patchsize_max(new,old)' in length.\n *\n * Returns -1 if `patch` is NULL, the 'patch' buffer is not large enough, or if\n * memory cannot be allocated.\n * Otherwise\n... (truncated)"
+    }
+  },
+  {
+    "name": "thoughtpolice/eris",
+    "stars": 92,
+    "description": "Serve your /nix/store directory over the internet :sparkles:",
+    "languages_breakdown": {
+      "Perl": 30120,
+      "Nix": 16016,
+      "Shell": 1340
+    },
+    "files": {}
+  },
+  {
+    "name": "thoughtpolice/heroku-ping",
+    "stars": 82,
+    "description": "A utility to ping heroku web applications and keep them alive.",
+    "languages_breakdown": {
+      "Ruby": 3301
+    },
+    "files": {
+      "Gemfile": "source 'https://rubygems.org'\nruby '2.1.5'\n\ngem 'clockwork'\ngem 'tzinfo'\n\ngem 'foreman'\n",
+      "README.md": "# heroku-ping: keep your heroku websites alive\n\nLike some people, I use heroku to keep my homepage\nalive. Unfortunately, the heroku dynos are powered down if they don't\nget requests in a certain amount of time, meaning visitors to your\nsite often experience a nasty delay.\n\nThis is a heroku application that pings a URL every 20 minutes to fix\nthat. No more, no less.\n\n[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/thoughtpolice/heroku-ping)\n\n# Usage\n\nClone the repo, create an app.\n\n```bash\n$ git clone https://github.com/thoughtpolice/heroku-ping.git\n$ cd heroku-ping\n$ heroku create ping-MYAPP\nCreating ping-MYAPP... done, stack is cedar\nhttp://ping-MYAPP.herokuapp.com/ | git@heroku.com:ping-MYAPP.git\nGit remote heroku added\n```\n\nNow add the URL of the heroku application you want to ping using the\n`PING_URL` environment variable.\n\n_See list of accepted variables below_\n\n```bash\n$ heroku config:add PING_URL=http://MYAPP.herokuapp.com\nSetting config vars and restarting ping-MYAPP... done, v3\nPING_URL: http://MYAPP.herokuapp.com\n```\n\nNow push, and scale the worker to 1 instance.\n\n```bash\n$ git push heroku master\n...\n-----> Ruby app detected\n-----> Installing dependencies using Bundler version 1.3.0.pre.5\n...\n-----> Discovering process types\n       Procfile declares types -> worker\n       Default types for Ruby  -> console, rake\n-----> Compiled slug size: 688K\n-----> Launching... done, v5\n       http://ping-aseipp.herokuapp.com deployed to Heroku\n...\n$ heroku ps:scale worker=1\nScaling worker processes... done, now running 1\n```\n\nYou're done. Now your web application will be kept alive! You can make\nsure it's working by checking `heroku logs`.\n\n## Environment variables\n\n Name | Expected value | Description | Example \n------|----------------|-------------|---------\n`PING_URL` | URI (with scheme) | One or multiple URLs to ping. A `,` character is treated as delimeter when passing more than one value | `http://www.google.com,https://github.com`\n`PING_METHOD` | `HEAD` (default) or `GET` | HTTP request method used for pinging | `GET`\n`PING_INTERVAL`| Integer number (default is `1200`) | Time between pings. Specified in seconds | `60`\n`PING_VERIFY_SSL` | `0` (default) or `1` | Should we expect valid SSL certificate if URI begins with `https`? | `1`\n\n# Join in\n\nBe sure to read the [contributing guidelines][contribute]. File bugs\nin the GitHub [issue tracker][].\n\nMaster [git repository][gh]:\n\n* `git clone https://github.com/thoughtpolice/heroku-ping.git`\n\nThere's also a [BitBucket mirror][bb]:\n\n* `git clone https://bitbucket.org/thoughtpolice/heroku-ping.git`\n\n# Authors\n\nSee [AUTHORS.txt](https://raw.github.com/thoughtpolice/heroku-ping/master/AUTHORS.txt).\n\n# License\n\nMIT. See\n[LICENSE.txt](https://raw.github.com/thoughtpolice/heroku-ping/master/LICENSE.txt)\nfor terms of copyright and redistribution.\n\n[contribute]: https://github.com/thoughtpolice/heroku-ping/blob/master/CONTRIBUTING.md\n[issue track\n... (truncated)"
+    }
+  }
+]

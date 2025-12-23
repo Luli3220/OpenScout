@@ -1,0 +1,37 @@
+[
+  {
+    "name": "andrew-johnson-4/perplexity",
+    "stars": 15,
+    "description": "A notational semantic for documenting neural networks through diagrams",
+    "languages_breakdown": {
+      "HTML": 1
+    },
+    "files": {
+      "README.md": "# Perplexity 😵\nThe Perplexity 😵 language is a notational semantic for documenting neural networks through diagrams.\n\n![MNIST Keras Python Perplexity](/img/mnist_keras_python_perplexity.png)\n\n# Scope\nThis visual language was created to help document neural networks.\nThe language may not be suitable to formally describe all characteristics of all possible neural network configurations.\n\n# Format\nThe Perplexity 😵 language consists of two languages: one [textual](/syntax.md), the other [visual](/syntax.md).\nThe visual language consists of two-dimensional images that can be created in Paint or other visual editors.\nThe textual language consists of [Typed Lambda Calculus expressions](https://andrew-johnson-4.github.io/lsts-tutorial/).\n\nAny file, textual or visual, defines a substitution rule according to its filename.\nFor example, a diagram \"helpful.png\" may be referred to as \"helpful\" in other textual language documentation.\n\n# Why?\nUML is not information dense enough and often leaves out important details. Mathematical Notation is too information dense and often repeats itself. Perplexity 😵 is created specifically to model Neural Networks and cuts a lot of corners by specializing itself for this use-case.\n\n# Checklist for Documenting a Model\n\n1. How many languages/algebras are you going to use in documentation?\n> This determines the rank of your model. It is recommended to use different colored lines and circles\n> when swapping between languages.\n> For example, if you just want to document a TensorFlow model, then you only need Python and your model's rank will be 1.\n\n2. What prelude do you want to use?\n> A prelude will include some terms that you then don't need to define again yourself. Each prelude defines its own ranks, kinds, types, values etc. Please consider using a prelude.\n\n# List of Preludes\nPreludes are optional-ish.\n- [Categorical Prelude](/categorical_prelude.md)\n- [TensorFlow Prelude](/tensorflow_prelude.md)\n"
+    }
+  },
+  {
+    "name": "andrew-johnson-4/BootstrapBook",
+    "stars": 9,
+    "description": "Learn how to Write a Compiler in 2000 Lines of Code",
+    "languages_breakdown": {},
+    "files": {
+      "README.md": "# Bootstrap Book\nLearn how to Write a Compiler in 2000 Lines of Code\n\n### λ☶\n\n[This book](https://github.com/andrew-johnson-4/BootstrapBook/wiki) explains the code of the [λ☶ compiler](https://github.com/andrew-johnson-4/-) to anyone who is interested in compiler architecture or functional language compilers.\nThe code is roughly 2000 LOC in length, but it is very terse, so the explanation takes a while.\nThe generated code is in the format of GNU Assembly for legibility.\nBinary targets are just as easy to write, but harder to read.\n\n### [Chapter 1: S-Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/S%E2%80%90Expressions)\n* [The S-Expression Type Signature](https://github.com/andrew-johnson-4/BootstrapBook/wiki/S%E2%80%90Expressions#the-type-signature)\n* [Why are S-Expressions Good](https://github.com/andrew-johnson-4/BootstrapBook/wiki/S%E2%80%90Expressions#why-are-s-expressions-good)\n* [How Do We Construct An S-Expression in Assembly](https://github.com/andrew-johnson-4/BootstrapBook/wiki/S%E2%80%90Expressions#how-do-we-construct-an-s-expression-in-assembly)\n* [What Common Functions Operate on S-Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/S%E2%80%90Expressions#what-common-functions-operate-on-s-expressions)\n\n### [Chapter 2: Primitive Functions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Primitive-Functions)\n* [What Is a Function?](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Primitive-Functions#what-is-a-function)\n* [What Do We Expect From a Function Inside the Compiler?](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Primitive-Functions#what-do-we-expect-from-a-function-inside-the-compiler)\n* [System Calls](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Primitive-Functions#system-calls)\n* [The `print-s` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Primitive-Functions#the-print-s-function)\n* [The `strlen` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Primitive-Functions#the-strlen-function)\n* [The `not` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Primitive-Functions#the-not-function)\n* [The `write-file` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Primitive-Functions#the-write-file-function)\n* [The `load-file` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Primitive-Functions#the-load-file-function)\n\n### [Chapter 3: Hello World](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Hello-World)\n* [Program Layout](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Hello-World#program-layout)\n* [Processing Argv](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Hello-World#processing-argv)\n* [Heap Allocation of Atoms](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Hello-World#heap-allocation-of-atoms)\n* [Heap Allocation of Cons Cells](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Hello-World#heap-allocation-of-cons-cells)\n\n### [Chapter 4: User-De\n... (truncated)"
+    }
+  },
+  {
+    "name": "andrew-johnson-4/lsts-tutorial",
+    "stars": 6,
+    "description": "Tutorial for Large Scale Type Systems",
+    "languages_breakdown": {
+      "JavaScript": 24978,
+      "CSS": 22495,
+      "Handlebars": 15914,
+      "Makefile": 224
+    },
+    "files": {
+      "package.json": "{\n  \"dependencies\": {\n    \"static-sitemap-cli\": \"^2.1.2\"\n  }\n}\n",
+      "README.md": "# Documentation for LSTS\n\nMoves to [LSTS Language Reference](https://andrew-johnson-4.github.io/lsts-language-reference/)\n"
+    }
+  }
+]

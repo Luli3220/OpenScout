@@ -1,0 +1,43 @@
+{
+  "username": "GiggleLiu",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "Python",
+      "TeX",
+      "XSLT",
+      "JavaScript",
+      "Jupyter Notebook",
+      "Makefile",
+      "Typst",
+      "Julia"
+    ],
+    "distinct_topics": [
+      "linear-algebra",
+      "quantum-chemistry",
+      "autodiff",
+      "vqe",
+      "flux",
+      "machine-learning",
+      "complexity-theory",
+      "many-body-physics",
+      "julia",
+      "tensor-network",
+      "matrix-product-states",
+      "scientific-computing",
+      "mps",
+      "problem-reduction",
+      "deep-learning",
+      "physics",
+      "quantum-error-correction",
+      "quantum-mechanics",
+      "quantum-computing",
+      "monte-carlo",
+      "julia-language"
+    ],
+    "language_count": 9,
+    "topic_count": 21,
+    "total_owned_repos": 62
+  },
+  "diversity_score_100": 70.8
+}

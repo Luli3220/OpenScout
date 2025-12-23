@@ -1,0 +1,1548 @@
+[
+  {
+    "name": "nvim-dap",
+    "full_name": "mfussenegger/nvim-dap",
+    "html_url": "https://github.com/mfussenegger/nvim-dap",
+    "description": "Debug Adapter Protocol client implementation for Neovim",
+    "stars": 6833,
+    "forks": 247,
+    "languages": {
+      "Lua": 328469,
+      "Python": 196
+    },
+    "contributions_by_user": 574,
+    "contribution_score": 20554.48,
+    "S_code": 320.96,
+    "S_social": 7327,
+    "S_maint": 574
+  },
+  {
+    "name": "nvim-lint",
+    "full_name": "mfussenegger/nvim-lint",
+    "html_url": "https://github.com/mfussenegger/nvim-lint",
+    "description": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+    "stars": 2574,
+    "forks": 289,
+    "languages": {
+      "Lua": 281548,
+      "Python": 226,
+      "Vim Script": 66
+    },
+    "contributions_by_user": 123,
+    "contribution_score": 7671.62,
+    "S_code": 275.23,
+    "S_social": 3152,
+    "S_maint": 123
+  },
+  {
+    "name": "nvim-jdtls",
+    "full_name": "mfussenegger/nvim-jdtls",
+    "html_url": "https://github.com/mfussenegger/nvim-jdtls",
+    "description": "MIRROR of: https://codeberg.org/mfussenegger/nvim-jdtls",
+    "stars": 1415,
+    "forks": 83,
+    "languages": {
+      "Lua": 115075,
+      "Vim Script": 64
+    },
+    "contributions_by_user": 289,
+    "contribution_score": 6108.22,
+    "S_code": 112.44,
+    "S_social": 1581,
+    "S_maint": 289
+  },
+  {
+    "name": "nvim-dap-python",
+    "full_name": "mfussenegger/nvim-dap-python",
+    "html_url": "https://github.com/mfussenegger/nvim-dap-python",
+    "description": "Mirror of https://codeberg.org/mfussenegger/nvim-dap-python",
+    "stars": 684,
+    "forks": 61,
+    "languages": {
+      "Lua": 24252,
+      "Python": 110
+    },
+    "contributions_by_user": 63,
+    "contribution_score": 2253.9,
+    "S_code": 23.79,
+    "S_social": 806,
+    "S_maint": 63
+  },
+  {
+    "name": "nvim-treehopper",
+    "full_name": "mfussenegger/nvim-treehopper",
+    "html_url": "https://github.com/mfussenegger/nvim-treehopper",
+    "description": "Region selection with hints on the AST nodes of a document powered by treesitter",
+    "stars": 452,
+    "forks": 17,
+    "languages": {
+      "Lua": 9116,
+      "Vim Script": 347
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 1116.62,
+    "S_code": 9.24,
+    "S_social": 486,
+    "S_maint": 14
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "mfussenegger/dotfiles",
+    "html_url": "https://github.com/mfussenegger/dotfiles",
+    "description": "Former config files from my home directory",
+    "stars": 104,
+    "forks": 13,
+    "languages": {
+      "Lua": 130324,
+      "Haskell": 25053,
+      "Shell": 12511,
+      "Vim Script": 6424,
+      "Python": 2164,
+      "Tree-sitter Query": 1394,
+      "Smarty": 1055
+    },
+    "contributions_by_user": 1699,
+    "contribution_score": 17337.37,
+    "S_code": 174.73,
+    "S_social": 130,
+    "S_maint": 1699
+  },
+  {
+    "name": "nvim-lsp-compl",
+    "full_name": "mfussenegger/nvim-lsp-compl",
+    "html_url": "https://github.com/mfussenegger/nvim-lsp-compl",
+    "description": "A fast and asynchronous auto-completion plugin for Neovim, focused on LSP.",
+    "stars": 85,
+    "forks": 6,
+    "languages": {
+      "Lua": 38234,
+      "Vim Script": 64
+    },
+    "contributions_by_user": 70,
+    "contribution_score": 912.7,
+    "S_code": 37.4,
+    "S_social": 97,
+    "S_maint": 70
+  },
+  {
+    "name": "nlua",
+    "full_name": "mfussenegger/nlua",
+    "html_url": "https://github.com/mfussenegger/nlua",
+    "description": "Neovim as Lua interpreter",
+    "stars": 80,
+    "forks": 5,
+    "languages": {
+      "Lua": 2684,
+      "Batchfile": 112
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 261.37,
+    "S_code": 2.73,
+    "S_social": 90,
+    "S_maint": 8
+  },
+  {
+    "name": "nvim-ansible",
+    "full_name": "mfussenegger/nvim-ansible",
+    "html_url": "https://github.com/mfussenegger/nvim-ansible",
+    "description": "Small neovim plugin to make working with Ansible playbooks or roles more convenient",
+    "stars": 69,
+    "forks": 12,
+    "languages": {
+      "Lua": 4954,
+      "Vim Script": 64
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 318.45,
+    "S_code": 4.9,
+    "S_social": 93,
+    "S_maint": 13
+  },
+  {
+    "name": "nvim-fzy",
+    "full_name": "mfussenegger/nvim-fzy",
+    "html_url": "https://github.com/mfussenegger/nvim-fzy",
+    "description": "Moved to codeberg - Fuzzy picker & vim.ui.select implementation via fzy for neovim",
+    "stars": 59,
+    "forks": 5,
+    "languages": {
+      "Lua": 6148
+    },
+    "contributions_by_user": 68,
+    "contribution_score": 821.0,
+    "S_code": 6.0,
+    "S_social": 69,
+    "S_maint": 68
+  },
+  {
+    "name": "mkjson",
+    "full_name": "mfussenegger/mkjson",
+    "html_url": "https://github.com/mfussenegger/mkjson",
+    "description": "MIRROR. A commandline tool to generate static or random JSON records",
+    "stars": 38,
+    "forks": 1,
+    "languages": {
+      "Haskell": 30144
+    },
+    "contributions_by_user": 123,
+    "contribution_score": 1324.72,
+    "S_code": 29.44,
+    "S_social": 40,
+    "S_maint": 123
+  },
+  {
+    "name": "cr8",
+    "full_name": "mfussenegger/cr8",
+    "html_url": "https://github.com/mfussenegger/cr8",
+    "description": "MIRROR - CLI collection of utilities for working with CrateDB or PostgreSQL. Benchmark queries, insert data.",
+    "stars": 38,
+    "forks": 16,
+    "languages": {
+      "Python": 137977
+    },
+    "contributions_by_user": 388,
+    "contribution_score": 4087.37,
+    "S_code": 134.74,
+    "S_social": 70,
+    "S_maint": 388
+  },
+  {
+    "name": "nvim-qwahl",
+    "full_name": "mfussenegger/nvim-qwahl",
+    "html_url": "https://github.com/mfussenegger/nvim-qwahl",
+    "description": "Pickers for vim.ui.select",
+    "stars": 31,
+    "forks": 2,
+    "languages": {
+      "Lua": 16788,
+      "Shell": 83,
+      "Vim Script": 64
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 368.27,
+    "S_code": 16.54,
+    "S_social": 35,
+    "S_maint": 29
+  },
+  {
+    "name": "knx",
+    "full_name": "mfussenegger/knx",
+    "html_url": "https://github.com/mfussenegger/knx",
+    "description": "python knx / eib client library",
+    "stars": 27,
+    "forks": 14,
+    "languages": {
+      "Python": 13326
+    },
+    "contributions_by_user": 39,
+    "contribution_score": 506.51,
+    "S_code": 13.01,
+    "S_social": 55,
+    "S_maint": 39
+  },
+  {
+    "name": "nluarepl",
+    "full_name": "mfussenegger/nluarepl",
+    "html_url": "https://github.com/mfussenegger/nluarepl",
+    "description": "(mirror) nvim plugin that implements a debug adapter limited to evaluating expressions",
+    "stars": 24,
+    "forks": 0,
+    "languages": {
+      "Lua": 22653
+    },
+    "contributions_by_user": 38,
+    "contribution_score": 439.06,
+    "S_code": 22.12,
+    "S_social": 24,
+    "S_maint": 38
+  },
+  {
+    "name": "tornado-template",
+    "full_name": "mfussenegger/tornado-template",
+    "html_url": "https://github.com/mfussenegger/tornado-template",
+    "description": "Tornado template with Jinja2 and Sqlalchemy",
+    "stars": 21,
+    "forks": 1,
+    "languages": {
+      "Python": 4376,
+      "Shell": 529
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 198.4,
+    "S_code": 4.79,
+    "S_social": 23,
+    "S_maint": 15
+  },
+  {
+    "name": "nvim-overfly",
+    "full_name": "mfussenegger/nvim-overfly",
+    "html_url": "https://github.com/mfussenegger/nvim-overfly",
+    "description": "Provides keymaps to quickly fly around your source code",
+    "stars": 18,
+    "forks": 0,
+    "languages": {
+      "Lua": 6188,
+      "Vim Script": 64
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 79.05,
+    "S_code": 6.11,
+    "S_social": 18,
+    "S_maint": 4
+  },
+  {
+    "name": "nvim-lua-debugger",
+    "full_name": "mfussenegger/nvim-lua-debugger",
+    "html_url": "https://github.com/mfussenegger/nvim-lua-debugger",
+    "description": "a Debug Adapter that allows debugging lua plugins written for Neovim",
+    "stars": 18,
+    "forks": 0,
+    "languages": {
+      "Lua": 8740
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 70.27,
+    "S_code": 8.54,
+    "S_social": 18,
+    "S_maint": 3
+  },
+  {
+    "name": "nvim-snippasta",
+    "full_name": "mfussenegger/nvim-snippasta",
+    "html_url": "https://github.com/mfussenegger/nvim-snippasta",
+    "description": "Paste code as snippets",
+    "stars": 16,
+    "forks": 0,
+    "languages": {
+      "Lua": 3744
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 63.83,
+    "S_code": 3.66,
+    "S_social": 16,
+    "S_maint": 3
+  },
+  {
+    "name": "Huluobo",
+    "full_name": "mfussenegger/Huluobo",
+    "html_url": "https://github.com/mfussenegger/Huluobo",
+    "description": "Web based rss reader written in python using tornado",
+    "stars": 13,
+    "forks": 0,
+    "languages": {
+      "CSS": 120340,
+      "Python": 11540
+    },
+    "contributions_by_user": 27,
+    "contribution_score": 360.39,
+    "S_code": 128.79,
+    "S_social": 13,
+    "S_maint": 27
+  },
+  {
+    "name": "crate-mono",
+    "full_name": "mfussenegger/crate-mono",
+    "html_url": "https://github.com/mfussenegger/crate-mono",
+    "description": "Unmaintained Mono/.NET client driver for crate. Use npgsql-cratedb instead.",
+    "stars": 10,
+    "forks": 11,
+    "languages": {
+      "C#": 18892,
+      "F#": 4665,
+      "Shell": 488,
+      "Batchfile": 200
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 255.84,
+    "S_code": 23.68,
+    "S_social": 32,
+    "S_maint": 18
+  },
+  {
+    "name": "easymail",
+    "full_name": "mfussenegger/easymail",
+    "html_url": "https://github.com/mfussenegger/easymail",
+    "description": "A module that makes sending (valid) emails from python a little bit easier.",
+    "stars": 7,
+    "forks": 2,
+    "languages": {
+      "Python": 10339
+    },
+    "contributions_by_user": 30,
+    "contribution_score": 327.05,
+    "S_code": 10.1,
+    "S_social": 11,
+    "S_maint": 30
+  },
+  {
+    "name": "BaanPrint",
+    "full_name": "mfussenegger/BaanPrint",
+    "html_url": "https://github.com/mfussenegger/BaanPrint",
+    "description": "Very simple output management framework for Infor ERP LN written in python.",
+    "stars": 7,
+    "forks": 1,
+    "languages": {
+      "Python": 11579
+    },
+    "contributions_by_user": 33,
+    "contribution_score": 353.65,
+    "S_code": 11.31,
+    "S_social": 9,
+    "S_maint": 33
+  },
+  {
+    "name": "pypsh",
+    "full_name": "mfussenegger/pypsh",
+    "html_url": "https://github.com/mfussenegger/pypsh",
+    "description": "UNMAINTAINED: remotely execute commands in parallel with ssh on hostnames that match a regex.",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "Python": 11333
+    },
+    "contributions_by_user": 36,
+    "contribution_score": 379.53,
+    "S_code": 11.07,
+    "S_social": 7,
+    "S_maint": 36
+  },
+  {
+    "name": "dinspect",
+    "full_name": "mfussenegger/dinspect",
+    "html_url": "https://github.com/mfussenegger/dinspect",
+    "description": "Commandline tool to turn JSON into a chart",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Python": 6940
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 161.39,
+    "S_code": 6.78,
+    "S_social": 4,
+    "S_maint": 15
+  },
+  {
+    "name": "paperstore",
+    "full_name": "mfussenegger/paperstore",
+    "html_url": "https://github.com/mfussenegger/paperstore",
+    "description": "python script to scan documents and search them later using a fulltext index",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "Python": 10554
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 167.15,
+    "S_code": 10.31,
+    "S_social": 6,
+    "S_maint": 15
+  },
+  {
+    "name": "dapconfig-schema",
+    "full_name": "mfussenegger/dapconfig-schema",
+    "html_url": "https://github.com/mfussenegger/dapconfig-schema",
+    "description": "JSON Schema for .vscode/launch.json debug configuration files",
+    "stars": 3,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 5,
+    "contribution_score": 56.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 5
+  },
+  {
+    "name": "antlr4ls",
+    "full_name": "mfussenegger/antlr4ls",
+    "html_url": "https://github.com/mfussenegger/antlr4ls",
+    "description": "antlr4 language server",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Java": 21252,
+      "ANTLR": 209
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 76.48,
+    "S_code": 20.96,
+    "S_social": 3,
+    "S_maint": 6
+  },
+  {
+    "name": "crate-autocomplete",
+    "full_name": "mfussenegger/crate-autocomplete",
+    "html_url": "https://github.com/mfussenegger/crate-autocomplete",
+    "description": "Plugin for Crate that provides SQL auto-complete functionality.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Java": 52376
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 151.57,
+    "S_code": 51.15,
+    "S_social": 3,
+    "S_maint": 12
+  },
+  {
+    "name": "docker-tornado-crate-demo",
+    "full_name": "mfussenegger/docker-tornado-crate-demo",
+    "html_url": "https://github.com/mfussenegger/docker-tornado-crate-demo",
+    "description": "Simple demo showing how to run a python web app inside a docker container with a linked crate container",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Python": 8225
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 34.02,
+    "S_code": 8.03,
+    "S_social": 5,
+    "S_maint": 2
+  },
+  {
+    "name": "hprofdap",
+    "full_name": "mfussenegger/hprofdap",
+    "html_url": "https://github.com/mfussenegger/hprofdap",
+    "description": "CLI and debug adapter (DAP) that allows to inspect Java heap dumps (.hprof files) via OQL",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 20432
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 103.98,
+    "S_code": 19.95,
+    "S_social": 2,
+    "S_maint": 9
+  },
+  {
+    "name": "java-benchopedia",
+    "full_name": "mfussenegger/java-benchopedia",
+    "html_url": "https://github.com/mfussenegger/java-benchopedia",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Java": 7051
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 61.44,
+    "S_code": 6.89,
+    "S_social": 4,
+    "S_maint": 5
+  },
+  {
+    "name": "java-debug",
+    "full_name": "mfussenegger/java-debug",
+    "html_url": "https://github.com/mfussenegger/java-debug",
+    "description": "The debug server implementation for Java. It conforms to the debug protocol of Visual Studio Code.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Java": 745096,
+      "JavaScript": 12933,
+      "Shell": 1833
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 377.03,
+    "S_code": 742.05,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "riccodo",
+    "full_name": "mfussenegger/riccodo",
+    "html_url": "https://github.com/mfussenegger/riccodo",
+    "description": "generates static html sites from markdown files using jinja",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 7903
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 115.86,
+    "S_code": 7.72,
+    "S_social": 1,
+    "S_maint": 11
+  },
+  {
+    "name": "dbeaver",
+    "full_name": "mfussenegger/dbeaver",
+    "html_url": "https://github.com/mfussenegger/dbeaver",
+    "description": "Free universal database tool and SQL client",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 26657731,
+      "C++": 63113,
+      "ANTLR": 31460,
+      "CSS": 20735,
+      "HTML": 12246,
+      "XSLT": 8047,
+      "Batchfile": 2891,
+      "Shell": 202
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13086.19,
+    "S_code": 26168.38,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "gradle-jenkins-job-dsl-plugin",
+    "full_name": "mfussenegger/gradle-jenkins-job-dsl-plugin",
+    "html_url": "https://github.com/mfussenegger/gradle-jenkins-job-dsl-plugin",
+    "description": "Plugin for easy management of Jenkins Job DSL scripts with Gradle",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Groovy": 26178,
+      "Java": 1149
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 25.34,
+    "S_code": 26.69,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "crate-peewee",
+    "full_name": "mfussenegger/crate-peewee",
+    "html_url": "https://github.com/mfussenegger/crate-peewee",
+    "description": "Crate driver for peewee",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 16309
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 89.96,
+    "S_code": 15.93,
+    "S_social": 1,
+    "S_maint": 8
+  },
+  {
+    "name": "crate-udf",
+    "full_name": "mfussenegger/crate-udf",
+    "html_url": "https://github.com/mfussenegger/crate-udf",
+    "description": "Plugin for Crate that provides a mechanism to load user defined functions",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 8523,
+      "Python": 2026,
+      "Groovy": 1123
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 17.7,
+    "S_code": 11.4,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "spacman",
+    "full_name": "mfussenegger/spacman",
+    "html_url": "https://github.com/mfussenegger/spacman",
+    "description": "simple wrapper around pacman/pacsearch/aria2c to improve file download speed",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 4634
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 74.26,
+    "S_code": 4.53,
+    "S_social": 1,
+    "S_maint": 7
+  },
+  {
+    "name": "papercut",
+    "full_name": "mfussenegger/papercut",
+    "html_url": "https://github.com/mfussenegger/papercut",
+    "description": "Fork of https://papercut.codeplex.com/ a local smtp server to test emails during development",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C#": 85621
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 97.81,
+    "S_code": 83.61,
+    "S_social": 3,
+    "S_maint": 5
+  },
+  {
+    "name": "neovim",
+    "full_name": "mfussenegger/neovim",
+    "html_url": "https://github.com/mfussenegger/neovim",
+    "description": "Vim-fork focused on extensibility and usability",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Vim Script": 10892961,
+      "C": 9376499,
+      "Lua": 4429970,
+      "Python": 211184,
+      "CMake": 112077,
+      "Shell": 77361,
+      "PostScript": 59754,
+      "CSS": 23574,
+      "Awk": 18801,
+      "Makefile": 13378,
+      "Perl": 11968,
+      "PowerShell": 6182,
+      "HTML": 2454,
+      "MATLAB": 1802,
+      "Tcl": 745,
+      "Batchfile": 318,
+      "Ruby": 182
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12327.83,
+    "S_code": 24647.67,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "mfussenegger",
+    "full_name": "mfussenegger/mfussenegger",
+    "html_url": "https://github.com/mfussenegger/mfussenegger",
+    "description": "Me",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 12,
+    "contribution_score": 120.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "eclipse.jdt.ls",
+    "full_name": "mfussenegger/eclipse.jdt.ls",
+    "html_url": "https://github.com/mfussenegger/eclipse.jdt.ls",
+    "description": "Java language server",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 6335720,
+      "HTML": 85839,
+      "CSS": 21802,
+      "JavaScript": 19309
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3155.6,
+    "S_code": 6311.2,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "debug-adapter-protocol",
+    "full_name": "mfussenegger/debug-adapter-protocol",
+    "html_url": "https://github.com/mfussenegger/debug-adapter-protocol",
+    "description": "Defines a common protocol for debug adapters.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "eclipse-compiler-bug",
+    "full_name": "mfussenegger/eclipse-compiler-bug",
+    "html_url": "https://github.com/mfussenegger/eclipse-compiler-bug",
+    "description": "Reproduction for eclipse.jdt compiler bug",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 2402
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.17,
+    "S_code": 2.35,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "build-helper-maven-plugin",
+    "full_name": "mfussenegger/build-helper-maven-plugin",
+    "html_url": "https://github.com/mfussenegger/build-helper-maven-plugin",
+    "description": "Build Helper Maven Plugin",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 149066,
+      "Groovy": 18343
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 81.74,
+    "S_code": 163.49,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "maven-surefire",
+    "full_name": "mfussenegger/maven-surefire",
+    "html_url": "https://github.com/mfussenegger/maven-surefire",
+    "description": "Apache Maven Surefire",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 4734648,
+      "HTML": 2860,
+      "Shell": 1815,
+      "Gherkin": 508,
+      "Groovy": 490
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2314.61,
+    "S_code": 4629.22,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "maven-lucene-jpms-test",
+    "full_name": "mfussenegger/maven-lucene-jpms-test",
+    "html_url": "https://github.com/mfussenegger/maven-lucene-jpms-test",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 595
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.29,
+    "S_code": 0.58,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "official-images",
+    "full_name": "mfussenegger/official-images",
+    "html_url": "https://github.com/mfussenegger/official-images",
+    "description": "Primary source of truth for the Docker \"Official Images\" program",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 149371,
+      "Ruby": 4061,
+      "Python": 2543,
+      "Java": 2046,
+      "Batchfile": 1593,
+      "PHP": 1133,
+      "Dockerfile": 928,
+      "Hy": 524,
+      "Prolog": 456,
+      "Julia": 370,
+      "Haxe": 298,
+      "Erlang": 91,
+      "C++": 79,
+      "Go": 74,
+      "C": 73,
+      "Elixir": 45,
+      "Rust": 45,
+      "Dart": 41,
+      "Perl": 40,
+      "Haskell": 31,
+      "JavaScript": 29,
+      "Swift": 23,
+      "HTML": 12
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 80.03,
+    "S_code": 160.06,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nvim-dap-vscode-js",
+    "full_name": "mfussenegger/nvim-dap-vscode-js",
+    "html_url": "https://github.com/mfussenegger/nvim-dap-vscode-js",
+    "description": "nvim-dap adapter for vscode-js-debug",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 24533,
+      "Shell": 1794,
+      "Vim Script": 338,
+      "TypeScript": 300
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.17,
+    "S_code": 26.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lemminx-maven",
+    "full_name": "mfussenegger/lemminx-maven",
+    "html_url": "https://github.com/mfussenegger/lemminx-maven",
+    "description": "lemminx-maven",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 376809
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 183.99,
+    "S_code": 367.98,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mfussenegger.github.io",
+    "full_name": "mfussenegger/mfussenegger.github.io",
+    "html_url": "https://github.com/mfussenegger/mfussenegger.github.io",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 411
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.2,
+    "S_code": 0.4,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "vscode-gradle",
+    "full_name": "mfussenegger/vscode-gradle",
+    "html_url": "https://github.com/mfussenegger/vscode-gradle",
+    "description": "Manage Gradle Projects, run Gradle tasks and provide better Gradle file authoring experience in VS Code",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 336965,
+      "Java": 230058,
+      "Shell": 6301,
+      "JavaScript": 6234,
+      "Kotlin": 1406
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 283.67,
+    "S_code": 567.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cr8ingest",
+    "full_name": "mfussenegger/cr8ingest",
+    "html_url": "https://github.com/mfussenegger/cr8ingest",
+    "description": "A command line tool to ingest data into CrateDB.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Haskell": 14390,
+      "Python": 1660
+    },
+    "contributions_by_user": 35,
+    "contribution_score": 357.84,
+    "S_code": 15.67,
+    "S_social": 0,
+    "S_maint": 35
+  },
+  {
+    "name": "haskell-language-server",
+    "full_name": "mfussenegger/haskell-language-server",
+    "html_url": "https://github.com/mfussenegger/haskell-language-server",
+    "description": "Successor of ghcide & haskell-ide-engine. One IDE to rule them all.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Haskell": 1900497,
+      "Nix": 12528,
+      "C": 1387,
+      "Shell": 341,
+      "Batchfile": 66
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 934.97,
+    "S_code": 1869.94,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nvim-dap-ui",
+    "full_name": "mfussenegger/nvim-dap-ui",
+    "html_url": "https://github.com/mfussenegger/nvim-dap-ui",
+    "description": "A UI for nvim-dap",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 32238,
+      "Shell": 73
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.78,
+    "S_code": 31.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "plenary.nvim",
+    "full_name": "mfussenegger/plenary.nvim",
+    "html_url": "https://github.com/mfussenegger/plenary.nvim",
+    "description": "plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 318892,
+      "Vim Script": 778,
+      "Makefile": 243
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 156.21,
+    "S_code": 312.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lua-debug.nvim",
+    "full_name": "mfussenegger/lua-debug.nvim",
+    "html_url": "https://github.com/mfussenegger/lua-debug.nvim",
+    "description": "Debug adapter for Neovim plugins",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 17103
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.35,
+    "S_code": 16.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tree-sitter-sql",
+    "full_name": "mfussenegger/tree-sitter-sql",
+    "html_url": "https://github.com/mfussenegger/tree-sitter-sql",
+    "description": "SQL grammar for tree sitter",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 40160,
+      "JavaScript": 2439,
+      "Scheme": 1367,
+      "Lua": 906,
+      "C++": 857,
+      "Makefile": 420,
+      "Python": 297
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22.68,
+    "S_code": 45.36,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": ".github",
+    "full_name": "mfussenegger/.github",
+    "html_url": "https://github.com/mfussenegger/.github",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "ElefantenBank",
+    "full_name": "mfussenegger/ElefantenBank",
+    "html_url": "https://github.com/mfussenegger/ElefantenBank",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "i3status-rust",
+    "full_name": "mfussenegger/i3status-rust",
+    "html_url": "https://github.com/mfussenegger/i3status-rust",
+    "description": "Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 468998
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 229.0,
+    "S_code": 458.01,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "crate",
+    "full_name": "mfussenegger/crate",
+    "html_url": "https://github.com/mfussenegger/crate",
+    "description": "CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 26408056,
+      "Python": 67912,
+      "ANTLR": 32639,
+      "Shell": 8406,
+      "Batchfile": 3308,
+      "TSQL": 2518
+    },
+    "contributions_by_user": 3902,
+    "contribution_score": 51970.6,
+    "S_code": 25901.21,
+    "S_social": 0,
+    "S_maint": 3902
+  },
+  {
+    "name": "junit-tui",
+    "full_name": "mfussenegger/junit-tui",
+    "html_url": "https://github.com/mfussenegger/junit-tui",
+    "description": "Ranger like TUI to browse junit results",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Haskell": 8154
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 63.98,
+    "S_code": 7.96,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "pgjdbc",
+    "full_name": "mfussenegger/pgjdbc",
+    "html_url": "https://github.com/mfussenegger/pgjdbc",
+    "description": "Postgresql JDBC Driver",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 3376617,
+      "Shell": 27195,
+      "Smarty": 6094,
+      "Perl": 2844,
+      "Scala": 2743,
+      "Dockerfile": 446
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1667.94,
+    "S_code": 3335.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "salt",
+    "full_name": "mfussenegger/salt",
+    "html_url": "https://github.com/mfussenegger/salt",
+    "description": "Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here: ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 34115672,
+      "Shell": 454491,
+      "Groovy": 121159,
+      "SaltStack": 64099,
+      "NSIS": 60045,
+      "Batchfile": 54346,
+      "HTML": 39684,
+      "PowerShell": 38276,
+      "TSQL": 9596,
+      "Scheme": 5485,
+      "Rich Text Format": 4477,
+      "Ruby": 1076,
+      "Makefile": 713,
+      "C": 493,
+      "Roff": 191,
+      "Dockerfile": 187,
+      "HCL": 174
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17075.28,
+    "S_code": 34150.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gh-action-pypi-publish",
+    "full_name": "mfussenegger/gh-action-pypi-publish",
+    "html_url": "https://github.com/mfussenegger/gh-action-pypi-publish",
+    "description": "GitHub Action to publish a package to PyPI",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dockerfile": 639
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.31,
+    "S_code": 0.62,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cmp-perf",
+    "full_name": "mfussenegger/cmp-perf",
+    "html_url": "https://github.com/mfussenegger/cmp-perf",
+    "description": "CLI to compare the runtime values returned by 2 launched processes",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Haskell": 4364
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 32.13,
+    "S_code": 4.26,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "cr8hs",
+    "full_name": "mfussenegger/cr8hs",
+    "html_url": "https://github.com/mfussenegger/cr8hs",
+    "description": "Externalized query runner for cr8",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Haskell": 3923
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 111.92,
+    "S_code": 3.83,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "pipex",
+    "full_name": "mfussenegger/pipex",
+    "html_url": "https://github.com/mfussenegger/pipex",
+    "description": "Python application launcher with auto virtualenv creation and package installation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1022
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.5,
+    "S_code": 1.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "asyncpg",
+    "full_name": "mfussenegger/asyncpg",
+    "html_url": "https://github.com/mfussenegger/asyncpg",
+    "description": "A fast PostgreSQL Database Client Library for Python/asyncio.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 644363,
+      "C": 31930,
+      "Shell": 8174,
+      "Makefile": 849
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 334.63,
+    "S_code": 669.25,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "elasticsearch",
+    "full_name": "mfussenegger/elasticsearch",
+    "html_url": "https://github.com/mfussenegger/elasticsearch",
+    "description": "Open Source, Distributed, RESTful Search Engine",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 34375791,
+      "Groovy": 224870,
+      "Shell": 100558,
+      "Python": 76186,
+      "Batchfile": 15853,
+      "ANTLR": 7728,
+      "Perl": 7116,
+      "HTML": 5595,
+      "Emacs Lisp": 3341,
+      "FreeMarker": 45
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17000.53,
+    "S_code": 34001.06,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "python-language-server",
+    "full_name": "mfussenegger/python-language-server",
+    "html_url": "https://github.com/mfussenegger/python-language-server",
+    "description": "An implementation of the Language Server Protocol for Python",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 148422,
+      "TypeScript": 1690,
+      "Shell": 452
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 73.52,
+    "S_code": 147.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "adapt",
+    "full_name": "mfussenegger/adapt",
+    "html_url": "https://github.com/mfussenegger/adapt",
+    "description": "Adapt Intent Parser",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 44640,
+      "Shell": 385
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 21.98,
+    "S_code": 43.97,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jedi",
+    "full_name": "mfussenegger/jedi",
+    "html_url": "https://github.com/mfussenegger/jedi",
+    "description": "Awesome autocompletion library for python.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 676402,
+      "C": 294
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 350.42,
+    "S_code": 660.84,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "crate-top",
+    "full_name": "mfussenegger/crate-top",
+    "html_url": "https://github.com/mfussenegger/crate-top",
+    "description": "A top for Crate.IO",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 39522
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.3,
+    "S_code": 38.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dbext.vim",
+    "full_name": "mfussenegger/dbext.vim",
+    "html_url": "https://github.com/mfussenegger/dbext.vim",
+    "description": "Provides database access to many dbms (Oracle, Sybase, Microsoft, MySQL, DBI,..)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vim Script": 466399
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 257.73,
+    "S_code": 455.47,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "pygitter",
+    "full_name": "mfussenegger/pygitter",
+    "html_url": "https://github.com/mfussenegger/pygitter",
+    "description": "PyQT5 based desktop client for gitter.im",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4828
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 22.36,
+    "S_code": 4.71,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "python-prompt-toolkit",
+    "full_name": "mfussenegger/python-prompt-toolkit",
+    "html_url": "https://github.com/mfussenegger/python-prompt-toolkit",
+    "description": "Library for building powerful interactive command lines in Python",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "crate-utils",
+    "full_name": "mfussenegger/crate-utils",
+    "html_url": "https://github.com/mfussenegger/crate-utils",
+    "description": "Utility scripts for Crate",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 14290,
+      "Python": 5535
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 79.68,
+    "S_code": 19.36,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "lovely.testlayers",
+    "full_name": "mfussenegger/lovely.testlayers",
+    "html_url": "https://github.com/mfussenegger/lovely.testlayers",
+    "description": "mysql, postgres nginx, memcached cassandra testlayers for use with zope.testrunner",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 86542,
+      "Shell": 1366,
+      "ApacheConf": 1078
+    },
+    "contributions_by_user": 28,
+    "contribution_score": 323.45,
+    "S_code": 86.9,
+    "S_social": 0,
+    "S_maint": 28
+  },
+  {
+    "name": "whity-server",
+    "full_name": "mfussenegger/whity-server",
+    "html_url": "https://github.com/mfussenegger/whity-server",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 144443,
+      "Python": 20872,
+      "HTML": 3068
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 132.22,
+    "S_code": 164.44,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "qutebrowser",
+    "full_name": "mfussenegger/qutebrowser",
+    "html_url": "https://github.com/mfussenegger/qutebrowser",
+    "description": "A keyboard-driven, vim-like browser based on PyQt5 and QtWebKit.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1116633,
+      "Shell": 328
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 545.39,
+    "S_code": 1090.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "crash",
+    "full_name": "mfussenegger/crash",
+    "html_url": "https://github.com/mfussenegger/crash",
+    "description": "The CRate SHell",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 17,
+    "contribution_score": 170.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "tornado-testing",
+    "full_name": "mfussenegger/tornado-testing",
+    "html_url": "https://github.com/mfussenegger/tornado-testing",
+    "description": "A tornado testlayer which can be used with the zope testrunner",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 8723
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 74.26,
+    "S_code": 8.52,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "vim-snippets",
+    "full_name": "mfussenegger/vim-snippets",
+    "html_url": "https://github.com/mfussenegger/vim-snippets",
+    "description": "vim-snipmate default snippets (Previously snipmate-snippets)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vim Script": 831
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.41,
+    "S_code": 0.81,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "baanlib",
+    "full_name": "mfussenegger/baanlib",
+    "html_url": "https://github.com/mfussenegger/baanlib",
+    "description": "A simple python wrapper around win32com OLE functionality to make OLE automation with Baan/Infor LN easier to use.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 7479
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 157.65,
+    "S_code": 7.3,
+    "S_social": 2,
+    "S_maint": 15
+  },
+  {
+    "name": "baancomplete",
+    "full_name": "mfussenegger/baancomplete",
+    "html_url": "https://github.com/mfussenegger/baancomplete",
+    "description": "Vim autocompletion for baan scripting language",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 6554,
+      "Vim Script": 4370
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 135.33,
+    "S_code": 10.67,
+    "S_social": 0,
+    "S_maint": 13
+  }
+]

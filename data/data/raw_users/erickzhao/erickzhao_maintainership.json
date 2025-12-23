@@ -1,0 +1,14 @@
+{
+  "username": "erickzhao",
+  "raw_metrics": {
+    "accepted_external_prs": 0,
+    "created_issues": 3,
+    "merged_external_pr_count_approx": 0,
+    "issue_comment_count": 19,
+    "pr_review_comment_count": 36,
+    "events_fetched": 300,
+    "merged_prs_with_stars": [],
+    "total_closed_external_prs": 3
+  },
+  "maintainership_score_100": 10.8
+}

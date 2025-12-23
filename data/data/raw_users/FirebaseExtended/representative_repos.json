@@ -1,0 +1,1795 @@
+[
+  {
+    "name": "firepad",
+    "full_name": "FirebaseExtended/firepad",
+    "html_url": "https://github.com/FirebaseExtended/firepad",
+    "description": "Collaborative Text Editor Powered by Firebase",
+    "stars": 3883,
+    "forks": 886,
+    "languages": {
+      "JavaScript": 283416,
+      "CSS": 21241,
+      "CoffeeScript": 6562,
+      "Shell": 4536,
+      "HTML": 1365
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11464.84,
+    "S_code": 309.69,
+    "S_social": 5655,
+    "S_maint": 0
+  },
+  {
+    "name": "reactfire",
+    "full_name": "FirebaseExtended/reactfire",
+    "html_url": "https://github.com/FirebaseExtended/reactfire",
+    "description": "Hooks, Context Providers, and Components that make it easy to interact with Firebase.",
+    "stars": 3573,
+    "forks": 405,
+    "languages": {
+      "TypeScript": 136988,
+      "JavaScript": 868,
+      "Shell": 789,
+      "HTML": 356,
+      "CSS": 58
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8833.9,
+    "S_code": 135.8,
+    "S_social": 4383,
+    "S_maint": 0
+  },
+  {
+    "name": "angularfire",
+    "full_name": "FirebaseExtended/angularfire",
+    "html_url": "https://github.com/FirebaseExtended/angularfire",
+    "description": "AngularJS bindings for Firebase",
+    "stars": 2719,
+    "forks": 625,
+    "languages": {
+      "JavaScript": 243284,
+      "HTML": 7644,
+      "CSS": 185,
+      "Shell": 110
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8060.67,
+    "S_code": 245.33,
+    "S_social": 3969,
+    "S_maint": 0
+  },
+  {
+    "name": "firechat",
+    "full_name": "FirebaseExtended/firechat",
+    "html_url": "https://github.com/FirebaseExtended/firechat",
+    "description": "Real-time Chat powered by Firebase",
+    "stars": 2410,
+    "forks": 1026,
+    "languages": {
+      "JavaScript": 63477,
+      "CSS": 33963,
+      "HTML": 26197
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8984.37,
+    "S_code": 120.74,
+    "S_social": 4462,
+    "S_maint": 0
+  },
+  {
+    "name": "firebase-arduino",
+    "full_name": "FirebaseExtended/firebase-arduino",
+    "html_url": "https://github.com/FirebaseExtended/firebase-arduino",
+    "description": "Arduino samples for Firebase.",
+    "stars": 951,
+    "forks": 488,
+    "languages": {
+      "C++": 99726,
+      "Makefile": 9882,
+      "Shell": 689,
+      "Vim Snippet": 285,
+      "C": 65
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3908.03,
+    "S_code": 108.05,
+    "S_social": 1927,
+    "S_maint": 0
+  },
+  {
+    "name": "bolt",
+    "full_name": "FirebaseExtended/bolt",
+    "html_url": "https://github.com/FirebaseExtended/bolt",
+    "description": "Bolt Compiler (Firebase Security and Modeling)",
+    "stars": 899,
+    "forks": 106,
+    "languages": {
+      "TypeScript": 164915,
+      "JavaScript": 9954,
+      "Shell": 7655,
+      "Python": 3007,
+      "HTML": 774
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2312.97,
+    "S_code": 181.94,
+    "S_social": 1111,
+    "S_maint": 0
+  },
+  {
+    "name": "firebase-queue",
+    "full_name": "FirebaseExtended/firebase-queue",
+    "html_url": "https://github.com/FirebaseExtended/firebase-queue",
+    "description": null,
+    "stars": 784,
+    "forks": 95,
+    "languages": {
+      "JavaScript": 136182
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2014.5,
+    "S_code": 132.99,
+    "S_social": 974,
+    "S_maint": 0
+  },
+  {
+    "name": "action-hosting-deploy",
+    "full_name": "FirebaseExtended/action-hosting-deploy",
+    "html_url": "https://github.com/FirebaseExtended/action-hosting-deploy",
+    "description": "Automatically deploy shareable previews for your Firebase Hosting sites",
+    "stars": 773,
+    "forks": 221,
+    "languages": {
+      "TypeScript": 31174
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2445.22,
+    "S_code": 30.44,
+    "S_social": 1215,
+    "S_maint": 0
+  },
+  {
+    "name": "emberfire",
+    "full_name": "FirebaseExtended/emberfire",
+    "html_url": "https://github.com/FirebaseExtended/emberfire",
+    "description": "The officially supported adapter for using Firebase with Ember",
+    "stars": 686,
+    "forks": 261,
+    "languages": {
+      "TypeScript": 62492,
+      "JavaScript": 18388,
+      "Handlebars": 2677,
+      "HTML": 1729,
+      "Shell": 851
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2458.06,
+    "S_code": 84.12,
+    "S_social": 1208,
+    "S_maint": 0
+  },
+  {
+    "name": "mlkit-material-android",
+    "full_name": "FirebaseExtended/mlkit-material-android",
+    "html_url": "https://github.com/FirebaseExtended/mlkit-material-android",
+    "description": "ML Kit Showcase App with Material Design",
+    "stars": 495,
+    "forks": 138,
+    "languages": {
+      "Java": 207873,
+      "Kotlin": 202825,
+      "Shell": 820
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1742.94,
+    "S_code": 401.87,
+    "S_social": 771,
+    "S_maint": 0
+  },
+  {
+    "name": "polymerfire",
+    "full_name": "FirebaseExtended/polymerfire",
+    "html_url": "https://github.com/FirebaseExtended/polymerfire",
+    "description": "Polymer Web Components for Firebase",
+    "stars": 456,
+    "forks": 139,
+    "languages": {
+      "HTML": 98947
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1516.31,
+    "S_code": 96.63,
+    "S_social": 734,
+    "S_maint": 0
+  },
+  {
+    "name": "functions-cron",
+    "full_name": "FirebaseExtended/functions-cron",
+    "html_url": "https://github.com/FirebaseExtended/functions-cron",
+    "description": null,
+    "stars": 447,
+    "forks": 87,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 1242.0,
+    "S_code": 0.0,
+    "S_social": 621,
+    "S_maint": 0
+  },
+  {
+    "name": "flutterfire_desktop",
+    "full_name": "FirebaseExtended/flutterfire_desktop",
+    "html_url": "https://github.com/FirebaseExtended/flutterfire_desktop",
+    "description": "An early-stage, experimental pure-Dart implementation of Firebase SDKs.",
+    "stars": 414,
+    "forks": 60,
+    "languages": {
+      "Dart": 443963,
+      "C++": 103246,
+      "CMake": 64782,
+      "C": 8420,
+      "Ruby": 3202,
+      "Swift": 2428
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1373.68,
+    "S_code": 611.37,
+    "S_social": 534,
+    "S_maint": 0
+  },
+  {
+    "name": "mlkit-custom-image-classifier",
+    "full_name": "FirebaseExtended/mlkit-custom-image-classifier",
+    "html_url": "https://github.com/FirebaseExtended/mlkit-custom-image-classifier",
+    "description": "Easily collect data and train image classification models.",
+    "stars": 407,
+    "forks": 65,
+    "languages": {
+      "Dart": 278895,
+      "Java": 65461,
+      "Objective-C": 57078,
+      "TypeScript": 53599,
+      "Ruby": 8022,
+      "JavaScript": 5370,
+      "Swift": 1036
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1303.23,
+    "S_code": 458.46,
+    "S_social": 537,
+    "S_maint": 0
+  },
+  {
+    "name": "firebase-framework-tools",
+    "full_name": "FirebaseExtended/firebase-framework-tools",
+    "html_url": "https://github.com/FirebaseExtended/firebase-framework-tools",
+    "description": "Experimental addon to the Firebase CLI to add web framework support",
+    "stars": 391,
+    "forks": 564,
+    "languages": {
+      "JavaScript": 992221,
+      "TypeScript": 963740,
+      "SCSS": 80957,
+      "HTML": 61172,
+      "CSS": 9794
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4067.24,
+    "S_code": 2058.48,
+    "S_social": 1519,
+    "S_maint": 0
+  },
+  {
+    "name": "firebase-import",
+    "full_name": "FirebaseExtended/firebase-import",
+    "html_url": "https://github.com/FirebaseExtended/firebase-import",
+    "description": "Node module for importing large data into Firebase.",
+    "stars": 380,
+    "forks": 62,
+    "languages": {
+      "JavaScript": 7944
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1011.88,
+    "S_code": 7.76,
+    "S_social": 504,
+    "S_maint": 0
+  },
+  {
+    "name": "custom-auth-samples",
+    "full_name": "FirebaseExtended/custom-auth-samples",
+    "html_url": "https://github.com/FirebaseExtended/custom-auth-samples",
+    "description": "Samples showcasing how to sign in Firebase using additional Identity Providers",
+    "stars": 324,
+    "forks": 96,
+    "languages": {
+      "Java": 26610,
+      "JavaScript": 22432,
+      "Objective-C": 20996,
+      "Swift": 11011,
+      "HTML": 4534,
+      "CSS": 1427,
+      "C": 1069,
+      "Ruby": 463
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1075.23,
+    "S_code": 86.47,
+    "S_social": 516,
+    "S_maint": 0
+  },
+  {
+    "name": "experimental-extensions",
+    "full_name": "FirebaseExtended/experimental-extensions",
+    "html_url": "https://github.com/FirebaseExtended/experimental-extensions",
+    "description": "🧪 A laboratory for new extensions created by Firebase",
+    "stars": 251,
+    "forks": 41,
+    "languages": {
+      "TypeScript": 225381,
+      "JavaScript": 112949,
+      "C#": 12219,
+      "Shell": 58
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 837.19,
+    "S_code": 342.39,
+    "S_social": 333,
+    "S_maint": 0
+  },
+  {
+    "name": "firechat-ios",
+    "full_name": "FirebaseExtended/firechat-ios",
+    "html_url": "https://github.com/FirebaseExtended/firechat-ios",
+    "description": "An example chat application built using the Firebase iOS SDK",
+    "stars": 247,
+    "forks": 102,
+    "languages": {
+      "Objective-C": 69621,
+      "C++": 2031
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 936.99,
+    "S_code": 69.97,
+    "S_social": 451,
+    "S_maint": 0
+  },
+  {
+    "name": "make-it-so-android",
+    "full_name": "FirebaseExtended/make-it-so-android",
+    "html_url": "https://github.com/FirebaseExtended/make-it-so-android",
+    "description": null,
+    "stars": 243,
+    "forks": 76,
+    "languages": {
+      "Kotlin": 300605
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 936.78,
+    "S_code": 293.56,
+    "S_social": 395,
+    "S_maint": 0
+  },
+  {
+    "name": "protobuf-rules-gen",
+    "full_name": "FirebaseExtended/protobuf-rules-gen",
+    "html_url": "https://github.com/FirebaseExtended/protobuf-rules-gen",
+    "description": "This is an experimental protoc plugin that generates Firebase Rules for Cloud Firestore based on Google's Protocol Buffer format. This allows you to easily validate your data in a platform independent manner.",
+    "stars": 199,
+    "forks": 12,
+    "languages": {
+      "C++": 20800,
+      "Starlark": 8725,
+      "Shell": 2593,
+      "Python": 2569
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 462.94,
+    "S_code": 33.87,
+    "S_social": 223,
+    "S_maint": 0
+  },
+  {
+    "name": "karas-coffee",
+    "full_name": "FirebaseExtended/karas-coffee",
+    "html_url": "https://github.com/FirebaseExtended/karas-coffee",
+    "description": null,
+    "stars": 185,
+    "forks": 42,
+    "languages": {
+      "TypeScript": 197673,
+      "JavaScript": 3298,
+      "HTML": 974
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 636.61,
+    "S_code": 197.21,
+    "S_social": 269,
+    "S_maint": 0
+  },
+  {
+    "name": "firebase-video-samples",
+    "full_name": "FirebaseExtended/firebase-video-samples",
+    "html_url": "https://github.com/FirebaseExtended/firebase-video-samples",
+    "description": "This repository contains sample code for some of the videos on the Firebase YouTube channel.",
+    "stars": 165,
+    "forks": 129,
+    "languages": {
+      "Swift": 636808,
+      "Kotlin": 196092,
+      "JavaScript": 49103,
+      "CSS": 46900,
+      "TypeScript": 18628,
+      "Dart": 5949,
+      "Vue": 5664,
+      "HTML": 4805,
+      "Nix": 1247
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1317.29,
+    "S_code": 942.57,
+    "S_social": 423,
+    "S_maint": 0
+  },
+  {
+    "name": "rxfire",
+    "full_name": "FirebaseExtended/rxfire",
+    "html_url": "https://github.com/FirebaseExtended/rxfire",
+    "description": null,
+    "stars": 147,
+    "forks": 45,
+    "languages": {
+      "TypeScript": 121309,
+      "JavaScript": 5411,
+      "Shell": 669
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 536.2,
+    "S_code": 124.4,
+    "S_social": 237,
+    "S_maint": 0
+  },
+  {
+    "name": "unity-solutions",
+    "full_name": "FirebaseExtended/unity-solutions",
+    "html_url": "https://github.com/FirebaseExtended/unity-solutions",
+    "description": "Use Firebase tools to incorporate common features into your games!",
+    "stars": 134,
+    "forks": 35,
+    "languages": {
+      "C#": 187629
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 499.62,
+    "S_code": 183.23,
+    "S_social": 204,
+    "S_maint": 0
+  },
+  {
+    "name": "user-data-protection",
+    "full_name": "FirebaseExtended/user-data-protection",
+    "html_url": "https://github.com/FirebaseExtended/user-data-protection",
+    "description": "Generalizable examples of protecting user data in Firebase Applications",
+    "stars": 97,
+    "forks": 13,
+    "languages": {
+      "JavaScript": 87602,
+      "EJS": 5497,
+      "HTML": 5232,
+      "CSS": 2686
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 295.32,
+    "S_code": 98.65,
+    "S_social": 123,
+    "S_maint": 0
+  },
+  {
+    "name": "expense-tracker",
+    "full_name": "FirebaseExtended/expense-tracker",
+    "html_url": "https://github.com/FirebaseExtended/expense-tracker",
+    "description": null,
+    "stars": 91,
+    "forks": 79,
+    "languages": {
+      "JavaScript": 303992,
+      "HTML": 16600,
+      "SCSS": 13139
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 660.95,
+    "S_code": 325.91,
+    "S_social": 249,
+    "S_maint": 0
+  },
+  {
+    "name": "firebase-auth-service-worker-sessions",
+    "full_name": "FirebaseExtended/firebase-auth-service-worker-sessions",
+    "html_url": "https://github.com/FirebaseExtended/firebase-auth-service-worker-sessions",
+    "description": null,
+    "stars": 87,
+    "forks": 14,
+    "languages": {
+      "JavaScript": 17409,
+      "HTML": 1398,
+      "CSS": 1234
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 239.79,
+    "S_code": 19.57,
+    "S_social": 115,
+    "S_maint": 0
+  },
+  {
+    "name": "mlkit-material-ios",
+    "full_name": "FirebaseExtended/mlkit-material-ios",
+    "html_url": "https://github.com/FirebaseExtended/mlkit-material-ios",
+    "description": "These apps demonstrate how to build an end-to-end user experience with Google ML Kit APIs and following the new Material for ML design guidelines.",
+    "stars": 84,
+    "forks": 17,
+    "languages": {
+      "Objective-C": 112586,
+      "Swift": 92062,
+      "Ruby": 818,
+      "Shell": 318
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 336.48,
+    "S_code": 200.96,
+    "S_social": 118,
+    "S_maint": 0
+  },
+  {
+    "name": "TubeSock",
+    "full_name": "FirebaseExtended/TubeSock",
+    "html_url": "https://github.com/FirebaseExtended/TubeSock",
+    "description": "A WebSocket client library implemented in Java",
+    "stars": 80,
+    "forks": 21,
+    "languages": {
+      "Java": 67494
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 276.96,
+    "S_code": 65.91,
+    "S_social": 122,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-friendlyeats-flutter",
+    "full_name": "FirebaseExtended/codelab-friendlyeats-flutter",
+    "html_url": "https://github.com/FirebaseExtended/codelab-friendlyeats-flutter",
+    "description": "FlutterFire Firestore codelab. Develop a cross platform restaurant recommendation app with Flutter.",
+    "stars": 79,
+    "forks": 36,
+    "languages": {
+      "Dart": 48530,
+      "Ruby": 3435,
+      "HTML": 2662,
+      "Kotlin": 1005,
+      "Swift": 993,
+      "Objective-C": 634
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 329.96,
+    "S_code": 55.92,
+    "S_social": 151,
+    "S_maint": 0
+  },
+  {
+    "name": "fastlane-plugin-firebase_test_lab",
+    "full_name": "FirebaseExtended/fastlane-plugin-firebase_test_lab",
+    "html_url": "https://github.com/FirebaseExtended/fastlane-plugin-firebase_test_lab",
+    "description": "Test your app with Firebase Test Lab with ease using fastlane",
+    "stars": 75,
+    "forks": 33,
+    "languages": {
+      "Ruby": 35833
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 299.5,
+    "S_code": 34.99,
+    "S_social": 141,
+    "S_maint": 0
+  },
+  {
+    "name": "compass-ai-travel-planning-sample-flutter",
+    "full_name": "FirebaseExtended/compass-ai-travel-planning-sample-flutter",
+    "html_url": "https://github.com/FirebaseExtended/compass-ai-travel-planning-sample-flutter",
+    "description": "This is a travel demo built in Flutter using Firebase Data Connect and Firebase Genkit to find ideal itineraries from a database of travel plans.",
+    "stars": 72,
+    "forks": 75,
+    "languages": {
+      "Dart": 213986,
+      "HTML": 135539,
+      "CMake": 34603,
+      "TypeScript": 30078,
+      "C++": 29518,
+      "JavaScript": 14945,
+      "Swift": 5248,
+      "Ruby": 2803,
+      "Nix": 2675,
+      "C": 2615,
+      "CSS": 1530,
+      "Objective-C": 633,
+      "Kotlin": 121
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 675.59,
+    "S_code": 463.18,
+    "S_social": 222,
+    "S_maint": 0
+  },
+  {
+    "name": "user-privacy",
+    "full_name": "FirebaseExtended/user-privacy",
+    "html_url": "https://github.com/FirebaseExtended/user-privacy",
+    "description": "Sample of general purpose functions for user data deletion and export",
+    "stars": 71,
+    "forks": 19,
+    "languages": {
+      "JavaScript": 15736,
+      "HTML": 8246
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 229.71,
+    "S_code": 23.42,
+    "S_social": 109,
+    "S_maint": 0
+  },
+  {
+    "name": "auth-without-play-services",
+    "full_name": "FirebaseExtended/auth-without-play-services",
+    "html_url": "https://github.com/FirebaseExtended/auth-without-play-services",
+    "description": "Demonstrates how to implement Firebase Auth on devices without Google Play services",
+    "stars": 68,
+    "forks": 19,
+    "languages": {
+      "Kotlin": 40029
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 231.55,
+    "S_code": 39.09,
+    "S_social": 106,
+    "S_maint": 0
+  },
+  {
+    "name": "analytics-webview",
+    "full_name": "FirebaseExtended/analytics-webview",
+    "html_url": "https://github.com/FirebaseExtended/analytics-webview",
+    "description": null,
+    "stars": 67,
+    "forks": 32,
+    "languages": {
+      "Java": 7691,
+      "Objective-C": 5658,
+      "Swift": 3770,
+      "JavaScript": 3386,
+      "HTML": 1654,
+      "CSS": 669,
+      "Ruby": 255
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 273.27,
+    "S_code": 22.54,
+    "S_social": 131,
+    "S_maint": 0
+  },
+  {
+    "name": "remote-styles",
+    "full_name": "FirebaseExtended/remote-styles",
+    "html_url": "https://github.com/FirebaseExtended/remote-styles",
+    "description": "Conditionally load CSS from Firebase Remote Config",
+    "stars": 65,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 26376,
+      "JavaScript": 14650,
+      "HTML": 4894
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 156.42,
+    "S_code": 44.84,
+    "S_social": 67,
+    "S_maint": 0
+  },
+  {
+    "name": "firebase-streaming-import",
+    "full_name": "FirebaseExtended/firebase-streaming-import",
+    "html_url": "https://github.com/FirebaseExtended/firebase-streaming-import",
+    "description": "public node.js script for streaming large JSON files into a Firebase",
+    "stars": 60,
+    "forks": 11,
+    "languages": {
+      "Python": 3667
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 165.79,
+    "S_code": 3.58,
+    "S_social": 82,
+    "S_maint": 0
+  },
+  {
+    "name": "cocos2dx-cpp-sample",
+    "full_name": "FirebaseExtended/cocos2dx-cpp-sample",
+    "html_url": "https://github.com/FirebaseExtended/cocos2dx-cpp-sample",
+    "description": "Firebase Cocos2d-x samples",
+    "stars": 54,
+    "forks": 25,
+    "languages": {
+      "C++": 133173,
+      "Python": 16109,
+      "Makefile": 5521,
+      "C": 2100,
+      "Ruby": 1249
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 285.22,
+    "S_code": 154.45,
+    "S_social": 104,
+    "S_maint": 0
+  },
+  {
+    "name": "compass-travel-planning-sample",
+    "full_name": "FirebaseExtended/compass-travel-planning-sample",
+    "html_url": "https://github.com/FirebaseExtended/compass-travel-planning-sample",
+    "description": null,
+    "stars": 49,
+    "forks": 27,
+    "languages": {
+      "TypeScript": 135858,
+      "JavaScript": 11072,
+      "SCSS": 2600,
+      "Nix": 2324
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 280.15,
+    "S_code": 148.29,
+    "S_social": 103,
+    "S_maint": 0
+  },
+  {
+    "name": "firestore-codelab-extended-swift",
+    "full_name": "FirebaseExtended/firestore-codelab-extended-swift",
+    "html_url": "https://github.com/FirebaseExtended/firestore-codelab-extended-swift",
+    "description": null,
+    "stars": 48,
+    "forks": 25,
+    "languages": {
+      "Swift": 112473,
+      "TypeScript": 948,
+      "Ruby": 339
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 251.55,
+    "S_code": 111.09,
+    "S_social": 98,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-kanban-fire",
+    "full_name": "FirebaseExtended/codelab-kanban-fire",
+    "html_url": "https://github.com/FirebaseExtended/codelab-kanban-fire",
+    "description": null,
+    "stars": 45,
+    "forks": 54,
+    "languages": {
+      "TypeScript": 21755,
+      "HTML": 5446,
+      "CSS": 3236,
+      "JavaScript": 3086
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 322.37,
+    "S_code": 32.74,
+    "S_social": 153,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-ai-genkit-rag",
+    "full_name": "FirebaseExtended/codelab-ai-genkit-rag",
+    "html_url": "https://github.com/FirebaseExtended/codelab-ai-genkit-rag",
+    "description": null,
+    "stars": 42,
+    "forks": 114,
+    "languages": {
+      "TypeScript": 139952,
+      "JavaScript": 4611,
+      "SCSS": 2601
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 611.86,
+    "S_code": 143.71,
+    "S_social": 270,
+    "S_maint": 0
+  },
+  {
+    "name": "firestoreodm-flutter",
+    "full_name": "FirebaseExtended/firestoreodm-flutter",
+    "html_url": "https://github.com/FirebaseExtended/firestoreodm-flutter",
+    "description": null,
+    "stars": 42,
+    "forks": 19,
+    "languages": {
+      "Dart": 252125,
+      "HTML": 3857
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 284.99,
+    "S_code": 249.98,
+    "S_social": 80,
+    "S_maint": 0
+  },
+  {
+    "name": "solution-ai-barista",
+    "full_name": "FirebaseExtended/solution-ai-barista",
+    "html_url": "https://github.com/FirebaseExtended/solution-ai-barista",
+    "description": null,
+    "stars": 36,
+    "forks": 34,
+    "languages": {
+      "TypeScript": 128809,
+      "SCSS": 10929,
+      "HTML": 7435,
+      "Nix": 2661,
+      "JavaScript": 1651
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 281.97,
+    "S_code": 147.93,
+    "S_social": 104,
+    "S_maint": 0
+  },
+  {
+    "name": "firebase-continue",
+    "full_name": "FirebaseExtended/firebase-continue",
+    "html_url": "https://github.com/FirebaseExtended/firebase-continue",
+    "description": "Firebase Continue enables mobile developers to integrate activity transitioning from their mobile apps to the web",
+    "stars": 36,
+    "forks": 11,
+    "languages": {
+      "JavaScript": 27954,
+      "Objective-C": 20801,
+      "Java": 9358,
+      "Ruby": 1163
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 144.94,
+    "S_code": 57.89,
+    "S_social": 58,
+    "S_maint": 0
+  },
+  {
+    "name": "MLKit-ARKit",
+    "full_name": "FirebaseExtended/MLKit-ARKit",
+    "html_url": "https://github.com/FirebaseExtended/MLKit-ARKit",
+    "description": null,
+    "stars": 34,
+    "forks": 10,
+    "languages": {
+      "Swift": 8207,
+      "Ruby": 238
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 112.12,
+    "S_code": 8.25,
+    "S_social": 54,
+    "S_maint": 0
+  },
+  {
+    "name": "parse-migration-tools",
+    "full_name": "FirebaseExtended/parse-migration-tools",
+    "html_url": "https://github.com/FirebaseExtended/parse-migration-tools",
+    "description": null,
+    "stars": 27,
+    "forks": 7,
+    "languages": {
+      "JavaScript": 46997
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 104.95,
+    "S_code": 45.9,
+    "S_social": 41,
+    "S_maint": 0
+  },
+  {
+    "name": "palm-chatbot-angular",
+    "full_name": "FirebaseExtended/palm-chatbot-angular",
+    "html_url": "https://github.com/FirebaseExtended/palm-chatbot-angular",
+    "description": null,
+    "stars": 17,
+    "forks": 13,
+    "languages": {
+      "TypeScript": 11201,
+      "CSS": 2086,
+      "HTML": 884
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 92.92,
+    "S_code": 13.84,
+    "S_social": 43,
+    "S_maint": 0
+  },
+  {
+    "name": "firestore-nlp-extension",
+    "full_name": "FirebaseExtended/firestore-nlp-extension",
+    "html_url": "https://github.com/FirebaseExtended/firestore-nlp-extension",
+    "description": null,
+    "stars": 15,
+    "forks": 4,
+    "languages": {
+      "TypeScript": 86572,
+      "JavaScript": 708
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 88.62,
+    "S_code": 85.23,
+    "S_social": 23,
+    "S_maint": 0
+  },
+  {
+    "name": "firepad-demo",
+    "full_name": "FirebaseExtended/firepad-demo",
+    "html_url": "https://github.com/FirebaseExtended/firepad-demo",
+    "description": "http://demo.firepad.io/ sources",
+    "stars": 15,
+    "forks": 13,
+    "languages": {
+      "CSS": 4760,
+      "HTML": 3826,
+      "JavaScript": 3191
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 87.75,
+    "S_code": 11.5,
+    "S_social": 41,
+    "S_maint": 0
+  },
+  {
+    "name": "solution-living-canvas",
+    "full_name": "FirebaseExtended/solution-living-canvas",
+    "html_url": "https://github.com/FirebaseExtended/solution-living-canvas",
+    "description": null,
+    "stars": 14,
+    "forks": 9,
+    "languages": {
+      "TypeScript": 302418,
+      "HTML": 10522,
+      "JavaScript": 10504,
+      "CSS": 7240,
+      "Nix": 2191,
+      "Shell": 37
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 226.55,
+    "S_code": 325.11,
+    "S_social": 32,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-gemini-api-extensions",
+    "full_name": "FirebaseExtended/codelab-gemini-api-extensions",
+    "html_url": "https://github.com/FirebaseExtended/codelab-gemini-api-extensions",
+    "description": null,
+    "stars": 12,
+    "forks": 28,
+    "languages": {
+      "TypeScript": 50847,
+      "CSS": 1203,
+      "JavaScript": 631
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 161.72,
+    "S_code": 51.45,
+    "S_social": 68,
+    "S_maint": 0
+  },
+  {
+    "name": "make-it-so-angular",
+    "full_name": "FirebaseExtended/make-it-so-angular",
+    "html_url": "https://github.com/FirebaseExtended/make-it-so-angular",
+    "description": null,
+    "stars": 11,
+    "forks": 4,
+    "languages": {
+      "TypeScript": 29077,
+      "HTML": 9320,
+      "HCL": 4265,
+      "SCSS": 4153,
+      "Nix": 2129,
+      "JavaScript": 1161
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 62.47,
+    "S_code": 48.93,
+    "S_social": 19,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-dataconnect-web",
+    "full_name": "FirebaseExtended/codelab-dataconnect-web",
+    "html_url": "https://github.com/FirebaseExtended/codelab-dataconnect-web",
+    "description": null,
+    "stars": 11,
+    "forks": 16,
+    "languages": {
+      "TypeScript": 54467,
+      "JavaScript": 3073,
+      "CSS": 1862,
+      "HTML": 1111
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 115.55,
+    "S_code": 59.09,
+    "S_social": 43,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-contentrecommendation-android",
+    "full_name": "FirebaseExtended/codelab-contentrecommendation-android",
+    "html_url": "https://github.com/FirebaseExtended/codelab-contentrecommendation-android",
+    "description": null,
+    "stars": 11,
+    "forks": 8,
+    "languages": {
+      "Kotlin": 84240,
+      "Jupyter Notebook": 32099,
+      "Java": 3256
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 112.4,
+    "S_code": 116.79,
+    "S_social": 27,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-measure-android-view-performance",
+    "full_name": "FirebaseExtended/codelab-measure-android-view-performance",
+    "html_url": "https://github.com/FirebaseExtended/codelab-measure-android-view-performance",
+    "description": null,
+    "stars": 11,
+    "forks": 6,
+    "languages": {
+      "Java": 57918
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 74.28,
+    "S_code": 56.56,
+    "S_social": 23,
+    "S_maint": 0
+  },
+  {
+    "name": "MLKit-ARCore",
+    "full_name": "FirebaseExtended/MLKit-ARCore",
+    "html_url": "https://github.com/FirebaseExtended/MLKit-ARCore",
+    "description": null,
+    "stars": 11,
+    "forks": 4,
+    "languages": {
+      "Swift": 13878,
+      "Ruby": 276
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 44.91,
+    "S_code": 13.82,
+    "S_social": 19,
+    "S_maint": 0
+  },
+  {
+    "name": "firebase-auth-migration-helpers",
+    "full_name": "FirebaseExtended/firebase-auth-migration-helpers",
+    "html_url": "https://github.com/FirebaseExtended/firebase-auth-migration-helpers",
+    "description": null,
+    "stars": 11,
+    "forks": 7,
+    "languages": {
+      "Objective-C": 13234,
+      "Java": 11978,
+      "JavaScript": 4634
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 64.57,
+    "S_code": 29.15,
+    "S_social": 25,
+    "S_maint": 0
+  },
+  {
+    "name": "firebase_fcm_flutter",
+    "full_name": "FirebaseExtended/firebase_fcm_flutter",
+    "html_url": "https://github.com/FirebaseExtended/firebase_fcm_flutter",
+    "description": null,
+    "stars": 10,
+    "forks": 7,
+    "languages": {
+      "Java": 6168,
+      "Dart": 4820,
+      "JavaScript": 1306
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 54.0,
+    "S_code": 12.01,
+    "S_social": 24,
+    "S_maint": 0
+  },
+  {
+    "name": "solution-data-connect-movies",
+    "full_name": "FirebaseExtended/solution-data-connect-movies",
+    "html_url": "https://github.com/FirebaseExtended/solution-data-connect-movies",
+    "description": null,
+    "stars": 9,
+    "forks": 12,
+    "languages": {
+      "TypeScript": 198972,
+      "JavaScript": 19777,
+      "CSS": 6160,
+      "Nix": 705
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 176.16,
+    "S_code": 220.33,
+    "S_social": 33,
+    "S_maint": 0
+  },
+  {
+    "name": "vertexai-sdk-test-data",
+    "full_name": "FirebaseExtended/vertexai-sdk-test-data",
+    "html_url": "https://github.com/FirebaseExtended/vertexai-sdk-test-data",
+    "description": null,
+    "stars": 9,
+    "forks": 4,
+    "languages": {
+      "Python": 18708,
+      "HTML": 1675
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 43.95,
+    "S_code": 19.91,
+    "S_social": 17,
+    "S_maint": 0
+  },
+  {
+    "name": "firebase-js-sdk-performance-dashboard",
+    "full_name": "FirebaseExtended/firebase-js-sdk-performance-dashboard",
+    "html_url": "https://github.com/FirebaseExtended/firebase-js-sdk-performance-dashboard",
+    "description": "Firebase JS SDK Performance Dashboard",
+    "stars": 8,
+    "forks": 2,
+    "languages": {
+      "TypeScript": 58088,
+      "JavaScript": 1155
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 52.93,
+    "S_code": 57.85,
+    "S_social": 12,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-textclassification-android",
+    "full_name": "FirebaseExtended/codelab-textclassification-android",
+    "html_url": "https://github.com/FirebaseExtended/codelab-textclassification-android",
+    "description": null,
+    "stars": 7,
+    "forks": 8,
+    "languages": {
+      "Jupyter Notebook": 14948,
+      "Java": 8834,
+      "Kotlin": 5006
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 60.06,
+    "S_code": 28.11,
+    "S_social": 23,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-fcm-and-fiam",
+    "full_name": "FirebaseExtended/codelab-fcm-and-fiam",
+    "html_url": "https://github.com/FirebaseExtended/codelab-fcm-and-fiam",
+    "description": null,
+    "stars": 6,
+    "forks": 3,
+    "languages": {
+      "Kotlin": 3520
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 25.72,
+    "S_code": 3.44,
+    "S_social": 12,
+    "S_maint": 0
+  },
+  {
+    "name": "cmake-way-for-firebase",
+    "full_name": "FirebaseExtended/cmake-way-for-firebase",
+    "html_url": "https://github.com/FirebaseExtended/cmake-way-for-firebase",
+    "description": null,
+    "stars": 6,
+    "forks": 6,
+    "languages": {
+      "C++": 47403,
+      "Objective-C++": 10313,
+      "CMake": 5779,
+      "Objective-C": 3216,
+      "Java": 2759,
+      "C": 1774,
+      "PowerShell": 845,
+      "Shell": 776
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 71.58,
+    "S_code": 71.16,
+    "S_social": 18,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-rules",
+    "full_name": "FirebaseExtended/codelab-rules",
+    "html_url": "https://github.com/FirebaseExtended/codelab-rules",
+    "description": null,
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 10950
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.35,
+    "S_code": 10.69,
+    "S_social": 7,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-dataconnect-android",
+    "full_name": "FirebaseExtended/codelab-dataconnect-android",
+    "html_url": "https://github.com/FirebaseExtended/codelab-dataconnect-android",
+    "description": "A codelab showing how to integrate Firebase Data Connect with a Cloud SQL database to build a movie review Android app.",
+    "stars": 5,
+    "forks": 2,
+    "languages": {
+      "Kotlin": 22674
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 29.07,
+    "S_code": 22.14,
+    "S_social": 9,
+    "S_maint": 0
+  },
+  {
+    "name": "ai-extensions-codelab",
+    "full_name": "FirebaseExtended/ai-extensions-codelab",
+    "html_url": "https://github.com/FirebaseExtended/ai-extensions-codelab",
+    "description": null,
+    "stars": 5,
+    "forks": 7,
+    "languages": {
+      "JavaScript": 143844,
+      "CSS": 18994,
+      "HTML": 5750
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 120.32,
+    "S_code": 164.64,
+    "S_social": 19,
+    "S_maint": 0
+  },
+  {
+    "name": "angularfire-expert-led-class",
+    "full_name": "FirebaseExtended/angularfire-expert-led-class",
+    "html_url": "https://github.com/FirebaseExtended/angularfire-expert-led-class",
+    "description": null,
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 45870,
+      "HTML": 15319,
+      "CSS": 13750,
+      "JavaScript": 1995
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 49.57,
+    "S_code": 75.13,
+    "S_social": 6,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-actions-firestore",
+    "full_name": "FirebaseExtended/codelab-actions-firestore",
+    "html_url": "https://github.com/FirebaseExtended/codelab-actions-firestore",
+    "description": null,
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9028
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.41,
+    "S_code": 8.82,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "fcm-external-prober",
+    "full_name": "FirebaseExtended/fcm-external-prober",
+    "html_url": "https://github.com/FirebaseExtended/fcm-external-prober",
+    "description": null,
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Go": 81194,
+      "Java": 20366,
+      "Shell": 3432
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 59.27,
+    "S_code": 102.53,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "crashlytics-migration-ios",
+    "full_name": "FirebaseExtended/crashlytics-migration-ios",
+    "html_url": "https://github.com/FirebaseExtended/crashlytics-migration-ios",
+    "description": null,
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "Swift": 31260,
+      "Ruby": 586
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 31.55,
+    "S_code": 31.1,
+    "S_social": 8,
+    "S_maint": 0
+  },
+  {
+    "name": "crashlytics-migration-android",
+    "full_name": "FirebaseExtended/crashlytics-migration-android",
+    "html_url": "https://github.com/FirebaseExtended/crashlytics-migration-android",
+    "description": null,
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "Java": 1574137
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 780.62,
+    "S_code": 1537.24,
+    "S_social": 6,
+    "S_maint": 0
+  },
+  {
+    "name": "firebase-console-performance-dashboard",
+    "full_name": "FirebaseExtended/firebase-console-performance-dashboard",
+    "html_url": "https://github.com/FirebaseExtended/firebase-console-performance-dashboard",
+    "description": null,
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 43611
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 29.29,
+    "S_code": 42.59,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "firestore-leaderboards-codelab",
+    "full_name": "FirebaseExtended/firestore-leaderboards-codelab",
+    "html_url": "https://github.com/FirebaseExtended/firestore-leaderboards-codelab",
+    "description": null,
+    "stars": 3,
+    "forks": 5,
+    "languages": {
+      "JavaScript": 9462,
+      "HTML": 2495
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 31.84,
+    "S_code": 11.68,
+    "S_social": 13,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-dataconnect-ios",
+    "full_name": "FirebaseExtended/codelab-dataconnect-ios",
+    "html_url": "https://github.com/FirebaseExtended/codelab-dataconnect-ios",
+    "description": "FriendlyFlix, a movie tracker sample app that accompanies the Firebase Data Connect for iOS codelab.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Swift": 195084
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 101.26,
+    "S_code": 190.51,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "poem-from-image",
+    "full_name": "FirebaseExtended/poem-from-image",
+    "html_url": "https://github.com/FirebaseExtended/poem-from-image",
+    "description": null,
+    "stars": 3,
+    "forks": 3,
+    "languages": {
+      "TypeScript": 32502,
+      "JavaScript": 3416,
+      "Python": 2143,
+      "CSS": 2135,
+      "HTML": 963
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 38.1,
+    "S_code": 40.19,
+    "S_social": 9,
+    "S_maint": 0
+  },
+  {
+    "name": "trip-planning-with-ai-flutter",
+    "full_name": "FirebaseExtended/trip-planning-with-ai-flutter",
+    "html_url": "https://github.com/FirebaseExtended/trip-planning-with-ai-flutter",
+    "description": "sample app showcasing the power of Firebase Vertex AI to generate plan task lists in structured JSON from user and image input",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Dart": 21528,
+      "Ruby": 2801,
+      "Swift": 2508,
+      "HTML": 1238,
+      "Kotlin": 130,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.79,
+    "S_code": 27.58,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-appdistribution-android",
+    "full_name": "FirebaseExtended/codelab-appdistribution-android",
+    "html_url": "https://github.com/FirebaseExtended/codelab-appdistribution-android",
+    "description": null,
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "Kotlin": 10740
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.24,
+    "S_code": 10.49,
+    "S_social": 7,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-digitclassifier-android",
+    "full_name": "FirebaseExtended/codelab-digitclassifier-android",
+    "html_url": "https://github.com/FirebaseExtended/codelab-digitclassifier-android",
+    "description": null,
+    "stars": 3,
+    "forks": 5,
+    "languages": {
+      "Kotlin": 25786,
+      "Jupyter Notebook": 9680
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 43.32,
+    "S_code": 34.63,
+    "S_social": 13,
+    "S_maint": 0
+  },
+  {
+    "name": "firebase-apple-sdk-triage",
+    "full_name": "FirebaseExtended/firebase-apple-sdk-triage",
+    "html_url": "https://github.com/FirebaseExtended/firebase-apple-sdk-triage",
+    "description": "This repo contains a collection of \"skeleton\" apps for quickly reproducing issues from the firebase-ios-sdk.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Swift": 52778,
+      "Ruby": 1510
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 32.51,
+    "S_code": 53.02,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "github-actions",
+    "full_name": "FirebaseExtended/github-actions",
+    "html_url": "https://github.com/FirebaseExtended/github-actions",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 14770,
+      "TypeScript": 2413,
+      "JavaScript": 1789
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.26,
+    "S_code": 18.53,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "firebase-js-sdk-framework-tests",
+    "full_name": "FirebaseExtended/firebase-js-sdk-framework-tests",
+    "html_url": "https://github.com/FirebaseExtended/firebase-js-sdk-framework-tests",
+    "description": "Firebase JS SDK Nightly Tests on Next.js",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 166315,
+      "HTML": 20416,
+      "CSS": 7070,
+      "JavaScript": 4410
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 100.78,
+    "S_code": 193.57,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "functions-to-extensions-codelab",
+    "full_name": "FirebaseExtended/functions-to-extensions-codelab",
+    "html_url": "https://github.com/FirebaseExtended/functions-to-extensions-codelab",
+    "description": null,
+    "stars": 2,
+    "forks": 3,
+    "languages": {
+      "TypeScript": 5875,
+      "JavaScript": 1246
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.48,
+    "S_code": 6.95,
+    "S_social": 8,
+    "S_maint": 0
+  },
+  {
+    "name": "changelog",
+    "full_name": "FirebaseExtended/changelog",
+    "html_url": "https://github.com/FirebaseExtended/changelog",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 67775,
+      "SCSS": 6426,
+      "JavaScript": 5260
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 46.8,
+    "S_code": 77.6,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-contentrecommendation-ios",
+    "full_name": "FirebaseExtended/codelab-contentrecommendation-ios",
+    "html_url": "https://github.com/FirebaseExtended/codelab-contentrecommendation-ios",
+    "description": null,
+    "stars": 2,
+    "forks": 2,
+    "languages": {
+      "Swift": 36955,
+      "Ruby": 280
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 30.18,
+    "S_code": 36.36,
+    "S_social": 6,
+    "S_maint": 0
+  },
+  {
+    "name": "firebase-functions-go",
+    "full_name": "FirebaseExtended/firebase-functions-go",
+    "html_url": "https://github.com/FirebaseExtended/firebase-functions-go",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Go": 16629
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.12,
+    "S_code": 16.24,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "ai-quickdraw-flutter",
+    "full_name": "FirebaseExtended/ai-quickdraw-flutter",
+    "html_url": "https://github.com/FirebaseExtended/ai-quickdraw-flutter",
+    "description": "uses Vertex AI to recognize your line drawings and compare it against a target figure you're asked to draw in 20 seconds or less",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Dart": 8758,
+      "Ruby": 2801,
+      "Swift": 2173,
+      "HTML": 1242,
+      "Kotlin": 132,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.39,
+    "S_code": 14.79,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-firestore-vectorsearch-ios",
+    "full_name": "FirebaseExtended/codelab-firestore-vectorsearch-ios",
+    "html_url": "https://github.com/FirebaseExtended/codelab-firestore-vectorsearch-ios",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Swift": 31102
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.19,
+    "S_code": 30.37,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-digitclassifier-ios",
+    "full_name": "FirebaseExtended/codelab-digitclassifier-ios",
+    "html_url": "https://github.com/FirebaseExtended/codelab-digitclassifier-ios",
+    "description": null,
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "Swift": 15090,
+      "Ruby": 132
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.43,
+    "S_code": 14.87,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-textclassification-ios",
+    "full_name": "FirebaseExtended/codelab-textclassification-ios",
+    "html_url": "https://github.com/FirebaseExtended/codelab-textclassification-ios",
+    "description": null,
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "Swift": 6587,
+      "Ruby": 114
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.27,
+    "S_code": 6.54,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-feature-rollout-performance",
+    "full_name": "FirebaseExtended/codelab-feature-rollout-performance",
+    "html_url": "https://github.com/FirebaseExtended/codelab-feature-rollout-performance",
+    "description": "This is the source code that accompanies the Firebase Performance Monitoring Codelab: https://firebase.google.com/codelabs/feature-rollout-performance",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Java": 49933
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 30.38,
+    "S_code": 48.76,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "ai-recipe-book",
+    "full_name": "FirebaseExtended/ai-recipe-book",
+    "html_url": "https://github.com/FirebaseExtended/ai-recipe-book",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dart": 46155,
+      "Swift": 6319,
+      "Ruby": 2801,
+      "HTML": 1811,
+      "Kotlin": 726,
+      "Objective-C": 633
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 28.54,
+    "S_code": 57.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "codelab-modular-sdk",
+    "full_name": "FirebaseExtended/codelab-modular-sdk",
+    "html_url": "https://github.com/FirebaseExtended/codelab-modular-sdk",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 91766,
+      "TypeScript": 26277,
+      "JavaScript": 18752,
+      "SCSS": 6645
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 70.04,
+    "S_code": 140.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "friendly-travels-angularfire-codelab",
+    "full_name": "FirebaseExtended/friendly-travels-angularfire-codelab",
+    "html_url": "https://github.com/FirebaseExtended/friendly-travels-angularfire-codelab",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": ".allstar",
+    "full_name": "FirebaseExtended/.allstar",
+    "html_url": "https://github.com/FirebaseExtended/.allstar",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": ".github",
+    "full_name": "FirebaseExtended/.github",
+    "html_url": "https://github.com/FirebaseExtended/.github",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cross-device-controller",
+    "full_name": "FirebaseExtended/cross-device-controller",
+    "html_url": "https://github.com/FirebaseExtended/cross-device-controller",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Dart": 77097,
+      "HTML": 7790,
+      "Ruby": 2707,
+      "Swift": 1986,
+      "Kotlin": 1486,
+      "Objective-C": 1268
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 49.08,
+    "S_code": 90.17,
+    "S_social": 2,
+    "S_maint": 0
+  }
+]

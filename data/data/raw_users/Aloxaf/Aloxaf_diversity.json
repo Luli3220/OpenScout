@@ -1,0 +1,34 @@
+{
+  "username": "Aloxaf",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "Python",
+      "C++",
+      "Dart",
+      "Rust",
+      "TypeScript",
+      "C#",
+      "C",
+      "PHP",
+      "Shell"
+    ],
+    "distinct_topics": [
+      "tmux",
+      "shell",
+      "zsh-plugin",
+      "fzf",
+      "rust",
+      "presentation",
+      "snippets",
+      "powershell",
+      "completion",
+      "carbon",
+      "zsh"
+    ],
+    "language_count": 10,
+    "topic_count": 11,
+    "total_owned_repos": 35
+  },
+  "diversity_score_100": 68.8
+}

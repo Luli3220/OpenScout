@@ -1,0 +1,2076 @@
+[
+  {
+    "name": "box",
+    "full_name": "klmr/box",
+    "html_url": "https://github.com/klmr/box",
+    "description": "Write reusable, composable and modular R code",
+    "stars": 942,
+    "forks": 48,
+    "languages": {
+      "R": 215388,
+      "Makefile": 6156,
+      "C": 5685,
+      "CSS": 2251,
+      "Shell": 1841,
+      "JavaScript": 101
+    },
+    "contributions_by_user": 1178,
+    "contribution_score": 13969.0,
+    "S_code": 226.0,
+    "S_social": 1038,
+    "S_maint": 1178
+  },
+  {
+    "name": "named-operator",
+    "full_name": "klmr/named-operator",
+    "html_url": "https://github.com/klmr/named-operator",
+    "description": "Named operators for C++",
+    "stars": 507,
+    "forks": 32,
+    "languages": {
+      "C++": 3937,
+      "Makefile": 346
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 1334.09,
+    "S_code": 4.18,
+    "S_social": 571,
+    "S_maint": 19
+  },
+  {
+    "name": "cpp11-range",
+    "full_name": "klmr/cpp11-range",
+    "html_url": "https://github.com/klmr/cpp11-range",
+    "description": "Range-based for loops to iterate over a range of numbers or values",
+    "stars": 314,
+    "forks": 38,
+    "languages": {
+      "C++": 8954,
+      "Makefile": 108
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 974.42,
+    "S_code": 8.85,
+    "S_social": 390,
+    "S_maint": 19
+  },
+  {
+    "name": "thesis",
+    "full_name": "klmr/thesis",
+    "html_url": "https://github.com/klmr/thesis",
+    "description": "My PhD thesis, “Investigating the link between tRNA and mRNA abundance in mammals”",
+    "stars": 41,
+    "forks": 3,
+    "languages": {
+      "TeX": 255883,
+      "Python": 4278,
+      "R": 2396,
+      "Makefile": 2087,
+      "Perl": 509,
+      "Shell": 433
+    },
+    "contributions_by_user": 708,
+    "contribution_score": 7303.68,
+    "S_code": 259.36,
+    "S_social": 47,
+    "S_maint": 708
+  },
+  {
+    "name": "lisp.cpp",
+    "full_name": "klmr/lisp.cpp",
+    "html_url": "https://github.com/klmr/lisp.cpp",
+    "description": "Minimal Lisp implementation in C++, inspired by “lispy”",
+    "stars": 38,
+    "forks": 6,
+    "languages": {
+      "C++": 22260,
+      "Python": 5659,
+      "NewLisp": 262,
+      "Makefile": 236
+    },
+    "contributions_by_user": 69,
+    "contribution_score": 803.88,
+    "S_code": 27.75,
+    "S_social": 50,
+    "S_maint": 69
+  },
+  {
+    "name": "decorator",
+    "full_name": "klmr/decorator",
+    "html_url": "https://github.com/klmr/decorator",
+    "description": "R function decorators",
+    "stars": 37,
+    "forks": 6,
+    "languages": {
+      "R": 3553
+    },
+    "contributions_by_user": 33,
+    "contribution_score": 429.73,
+    "S_code": 3.47,
+    "S_social": 49,
+    "S_maint": 33
+  },
+  {
+    "name": "multifunction",
+    "full_name": "klmr/multifunction",
+    "html_url": "https://github.com/klmr/multifunction",
+    "description": "A multicast function type for C++",
+    "stars": 27,
+    "forks": 5,
+    "languages": {
+      "C++": 4751,
+      "Makefile": 118
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 206.38,
+    "S_code": 4.75,
+    "S_social": 37,
+    "S_maint": 13
+  },
+  {
+    "name": "minimappr",
+    "full_name": "klmr/minimappr",
+    "html_url": "https://github.com/klmr/minimappr",
+    "description": "Code minimaps for R",
+    "stars": 20,
+    "forks": 0,
+    "languages": {
+      "R": 5875
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 102.87,
+    "S_code": 5.74,
+    "S_social": 20,
+    "S_maint": 6
+  },
+  {
+    "name": "fun",
+    "full_name": "klmr/fun",
+    "html_url": "https://github.com/klmr/fun",
+    "description": "Module for functional programming in R",
+    "stars": 19,
+    "forks": 0,
+    "languages": {
+      "R": 19638,
+      "Makefile": 1696
+    },
+    "contributions_by_user": 49,
+    "contribution_score": 538.42,
+    "S_code": 20.83,
+    "S_social": 19,
+    "S_maint": 49
+  },
+  {
+    "name": "hyperlight",
+    "full_name": "klmr/hyperlight",
+    "html_url": "https://github.com/klmr/hyperlight",
+    "description": "Automatically exported from code.google.com/p/hyperlight",
+    "stars": 16,
+    "forks": 3,
+    "languages": {
+      "PHP": 105931,
+      "Visual Basic": 28243,
+      "CSS": 16190,
+      "C++": 5808,
+      "HTML": 3570,
+      "JavaScript": 917,
+      "ApacheConf": 74
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 122.48,
+    "S_code": 156.97,
+    "S_social": 22,
+    "S_maint": 0
+  },
+  {
+    "name": "example-r-analysis",
+    "full_name": "klmr/example-r-analysis",
+    "html_url": "https://github.com/klmr/example-r-analysis",
+    "description": "An example for an R analysis workflow using a Makefile, shell scripts and Knitr",
+    "stars": 13,
+    "forks": 1,
+    "languages": {
+      "R": 4635,
+      "Makefile": 774
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 122.64,
+    "S_code": 5.28,
+    "S_social": 15,
+    "S_maint": 9
+  },
+  {
+    "name": "sys",
+    "full_name": "klmr/sys",
+    "html_url": "https://github.com/klmr/sys",
+    "description": "Easily create reusable command line scripts with R",
+    "stars": 13,
+    "forks": 1,
+    "languages": {
+      "R": 40853,
+      "Makefile": 1939
+    },
+    "contributions_by_user": 171,
+    "contribution_score": 1760.89,
+    "S_code": 41.79,
+    "S_social": 15,
+    "S_maint": 171
+  },
+  {
+    "name": "aka",
+    "full_name": "klmr/aka",
+    "html_url": "https://github.com/klmr/aka",
+    "description": "Define aliases for R expressions",
+    "stars": 9,
+    "forks": 0,
+    "languages": {
+      "R": 48601,
+      "CSS": 146
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 191.8,
+    "S_code": 47.6,
+    "S_social": 9,
+    "S_maint": 15
+  },
+  {
+    "name": "trna",
+    "full_name": "klmr/trna",
+    "html_url": "https://github.com/klmr/trna",
+    "description": "tRNA gene regulation downstream analysis",
+    "stars": 8,
+    "forks": 0,
+    "languages": {
+      "R": 139505,
+      "Python": 14088,
+      "Shell": 2161
+    },
+    "contributions_by_user": 294,
+    "contribution_score": 3032.05,
+    "S_code": 152.1,
+    "S_social": 8,
+    "S_maint": 294
+  },
+  {
+    "name": "unpack",
+    "full_name": "klmr/unpack",
+    "html_url": "https://github.com/klmr/unpack",
+    "description": "Vector unpack assignment syntax for R",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "R": 3614,
+      "Makefile": 898
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 144.2,
+    "S_code": 4.41,
+    "S_social": 6,
+    "S_maint": 13
+  },
+  {
+    "name": "cv",
+    "full_name": "klmr/cv",
+    "html_url": "https://github.com/klmr/cv",
+    "description": "Resume",
+    "stars": 6,
+    "forks": 2,
+    "languages": {
+      "TeX": 13654,
+      "Makefile": 1041,
+      "Perl": 122
+    },
+    "contributions_by_user": 168,
+    "contribution_score": 1707.23,
+    "S_code": 14.47,
+    "S_social": 10,
+    "S_maint": 168
+  },
+  {
+    "name": "rprofile",
+    "full_name": "klmr/rprofile",
+    "html_url": "https://github.com/klmr/rprofile",
+    "description": null,
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "R": 15916
+    },
+    "contributions_by_user": 60,
+    "contribution_score": 615.77,
+    "S_code": 15.54,
+    "S_social": 4,
+    "S_maint": 60
+  },
+  {
+    "name": "modules",
+    "full_name": "klmr/modules",
+    "html_url": "https://github.com/klmr/modules",
+    "description": "An alternative module system for R",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "R": 80096,
+      "Makefile": 2519,
+      "Rebol": 1699,
+      "Shell": 854
+    },
+    "contributions_by_user": 564,
+    "contribution_score": 5689.59,
+    "S_code": 83.17,
+    "S_social": 4,
+    "S_maint": 564
+  },
+  {
+    "name": "knitr-example",
+    "full_name": "klmr/knitr-example",
+    "html_url": "https://github.com/klmr/knitr-example",
+    "description": "An example of a genomics analysis using knitr",
+    "stars": 4,
+    "forks": 4,
+    "languages": {},
+    "contributions_by_user": 18,
+    "contribution_score": 204.0,
+    "S_code": 0.0,
+    "S_social": 12,
+    "S_maint": 18
+  },
+  {
+    "name": "rcane",
+    "full_name": "klmr/rcane",
+    "html_url": "https://github.com/klmr/rcane",
+    "description": "Miscellaneous R tools that I haven’t had time yet to properly integrate. (deprecated and unmaintained)",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "R": 15614
+    },
+    "contributions_by_user": 68,
+    "contribution_score": 695.62,
+    "S_code": 15.25,
+    "S_social": 4,
+    "S_maint": 68
+  },
+  {
+    "name": "streampunk",
+    "full_name": "klmr/streampunk",
+    "html_url": "https://github.com/klmr/streampunk",
+    "description": "Compiler for a pipe-based stream language to construct complex pipelines",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "C++": 13729
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 134.7,
+    "S_code": 13.41,
+    "S_social": 4,
+    "S_maint": 12
+  },
+  {
+    "name": "math-art",
+    "full_name": "klmr/math-art",
+    "html_url": "https://github.com/klmr/math-art",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "R": 2752
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 97.34,
+    "S_code": 2.69,
+    "S_social": 3,
+    "S_maint": 9
+  },
+  {
+    "name": "parser-combinators",
+    "full_name": "klmr/parser-combinators",
+    "html_url": "https://github.com/klmr/parser-combinators",
+    "description": "Parser combinators in R",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "R": 11589,
+      "Makefile": 153
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 81.73,
+    "S_code": 11.47,
+    "S_social": 3,
+    "S_maint": 7
+  },
+  {
+    "name": "r-dict",
+    "full_name": "klmr/r-dict",
+    "html_url": "https://github.com/klmr/r-dict",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "R": 1377
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 24.67,
+    "S_code": 1.34,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "switch-r",
+    "full_name": "klmr/switch-r",
+    "html_url": "https://github.com/klmr/switch-r",
+    "description": "R version switcher for macOS",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Shell": 1606
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 44.78,
+    "S_code": 1.57,
+    "S_social": 2,
+    "S_maint": 4
+  },
+  {
+    "name": ".files",
+    "full_name": "klmr/.files",
+    "html_url": "https://github.com/klmr/.files",
+    "description": "My dotfiles repository",
+    "stars": 2,
+    "forks": 3,
+    "languages": {
+      "Shell": 10278,
+      "Python": 5585,
+      "R": 3498,
+      "Vim Script": 2508
+    },
+    "contributions_by_user": 240,
+    "contribution_score": 2426.68,
+    "S_code": 21.36,
+    "S_social": 8,
+    "S_maint": 240
+  },
+  {
+    "name": "vim-snakemake",
+    "full_name": "klmr/vim-snakemake",
+    "html_url": "https://github.com/klmr/vim-snakemake",
+    "description": "Snakemake Vim definitions, copied from https://bitbucket.org/snakemake/snakemake/",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Vim Script": 2288
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 35.12,
+    "S_code": 2.23,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "te",
+    "full_name": "klmr/te",
+    "html_url": "https://github.com/klmr/te",
+    "description": "Map, quantify and analyse transposable element expression",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Makefile": 3695,
+      "Shell": 300
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 175.95,
+    "S_code": 3.9,
+    "S_social": 2,
+    "S_maint": 17
+  },
+  {
+    "name": "system-setup",
+    "full_name": "klmr/system-setup",
+    "html_url": "https://github.com/klmr/system-setup",
+    "description": "Bootstrap a usable system configuration for OS X",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Shell": 7676,
+      "R": 3698
+    },
+    "contributions_by_user": 63,
+    "contribution_score": 639.55,
+    "S_code": 11.11,
+    "S_social": 2,
+    "S_maint": 63
+  },
+  {
+    "name": "efficientR",
+    "full_name": "klmr/efficientR",
+    "html_url": "https://github.com/klmr/efficientR",
+    "description": "Efficient R programming: a book",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "R": 16643,
+      "TeX": 12384,
+      "CSS": 2720,
+      "C++": 868,
+      "Shell": 691,
+      "Makefile": 374
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.45,
+    "S_code": 32.89,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "trna-chip-pipeline",
+    "full_name": "klmr/trna-chip-pipeline",
+    "html_url": "https://github.com/klmr/trna-chip-pipeline",
+    "description": "Upstream ChIP-seq analysis pipeline for tRNA data",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 3574,
+      "Shell": 3313
+    },
+    "contributions_by_user": 57,
+    "contribution_score": 577.36,
+    "S_code": 6.73,
+    "S_social": 2,
+    "S_maint": 57
+  },
+  {
+    "name": "cpp11-raw-ptr",
+    "full_name": "klmr/cpp11-raw-ptr",
+    "html_url": "https://github.com/klmr/cpp11-raw-ptr",
+    "description": "A raw pointer type for C++11",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "C++": 9256
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 182.52,
+    "S_code": 9.04,
+    "S_social": 4,
+    "S_maint": 17
+  },
+  {
+    "name": "klmr.github.io",
+    "full_name": "klmr/klmr.github.io",
+    "html_url": "https://github.com/klmr/klmr.github.io",
+    "description": "My website",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 43914,
+      "SCSS": 21902,
+      "HTML": 18331,
+      "CSS": 13808,
+      "Makefile": 250,
+      "Ruby": 100
+    },
+    "contributions_by_user": 163,
+    "contribution_score": 1680.0,
+    "S_code": 96.0,
+    "S_social": 1,
+    "S_maint": 163
+  },
+  {
+    "name": "lme4",
+    "full_name": "klmr/lme4",
+    "html_url": "https://github.com/klmr/lme4",
+    "description": "Mixed-effects models in R using S4 classes and methods with RcppEigen",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 4189855,
+      "R": 1031337,
+      "TeX": 165954,
+      "C++": 135447,
+      "Shell": 4278,
+      "Makefile": 3406,
+      "Dockerfile": 2922
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2703.76,
+    "S_code": 5403.51,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "pylox",
+    "full_name": "klmr/pylox",
+    "html_url": "https://github.com/klmr/pylox",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 61514,
+      "Shell": 1550
+    },
+    "contributions_by_user": 36,
+    "contribution_score": 392.79,
+    "S_code": 61.59,
+    "S_social": 1,
+    "S_maint": 36
+  },
+  {
+    "name": "ggplots",
+    "full_name": "klmr/ggplots",
+    "html_url": "https://github.com/klmr/ggplots",
+    "description": "Some (different, better) defaults for ggplot2",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "R": 5405
+    },
+    "contributions_by_user": 30,
+    "contribution_score": 308.64,
+    "S_code": 5.28,
+    "S_social": 3,
+    "S_maint": 30
+  },
+  {
+    "name": ".tmux",
+    "full_name": "klmr/.tmux",
+    "html_url": "https://github.com/klmr/.tmux",
+    "description": "The cream of tmux configuration",
+    "stars": 1,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 26.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "fast_io",
+    "full_name": "klmr/fast_io",
+    "html_url": "https://github.com/klmr/fast_io",
+    "description": "fast_io is a C++ io exception-safe RAII library based on C++ 20 Concepts. It is at least 10 times faster than cstdio than iostream.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 2049173,
+      "C": 14304,
+      "Assembly": 5430,
+      "CMake": 3030
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1013.69,
+    "S_code": 2023.38,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "royal-jelly",
+    "full_name": "klmr/royal-jelly",
+    "html_url": "https://github.com/klmr/royal-jelly",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "R": 39674,
+      "Makefile": 22041,
+      "Shell": 7327,
+      "C++": 464
+    },
+    "contributions_by_user": 233,
+    "contribution_score": 2365.94,
+    "S_code": 67.88,
+    "S_social": 1,
+    "S_maint": 233
+  },
+  {
+    "name": "poly-u",
+    "full_name": "klmr/poly-u",
+    "html_url": "https://github.com/klmr/poly-u",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "R": 43789,
+      "Makefile": 10008,
+      "Python": 1341,
+      "Shell": 486
+    },
+    "contributions_by_user": 208,
+    "contribution_score": 2109.16,
+    "S_code": 54.32,
+    "S_social": 1,
+    "S_maint": 208
+  },
+  {
+    "name": "pichip",
+    "full_name": "klmr/pichip",
+    "html_url": "https://github.com/klmr/pichip",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Makefile": 6067,
+      "R": 5454
+    },
+    "contributions_by_user": 48,
+    "contribution_score": 487.63,
+    "S_code": 11.25,
+    "S_social": 1,
+    "S_maint": 48
+  },
+  {
+    "name": "ggraph",
+    "full_name": "klmr/ggraph",
+    "html_url": "https://github.com/klmr/ggraph",
+    "description": "Grammar of Graph Graphics",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "R": 299124,
+      "C++": 36305,
+      "C": 1156
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 166.35,
+    "S_code": 328.7,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "shiny",
+    "full_name": "klmr/shiny",
+    "html_url": "https://github.com/klmr/shiny",
+    "description": "Easy interactive web applications with R",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "R": 801522,
+      "JavaScript": 511861,
+      "HTML": 74756,
+      "CSS": 47360
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 702.93,
+    "S_code": 1401.85,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "sciencefair",
+    "full_name": "klmr/sciencefair",
+    "html_url": "https://github.com/klmr/sciencefair",
+    "description": "The open source p2p desktop science library that puts users in control :microscope: :book:",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 588709,
+      "CSS": 37674,
+      "HTML": 1771,
+      "Shell": 1268
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 309.33,
+    "S_code": 614.67,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "roxydoxy",
+    "full_name": "klmr/roxydoxy",
+    "html_url": "https://github.com/klmr/roxydoxy",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "R": 220794,
+      "C++": 11770
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 135.56,
+    "S_code": 227.11,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "codons",
+    "full_name": "klmr/codons",
+    "html_url": "https://github.com/klmr/codons",
+    "description": "Analysis of adaptation of translation efficiency by means of codon–anticodon selection",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "R": 73044,
+      "Makefile": 12296,
+      "Shell": 530
+    },
+    "contributions_by_user": 606,
+    "contribution_score": 6103.93,
+    "S_code": 83.86,
+    "S_social": 1,
+    "S_maint": 606
+  },
+  {
+    "name": "rnaseq-norm",
+    "full_name": "klmr/rnaseq-norm",
+    "html_url": "https://github.com/klmr/rnaseq-norm",
+    "description": "Presentation slides about RNA-seq normalisation methods",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Makefile": 536,
+      "CSS": 225
+    },
+    "contributions_by_user": 58,
+    "contribution_score": 582.37,
+    "S_code": 0.74,
+    "S_social": 1,
+    "S_maint": 58
+  },
+  {
+    "name": "ezknitr",
+    "full_name": "klmr/ezknitr",
+    "html_url": "https://github.com/klmr/ezknitr",
+    "description": "Avoid the typical working directory pain when using 'knitr'",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "R": 21401,
+      "Makefile": 963
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.92,
+    "S_code": 21.84,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "bog-2015-poster",
+    "full_name": "klmr/bog-2015-poster",
+    "html_url": "https://github.com/klmr/bog-2015-poster",
+    "description": "Biology of Genomes 2015 poster",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "PostScript": 6574121,
+      "TeX": 19910,
+      "Makefile": 30
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 3401.76,
+    "S_code": 6439.51,
+    "S_social": 1,
+    "S_maint": 18
+  },
+  {
+    "name": "bedtools2",
+    "full_name": "klmr/bedtools2",
+    "html_url": "https://github.com/klmr/bedtools2",
+    "description": "A powerful toolset for genome arithmetic.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "MRF_Platynereis_2014",
+    "full_name": "klmr/MRF_Platynereis_2014",
+    "html_url": "https://github.com/klmr/MRF_Platynereis_2014",
+    "description": "Data and scripts attached to the paper \"Identifying cell types from spatially referenced single-cell expression datasets\"",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 30101
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 46.7,
+    "S_code": 29.4,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "box.linters",
+    "full_name": "klmr/box.linters",
+    "html_url": "https://github.com/klmr/box.linters",
+    "description": "lintr-compatible linters for box modules in R",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 250164,
+      "CSS": 940
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 122.61,
+    "S_code": 245.22,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nvim-config",
+    "full_name": "klmr/nvim-config",
+    "html_url": "https://github.com/klmr/nvim-config",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 15126
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 77.39,
+    "S_code": 14.77,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "astrocommunity",
+    "full_name": "klmr/astrocommunity",
+    "html_url": "https://github.com/klmr/astrocommunity",
+    "description": "A community repository of common plugin specifications",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 481956,
+      "Nix": 563
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 235.6,
+    "S_code": 471.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "klmr.r-universe.dev",
+    "full_name": "klmr/klmr.r-universe.dev",
+    "html_url": "https://github.com/klmr/klmr.r-universe.dev",
+    "description": "R-universe registry",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 40.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "conflicted",
+    "full_name": "klmr/conflicted",
+    "html_url": "https://github.com/klmr/conflicted",
+    "description": "An alternative conflict resolution strategy for R",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 33088
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.16,
+    "S_code": 32.31,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "awesome-R",
+    "full_name": "klmr/awesome-R",
+    "html_url": "https://github.com/klmr/awesome-R",
+    "description": "A curated list of awesome R packages, frameworks and software.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 4723
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.31,
+    "S_code": 4.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "shiny-box-autoreload",
+    "full_name": "klmr/shiny-box-autoreload",
+    "html_url": "https://github.com/klmr/shiny-box-autoreload",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 2482
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.21,
+    "S_code": 2.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "py-test-app",
+    "full_name": "klmr/py-test-app",
+    "html_url": "https://github.com/klmr/py-test-app",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 88
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.04,
+    "S_code": 0.09,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "py-test-lib",
+    "full_name": "klmr/py-test-lib",
+    "html_url": "https://github.com/klmr/py-test-lib",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 45
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.02,
+    "S_code": 0.04,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "Nvim-R",
+    "full_name": "klmr/Nvim-R",
+    "html_url": "https://github.com/klmr/Nvim-R",
+    "description": "Vim plugin to work with R",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vim Script": 242463,
+      "C": 58928,
+      "R": 44404,
+      "Python": 10475,
+      "TeX": 2238,
+      "Makefile": 1519
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 185.79,
+    "S_code": 351.59,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "common",
+    "full_name": "klmr/common",
+    "html_url": "https://github.com/klmr/common",
+    "description": "Functions that should be in Base R but are not.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 85596,
+      "JavaScript": 315
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 41.95,
+    "S_code": 83.9,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pkgload",
+    "full_name": "klmr/pkgload",
+    "html_url": "https://github.com/klmr/pkgload",
+    "description": "Simulate installing and loading a package",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 111429,
+      "C": 1010,
+      "C++": 316,
+      "Rebol": 87
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 55.1,
+    "S_code": 110.2,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rpkg",
+    "full_name": "klmr/rpkg",
+    "html_url": "https://github.com/klmr/rpkg",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 70
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.03,
+    "S_code": 0.07,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "rdep2",
+    "full_name": "klmr/rdep2",
+    "html_url": "https://github.com/klmr/rdep2",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 70
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.03,
+    "S_code": 0.07,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "rdep1",
+    "full_name": "klmr/rdep1",
+    "html_url": "https://github.com/klmr/rdep1",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 70
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.03,
+    "S_code": 0.07,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "gitlabr",
+    "full_name": "klmr/gitlabr",
+    "html_url": "https://github.com/klmr/gitlabr",
+    "description": "An R client for the GitLab API",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 134583,
+      "Dockerfile": 461
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 65.94,
+    "S_code": 131.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lintr",
+    "full_name": "klmr/lintr",
+    "html_url": "https://github.com/klmr/lintr",
+    "description": "Static Code Analysis for R",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 220995,
+      "Vim Script": 3133,
+      "HTML": 864
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 109.86,
+    "S_code": 219.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nextflow-vim",
+    "full_name": "klmr/nextflow-vim",
+    "html_url": "https://github.com/klmr/nextflow-vim",
+    "description": "Nextflow plugin for VIM",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Vim Script": 1438
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.7,
+    "S_code": 1.4,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "pkgdown",
+    "full_name": "klmr/pkgdown",
+    "html_url": "https://github.com/klmr/pkgdown",
+    "description": "Generate static html documentation for an R package",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 312657,
+      "HTML": 35344,
+      "CSS": 28575,
+      "JavaScript": 9529
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 188.53,
+    "S_code": 377.06,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "r-pkg",
+    "full_name": "klmr/r-pkg",
+    "html_url": "https://github.com/klmr/r-pkg",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 409,
+      "R": 224
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 50.31,
+    "S_code": 0.62,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "arvados",
+    "full_name": "klmr/arvados",
+    "html_url": "https://github.com/klmr/arvados",
+    "description": "An open source platform for managing and analyzing biomedical big data",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 3461206,
+      "Ruby": 2312110,
+      "Python": 1808189,
+      "JavaScript": 443233,
+      "Shell": 367122,
+      "HTML": 350720,
+      "R": 300141,
+      "Java": 210238,
+      "Common Workflow Language": 138279,
+      "SaltStack": 122951,
+      "PLpgSQL": 93373,
+      "SCSS": 30654,
+      "Dockerfile": 27637,
+      "HCL": 20164,
+      "CSS": 11835,
+      "Makefile": 6051,
+      "C": 851
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4738.65,
+    "S_code": 9477.3,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "callr",
+    "full_name": "klmr/callr",
+    "html_url": "https://github.com/klmr/callr",
+    "description": "Call R from R",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 174007
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 84.96,
+    "S_code": 169.93,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "knitr",
+    "full_name": "klmr/knitr",
+    "html_url": "https://github.com/klmr/knitr",
+    "description": "A general-purpose tool for dynamic report generation in R",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 349100,
+      "CSS": 34076,
+      "TeX": 29648,
+      "HTML": 7492,
+      "JavaScript": 2413,
+      "Makefile": 1908
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 207.34,
+    "S_code": 414.68,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vim-hocon",
+    "full_name": "klmr/vim-hocon",
+    "html_url": "https://github.com/klmr/vim-hocon",
+    "description": "Syntax highlighting for the HOCON language",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vim Script": 2533
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.24,
+    "S_code": 2.47,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "vim-wdl",
+    "full_name": "klmr/vim-wdl",
+    "html_url": "https://github.com/klmr/vim-wdl",
+    "description": "Vim syntax highlighting for WDL",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Vim Script": 2313
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 45.13,
+    "S_code": 2.26,
+    "S_social": 2,
+    "S_maint": 4
+  },
+  {
+    "name": "renv",
+    "full_name": "klmr/renv",
+    "html_url": "https://github.com/klmr/renv",
+    "description": "renv: Project environments for R.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 811169,
+      "Shell": 2446,
+      "Makefile": 249,
+      "Batchfile": 109
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 397.45,
+    "S_code": 794.9,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "highlight.js",
+    "full_name": "klmr/highlight.js",
+    "html_url": "https://github.com/klmr/highlight.js",
+    "description": "Javascript syntax highlighter",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1033782,
+      "CSS": 111729,
+      "HTML": 4672,
+      "Groovy": 2694,
+      "Hy": 911,
+      "Scheme": 612,
+      "Dockerfile": 265,
+      "Shell": 253
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 563.92,
+    "S_code": 1127.85,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "roxygen",
+    "full_name": "klmr/roxygen",
+    "html_url": "https://github.com/klmr/roxygen",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 221164,
+      "C++": 11770
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 113.74,
+    "S_code": 227.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cpp11",
+    "full_name": "klmr/cpp11",
+    "html_url": "https://github.com/klmr/cpp11",
+    "description": "cpp11 is a header-only R package that helps R package developers handle R objects with C++ code.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 183023,
+      "R": 53757,
+      "Makefile": 622
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 115.92,
+    "S_code": 231.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ggplot2",
+    "full_name": "klmr/ggplot2",
+    "html_url": "https://github.com/klmr/ggplot2",
+    "description": "An implementation of the Grammar of Graphics in R",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 1388087
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 677.78,
+    "S_code": 1355.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nf-test",
+    "full_name": "klmr/nf-test",
+    "html_url": "https://github.com/klmr/nf-test",
+    "description": "Nextflow test pipelines",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Nextflow": 1766
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.86,
+    "S_code": 1.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "devtools",
+    "full_name": "klmr/devtools",
+    "html_url": "https://github.com/klmr/devtools",
+    "description": "Tools to make an R developer's life easier",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 110991,
+      "Rebol": 128
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 54.26,
+    "S_code": 108.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rnaseq-nf",
+    "full_name": "klmr/rnaseq-nf",
+    "html_url": "https://github.com/klmr/rnaseq-nf",
+    "description": "A proof of concept of RNAseq pipeline",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Nextflow": 7695,
+      "Dockerfile": 242,
+      "Shell": 134,
+      "Makefile": 70
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.98,
+    "S_code": 7.95,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vignettetest",
+    "full_name": "klmr/vignettetest",
+    "html_url": "https://github.com/klmr/vignettetest",
+    "description": "Test package to demonstrate a vignette CHECK failure",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 192
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 100.09,
+    "S_code": 0.19,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "invoke",
+    "full_name": "klmr/invoke",
+    "html_url": "https://github.com/klmr/invoke",
+    "description": "Pythonic task management & command execution.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 682379,
+      "Shell": 2785,
+      "PowerShell": 876
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 334.98,
+    "S_code": 669.96,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "igv",
+    "full_name": "klmr/igv",
+    "html_url": "https://github.com/klmr/igv",
+    "description": "Integrative Genomics Viewer. Fast, efficient, scalable visualization tool for genomics data and annotations ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 6985226,
+      "HTML": 12631,
+      "JavaScript": 7877,
+      "Shell": 6432,
+      "Batchfile": 1704,
+      "AngelScript": 1671,
+      "NSIS": 1549,
+      "Ruby": 93
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3426.36,
+    "S_code": 6852.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "radian",
+    "full_name": "klmr/radian",
+    "html_url": "https://github.com/klmr/radian",
+    "description": "A 21 century R console",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 140577,
+      "R": 10057,
+      "Julia": 549,
+      "Makefile": 107
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 73.87,
+    "S_code": 147.74,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "colorout",
+    "full_name": "klmr/colorout",
+    "html_url": "https://github.com/klmr/colorout",
+    "description": "Colorize R output in terminal emulators",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 27393,
+      "R": 13004
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.73,
+    "S_code": 39.45,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": ".vim",
+    "full_name": "klmr/.vim",
+    "html_url": "https://github.com/klmr/.vim",
+    "description": "My .vim dotfiles and configurations.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vim Script": 41875,
+      "Makefile": 2004
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 21.43,
+    "S_code": 42.85,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "amplimap",
+    "full_name": "klmr/amplimap",
+    "html_url": "https://github.com/klmr/amplimap",
+    "description": "amplicon/smMIP mapping and analysis pipeline",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 704402,
+      "Python": 397144,
+      "Dockerfile": 926,
+      "Shell": 65
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 538.35,
+    "S_code": 1076.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "biobambam2",
+    "full_name": "klmr/biobambam2",
+    "html_url": "https://github.com/klmr/biobambam2",
+    "description": "Tools for early stage alignment file processing",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 1312695,
+      "Roff": 191370,
+      "Shell": 39621,
+      "Makefile": 25961,
+      "M4": 13569
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 773.05,
+    "S_code": 1546.11,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gzip-huffman-tree",
+    "full_name": "klmr/gzip-huffman-tree",
+    "html_url": "https://github.com/klmr/gzip-huffman-tree",
+    "description": "Prints the Huffman table for a gzip file",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2646,
+      "Makefile": 103
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.34,
+    "S_code": 2.68,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "altrepisode",
+    "full_name": "klmr/altrepisode",
+    "html_url": "https://github.com/klmr/altrepisode",
+    "description": "Example altrep and C++ R :package: ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 4092,
+      "R": 552
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.27,
+    "S_code": 4.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "homebrew-dupes",
+    "full_name": "klmr/homebrew-dupes",
+    "html_url": "https://github.com/klmr/homebrew-dupes",
+    "description": "System duplicate formulae for the Homebrew package manager",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 28319
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.83,
+    "S_code": 27.66,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hts-specs",
+    "full_name": "klmr/hts-specs",
+    "html_url": "https://github.com/klmr/hts-specs",
+    "description": "Specifications of SAM/BAM and related high-throughput sequencing file formats",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 549441,
+      "HTML": 10512,
+      "CSS": 1235,
+      "Makefile": 1065
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 274.54,
+    "S_code": 549.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "maketools",
+    "full_name": "klmr/maketools",
+    "html_url": "https://github.com/klmr/maketools",
+    "description": "Tools for GNU make",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 1482,
+      "Makefile": 1099
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 141.26,
+    "S_code": 2.52,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "pol3-seq",
+    "full_name": "klmr/pol3-seq",
+    "html_url": "https://github.com/klmr/pol3-seq",
+    "description": "Genome-wide repeat coverage analysis of pol III ChIP",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 11824,
+      "Makefile": 11549,
+      "Shell": 7261,
+      "C++": 6576
+    },
+    "contributions_by_user": 142,
+    "contribution_score": 1438.17,
+    "S_code": 36.34,
+    "S_social": 0,
+    "S_maint": 142
+  },
+  {
+    "name": "stressed-mice",
+    "full_name": "klmr/stressed-mice",
+    "html_url": "https://github.com/klmr/stressed-mice",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 20701,
+      "Makefile": 8822,
+      "Shell": 1850,
+      "Perl": 817
+    },
+    "contributions_by_user": 148,
+    "contribution_score": 1495.72,
+    "S_code": 31.44,
+    "S_social": 0,
+    "S_maint": 148
+  },
+  {
+    "name": "srna-seq-course",
+    "full_name": "klmr/srna-seq-course",
+    "html_url": "https://github.com/klmr/srna-seq-course",
+    "description": "Scripts for a smallRNA-seq analysis course",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 1714
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 100.84,
+    "S_code": 1.67,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "modeest",
+    "full_name": "klmr/modeest",
+    "html_url": "https://github.com/klmr/modeest",
+    "description": "Mode estimation in R",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 79922,
+      "C++": 3307
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 50.64,
+    "S_code": 81.28,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "mcm5s2U",
+    "full_name": "klmr/mcm5s2U",
+    "html_url": "https://github.com/klmr/mcm5s2U",
+    "description": "Analysis of data from Alper’s mcm5s2U project",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 7523,
+      "TeX": 1381,
+      "Makefile": 241
+    },
+    "contributions_by_user": 46,
+    "contribution_score": 464.47,
+    "S_code": 8.93,
+    "S_social": 0,
+    "S_maint": 46
+  },
+  {
+    "name": "R-Vim-runtime",
+    "full_name": "klmr/R-Vim-runtime",
+    "html_url": "https://github.com/klmr/R-Vim-runtime",
+    "description": "Vim runtime scripts of file types that include R code",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vim Script": 58370,
+      "R": 38744,
+      "Shell": 558
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 77.69,
+    "S_code": 95.38,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "igv.js-jupyter",
+    "full_name": "klmr/igv.js-jupyter",
+    "html_url": "https://github.com/klmr/igv.js-jupyter",
+    "description": "Extension for Jupyter Notebook which integrates igv.js",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 25832,
+      "Python": 9721,
+      "JavaScript": 869
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.78,
+    "S_code": 35.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "BiocWorkflow2016",
+    "full_name": "klmr/BiocWorkflow2016",
+    "html_url": "https://github.com/klmr/BiocWorkflow2016",
+    "description": "Files for a Bioconductor workflow for low-level scRNA-seq data analyses.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 31240,
+      "Shell": 1872
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.17,
+    "S_code": 32.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "queuosine",
+    "full_name": "klmr/queuosine",
+    "html_url": "https://github.com/klmr/queuosine",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 4621,
+      "TeX": 1414,
+      "Makefile": 297
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 213.09,
+    "S_code": 6.18,
+    "S_social": 0,
+    "S_maint": 21
+  },
+  {
+    "name": "minted",
+    "full_name": "klmr/minted",
+    "html_url": "https://github.com/klmr/minted",
+    "description": "minted is a package that facilitates expressive syntax highlighting in LaTeX using the powerful Pygments library. The package also provides options to customize the highlighted source code output using fancyvrb.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 309667,
+      "Makefile": 820
+    },
+    "contributions_by_user": 33,
+    "contribution_score": 481.6,
+    "S_code": 303.21,
+    "S_social": 0,
+    "S_maint": 33
+  },
+  {
+    "name": "Rcpp",
+    "full_name": "klmr/Rcpp",
+    "html_url": "https://github.com/klmr/Rcpp",
+    "description": "Seamless R and C++ Integration",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 5843066,
+      "R": 473131,
+      "C": 11589,
+      "Makefile": 2151,
+      "Shell": 1088,
+      "Emacs Lisp": 423
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3091.53,
+    "S_code": 6183.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "listening-test",
+    "full_name": "klmr/listening-test",
+    "html_url": "https://github.com/klmr/listening-test",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 1930,
+      "Makefile": 216
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 71.05,
+    "S_code": 2.1,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "poster_template",
+    "full_name": "klmr/poster_template",
+    "html_url": "https://github.com/klmr/poster_template",
+    "description": "Biology of Genomes 2015 poster",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PostScript": 6574121,
+      "TeX": 19910,
+      "Makefile": 30
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 3389.76,
+    "S_code": 6439.51,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "brew",
+    "full_name": "klmr/brew",
+    "html_url": "https://github.com/klmr/brew",
+    "description": "Templating Framework for Report Generation in R",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Rcpp11",
+    "full_name": "klmr/Rcpp11",
+    "html_url": "https://github.com/klmr/Rcpp11",
+    "description": "R and C++11",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ML2048",
+    "full_name": "klmr/ML2048",
+    "html_url": "https://github.com/klmr/ML2048",
+    "description": "This project impliments a C++ console version of the game 2048.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 19985
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.76,
+    "S_code": 19.52,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "parsecsv",
+    "full_name": "klmr/parsecsv",
+    "html_url": "https://github.com/klmr/parsecsv",
+    "description": "CSV command line parser",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1593
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.78,
+    "S_code": 1.56,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "argx",
+    "full_name": "klmr/argx",
+    "html_url": "https://github.com/klmr/argx",
+    "description": "Mini argparse extension",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1069
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.52,
+    "S_code": 1.04,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "Code-used-on-Daniel-Lemire-s-blog",
+    "full_name": "klmr/Code-used-on-Daniel-Lemire-s-blog",
+    "html_url": "https://github.com/klmr/Code-used-on-Daniel-Lemire-s-blog",
+    "description": "This is a repository for the code posted on my blog",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 244120,
+      "C": 25057,
+      "Java": 24595,
+      "Python": 1411
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 154.13,
+    "S_code": 288.26,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "Catch",
+    "full_name": "klmr/Catch",
+    "html_url": "https://github.com/klmr/Catch",
+    "description": "C++ Adaptive Test Cases in Headers",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 369227,
+      "Objective-C": 18844,
+      "C": 7567,
+      "Python": 1999
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 204.16,
+    "S_code": 388.32,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "guesstimate",
+    "full_name": "klmr/guesstimate",
+    "html_url": "https://github.com/klmr/guesstimate",
+    "description": "Playground for code that estimates technology constants.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 7789,
+      "C": 6171
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.82,
+    "S_code": 13.63,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

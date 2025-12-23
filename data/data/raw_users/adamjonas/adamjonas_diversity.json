@@ -1,0 +1,23 @@
+{
+  "username": "adamjonas",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "Python",
+      "C++",
+      "Java",
+      "Ruby",
+      "D",
+      "JavaScript",
+      "Jupyter Notebook",
+      "TypeScript",
+      "Shell",
+      "CSS"
+    ],
+    "distinct_topics": [],
+    "language_count": 11,
+    "topic_count": 0,
+    "total_owned_repos": 61
+  },
+  "diversity_score_100": 60.0
+}

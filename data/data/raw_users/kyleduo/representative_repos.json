@@ -1,0 +1,620 @@
+[
+  {
+    "name": "SwitchButton",
+    "full_name": "kyleduo/SwitchButton",
+    "html_url": "https://github.com/kyleduo/SwitchButton",
+    "description": "A cute widget of Switch Button for  you to create beautiful and friendly UI.",
+    "stars": 4749,
+    "forks": 865,
+    "languages": {
+      "Java": 66530
+    },
+    "contributions_by_user": 133,
+    "contribution_score": 14320.49,
+    "S_code": 64.97,
+    "S_social": 6479,
+    "S_maint": 133
+  },
+  {
+    "name": "TinyPNG4Mac",
+    "full_name": "kyleduo/TinyPNG4Mac",
+    "html_url": "https://github.com/kyleduo/TinyPNG4Mac",
+    "description": "Native client of TinyPNG on macOS",
+    "stars": 3958,
+    "forks": 289,
+    "languages": {
+      "Swift": 104120,
+      "Shell": 764
+    },
+    "contributions_by_user": 173,
+    "contribution_score": 10853.21,
+    "S_code": 102.43,
+    "S_social": 4536,
+    "S_maint": 173
+  },
+  {
+    "name": "ExamplesFromMyBlog",
+    "full_name": "kyleduo/ExamplesFromMyBlog",
+    "html_url": "https://github.com/kyleduo/ExamplesFromMyBlog",
+    "description": "Source code of by blog. A set of demo project from my blog.",
+    "stars": 147,
+    "forks": 56,
+    "languages": {
+      "Objective-C": 175328,
+      "Java": 82873,
+      "Shell": 7953,
+      "Ruby": 258
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 728.08,
+    "S_code": 260.17,
+    "S_social": 259,
+    "S_maint": 8
+  },
+  {
+    "name": "BlurPopupWindow",
+    "full_name": "kyleduo/BlurPopupWindow",
+    "html_url": "https://github.com/kyleduo/BlurPopupWindow",
+    "description": "PopupWindow with blurred background.",
+    "stars": 139,
+    "forks": 27,
+    "languages": {
+      "Java": 41445
+    },
+    "contributions_by_user": 30,
+    "contribution_score": 706.24,
+    "S_code": 40.47,
+    "S_social": 193,
+    "S_maint": 30
+  },
+  {
+    "name": "iCometClient4j",
+    "full_name": "kyleduo/iCometClient4j",
+    "html_url": "https://github.com/kyleduo/iCometClient4j",
+    "description": "Client of iComet server for Java/Android. iComet server: https://github.com/ideawu/icomet",
+    "stars": 116,
+    "forks": 63,
+    "languages": {
+      "Java": 13483
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 620.58,
+    "S_code": 13.17,
+    "S_social": 242,
+    "S_maint": 13
+  },
+  {
+    "name": "Rabbits",
+    "full_name": "kyleduo/Rabbits",
+    "html_url": "https://github.com/kyleduo/Rabbits",
+    "description": "A router module for Android application.",
+    "stars": 115,
+    "forks": 8,
+    "languages": {
+      "Java": 122904,
+      "HTML": 2084
+    },
+    "contributions_by_user": 193,
+    "contribution_score": 2253.03,
+    "S_code": 122.06,
+    "S_social": 131,
+    "S_maint": 193
+  },
+  {
+    "name": "DashedLineDivider",
+    "full_name": "kyleduo/DashedLineDivider",
+    "html_url": "https://github.com/kyleduo/DashedLineDivider",
+    "description": "Shown how to create dashed line divider both horizontally and vertically using xml",
+    "stars": 46,
+    "forks": 8,
+    "languages": {
+      "Java": 1427
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 174.7,
+    "S_code": 1.39,
+    "S_social": 62,
+    "S_maint": 5
+  },
+  {
+    "name": "MDialog",
+    "full_name": "kyleduo/MDialog",
+    "html_url": "https://github.com/kyleduo/MDialog",
+    "description": "Material Design like and easy-use dialog with more user-friendly appearance.",
+    "stars": 23,
+    "forks": 3,
+    "languages": {
+      "Java": 27532
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 201.44,
+    "S_code": 26.89,
+    "S_social": 29,
+    "S_maint": 13
+  },
+  {
+    "name": "LoadMoreRecyclerViewAdapter",
+    "full_name": "kyleduo/LoadMoreRecyclerViewAdapter",
+    "html_url": "https://github.com/kyleduo/LoadMoreRecyclerViewAdapter",
+    "description": "Adapter for RecyclerView for load more.",
+    "stars": 16,
+    "forks": 4,
+    "languages": {
+      "Java": 5790
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 90.83,
+    "S_code": 5.65,
+    "S_social": 24,
+    "S_maint": 4
+  },
+  {
+    "name": "MDNavigationDrawer",
+    "full_name": "kyleduo/MDNavigationDrawer",
+    "html_url": "https://github.com/kyleduo/MDNavigationDrawer",
+    "description": "Navigation Drawer styling according to Material Design",
+    "stars": 11,
+    "forks": 3,
+    "languages": {
+      "Java": 3174
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 85.55,
+    "S_code": 3.1,
+    "S_social": 17,
+    "S_maint": 5
+  },
+  {
+    "name": "ZoomImageView",
+    "full_name": "kyleduo/ZoomImageView",
+    "html_url": "https://github.com/kyleduo/ZoomImageView",
+    "description": "ImageView supporting pinch in/out and move.",
+    "stars": 8,
+    "forks": 2,
+    "languages": {
+      "Java": 26302
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 66.84,
+    "S_code": 25.69,
+    "S_social": 12,
+    "S_maint": 3
+  },
+  {
+    "name": "CircleMenuView",
+    "full_name": "kyleduo/CircleMenuView",
+    "html_url": "https://github.com/kyleduo/CircleMenuView",
+    "description": "Circle of menu, can be used around a button, holding a list of icon.",
+    "stars": 8,
+    "forks": 1,
+    "languages": {
+      "Java": 20902
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 80.21,
+    "S_code": 20.41,
+    "S_social": 10,
+    "S_maint": 5
+  },
+  {
+    "name": "DragPanelLayout",
+    "full_name": "kyleduo/DragPanelLayout",
+    "html_url": "https://github.com/kyleduo/DragPanelLayout",
+    "description": "A layout providing expanding/collapsing behavior of it's child panel view.",
+    "stars": 7,
+    "forks": 2,
+    "languages": {
+      "Java": 30075
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 106.69,
+    "S_code": 29.37,
+    "S_social": 11,
+    "S_maint": 7
+  },
+  {
+    "name": "KDViewPager",
+    "full_name": "kyleduo/KDViewPager",
+    "html_url": "https://github.com/kyleduo/KDViewPager",
+    "description": "ViewPager in iOS like witch in Android.",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "Objective-C": 17898
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 30.74,
+    "S_code": 17.48,
+    "S_social": 6,
+    "S_maint": 1
+  },
+  {
+    "name": "Aladdin",
+    "full_name": "kyleduo/Aladdin",
+    "html_url": "https://github.com/kyleduo/Aladdin",
+    "description": "A library with Genie in it to help your daily development.",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "Kotlin": 170340
+    },
+    "contributions_by_user": 148,
+    "contribution_score": 1577.17,
+    "S_code": 166.35,
+    "S_social": 7,
+    "S_maint": 148
+  },
+  {
+    "name": "Surge-Rule-Snippets",
+    "full_name": "kyleduo/Surge-Rule-Snippets",
+    "html_url": "https://github.com/kyleduo/Surge-Rule-Snippets",
+    "description": "搜集、整理、维护Surge/ShadowRocket/Potatso/Cross实用规则片段。",
+    "stars": 5,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 24.0,
+    "S_code": 0.0,
+    "S_social": 7,
+    "S_maint": 1
+  },
+  {
+    "name": "AndroidGesturePassDemo",
+    "full_name": "kyleduo/AndroidGesturePassDemo",
+    "html_url": "https://github.com/kyleduo/AndroidGesturePassDemo",
+    "description": "How to trigger gesture pass elegantly and steadily?",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "Java": 7395
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 27.61,
+    "S_code": 7.22,
+    "S_social": 7,
+    "S_maint": 1
+  },
+  {
+    "name": "android-apk-naming-plugin",
+    "full_name": "kyleduo/android-apk-naming-plugin",
+    "html_url": "https://github.com/kyleduo/android-apk-naming-plugin",
+    "description": "Gradle plugin for rename the output apk file of you Android project.",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Groovy": 6428
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 241.14,
+    "S_code": 6.28,
+    "S_social": 4,
+    "S_maint": 23
+  },
+  {
+    "name": "LSUnusedResources",
+    "full_name": "kyleduo/LSUnusedResources",
+    "html_url": "https://github.com/kyleduo/LSUnusedResources",
+    "description": "A Mac App to find unused images and resources in XCode project.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Objective-C": 40432
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 43.74,
+    "S_code": 39.48,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "ViewStateSavingProblem",
+    "full_name": "kyleduo/ViewStateSavingProblem",
+    "html_url": "https://github.com/kyleduo/ViewStateSavingProblem",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Java": 32496
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 93.87,
+    "S_code": 31.73,
+    "S_social": 4,
+    "S_maint": 7
+  },
+  {
+    "name": "icomet-demos",
+    "full_name": "kyleduo/icomet-demos",
+    "html_url": "https://github.com/kyleduo/icomet-demos",
+    "description": "Demos for icomet server",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 261075,
+      "PHP": 33100,
+      "JavaScript": 24613
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 179.66,
+    "S_code": 311.32,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "WebViewJavascriptBridge",
+    "full_name": "kyleduo/WebViewJavascriptBridge",
+    "html_url": "https://github.com/kyleduo/WebViewJavascriptBridge",
+    "description": "WebViewJavascriptBridge for Android",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 14751,
+      "HTML": 2525
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 20.44,
+    "S_code": 16.87,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "CardViewDemo",
+    "full_name": "kyleduo/CardViewDemo",
+    "html_url": "https://github.com/kyleduo/CardViewDemo",
+    "description": "Demo of CardView in Google support library.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 3868
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 23.89,
+    "S_code": 3.78,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "halo-theme-higan",
+    "full_name": "kyleduo/halo-theme-higan",
+    "html_url": "https://github.com/kyleduo/halo-theme-higan",
+    "description": "Modified higan-hz theme of halo",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 81324,
+      "CSS": 37489,
+      "JavaScript": 7015,
+      "TypeScript": 5297,
+      "Stylus": 2757,
+      "Shell": 63
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 165.4,
+    "S_code": 130.81,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "WeChatMsg",
+    "full_name": "kyleduo/WeChatMsg",
+    "html_url": "https://github.com/kyleduo/WeChatMsg",
+    "description": "提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1882564,
+      "HTML": 121273
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 978.44,
+    "S_code": 1956.87,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "HappyPanel",
+    "full_name": "kyleduo/HappyPanel",
+    "html_url": "https://github.com/kyleduo/HappyPanel",
+    "description": "Slack-like panel for emojis. Starring SwiftUI 🙃",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Swift": 44833
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 31.89,
+    "S_code": 43.78,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "KLab",
+    "full_name": "kyleduo/KLab",
+    "html_url": "https://github.com/kyleduo/KLab",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Kotlin": 59749
+    },
+    "contributions_by_user": 31,
+    "contribution_score": 339.17,
+    "S_code": 58.35,
+    "S_social": 0,
+    "S_maint": 31
+  },
+  {
+    "name": "ADC-W1-PuppyAdoption",
+    "full_name": "kyleduo/ADC-W1-PuppyAdoption",
+    "html_url": "https://github.com/kyleduo/ADC-W1-PuppyAdoption",
+    "description": "Template repository for the Jetpack Compose #AndroidDevChallenge",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Kotlin": 30273
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 194.78,
+    "S_code": 29.56,
+    "S_social": 0,
+    "S_maint": 18
+  },
+  {
+    "name": "Shining",
+    "full_name": "kyleduo/Shining",
+    "html_url": "https://github.com/kyleduo/Shining",
+    "description": "A weather app",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Kotlin": 20342
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 139.93,
+    "S_code": 19.87,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "lede",
+    "full_name": "kyleduo/lede",
+    "html_url": "https://github.com/kyleduo/lede",
+    "description": "Lean's OpenWrt source",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 21958887,
+      "Objective-C": 10578011,
+      "Makefile": 2552497,
+      "Shell": 1481088,
+      "C++": 1018211,
+      "Lua": 491841,
+      "Python": 436190,
+      "Roff": 309959,
+      "Perl": 263897,
+      "HTML": 227431,
+      "Assembly": 213340,
+      "M4": 150921,
+      "CSS": 74924,
+      "JavaScript": 32014,
+      "Yacc": 16062,
+      "Lex": 8026,
+      "Awk": 6556,
+      "CMake": 1581,
+      "Dockerfile": 732,
+      "Batchfile": 216,
+      "Ada": 140
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19444.59,
+    "S_code": 38889.18,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "OpenWrt-CI",
+    "full_name": "kyleduo/OpenWrt-CI",
+    "html_url": "https://github.com/kyleduo/OpenWrt-CI",
+    "description": "OpenWrt CI 在线集成自动编译环境",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "SnapKit",
+    "full_name": "kyleduo/SnapKit",
+    "html_url": "https://github.com/kyleduo/SnapKit",
+    "description": "A Swift Autolayout DSL for iOS & OS X",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Swift": 161532,
+      "Objective-C": 1325,
+      "Ruby": 618
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 79.82,
+    "S_code": 159.64,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "AppInstaller",
+    "full_name": "kyleduo/AppInstaller",
+    "html_url": "https://github.com/kyleduo/AppInstaller",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "subsampling-scale-image-view",
+    "full_name": "kyleduo/subsampling-scale-image-view",
+    "html_url": "https://github.com/kyleduo/subsampling-scale-image-view",
+    "description": "Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 208804
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 101.96,
+    "S_code": 203.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "RoundedImageView",
+    "full_name": "kyleduo/RoundedImageView",
+    "html_url": "https://github.com/kyleduo/RoundedImageView",
+    "description": "A fast ImageView that supports rounded corners, ovals, and circles.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 57898
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 28.27,
+    "S_code": 56.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "RayFramework",
+    "full_name": "kyleduo/RayFramework",
+    "html_url": "https://github.com/kyleduo/RayFramework",
+    "description": "Android framework of easy usage and enhanced adaptation.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "ios-good-practices",
+    "full_name": "kyleduo/ios-good-practices",
+    "html_url": "https://github.com/kyleduo/ios-good-practices",
+    "description": "Good ideas for iOS development, by Futurice developers.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "username": "Tratcher",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "Python",
+      "C#",
+      "PowerShell",
+      "TypeScript",
+      "Go"
+    ],
+    "distinct_topics": [],
+    "language_count": 6,
+    "topic_count": 0,
+    "total_owned_repos": 32
+  },
+  "diversity_score_100": 36.0
+}

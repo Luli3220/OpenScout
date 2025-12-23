@@ -1,0 +1,1353 @@
+[
+  {
+    "name": "django-angular",
+    "full_name": "jrief/django-angular",
+    "html_url": "https://github.com/jrief/django-angular",
+    "description": "Let AngularJS play well with Django",
+    "stars": 1224,
+    "forks": 291,
+    "languages": {
+      "JavaScript": 99623,
+      "Python": 78769,
+      "HTML": 4830,
+      "CSS": 4058,
+      "Dockerfile": 2587
+    },
+    "contributions_by_user": 1157,
+    "contribution_score": 15274.71,
+    "S_code": 185.42,
+    "S_social": 1806,
+    "S_maint": 1157
+  },
+  {
+    "name": "django-websocket-redis",
+    "full_name": "jrief/django-websocket-redis",
+    "html_url": "https://github.com/jrief/django-websocket-redis",
+    "description": "Websockets for Django applications using Redis as message queue",
+    "stars": 898,
+    "forks": 222,
+    "languages": {
+      "Python": 60186,
+      "JavaScript": 4388
+    },
+    "contributions_by_user": 365,
+    "contribution_score": 6365.53,
+    "S_code": 63.06,
+    "S_social": 1342,
+    "S_maint": 365
+  },
+  {
+    "name": "django-admin-sortable2",
+    "full_name": "jrief/django-admin-sortable2",
+    "html_url": "https://github.com/jrief/django-admin-sortable2",
+    "description": "Generic drag-and-drop ordering for objects in the Django admin interface",
+    "stars": 859,
+    "forks": 187,
+    "languages": {
+      "Python": 72968,
+      "TypeScript": 10152,
+      "CSS": 1333,
+      "JavaScript": 516,
+      "HTML": 435
+    },
+    "contributions_by_user": 640,
+    "contribution_score": 8907.7,
+    "S_code": 83.4,
+    "S_social": 1233,
+    "S_maint": 640
+  },
+  {
+    "name": "django-formset",
+    "full_name": "jrief/django-formset",
+    "html_url": "https://github.com/jrief/django-formset",
+    "description": "The missing widgets and form manipulation library for Django",
+    "stars": 419,
+    "forks": 45,
+    "languages": {
+      "Python": 726816,
+      "TypeScript": 357947,
+      "HTML": 87584,
+      "SCSS": 45546,
+      "CSS": 41419,
+      "JavaScript": 10842,
+      "PEG.js": 9563,
+      "Dockerfile": 2039,
+      "Shell": 445,
+      "Mustache": 343
+    },
+    "contributions_by_user": 2134,
+    "contribution_score": 22984.24,
+    "S_code": 1252.48,
+    "S_social": 509,
+    "S_maint": 2134
+  },
+  {
+    "name": "django-sass-processor",
+    "full_name": "jrief/django-sass-processor",
+    "html_url": "https://github.com/jrief/django-sass-processor",
+    "description": "SASS processor to compile SCSS files into *.css, while rendering, or offline.",
+    "stars": 414,
+    "forks": 66,
+    "languages": {
+      "Python": 36391,
+      "SCSS": 272,
+      "HTML": 157
+    },
+    "contributions_by_user": 282,
+    "contribution_score": 3929.98,
+    "S_code": 35.96,
+    "S_social": 546,
+    "S_maint": 282
+  },
+  {
+    "name": "djangocms-cascade",
+    "full_name": "jrief/djangocms-cascade",
+    "html_url": "https://github.com/jrief/djangocms-cascade",
+    "description": "Build Single Page Applications using the Django-CMS plugin system",
+    "stars": 169,
+    "forks": 86,
+    "languages": {
+      "Python": 424314,
+      "JavaScript": 106622,
+      "HTML": 30924,
+      "CSS": 20152
+    },
+    "contributions_by_user": 2444,
+    "contribution_score": 25406.19,
+    "S_code": 568.37,
+    "S_social": 341,
+    "S_maint": 2444
+  },
+  {
+    "name": "django-entangled",
+    "full_name": "jrief/django-entangled",
+    "html_url": "https://github.com/jrief/django-entangled",
+    "description": "Edit JSON-Model Fields using a Standard Django Form.",
+    "stars": 146,
+    "forks": 10,
+    "languages": {
+      "Python": 38156
+    },
+    "contributions_by_user": 130,
+    "contribution_score": 1650.63,
+    "S_code": 37.26,
+    "S_social": 166,
+    "S_maint": 130
+  },
+  {
+    "name": "angular-retina",
+    "full_name": "jrief/angular-retina",
+    "html_url": "https://github.com/jrief/angular-retina",
+    "description": "Add support for Retina displays when using element attribute \"ng-src\"",
+    "stars": 120,
+    "forks": 32,
+    "languages": {
+      "JavaScript": 16283,
+      "HTML": 1115
+    },
+    "contributions_by_user": 74,
+    "contribution_score": 1116.5,
+    "S_code": 16.99,
+    "S_social": 184,
+    "S_maint": 74
+  },
+  {
+    "name": "django-shop",
+    "full_name": "jrief/django-shop",
+    "html_url": "https://github.com/jrief/django-shop",
+    "description": "A Django based shop system",
+    "stars": 33,
+    "forks": 12,
+    "languages": {
+      "Python": 728336,
+      "HTML": 96102,
+      "JavaScript": 58415,
+      "CSS": 7781,
+      "Shell": 571
+    },
+    "contributions_by_user": 2536,
+    "contribution_score": 25909.16,
+    "S_code": 870.32,
+    "S_social": 57,
+    "S_maint": 2536
+  },
+  {
+    "name": "djangocms-bootstrap",
+    "full_name": "jrief/djangocms-bootstrap",
+    "html_url": "https://github.com/jrief/djangocms-bootstrap",
+    "description": "django-CMS templatetags and HTML snippets to handle the navigation when used in combination with Bootstrap-3/4",
+    "stars": 13,
+    "forks": 7,
+    "languages": {
+      "HTML": 14993,
+      "Python": 9783,
+      "JavaScript": 536
+    },
+    "contributions_by_user": 80,
+    "contribution_score": 866.36,
+    "S_code": 24.72,
+    "S_social": 27,
+    "S_maint": 80
+  },
+  {
+    "name": "angular-bootstrap-plus",
+    "full_name": "jrief/angular-bootstrap-plus",
+    "html_url": "https://github.com/jrief/angular-bootstrap-plus",
+    "description": "Additional directives for AngularJS",
+    "stars": 8,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 23602,
+      "HTML": 21875,
+      "CSS": 5349
+    },
+    "contributions_by_user": 81,
+    "contribution_score": 862.82,
+    "S_code": 49.63,
+    "S_social": 14,
+    "S_maint": 81
+  },
+  {
+    "name": "django-nodebow",
+    "full_name": "jrief/django-nodebow",
+    "html_url": "https://github.com/jrief/django-nodebow",
+    "description": "Just initialized",
+    "stars": 8,
+    "forks": 5,
+    "languages": {
+      "Python": 9920
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 200.84,
+    "S_code": 9.69,
+    "S_social": 18,
+    "S_maint": 16
+  },
+  {
+    "name": "django-sendmail",
+    "full_name": "jrief/django-sendmail",
+    "html_url": "https://github.com/jrief/django-sendmail",
+    "description": "A Django app that allows you to send email asynchronously in Django. Supports HTML email, database backed templates and logging.",
+    "stars": 6,
+    "forks": 4,
+    "languages": {
+      "Python": 310249,
+      "HTML": 22580,
+      "Dockerfile": 1453,
+      "CSS": 566
+    },
+    "contributions_by_user": 103,
+    "contribution_score": 1221.5,
+    "S_code": 327.0,
+    "S_social": 14,
+    "S_maint": 103
+  },
+  {
+    "name": "django-shop-wishlists",
+    "full_name": "jrief/django-shop-wishlists",
+    "html_url": "https://github.com/jrief/django-shop-wishlists",
+    "description": "Wishlists plugin for django-shop",
+    "stars": 5,
+    "forks": 3,
+    "languages": {
+      "Python": 36621,
+      "Shell": 843
+    },
+    "contributions_by_user": 44,
+    "contribution_score": 480.29,
+    "S_code": 36.59,
+    "S_social": 11,
+    "S_maint": 44
+  },
+  {
+    "name": "django-shop-productvariations",
+    "full_name": "jrief/django-shop-productvariations",
+    "html_url": "https://github.com/jrief/django-shop-productvariations",
+    "description": null,
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Python": 31145,
+      "Shell": 843
+    },
+    "contributions_by_user": 41,
+    "contribution_score": 435.62,
+    "S_code": 31.24,
+    "S_social": 5,
+    "S_maint": 41
+  },
+  {
+    "name": "cookiecutter-djangocms-cascade",
+    "full_name": "jrief/cookiecutter-djangocms-cascade",
+    "html_url": "https://github.com/jrief/cookiecutter-djangocms-cascade",
+    "description": "Cookiecutter templates to create a django-CMS project using plugins from Cascade",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "Python": 22354,
+      "HTML": 4796,
+      "CSS": 1501,
+      "Dockerfile": 1463
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 106.7,
+    "S_code": 29.41,
+    "S_social": 6,
+    "S_maint": 8
+  },
+  {
+    "name": "django-shop-ipayment",
+    "full_name": "jrief/django-shop-ipayment",
+    "html_url": "https://github.com/jrief/django-shop-ipayment",
+    "description": "A django-SHOP payment backend for IPayment (https://ipayment.de/)",
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "Python": 37872,
+      "Shell": 1333
+    },
+    "contributions_by_user": 74,
+    "contribution_score": 775.14,
+    "S_code": 38.29,
+    "S_social": 8,
+    "S_maint": 74
+  },
+  {
+    "name": "my-shop",
+    "full_name": "jrief/my-shop",
+    "html_url": "https://github.com/jrief/my-shop",
+    "description": "Django-SHOP demo generated by cookiecutter-django-shop and used to migrate towards Bootstrap-4",
+    "stars": 3,
+    "forks": 3,
+    "languages": {
+      "Python": 67295,
+      "HTML": 17680,
+      "CSS": 3044,
+      "Shell": 413
+    },
+    "contributions_by_user": 59,
+    "contribution_score": 651.18,
+    "S_code": 86.36,
+    "S_social": 9,
+    "S_maint": 59
+  },
+  {
+    "name": "djangocms-reveal",
+    "full_name": "jrief/djangocms-reveal",
+    "html_url": "https://github.com/jrief/djangocms-reveal",
+    "description": "DjangoCMS plugin for presentations based on reveal.js",
+    "stars": 2,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 223029,
+      "CSS": 141483,
+      "HTML": 27661,
+      "Python": 20565
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 443.53,
+    "S_code": 403.06,
+    "S_social": 6,
+    "S_maint": 23
+  },
+  {
+    "name": "cmsplugin-text-wrapper",
+    "full_name": "jrief/cmsplugin-text-wrapper",
+    "html_url": "https://github.com/jrief/cmsplugin-text-wrapper",
+    "description": "A cms plugin which extends and replaces the text plugin shipped with django-cms with simple wrapper functionalities.",
+    "stars": 2,
+    "forks": 2,
+    "languages": {
+      "Python": 16324
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 309.97,
+    "S_code": 15.94,
+    "S_social": 6,
+    "S_maint": 29
+  },
+  {
+    "name": "django",
+    "full_name": "jrief/django",
+    "html_url": "https://github.com/jrief/django",
+    "description": "The Web framework for perfectionists with deadlines.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Python": 13306887,
+      "JavaScript": 251536,
+      "HTML": 224566,
+      "CSS": 85024,
+      "Shell": 809,
+      "Smarty": 130,
+      "Makefile": 125
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6778.01,
+    "S_code": 13544.02,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "django-cms",
+    "full_name": "jrief/django-cms",
+    "html_url": "https://github.com/jrief/django-cms",
+    "description": "The easy-to-use and developer-friendly CMS",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 2974197,
+      "JavaScript": 410684,
+      "CSS": 88118,
+      "XSLT": 5122,
+      "Shell": 1383,
+      "Ruby": 990
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 1961.46,
+    "S_code": 3398.92,
+    "S_social": 1,
+    "S_maint": 26
+  },
+  {
+    "name": "furo",
+    "full_name": "jrief/furo",
+    "html_url": "https://github.com/jrief/furo",
+    "description": "A clean customizable documentation theme for Sphinx",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Sass": 47940,
+      "HTML": 29243,
+      "Python": 25389,
+      "JavaScript": 19055,
+      "SCSS": 14048
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 68.25,
+    "S_code": 132.5,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "django-girls",
+    "full_name": "jrief/django-girls",
+    "html_url": "https://github.com/jrief/django-girls",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Python": 13454,
+      "HTML": 2361,
+      "CSS": 1025
+    },
+    "contributions_by_user": 31,
+    "contribution_score": 324.22,
+    "S_code": 16.45,
+    "S_social": 3,
+    "S_maint": 31
+  },
+  {
+    "name": "django-rest-auth",
+    "full_name": "jrief/django-rest-auth",
+    "html_url": "https://github.com/jrief/django-rest-auth",
+    "description": "This app makes it extremely easy to build Django powered SPA's (Single Page App) or Mobile apps exposing all registration and authentication related functionality as CBV's (Class Base View) and REST (JSON)",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 51531,
+      "HTML": 16032
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 34.99,
+    "S_code": 65.98,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "django-treebeard",
+    "full_name": "jrief/django-treebeard",
+    "html_url": "https://github.com/jrief/django-treebeard",
+    "description": "Efficient tree implementations for Django (github mirror)",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 248707,
+      "JavaScript": 14776,
+      "HTML": 2850,
+      "CSS": 1416,
+      "Shell": 663
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 243.06,
+    "S_code": 262.12,
+    "S_social": 1,
+    "S_maint": 11
+  },
+  {
+    "name": "django-phonenumber-field",
+    "full_name": "jrief/django-phonenumber-field",
+    "html_url": "https://github.com/jrief/django-phonenumber-field",
+    "description": "A django model and form field for normalised phone numbers using python-phonenumbers",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 26941,
+      "Shell": 78
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.19,
+    "S_code": 26.39,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "django-sphinx-view",
+    "full_name": "jrief/django-sphinx-view",
+    "html_url": "https://github.com/jrief/django-sphinx-view",
+    "description": "Serve your Sphinx docs with Django.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 18178,
+      "Python": 11263,
+      "Jinja": 479,
+      "HTML": 198
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 114.71,
+    "S_code": 29.41,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "django-filer",
+    "full_name": "jrief/django-filer",
+    "html_url": "https://github.com/jrief/django-filer",
+    "description": "File and Image Management Application for django",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 275515,
+      "JavaScript": 48306,
+      "Shell": 4358,
+      "CSS": 1233
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 250.85,
+    "S_code": 321.69,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "jrief",
+    "full_name": "jrief/jrief",
+    "html_url": "https://github.com/jrief/jrief",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 7,
+    "contribution_score": 74.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 7
+  },
+  {
+    "name": "django-htmx",
+    "full_name": "jrief/django-htmx",
+    "html_url": "https://github.com/jrief/django-htmx",
+    "description": "Extensions for using Django with htmx.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 161718,
+      "Python": 32678,
+      "HTML": 11034,
+      "CSS": 7992
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 174.21,
+    "S_code": 208.42,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "django-htmx-crud-demo",
+    "full_name": "jrief/django-htmx-crud-demo",
+    "html_url": "https://github.com/jrief/django-htmx-crud-demo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 1259306,
+      "CSS": 962608,
+      "JavaScript": 681667,
+      "SCSS": 605738,
+      "Python": 37665
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1731.93,
+    "S_code": 3463.85,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "djangocms-versioning",
+    "full_name": "jrief/djangocms-versioning",
+    "html_url": "https://github.com/jrief/djangocms-versioning",
+    "description": "General purpose versioning package for Django CMS 4 and above.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 589876,
+      "JavaScript": 105415,
+      "HTML": 20709,
+      "CSS": 6628
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 382.85,
+    "S_code": 705.69,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "django-countries",
+    "full_name": "jrief/django-countries",
+    "html_url": "https://github.com/jrief/django-countries",
+    "description": "A Django application that provides country choices for use with forms, flag icons static files, and a country field for models.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 143546,
+      "CSS": 11991
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 75.95,
+    "S_code": 151.89,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "djangocms4-utilities",
+    "full_name": "jrief/djangocms4-utilities",
+    "html_url": "https://github.com/jrief/djangocms4-utilities",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 11292
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 15.51,
+    "S_code": 11.03,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "djangocms-4-migration",
+    "full_name": "jrief/djangocms-4-migration",
+    "html_url": "https://github.com/jrief/djangocms-4-migration",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 36419
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 37.78,
+    "S_code": 35.57,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "djangocms-text-ckeditor",
+    "full_name": "jrief/djangocms-text-ckeditor",
+    "html_url": "https://github.com/jrief/djangocms-text-ckeditor",
+    "description": "Text Plugin for django-cms with CK-Editor",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 226415,
+      "JavaScript": 214148,
+      "Python": 141624,
+      "CSS": 32890,
+      "PHP": 2434,
+      "Makefile": 185
+    },
+    "contributions_by_user": 36,
+    "contribution_score": 661.61,
+    "S_code": 603.22,
+    "S_social": 0,
+    "S_maint": 36
+  },
+  {
+    "name": "DefinitelyTyped",
+    "full_name": "jrief/DefinitelyTyped",
+    "html_url": "https://github.com/jrief/DefinitelyTyped",
+    "description": "The repository for high quality TypeScript type definitions.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 44046496,
+      "JavaScript": 42051,
+      "Shell": 353
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 21527.78,
+    "S_code": 43055.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sass_mwe",
+    "full_name": "jrief/sass_mwe",
+    "html_url": "https://github.com/jrief/sass_mwe",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 5927,
+      "HTML": 242,
+      "SCSS": 33
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 13.03,
+    "S_code": 6.06,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "djangocms4-testapp",
+    "full_name": "jrief/djangocms4-testapp",
+    "html_url": "https://github.com/jrief/djangocms4-testapp",
+    "description": "Testing django-cms version 4 with djangocms-cascade",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 8499,
+      "HTML": 887
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 34.58,
+    "S_code": 9.17,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "awesome-django",
+    "full_name": "jrief/awesome-django",
+    "html_url": "https://github.com/jrief/awesome-django",
+    "description": "A curated list of awesome things related to Django",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "HTML": 571,
+      "Ruby": 348,
+      "SCSS": 25
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.46,
+    "S_code": 0.92,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "django-app-helper",
+    "full_name": "jrief/django-app-helper",
+    "html_url": "https://github.com/jrief/django-app-helper",
+    "description": "Helper for Django applications development",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 133911,
+      "HTML": 1408,
+      "Gherkin": 33
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 76.09,
+    "S_code": 132.18,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "django-parler-rest",
+    "full_name": "jrief/django-parler-rest",
+    "html_url": "https://github.com/jrief/django-parler-rest",
+    "description": "Translatable model support for django-rest-framework",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 34924
+    },
+    "contributions_by_user": 45,
+    "contribution_score": 467.05,
+    "S_code": 34.11,
+    "S_social": 0,
+    "S_maint": 45
+  },
+  {
+    "name": "pygments-css",
+    "full_name": "jrief/pygments-css",
+    "html_url": "https://github.com/jrief/pygments-css",
+    "description": "css files created from pygment's built-in styles",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 75488,
+      "Makefile": 834
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 37.27,
+    "S_code": 74.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tom-select",
+    "full_name": "jrief/tom-select",
+    "html_url": "https://github.com/jrief/tom-select",
+    "description": "Tom Select is the hybrid of a textbox and select box. Forked from selectize.js to provide a framework agnostic autocomplete widget with native-feeling keyboard navigation. Useful for tagging, contact lists, etc.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 382217,
+      "TypeScript": 108754,
+      "Nunjucks": 95390,
+      "SCSS": 42863,
+      "HTML": 4006,
+      "Shell": 2614
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 310.47,
+    "S_code": 620.94,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "asteval",
+    "full_name": "jrief/asteval",
+    "html_url": "https://github.com/jrief/asteval",
+    "description": "minimalistic evaluator of python expression using ast module",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 176321
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 86.09,
+    "S_code": 172.19,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "django-scopes",
+    "full_name": "jrief/django-scopes",
+    "html_url": "https://github.com/jrief/django-scopes",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 18019
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.8,
+    "S_code": 17.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "small-n-flat",
+    "full_name": "jrief/small-n-flat",
+    "html_url": "https://github.com/jrief/small-n-flat",
+    "description": "svg icons on a 24px grid",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 1045,
+      "PHP": 334
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.67,
+    "S_code": 1.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hashcode-2020",
+    "full_name": "jrief/hashcode-2020",
+    "html_url": "https://github.com/jrief/hashcode-2020",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "django-compressor",
+    "full_name": "jrief/django-compressor",
+    "html_url": "https://github.com/jrief/django-compressor",
+    "description": "Compresses linked and inline javascript or CSS into a single cached file.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 217782,
+      "HTML": 15470,
+      "CSS": 884,
+      "Makefile": 434,
+      "JavaScript": 88,
+      "CoffeeScript": 21
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 114.59,
+    "S_code": 229.18,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "krolow.com.br",
+    "full_name": "jrief/krolow.com.br",
+    "html_url": "https://github.com/jrief/krolow.com.br",
+    "description": "Personal website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 297484,
+      "CSS": 5364
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 147.88,
+    "S_code": 295.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "django-fsm-admin",
+    "full_name": "jrief/django-fsm-admin",
+    "html_url": "https://github.com/jrief/django-fsm-admin",
+    "description": "Mixin and template tags to integrate django-fsm transitions into the django admin.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 20527,
+      "HTML": 4473
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.21,
+    "S_code": 24.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "django-solo",
+    "full_name": "jrief/django-solo",
+    "html_url": "https://github.com/jrief/django-solo",
+    "description": "Helps working with singletons - things like global settings that you want to edit from the admin site.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 12255,
+      "HTML": 984
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.46,
+    "S_code": 12.93,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "django-parler",
+    "full_name": "jrief/django-parler",
+    "html_url": "https://github.com/jrief/django-parler",
+    "description": "Easily translate \"cheese omelet\" into \"omelette du fromage\".",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 216359,
+      "HTML": 6000,
+      "CSS": 4695
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 210.87,
+    "S_code": 221.73,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "easy-thumbnails",
+    "full_name": "jrief/easy-thumbnails",
+    "html_url": "https://github.com/jrief/easy-thumbnails",
+    "description": "Easy thumbnails for Django",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 203044,
+      "Shell": 2975
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 390.6,
+    "S_code": 201.19,
+    "S_social": 0,
+    "S_maint": 29
+  },
+  {
+    "name": "django-select2",
+    "full_name": "jrief/django-select2",
+    "html_url": "https://github.com/jrief/django-select2",
+    "description": "This is a Django integration for Select2",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "deps",
+    "full_name": "jrief/deps",
+    "html_url": "https://github.com/jrief/deps",
+    "description": "Django Enhancement Proposals",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "django-softhyphen",
+    "full_name": "jrief/django-softhyphen",
+    "html_url": "https://github.com/jrief/django-softhyphen",
+    "description": "A Python library for hyphenating HTML in your Django project",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 16973
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.29,
+    "S_code": 16.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "kco_python",
+    "full_name": "jrief/kco_python",
+    "html_url": "https://github.com/jrief/kco_python",
+    "description": "Klarna Checkout Python Library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 31454,
+      "Shell": 3841
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.23,
+    "S_code": 34.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "drf-haystack",
+    "full_name": "jrief/drf-haystack",
+    "html_url": "https://github.com/jrief/drf-haystack",
+    "description": "Haystack for Django REST Framework",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 60752
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 29.66,
+    "S_code": 59.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "modicpquery",
+    "full_name": "jrief/modicpquery",
+    "html_url": "https://github.com/jrief/modicpquery",
+    "description": "Automatically exported from code.google.com/p/modicpquery",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C": 28000
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 37.67,
+    "S_code": 27.34,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "django-fsm",
+    "full_name": "jrief/django-fsm",
+    "html_url": "https://github.com/jrief/django-fsm",
+    "description": "Django friendly finite state machine support",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 53449
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 26.1,
+    "S_code": 52.2,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "djangocms-link",
+    "full_name": "jrief/djangocms-link",
+    "html_url": "https://github.com/jrief/djangocms-link",
+    "description": "Link Plugin for django-cms",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 36093,
+      "HTML": 331
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.79,
+    "S_code": 35.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "django-shop-viveum",
+    "full_name": "jrief/django-shop-viveum",
+    "html_url": "https://github.com/jrief/django-shop-viveum",
+    "description": "Payment backend module to connect django-SHOP with the PSP Viveum/Ogone",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "Python": 35353,
+      "HTML": 3839,
+      "Shell": 1209
+    },
+    "contributions_by_user": 44,
+    "contribution_score": 467.73,
+    "S_code": 39.45,
+    "S_social": 4,
+    "S_maint": 44
+  },
+  {
+    "name": "django-sekizai",
+    "full_name": "jrief/django-sekizai",
+    "html_url": "https://github.com/jrief/django-sekizai",
+    "description": "Django Template Blocks with extra functionality",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 33215,
+      "Makefile": 3142
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.75,
+    "S_code": 35.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "aldryn-theme-bootstrap-standardsite",
+    "full_name": "jrief/aldryn-theme-bootstrap-standardsite",
+    "html_url": "https://github.com/jrief/aldryn-theme-bootstrap-standardsite",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 31937,
+      "JavaScript": 2880,
+      "Python": 1396,
+      "Ruby": 1196
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 18.27,
+    "S_code": 36.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "generator-djangocms",
+    "full_name": "jrief/generator-djangocms",
+    "html_url": "https://github.com/jrief/generator-djangocms",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "aldryn-client",
+    "full_name": "jrief/aldryn-client",
+    "html_url": "https://github.com/jrief/aldryn-client",
+    "description": "Commandline client for the django CMS cloud",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 136342,
+      "Shell": 21198
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 86.92,
+    "S_code": 153.85,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "bootstrap",
+    "full_name": "jrief/bootstrap",
+    "html_url": "https://github.com/jrief/bootstrap",
+    "description": "Native AngularJS (Angular) directives for Bootstrap. Small footprint (5kB gzipped!), no 3rd party JS dependencies (jQuery, bootstrap JS) required!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 500868,
+      "CSS": 7774
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 248.36,
+    "S_code": 496.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ng-slider",
+    "full_name": "jrief/ng-slider",
+    "html_url": "https://github.com/jrief/ng-slider",
+    "description": "Angular slider control directive",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 46029,
+      "CSS": 2679
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 33.78,
+    "S_code": 47.57,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "djangocms-admin-style",
+    "full_name": "jrief/djangocms-admin-style",
+    "html_url": "https://github.com/jrief/djangocms-admin-style",
+    "description": "Adds pretty CSS styles for the django CMS admin interface.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 62672,
+      "Python": 1047,
+      "Ruby": 481
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 51.35,
+    "S_code": 62.7,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "django_polymorphic",
+    "full_name": "jrief/django_polymorphic",
+    "html_url": "https://github.com/jrief/django_polymorphic",
+    "description": "Seamless Polymorphic Inheritance for Django Models. For documentation and news click link below.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cmsplugin-filer",
+    "full_name": "jrief/cmsplugin-filer",
+    "html_url": "https://github.com/jrief/cmsplugin-filer",
+    "description": "django-filer cms plugins for django-cms",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "reveal-notes",
+    "full_name": "jrief/reveal-notes",
+    "html_url": "https://github.com/jrief/reveal-notes",
+    "description": "An improved notes plugin for Reveal.js",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 215408,
+      "CSS": 129935
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 182.62,
+    "S_code": 337.25,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "djangocms-angular-compendium",
+    "full_name": "jrief/djangocms-angular-compendium",
+    "html_url": "https://github.com/jrief/djangocms-angular-compendium",
+    "description": "Template overrides for DjangoCMS plugins when used with AngularJS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 8,
+    "contribution_score": 80.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "django-jsonfield",
+    "full_name": "jrief/django-jsonfield",
+    "html_url": "https://github.com/jrief/django-jsonfield",
+    "description": "Reusable JSONField() for Django",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 11438
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.58,
+    "S_code": 11.17,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "angular.js",
+    "full_name": "jrief/angular.js",
+    "html_url": "https://github.com/jrief/angular.js",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2032789,
+      "Ruby": 9614,
+      "Shell": 2682
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 998.58,
+    "S_code": 1997.15,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

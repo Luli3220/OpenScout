@@ -1,0 +1,549 @@
+[
+  {
+    "name": "DMSkin",
+    "full_name": "944095635/DMSkin",
+    "html_url": "https://github.com/944095635/DMSkin",
+    "description": "DMSkin WPF 样式 UI 框架 | WPF Borderless Window | Custom Controls & Styles | MVVM Support",
+    "stars": 1566,
+    "forks": 391,
+    "languages": {
+      "C#": 73028
+    },
+    "contributions_by_user": 169,
+    "contribution_score": 6421.66,
+    "S_code": 71.32,
+    "S_social": 2348,
+    "S_maint": 169
+  },
+  {
+    "name": "DMSkin-CloudMusic",
+    "full_name": "944095635/DMSkin-CloudMusic",
+    "html_url": "https://github.com/944095635/DMSkin-CloudMusic",
+    "description": "网易云音乐-用WPF来做网易云音乐客户端会怎么样?",
+    "stars": 326,
+    "forks": 107,
+    "languages": {
+      "C#": 176750
+    },
+    "contributions_by_user": 31,
+    "contribution_score": 1476.3,
+    "S_code": 172.61,
+    "S_social": 540,
+    "S_maint": 31
+  },
+  {
+    "name": "WallpaperMaker",
+    "full_name": "944095635/WallpaperMaker",
+    "html_url": "https://github.com/944095635/WallpaperMaker",
+    "description": "Windows 桌面动态壁纸 视频壁纸",
+    "stars": 227,
+    "forks": 56,
+    "languages": {
+      "C#": 375985
+    },
+    "contributions_by_user": 135,
+    "contribution_score": 2211.59,
+    "S_code": 367.17,
+    "S_social": 339,
+    "S_maint": 135
+  },
+  {
+    "name": "MVVM",
+    "full_name": "944095635/MVVM",
+    "html_url": "https://github.com/944095635/MVVM",
+    "description": "适合新人学习的WPF MVVM案例",
+    "stars": 158,
+    "forks": 44,
+    "languages": {
+      "C#": 13501,
+      "Vim Snippet": 4486
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 760.78,
+    "S_code": 17.57,
+    "S_social": 246,
+    "S_maint": 26
+  },
+  {
+    "name": "DMSkin-QQSignIN",
+    "full_name": "944095635/DMSkin-QQSignIN",
+    "html_url": "https://github.com/944095635/DMSkin-QQSignIN",
+    "description": "高仿QQ登录",
+    "stars": 81,
+    "forks": 39,
+    "languages": {
+      "C#": 9417
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 412.6,
+    "S_code": 9.2,
+    "S_social": 159,
+    "S_maint": 9
+  },
+  {
+    "name": "DMSkin-Mzitu",
+    "full_name": "944095635/DMSkin-Mzitu",
+    "html_url": "https://github.com/944095635/DMSkin-Mzitu",
+    "description": "WPF开发的妹子采集美图客户端,",
+    "stars": 75,
+    "forks": 24,
+    "languages": {
+      "C#": 33251
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 522.24,
+    "S_code": 32.47,
+    "S_social": 123,
+    "S_maint": 26
+  },
+  {
+    "name": "DMSkin-for-WPF",
+    "full_name": "944095635/DMSkin-for-WPF",
+    "html_url": "https://github.com/944095635/DMSkin-for-WPF",
+    "description": "WPF Borderless Window | Custom Controls & Styles | MVVM Support http://www.dmskin.com",
+    "stars": 74,
+    "forks": 27,
+    "languages": {
+      "C#": 157254
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 382.78,
+    "S_code": 153.57,
+    "S_social": 128,
+    "S_maint": 5
+  },
+  {
+    "name": "DMC",
+    "full_name": "944095635/DMC",
+    "html_url": "https://github.com/944095635/DMC",
+    "description": "cctv?",
+    "stars": 72,
+    "forks": 20,
+    "languages": {
+      "Dart": 71163,
+      "C++": 25065,
+      "CMake": 19645,
+      "Swift": 3079,
+      "HTML": 1833,
+      "C": 1425,
+      "Kotlin": 119,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 573.75,
+    "S_code": 119.5,
+    "S_social": 112,
+    "S_maint": 29
+  },
+  {
+    "name": "dm-music-flutter",
+    "full_name": "944095635/dm-music-flutter",
+    "html_url": "https://github.com/944095635/dm-music-flutter",
+    "description": "Flutter Music App",
+    "stars": 64,
+    "forks": 18,
+    "languages": {
+      "Dart": 191981,
+      "C++": 25316,
+      "CMake": 19770,
+      "Ruby": 2757,
+      "Swift": 2313,
+      "C": 1488,
+      "HTML": 1214,
+      "Kotlin": 122,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 70,
+    "contribution_score": 1019.63,
+    "S_code": 239.26,
+    "S_social": 100,
+    "S_maint": 70
+  },
+  {
+    "name": "DMSkin-Miniblink",
+    "full_name": "944095635/DMSkin-Miniblink",
+    "html_url": "https://github.com/944095635/DMSkin-Miniblink",
+    "description": "WPF 里面 调用 Miniblink 浏览器内核",
+    "stars": 40,
+    "forks": 11,
+    "languages": {
+      "C#": 206771
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 324.96,
+    "S_code": 201.92,
+    "S_social": 62,
+    "S_maint": 10
+  },
+  {
+    "name": "Flutter-Desktop",
+    "full_name": "944095635/Flutter-Desktop",
+    "html_url": "https://github.com/944095635/Flutter-Desktop",
+    "description": "Flutter Desktop App Demo",
+    "stars": 35,
+    "forks": 7,
+    "languages": {
+      "Dart": 31790,
+      "C++": 25035,
+      "CMake": 19798,
+      "Swift": 2060,
+      "C": 1425,
+      "Kotlin": 121,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 257.19,
+    "S_code": 78.39,
+    "S_social": 49,
+    "S_maint": 12
+  },
+  {
+    "name": "leagueoflegends-flutter",
+    "full_name": "944095635/leagueoflegends-flutter",
+    "html_url": "https://github.com/944095635/leagueoflegends-flutter",
+    "description": "LOL，英雄联盟，Flutter 客户端",
+    "stars": 35,
+    "forks": 8,
+    "languages": {
+      "Dart": 53428,
+      "C++": 24735,
+      "CMake": 19530,
+      "Ruby": 2803,
+      "Swift": 1950,
+      "C": 1425,
+      "HTML": 1234,
+      "Kotlin": 128,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 42,
+    "contribution_score": 573.4,
+    "S_code": 102.8,
+    "S_social": 51,
+    "S_maint": 42
+  },
+  {
+    "name": "almaren",
+    "full_name": "944095635/almaren",
+    "html_url": "https://github.com/944095635/almaren",
+    "description": "Flutter 聊天界面 Chat UI almaren im",
+    "stars": 33,
+    "forks": 9,
+    "languages": {
+      "Dart": 59994,
+      "C++": 24793,
+      "CMake": 19712,
+      "Swift": 2305,
+      "C": 1488,
+      "Ruby": 1391,
+      "HTML": 1212,
+      "Kotlin": 121,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 34,
+    "contribution_score": 496.23,
+    "S_code": 108.45,
+    "S_social": 51,
+    "S_maint": 34
+  },
+  {
+    "name": "Flutter_Lemon_Cleaner",
+    "full_name": "944095635/Flutter_Lemon_Cleaner",
+    "html_url": "https://github.com/944095635/Flutter_Lemon_Cleaner",
+    "description": "Fluter Desktop Windows App",
+    "stars": 31,
+    "forks": 7,
+    "languages": {
+      "Dart": 37897,
+      "C++": 25053,
+      "CMake": 19822,
+      "GLSL": 4270,
+      "Swift": 2060,
+      "C": 1425,
+      "Kotlin": 127,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 31,
+    "contribution_score": 444.28,
+    "S_code": 88.57,
+    "S_social": 45,
+    "S_maint": 31
+  },
+  {
+    "name": "DMSkin-Soft-Hide",
+    "full_name": "944095635/DMSkin-Soft-Hide",
+    "html_url": "https://github.com/944095635/DMSkin-Soft-Hide",
+    "description": "隐藏软件&游戏的界面&任务栏图标&支持热键",
+    "stars": 22,
+    "forks": 8,
+    "languages": {
+      "C#": 15803
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 303.72,
+    "S_code": 15.43,
+    "S_social": 38,
+    "S_maint": 22
+  },
+  {
+    "name": "WindowChrome-Demo",
+    "full_name": "944095635/WindowChrome-Demo",
+    "html_url": "https://github.com/944095635/WindowChrome-Demo",
+    "description": "基于WPF WindowChrome  .NET Framework 4.5 +",
+    "stars": 15,
+    "forks": 4,
+    "languages": {
+      "C#": 3247
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 117.59,
+    "S_code": 3.17,
+    "S_social": 23,
+    "S_maint": 7
+  },
+  {
+    "name": "desktop-music-flutter",
+    "full_name": "944095635/desktop-music-flutter",
+    "html_url": "https://github.com/944095635/desktop-music-flutter",
+    "description": "flutter desktop music app demo，桌面端的Windows Music App",
+    "stars": 8,
+    "forks": 6,
+    "languages": {
+      "Dart": 86913,
+      "C++": 25917,
+      "CMake": 19732,
+      "Swift": 2813,
+      "Ruby": 2803,
+      "C": 1425,
+      "HTML": 1246,
+      "Kotlin": 134,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 258.86,
+    "S_code": 137.72,
+    "S_social": 20,
+    "S_maint": 15
+  },
+  {
+    "name": "DMSkin-BT",
+    "full_name": "944095635/DMSkin-BT",
+    "html_url": "https://github.com/944095635/DMSkin-BT",
+    "description": "BT社区 WPF客户端",
+    "stars": 8,
+    "forks": 6,
+    "languages": {
+      "C#": 118278
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 117.75,
+    "S_code": 115.51,
+    "S_social": 20,
+    "S_maint": 2
+  },
+  {
+    "name": "blur_components_flutter",
+    "full_name": "944095635/blur_components_flutter",
+    "html_url": "https://github.com/944095635/blur_components_flutter",
+    "description": "blur AppBar and NavigationBar",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Dart": 8310,
+      "Swift": 676,
+      "Kotlin": 137,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.47,
+    "S_code": 8.95,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "AnimatedSceneLogin",
+    "full_name": "944095635/AnimatedSceneLogin",
+    "html_url": "https://github.com/944095635/AnimatedSceneLogin",
+    "description": "flutter use dynamic background for login interface",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "C++": 23938,
+      "CMake": 19030,
+      "Dart": 12548,
+      "Swift": 1960,
+      "HTML": 1859,
+      "C": 1425,
+      "Kotlin": 133,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 113.75,
+    "S_code": 59.5,
+    "S_social": 7,
+    "S_maint": 7
+  },
+  {
+    "name": "NFT-App-Flutter",
+    "full_name": "944095635/NFT-App-Flutter",
+    "html_url": "https://github.com/944095635/NFT-App-Flutter",
+    "description": "NFT DEMO",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "C++": 23750,
+      "Dart": 22965,
+      "CMake": 19396,
+      "Swift": 1702,
+      "C": 1425,
+      "HTML": 1210,
+      "Kotlin": 117,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 134.47,
+    "S_code": 68.95,
+    "S_social": 5,
+    "S_maint": 9
+  },
+  {
+    "name": "design_life",
+    "full_name": "944095635/design_life",
+    "html_url": "https://github.com/944095635/design_life",
+    "description": "flutter app",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Dart": 29417,
+      "C++": 23762,
+      "CMake": 19412,
+      "Swift": 1728,
+      "C": 1425,
+      "HTML": 1218,
+      "Kotlin": 120,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 127.66,
+    "S_code": 75.31,
+    "S_social": 5,
+    "S_maint": 8
+  },
+  {
+    "name": "FlutterThemeAnimation",
+    "full_name": "944095635/FlutterThemeAnimation",
+    "html_url": "https://github.com/944095635/FlutterThemeAnimation",
+    "description": "flutter theme animation 动态背景动画",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C++": 20935,
+      "CMake": 18162,
+      "Dart": 6689,
+      "HTML": 1834,
+      "C": 1425,
+      "Swift": 1158,
+      "Kotlin": 132,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 108.6,
+    "S_code": 49.19,
+    "S_social": 2,
+    "S_maint": 8
+  },
+  {
+    "name": "flutter_close_window",
+    "full_name": "944095635/flutter_close_window",
+    "html_url": "https://github.com/944095635/flutter_close_window",
+    "description": "use flutter to close local network windows",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "C++": 39356,
+      "CMake": 20058,
+      "Dart": 17035,
+      "C": 1468,
+      "Kotlin": 259
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 86.17,
+    "S_code": 76.34,
+    "S_social": 4,
+    "S_maint": 4
+  },
+  {
+    "name": "qing_browser_flutter",
+    "full_name": "944095635/qing_browser_flutter",
+    "html_url": "https://github.com/944095635/qing_browser_flutter",
+    "description": "browser qing light",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 24432,
+      "CMake": 19718,
+      "Dart": 9220,
+      "Swift": 2046,
+      "C": 1425,
+      "Kotlin": 118,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 69.83,
+    "S_code": 55.66,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "wallpapermaker-flutter",
+    "full_name": "944095635/wallpapermaker-flutter",
+    "html_url": "https://github.com/944095635/wallpapermaker-flutter",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 25654,
+      "CMake": 19826,
+      "Dart": 15855,
+      "Swift": 2282,
+      "C": 1425,
+      "HTML": 1226,
+      "Kotlin": 128,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 112.44,
+    "S_code": 64.88,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "custom_pop_up_menu",
+    "full_name": "944095635/custom_pop_up_menu",
+    "html_url": "https://github.com/944095635/custom_pop_up_menu",
+    "description": "Wrap a widget with CustomPopupMenu, Tap or Long Press this widget, a popup menu would show in a position.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dart": 12007
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.86,
+    "S_code": 11.73,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "TEST",
+    "full_name": "944095635/TEST",
+    "html_url": "https://github.com/944095635/TEST",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  }
+]

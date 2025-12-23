@@ -1,0 +1,2348 @@
+[
+  {
+    "name": "static-html-webpack-boilerplate",
+    "full_name": "erickzhao/static-html-webpack-boilerplate",
+    "html_url": "https://github.com/erickzhao/static-html-webpack-boilerplate",
+    "description": "🔮 modern tooling for old-school static webpage development ",
+    "stars": 283,
+    "forks": 61,
+    "languages": {
+      "JavaScript": 3381,
+      "HTML": 816,
+      "SCSS": 124
+    },
+    "contributions_by_user": 51,
+    "contribution_score": 1322.11,
+    "S_code": 4.22,
+    "S_social": 405,
+    "S_maint": 51
+  },
+  {
+    "name": "invite-contributors",
+    "full_name": "erickzhao/invite-contributors",
+    "html_url": "https://github.com/erickzhao/invite-contributors",
+    "description": ":octocat: automatically invite authors of merged pull requests to your organization",
+    "stars": 35,
+    "forks": 12,
+    "languages": {
+      "JavaScript": 13309
+    },
+    "contributions_by_user": 40,
+    "contribution_score": 524.5,
+    "S_code": 13.0,
+    "S_social": 59,
+    "S_maint": 40
+  },
+  {
+    "name": "subreddit-sampler",
+    "full_name": "erickzhao/subreddit-sampler",
+    "html_url": "https://github.com/erickzhao/subreddit-sampler",
+    "description": "🎼 generate spotify playlists based on top voted subreddit links",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 18140,
+      "HTML": 2856,
+      "CSS": 1238
+    },
+    "contributions_by_user": 54,
+    "contribution_score": 562.86,
+    "S_code": 21.71,
+    "S_social": 6,
+    "S_maint": 54
+  },
+  {
+    "name": "comp-250-notes",
+    "full_name": "erickzhao/comp-250-notes",
+    "html_url": "https://github.com/erickzhao/comp-250-notes",
+    "description": "Notes taken in COMP 250 in Winter 2016",
+    "stars": 6,
+    "forks": 3,
+    "languages": {},
+    "contributions_by_user": 22,
+    "contribution_score": 244.0,
+    "S_code": 0.0,
+    "S_social": 12,
+    "S_maint": 22
+  },
+  {
+    "name": "ericktron",
+    "full_name": "erickzhao/ericktron",
+    "html_url": "https://github.com/erickzhao/ericktron",
+    "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "C++": 3381085,
+      "TypeScript": 1509267,
+      "Objective-C++": 403174,
+      "JavaScript": 366528,
+      "HTML": 191830,
+      "Python": 123072,
+      "Objective-C": 44207,
+      "Shell": 5183,
+      "Batchfile": 2746,
+      "C": 2538,
+      "CSS": 2461,
+      "PowerShell": 558,
+      "CoffeeScript": 21
+    },
+    "contributions_by_user": 85,
+    "contribution_score": 3803.64,
+    "S_code": 5891.28,
+    "S_social": 4,
+    "S_maint": 85
+  },
+  {
+    "name": "ericktron-forge",
+    "full_name": "erickzhao/ericktron-forge",
+    "html_url": "https://github.com/erickzhao/ericktron-forge",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2573,
+      "HTML": 257,
+      "Shell": 193,
+      "CSS": 166
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 47.56,
+    "S_code": 3.11,
+    "S_social": 3,
+    "S_maint": 4
+  },
+  {
+    "name": "gatsby-source-itchio",
+    "full_name": "erickzhao/gatsby-source-itchio",
+    "html_url": "https://github.com/erickzhao/gatsby-source-itchio",
+    "description": "🕹 itch.io server-side API as a data source for GatsbyJS",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 1142
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 190.56,
+    "S_code": 1.12,
+    "S_social": 5,
+    "S_maint": 18
+  },
+  {
+    "name": "electron-discord",
+    "full_name": "erickzhao/electron-discord",
+    "html_url": "https://github.com/erickzhao/electron-discord",
+    "description": "Discord bot for Electron Discord Server",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 70106,
+      "JavaScript": 115,
+      "Shell": 43
+    },
+    "contributions_by_user": 35,
+    "contribution_score": 394.31,
+    "S_code": 68.62,
+    "S_social": 5,
+    "S_maint": 35
+  },
+  {
+    "name": "sobbing-rabbits",
+    "full_name": "erickzhao/sobbing-rabbits",
+    "html_url": "https://github.com/erickzhao/sobbing-rabbits",
+    "description": "🐇 no more tears (BDC hackathon 2019 winner)",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 33182,
+      "Python": 8788,
+      "HTML": 1561,
+      "CSS": 1046
+    },
+    "contributions_by_user": 37,
+    "contribution_score": 397.77,
+    "S_code": 43.53,
+    "S_social": 3,
+    "S_maint": 37
+  },
+  {
+    "name": "apps",
+    "full_name": "erickzhao/apps",
+    "html_url": "https://github.com/erickzhao/apps",
+    "description": "A collection of apps built on Electron",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 64235,
+      "Shell": 920
+    },
+    "contributions_by_user": 33,
+    "contribution_score": 365.81,
+    "S_code": 63.63,
+    "S_social": 2,
+    "S_maint": 33
+  },
+  {
+    "name": "lebrun-lab",
+    "full_name": "erickzhao/lebrun-lab",
+    "html_url": "https://github.com/erickzhao/lebrun-lab",
+    "description": "🔬 Website for the Jean-Jacques Lebrun Laboratory",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 36810,
+      "Sass": 3142,
+      "SCSS": 2492
+    },
+    "contributions_by_user": 188,
+    "contribution_score": 1904.72,
+    "S_code": 41.45,
+    "S_social": 2,
+    "S_maint": 188
+  },
+  {
+    "name": "webdriverio",
+    "full_name": "erickzhao/webdriverio",
+    "html_url": "https://github.com/erickzhao/webdriverio",
+    "description": "Next-gen WebDriver test automation framework for Node.js",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1926379,
+      "HTML": 19774,
+      "CSS": 18298,
+      "TypeScript": 16152,
+      "Gherkin": 2434,
+      "Ruby": 122
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 972.34,
+    "S_code": 1936.68,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "chromedriver",
+    "full_name": "erickzhao/chromedriver",
+    "html_url": "https://github.com/erickzhao/chromedriver",
+    "description": "Download ChromeDriver for Electron",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3006
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.47,
+    "S_code": 2.94,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "windows-version-map",
+    "full_name": "erickzhao/windows-version-map",
+    "html_url": "https://github.com/erickzhao/windows-version-map",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2512
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 73.23,
+    "S_code": 2.45,
+    "S_social": 1,
+    "S_maint": 7
+  },
+  {
+    "name": "erickzhao",
+    "full_name": "erickzhao/erickzhao",
+    "html_url": "https://github.com/erickzhao/erickzhao",
+    "description": "howdy",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 9,
+    "contribution_score": 92.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 9
+  },
+  {
+    "name": "packages-latest-redirect",
+    "full_name": "erickzhao/packages-latest-redirect",
+    "html_url": "https://github.com/erickzhao/packages-latest-redirect",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2052
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 23.0,
+    "S_code": 2.0,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "electron-quick-start",
+    "full_name": "erickzhao/electron-quick-start",
+    "html_url": "https://github.com/erickzhao/electron-quick-start",
+    "description": "Clone to try a simple Electron app",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2124,
+      "HTML": 637,
+      "CSS": 79
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.39,
+    "S_code": 2.77,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "erickzhao.github.io",
+    "full_name": "erickzhao/erickzhao.github.io",
+    "html_url": "https://github.com/erickzhao/erickzhao.github.io",
+    "description": "👀 personal webpage",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Liquid": 484
+    },
+    "contributions_by_user": 157,
+    "contribution_score": 1572.24,
+    "S_code": 0.47,
+    "S_social": 1,
+    "S_maint": 157
+  },
+  {
+    "name": ".github",
+    "full_name": "erickzhao/.github",
+    "html_url": "https://github.com/erickzhao/.github",
+    "description": "organization-wide defaults for all electron/* repos",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "trop",
+    "full_name": "erickzhao/trop",
+    "html_url": "https://github.com/erickzhao/trop",
+    "description": "automate the backporting process",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 96048,
+      "JavaScript": 310,
+      "Dockerfile": 194,
+      "Shell": 58
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 49.17,
+    "S_code": 94.35,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "fuses",
+    "full_name": "erickzhao/fuses",
+    "html_url": "https://github.com/erickzhao/fuses",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 12667,
+      "JavaScript": 5416,
+      "Shell": 70
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.86,
+    "S_code": 17.73,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "jubilant-robot",
+    "full_name": "erickzhao/jubilant-robot",
+    "html_url": "https://github.com/erickzhao/jubilant-robot",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2269
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 83.11,
+    "S_code": 2.22,
+    "S_social": 1,
+    "S_maint": 8
+  },
+  {
+    "name": "electron-forge-demo123",
+    "full_name": "erickzhao/electron-forge-demo123",
+    "html_url": "https://github.com/erickzhao/electron-forge-demo123",
+    "description": "Electron Demos based on the Electron Forge templates",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Shell": 5471,
+      "JavaScript": 4403,
+      "HTML": 138
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 26.89,
+    "S_code": 9.78,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "node-ffi-napi",
+    "full_name": "erickzhao/node-ffi-napi",
+    "html_url": "https://github.com/erickzhao/node-ffi-napi",
+    "description": "A foreign function interface (FFI) for Node.js, N-API style",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 67217,
+      "C++": 33038,
+      "Python": 1617,
+      "C": 1364
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 52.41,
+    "S_code": 100.82,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "electronegativity",
+    "full_name": "erickzhao/electronegativity",
+    "html_url": "https://github.com/erickzhao/electronegativity",
+    "description": "Electronegativity is a tool to identify misconfigurations and security anti-patterns in Electron applications.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 217526,
+      "TypeScript": 17738,
+      "HTML": 11690
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 122.58,
+    "S_code": 241.17,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "desktop-test-fixture",
+    "full_name": "erickzhao/desktop-test-fixture",
+    "html_url": "https://github.com/erickzhao/desktop-test-fixture",
+    "description": "a fake repository with git commits",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 15,
+    "contribution_score": 152.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 15
+  },
+  {
+    "name": "mobx",
+    "full_name": "erickzhao/mobx",
+    "html_url": "https://github.com/erickzhao/mobx",
+    "description": "Simple, scalable state management.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 738954,
+      "JavaScript": 596314,
+      "HTML": 29626,
+      "CSS": 4166,
+      "Shell": 63
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 670.52,
+    "S_code": 1337.03,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "cation",
+    "full_name": "erickzhao/cation",
+    "html_url": "https://github.com/erickzhao/cation",
+    "description": "Electron's PR monitoring bot",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 4308
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.1,
+    "S_code": 4.21,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "docusaurus",
+    "full_name": "erickzhao/docusaurus",
+    "html_url": "https://github.com/erickzhao/docusaurus",
+    "description": "Easy to maintain open source documentation websites.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1312803,
+      "JavaScript": 294765,
+      "CSS": 45454,
+      "Shell": 1551,
+      "EJS": 553
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 810.17,
+    "S_code": 1616.33,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "lunawork",
+    "full_name": "erickzhao/lunawork",
+    "html_url": "https://github.com/erickzhao/lunawork",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 61218
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 31.89,
+    "S_code": 59.78,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "discord-open-source",
+    "full_name": "erickzhao/discord-open-source",
+    "html_url": "https://github.com/erickzhao/discord-open-source",
+    "description": "List of open source communities living on Discord",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3475
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.7,
+    "S_code": 3.39,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "electron-forge-docs",
+    "full_name": "erickzhao/electron-forge-docs",
+    "html_url": "https://github.com/erickzhao/electron-forge-docs",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "fiddle",
+    "full_name": "erickzhao/fiddle",
+    "html_url": "https://github.com/erickzhao/fiddle",
+    "description": ":electron: 🚀 The easiest way to get started with Electron",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 686753,
+      "JavaScript": 50612,
+      "Less": 21332,
+      "HTML": 4105,
+      "Shell": 711
+    },
+    "contributions_by_user": 127,
+    "contribution_score": 1644.81,
+    "S_code": 745.62,
+    "S_social": 1,
+    "S_maint": 127
+  },
+  {
+    "name": "gros-jortcele",
+    "full_name": "erickzhao/gros-jortcele",
+    "html_url": "https://github.com/erickzhao/gros-jortcele",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6741,
+      "CSS": 1395
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 75.97,
+    "S_code": 7.95,
+    "S_social": 1,
+    "S_maint": 7
+  },
+  {
+    "name": "bugbot",
+    "full_name": "erickzhao/bugbot",
+    "html_url": "https://github.com/erickzhao/bugbot",
+    "description": "Making life easier for people who report or triage Electron issues.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3924,
+      "TypeScript": 1008
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.41,
+    "S_code": 4.82,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "blueprint",
+    "full_name": "erickzhao/blueprint",
+    "html_url": "https://github.com/erickzhao/blueprint",
+    "description": "A React-based UI toolkit for the web",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3426401,
+      "SCSS": 340453,
+      "JavaScript": 73731,
+      "Shell": 15210,
+      "HTML": 11816
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1890.48,
+    "S_code": 3776.96,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "docsearch-configs",
+    "full_name": "erickzhao/docsearch-configs",
+    "html_url": "https://github.com/erickzhao/docsearch-configs",
+    "description": "DocSearch - Configurations",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Shell": 2444
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.19,
+    "S_code": 2.39,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "didactic-octo-bassoon",
+    "full_name": "erickzhao/didactic-octo-bassoon",
+    "html_url": "https://github.com/erickzhao/didactic-octo-bassoon",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1608,
+      "HTML": 599
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 23.08,
+    "S_code": 2.16,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "cerebral",
+    "full_name": "erickzhao/cerebral",
+    "html_url": "https://github.com/erickzhao/cerebral",
+    "description": "Declarative state and side effects management for popular JavaScript frameworks",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 51491,
+      "CSS": 12844,
+      "HTML": 1058
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 33.93,
+    "S_code": 63.86,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "get-slack-magic-link",
+    "full_name": "erickzhao/get-slack-magic-link",
+    "html_url": "https://github.com/erickzhao/get-slack-magic-link",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2775
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.35,
+    "S_code": 2.71,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "artwork",
+    "full_name": "erickzhao/artwork",
+    "html_url": "https://github.com/erickzhao/artwork",
+    "description": "Artwork for OpenJS Foundation and hosted projects",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "csgo",
+    "full_name": "erickzhao/csgo",
+    "html_url": "https://github.com/erickzhao/csgo",
+    "description": "🔫  Like dotfiles, but for Counter Strike.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 32.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "graduation",
+    "full_name": "erickzhao/graduation",
+    "html_url": "https://github.com/erickzhao/graduation",
+    "description": "$ git remote <graduation> yearbook ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "wdio-test",
+    "full_name": "erickzhao/wdio-test",
+    "html_url": "https://github.com/erickzhao/wdio-test",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 12.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "wdio-chromedriver-service",
+    "full_name": "erickzhao/wdio-chromedriver-service",
+    "html_url": "https://github.com/erickzhao/wdio-chromedriver-service",
+    "description": "WebdriverIO service to start & stop ChromeDriver",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 20754
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.13,
+    "S_code": 20.27,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "devtron",
+    "full_name": "erickzhao/devtron",
+    "html_url": "https://github.com/erickzhao/devtron",
+    "description": "An Electron DevTools Extension",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 68900,
+      "HTML": 21060,
+      "CSS": 5909
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 48.81,
+    "S_code": 93.62,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "DefinitelyTyped",
+    "full_name": "erickzhao/DefinitelyTyped",
+    "html_url": "https://github.com/erickzhao/DefinitelyTyped",
+    "description": "The repository for high quality TypeScript type definitions.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 30107273,
+      "JavaScript": 8633,
+      "Shell": 706
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14707.38,
+    "S_code": 29410.75,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "bread-gang.github.io",
+    "full_name": "erickzhao/bread-gang.github.io",
+    "html_url": "https://github.com/erickzhao/bread-gang.github.io",
+    "description": "🍞HomePage",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 11490,
+      "Ruby": 8297,
+      "CSS": 73
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 31.7,
+    "S_code": 19.39,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "cors-playground",
+    "full_name": "erickzhao/cors-playground",
+    "html_url": "https://github.com/erickzhao/cors-playground",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6750,
+      "HTML": 1598,
+      "CSS": 872
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 26.5,
+    "S_code": 9.0,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "codeinthedark.github.io",
+    "full_name": "erickzhao/codeinthedark.github.io",
+    "html_url": "https://github.com/erickzhao/codeinthedark.github.io",
+    "description": "Code in the Dark website",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 1324390,
+      "CSS": 4691,
+      "JavaScript": 480
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 651.2,
+    "S_code": 1298.4,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "aframe-explorations",
+    "full_name": "erickzhao/aframe-explorations",
+    "html_url": "https://github.com/erickzhao/aframe-explorations",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 7066
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 145.45,
+    "S_code": 6.9,
+    "S_social": 1,
+    "S_maint": 14
+  },
+  {
+    "name": "awesome-campus-expert",
+    "full_name": "erickzhao/awesome-campus-expert",
+    "html_url": "https://github.com/erickzhao/awesome-campus-expert",
+    "description": "🕶 An awesome list of resources for campus experts! 🕶",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "comp424",
+    "full_name": "erickzhao/comp424",
+    "html_url": "https://github.com/erickzhao/comp424",
+    "description": "Final project for comp 424",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 151189
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 295.82,
+    "S_code": 147.65,
+    "S_social": 1,
+    "S_maint": 22
+  },
+  {
+    "name": "ClassRatesStarter",
+    "full_name": "erickzhao/ClassRatesStarter",
+    "html_url": "https://github.com/erickzhao/ClassRatesStarter",
+    "description": "Starter template for the class rates app workshp",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 7286,
+      "HTML": 4638,
+      "CSS": 1180
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 18.4,
+    "S_code": 12.8,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "digital_systems",
+    "full_name": "erickzhao/digital_systems",
+    "html_url": "https://github.com/erickzhao/digital_systems",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "VHDL": 10146
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 66.95,
+    "S_code": 9.91,
+    "S_social": 1,
+    "S_maint": 6
+  },
+  {
+    "name": "ice-code-beer",
+    "full_name": "erickzhao/ice-code-beer",
+    "html_url": "https://github.com/erickzhao/ice-code-beer",
+    "description": "lil tipsy 2-hour coding session",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9877,
+      "HTML": 1590,
+      "CSS": 501
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 107.84,
+    "S_code": 11.69,
+    "S_social": 1,
+    "S_maint": 10
+  },
+  {
+    "name": "artificial_intelligence",
+    "full_name": "erickzhao/artificial_intelligence",
+    "html_url": "https://github.com/erickzhao/artificial_intelligence",
+    "description": "Code for COMP424 (Artificial Intelligence) W2018",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 7800
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 215.81,
+    "S_code": 7.62,
+    "S_social": 1,
+    "S_maint": 21
+  },
+  {
+    "name": "aifred",
+    "full_name": "erickzhao/aifred",
+    "html_url": "https://github.com/erickzhao/aifred",
+    "description": "Original landing webpage for aifred health",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "CSS": 13988,
+      "HTML": 8712,
+      "JavaScript": 2154
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 244.14,
+    "S_code": 24.27,
+    "S_social": 1,
+    "S_maint": 23
+  },
+  {
+    "name": "DPM-Final-Project",
+    "full_name": "erickzhao/DPM-Final-Project",
+    "html_url": "https://github.com/erickzhao/DPM-Final-Project",
+    "description": "🤖Final Project for Team 6 in ECSE 211 - Design Principles & Methods",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 125826
+    },
+    "contributions_by_user": 40,
+    "contribution_score": 463.44,
+    "S_code": 122.88,
+    "S_social": 1,
+    "S_maint": 40
+  },
+  {
+    "name": "DPM-Lab-4-Localization",
+    "full_name": "erickzhao/DPM-Lab-4-Localization",
+    "html_url": "https://github.com/erickzhao/DPM-Lab-4-Localization",
+    "description": "Lab 4 for ECSE 211 - Design Principles and Methods",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 20345
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 61.93,
+    "S_code": 19.87,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "DPM-Lab-3-Navigation",
+    "full_name": "erickzhao/DPM-Lab-3-Navigation",
+    "html_url": "https://github.com/erickzhao/DPM-Lab-3-Navigation",
+    "description": "Lab 3 for ECSE 211 - Design Principles and Methods",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 19406
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 131.48,
+    "S_code": 18.95,
+    "S_social": 1,
+    "S_maint": 12
+  },
+  {
+    "name": "Event-Registration-Application",
+    "full_name": "erickzhao/Event-Registration-Application",
+    "html_url": "https://github.com/erickzhao/Event-Registration-Application",
+    "description": "Simple multi-platform event registration application",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Java": 48222
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 139.55,
+    "S_code": 47.09,
+    "S_social": 3,
+    "S_maint": 11
+  },
+  {
+    "name": "lerna-v9-oidc-publishing-example",
+    "full_name": "erickzhao/lerna-v9-oidc-publishing-example",
+    "html_url": "https://github.com/erickzhao/lerna-v9-oidc-publishing-example",
+    "description": "Example of trusted publishing with the upcoming lerna v9.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 75
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.04,
+    "S_code": 0.07,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "berry",
+    "full_name": "erickzhao/berry",
+    "html_url": "https://github.com/erickzhao/berry",
+    "description": "📦🐈 Active development trunk for Yarn ⚒",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3085382,
+      "JavaScript": 459212,
+      "Shell": 48608,
+      "PEG.js": 9776,
+      "Perl": 4726,
+      "C": 1334,
+      "Dockerfile": 680,
+      "PowerShell": 175,
+      "Prolog": 168,
+      "Batchfile": 84
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1762.77,
+    "S_code": 3525.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "build-tools-installer",
+    "full_name": "erickzhao/build-tools-installer",
+    "html_url": "https://github.com/erickzhao/build-tools-installer",
+    "description": "Installer for Electron's wrapper toolkit for working with Electron.js source code",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3308
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.62,
+    "S_code": 3.23,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "build-tools",
+    "full_name": "erickzhao/build-tools",
+    "html_url": "https://github.com/erickzhao/build-tools",
+    "description": "The GN scripts to use for Electron dev-flows",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 143327,
+      "Batchfile": 1769,
+      "Shell": 765
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 71.22,
+    "S_code": 142.44,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "redirect",
+    "full_name": "erickzhao/redirect",
+    "html_url": "https://github.com/erickzhao/redirect",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2742
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 21.34,
+    "S_code": 2.68,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "electron-windows-msix",
+    "full_name": "erickzhao/electron-windows-msix",
+    "html_url": "https://github.com/erickzhao/electron-windows-msix",
+    "description": "MSIX packager for Electron Apps",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 137295,
+      "JavaScript": 3686,
+      "PowerShell": 1278
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 69.46,
+    "S_code": 138.92,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "patch-conflict-fixer",
+    "full_name": "erickzhao/patch-conflict-fixer",
+    "html_url": "https://github.com/erickzhao/patch-conflict-fixer",
+    "description": "Bots are cool",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 8254
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.03,
+    "S_code": 8.06,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "unreleased",
+    "full_name": "erickzhao/unreleased",
+    "html_url": "https://github.com/erickzhao/unreleased",
+    "description": "Checks for and reports commits unreleased for a specific release branch.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 35020
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.1,
+    "S_code": 34.2,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "docs-reviewer",
+    "full_name": "erickzhao/docs-reviewer",
+    "html_url": "https://github.com/erickzhao/docs-reviewer",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3533
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.73,
+    "S_code": 3.45,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "clippy",
+    "full_name": "erickzhao/clippy",
+    "html_url": "https://github.com/erickzhao/clippy",
+    "description": "📎 Clippy, now with some AI",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 170527,
+      "Shell": 12205,
+      "CSS": 2380,
+      "HTML": 220
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 90.49,
+    "S_code": 180.99,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "electron-versions",
+    "full_name": "erickzhao/electron-versions",
+    "html_url": "https://github.com/erickzhao/electron-versions",
+    "description": "Get Electron and Chromium versions for tags in a given repository",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 8649,
+      "JavaScript": 3731
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 76.04,
+    "S_code": 12.09,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "listr2",
+    "full_name": "erickzhao/listr2",
+    "html_url": "https://github.com/erickzhao/listr2",
+    "description": "NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 257648,
+      "JavaScript": 4525,
+      "Shell": 762
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 128.39,
+    "S_code": 256.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "electron-forge-repros",
+    "full_name": "erickzhao/electron-forge-repros",
+    "html_url": "https://github.com/erickzhao/electron-forge-repros",
+    "description": "Sandbox",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2854,
+      "HTML": 257,
+      "CSS": 166
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.6,
+    "S_code": 3.2,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "pnpm.io",
+    "full_name": "erickzhao/pnpm.io",
+    "html_url": "https://github.com/erickzhao/pnpm.io",
+    "description": "pnpm's website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4524889,
+      "HTML": 35570,
+      "Pug": 11849,
+      "CSS": 7747,
+      "TypeScript": 6995,
+      "Handlebars": 142,
+      "Shell": 12
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2239.85,
+    "S_code": 4479.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tsup-dual-export-demo",
+    "full_name": "erickzhao/tsup-dual-export-demo",
+    "html_url": "https://github.com/erickzhao/tsup-dual-export-demo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 722
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.35,
+    "S_code": 0.71,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "get-tester",
+    "full_name": "erickzhao/get-tester",
+    "html_url": "https://github.com/erickzhao/get-tester",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 242
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.12,
+    "S_code": 0.24,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "get-diff-tester",
+    "full_name": "erickzhao/get-diff-tester",
+    "html_url": "https://github.com/erickzhao/get-diff-tester",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "require-esm-test",
+    "full_name": "erickzhao/require-esm-test",
+    "html_url": "https://github.com/erickzhao/require-esm-test",
+    "description": "Testing `require(esm)` in Jest and Vitest",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 569,
+      "JavaScript": 156
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.35,
+    "S_code": 0.71,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "electron-devtools-installer",
+    "full_name": "erickzhao/electron-devtools-installer",
+    "html_url": "https://github.com/erickzhao/electron-devtools-installer",
+    "description": "An easy way to ensure Chrome DevTools extensions into Electron",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 17831
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.71,
+    "S_code": 17.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "notarize",
+    "full_name": "erickzhao/notarize",
+    "html_url": "https://github.com/erickzhao/notarize",
+    "description": "Notarize your macOS Electron Apps",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 26109,
+      "JavaScript": 69
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 152.78,
+    "S_code": 25.56,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "unist-util-inspect",
+    "full_name": "erickzhao/unist-util-inspect",
+    "html_url": "https://github.com/erickzhao/unist-util-inspect",
+    "description": "utility to inspect nodes",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 26856
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.11,
+    "S_code": 26.23,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "viterick-7.4.0",
+    "full_name": "erickzhao/viterick-7.4.0",
+    "html_url": "https://github.com/erickzhao/viterick-7.4.0",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 10477,
+      "HTML": 271,
+      "CSS": 166
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 15.33,
+    "S_code": 10.66,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "viterick-7.2.0",
+    "full_name": "erickzhao/viterick-7.2.0",
+    "html_url": "https://github.com/erickzhao/viterick-7.2.0",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4487,
+      "HTML": 270,
+      "CSS": 166
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.4,
+    "S_code": 4.81,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "circleci-oidc-secret-exchange",
+    "full_name": "erickzhao/circleci-oidc-secret-exchange",
+    "html_url": "https://github.com/erickzhao/circleci-oidc-secret-exchange",
+    "description": "Provides dynamic access to secrets in exchange for a valid OIDC token",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 22651,
+      "JavaScript": 123,
+      "Shell": 70
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.15,
+    "S_code": 22.31,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "maker-pkg-test",
+    "full_name": "erickzhao/maker-pkg-test",
+    "html_url": "https://github.com/erickzhao/maker-pkg-test",
+    "description": "testing install scripts",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2954,
+      "HTML": 257,
+      "Shell": 200,
+      "CSS": 166
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 21.75,
+    "S_code": 3.49,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "typedoc-repro",
+    "full_name": "erickzhao/typedoc-repro",
+    "html_url": "https://github.com/erickzhao/typedoc-repro",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 518
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.25,
+    "S_code": 0.51,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "windows-sign",
+    "full_name": "erickzhao/windows-sign",
+    "html_url": "https://github.com/erickzhao/windows-sign",
+    "description": "Codesign Electron apps for Windows",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 22783,
+      "JavaScript": 1014
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.62,
+    "S_code": 23.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "osx-sign",
+    "full_name": "erickzhao/osx-sign",
+    "html_url": "https://github.com/erickzhao/osx-sign",
+    "description": "Codesign Electron macOS apps",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 39533,
+      "JavaScript": 5770,
+      "Shell": 796
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 62.51,
+    "S_code": 45.02,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "governance-check",
+    "full_name": "erickzhao/governance-check",
+    "html_url": "https://github.com/erickzhao/governance-check",
+    "description": "Check Electron governance membership status and casing.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4480
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.19,
+    "S_code": 4.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "expect-webdriverio",
+    "full_name": "erickzhao/expect-webdriverio",
+    "html_url": "https://github.com/erickzhao/expect-webdriverio",
+    "description": "WebdriverIO Assertion Library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 159214,
+      "JavaScript": 3462,
+      "Shell": 27
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 79.44,
+    "S_code": 158.89,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "expect-webdriverio-async-test",
+    "full_name": "erickzhao/expect-webdriverio-async-test",
+    "html_url": "https://github.com/erickzhao/expect-webdriverio-async-test",
+    "description": "testing expect-webdriverio matchers with TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 14062
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 56.87,
+    "S_code": 13.73,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "minicrossword-bot",
+    "full_name": "erickzhao/minicrossword-bot",
+    "html_url": "https://github.com/erickzhao/minicrossword-bot",
+    "description": "A Discord bot that keeps track of user-submitted scores for the NYT minicrossword in a db file.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 15618,
+      "TSQL": 301
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.77,
+    "S_code": 15.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "siberianmh",
+    "full_name": "erickzhao/siberianmh",
+    "html_url": "https://github.com/erickzhao/siberianmh",
+    "description": "All our open-source projects inside a single place.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 164437,
+      "Starlark": 14495,
+      "JavaScript": 1903,
+      "Shell": 63
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 88.33,
+    "S_code": 176.66,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "electronjs.org",
+    "full_name": "erickzhao/electronjs.org",
+    "html_url": "https://github.com/erickzhao/electronjs.org",
+    "description": "Electron website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Handlebars": 123493,
+      "JavaScript": 116886,
+      "SCSS": 56261,
+      "Shell": 1199,
+      "CSS": 1148
+    },
+    "contributions_by_user": 39,
+    "contribution_score": 535.99,
+    "S_code": 291.98,
+    "S_social": 0,
+    "S_maint": 39
+  },
+  {
+    "name": "tocbot",
+    "full_name": "erickzhao/tocbot",
+    "html_url": "https://github.com/erickzhao/tocbot",
+    "description": "Build a table of contents from headings in an HTML document.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 56305,
+      "HTML": 22703,
+      "SCSS": 4349,
+      "Shell": 1242
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 41.31,
+    "S_code": 82.62,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mdast-util-heading-range",
+    "full_name": "erickzhao/mdast-util-heading-range",
+    "html_url": "https://github.com/erickzhao/mdast-util-heading-range",
+    "description": "utility to use headings as ranges in mdast",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9465
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.62,
+    "S_code": 9.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sleuth",
+    "full_name": "erickzhao/sleuth",
+    "html_url": "https://github.com/erickzhao/sleuth",
+    "description": "🕵️‍♂️ A Slack log viewer",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 315794,
+      "Less": 13612,
+      "JavaScript": 9945,
+      "HTML": 3394,
+      "CSS": 839,
+      "Shell": 648
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 168.08,
+    "S_code": 336.16,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "electron-installer-zip",
+    "full_name": "erickzhao/electron-installer-zip",
+    "html_url": "https://github.com/erickzhao/electron-installer-zip",
+    "description": "Create a ZIP file with support for symlinks required by Electron on macOS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4815
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.35,
+    "S_code": 4.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "expert-octo-sniffle",
+    "full_name": "erickzhao/expert-octo-sniffle",
+    "html_url": "https://github.com/erickzhao/expert-octo-sniffle",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1437,
+      "HTML": 253,
+      "CSS": 162
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.9,
+    "S_code": 1.81,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "electron-default-menu",
+    "full_name": "erickzhao/electron-default-menu",
+    "html_url": "https://github.com/erickzhao/electron-default-menu",
+    "description": "Default application menu for Electron apps",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3845
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.88,
+    "S_code": 3.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "upgraded-bassoon",
+    "full_name": "erickzhao/upgraded-bassoon",
+    "html_url": "https://github.com/erickzhao/upgraded-bassoon",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 674
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.33,
+    "S_code": 0.66,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "electronmon",
+    "full_name": "erickzhao/electronmon",
+    "html_url": "https://github.com/erickzhao/electronmon",
+    "description": "🖥 run, watch, and restart electron apps using magic",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 18272,
+      "HTML": 409
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.12,
+    "S_code": 18.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "slack-old-joe",
+    "full_name": "erickzhao/slack-old-joe",
+    "html_url": "https://github.com/erickzhao/slack-old-joe",
+    "description": "🚬 Smoke testing for runtime upgrades",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 206727,
+      "JavaScript": 6029,
+      "PowerShell": 4579,
+      "HTML": 2413,
+      "CSS": 1448
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 108.01,
+    "S_code": 216.01,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "twitter-together",
+    "full_name": "erickzhao/twitter-together",
+    "html_url": "https://github.com/erickzhao/twitter-together",
+    "description": ":bird: A GitHub action to tweet from a repository",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 44739
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 21.85,
+    "S_code": 43.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "neutralinojs",
+    "full_name": "erickzhao/neutralinojs",
+    "html_url": "https://github.com/erickzhao/neutralinojs",
+    "description": "Portable and lightweight cross platform application development framework",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 2259723,
+      "JavaScript": 29083,
+      "CMake": 8011,
+      "HTML": 7149,
+      "Shell": 5533,
+      "CSS": 5444,
+      "Batchfile": 4677,
+      "Objective-C": 1203,
+      "Dockerfile": 764,
+      "C": 278,
+      "Makefile": 129
+    },
+    "contributions_by_user": 43,
+    "contribution_score": 1563.79,
+    "S_code": 2267.57,
+    "S_social": 0,
+    "S_maint": 43
+  },
+  {
+    "name": "linguist",
+    "full_name": "erickzhao/linguist",
+    "html_url": "https://github.com/erickzhao/linguist",
+    "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 236783,
+      "C": 75670,
+      "Go": 25483,
+      "Lex": 3966,
+      "Shell": 1840,
+      "Dockerfile": 903
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 168.28,
+    "S_code": 336.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "yet-another-helloworld",
+    "full_name": "erickzhao/yet-another-helloworld",
+    "html_url": "https://github.com/erickzhao/yet-another-helloworld",
+    "description": "A „Hello World!” sample written in Java that showcases very simple unit and integration tests.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 9926,
+      "Shell": 478,
+      "Dockerfile": 69
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 15.11,
+    "S_code": 10.23,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "node-minidump",
+    "full_name": "erickzhao/node-minidump",
+    "html_url": "https://github.com/erickzhao/node-minidump",
+    "description": "Node module to process minidump files",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 15548
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.59,
+    "S_code": 15.18,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "front-end-conferences",
+    "full_name": "erickzhao/front-end-conferences",
+    "html_url": "https://github.com/erickzhao/front-end-conferences",
+    "description": "This is a list of upcoming front-end related conferences.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ecse437-jobconsumer",
+    "full_name": "erickzhao/ecse437-jobconsumer",
+    "html_url": "https://github.com/erickzhao/ecse437-jobconsumer",
+    "description": "Repository for ECSE 437 - Lab 2 Part 2",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 1898
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.93,
+    "S_code": 1.85,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "ecse437-jobcreator",
+    "full_name": "erickzhao/ecse437-jobcreator",
+    "html_url": "https://github.com/erickzhao/ecse437-jobcreator",
+    "description": "Repository for ECSE 437 - Lab 2 Part 1 ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Makefile": 22856,
+      "C": 21882,
+      "C++": 19635,
+      "CMake": 17516
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 49.98,
+    "S_code": 79.97,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "enzyme",
+    "full_name": "erickzhao/enzyme",
+    "html_url": "https://github.com/erickzhao/enzyme",
+    "description": "JavaScript Testing utilities for React",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 915626,
+      "Shell": 211
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 447.19,
+    "S_code": 894.37,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hackerAPI-frontend",
+    "full_name": "erickzhao/hackerAPI-frontend",
+    "html_url": "https://github.com/erickzhao/hackerAPI-frontend",
+    "description": "🐥 Front-end for hacker registration system",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 384448,
+      "HTML": 5192
+    },
+    "contributions_by_user": 140,
+    "contribution_score": 1590.25,
+    "S_code": 380.51,
+    "S_social": 0,
+    "S_maint": 140
+  },
+  {
+    "name": "maven2bazel",
+    "full_name": "erickzhao/maven2bazel",
+    "html_url": "https://github.com/erickzhao/maven2bazel",
+    "description": "Maven to Bazel exercise for ECSE 437",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 725,
+      "Java": 296
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.5,
+    "S_code": 1.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "helloworld",
+    "full_name": "erickzhao/helloworld",
+    "html_url": "https://github.com/erickzhao/helloworld",
+    "description": "A hello world exercise for ECSE 437",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 449
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.22,
+    "S_code": 0.44,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "homebrew-cask",
+    "full_name": "erickzhao/homebrew-cask",
+    "html_url": "https://github.com/erickzhao/homebrew-cask",
+    "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 2091988,
+      "Shell": 34662,
+      "Python": 3532,
+      "Dockerfile": 546
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1040.39,
+    "S_code": 2080.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "roller",
+    "full_name": "erickzhao/roller",
+    "html_url": "https://github.com/erickzhao/roller",
+    "description": "🎵rollin on upstream 🎵",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 31500,
+      "JavaScript": 186
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 105.47,
+    "S_code": 30.94,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "electron-reload",
+    "full_name": "erickzhao/electron-reload",
+    "html_url": "https://github.com/erickzhao/electron-reload",
+    "description": "Simplest (:pray:) way to reload an electron app on file changes!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2945
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.44,
+    "S_code": 2.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gatsby-advanced-starter",
+    "full_name": "erickzhao/gatsby-advanced-starter",
+    "html_url": "https://github.com/erickzhao/gatsby-advanced-starter",
+    "description": "A high performance skeleton starter for GatsbyJS that focuses on SEO/Social features/development environment.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 29481,
+      "CSS": 3619
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 26.16,
+    "S_code": 32.32,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "gmail-selenium-test",
+    "full_name": "erickzhao/gmail-selenium-test",
+    "html_url": "https://github.com/erickzhao/gmail-selenium-test",
+    "description": "🥒 Cucumber in Agile Story Test Automation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 17774,
+      "Gherkin": 2592
+    },
+    "contributions_by_user": 47,
+    "contribution_score": 479.94,
+    "S_code": 19.89,
+    "S_social": 0,
+    "S_maint": 47
+  },
+  {
+    "name": "gru-data",
+    "full_name": "erickzhao/gru-data",
+    "html_url": "https://github.com/erickzhao/gru-data",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2009
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 110.98,
+    "S_code": 1.96,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "node-themekit",
+    "full_name": "erickzhao/node-themekit",
+    "html_url": "https://github.com/erickzhao/node-themekit",
+    "description": "Theme asset interaction library and management tools written in Node.js",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 11640
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 15.68,
+    "S_code": 11.37,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "eridux",
+    "full_name": "erickzhao/eridux",
+    "html_url": "https://github.com/erickzhao/eridux",
+    "description": "🐙barebones redux clone + no-nonsense todo list demo",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3445,
+      "HTML": 795
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 92.07,
+    "S_code": 4.14,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "operating_systems",
+    "full_name": "erickzhao/operating_systems",
+    "html_url": "https://github.com/erickzhao/operating_systems",
+    "description": "Code for ECSE427 (Operating Systems) ⚙️💻",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 50698
+    },
+    "contributions_by_user": 57,
+    "contribution_score": 594.75,
+    "S_code": 49.51,
+    "S_social": 0,
+    "S_maint": 57
+  },
+  {
+    "name": "slate",
+    "full_name": "erickzhao/slate",
+    "html_url": "https://github.com/erickzhao/slate",
+    "description": "Slate is a theme scaffold and command line tool for developing Shopify themes. It is designed to assist your development workflow and speed up the process of developing, testing, and deploying themes to Shopify stores.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 97515,
+      "Liquid": 93063,
+      "CSS": 21755,
+      "Ruby": 5366
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 106.3,
+    "S_code": 212.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "McHacks-Checkin",
+    "full_name": "erickzhao/McHacks-Checkin",
+    "html_url": "https://github.com/erickzhao/McHacks-Checkin",
+    "description": "Check-in and Label Printing web application for Quill",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8017,
+      "HTML": 3950,
+      "CSS": 626
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.15,
+    "S_code": 12.3,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "McHacks-Registration",
+    "full_name": "erickzhao/McHacks-Registration",
+    "html_url": "https://github.com/erickzhao/McHacks-Registration",
+    "description": "📝 Registration, for McHacks!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 127940,
+      "HTML": 94454,
+      "CSS": 76178
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 145.79,
+    "S_code": 291.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ubiheard",
+    "full_name": "erickzhao/ubiheard",
+    "html_url": "https://github.com/erickzhao/ubiheard",
+    "description": "User suggestion web app prototype made for Ubisoft Club FedEx Day 2017",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 550147,
+      "HTML": 10000,
+      "CSS": 1483
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 444.23,
+    "S_code": 548.47,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "shopify-challenge",
+    "full_name": "erickzhao/shopify-challenge",
+    "html_url": "https://github.com/erickzhao/shopify-challenge",
+    "description": "Submission for Shopify Backend Intern Challenge - Summer 2018",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6600
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 243.22,
+    "S_code": 6.45,
+    "S_social": 0,
+    "S_maint": 24
+  },
+  {
+    "name": "JavaScript30",
+    "full_name": "erickzhao/JavaScript30",
+    "html_url": "https://github.com/erickzhao/JavaScript30",
+    "description": "30-day Vanilla Javascript Challenge @ https://github.com/wesbos/JavaScript30",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9131,
+      "CSS": 4507,
+      "HTML": 3860
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 138.54,
+    "S_code": 17.09,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "react-memory-game",
+    "full_name": "erickzhao/react-memory-game",
+    "html_url": "https://github.com/erickzhao/react-memory-game",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2696,
+      "HTML": 72
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 71.35,
+    "S_code": 2.7,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "react-to-do-list",
+    "full_name": "erickzhao/react-to-do-list",
+    "html_url": "https://github.com/erickzhao/react-to-do-list",
+    "description": "baby's first react app",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4561,
+      "HTML": 150
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 82.3,
+    "S_code": 4.6,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "McGameJam.github.io",
+    "full_name": "erickzhao/McGameJam.github.io",
+    "html_url": "https://github.com/erickzhao/McGameJam.github.io",
+    "description": "McGame Jam Homepage",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 733670,
+      "CSS": 234034,
+      "HTML": 27842
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 746.11,
+    "S_code": 972.21,
+    "S_social": 0,
+    "S_maint": 26
+  },
+  {
+    "name": "DPM-Lab-5-Object-Detection",
+    "full_name": "erickzhao/DPM-Lab-5-Object-Detection",
+    "html_url": "https://github.com/erickzhao/DPM-Lab-5-Object-Detection",
+    "description": "Lab 5 for ECSE 211 - Design Principles and Methods",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 27963
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 73.65,
+    "S_code": 27.31,
+    "S_social": 0,
+    "S_maint": 6
+  }
+]

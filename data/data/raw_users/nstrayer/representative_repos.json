@@ -1,0 +1,3409 @@
+[
+  {
+    "name": "datadrivencv",
+    "full_name": "nstrayer/datadrivencv",
+    "html_url": "https://github.com/nstrayer/datadrivencv",
+    "description": "R package for building customizable CVs from spreadsheets",
+    "stars": 614,
+    "forks": 176,
+    "languages": {
+      "R": 33544,
+      "CSS": 4861,
+      "JavaScript": 2521
+    },
+    "contributions_by_user": 84,
+    "contribution_score": 2791.98,
+    "S_code": 39.97,
+    "S_social": 966,
+    "S_maint": 84
+  },
+  {
+    "name": "cv",
+    "full_name": "nstrayer/cv",
+    "html_url": "https://github.com/nstrayer/cv",
+    "description": "My CV built using RMarkdown and the pagedown package. ",
+    "stars": 535,
+    "forks": 388,
+    "languages": {
+      "HTML": 20216045,
+      "R": 10029,
+      "CSS": 4942
+    },
+    "contributions_by_user": 84,
+    "contribution_score": 13340.43,
+    "S_code": 19756.85,
+    "S_social": 1311,
+    "S_maint": 84
+  },
+  {
+    "name": "shinysense",
+    "full_name": "nstrayer/shinysense",
+    "html_url": "https://github.com/nstrayer/shinysense",
+    "description": "A bunch of shiny modules that let shiny sense the world around it. ",
+    "stars": 205,
+    "forks": 31,
+    "languages": {
+      "JavaScript": 108069,
+      "R": 38184,
+      "CSS": 3182
+    },
+    "contributions_by_user": 96,
+    "contribution_score": 1566.97,
+    "S_code": 145.93,
+    "S_social": 267,
+    "S_maint": 96
+  },
+  {
+    "name": "tuftesque",
+    "full_name": "nstrayer/tuftesque",
+    "html_url": "https://github.com/nstrayer/tuftesque",
+    "description": "A very similar style to the original tufte hugo theme but with a few modifications. Used in my blogdown blog.",
+    "stars": 54,
+    "forks": 9,
+    "languages": {
+      "HTML": 111561,
+      "CSS": 47931,
+      "JavaScript": 2168
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 262.94,
+    "S_code": 157.87,
+    "S_social": 72,
+    "S_maint": 4
+  },
+  {
+    "name": "tuftesque2",
+    "full_name": "nstrayer/tuftesque2",
+    "html_url": "https://github.com/nstrayer/tuftesque2",
+    "description": "A successor to the tuftesque blogdown theme. This time starting out as a rmarkdown theme. ",
+    "stars": 27,
+    "forks": 2,
+    "languages": {
+      "CSS": 9286,
+      "R": 2112,
+      "HTML": 2018
+    },
+    "contributions_by_user": 42,
+    "contribution_score": 488.55,
+    "S_code": 13.1,
+    "S_social": 31,
+    "S_maint": 42
+  },
+  {
+    "name": "D3ManhattanPlots",
+    "full_name": "nstrayer/D3ManhattanPlots",
+    "html_url": "https://github.com/nstrayer/D3ManhattanPlots",
+    "description": "An R HTMLWidget for making interactive manhattan plots for GWAS. ",
+    "stars": 20,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 8048,
+      "R": 3503,
+      "CSS": 339
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 57.81,
+    "S_code": 11.61,
+    "S_social": 26,
+    "S_maint": 0
+  },
+  {
+    "name": "spell_casts",
+    "full_name": "nstrayer/spell_casts",
+    "html_url": "https://github.com/nstrayer/spell_casts",
+    "description": "A shiny app for casting spells using deep learning",
+    "stars": 16,
+    "forks": 5,
+    "languages": {
+      "R": 7820
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 75.82,
+    "S_code": 7.64,
+    "S_social": 26,
+    "S_maint": 2
+  },
+  {
+    "name": "js4shiny_r2d3",
+    "full_name": "nstrayer/js4shiny_r2d3",
+    "html_url": "https://github.com/nstrayer/js4shiny_r2d3",
+    "description": "Repo for R2D3 section at the javascript for shiny users workshop at RStudio::Conf 2020",
+    "stars": 15,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 36944,
+      "R": 23246,
+      "HTML": 7924,
+      "CSS": 1821
+    },
+    "contributions_by_user": 45,
+    "contribution_score": 522.15,
+    "S_code": 68.3,
+    "S_social": 19,
+    "S_maint": 45
+  },
+  {
+    "name": "network3d",
+    "full_name": "nstrayer/network3d",
+    "html_url": "https://github.com/nstrayer/network3d",
+    "description": "Three dimensional network visualization in R using webgl/threejs. Built to be configurable and fast. ",
+    "stars": 15,
+    "forks": 2,
+    "languages": {
+      "HTML": 2102369,
+      "JavaScript": 265834,
+      "R": 9685
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 1349.08,
+    "S_code": 2322.16,
+    "S_social": 19,
+    "S_maint": 15
+  },
+  {
+    "name": "nstrayer.github.io",
+    "full_name": "nstrayer/nstrayer.github.io",
+    "html_url": "https://github.com/nstrayer/nstrayer.github.io",
+    "description": "Personal website",
+    "stars": 14,
+    "forks": 3,
+    "languages": {
+      "TypeScript": 39918,
+      "Astro": 33757,
+      "CSS": 8781,
+      "GLSL": 6221,
+      "JavaScript": 3158
+    },
+    "contributions_by_user": 60,
+    "contribution_score": 684.84,
+    "S_code": 89.68,
+    "S_social": 20,
+    "S_maint": 60
+  },
+  {
+    "name": "shinyswipr",
+    "full_name": "nstrayer/shinyswipr",
+    "html_url": "https://github.com/nstrayer/shinyswipr",
+    "description": "An R Shiny module to put swiping interfaces in your app! ",
+    "stars": 13,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 166364,
+      "CSS": 4448,
+      "R": 2339
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 118.55,
+    "S_code": 169.09,
+    "S_social": 17,
+    "S_maint": 0
+  },
+  {
+    "name": "grided",
+    "full_name": "nstrayer/grided",
+    "html_url": "https://github.com/nstrayer/grided",
+    "description": "A web-app to help you build grid-layouts for your web-app",
+    "stars": 11,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 45136,
+      "CSS": 10136,
+      "HTML": 4402
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 155.14,
+    "S_code": 58.28,
+    "S_social": 13,
+    "S_maint": 10
+  },
+  {
+    "name": "slid3r",
+    "full_name": "nstrayer/slid3r",
+    "html_url": "https://github.com/nstrayer/slid3r",
+    "description": "A simple d3 slider that is meant to be placed inside your svg. ",
+    "stars": 10,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8818
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 164.31,
+    "S_code": 8.61,
+    "S_social": 10,
+    "S_maint": 14
+  },
+  {
+    "name": "visualization_in_r",
+    "full_name": "nstrayer/visualization_in_r",
+    "html_url": "https://github.com/nstrayer/visualization_in_r",
+    "description": "A repository for the computing workshop I am giving in the Vanderbilt biostatistics department May 20. ",
+    "stars": 8,
+    "forks": 3,
+    "languages": {
+      "HTML": 22636967,
+      "JavaScript": 35754,
+      "CSS": 2456
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 11149.86,
+    "S_code": 22143.73,
+    "S_social": 14,
+    "S_maint": 5
+  },
+  {
+    "name": "manhattanPlotr",
+    "full_name": "nstrayer/manhattanPlotr",
+    "html_url": "https://github.com/nstrayer/manhattanPlotr",
+    "description": "A tiny package that just makes nice looking interactive manhattan plots for use in Shiny apps or publication. ",
+    "stars": 8,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 25550,
+      "R": 7664
+    },
+    "contributions_by_user": 40,
+    "contribution_score": 436.22,
+    "S_code": 32.44,
+    "S_social": 10,
+    "S_maint": 40
+  },
+  {
+    "name": "mcmcDemo",
+    "full_name": "nstrayer/mcmcDemo",
+    "html_url": "https://github.com/nstrayer/mcmcDemo",
+    "description": "A pure javascript implementation of a metropolis haystings mcmc sampler",
+    "stars": 7,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 1377139,
+      "HTML": 823,
+      "Roff": 144
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 690.9,
+    "S_code": 1345.81,
+    "S_social": 9,
+    "S_maint": 0
+  },
+  {
+    "name": "cvdown",
+    "full_name": "nstrayer/cvdown",
+    "html_url": "https://github.com/nstrayer/cvdown",
+    "description": "R package for building data-driven CVs/ Resumes with RMarkdown/Pagedown",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "R": 19645
+    },
+    "contributions_by_user": 31,
+    "contribution_score": 331.59,
+    "S_code": 19.18,
+    "S_social": 6,
+    "S_maint": 31
+  },
+  {
+    "name": "activity_detection_post",
+    "full_name": "nstrayer/activity_detection_post",
+    "html_url": "https://github.com/nstrayer/activity_detection_post",
+    "description": "Can we use Keras to detect human activity from accelerometer data?",
+    "stars": 5,
+    "forks": 2,
+    "languages": {
+      "HTML": 106135,
+      "JavaScript": 33690,
+      "CSS": 2123,
+      "TeX": 1894
+    },
+    "contributions_by_user": 28,
+    "contribution_score": 368.24,
+    "S_code": 140.47,
+    "S_social": 9,
+    "S_maint": 28
+  },
+  {
+    "name": "phewasHelper",
+    "full_name": "nstrayer/phewasHelper",
+    "html_url": "https://github.com/nstrayer/phewasHelper",
+    "description": "A package with a few tiny helper functions to make life easier to work with phewas and phecodes.",
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "R": 26627
+    },
+    "contributions_by_user": 54,
+    "contribution_score": 569.0,
+    "S_code": 26.0,
+    "S_social": 8,
+    "S_maint": 54
+  },
+  {
+    "name": "neural_nets_for_statisticians",
+    "full_name": "nstrayer/neural_nets_for_statisticians",
+    "html_url": "https://github.com/nstrayer/neural_nets_for_statisticians",
+    "description": "A series of two lectures for the class Advanced Statistical Inference at Vanderbilt on Neural Networks",
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "HTML": 19812,
+      "CSS": 1894
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 86.6,
+    "S_code": 21.2,
+    "S_social": 8,
+    "S_maint": 6
+  },
+  {
+    "name": "bipartiteNetwork",
+    "full_name": "nstrayer/bipartiteNetwork",
+    "html_url": "https://github.com/nstrayer/bipartiteNetwork",
+    "description": "A 3-d gpu-powered bi-partite network visualization tool. For use in shiny or static environments. Fast.",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 43696,
+      "R": 3773
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 115.18,
+    "S_code": 46.36,
+    "S_social": 6,
+    "S_maint": 8
+  },
+  {
+    "name": "simple-commands-mcp",
+    "full_name": "nstrayer/simple-commands-mcp",
+    "html_url": "https://github.com/nstrayer/simple-commands-mcp",
+    "description": "Create an mcp server with a simple config to run commands including automatic long-running processes management.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 15205,
+      "JavaScript": 9512
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 48.07,
+    "S_code": 24.14,
+    "S_social": 3,
+    "S_maint": 3
+  },
+  {
+    "name": "shinyearr",
+    "full_name": "nstrayer/shinyearr",
+    "html_url": "https://github.com/nstrayer/shinyearr",
+    "description": "This package has been rolled into the library shinysense!",
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 5002,
+      "R": 2089,
+      "CSS": 566
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.74,
+    "S_code": 7.48,
+    "S_social": 7,
+    "S_maint": 0
+  },
+  {
+    "name": "network_builder",
+    "full_name": "nstrayer/network_builder",
+    "html_url": "https://github.com/nstrayer/network_builder",
+    "description": "A small javascript tool to build toy networks and export them for use in your favorite network program.",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "HTML": 566045,
+      "JavaScript": 8764,
+      "CSS": 1124
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 361.22,
+    "S_code": 562.43,
+    "S_social": 5,
+    "S_maint": 7
+  },
+  {
+    "name": "statdists",
+    "full_name": "nstrayer/statdists",
+    "html_url": "https://github.com/nstrayer/statdists",
+    "description": "A javascript library mocking R's distribution forms",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 13737,
+      "Roff": 5139
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.22,
+    "S_code": 18.43,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "travelingSalesman",
+    "full_name": "nstrayer/travelingSalesman",
+    "html_url": "https://github.com/nstrayer/travelingSalesman",
+    "description": "A tiny interactive that allows you to fiddle with the simulated annealing algorithm",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1317086,
+      "HTML": 361
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 649.28,
+    "S_code": 1286.57,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "d3Stats",
+    "full_name": "nstrayer/d3Stats",
+    "html_url": "https://github.com/nstrayer/d3Stats",
+    "description": "A d3 javascript library that will allow easy generation of common statistical plots (scatter, box, violin, histogram... etc.). ",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 23866,
+      "HTML": 3565
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.39,
+    "S_code": 26.79,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "py-shiny-custom-input-component",
+    "full_name": "nstrayer/py-shiny-custom-input-component",
+    "html_url": "https://github.com/nstrayer/py-shiny-custom-input-component",
+    "description": "Example for a custom javascript input for a shiny for python in package form",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 27989,
+      "TypeScript": 1960,
+      "Python": 1284
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 29.25,
+    "S_code": 30.5,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "tree-town-trees",
+    "full_name": "nstrayer/tree-town-trees",
+    "html_url": "https://github.com/nstrayer/tree-town-trees",
+    "description": "A shiny app to explore all of Ann Arbor's trees",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "R": 3257
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 35.59,
+    "S_code": 3.18,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "associationsubgraphs",
+    "full_name": "nstrayer/associationsubgraphs",
+    "html_url": "https://github.com/nstrayer/associationsubgraphs",
+    "description": "Estimation of association networks using non-parametric entropy-based measures",
+    "stars": 2,
+    "forks": 3,
+    "languages": {
+      "R": 47692,
+      "C++": 14123
+    },
+    "contributions_by_user": 266,
+    "contribution_score": 2706.18,
+    "S_code": 60.37,
+    "S_social": 8,
+    "S_maint": 266
+  },
+  {
+    "name": "js_stat_snippets",
+    "full_name": "nstrayer/js_stat_snippets",
+    "html_url": "https://github.com/nstrayer/js_stat_snippets",
+    "description": "Small copy and pasteable snippets of common statistics/probability functions in ES6 javascript. ",
+    "stars": 2,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 4.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "docker_for_biostatisticians",
+    "full_name": "nstrayer/docker_for_biostatisticians",
+    "html_url": "https://github.com/nstrayer/docker_for_biostatisticians",
+    "description": "Slides and demo for Vanderbilt computing seminar on 4/26/2019",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "HTML": 2621881
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 1344.22,
+    "S_code": 2560.43,
+    "S_social": 2,
+    "S_maint": 6
+  },
+  {
+    "name": "rstudioconf19_me-poster",
+    "full_name": "nstrayer/rstudioconf19_me-poster",
+    "html_url": "https://github.com/nstrayer/rstudioconf19_me-poster",
+    "description": "Repo containing the flexdashboard e-poster on the shiny app Multimorbidity Explorer for RStudio::Conf 2019",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "HTML": 8433756,
+      "JavaScript": 6527,
+      "CSS": 132
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 4215.3,
+    "S_code": 8242.59,
+    "S_social": 2,
+    "S_maint": 9
+  },
+  {
+    "name": "viewr_imagenet_demo",
+    "full_name": "nstrayer/viewr_imagenet_demo",
+    "html_url": "https://github.com/nstrayer/viewr_imagenet_demo",
+    "description": "A demo of using the shinyviewr function in my shinysense package to classify photos using the VGG50 imagenet model. ",
+    "stars": 2,
+    "forks": 2,
+    "languages": {
+      "R": 5878
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 74.87,
+    "S_code": 5.74,
+    "S_social": 6,
+    "S_maint": 6
+  },
+  {
+    "name": "tsne_presentation",
+    "full_name": "nstrayer/tsne_presentation",
+    "html_url": "https://github.com/nstrayer/tsne_presentation",
+    "description": "Vanderbilt biostatistics journal club paper presentation on T-SNE by Maaten et al.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "HTML": 15606,
+      "CSS": 1846,
+      "R": 1626
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 43.32,
+    "S_code": 18.63,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "wildfires",
+    "full_name": "nstrayer/wildfires",
+    "html_url": "https://github.com/nstrayer/wildfires",
+    "description": "Where are wildfires happening? ",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 1993811,
+      "HTML": 3741
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 1013.37,
+    "S_code": 1950.73,
+    "S_social": 4,
+    "S_maint": 3
+  },
+  {
+    "name": "marketStory",
+    "full_name": "nstrayer/marketStory",
+    "html_url": "https://github.com/nstrayer/marketStory",
+    "description": "Exploration of state level farmers market trends. ",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 306686,
+      "HTML": 111754,
+      "CSS": 4711
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 214.62,
+    "S_code": 413.23,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "Mysis_DVM_Modeling",
+    "full_name": "nstrayer/Mysis_DVM_Modeling",
+    "html_url": "https://github.com/nstrayer/Mysis_DVM_Modeling",
+    "description": "The code and brainstorms for my senior thesis project \"Modeling the Diel Vertical Migration Patterns of Mysis diluviana.\"",
+    "stars": 2,
+    "forks": 2,
+    "languages": {
+      "HTML": 6760801,
+      "TeX": 49196,
+      "R": 34675
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3354.12,
+    "S_code": 6684.25,
+    "S_social": 6,
+    "S_maint": 0
+  },
+  {
+    "name": "math295",
+    "full_name": "nstrayer/math295",
+    "html_url": "https://github.com/nstrayer/math295",
+    "description": "Code and data for Professor James Bagrow's, Math 295 (Data Science 2) at UVM, F14",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Python": 34328,
+      "R": 14960,
+      "TeX": 10336,
+      "JavaScript": 9970,
+      "CSS": 2229
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 43.07,
+    "S_code": 70.14,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "pr-review-notifier",
+    "full_name": "nstrayer/pr-review-notifier",
+    "html_url": "https://github.com/nstrayer/pr-review-notifier",
+    "description": "A small menubar app that shows you that you have PRs to review. Don't leave your colleagues hanging!",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 458883,
+      "TypeScript": 90867,
+      "JavaScript": 16263,
+      "Shell": 4646,
+      "CSS": 1683
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 541.46,
+    "S_code": 558.93,
+    "S_social": 1,
+    "S_maint": 26
+  },
+  {
+    "name": "slash-commands",
+    "full_name": "nstrayer/slash-commands",
+    "html_url": "https://github.com/nstrayer/slash-commands",
+    "description": "A series of slash commands I use with claude code. ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 42.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "polyglot",
+    "full_name": "nstrayer/polyglot",
+    "html_url": "https://github.com/nstrayer/polyglot",
+    "description": "An AI-powered programming language translation tool",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 80111,
+      "CSS": 2649,
+      "JavaScript": 2429
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 257.6,
+    "S_code": 83.19,
+    "S_social": 3,
+    "S_maint": 21
+  },
+  {
+    "name": "shiny-helpers",
+    "full_name": "nstrayer/shiny-helpers",
+    "html_url": "https://github.com/nstrayer/shiny-helpers",
+    "description": "Typescript types of component helpers for building JS extensions for Shiny apps",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 8565
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 166.18,
+    "S_code": 8.36,
+    "S_social": 1,
+    "S_maint": 16
+  },
+  {
+    "name": "pyshiny-output-binding-example",
+    "full_name": "nstrayer/pyshiny-output-binding-example",
+    "html_url": "https://github.com/nstrayer/pyshiny-output-binding-example",
+    "description": "Simple example demonstrating a custom output binding using the Tabulator JS library",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 2675,
+      "Python": 2173
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 142.37,
+    "S_code": 4.73,
+    "S_social": 5,
+    "S_maint": 13
+  },
+  {
+    "name": "py-shiny",
+    "full_name": "nstrayer/py-shiny",
+    "html_url": "https://github.com/nstrayer/py-shiny",
+    "description": "Shiny for Python",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 890595,
+      "Python": 770872,
+      "SCSS": 52519,
+      "TypeScript": 34159,
+      "HTML": 32532,
+      "CSS": 16863,
+      "Makefile": 3161,
+      "R": 2752
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 1102.59,
+    "S_code": 1761.18,
+    "S_social": 1,
+    "S_maint": 22
+  },
+  {
+    "name": "rstudio-conf-2022-program",
+    "full_name": "nstrayer/rstudio-conf-2022-program",
+    "html_url": "https://github.com/nstrayer/rstudio-conf-2022-program",
+    "description": "rstudio::conf(2022, \"program\")",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "R": 25677
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.54,
+    "S_code": 25.08,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "WebComponentCheatSheet",
+    "full_name": "nstrayer/WebComponentCheatSheet",
+    "html_url": "https://github.com/nstrayer/WebComponentCheatSheet",
+    "description": "A series of code snippets to make getting webcomponents up and running easier",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 42.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "sbmrcpp",
+    "full_name": "nstrayer/sbmrcpp",
+    "html_url": "https://github.com/nstrayer/sbmrcpp",
+    "description": "Experimental new version of sbmR package that forgoes the rcpp s4 class in favor of lightweight wrappers of the built in SEXP classes",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C++": 68401,
+      "R": 712
+    },
+    "contributions_by_user": 154,
+    "contribution_score": 1579.75,
+    "S_code": 67.49,
+    "S_social": 3,
+    "S_maint": 154
+  },
+  {
+    "name": "journal_club_bipartite_sbm_larremore_et_al",
+    "full_name": "nstrayer/journal_club_bipartite_sbm_larremore_et_al",
+    "html_url": "https://github.com/nstrayer/journal_club_bipartite_sbm_larremore_et_al",
+    "description": "My slides for the Vandy biostats journal club on Efficiently inferring community structure in bipartite networks by Daniel B. Larremore, Aaron Clauset, and Abigail Z. Jacobs.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 10667,
+      "CSS": 1894,
+      "JavaScript": 562
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 78.41,
+    "S_code": 12.82,
+    "S_social": 1,
+    "S_maint": 7
+  },
+  {
+    "name": "biSBMR",
+    "full_name": "nstrayer/biSBMR",
+    "html_url": "https://github.com/nstrayer/biSBMR",
+    "description": "A quick R implementation of the Bipartite SBM by Dan Larremore, Abigail Jacobs, and Aaron Clauset. Currently just their code pretty much wholesale.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C++": 35544,
+      "R": 4411
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 45.51,
+    "S_code": 39.02,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "bayesian_nonparametrics_tutorial",
+    "full_name": "nstrayer/bayesian_nonparametrics_tutorial",
+    "html_url": "https://github.com/nstrayer/bayesian_nonparametrics_tutorial",
+    "description": "A series of scripts that implement common bayesian nonparametric unsupervised learning methods from scratch. Will eventually be a blog post. ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "R": 7998
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 65.91,
+    "S_code": 7.81,
+    "S_social": 1,
+    "S_maint": 6
+  },
+  {
+    "name": "brimr",
+    "full_name": "nstrayer/brimr",
+    "html_url": "https://github.com/nstrayer/brimr",
+    "description": "A quick implementation of the BRIM algorithm for bipartite network clustering. May eventually be a package. ",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "R": 5078
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 18.48,
+    "S_code": 4.96,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "ehr_mining_presentation",
+    "full_name": "nstrayer/ehr_mining_presentation",
+    "html_url": "https://github.com/nstrayer/ehr_mining_presentation",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 13058,
+      "CSS": 1824
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 19.27,
+    "S_code": 14.53,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "heart_failure_prediction_rule",
+    "full_name": "nstrayer/heart_failure_prediction_rule",
+    "html_url": "https://github.com/nstrayer/heart_failure_prediction_rule",
+    "description": "Review of A Prediction Rule for Heart Failure, Academic Emergency Medicine, 2005",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 102768,
+      "HTML": 10104,
+      "CSS": 1846
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 78.01,
+    "S_code": 112.03,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "dataDayTexas",
+    "full_name": "nstrayer/dataDayTexas",
+    "html_url": "https://github.com/nstrayer/dataDayTexas",
+    "description": "Presentation for my talk at Data Day Texas on Jan 27, 2018",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 15081,
+      "CSS": 1846
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 90.27,
+    "S_code": 16.53,
+    "S_social": 1,
+    "S_maint": 8
+  },
+  {
+    "name": "sequence_classification",
+    "full_name": "nstrayer/sequence_classification",
+    "html_url": "https://github.com/nstrayer/sequence_classification",
+    "description": "A presentation I'm making for my qualifying exam on using deep learning for sequence classification",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 38410,
+      "CSS": 2004
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 81.73,
+    "S_code": 39.47,
+    "S_social": 1,
+    "S_maint": 6
+  },
+  {
+    "name": "frankbot",
+    "full_name": "nstrayer/frankbot",
+    "html_url": "https://github.com/nstrayer/frankbot",
+    "description": "Using deep learning to recreate a famous statistician",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "R": 9790
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.78,
+    "S_code": 9.56,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "deeplearnjs",
+    "full_name": "nstrayer/deeplearnjs",
+    "html_url": "https://github.com/nstrayer/deeplearnjs",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 23767,
+      "HTML": 585,
+      "Roff": 114
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.95,
+    "S_code": 23.89,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "chromebookDevSetup",
+    "full_name": "nstrayer/chromebookDevSetup",
+    "html_url": "https://github.com/nstrayer/chromebookDevSetup",
+    "description": "A simple set of steps to go from fresh chromebook to active dev environment",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "chromebookTesting",
+    "full_name": "nstrayer/chromebookTesting",
+    "html_url": "https://github.com/nstrayer/chromebookTesting",
+    "description": "Testing the ability to run an entire multifile webdev project from a stock chromebook.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 205,
+      "JavaScript": 166
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 22.18,
+    "S_code": 0.36,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "nviz",
+    "full_name": "nstrayer/nviz",
+    "html_url": "https://github.com/nstrayer/nviz",
+    "description": "A collection of random visualizations I find myself reusing a lot",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "R": 12931
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 28.31,
+    "S_code": 12.63,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "pValueExplainer",
+    "full_name": "nstrayer/pValueExplainer",
+    "html_url": "https://github.com/nstrayer/pValueExplainer",
+    "description": "A quick rmarkdown to explain p-values from a simulation point of view. ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 9130849
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4460.42,
+    "S_code": 8916.84,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "survival_viz",
+    "full_name": "nstrayer/survival_viz",
+    "html_url": "https://github.com/nstrayer/survival_viz",
+    "description": "Visualization of survival data/functions. ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8015,
+      "HTML": 3428
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.59,
+    "S_code": 11.17,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "nashvilleBioStats",
+    "full_name": "nstrayer/nashvilleBioStats",
+    "html_url": "https://github.com/nstrayer/nashvilleBioStats",
+    "description": "A blog by some graduate students at some school in Nashville. ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "CSS": 11245,
+      "HTML": 8060,
+      "R": 805,
+      "Makefile": 178
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.91,
+    "S_code": 19.81,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "likelihood",
+    "full_name": "nstrayer/likelihood",
+    "html_url": "https://github.com/nstrayer/likelihood",
+    "description": "A interactive explanation of likelihood functions/ ratios/ intervals. ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 545616,
+      "HTML": 108343,
+      "CSS": 8791
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 325.61,
+    "S_code": 647.22,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "binomialFun",
+    "full_name": "nstrayer/binomialFun",
+    "html_url": "https://github.com/nstrayer/binomialFun",
+    "description": "An interactive exploration of binomial confidence interval generation and hypothesis testing. ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 412741,
+      "HTML": 110700,
+      "CSS": 7812
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 261.4,
+    "S_code": 518.8,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "distributionTool",
+    "full_name": "nstrayer/distributionTool",
+    "html_url": "https://github.com/nstrayer/distributionTool",
+    "description": "Little app to visualize different probability distributions and play around with their parameters. ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 184959,
+      "CSS": 7501,
+      "HTML": 3275
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 97.57,
+    "S_code": 191.15,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "cities",
+    "full_name": "nstrayer/cities",
+    "html_url": "https://github.com/nstrayer/cities",
+    "description": "Visualizing the dynamics of major US city populations. ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 260200,
+      "HTML": 105766,
+      "CSS": 3126,
+      "R": 2079
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 183.24,
+    "S_code": 362.47,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "rscripts",
+    "full_name": "nstrayer/rscripts",
+    "html_url": "https://github.com/nstrayer/rscripts",
+    "description": "R scripts with templates and examples of analyses using knitr with Rmarkdown or LaTeX",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 7312037,
+      "R": 26165
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3585.11,
+    "S_code": 7166.21,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "pyrtree",
+    "full_name": "nstrayer/pyrtree",
+    "html_url": "https://github.com/nstrayer/pyrtree",
+    "description": "Automatically exported from code.google.com/p/pyrtree",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Python": 28725,
+      "Shell": 1508
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.76,
+    "S_code": 29.52,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "statisticalGenetics",
+    "full_name": "nstrayer/statisticalGenetics",
+    "html_url": "https://github.com/nstrayer/statisticalGenetics",
+    "description": "Code for Professor Richard Single's Stat 295 Statistical Genetics course for fall 2014. ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "R": 34003
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 18.6,
+    "S_code": 33.21,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "leapD3",
+    "full_name": "nstrayer/leapD3",
+    "html_url": "https://github.com/nstrayer/leapD3",
+    "description": "Experimental repo interfacing leap motion and d3 graphics. ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3210,
+      "CSS": 170
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.65,
+    "S_code": 3.3,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "issue-triage",
+    "full_name": "nstrayer/issue-triage",
+    "html_url": "https://github.com/nstrayer/issue-triage",
+    "description": "An LLM powered tool to make it easier to deal with github issue overload.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 122765,
+      "CSS": 3866,
+      "JavaScript": 2041
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 232.83,
+    "S_code": 125.66,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "positron-site-redux",
+    "full_name": "nstrayer/positron-site-redux",
+    "html_url": "https://github.com/nstrayer/positron-site-redux",
+    "description": "A example of a positron landing page.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Astro": 30971,
+      "TypeScript": 5007,
+      "JavaScript": 3124,
+      "CSS": 2294
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 120.21,
+    "S_code": 40.43,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "quarto",
+    "full_name": "nstrayer/quarto",
+    "html_url": "https://github.com/nstrayer/quarto",
+    "description": "Quarto open-source scientific and technical publishing system",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 4016185,
+      "JavaScript": 555057,
+      "CSS": 109240,
+      "HTML": 16626,
+      "SCSS": 12331,
+      "Lua": 11148,
+      "TeX": 87
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2305.02,
+    "S_code": 4610.03,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mycv",
+    "full_name": "nstrayer/mycv",
+    "html_url": "https://github.com/nstrayer/mycv",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 51541,
+      "CSS": 1619,
+      "TypeScript": 1421,
+      "Raku": 940,
+      "JavaScript": 246,
+      "Perl": 146,
+      "RenderScript": 5
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 57.3,
+    "S_code": 54.61,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "loading_spinners",
+    "full_name": "nstrayer/loading_spinners",
+    "html_url": "https://github.com/nstrayer/loading_spinners",
+    "description": "A simple python package for adding loading spinners to Shiny apps",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1320,
+      "CSS": 763
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.02,
+    "S_code": 2.03,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "py-shiny-custom-react-component",
+    "full_name": "nstrayer/py-shiny-custom-react-component",
+    "html_url": "https://github.com/nstrayer/py-shiny-custom-react-component",
+    "description": "Template repo for a custom Shiny for Python input binding using React",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1511788,
+      "TypeScript": 3549,
+      "Python": 1218
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 760.51,
+    "S_code": 1481.01,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "py-shiny-custom-output-component",
+    "full_name": "nstrayer/py-shiny-custom-output-component",
+    "html_url": "https://github.com/nstrayer/py-shiny-custom-output-component",
+    "description": "A simple custom output component for Shiny for python in package form",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 28208,
+      "Python": 2037,
+      "TypeScript": 1917
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 35.7,
+    "S_code": 31.41,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "custom-pyshiny-components-pkg",
+    "full_name": "nstrayer/custom-pyshiny-components-pkg",
+    "html_url": "https://github.com/nstrayer/custom-pyshiny-components-pkg",
+    "description": "A set of templates for creating custom components as python packages",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1542652,
+      "TypeScript": 7636,
+      "Python": 4239
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 859.05,
+    "S_code": 1518.09,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "tiny-blog",
+    "full_name": "nstrayer/tiny-blog",
+    "html_url": "https://github.com/nstrayer/tiny-blog",
+    "description": "A blog of short articles about typescript, swift, etc..",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 11943,
+      "JavaScript": 1368,
+      "CSS": 1228
+    },
+    "contributions_by_user": 35,
+    "contribution_score": 357.1,
+    "S_code": 14.2,
+    "S_social": 0,
+    "S_maint": 35
+  },
+  {
+    "name": "west-madison-home-base",
+    "full_name": "nstrayer/west-madison-home-base",
+    "html_url": "https://github.com/nstrayer/west-madison-home-base",
+    "description": "nextjs app with info about my office's current air quality",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 14692,
+      "CSS": 6692,
+      "JavaScript": 153
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 120.52,
+    "S_code": 21.03,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "SICP-TS",
+    "full_name": "nstrayer/SICP-TS",
+    "html_url": "https://github.com/nstrayer/SICP-TS",
+    "description": "Exercise solutions in typescript for Structure and Interpretation of Computer Programs JS edition",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 9674
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 34.72,
+    "S_code": 9.45,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "west-madison",
+    "full_name": "nstrayer/west-madison",
+    "html_url": "https://github.com/nstrayer/west-madison",
+    "description": "Svelte app to check up on my office climate while i'm away",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 10278,
+      "JavaScript": 451,
+      "HTML": 349,
+      "TypeScript": 118
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 205.47,
+    "S_code": 10.93,
+    "S_social": 0,
+    "S_maint": 20
+  },
+  {
+    "name": "go-air-quality-server",
+    "full_name": "nstrayer/go-air-quality-server",
+    "html_url": "https://github.com/nstrayer/go-air-quality-server",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 1840
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.9,
+    "S_code": 1.8,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "office_co2_sensor",
+    "full_name": "nstrayer/office_co2_sensor",
+    "html_url": "https://github.com/nstrayer/office_co2_sensor",
+    "description": "Some scripts related to a project to monitor and act on co2 levels in my small home office.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 9395,
+      "R": 6888,
+      "JavaScript": 2902,
+      "Svelte": 2659,
+      "HTML": 351,
+      "TypeScript": 118
+    },
+    "contributions_by_user": 46,
+    "contribution_score": 470.9,
+    "S_code": 21.79,
+    "S_social": 0,
+    "S_maint": 46
+  },
+  {
+    "name": "sarahs-super-secret-gift",
+    "full_name": "nstrayer/sarahs-super-secret-gift",
+    "html_url": "https://github.com/nstrayer/sarahs-super-secret-gift",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 4910
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 22.4,
+    "S_code": 4.79,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "lobstr",
+    "full_name": "nstrayer/lobstr",
+    "html_url": "https://github.com/nstrayer/lobstr",
+    "description": "Understanding complex R objects with tools similar to str()",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 49024,
+      "C++": 22626
+    },
+    "contributions_by_user": 65,
+    "contribution_score": 684.99,
+    "S_code": 69.97,
+    "S_social": 0,
+    "S_maint": 65
+  },
+  {
+    "name": "Covid19-Population-Level-Immunity",
+    "full_name": "nstrayer/Covid19-Population-Level-Immunity",
+    "html_url": "https://github.com/nstrayer/Covid19-Population-Level-Immunity",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 23711
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 21.58,
+    "S_code": 23.16,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "teaching-r-study",
+    "full_name": "nstrayer/teaching-r-study",
+    "html_url": "https://github.com/nstrayer/teaching-r-study",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 3699417,
+      "R": 7821,
+      "CSS": 883
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1810.61,
+    "S_code": 3621.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "shinyvalidate",
+    "full_name": "nstrayer/shinyvalidate",
+    "html_url": "https://github.com/nstrayer/shinyvalidate",
+    "description": "Input validation package for the Shiny web framework",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 41428,
+      "JavaScript": 10082,
+      "CSS": 1460
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 35.86,
+    "S_code": 51.73,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "sbmr",
+    "full_name": "nstrayer/sbmr",
+    "html_url": "https://github.com/nstrayer/sbmr",
+    "description": "R-Native stochastic block model inference and visualization",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 796138,
+      "R": 138510,
+      "Shell": 1962
+    },
+    "contributions_by_user": 915,
+    "contribution_score": 9607.33,
+    "S_code": 914.66,
+    "S_social": 0,
+    "S_maint": 915
+  },
+  {
+    "name": "enar_2020",
+    "full_name": "nstrayer/enar_2020",
+    "html_url": "https://github.com/nstrayer/enar_2020",
+    "description": "Presentation slides for Enar 2020 presentation on building a package alongside a research project",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 50748,
+      "HTML": 12181,
+      "CSS": 2070
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 81.74,
+    "S_code": 63.48,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "dissertation_committee_presentations",
+    "full_name": "nstrayer/dissertation_committee_presentations",
+    "html_url": "https://github.com/nstrayer/dissertation_committee_presentations",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 28518,
+      "CSS": 5880,
+      "JavaScript": 825
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 187.2,
+    "S_code": 34.4,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "intro_to_sbms",
+    "full_name": "nstrayer/intro_to_sbms",
+    "html_url": "https://github.com/nstrayer/intro_to_sbms",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 446186,
+      "JavaScript": 52000,
+      "HTML": 11153,
+      "R": 2135
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 279.74,
+    "S_code": 499.49,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "rstudioconf_sbm",
+    "full_name": "nstrayer/rstudioconf_sbm",
+    "html_url": "https://github.com/nstrayer/rstudioconf_sbm",
+    "description": "Slides for my talk at RStudio::conf 2020 on stochastic block models",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 126185,
+      "JavaScript": 50747,
+      "R": 2135,
+      "CSS": 2001
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 138.41,
+    "S_code": 176.82,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "js4shiny-workshop-webpage",
+    "full_name": "nstrayer/js4shiny-workshop-webpage",
+    "html_url": "https://github.com/nstrayer/js4shiny-workshop-webpage",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 351359,
+      "CSS": 55566,
+      "JavaScript": 29016,
+      "Jupyter Notebook": 18665,
+      "Python": 1801,
+      "Shell": 596,
+      "TeX": 399
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 243.34,
+    "S_code": 446.68,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "pagedown",
+    "full_name": "nstrayer/pagedown",
+    "html_url": "https://github.com/nstrayer/pagedown",
+    "description": "Paginate the HTML Output of R Markdown with CSS for Print",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 43196,
+      "HTML": 36844,
+      "R": 31249,
+      "JavaScript": 23350,
+      "Lua": 9912,
+      "Shell": 457
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 70.8,
+    "S_code": 141.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "r2d3",
+    "full_name": "nstrayer/r2d3",
+    "html_url": "https://github.com/nstrayer/r2d3",
+    "description": "R Interface to D3 Visualizations",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "R": 30115,
+      "JavaScript": 18461,
+      "CSS": 2152
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 28.77,
+    "S_code": 49.54,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "sbmr_old",
+    "full_name": "nstrayer/sbmr_old",
+    "html_url": "https://github.com/nstrayer/sbmr_old",
+    "description": "An R library for fitting Stochastic Block Models on network data",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 15080
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 67.36,
+    "S_code": 14.73,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "biostat_seminar",
+    "full_name": "nstrayer/biostat_seminar",
+    "html_url": "https://github.com/nstrayer/biostat_seminar",
+    "description": "Slide for my April 3, 2019 seminar for the Vanderbilt biostats seminar",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "CSS": 749492,
+      "JavaScript": 78322,
+      "HTML": 47985
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 491.64,
+    "S_code": 855.27,
+    "S_social": 2,
+    "S_maint": 6
+  },
+  {
+    "name": "Rregl_play",
+    "full_name": "nstrayer/Rregl_play",
+    "html_url": "https://github.com/nstrayer/Rregl_play",
+    "description": "A conversion of Peter Beshai's great [tutorial on REGL](https://peterbeshai.com/blog/2017-05-26-beautifully-animate-points-with-webgl-and-regl/) to R2D3 ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 13062,
+      "R": 450
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 26.6,
+    "S_code": 13.2,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "hiking_maps",
+    "full_name": "nstrayer/hiking_maps",
+    "html_url": "https://github.com/nstrayer/hiking_maps",
+    "description": "3d hiking maps from Strava",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 10116
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 64.94,
+    "S_code": 9.88,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "crostini-docker",
+    "full_name": "nstrayer/crostini-docker",
+    "html_url": "https://github.com/nstrayer/crostini-docker",
+    "description": "Docker for Crostini with fixed binariest that work",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 245
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.12,
+    "S_code": 0.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "testing",
+    "full_name": "nstrayer/testing",
+    "html_url": "https://github.com/nstrayer/testing",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bios8366_hw_test",
+    "full_name": "nstrayer/bios8366_hw_test",
+    "html_url": "https://github.com/nstrayer/bios8366_hw_test",
+    "description": "My submissions for homework in BIOS8366",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tensorflow-blog",
+    "full_name": "nstrayer/tensorflow-blog",
+    "html_url": "https://github.com/nstrayer/tensorflow-blog",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "HTML": 1064876,
+      "JavaScript": 33690,
+      "TeX": 5050,
+      "CSS": 2123
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 553.91,
+    "S_code": 1079.82,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "Bios8366",
+    "full_name": "nstrayer/Bios8366",
+    "html_url": "https://github.com/nstrayer/Bios8366",
+    "description": "Advanced Statistical Computing at Vanderbilt University's Department of Biostatistics",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "Jupyter Notebook": 17002554,
+      "Python": 10572,
+      "HTML": 9460,
+      "Shell": 88
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8319.85,
+    "S_code": 16623.71,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "installing_tidyverse",
+    "full_name": "nstrayer/installing_tidyverse",
+    "html_url": "https://github.com/nstrayer/installing_tidyverse",
+    "description": "A short list of commands needed to install the tidyverse first go around on a fresh Debian install. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 118
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.06,
+    "S_code": 0.12,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "histogram_bins",
+    "full_name": "nstrayer/histogram_bins",
+    "html_url": "https://github.com/nstrayer/histogram_bins",
+    "description": "A tiny explorer of histogram bin choice ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 1526339,
+      "JavaScript": 3278,
+      "R": 1805
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 767.76,
+    "S_code": 1495.53,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "collab_proj_3",
+    "full_name": "nstrayer/collab_proj_3",
+    "html_url": "https://github.com/nstrayer/collab_proj_3",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 1248572,
+      "JavaScript": 59550,
+      "R": 2743,
+      "CSS": 957
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 660.54,
+    "S_code": 1281.08,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "htmlwidgets",
+    "full_name": "nstrayer/htmlwidgets",
+    "html_url": "https://github.com/nstrayer/htmlwidgets",
+    "description": "HTML Widgets for R",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 53068,
+      "JavaScript": 30901
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 41.0,
+    "S_code": 82.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "temperature_swings",
+    "full_name": "nstrayer/temperature_swings",
+    "html_url": "https://github.com/nstrayer/temperature_swings",
+    "description": "Analysis of the delta between hottest and coldest times of the year over US",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 1142300,
+      "R": 4270
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 589.85,
+    "S_code": 1119.7,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "workout_react",
+    "full_name": "nstrayer/workout_react",
+    "html_url": "https://github.com/nstrayer/workout_react",
+    "description": "Webapp for tracking workouts with react and dropbox",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 24025,
+      "HTML": 1590,
+      "CSS": 1432
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 51.21,
+    "S_code": 26.41,
+    "S_social": 4,
+    "S_maint": 3
+  },
+  {
+    "name": "webpack_starter",
+    "full_name": "nstrayer/webpack_starter",
+    "html_url": "https://github.com/nstrayer/webpack_starter",
+    "description": "My blank javascript webpack setup to start developing apps quick",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 723,
+      "HTML": 399
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.55,
+    "S_code": 1.1,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "WorkoutHelper",
+    "full_name": "nstrayer/WorkoutHelper",
+    "html_url": "https://github.com/nstrayer/WorkoutHelper",
+    "description": "An iPhone app for data-driven weightlifting. Written in React-Native",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 54846,
+      "Objective-C": 4751,
+      "Python": 1730,
+      "Java": 1383
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 30.62,
+    "S_code": 61.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "qualifying_exam",
+    "full_name": "nstrayer/qualifying_exam",
+    "html_url": "https://github.com/nstrayer/qualifying_exam",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 221513,
+      "TeX": 101192,
+      "CSS": 45173,
+      "JavaScript": 25482,
+      "Shell": 81
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 382.11,
+    "S_code": 384.22,
+    "S_social": 0,
+    "S_maint": 19
+  },
+  {
+    "name": "abstract_space",
+    "full_name": "nstrayer/abstract_space",
+    "html_url": "https://github.com/nstrayer/abstract_space",
+    "description": "An exploration of deep learning methods to explore the content of scientific abstracts.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 9691
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 44.73,
+    "S_code": 9.46,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "timelinePlot",
+    "full_name": "nstrayer/timelinePlot",
+    "html_url": "https://github.com/nstrayer/timelinePlot",
+    "description": "An r package to visualize time to event data. ",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "R": 7868
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.84,
+    "S_code": 7.68,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "Bios6301",
+    "full_name": "nstrayer/Bios6301",
+    "html_url": "https://github.com/nstrayer/Bios6301",
+    "description": "Biostatistics 301: Introduction to Statistical Computing",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "R": 34965,
+      "CSS": 26786,
+      "TeX": 15563
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 41.75,
+    "S_code": 75.5,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "upstream_demo",
+    "full_name": "nstrayer/upstream_demo",
+    "html_url": "https://github.com/nstrayer/upstream_demo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "playground",
+    "full_name": "nstrayer/playground",
+    "html_url": "https://github.com/nstrayer/playground",
+    "description": "Website to learn about CSS Grid Layout and CSS Grid Layout Panel in Firefox",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 43948,
+      "CSS": 41665
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 41.8,
+    "S_code": 83.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "exponentialPowerSeries",
+    "full_name": "nstrayer/exponentialPowerSeries",
+    "html_url": "https://github.com/nstrayer/exponentialPowerSeries",
+    "description": "A simple visualization of the exponential function's power-series expansion. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 25188,
+      "HTML": 678
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 102.63,
+    "S_code": 25.26,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "chromebookDemoProject",
+    "full_name": "nstrayer/chromebookDemoProject",
+    "html_url": "https://github.com/nstrayer/chromebookDemoProject",
+    "description": "A simple example of how one could use native es6 modules on a chromebook",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 593,
+      "HTML": 393
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.48,
+    "S_code": 0.96,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "fitbit_day",
+    "full_name": "nstrayer/fitbit_day",
+    "html_url": "https://github.com/nstrayer/fitbit_day",
+    "description": "A reusable interactive chart that shows a view of one day's worth of fitbit time series data. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 3063033,
+      "JavaScript": 667477,
+      "R": 2325
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1822.67,
+    "S_code": 3645.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "shinysense_useR2017",
+    "full_name": "nstrayer/shinysense_useR2017",
+    "html_url": "https://github.com/nstrayer/shinysense_useR2017",
+    "description": "Slides for my talk at useR!2017 on shinysense. ",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "HTML": 22437134,
+      "CSS": 955,
+      "R": 604
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10960.39,
+    "S_code": 21912.79,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "hugo-tufte_esque",
+    "full_name": "nstrayer/hugo-tufte_esque",
+    "html_url": "https://github.com/nstrayer/hugo-tufte_esque",
+    "description": "Content centric Hugo blogging theme styled with Tufte-css",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 18155,
+      "HTML": 12669
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.05,
+    "S_code": 30.1,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "predictr",
+    "full_name": "nstrayer/predictr",
+    "html_url": "https://github.com/nstrayer/predictr",
+    "description": "An interactive tool to play with model predictions. ",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "R": 3316
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.62,
+    "S_code": 3.24,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "WhatsInSeason-iOS",
+    "full_name": "nstrayer/WhatsInSeason-iOS",
+    "html_url": "https://github.com/nstrayer/WhatsInSeason-iOS",
+    "description": "Second generation what's in season app. This time on iOS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4444,
+      "Objective-C": 4426,
+      "Python": 1736,
+      "Java": 1401
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.86,
+    "S_code": 11.73,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tufte",
+    "full_name": "nstrayer/tufte",
+    "html_url": "https://github.com/nstrayer/tufte",
+    "description": "Tufte Styles for R Markdown Documents",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 14530,
+      "CSS": 8586,
+      "TeX": 4031
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.26,
+    "S_code": 26.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lazy_webmaster",
+    "full_name": "nstrayer/lazy_webmaster",
+    "html_url": "https://github.com/nstrayer/lazy_webmaster",
+    "description": "An r tool to automatically parse a google doc and generate an email for the Vanderbilt Graduate Student Council. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 2384,
+      "HTML": 412
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.37,
+    "S_code": 2.73,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jsRegress",
+    "full_name": "nstrayer/jsRegress",
+    "html_url": "https://github.com/nstrayer/jsRegress",
+    "description": "A set of matrix algebra and regression functions i'm making to study for my comps",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 49381
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 24.11,
+    "S_code": 48.22,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nmisc_js",
+    "full_name": "nstrayer/nmisc_js",
+    "html_url": "https://github.com/nstrayer/nmisc_js",
+    "description": "A collection of javascript snippets I find myself using a lot (being a statistician).",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 914
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.45,
+    "S_code": 0.89,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "handbook",
+    "full_name": "nstrayer/handbook",
+    "html_url": "https://github.com/nstrayer/handbook",
+    "description": "Vanderbilt Biostatistics Grad Student Handbook",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 57
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.03,
+    "S_code": 0.06,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "UCR_Time_Series_Classification_Deep_Learning_Baseline",
+    "full_name": "nstrayer/UCR_Time_Series_Classification_Deep_Learning_Baseline",
+    "html_url": "https://github.com/nstrayer/UCR_Time_Series_Classification_Deep_Learning_Baseline",
+    "description": "Fully Convlutional Neural Networks for state-of-the-art time series classification",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 13377
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.53,
+    "S_code": 13.06,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "uncertainBlanket",
+    "full_name": "nstrayer/uncertainBlanket",
+    "html_url": "https://github.com/nstrayer/uncertainBlanket",
+    "description": "An exploration of ways of displaying uncertainty in 3d surfaces. Because I am a statistician of course. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1095392,
+      "HTML": 8490,
+      "R": 983
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 539.48,
+    "S_code": 1078.97,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "three.js",
+    "full_name": "nstrayer/three.js",
+    "html_url": "https://github.com/nstrayer/three.js",
+    "description": "JavaScript 3D library.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4644828,
+      "Python": 525838,
+      "C++": 116991,
+      "GLSL": 93456,
+      "C": 80088,
+      "MAXScript": 75494,
+      "HTML": 39375,
+      "CSS": 19067,
+      "Shell": 9173,
+      "Batchfile": 139
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2736.55,
+    "S_code": 5473.09,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "GMD",
+    "full_name": "nstrayer/GMD",
+    "html_url": "https://github.com/nstrayer/GMD",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 3051
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.49,
+    "S_code": 2.98,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "blog",
+    "full_name": "nstrayer/blog",
+    "html_url": "https://github.com/nstrayer/blog",
+    "description": "The Life Free or Dichotomize Blog",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 13930
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.8,
+    "S_code": 13.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "LFOD.github.io",
+    "full_name": "nstrayer/LFOD.github.io",
+    "html_url": "https://github.com/nstrayer/LFOD.github.io",
+    "description": "The original Live Free or Dichotomize: oft not copied, never read.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 13930
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.8,
+    "S_code": 13.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "blogdown",
+    "full_name": "nstrayer/blogdown",
+    "html_url": "https://github.com/nstrayer/blogdown",
+    "description": "Create Blogs and Websites with R Markdown",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "R": 24040,
+      "HTML": 1661
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.55,
+    "S_code": 25.1,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "bayesian_survival",
+    "full_name": "nstrayer/bayesian_survival",
+    "html_url": "https://github.com/nstrayer/bayesian_survival",
+    "description": "A tiny repo to hold an ipython notebook for a presentation. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 452094,
+      "Jupyter Notebook": 179362
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 308.33,
+    "S_code": 616.66,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "learning-three-js-blogpost",
+    "full_name": "nstrayer/learning-three-js-blogpost",
+    "html_url": "https://github.com/nstrayer/learning-three-js-blogpost",
+    "description": "Learning Three.js blog post for Bocoup ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 12002,
+      "HTML": 1363
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.53,
+    "S_code": 13.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gitresearchdone",
+    "full_name": "nstrayer/gitresearchdone",
+    "html_url": "https://github.com/nstrayer/gitresearchdone",
+    "description": "website filled with examples of using git in a research environment",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 1033797
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 504.78,
+    "S_code": 1009.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "RMarkdown_Sites_tutorial",
+    "full_name": "nstrayer/RMarkdown_Sites_tutorial",
+    "html_url": "https://github.com/nstrayer/RMarkdown_Sites_tutorial",
+    "description": "A brief tutorial for getting up and running with Rmarkdown websites. ",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "HTML": 2384795,
+      "CSS": 59
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1172.48,
+    "S_code": 2328.96,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "personal_site",
+    "full_name": "nstrayer/personal_site",
+    "html_url": "https://github.com/nstrayer/personal_site",
+    "description": "My very own website!",
+    "stars": 0,
+    "forks": 3,
+    "languages": {
+      "HTML": 18144,
+      "JavaScript": 10074,
+      "CSS": 1238,
+      "R": 248
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 26.5,
+    "S_code": 29.01,
+    "S_social": 6,
+    "S_maint": 0
+  },
+  {
+    "name": "NGQViz",
+    "full_name": "nstrayer/NGQViz",
+    "html_url": "https://github.com/nstrayer/NGQViz",
+    "description": "A back and frontend tool for inspecting FASTQ data files and performing basic statistic inference. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "swipeymcswiper",
+    "full_name": "nstrayer/swipeymcswiper",
+    "html_url": "https://github.com/nstrayer/swipeymcswiper",
+    "description": "trying to get tinder to the rstats masses",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 79915,
+      "R": 526
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 39.28,
+    "S_code": 78.56,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nmisc_r",
+    "full_name": "nstrayer/nmisc_r",
+    "html_url": "https://github.com/nstrayer/nmisc_r",
+    "description": "Blatant copy of Frank Harrell's hmisc package ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 4431
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.16,
+    "S_code": 4.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sliding_hist",
+    "full_name": "nstrayer/sliding_hist",
+    "html_url": "https://github.com/nstrayer/sliding_hist",
+    "description": "A sliding bin histogram. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6613,
+      "HTML": 804
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.62,
+    "S_code": 7.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "color_of_counties",
+    "full_name": "nstrayer/color_of_counties",
+    "html_url": "https://github.com/nstrayer/color_of_counties",
+    "description": "Attempting to color the united states by extracting the dominant color in geotagged photos. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 439706,
+      "R": 3686,
+      "HTML": 2499,
+      "JavaScript": 533,
+      "Shell": 501
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 218.23,
+    "S_code": 436.45,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "googleMapFires",
+    "full_name": "nstrayer/googleMapFires",
+    "html_url": "https://github.com/nstrayer/googleMapFires",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 735
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.36,
+    "S_code": 0.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ideas",
+    "full_name": "nstrayer/ideas",
+    "html_url": "https://github.com/nstrayer/ideas",
+    "description": "My todo list of data science/ visualization projects. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mapshaper",
+    "full_name": "nstrayer/mapshaper",
+    "html_url": "https://github.com/nstrayer/mapshaper",
+    "description": "Tools for editing Shapefile, GeoJSON and TopoJSON files",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1103941,
+      "CSS": 13676,
+      "HTML": 8961,
+      "TeX": 67
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 550.12,
+    "S_code": 1100.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "growingSeasons",
+    "full_name": "nstrayer/growingSeasons",
+    "html_url": "https://github.com/nstrayer/growingSeasons",
+    "description": "A visualization of produce seasonality. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 1918797,
+      "JavaScript": 542858,
+      "HTML": 105599,
+      "CSS": 5104,
+      "R": 363
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1256.21,
+    "S_code": 2512.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bios6312_final",
+    "full_name": "nstrayer/bios6312_final",
+    "html_url": "https://github.com/nstrayer/bios6312_final",
+    "description": "A repo to keep track of work on the final project for Robert Johnson's intro to regression class/",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "Stata": 5576,
+      "TeX": 3078,
+      "R": 778
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.61,
+    "S_code": 9.21,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "R",
+    "full_name": "nstrayer/R",
+    "html_url": "https://github.com/nstrayer/R",
+    "description": "R Example Scripts",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 1136,
+      "Shell": 662
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.88,
+    "S_code": 1.76,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "MPI",
+    "full_name": "nstrayer/MPI",
+    "html_url": "https://github.com/nstrayer/MPI",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 21928,
+      "Makefile": 1273,
+      "Shell": 556
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.6,
+    "S_code": 23.2,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pv",
+    "full_name": "nstrayer/pv",
+    "html_url": "https://github.com/nstrayer/pv",
+    "description": "WebGL protein viewer",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 629526,
+      "Python": 16521,
+      "HTML": 6736,
+      "CSS": 4992,
+      "Shell": 337
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 321.34,
+    "S_code": 642.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "emergencyVisits",
+    "full_name": "nstrayer/emergencyVisits",
+    "html_url": "https://github.com/nstrayer/emergencyVisits",
+    "description": "Analysis and visualization of emergency room visit data for 2014",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Lab-Scripts",
+    "full_name": "nstrayer/Lab-Scripts",
+    "html_url": "https://github.com/nstrayer/Lab-Scripts",
+    "description": "Bench Automation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 32
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.02,
+    "S_code": 0.03,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "branchingExample",
+    "full_name": "nstrayer/branchingExample",
+    "html_url": "https://github.com/nstrayer/branchingExample",
+    "description": "A repo to answer the all important question: what is the best coffee shop in Nashville?",
+    "stars": 0,
+    "forks": 4,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 16.0,
+    "S_code": 0.0,
+    "S_social": 8,
+    "S_maint": 0
+  },
+  {
+    "name": "mintSpendingText",
+    "full_name": "nstrayer/mintSpendingText",
+    "html_url": "https://github.com/nstrayer/mintSpendingText",
+    "description": "A small script to scrape mint for daily spending and automatically send a text with how much you spent the previous day. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 3077
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.5,
+    "S_code": 3.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "musicCityStats",
+    "full_name": "nstrayer/musicCityStats",
+    "html_url": "https://github.com/nstrayer/musicCityStats",
+    "description": "A blog about stats by Nick Strayer and Lucy D’Agostino McGowan",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 11259,
+      "HTML": 6937
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.88,
+    "S_code": 17.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Bios6301_Homeworks",
+    "full_name": "nstrayer/Bios6301_Homeworks",
+    "html_url": "https://github.com/nstrayer/Bios6301_Homeworks",
+    "description": "Repo for homework submissions for Cole Beck's introduction to statistical computing at Vanderbilt",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gun-sales",
+    "full_name": "nstrayer/gun-sales",
+    "html_url": "https://github.com/nstrayer/gun-sales",
+    "description": "Statistical analysis of monthly background checks of gun purchases",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 9180
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.48,
+    "S_code": 8.96,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vizTemplate",
+    "full_name": "nstrayer/vizTemplate",
+    "html_url": "https://github.com/nstrayer/vizTemplate",
+    "description": "A simple empty template for making d3 visualizations. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 259423,
+      "HTML": 105757,
+      "CSS": 3126
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 179.84,
+    "S_code": 359.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "awesome-osx-command-line",
+    "full_name": "nstrayer/awesome-osx-command-line",
+    "html_url": "https://github.com/nstrayer/awesome-osx-command-line",
+    "description": "Use your OS X terminal shell to do awesome things.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "earthWallpaper",
+    "full_name": "nstrayer/earthWallpaper",
+    "html_url": "https://github.com/nstrayer/earthWallpaper",
+    "description": "Grab latest deep space observatory images from nasa and make as a desktop wallpaper. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 161,
+      "Python": 21
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.09,
+    "S_code": 0.18,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "distributionTransforms",
+    "full_name": "nstrayer/distributionTransforms",
+    "html_url": "https://github.com/nstrayer/distributionTransforms",
+    "description": "A simple visualization of transformations of probability distributions. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 266460,
+      "HTML": 106161,
+      "CSS": 3231
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 183.52,
+    "S_code": 367.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "USWildfires",
+    "full_name": "nstrayer/USWildfires",
+    "html_url": "https://github.com/nstrayer/USWildfires",
+    "description": "Extending @sfrostenson 's concept to point based visualizations",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1613712,
+      "CSS": 10679,
+      "HTML": 3772,
+      "Python": 2588,
+      "Makefile": 1098,
+      "Shell": 929
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 797.25,
+    "S_code": 1594.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "voronoiStates",
+    "full_name": "nstrayer/voronoiStates",
+    "html_url": "https://github.com/nstrayer/voronoiStates",
+    "description": "An exploration of the US landscape when viewed from a voronoian perspective. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 3376,
+      "CSS": 1014
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.14,
+    "S_code": 4.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "VisualizingAlgorithms",
+    "full_name": "nstrayer/VisualizingAlgorithms",
+    "html_url": "https://github.com/nstrayer/VisualizingAlgorithms",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9415,
+      "HTML": 6359,
+      "CSS": 403
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.9,
+    "S_code": 15.8,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "d3heatmap",
+    "full_name": "nstrayer/d3heatmap",
+    "html_url": "https://github.com/nstrayer/d3heatmap",
+    "description": "Let's see if I can add a color for NA option. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 36153,
+      "R": 20120,
+      "JavaScript": 7525,
+      "CSS": 2548
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 32.4,
+    "S_code": 64.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "BRCA1_Splicing",
+    "full_name": "nstrayer/BRCA1_Splicing",
+    "html_url": "https://github.com/nstrayer/BRCA1_Splicing",
+    "description": "Codes and stuffs. ",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "R": 288
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.14,
+    "S_code": 0.28,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "homzTable",
+    "full_name": "nstrayer/homzTable",
+    "html_url": "https://github.com/nstrayer/homzTable",
+    "description": "A quick proof of concept of parallel coordinates applied to statistical genetics",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 266708,
+      "HTML": 105684,
+      "CSS": 2853
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 183.23,
+    "S_code": 366.45,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ann_play",
+    "full_name": "nstrayer/ann_play",
+    "html_url": "https://github.com/nstrayer/ann_play",
+    "description": "A simple artificial neural network (ann) to help me understand how they work. Based on http://iamtrask.github.io/2015/07/12/basic-python-network/.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "farmersMarkets",
+    "full_name": "nstrayer/farmersMarkets",
+    "html_url": "https://github.com/nstrayer/farmersMarkets",
+    "description": "Some Python and D3 to visualize a data.gov dataset on farmers markets around the US. (In progress.) ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 105688,
+      "JavaScript": 8964,
+      "CSS": 4290
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 58.08,
+    "S_code": 116.15,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tileStates",
+    "full_name": "nstrayer/tileStates",
+    "html_url": "https://github.com/nstrayer/tileStates",
+    "description": "Copied from mike bostocks gist http://bl.ocks.org/mbostock/29cc3cc4078091fd2115. I will be expanding on it. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 2032
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.99,
+    "S_code": 1.98,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "data_science_jargon_bot",
+    "full_name": "nstrayer/data_science_jargon_bot",
+    "html_url": "https://github.com/nstrayer/data_science_jargon_bot",
+    "description": "An attempt to make a twitter bot that mocks data science press releases, a sad attempt at a fork.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2135
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.04,
+    "S_code": 2.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "BTV_Data_Science_Talk",
+    "full_name": "nstrayer/BTV_Data_Science_Talk",
+    "html_url": "https://github.com/nstrayer/BTV_Data_Science_Talk",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 4.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "juliaQ",
+    "full_name": "nstrayer/juliaQ",
+    "html_url": "https://github.com/nstrayer/juliaQ",
+    "description": "A julia package for computing the q-value for multiple comparison correction",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 472336
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 230.63,
+    "S_code": 461.27,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "stat281",
+    "full_name": "nstrayer/stat281",
+    "html_url": "https://github.com/nstrayer/stat281",
+    "description": "Code, data, figures and cited papers for independent study on multiple comparisons with Professor Richard Single at UVM",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 2143987,
+      "R": 3360
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1048.51,
+    "S_code": 2097.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gwasTool",
+    "full_name": "nstrayer/gwasTool",
+    "html_url": "https://github.com/nstrayer/gwasTool",
+    "description": "A tool to help visualize genome wide association test results. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5404,
+      "CSS": 1165,
+      "HTML": 905
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.65,
+    "S_code": 7.3,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bootstrapedSite",
+    "full_name": "nstrayer/bootstrapedSite",
+    "html_url": "https://github.com/nstrayer/bootstrapedSite",
+    "description": "Testing out a new version of my website. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 262248,
+      "HTML": 128638,
+      "CSS": 4079
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 192.85,
+    "S_code": 385.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "distributionViz",
+    "full_name": "nstrayer/distributionViz",
+    "html_url": "https://github.com/nstrayer/distributionViz",
+    "description": "A visualization to explore statistical distributions shapes and behaviors. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 54544,
+      "CSS": 407,
+      "HTML": 287
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 26.97,
+    "S_code": 53.94,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "europeBlog",
+    "full_name": "nstrayer/europeBlog",
+    "html_url": "https://github.com/nstrayer/europeBlog",
+    "description": "A testing of Jekyll and a blog for a trip to Europe. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 11224
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.48,
+    "S_code": 10.96,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cs228",
+    "full_name": "nstrayer/cs228",
+    "html_url": "https://github.com/nstrayer/cs228",
+    "description": "Repo for code for Professor Josh Bongard's CS228 (Human Computer Interaction) at UVM.  ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "OpenEdge ABL": 86811023,
+      "JavaScript": 75603,
+      "Python": 32050,
+      "CSS": 4030
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 42442.73,
+    "S_code": 84885.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "caPowerViz",
+    "full_name": "nstrayer/caPowerViz",
+    "html_url": "https://github.com/nstrayer/caPowerViz",
+    "description": "A brief d3.js visualization of locations, output and type of California's power plants.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8655,
+      "CSS": 637
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.54,
+    "S_code": 9.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mygithubpage",
+    "full_name": "nstrayer/mygithubpage",
+    "html_url": "https://github.com/nstrayer/mygithubpage",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "personalWebsite",
+    "full_name": "nstrayer/personalWebsite",
+    "html_url": "https://github.com/nstrayer/personalWebsite",
+    "description": "All materials for my personal website. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4909,
+      "CSS": 994
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.88,
+    "S_code": 5.76,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "histOfPolio",
+    "full_name": "nstrayer/histOfPolio",
+    "html_url": "https://github.com/nstrayer/histOfPolio",
+    "description": "A time based visualization of the spread of Polio around the United States",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5182,
+      "CSS": 1047
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.04,
+    "S_code": 6.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "superheroes",
+    "full_name": "nstrayer/superheroes",
+    "html_url": "https://github.com/nstrayer/superheroes",
+    "description": "Visualization to compare the performances of Marvel and DC movies in theaters. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6051,
+      "CSS": 1380
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.63,
+    "S_code": 7.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "flouroscopeDev",
+    "full_name": "nstrayer/flouroscopeDev",
+    "html_url": "https://github.com/nstrayer/flouroscopeDev",
+    "description": null,
+    "stars": 0,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 41013739,
+      "CSS": 3383,
+      "Python": 981
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20040.37,
+    "S_code": 40056.74,
+    "S_social": 6,
+    "S_maint": 0
+  },
+  {
+    "name": "hexbinFillingStations",
+    "full_name": "nstrayer/hexbinFillingStations",
+    "html_url": "https://github.com/nstrayer/hexbinFillingStations",
+    "description": "A d3.js visualization of alternative energy filling stations around the country. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8495,
+      "CSS": 921
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.6,
+    "S_code": 9.2,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "iPythonNotebooks",
+    "full_name": "nstrayer/iPythonNotebooks",
+    "html_url": "https://github.com/nstrayer/iPythonNotebooks",
+    "description": "Just a general folder for my iPython notebooks",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 17376
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.48,
+    "S_code": 16.97,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "swfdr",
+    "full_name": "nstrayer/swfdr",
+    "html_url": "https://github.com/nstrayer/swfdr",
+    "description": "R code for calculating the Science-wise False Discovery Rate",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 25595
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.5,
+    "S_code": 25.0,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

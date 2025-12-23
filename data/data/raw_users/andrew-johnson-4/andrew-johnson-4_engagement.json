@@ -1,0 +1,14 @@
+{
+  "username": "andrew-johnson-4",
+  "raw_metrics": {
+    "accepted_external_prs": 0,
+    "created_issues": 16,
+    "merged_external_pr_count_approx": 0,
+    "issue_comment_count": 15,
+    "pr_review_comment_count": 0,
+    "events_fetched": 300,
+    "merged_prs_with_stars": [],
+    "total_closed_external_prs": 0
+  },
+  "engagement_score_100": 1.8
+}

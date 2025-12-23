@@ -1,0 +1,35 @@
+{
+  "username": "joefitzgerald",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Vim script",
+      "Ruby",
+      "JavaScript",
+      "PowerShell",
+      "Shell",
+      "Go"
+    ],
+    "distinct_topics": [
+      "api",
+      "library",
+      "go",
+      "build",
+      "openair",
+      "format",
+      "lint",
+      "salesforce",
+      "autocomplete",
+      "atom",
+      "editor",
+      "test",
+      "client",
+      "ide",
+      "golang",
+      "rest"
+    ],
+    "language_count": 6,
+    "topic_count": 16,
+    "total_owned_repos": 32
+  },
+  "diversity_score_100": 48.8
+}

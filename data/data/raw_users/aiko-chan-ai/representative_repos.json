@@ -1,0 +1,717 @@
+[
+  {
+    "name": "DiscordBotClient",
+    "full_name": "aiko-chan-ai/DiscordBotClient",
+    "html_url": "https://github.com/aiko-chan-ai/DiscordBotClient",
+    "description": "A patched version of discord, with bot login & Vencord support",
+    "stars": 1214,
+    "forks": 83,
+    "languages": {
+      "TypeScript": 210226,
+      "HTML": 12563,
+      "JavaScript": 6030
+    },
+    "contributions_by_user": 386,
+    "contribution_score": 6731.73,
+    "S_code": 223.46,
+    "S_social": 1380,
+    "S_maint": 386
+  },
+  {
+    "name": "discord.js-selfbot-v13",
+    "full_name": "aiko-chan-ai/discord.js-selfbot-v13",
+    "html_url": "https://github.com/aiko-chan-ai/discord.js-selfbot-v13",
+    "description": "An unofficial discord.js fork for creating selfbots",
+    "stars": 1178,
+    "forks": 242,
+    "languages": {
+      "JavaScript": 1570867
+    },
+    "contributions_by_user": 1470,
+    "contribution_score": 18791.02,
+    "S_code": 1534.05,
+    "S_social": 1662,
+    "S_maint": 1470
+  },
+  {
+    "name": "Discord-video-selfbot",
+    "full_name": "aiko-chan-ai/Discord-video-selfbot",
+    "html_url": "https://github.com/aiko-chan-ai/Discord-video-selfbot",
+    "description": "for djs-selfbot-v13",
+    "stars": 37,
+    "forks": 7,
+    "languages": {
+      "TypeScript": 256826
+    },
+    "contributions_by_user": 63,
+    "contribution_score": 857.4,
+    "S_code": 250.81,
+    "S_social": 51,
+    "S_maint": 63
+  },
+  {
+    "name": "aiko-chan-ai",
+    "full_name": "aiko-chan-ai/aiko-chan-ai",
+    "html_url": "https://github.com/aiko-chan-ai/aiko-chan-ai",
+    "description": "The maze wasn't meant for you.",
+    "stars": 17,
+    "forks": 13,
+    "languages": {
+      "JavaScript": 409
+    },
+    "contributions_by_user": 84,
+    "contribution_score": 926.2,
+    "S_code": 0.4,
+    "S_social": 43,
+    "S_maint": 84
+  },
+  {
+    "name": "windows-rdp",
+    "full_name": "aiko-chan-ai/windows-rdp",
+    "html_url": "https://github.com/aiko-chan-ai/windows-rdp",
+    "description": "Windows 10 VPS",
+    "stars": 15,
+    "forks": 483,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 1962.0,
+    "S_code": 0.0,
+    "S_social": 981,
+    "S_maint": 0
+  },
+  {
+    "name": "Discord-Markdown",
+    "full_name": "aiko-chan-ai/Discord-Markdown",
+    "html_url": "https://github.com/aiko-chan-ai/Discord-Markdown",
+    "description": "Better Markdown to text chat Discord. (ansi)",
+    "stars": 14,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 2910
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 123.42,
+    "S_code": 2.84,
+    "S_social": 16,
+    "S_maint": 9
+  },
+  {
+    "name": "agentbot",
+    "full_name": "aiko-chan-ai/agentbot",
+    "html_url": "https://github.com/aiko-chan-ai/agentbot",
+    "description": "AgentBot fork",
+    "stars": 14,
+    "forks": 11,
+    "languages": {
+      "JavaScript": 211844,
+      "Shell": 168
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 185.52,
+    "S_code": 207.04,
+    "S_social": 36,
+    "S_maint": 1
+  },
+  {
+    "name": "Discord-video-experiment",
+    "full_name": "aiko-chan-ai/Discord-video-experiment",
+    "html_url": "https://github.com/aiko-chan-ai/Discord-video-experiment",
+    "description": "Experiment for making video work for discord selfbots.",
+    "stars": 13,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 30446
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 102.87,
+    "S_code": 29.73,
+    "S_social": 19,
+    "S_maint": 5
+  },
+  {
+    "name": "Discord-Quest-Auto-Completion-Selfbot",
+    "full_name": "aiko-chan-ai/Discord-Quest-Auto-Completion-Selfbot",
+    "html_url": "https://github.com/aiko-chan-ai/Discord-Quest-Auto-Completion-Selfbot",
+    "description": "The repository name already explains its purpose",
+    "stars": 10,
+    "forks": 106,
+    "languages": {
+      "TypeScript": 21673,
+      "JavaScript": 7838
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 488.41,
+    "S_code": 28.82,
+    "S_social": 222,
+    "S_maint": 3
+  },
+  {
+    "name": "WebEmbed",
+    "full_name": "aiko-chan-ai/WebEmbed",
+    "html_url": "https://github.com/aiko-chan-ai/WebEmbed",
+    "description": "for Djs-selfbot-v13",
+    "stars": 8,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 7347
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 131.59,
+    "S_code": 7.17,
+    "S_social": 14,
+    "S_maint": 10
+  },
+  {
+    "name": "aiko-chan-ai.github.io",
+    "full_name": "aiko-chan-ai/aiko-chan-ai.github.io",
+    "html_url": "https://github.com/aiko-chan-ai/aiko-chan-ai.github.io",
+    "description": null,
+    "stars": 7,
+    "forks": 0,
+    "languages": {
+      "HTML": 8418
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 138.11,
+    "S_code": 8.22,
+    "S_social": 7,
+    "S_maint": 12
+  },
+  {
+    "name": "VencordDBCPlugin",
+    "full_name": "aiko-chan-ai/VencordDBCPlugin",
+    "html_url": "https://github.com/aiko-chan-ai/VencordDBCPlugin",
+    "description": "Vencord BotClient user plugin",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 113055
+    },
+    "contributions_by_user": 28,
+    "contribution_score": 347.2,
+    "S_code": 110.41,
+    "S_social": 6,
+    "S_maint": 28
+  },
+  {
+    "name": "Deep-Live-Cam",
+    "full_name": "aiko-chan-ai/Deep-Live-Cam",
+    "html_url": "https://github.com/aiko-chan-ai/Deep-Live-Cam",
+    "description": "real time face swap and one-click video deepfake with only a single image",
+    "stars": 4,
+    "forks": 3,
+    "languages": {
+      "Python": 176667,
+      "Batchfile": 79
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 106.3,
+    "S_code": 172.6,
+    "S_social": 10,
+    "S_maint": 0
+  },
+  {
+    "name": "AI-VTuber-System",
+    "full_name": "aiko-chan-ai/AI-VTuber-System",
+    "html_url": "https://github.com/aiko-chan-ai/AI-VTuber-System",
+    "description": "A graphical system program that allows you to quickly create your own AI VTuber for free.",
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "Python": 597883,
+      "Batchfile": 159
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 308.01,
+    "S_code": 584.03,
+    "S_social": 8,
+    "S_maint": 0
+  },
+  {
+    "name": "VCB.js",
+    "full_name": "aiko-chan-ai/VCB.js",
+    "html_url": "https://github.com/aiko-chan-ai/VCB.js",
+    "description": "[VI] Một thư viện nhỏ tương tác với API không chính thức của Vietcombank (PoC)",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 55474,
+      "TypeScript": 48654,
+      "HTML": 764
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 97.22,
+    "S_code": 102.43,
+    "S_social": 3,
+    "S_maint": 4
+  },
+  {
+    "name": "MBdataEnc",
+    "full_name": "aiko-chan-ai/MBdataEnc",
+    "html_url": "https://github.com/aiko-chan-ai/MBdataEnc",
+    "description": "For educational purposes only - PoC",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 26494
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 36.94,
+    "S_code": 25.87,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "v8-randomness-predictor",
+    "full_name": "aiko-chan-ai/v8-randomness-predictor",
+    "html_url": "https://github.com/aiko-chan-ai/v8-randomness-predictor",
+    "description": "Using z3 to predict `Math.random` in v8",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 4222,
+      "JavaScript": 2382
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 17.22,
+    "S_code": 6.45,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "elliottophellia",
+    "full_name": "aiko-chan-ai/elliottophellia",
+    "html_url": "https://github.com/aiko-chan-ai/elliottophellia",
+    "description": "My Simple Github Profile With Anime Theme (PSD Available For Download)",
+    "stars": 2,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 4.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "djs-web",
+    "full_name": "aiko-chan-ai/djs-web",
+    "html_url": "https://github.com/aiko-chan-ai/djs-web",
+    "description": "The discord.js site what else",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Vue": 88389,
+      "TypeScript": 43144,
+      "JavaScript": 4489,
+      "HTML": 4068,
+      "CSS": 3726
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 114.22,
+    "S_code": 140.45,
+    "S_social": 2,
+    "S_maint": 4
+  },
+  {
+    "name": "StarRailRes",
+    "full_name": "aiko-chan-ai/StarRailRes",
+    "html_url": "https://github.com/aiko-chan-ai/StarRailRes",
+    "description": "Fork",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "discord.js",
+    "full_name": "aiko-chan-ai/discord.js",
+    "html_url": "https://github.com/aiko-chan-ai/discord.js",
+    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2766336,
+      "JavaScript": 1311564,
+      "MDX": 467717,
+      "CSS": 7577,
+      "Handlebars": 2817,
+      "Dockerfile": 803,
+      "Lua": 287
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2227.15,
+    "S_code": 4450.29,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "Mapperatorinator",
+    "full_name": "aiko-chan-ai/Mapperatorinator",
+    "html_url": "https://github.com/aiko-chan-ai/Mapperatorinator",
+    "description": "A multi-model framework that generates fully featured osu! beatmaps for all gamemodes from spectrogram inputs.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 1189030,
+      "JavaScript": 66786,
+      "Jupyter Notebook": 54819,
+      "CSS": 34764,
+      "HTML": 26799,
+      "Shell": 15235,
+      "PowerShell": 2359,
+      "Dockerfile": 644,
+      "Batchfile": 262
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 681.05,
+    "S_code": 1358.1,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "N0va-Desktop-File-Converter",
+    "full_name": "aiko-chan-ai/N0va-Desktop-File-Converter",
+    "html_url": "https://github.com/aiko-chan-ai/N0va-Desktop-File-Converter",
+    "description": "Extract videos and photos from N0vaDesktop",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5781,
+      "C++": 3568
+    },
+    "contributions_by_user": 28,
+    "contribution_score": 286.56,
+    "S_code": 9.13,
+    "S_social": 1,
+    "S_maint": 28
+  },
+  {
+    "name": "fluent-ffmpeg-multistream-ts",
+    "full_name": "aiko-chan-ai/fluent-ffmpeg-multistream-ts",
+    "html_url": "https://github.com/aiko-chan-ai/fluent-ffmpeg-multistream-ts",
+    "description": "Multiple stream inputs/outputs in fluent-ffmpeg.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1985
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.97,
+    "S_code": 1.94,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "Touwa",
+    "full_name": "aiko-chan-ai/Touwa",
+    "html_url": "https://github.com/aiko-chan-ai/Touwa",
+    "description": "An unofficial REST API that gets information from a Vietnamese R-18 website called HentaiVN.tv using Node.JS.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 50982
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 26.89,
+    "S_code": 49.79,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "MalwareDatabase",
+    "full_name": "aiko-chan-ai/MalwareDatabase",
+    "html_url": "https://github.com/aiko-chan-ai/MalwareDatabase",
+    "description": "This repository is one of a few malware collections on the GitHub.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 10560
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.16,
+    "S_code": 10.31,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "WebM-Maker-Thing-Idk",
+    "full_name": "aiko-chan-ai/WebM-Maker-Thing-Idk",
+    "html_url": "https://github.com/aiko-chan-ai/WebM-Maker-Thing-Idk",
+    "description": "This is a simple tool to allow you to create WebM files with changing aspect ratios.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 18698,
+      "Batchfile": 873,
+      "Shell": 737
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.92,
+    "S_code": 19.83,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "CodeTerminal",
+    "full_name": "aiko-chan-ai/CodeTerminal",
+    "html_url": "https://github.com/aiko-chan-ai/CodeTerminal",
+    "description": "Cross platform standalone terminal app extract from Visual Studio Code.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 37108993,
+      "JavaScript": 1299358,
+      "CSS": 586591,
+      "Inno Setup": 303408,
+      "HTML": 204354,
+      "Shell": 50641,
+      "Batchfile": 18246,
+      "PowerShell": 10319,
+      "Less": 15
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19329.11,
+    "S_code": 38654.22,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "Monoxide",
+    "full_name": "aiko-chan-ai/Monoxide",
+    "html_url": "https://github.com/aiko-chan-ai/Monoxide",
+    "description": "A little Trojan I wrote in a few days, creating GDI screen effects.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 76734,
+      "Assembly": 2191,
+      "Batchfile": 184
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 40.63,
+    "S_code": 77.25,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "t-rex-runner",
+    "full_name": "aiko-chan-ai/t-rex-runner",
+    "html_url": "https://github.com/aiko-chan-ai/t-rex-runner",
+    "description": "the t-rex runner game extracted from chromium",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 88498,
+      "HTML": 30514,
+      "CSS": 2410
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 61.29,
+    "S_code": 118.58,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "paint-github",
+    "full_name": "aiko-chan-ai/paint-github",
+    "html_url": "https://github.com/aiko-chan-ai/paint-github",
+    "description": "The most convenient way to paint your GitHub contribution graph",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 104072,
+      "CSS": 1784,
+      "HTML": 683
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 54.02,
+    "S_code": 104.04,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "winget-pkgs",
+    "full_name": "aiko-chan-ai/winget-pkgs",
+    "html_url": "https://github.com/aiko-chan-ai/winget-pkgs",
+    "description": "The Microsoft community Windows Package Manager manifest repository",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PowerShell": 469217,
+      "C#": 241704
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 347.13,
+    "S_code": 694.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Easylist_hosts",
+    "full_name": "aiko-chan-ai/Easylist_hosts",
+    "html_url": "https://github.com/aiko-chan-ai/Easylist_hosts",
+    "description": "https://github.com/easylist/easylist/blob/master/easylist/easylist_adservers.txt as a hosts file and more",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "zca-js",
+    "full_name": "aiko-chan-ai/zca-js",
+    "html_url": "https://github.com/aiko-chan-ai/zca-js",
+    "description": "Unofficial Zalo API for JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 433013,
+      "JavaScript": 3516
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 213.15,
+    "S_code": 426.3,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Open-LLM-VTuber",
+    "full_name": "aiko-chan-ai/Open-LLM-VTuber",
+    "html_url": "https://github.com/aiko-chan-ai/Open-LLM-VTuber",
+    "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 644866,
+      "JavaScript": 18633,
+      "HTML": 3737
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 329.8,
+    "S_code": 651.6,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "discord-userdoccers",
+    "full_name": "aiko-chan-ai/discord-userdoccers",
+    "html_url": "https://github.com/aiko-chan-ai/discord-userdoccers",
+    "description": "Unofficial Discord User API Documentation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "MDX": 2828057,
+      "TypeScript": 190533,
+      "CSS": 9787,
+      "JavaScript": 3926
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 1520.62,
+    "S_code": 2961.23,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "Live2d-model",
+    "full_name": "aiko-chan-ai/Live2d-model",
+    "html_url": "https://github.com/aiko-chan-ai/Live2d-model",
+    "description": "Live2d model collection",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Mathematica": 581462,
+      "Batchfile": 196
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 288.01,
+    "S_code": 568.03,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "scripts",
+    "full_name": "aiko-chan-ai/scripts",
+    "html_url": "https://github.com/aiko-chan-ai/scripts",
+    "description": "Random scripts",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 33886
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.55,
+    "S_code": 33.09,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hostsblock",
+    "full_name": "aiko-chan-ai/hostsblock",
+    "html_url": "https://github.com/aiko-chan-ai/hostsblock",
+    "description": "Converts AdBlock Plus filter lists to hosts file entries",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 2381,
+      "Makefile": 123
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.22,
+    "S_code": 2.45,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "explorerTool",
+    "full_name": "aiko-chan-ai/explorerTool",
+    "html_url": "https://github.com/aiko-chan-ai/explorerTool",
+    "description": "Custom Windows Explorer background image",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 99480,
+      "C": 27563,
+      "Batchfile": 662
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 62.36,
+    "S_code": 124.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ngrok-rdp",
+    "full_name": "aiko-chan-ai/ngrok-rdp",
+    "html_url": "https://github.com/aiko-chan-ai/ngrok-rdp",
+    "description": "Virtual Remote Server | ngrok",
+    "stars": 0,
+    "forks": 2,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 8.0,
+    "S_code": 0.0,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "MagiskOnWSA",
+    "full_name": "aiko-chan-ai/MagiskOnWSA",
+    "html_url": "https://github.com/aiko-chan-ai/MagiskOnWSA",
+    "description": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

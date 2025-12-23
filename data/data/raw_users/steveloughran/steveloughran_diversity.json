@@ -1,0 +1,24 @@
+{
+  "username": "steveloughran",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Python",
+      "Standard ML",
+      "Java",
+      "Ruby",
+      "Groovy",
+      "TeX",
+      "C",
+      "Scala",
+      "JavaScript",
+      "Shell"
+    ],
+    "distinct_topics": [
+      "hadoop"
+    ],
+    "language_count": 10,
+    "topic_count": 1,
+    "total_owned_repos": 35
+  },
+  "diversity_score_100": 60.8
+}

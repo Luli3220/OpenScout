@@ -1,0 +1,39 @@
+[
+  {
+    "name": "fferegrino/cf-ml",
+    "stars": 42,
+    "description": "Ejercicios del curso de introducción a Machine Learning",
+    "languages_breakdown": {
+      "Jupyter Notebook": 270883,
+      "Python": 33148,
+      "Shell": 405,
+      "Makefile": 378,
+      "Dockerfile": 99
+    },
+    "files": {}
+  },
+  {
+    "name": "fferegrino/card-embeddings",
+    "stars": 28,
+    "description": "无",
+    "languages_breakdown": {
+      "Jupyter Notebook": 1266899,
+      "Python": 4396
+    },
+    "files": {
+      "requirements.txt": "annoy\nnumpy\nscipy\nstreamlit\nrequests"
+    }
+  },
+  {
+    "name": "fferegrino/machine-learning-with-scikit-learn",
+    "stars": 27,
+    "description": "无",
+    "languages_breakdown": {
+      "Jupyter Notebook": 290902,
+      "Python": 12104
+    },
+    "files": {
+      "requirements.txt": "scikit-learn\npandas\nnumpy\nscipy\nmatplotlib\n"
+    }
+  }
+]

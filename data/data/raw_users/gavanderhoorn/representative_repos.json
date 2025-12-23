@@ -1,0 +1,5483 @@
+[
+  {
+    "name": "dominh",
+    "full_name": "gavanderhoorn/dominh",
+    "html_url": "https://github.com/gavanderhoorn/dominh",
+    "description": "Poor man's RPC interface to Fanuc robot controllers in Python",
+    "stars": 48,
+    "forks": 6,
+    "languages": {
+      "Python": 104403,
+      "Makefile": 527
+    },
+    "contributions_by_user": 164,
+    "contribution_score": 1811.24,
+    "S_code": 102.47,
+    "S_social": 60,
+    "S_maint": 164
+  },
+  {
+    "name": "fanuc_driver_exp",
+    "full_name": "gavanderhoorn/fanuc_driver_exp",
+    "html_url": "https://github.com/gavanderhoorn/fanuc_driver_exp",
+    "description": "An alternative - experimental - Fanuc robot driver for ROS-Industrial",
+    "stars": 35,
+    "forks": 16,
+    "languages": {
+      "LiveScript": 2464
+    },
+    "contributions_by_user": 39,
+    "contribution_score": 525.2,
+    "S_code": 2.41,
+    "S_social": 67,
+    "S_maint": 39
+  },
+  {
+    "name": "rosbag_fixer",
+    "full_name": "gavanderhoorn/rosbag_fixer",
+    "html_url": "https://github.com/gavanderhoorn/rosbag_fixer",
+    "description": "Replaces incomplete msg defs with the correct ones in bags with topics published by rosjava",
+    "stars": 27,
+    "forks": 9,
+    "languages": {
+      "Python": 6876
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 243.36,
+    "S_code": 6.71,
+    "S_social": 45,
+    "S_maint": 15
+  },
+  {
+    "name": "fanuc_dpm_mouse_demo",
+    "full_name": "gavanderhoorn/fanuc_dpm_mouse_demo",
+    "html_url": "https://github.com/gavanderhoorn/fanuc_dpm_mouse_demo",
+    "description": "A simple demo showing Fanuc DPM controlled with a mouse",
+    "stars": 27,
+    "forks": 12,
+    "languages": {
+      "Python": 2971,
+      "LiveScript": 1510,
+      "Batchfile": 318
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 184.34,
+    "S_code": 4.69,
+    "S_social": 51,
+    "S_maint": 8
+  },
+  {
+    "name": "ktransw_py",
+    "full_name": "gavanderhoorn/ktransw_py",
+    "html_url": "https://github.com/gavanderhoorn/ktransw_py",
+    "description": "A wrapper around Fanuc Robotics' ktrans that makes it work a little more like a modern compiler",
+    "stars": 20,
+    "forks": 8,
+    "languages": {
+      "Python": 24582,
+      "Batchfile": 656
+    },
+    "contributions_by_user": 41,
+    "contribution_score": 494.32,
+    "S_code": 24.65,
+    "S_social": 36,
+    "S_maint": 41
+  },
+  {
+    "name": "comet_rpc",
+    "full_name": "gavanderhoorn/comet_rpc",
+    "html_url": "https://github.com/gavanderhoorn/comet_rpc",
+    "description": "Low-level Python wrapper around the COMET RPC interface on Fanuc R-30iB(+) controllers (V8+)",
+    "stars": 19,
+    "forks": 3,
+    "languages": {
+      "Python": 68873
+    },
+    "contributions_by_user": 46,
+    "contribution_score": 543.63,
+    "S_code": 67.26,
+    "S_social": 25,
+    "S_maint": 46
+  },
+  {
+    "name": "rossum",
+    "full_name": "gavanderhoorn/rossum",
+    "html_url": "https://github.com/gavanderhoorn/rossum",
+    "description": "A CMake-like build file generator for Fanuc Robotics (Karel) projects.",
+    "stars": 10,
+    "forks": 7,
+    "languages": {
+      "Python": 28817,
+      "EmberScript": 2962,
+      "Batchfile": 655
+    },
+    "contributions_by_user": 90,
+    "contribution_score": 963.84,
+    "S_code": 31.67,
+    "S_social": 24,
+    "S_maint": 90
+  },
+  {
+    "name": "epson_experimental",
+    "full_name": "gavanderhoorn/epson_experimental",
+    "html_url": "https://github.com/gavanderhoorn/epson_experimental",
+    "description": "Experimental packages for Epson manipulators within ROS-Industrial",
+    "stars": 8,
+    "forks": 8,
+    "languages": {
+      "xBase": 16947,
+      "C++": 6710,
+      "Pawn": 1870,
+      "CMake": 1451
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 291.17,
+    "S_code": 26.35,
+    "S_social": 24,
+    "S_maint": 23
+  },
+  {
+    "name": "fanuc_va_lark_grammar",
+    "full_name": "gavanderhoorn/fanuc_va_lark_grammar",
+    "html_url": "https://github.com/gavanderhoorn/fanuc_va_lark_grammar",
+    "description": "A Lark Parser grammar for Fanuc .va files",
+    "stars": 8,
+    "forks": 0,
+    "languages": {
+      "Python": 1560
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 136.76,
+    "S_code": 1.52,
+    "S_social": 8,
+    "S_maint": 12
+  },
+  {
+    "name": "fanuc_ros_tools",
+    "full_name": "gavanderhoorn/fanuc_ros_tools",
+    "html_url": "https://github.com/gavanderhoorn/fanuc_ros_tools",
+    "description": "A small collection of tools that can be useful when using a Fanuc robot with ROS",
+    "stars": 7,
+    "forks": 2,
+    "languages": {
+      "Python": 31467
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 327.36,
+    "S_code": 30.73,
+    "S_social": 11,
+    "S_maint": 29
+  },
+  {
+    "name": "motoman",
+    "full_name": "gavanderhoorn/motoman",
+    "html_url": "https://github.com/gavanderhoorn/motoman",
+    "description": "ROS-Industrial motoman meta-package. http://wiki.ros.org/motoman",
+    "stars": 6,
+    "forks": 8,
+    "languages": {
+      "C++": 567853,
+      "C": 240909,
+      "CMake": 25258,
+      "Shell": 11723,
+      "JetBrains MPS": 1615
+    },
+    "contributions_by_user": 298,
+    "contribution_score": 3437.75,
+    "S_code": 827.5,
+    "S_social": 22,
+    "S_maint": 298
+  },
+  {
+    "name": "industrial_robot_status_controller",
+    "full_name": "gavanderhoorn/industrial_robot_status_controller",
+    "html_url": "https://github.com/gavanderhoorn/industrial_robot_status_controller",
+    "description": "A ros_control controller that reports robot status using the ROS-Industrial RobotStatus message.",
+    "stars": 6,
+    "forks": 5,
+    "languages": {
+      "C++": 9120,
+      "CMake": 1298
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 297.09,
+    "S_code": 10.17,
+    "S_social": 16,
+    "S_maint": 26
+  },
+  {
+    "name": "kuka_experimental",
+    "full_name": "gavanderhoorn/kuka_experimental",
+    "html_url": "https://github.com/gavanderhoorn/kuka_experimental",
+    "description": "Experimental packages for Kuka manipulators within ROS-Industrial",
+    "stars": 6,
+    "forks": 2,
+    "languages": {
+      "C++": 26714,
+      "Python": 3665,
+      "CMake": 3111
+    },
+    "contributions_by_user": 40,
+    "contribution_score": 436.35,
+    "S_code": 32.71,
+    "S_social": 10,
+    "S_maint": 40
+  },
+  {
+    "name": "fanuc",
+    "full_name": "gavanderhoorn/fanuc",
+    "html_url": "https://github.com/gavanderhoorn/fanuc",
+    "description": "ROS-Industrial Fanuc meta-package. http://ros.org/wiki/fanuc",
+    "stars": 5,
+    "forks": 2,
+    "languages": {
+      "C++": 3768018,
+      "CMake": 34263,
+      "LiveScript": 2748
+    },
+    "contributions_by_user": 479,
+    "contribution_score": 6665.92,
+    "S_code": 3715.85,
+    "S_social": 9,
+    "S_maint": 479
+  },
+  {
+    "name": "fanuc_ros_cgio",
+    "full_name": "gavanderhoorn/fanuc_ros_cgio",
+    "html_url": "https://github.com/gavanderhoorn/fanuc_ros_cgio",
+    "description": "(deprecated) A simple CGI-like interface to the IO ports on Fanuc robot controllers",
+    "stars": 5,
+    "forks": 4,
+    "languages": {
+      "Makefile": 500
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 106.24,
+    "S_code": 0.49,
+    "S_social": 13,
+    "S_maint": 8
+  },
+  {
+    "name": "rep-ros-i",
+    "full_name": "gavanderhoorn/rep-ros-i",
+    "html_url": "https://github.com/gavanderhoorn/rep-ros-i",
+    "description": "ROS-Industrial REPs",
+    "stars": 4,
+    "forks": 4,
+    "languages": {},
+    "contributions_by_user": 59,
+    "contribution_score": 614.0,
+    "S_code": 0.0,
+    "S_social": 12,
+    "S_maint": 59
+  },
+  {
+    "name": "wireshark-dds-xrce",
+    "full_name": "gavanderhoorn/wireshark-dds-xrce",
+    "html_url": "https://github.com/gavanderhoorn/wireshark-dds-xrce",
+    "description": "DDS-XRCE Protocol dissector for Wireshark",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Lua": 81383
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 65.74,
+    "S_code": 79.48,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "packet-fanuc-hspo-r891",
+    "full_name": "gavanderhoorn/packet-fanuc-hspo-r891",
+    "html_url": "https://github.com/gavanderhoorn/packet-fanuc-hspo-r891",
+    "description": "Wireshark Lua dissector for the R891 protocol (High Speed Position Output)",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Lua": 15741
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 97.69,
+    "S_code": 15.37,
+    "S_social": 5,
+    "S_maint": 8
+  },
+  {
+    "name": "fanuc_ros_cgio_py",
+    "full_name": "gavanderhoorn/fanuc_ros_cgio_py",
+    "html_url": "https://github.com/gavanderhoorn/fanuc_ros_cgio_py",
+    "description": "(deprecated) A Python library for interfacing with the CGI script from fanuc_ros_cgio",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Python": 4924
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 98.4,
+    "S_code": 4.81,
+    "S_social": 3,
+    "S_maint": 9
+  },
+  {
+    "name": "kawasaki_experimental",
+    "full_name": "gavanderhoorn/kawasaki_experimental",
+    "html_url": "https://github.com/gavanderhoorn/kawasaki_experimental",
+    "description": "Experimental packages for Kawasaki manipulators within ROS-Industrial",
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "CMake": 120
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 124.06,
+    "S_code": 0.12,
+    "S_social": 7,
+    "S_maint": 11
+  },
+  {
+    "name": "packet-keyence-lj-v7000",
+    "full_name": "gavanderhoorn/packet-keyence-lj-v7000",
+    "html_url": "https://github.com/gavanderhoorn/packet-keyence-lj-v7000",
+    "description": "Wireshark dissector for the Keyence LJ-V (7000) Ultra-High Speed In-Line Profilometer ethernet protocol",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Lua": 49220
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 84.03,
+    "S_code": 48.07,
+    "S_social": 5,
+    "S_maint": 5
+  },
+  {
+    "name": "ros2_fanuc_interface",
+    "full_name": "gavanderhoorn/ros2_fanuc_interface",
+    "html_url": "https://github.com/gavanderhoorn/ros2_fanuc_interface",
+    "description": "The unofficial ros2 hardware interface for the Fanuc CRX robots",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "C++": 98668,
+      "Python": 5307,
+      "CMake": 4495
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 60.96,
+    "S_code": 105.93,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "motoros2_fjt_pt_queue_proxy",
+    "full_name": "gavanderhoorn/motoros2_fjt_pt_queue_proxy",
+    "html_url": "https://github.com/gavanderhoorn/motoros2_fjt_pt_queue_proxy",
+    "description": "Drip-feeds FJT goals to MotoROS2 one trajectory point at a time ",
+    "stars": 2,
+    "forks": 5,
+    "languages": {
+      "Python": 14620
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 51.14,
+    "S_code": 14.28,
+    "S_social": 12,
+    "S_maint": 2
+  },
+  {
+    "name": "cartesian_ros_control",
+    "full_name": "gavanderhoorn/cartesian_ros_control",
+    "html_url": "https://github.com/gavanderhoorn/cartesian_ros_control",
+    "description": "A set of packages to bring Cartesian control functionality to the ROS-control framework.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C++": 142501,
+      "CMake": 32510,
+      "Python": 5512
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 92.15,
+    "S_code": 176.29,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "slam_gmapping",
+    "full_name": "gavanderhoorn/slam_gmapping",
+    "html_url": "https://github.com/gavanderhoorn/slam_gmapping",
+    "description": "http://www.ros.org/wiki/slam_gmapping",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C++": 42514,
+      "CMake": 4339,
+      "Python": 3763
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 28.71,
+    "S_code": 49.43,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "frfformats",
+    "full_name": "gavanderhoorn/frfformats",
+    "html_url": "https://github.com/gavanderhoorn/frfformats",
+    "description": "Python 2 library for reading (and sometimes writing) Fanuc Robotics file formats.",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Python": 16190
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 255.91,
+    "S_code": 15.81,
+    "S_social": 4,
+    "S_maint": 24
+  },
+  {
+    "name": "python-urx",
+    "full_name": "gavanderhoorn/python-urx",
+    "html_url": "https://github.com/gavanderhoorn/python-urx",
+    "description": "Python library to control a robot from 'Universal Robots' http://www.universal-robots.com/",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 65239,
+      "Shell": 40
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.87,
+    "S_code": 63.75,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "packet-festo-cve",
+    "full_name": "gavanderhoorn/packet-festo-cve",
+    "html_url": "https://github.com/gavanderhoorn/packet-festo-cve",
+    "description": "A Wireshark dissector for the Festo Control Via Ethernet protocol",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Lua": 48023
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 77.45,
+    "S_code": 46.9,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "abb",
+    "full_name": "gavanderhoorn/abb",
+    "html_url": "https://github.com/gavanderhoorn/abb",
+    "description": "ROS-Industrial abb repo",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 143363,
+      "CMake": 3699
+    },
+    "contributions_by_user": 43,
+    "contribution_score": 503.81,
+    "S_code": 143.62,
+    "S_social": 1,
+    "S_maint": 43
+  },
+  {
+    "name": "colcon-in-container",
+    "full_name": "gavanderhoorn/colcon-in-container",
+    "html_url": "https://github.com/gavanderhoorn/colcon-in-container",
+    "description": "Colcon extension to build a colcon workspace in a container",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 56440
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 29.56,
+    "S_code": 55.12,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "yaskawa_executor",
+    "full_name": "gavanderhoorn/yaskawa_executor",
+    "html_url": "https://github.com/gavanderhoorn/yaskawa_executor",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 29784,
+      "CMake": 1371,
+      "Python": 1367
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.88,
+    "S_code": 31.76,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "marathon_ros2",
+    "full_name": "gavanderhoorn/marathon_ros2",
+    "html_url": "https://github.com/gavanderhoorn/marathon_ros2",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 70805,
+      "C++": 16561,
+      "CMake": 3174
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 46.21,
+    "S_code": 88.42,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "launch_ros",
+    "full_name": "gavanderhoorn/launch_ros",
+    "html_url": "https://github.com/gavanderhoorn/launch_ros",
+    "description": "Tools for launching ROS nodes and for writing tests involving ROS nodes.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 395960
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 195.34,
+    "S_code": 386.68,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "micro-ROS-demos",
+    "full_name": "gavanderhoorn/micro-ROS-demos",
+    "html_url": "https://github.com/gavanderhoorn/micro-ROS-demos",
+    "description": "Sample code using rclc and rclcpp implementations.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 88620,
+      "CMake": 16765
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 53.46,
+    "S_code": 102.92,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ros2_controllers",
+    "full_name": "gavanderhoorn/ros2_controllers",
+    "html_url": "https://github.com/gavanderhoorn/ros2_controllers",
+    "description": "Generic robotic controllers to accompany ros2_control",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 870128,
+      "Python": 61229,
+      "CMake": 47608,
+      "C": 33681
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 496.46,
+    "S_code": 988.91,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "boxer-cpr_boxer_desktop",
+    "full_name": "gavanderhoorn/boxer-cpr_boxer_desktop",
+    "html_url": "https://github.com/gavanderhoorn/boxer-cpr_boxer_desktop",
+    "description": "Desktop packages for Boxer",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "CMake": 425
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.21,
+    "S_code": 0.42,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "abb_robot_driver",
+    "full_name": "gavanderhoorn/abb_robot_driver",
+    "html_url": "https://github.com/gavanderhoorn/abb_robot_driver",
+    "description": "A ROS driver for ABB robots",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 225217,
+      "CMake": 27126
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 145.21,
+    "S_code": 246.43,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "micro_ros_setup",
+    "full_name": "gavanderhoorn/micro_ros_setup",
+    "html_url": "https://github.com/gavanderhoorn/micro_ros_setup",
+    "description": "Support macros for building micro-ROS-based firmware.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Shell": 67042,
+      "Python": 5099,
+      "CMake": 1538
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 37.98,
+    "S_code": 71.95,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "boxer-cpr_boxer_manipulation",
+    "full_name": "gavanderhoorn/boxer-cpr_boxer_manipulation",
+    "html_url": "https://github.com/gavanderhoorn/boxer-cpr_boxer_manipulation",
+    "description": "Repository to store all necessary packages for common manipulator integrations",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Shell": 4210,
+      "CMake": 3978,
+      "Python": 738
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.36,
+    "S_code": 8.72,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "boxer-cpr_boxer",
+    "full_name": "gavanderhoorn/boxer-cpr_boxer",
+    "html_url": "https://github.com/gavanderhoorn/boxer-cpr_boxer",
+    "description": "Common packages for Boxer, including messages, robot description, and controllers",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "CMake": 1538
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.75,
+    "S_code": 1.5,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "boxer-cpr_boxer_robot",
+    "full_name": "gavanderhoorn/boxer-cpr_boxer_robot",
+    "html_url": "https://github.com/gavanderhoorn/boxer-cpr_boxer_robot",
+    "description": "Robot packages for Boxer",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Shell": 3556,
+      "CMake": 1097
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.27,
+    "S_code": 4.54,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ros2_RobotSimulation",
+    "full_name": "gavanderhoorn/ros2_RobotSimulation",
+    "html_url": "https://github.com/gavanderhoorn/ros2_RobotSimulation",
+    "description": "ROS2.0 Foxy repository which provides ready-to-use ROS2.0 Gazebo + MoveIt!2 simulation packages for different Industrial and Collaborative Robots.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 532386,
+      "Python": 226092,
+      "CMake": 32883
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 388.41,
+    "S_code": 772.81,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "rep",
+    "full_name": "gavanderhoorn/rep",
+    "html_url": "https://github.com/gavanderhoorn/rep",
+    "description": "http://gavanderhoorn.github.io/rep/rep-0199.html",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1502287,
+      "Python": 57851,
+      "CSS": 37081,
+      "Makefile": 618
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 882.19,
+    "S_code": 1560.39,
+    "S_social": 1,
+    "S_maint": 10
+  },
+  {
+    "name": "boxer-cpr_boxer_simulator",
+    "full_name": "gavanderhoorn/boxer-cpr_boxer_simulator",
+    "html_url": "https://github.com/gavanderhoorn/boxer-cpr_boxer_simulator",
+    "description": "Gazebo simulation for Boxer",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 3396,
+      "CMake": 590
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.95,
+    "S_code": 3.89,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "stomp_ros",
+    "full_name": "gavanderhoorn/stomp_ros",
+    "html_url": "https://github.com/gavanderhoorn/stomp_ros",
+    "description": "ROS packages for the STOMP planner (split out of industrial_moveit)",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 378101,
+      "CMake": 7870
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 240.46,
+    "S_code": 376.92,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "abb_driver",
+    "full_name": "gavanderhoorn/abb_driver",
+    "html_url": "https://github.com/gavanderhoorn/abb_driver",
+    "description": "(old) ROS driver for ABB IRC5 / RW5 or RW6 controllers (Simple Message & RAPID)",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "AMPL": 16656,
+      "C++": 11459,
+      "CMake": 1291
+    },
+    "contributions_by_user": 32,
+    "contribution_score": 336.36,
+    "S_code": 28.72,
+    "S_social": 1,
+    "S_maint": 32
+  },
+  {
+    "name": "ros2_control_demo_drivers",
+    "full_name": "gavanderhoorn/ros2_control_demo_drivers",
+    "html_url": "https://github.com/gavanderhoorn/ros2_control_demo_drivers",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 34662,
+      "C": 4766,
+      "CMake": 4041,
+      "Python": 2253
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 24.33,
+    "S_code": 44.65,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "rxros",
+    "full_name": "gavanderhoorn/rxros",
+    "html_url": "https://github.com/gavanderhoorn/rxros",
+    "description": "Reactive programming for ROS",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 936673,
+      "CMake": 6829
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 492.69,
+    "S_code": 921.39,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "ecal",
+    "full_name": "gavanderhoorn/ecal",
+    "html_url": "https://github.com/gavanderhoorn/ecal",
+    "description": "eCAL - enhanced Communication Abstraction Layer",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 1689935,
+      "C": 100035,
+      "CMake": 85785,
+      "Objective-C": 17820,
+      "Batchfile": 1283
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 927.22,
+    "S_code": 1850.45,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "rtr_moveit",
+    "full_name": "gavanderhoorn/rtr_moveit",
+    "html_url": "https://github.com/gavanderhoorn/rtr_moveit",
+    "description": "A MoveIt! planning plugin for Realtime Robotics's RapidPlan.",
+    "stars": 1,
+    "forks": 8,
+    "languages": {
+      "C++": 112137,
+      "Shell": 14186,
+      "CMake": 3122
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 97.21,
+    "S_code": 126.41,
+    "S_social": 17,
+    "S_maint": 0
+  },
+  {
+    "name": "pilz_robots",
+    "full_name": "gavanderhoorn/pilz_robots",
+    "html_url": "https://github.com/gavanderhoorn/pilz_robots",
+    "description": "PILZ robot manipulator module PRBT in ROS",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 647931,
+      "CMake": 3276,
+      "Shell": 189
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 320.06,
+    "S_code": 636.13,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "jenkins_bcrypt_pw_util",
+    "full_name": "gavanderhoorn/jenkins_bcrypt_pw_util",
+    "html_url": "https://github.com/gavanderhoorn/jenkins_bcrypt_pw_util",
+    "description": "Simple Python script that generates Jenkins-compatible bcrypt encrypted passwords on the commandline.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Python": 1496,
+      "Batchfile": 48
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 106.75,
+    "S_code": 1.51,
+    "S_social": 3,
+    "S_maint": 10
+  },
+  {
+    "name": "moveit_mpp",
+    "full_name": "gavanderhoorn/moveit_mpp",
+    "html_url": "https://github.com/gavanderhoorn/moveit_mpp",
+    "description": "Multi-planner plugin hoster plugin for MoveIt",
+    "stars": 1,
+    "forks": 3,
+    "languages": {
+      "C++": 10124,
+      "CMake": 579
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 49.23,
+    "S_code": 10.45,
+    "S_social": 7,
+    "S_maint": 3
+  },
+  {
+    "name": "libsimplemsg_kl",
+    "full_name": "gavanderhoorn/libsimplemsg_kl",
+    "html_url": "https://github.com/gavanderhoorn/libsimplemsg_kl",
+    "description": "An implementation of the ROS-Industrial Simple Message protocol in Fanuc Karel",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 10,
+    "contribution_score": 102.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 10
+  },
+  {
+    "name": "sw2urdf",
+    "full_name": "gavanderhoorn/sw2urdf",
+    "html_url": "https://github.com/gavanderhoorn/sw2urdf",
+    "description": "Clone of Stephen Brawner's SW2URDF BitBucket repository. This is STALE: do not use.",
+    "stars": 1,
+    "forks": 3,
+    "languages": {
+      "C#": 10505273,
+      "C": 310781,
+      "C++": 68309,
+      "F#": 65675,
+      "Inno Setup": 3018,
+      "ASP": 2953,
+      "HTML": 2888
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5365.02,
+    "S_code": 10702.05,
+    "S_social": 7,
+    "S_maint": 0
+  },
+  {
+    "name": "getifaddrs_preload",
+    "full_name": "gavanderhoorn/getifaddrs_preload",
+    "html_url": "https://github.com/gavanderhoorn/getifaddrs_preload",
+    "description": "NOTE: as of Win10 build 14965, the preload trick is NOT necessary anymore",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 2529,
+      "Makefile": 158
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 63.31,
+    "S_code": 2.62,
+    "S_social": 1,
+    "S_maint": 6
+  },
+  {
+    "name": "urdf_collection",
+    "full_name": "gavanderhoorn/urdf_collection",
+    "html_url": "https://github.com/gavanderhoorn/urdf_collection",
+    "description": "A collection of ROS-compatible URDF robots",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "genfrkl",
+    "full_name": "gavanderhoorn/genfrkl",
+    "html_url": "https://github.com/gavanderhoorn/genfrkl",
+    "description": "ROS Message generator for Fanuc Karel.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 37794,
+      "EmberScript": 2024,
+      "CMake": 594
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 211.73,
+    "S_code": 39.46,
+    "S_social": 1,
+    "S_maint": 19
+  },
+  {
+    "name": "motoman_ros2_support_packages",
+    "full_name": "gavanderhoorn/motoman_ros2_support_packages",
+    "html_url": "https://github.com/gavanderhoorn/motoman_ros2_support_packages",
+    "description": "Robot support packages for Motoman robots",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 8470
+    },
+    "contributions_by_user": 362,
+    "contribution_score": 3624.14,
+    "S_code": 8.27,
+    "S_social": 0,
+    "S_maint": 362
+  },
+  {
+    "name": "ros2_planning_system",
+    "full_name": "gavanderhoorn/ros2_planning_system",
+    "html_url": "https://github.com/gavanderhoorn/ros2_planning_system",
+    "description": "This repo contains a PDDL-based planning system for ROS2.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 1730946,
+      "PDDL": 166594,
+      "Python": 94941,
+      "CMake": 41882
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 993.34,
+    "S_code": 1986.68,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rmw_email",
+    "full_name": "gavanderhoorn/rmw_email",
+    "html_url": "https://github.com/gavanderhoorn/rmw_email",
+    "description": "ROS 2 over email: a middleware implementation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 460015,
+      "CMake": 12415,
+      "Python": 6293,
+      "Shell": 5756
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 236.56,
+    "S_code": 473.12,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "benchmarking",
+    "full_name": "gavanderhoorn/benchmarking",
+    "html_url": "https://github.com/gavanderhoorn/benchmarking",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 169200,
+      "Shell": 49700,
+      "C": 19093
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 116.21,
+    "S_code": 232.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "RVD",
+    "full_name": "gavanderhoorn/RVD",
+    "html_url": "https://github.com/gavanderhoorn/RVD",
+    "description": "Robot Vulnerability Database. An archive of robot vulnerabilities and bugs.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 474812,
+      "Dockerfile": 1197
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 232.43,
+    "S_code": 464.85,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rosdistro",
+    "full_name": "gavanderhoorn/rosdistro",
+    "html_url": "https://github.com/gavanderhoorn/rosdistro",
+    "description": "A list of repos to build into debians",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 177035,
+      "Shell": 373
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 86.62,
+    "S_code": 173.25,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rosidl_python",
+    "full_name": "gavanderhoorn/rosidl_python",
+    "html_url": "https://github.com/gavanderhoorn/rosidl_python",
+    "description": "rosidl support for Python",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "EmberScript": 84355,
+      "Python": 64229,
+      "CMake": 20105
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 82.37,
+    "S_code": 164.74,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rosidl",
+    "full_name": "gavanderhoorn/rosidl",
+    "html_url": "https://github.com/gavanderhoorn/rosidl",
+    "description": "Packages which provide the ROS IDL (.msg) definition and code generation.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 545403,
+      "C": 437156,
+      "Python": 327755,
+      "EmberScript": 202683,
+      "CMake": 112941,
+      "Shell": 6349
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 797.02,
+    "S_code": 1594.03,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rmw_zenoh",
+    "full_name": "gavanderhoorn/rmw_zenoh",
+    "html_url": "https://github.com/gavanderhoorn/rmw_zenoh",
+    "description": "Experimental rmw using zenoh as the middleware",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 323457,
+      "C": 33081,
+      "CMake": 23696
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 185.66,
+    "S_code": 371.32,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "DR-Basic-Control-SDK-iOS",
+    "full_name": "gavanderhoorn/DR-Basic-Control-SDK-iOS",
+    "html_url": "https://github.com/gavanderhoorn/DR-Basic-Control-SDK-iOS",
+    "description": "This SDK provides access to basic driving controls from a custom iOS application.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Objective-C": 9104
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.45,
+    "S_code": 8.89,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "leaningtech_labs",
+    "full_name": "gavanderhoorn/leaningtech_labs",
+    "html_url": "https://github.com/gavanderhoorn/leaningtech_labs",
+    "description": "Leaning Technologies developer site",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "MDX": 289813,
+      "Astro": 122694,
+      "JavaScript": 36668,
+      "Svelte": 32088,
+      "TypeScript": 30073,
+      "C++": 24547,
+      "HTML": 3165,
+      "CSS": 2424,
+      "PHP": 1219
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 264.99,
+    "S_code": 529.97,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ros1_bridge",
+    "full_name": "gavanderhoorn/ros1_bridge",
+    "html_url": "https://github.com/gavanderhoorn/ros1_bridge",
+    "description": "ROS 2 package that provides bidirectional communication between ROS 1 and ROS 2",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 130732,
+      "Python": 41647,
+      "EmberScript": 28267,
+      "CMake": 17214
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 106.38,
+    "S_code": 212.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sundog",
+    "full_name": "gavanderhoorn/sundog",
+    "html_url": "https://github.com/gavanderhoorn/sundog",
+    "description": "A port of the Atari ST game SunDog: Frozen Legacy (1984) by FTL software ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 434539,
+      "Python": 235291,
+      "C++": 8287,
+      "GLSL": 7450,
+      "Meson": 6569,
+      "Shell": 555,
+      "Makefile": 144
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 338.3,
+    "S_code": 676.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pax-utils",
+    "full_name": "gavanderhoorn/pax-utils",
+    "html_url": "https://github.com/gavanderhoorn/pax-utils",
+    "description": "[MIRROR] ELF related utils for ELF 32/64 binaries that can check files for security relevant properties",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 456814,
+      "Python": 35703,
+      "Shell": 13732,
+      "C++": 10581,
+      "Meson": 5819
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 255.2,
+    "S_code": 510.4,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "motoros2",
+    "full_name": "gavanderhoorn/motoros2",
+    "html_url": "https://github.com/gavanderhoorn/motoros2",
+    "description": "ROS 2 (rcl, rclc & micro-ROS) node for MotoPlus-compatible Yaskawa Motoman robot controllers",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 505219,
+      "Python": 13922,
+      "JetBrains MPS": 3975,
+      "Batchfile": 244
+    },
+    "contributions_by_user": 216,
+    "contribution_score": 2415.55,
+    "S_code": 511.09,
+    "S_social": 0,
+    "S_maint": 216
+  },
+  {
+    "name": "motoros2_interfaces",
+    "full_name": "gavanderhoorn/motoros2_interfaces",
+    "html_url": "https://github.com/gavanderhoorn/motoros2_interfaces",
+    "description": "IDL definitions (.msg, .srv, .action) for the MotoROS2 ROS API",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 1288
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 190.63,
+    "S_code": 1.26,
+    "S_social": 0,
+    "S_maint": 19
+  },
+  {
+    "name": "mirte_workshop",
+    "full_name": "gavanderhoorn/mirte_workshop",
+    "html_url": "https://github.com/gavanderhoorn/mirte_workshop",
+    "description": "ROS package for participating in the Mirte Master workshop",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 15016,
+      "CMake": 7134
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 80.82,
+    "S_code": 21.63,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "yaskawa_debug_materials",
+    "full_name": "gavanderhoorn/yaskawa_debug_materials",
+    "html_url": "https://github.com/gavanderhoorn/yaskawa_debug_materials",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "micro_ros_motoplus",
+    "full_name": "gavanderhoorn/micro_ros_motoplus",
+    "html_url": "https://github.com/gavanderhoorn/micro_ros_motoplus",
+    "description": "(customised) micro-ROS library for Yaskawa Motoman MotoPlus",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 40.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "rcl",
+    "full_name": "gavanderhoorn/rcl",
+    "html_url": "https://github.com/gavanderhoorn/rcl",
+    "description": "Library to support implementation of language specific ROS Client Libraries.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 1307624,
+      "C": 1290901,
+      "CMake": 51620
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1294.02,
+    "S_code": 2588.03,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rmw",
+    "full_name": "gavanderhoorn/rmw",
+    "html_url": "https://github.com/gavanderhoorn/rmw",
+    "description": "The ROS Middleware (rmw) Interface.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 448469,
+      "C++": 120679,
+      "CMake": 28025
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 291.59,
+    "S_code": 583.18,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rs-opw-kinematics",
+    "full_name": "gavanderhoorn/rs-opw-kinematics",
+    "html_url": "https://github.com/gavanderhoorn/rs-opw-kinematics",
+    "description": "Rust implementation of inverse and forward kinematic solutions for six-axis industrial robots with a parallel base and spherical wrist.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 51581
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 25.19,
+    "S_code": 50.37,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pluginlib",
+    "full_name": "gavanderhoorn/pluginlib",
+    "html_url": "https://github.com/gavanderhoorn/pluginlib",
+    "description": "Library for loading/unloading plugins in ROS packages during runtime",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 75784,
+      "C": 11148,
+      "Python": 3133,
+      "CMake": 1670
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 44.79,
+    "S_code": 89.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "roboticslibrary_rl",
+    "full_name": "gavanderhoorn/roboticslibrary_rl",
+    "html_url": "https://github.com/gavanderhoorn/roboticslibrary_rl",
+    "description": "The Robotics Library (RL) is a self-contained C++ library for rigid body kinematics and dynamics, motion planning, and control.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 2228993,
+      "CMake": 120524
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1147.23,
+    "S_code": 2294.45,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rmw-microxrcedds",
+    "full_name": "gavanderhoorn/rmw-microxrcedds",
+    "html_url": "https://github.com/gavanderhoorn/rmw-microxrcedds",
+    "description": "RMW implementation using Micro XRCE-DDS middleware.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 275078,
+      "C++": 83060,
+      "CMake": 18507
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 193.91,
+    "S_code": 367.82,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "FS19_modROS",
+    "full_name": "gavanderhoorn/FS19_modROS",
+    "html_url": "https://github.com/gavanderhoorn/FS19_modROS",
+    "description": "(partial) ROS1 integration for FarmSim19",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 131452
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 94.19,
+    "S_code": 128.37,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "fs_mod_ros_windows",
+    "full_name": "gavanderhoorn/fs_mod_ros_windows",
+    "html_url": "https://github.com/gavanderhoorn/fs_mod_ros_windows",
+    "description": "The Windows side of FS19_modROS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 11953
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 25.84,
+    "S_code": 11.67,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "industrial_core",
+    "full_name": "gavanderhoorn/industrial_core",
+    "html_url": "https://github.com/gavanderhoorn/industrial_core",
+    "description": "ROS-Industrial core meta-package.  http://ros.org/wiki/industrial_core",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 476105,
+      "Python": 15655,
+      "C": 13013
+    },
+    "contributions_by_user": 106,
+    "contribution_score": 1306.47,
+    "S_code": 492.94,
+    "S_social": 0,
+    "S_maint": 106
+  },
+  {
+    "name": "kuka_robot_descriptions",
+    "full_name": "gavanderhoorn/kuka_robot_descriptions",
+    "html_url": "https://github.com/gavanderhoorn/kuka_robot_descriptions",
+    "description": "Repository containing models of KUKA robots",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 40423,
+      "CMake": 3696
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 21.54,
+    "S_code": 43.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fanuc_motion_program_exec",
+    "full_name": "gavanderhoorn/fanuc_motion_program_exec",
+    "html_url": "https://github.com/gavanderhoorn/fanuc_motion_program_exec",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 40948,
+      "LiveScript": 7963
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.88,
+    "S_code": 47.76,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "win_gha_python_troubles",
+    "full_name": "gavanderhoorn/win_gha_python_troubles",
+    "html_url": "https://github.com/gavanderhoorn/win_gha_python_troubles",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 45
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 150.02,
+    "S_code": 0.04,
+    "S_social": 0,
+    "S_maint": 15
+  },
+  {
+    "name": "ros_utilities",
+    "full_name": "gavanderhoorn/ros_utilities",
+    "html_url": "https://github.com/gavanderhoorn/ros_utilities",
+    "description": "Wrappers and other utilities for ROS2",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 125165,
+      "Dockerfile": 1410
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 61.8,
+    "S_code": 123.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "micro_ros_utilities",
+    "full_name": "gavanderhoorn/micro_ros_utilities",
+    "html_url": "https://github.com/gavanderhoorn/micro_ros_utilities",
+    "description": "General utilities for easing the usage of micro-ROS on different platforms",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 35342,
+      "C++": 15073,
+      "CMake": 4399
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 26.76,
+    "S_code": 53.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fanuc_experimental",
+    "full_name": "gavanderhoorn/fanuc_experimental",
+    "html_url": "https://github.com/gavanderhoorn/fanuc_experimental",
+    "description": "Experimental packages for Fanuc manipulators within ROS-Industrial",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C++": 794593,
+      "CMake": 4627
+    },
+    "contributions_by_user": 279,
+    "contribution_score": 3184.24,
+    "S_code": 780.49,
+    "S_social": 2,
+    "S_maint": 279
+  },
+  {
+    "name": "rosidl_dynamic_typesupport",
+    "full_name": "gavanderhoorn/rosidl_dynamic_typesupport",
+    "html_url": "https://github.com/gavanderhoorn/rosidl_dynamic_typesupport",
+    "description": "Unified Interface for Dynamic (Runtime) Typesupport and Serialization",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 311900,
+      "CMake": 1974
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 153.26,
+    "S_code": 306.52,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mr2dt",
+    "full_name": "gavanderhoorn/mr2dt",
+    "html_url": "https://github.com/gavanderhoorn/mr2dt",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2765,
+      "Batchfile": 769,
+      "Makefile": 638,
+      "CSS": 42
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 22.06,
+    "S_code": 4.12,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "motoros2_client_interface_dependencies",
+    "full_name": "gavanderhoorn/motoros2_client_interface_dependencies",
+    "html_url": "https://github.com/gavanderhoorn/motoros2_client_interface_dependencies",
+    "description": "Message, service and action dependencies for clients of MotoROS2",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 135
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 50.07,
+    "S_code": 0.13,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "robot_motion_program_opt",
+    "full_name": "gavanderhoorn/robot_motion_program_opt",
+    "html_url": "https://github.com/gavanderhoorn/robot_motion_program_opt",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 385380
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 188.17,
+    "S_code": 376.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ARM-21-02-F-19-Robot-Motion-Program",
+    "full_name": "gavanderhoorn/ARM-21-02-F-19-Robot-Motion-Program",
+    "html_url": "https://github.com/gavanderhoorn/ARM-21-02-F-19-Robot-Motion-Program",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 528279,
+      "MATLAB": 2816
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 259.32,
+    "S_code": 518.65,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "franka_ros",
+    "full_name": "gavanderhoorn/franka_ros",
+    "html_url": "https://github.com/gavanderhoorn/franka_ros",
+    "description": "ROS integration for Franka Emika research robots",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 145015,
+      "CMake": 11812,
+      "Shell": 774,
+      "Python": 368
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 77.13,
+    "S_code": 154.27,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "colcon-core",
+    "full_name": "gavanderhoorn/colcon-core",
+    "html_url": "https://github.com/gavanderhoorn/colcon-core",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 513635,
+      "EmberScript": 35934
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 268.34,
+    "S_code": 536.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "simple_actions",
+    "full_name": "gavanderhoorn/simple_actions",
+    "html_url": "https://github.com/gavanderhoorn/simple_actions",
+    "description": "A simple version of the rclpy/rclcpp action libraries.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 15114,
+      "Python": 12056,
+      "CMake": 1200
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.85,
+    "S_code": 27.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "libyaml_vendor",
+    "full_name": "gavanderhoorn/libyaml_vendor",
+    "html_url": "https://github.com/gavanderhoorn/libyaml_vendor",
+    "description": "CMake wrapper downloading and building libyaml",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 9045,
+      "C++": 4700
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.71,
+    "S_code": 13.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "stereo-sew",
+    "full_name": "gavanderhoorn/stereo-sew",
+    "html_url": "https://github.com/gavanderhoorn/stereo-sew",
+    "description": "Stereographic SEW (shoulder-elbow-wrist) angle for 7-DOF robot arms",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "MATLAB": 99774,
+      "M": 8016
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 52.63,
+    "S_code": 105.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "abb_libegm",
+    "full_name": "gavanderhoorn/abb_libegm",
+    "html_url": "https://github.com/gavanderhoorn/abb_libegm",
+    "description": "A C++ library for interfacing with ABB robot controllers supporting Externally Guided Motion (689-1)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 275086,
+      "CMake": 5653
+    },
+    "contributions_by_user": 78,
+    "contribution_score": 917.08,
+    "S_code": 274.16,
+    "S_social": 0,
+    "S_maint": 78
+  },
+  {
+    "name": "abb_librws",
+    "full_name": "gavanderhoorn/abb_librws",
+    "html_url": "https://github.com/gavanderhoorn/abb_librws",
+    "description": "A C++ library for interfacing with ABB robot controllers supporting Robot Web Services",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 313917,
+      "CMake": 4055,
+      "Shell": 276
+    },
+    "contributions_by_user": 51,
+    "contribution_score": 665.39,
+    "S_code": 310.79,
+    "S_social": 0,
+    "S_maint": 51
+  },
+  {
+    "name": "abb_robot_driver_interfaces",
+    "full_name": "gavanderhoorn/abb_robot_driver_interfaces",
+    "html_url": "https://github.com/gavanderhoorn/abb_robot_driver_interfaces",
+    "description": "ROS message and service definitions for a ROS driver for ABB robots",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 8849
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 44.32,
+    "S_code": 8.64,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "abb_egm_rws_managers",
+    "full_name": "gavanderhoorn/abb_egm_rws_managers",
+    "html_url": "https://github.com/gavanderhoorn/abb_egm_rws_managers",
+    "description": "A C++ library for encapsulating ROS agnostic components for a ROS driver for ABB robots",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 103749,
+      "CMake": 8254
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 74.69,
+    "S_code": 109.38,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "ruckig_state_msgs",
+    "full_name": "gavanderhoorn/ruckig_state_msgs",
+    "html_url": "https://github.com/gavanderhoorn/ruckig_state_msgs",
+    "description": "Ruckig's internal state as a ROS message",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4178,
+      "C++": 3917,
+      "CMake": 588
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 84.24,
+    "S_code": 8.48,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "micro_xrce_dds_ros_idl_dissectors",
+    "full_name": "gavanderhoorn/micro_xrce_dds_ros_idl_dissectors",
+    "html_url": "https://github.com/gavanderhoorn/micro_xrce_dds_ros_idl_dissectors",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 17273
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 58.43,
+    "S_code": 16.87,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "Staubli_ROS2",
+    "full_name": "gavanderhoorn/Staubli_ROS2",
+    "html_url": "https://github.com/gavanderhoorn/Staubli_ROS2",
+    "description": "ROS2 port of the Staubli_VAL3_ROS driver with all components it requires",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C++": 602251,
+      "TeX": 159740,
+      "Python": 47639,
+      "CMake": 32238,
+      "HTML": 10028,
+      "C": 2612
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 441.24,
+    "S_code": 834.48,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "qml_ros2_plugin",
+    "full_name": "gavanderhoorn/qml_ros2_plugin",
+    "html_url": "https://github.com/gavanderhoorn/qml_ros2_plugin",
+    "description": "A module for QML that enables communication with ROS2 directly from your QML code without additional compilation. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 496006,
+      "CMake": 6451
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 245.34,
+    "S_code": 490.68,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ros2_cookbook",
+    "full_name": "gavanderhoorn/ros2_cookbook",
+    "html_url": "https://github.com/gavanderhoorn/ros2_cookbook",
+    "description": "Code snippets for ROS2",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ros_comm",
+    "full_name": "gavanderhoorn/ros_comm",
+    "html_url": "https://github.com/gavanderhoorn/ros_comm",
+    "description": "ROS communications-related packages, including core client libraries (roscpp, rospy, roslisp) and graph introspection tools (rostopic, rosnode, rosservice, rosparam).",
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 4.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "abb_experimental",
+    "full_name": "gavanderhoorn/abb_experimental",
+    "html_url": "https://github.com/gavanderhoorn/abb_experimental",
+    "description": "ROS-Industrial abb experimental meta-package. http://ros.org/wiki/abb_experimental",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "CMake": 6196
+    },
+    "contributions_by_user": 76,
+    "contribution_score": 767.03,
+    "S_code": 6.05,
+    "S_social": 2,
+    "S_maint": 76
+  },
+  {
+    "name": "moto",
+    "full_name": "gavanderhoorn/moto",
+    "html_url": "https://github.com/gavanderhoorn/moto",
+    "description": "A Python library for controlling Yaskawa MOTOMAN robots.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 82985
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 50.52,
+    "S_code": 81.04,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "HSES_Dissector",
+    "full_name": "gavanderhoorn/HSES_Dissector",
+    "html_url": "https://github.com/gavanderhoorn/HSES_Dissector",
+    "description": "Wireshark dissector lua script for High Speed Ethernet Server protocol",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 64522
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 31.5,
+    "S_code": 63.01,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "packet-simplemessage",
+    "full_name": "gavanderhoorn/packet-simplemessage",
+    "html_url": "https://github.com/gavanderhoorn/packet-simplemessage",
+    "description": "Wireshark Lua dissector for the ROS Industrial SimpleMessage protocol",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "Lua": 49568
+    },
+    "contributions_by_user": 51,
+    "contribution_score": 542.2,
+    "S_code": 48.41,
+    "S_social": 4,
+    "S_maint": 51
+  },
+  {
+    "name": "curie",
+    "full_name": "gavanderhoorn/curie",
+    "html_url": "https://github.com/gavanderhoorn/curie",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "micro-ROS.github.io",
+    "full_name": "gavanderhoorn/micro-ROS.github.io",
+    "html_url": "https://github.com/gavanderhoorn/micro-ROS.github.io",
+    "description": "A platform for seamless integration of resource constrained devices in the ROS ecosystem.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "SCSS": 617929,
+      "JavaScript": 85775,
+      "HTML": 31545,
+      "Ruby": 7550,
+      "Dockerfile": 1202,
+      "Shell": 1019
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 363.78,
+    "S_code": 727.56,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ros2_kuka_sunrise",
+    "full_name": "gavanderhoorn/ros2_kuka_sunrise",
+    "html_url": "https://github.com/gavanderhoorn/ros2_kuka_sunrise",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 171186,
+      "CMake": 6142,
+      "Python": 3157
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 98.13,
+    "S_code": 176.25,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "www.ros.org",
+    "full_name": "gavanderhoorn/www.ros.org",
+    "html_url": "https://github.com/gavanderhoorn/www.ros.org",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 172951,
+      "SCSS": 66277,
+      "HTML": 33425,
+      "CSS": 7502,
+      "Ruby": 5203,
+      "Shell": 311,
+      "Dockerfile": 71
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 139.52,
+    "S_code": 279.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "staubli_val3_driver",
+    "full_name": "gavanderhoorn/staubli_val3_driver",
+    "html_url": "https://github.com/gavanderhoorn/staubli_val3_driver",
+    "description": "ROS-Industrial (simple message) driver for Staübli CS8 robot controllers (VAL3 application)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 42391,
+      "CMake": 395
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 190.89,
+    "S_code": 41.78,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "staubli",
+    "full_name": "gavanderhoorn/staubli",
+    "html_url": "https://github.com/gavanderhoorn/staubli",
+    "description": "ROS-Industrial Staubli meta-package. http://wiki.ros.org/staubli",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 158969,
+      "CMake": 1945
+    },
+    "contributions_by_user": 35,
+    "contribution_score": 428.57,
+    "S_code": 157.14,
+    "S_social": 0,
+    "S_maint": 35
+  },
+  {
+    "name": "staubli_experimental",
+    "full_name": "gavanderhoorn/staubli_experimental",
+    "html_url": "https://github.com/gavanderhoorn/staubli_experimental",
+    "description": "Experimental packages for Staubli manipulators within ROS-Industrial",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 42391,
+      "CMake": 1870
+    },
+    "contributions_by_user": 28,
+    "contribution_score": 301.61,
+    "S_code": 43.22,
+    "S_social": 0,
+    "S_maint": 28
+  },
+  {
+    "name": "universal_robot",
+    "full_name": "gavanderhoorn/universal_robot",
+    "html_url": "https://github.com/gavanderhoorn/universal_robot",
+    "description": "ROS-Industrial universal robot meta-package. http://ros.org/wiki/universal_robot",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 85953,
+      "C++": 78779,
+      "CMake": 12388
+    },
+    "contributions_by_user": 56,
+    "contribution_score": 646.48,
+    "S_code": 172.97,
+    "S_social": 0,
+    "S_maint": 56
+  },
+  {
+    "name": "catkin",
+    "full_name": "gavanderhoorn/catkin",
+    "html_url": "https://github.com/gavanderhoorn/catkin",
+    "description": "A CMake-based build system that is used to build all packages in ROS.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 222955,
+      "CMake": 184539,
+      "Shell": 19138,
+      "EmberScript": 3252,
+      "C++": 2631,
+      "Makefile": 331
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 211.35,
+    "S_code": 422.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "moveit",
+    "full_name": "gavanderhoorn/moveit",
+    "html_url": "https://github.com/gavanderhoorn/moveit",
+    "description": "The MoveIt! motion planning framework",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 5325081,
+      "Python": 185172,
+      "CMake": 104061,
+      "C": 4598,
+      "HTML": 1173,
+      "GDB": 375,
+      "Makefile": 246
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 2984.49,
+    "S_code": 5488.97,
+    "S_social": 0,
+    "S_maint": 24
+  },
+  {
+    "name": "bloom",
+    "full_name": "gavanderhoorn/bloom",
+    "html_url": "https://github.com/gavanderhoorn/bloom",
+    "description": "A release automation tool which makes releasing catkin (http://ros.org/wiki/catkin) packages easier.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 411401,
+      "CMake": 3822,
+      "Makefile": 2944,
+      "EmberScript": 2772,
+      "Shell": 790
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 205.92,
+    "S_code": 411.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "compas_fab",
+    "full_name": "gavanderhoorn/compas_fab",
+    "html_url": "https://github.com/gavanderhoorn/compas_fab",
+    "description": "Robotic fabrication package for the COMPAS Framework.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 649901
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 317.33,
+    "S_code": 634.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "thunderbird_remove_safelinks",
+    "full_name": "gavanderhoorn/thunderbird_remove_safelinks",
+    "html_url": "https://github.com/gavanderhoorn/thunderbird_remove_safelinks",
+    "description": "Replace URLs which have been rewritten by Office 365 Advanced Threat Protection with the original URL.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 14611
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.13,
+    "S_code": 14.27,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ros_control",
+    "full_name": "gavanderhoorn/ros_control",
+    "html_url": "https://github.com/gavanderhoorn/ros_control",
+    "description": "Generic and simple controls framework for ROS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 852700,
+      "Python": 96448,
+      "CMake": 19096
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 472.78,
+    "S_code": 945.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ruckig",
+    "full_name": "gavanderhoorn/ruckig",
+    "html_url": "https://github.com/gavanderhoorn/ruckig",
+    "description": "Online Trajectory Generation. Real-time. Time-optimal. Jerk-constrained.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Mathematica": 611367,
+      "C++": 465500,
+      "Python": 6278,
+      "CMake": 4493,
+      "Shell": 310
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 531.22,
+    "S_code": 1062.45,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "colcon.readthedocs.org",
+    "full_name": "gavanderhoorn/colcon.readthedocs.org",
+    "html_url": "https://github.com/gavanderhoorn/colcon.readthedocs.org",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 5472,
+      "Batchfile": 810,
+      "Makefile": 638
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.38,
+    "S_code": 6.76,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Micro-XRCE-DDS-docs",
+    "full_name": "gavanderhoorn/Micro-XRCE-DDS-docs",
+    "html_url": "https://github.com/gavanderhoorn/Micro-XRCE-DDS-docs",
+    "description": "Micro XRCE-DDS documentation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Makefile": 7774
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.8,
+    "S_code": 7.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pioneer_p3dx_model",
+    "full_name": "gavanderhoorn/pioneer_p3dx_model",
+    "html_url": "https://github.com/gavanderhoorn/pioneer_p3dx_model",
+    "description": "A ROS/Gazebo Pioneer 3DX model created by Rafael Berkvens (rafael.berkvens@uantwerpen.be) and modified by Mario Serna Hernández.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 7777,
+      "C++": 803
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.19,
+    "S_code": 8.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Farming-Simulator-Mod-Doc",
+    "full_name": "gavanderhoorn/Farming-Simulator-Mod-Doc",
+    "html_url": "https://github.com/gavanderhoorn/Farming-Simulator-Mod-Doc",
+    "description": "Documentation for modding Farming Simulator 2019",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 13240,
+      "Shell": 1982
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.43,
+    "S_code": 14.87,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fzi_robot_interface_proposal",
+    "full_name": "gavanderhoorn/fzi_robot_interface_proposal",
+    "html_url": "https://github.com/gavanderhoorn/fzi_robot_interface_proposal",
+    "description": "Design documentation for adding Cartesian robot interfaces to ROS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 5297,
+      "Batchfile": 831,
+      "Makefile": 717
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.34,
+    "S_code": 6.68,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "idjl-gcc-vxworks",
+    "full_name": "gavanderhoorn/idjl-gcc-vxworks",
+    "html_url": "https://github.com/gavanderhoorn/idjl-gcc-vxworks",
+    "description": "Helpers script to compile a version of GCC that crosscompiles to VxWorks. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 6179,
+      "CMake": 3225,
+      "C": 423
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.8,
+    "S_code": 9.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rosdep",
+    "full_name": "gavanderhoorn/rosdep",
+    "html_url": "https://github.com/gavanderhoorn/rosdep",
+    "description": "rosdep multi-package manager system dependency tool",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 432706,
+      "Shell": 1481,
+      "Makefile": 516
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 212.26,
+    "S_code": 424.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rosindex",
+    "full_name": "gavanderhoorn/rosindex",
+    "html_url": "https://github.com/gavanderhoorn/rosindex",
+    "description": "The source code for generating index.ros.org",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 267521,
+      "HTML": 148832,
+      "Ruby": 116735,
+      "CSS": 17780,
+      "Python": 3447,
+      "Dockerfile": 2557,
+      "Makefile": 1610,
+      "Shell": 1072
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 323.22,
+    "S_code": 546.44,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "industrial_robot_status_controller-release",
+    "full_name": "gavanderhoorn/industrial_robot_status_controller-release",
+    "html_url": "https://github.com/gavanderhoorn/industrial_robot_status_controller-release",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 20,
+    "contribution_score": 200.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 20
+  },
+  {
+    "name": "kl-shapes",
+    "full_name": "gavanderhoorn/kl-shapes",
+    "html_url": "https://github.com/gavanderhoorn/kl-shapes",
+    "description": "Creating primative shape objects, and interaction functionality in FANUC Karel",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "baldor",
+    "full_name": "gavanderhoorn/baldor",
+    "html_url": "https://github.com/gavanderhoorn/baldor",
+    "description": "Homogeneous Transformation Matrices and Quaternions",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 42310,
+      "CMake": 200
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.76,
+    "S_code": 41.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ExtractPlus",
+    "full_name": "gavanderhoorn/ExtractPlus",
+    "html_url": "https://github.com/gavanderhoorn/ExtractPlus",
+    "description": "A program to extract Yaskawa Motoman MotoPlus header files from publicly available documentation PDFs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 20104,
+      "Makefile": 1024
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.32,
+    "S_code": 20.63,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "catkin_virtualenv",
+    "full_name": "gavanderhoorn/catkin_virtualenv",
+    "html_url": "https://github.com/gavanderhoorn/catkin_virtualenv",
+    "description": "Bundle a virtualenv within a catkin package.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 43274,
+      "CMake": 9800,
+      "EmberScript": 342,
+      "Shell": 230
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 26.19,
+    "S_code": 52.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "xacro",
+    "full_name": "gavanderhoorn/xacro",
+    "html_url": "https://github.com/gavanderhoorn/xacro",
+    "description": "Xacro is an XML macro language. With xacro, you can construct shorter and more readable XML files by using macros that expand to larger XML expressions.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 95894,
+      "CMake": 7990,
+      "Shell": 2472
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 51.93,
+    "S_code": 103.86,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "moveit_opw_kinematics_plugin",
+    "full_name": "gavanderhoorn/moveit_opw_kinematics_plugin",
+    "html_url": "https://github.com/gavanderhoorn/moveit_opw_kinematics_plugin",
+    "description": "An attempt at writing a MoveIt! plugin for opw_kinematics.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 34252,
+      "CMake": 4736
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.04,
+    "S_code": 38.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mitsubishi_arm",
+    "full_name": "gavanderhoorn/mitsubishi_arm",
+    "html_url": "https://github.com/gavanderhoorn/mitsubishi_arm",
+    "description": "A ROS stack that contains the model description and the hardware and control interfaces for the Mitsubishi RV-6SDL arm",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C++": 79657,
+      "Python": 65512,
+      "CMake": 26614,
+      "C": 6768,
+      "Lua": 5271,
+      "xBase": 843
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 94.17,
+    "S_code": 180.34,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "tesseract_ignition",
+    "full_name": "gavanderhoorn/tesseract_ignition",
+    "html_url": "https://github.com/gavanderhoorn/tesseract_ignition",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 247331,
+      "QML": 78067,
+      "CMake": 11941,
+      "Python": 1126
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 165.27,
+    "S_code": 330.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "motoman_experimental",
+    "full_name": "gavanderhoorn/motoman_experimental",
+    "html_url": "https://github.com/gavanderhoorn/motoman_experimental",
+    "description": "Experimental packages for Motoman manipulators within ROS-Industrial",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "CMake": 1733,
+      "Python": 537
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 39.11,
+    "S_code": 2.22,
+    "S_social": 4,
+    "S_maint": 3
+  },
+  {
+    "name": "Ka-Boost",
+    "full_name": "gavanderhoorn/Ka-Boost",
+    "html_url": "https://github.com/gavanderhoorn/Ka-Boost",
+    "description": "Support libraries for the FANUC Karel programming language",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "kl-TPE",
+    "full_name": "gavanderhoorn/kl-TPE",
+    "html_url": "https://github.com/gavanderhoorn/kl-TPE",
+    "description": "TPE library for Fanuc Karel",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ROSOnWindows",
+    "full_name": "gavanderhoorn/ROSOnWindows",
+    "html_url": "https://github.com/gavanderhoorn/ROSOnWindows",
+    "description": "ROS on Windows Documentation Repository",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "trajectory_smoothing",
+    "full_name": "gavanderhoorn/trajectory_smoothing",
+    "html_url": "https://github.com/gavanderhoorn/trajectory_smoothing",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 162028,
+      "CMake": 153,
+      "Shell": 136
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 79.26,
+    "S_code": 158.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "poco_vendor",
+    "full_name": "gavanderhoorn/poco_vendor",
+    "html_url": "https://github.com/gavanderhoorn/poco_vendor",
+    "description": "CMake shim over the poco library: https://github.com/pocoproject/poco",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 4537
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.22,
+    "S_code": 4.43,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "common_msgs",
+    "full_name": "gavanderhoorn/common_msgs",
+    "html_url": "https://github.com/gavanderhoorn/common_msgs",
+    "description": "Commonly used messages in ROS. Includes messages for actions (actionlib_msgs), diagnostics (diagnostic_msgs), geometric primitives (geometry_msgs), robot navigation (nav_msgs), and common sensors (sensor_msgs), such as laser range finders, cameras, point clouds.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 65717,
+      "Python": 13349,
+      "CMake": 9286,
+      "EmberScript": 2857
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 44.54,
+    "S_code": 89.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "transport_drivers",
+    "full_name": "gavanderhoorn/transport_drivers",
+    "html_url": "https://github.com/gavanderhoorn/transport_drivers",
+    "description": "A set of ROS2 drivers for transport-layer protocols.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 34124,
+      "CMake": 5826
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.51,
+    "S_code": 39.01,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ros2_kuka_sunrise_interfaces",
+    "full_name": "gavanderhoorn/ros2_kuka_sunrise_interfaces",
+    "html_url": "https://github.com/gavanderhoorn/ros2_kuka_sunrise_interfaces",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 1143
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.56,
+    "S_code": 1.12,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ros2_lifecycle_py",
+    "full_name": "gavanderhoorn/ros2_lifecycle_py",
+    "html_url": "https://github.com/gavanderhoorn/ros2_lifecycle_py",
+    "description": "Python implementation of ROS2 LifecycleNode",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 25014
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.21,
+    "S_code": 24.43,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pilz_industrial_motion",
+    "full_name": "gavanderhoorn/pilz_industrial_motion",
+    "html_url": "https://github.com/gavanderhoorn/pilz_industrial_motion",
+    "description": "Industrial trajectory generation for MoveIt!.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 802033,
+      "Python": 270853,
+      "CMake": 22318,
+      "TeX": 7219
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 538.29,
+    "S_code": 1076.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Toolpath-Offline-Planning",
+    "full_name": "gavanderhoorn/Toolpath-Offline-Planning",
+    "html_url": "https://github.com/gavanderhoorn/Toolpath-Offline-Planning",
+    "description": "Tools for generating offline toolpaths from CAD",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 202717,
+      "CMake": 10607
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 104.16,
+    "S_code": 208.32,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "safelinksfixer",
+    "full_name": "gavanderhoorn/safelinksfixer",
+    "html_url": "https://github.com/gavanderhoorn/safelinksfixer",
+    "description": "Thunderbird add-on to remove ATP Safe Links in Outlook-generated emails",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3057,
+      "Makefile": 567
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.77,
+    "S_code": 3.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ros_driver",
+    "full_name": "gavanderhoorn/ros_driver",
+    "html_url": "https://github.com/gavanderhoorn/ros_driver",
+    "description": "Official ROS driver for Ensenso stereo cameras.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 161303,
+      "Python": 65045,
+      "CMake": 5303,
+      "C": 329
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 113.27,
+    "S_code": 226.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "khi_robot",
+    "full_name": "gavanderhoorn/khi_robot",
+    "html_url": "https://github.com/gavanderhoorn/khi_robot",
+    "description": "ROS KHI robot meta-package",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 695214,
+      "CMake": 33807,
+      "C": 26981,
+      "Python": 9519,
+      "Shell": 1150
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 374.35,
+    "S_code": 748.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "moveit_task_constructor",
+    "full_name": "gavanderhoorn/moveit_task_constructor",
+    "html_url": "https://github.com/gavanderhoorn/moveit_task_constructor",
+    "description": "An approach to forward multi-step manipulation planning",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 857071,
+      "CMake": 17646,
+      "Python": 12176
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 433.05,
+    "S_code": 866.11,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rosbag2",
+    "full_name": "gavanderhoorn/rosbag2",
+    "html_url": "https://github.com/gavanderhoorn/rosbag2",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 434974,
+      "CMake": 31695,
+      "Python": 16615,
+      "Jupyter Notebook": 15853,
+      "Shell": 1418
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 244.41,
+    "S_code": 488.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Kimera-VIO-ROS",
+    "full_name": "gavanderhoorn/Kimera-VIO-ROS",
+    "html_url": "https://github.com/gavanderhoorn/Kimera-VIO-ROS",
+    "description": "ROS wrapper for Kimera-VIO",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 78490,
+      "Shell": 15106,
+      "Python": 3892,
+      "CMake": 362
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 47.78,
+    "S_code": 95.56,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rospkg",
+    "full_name": "gavanderhoorn/rospkg",
+    "html_url": "https://github.com/gavanderhoorn/rospkg",
+    "description": "rospkg Python library for ROS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 214982,
+      "CMake": 603,
+      "Makefile": 483
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 135.5,
+    "S_code": 211.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "godel",
+    "full_name": "gavanderhoorn/godel",
+    "html_url": "https://github.com/gavanderhoorn/godel",
+    "description": "ROS-Industrial Focused Technical Project: Robotic Blending",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 686112,
+      "CMake": 25306,
+      "C": 2016,
+      "Python": 470,
+      "Diff": 340,
+      "Shell": 235
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 438.87,
+    "S_code": 697.73,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "ipa320_industrial_core",
+    "full_name": "gavanderhoorn/ipa320_industrial_core",
+    "html_url": "https://github.com/gavanderhoorn/ipa320_industrial_core",
+    "description": "Mirror of ipa320/industrial_core for archival purposes - DO NOT USE",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 441059,
+      "CMake": 18754,
+      "Python": 14585
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 421.64,
+    "S_code": 463.28,
+    "S_social": 0,
+    "S_maint": 19
+  },
+  {
+    "name": "ipa320_motoman",
+    "full_name": "gavanderhoorn/ipa320_motoman",
+    "html_url": "https://github.com/gavanderhoorn/ipa320_motoman",
+    "description": "Mirror of ipa320/motoman for archival purposes - DO NOT USE",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 148025,
+      "C": 123410,
+      "CMake": 7843,
+      "Python": 4608
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 208.62,
+    "S_code": 277.23,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "rviz_cinematographer",
+    "full_name": "gavanderhoorn/rviz_cinematographer",
+    "html_url": "https://github.com/gavanderhoorn/rviz_cinematographer",
+    "description": "Easy to use tools to create and edit trajectories for the rviz camera. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 326193,
+      "CMake": 6976
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 162.68,
+    "S_code": 325.36,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tailor-distro",
+    "full_name": "gavanderhoorn/tailor-distro",
+    "html_url": "https://github.com/gavanderhoorn/tailor-distro",
+    "description": "Measure twice, cut once.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 64466,
+      "Makefile": 2406,
+      "Dockerfile": 1712,
+      "Shell": 799
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 33.88,
+    "S_code": 67.76,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ros_buildfarm",
+    "full_name": "gavanderhoorn/ros_buildfarm",
+    "html_url": "https://github.com/gavanderhoorn/ros_buildfarm",
+    "description": "ROS buildfarm based on Docker",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 481892,
+      "EmberScript": 230543,
+      "JavaScript": 12982,
+      "Shell": 9651,
+      "CSS": 5231,
+      "Groovy": 1561
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 362.24,
+    "S_code": 724.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "reach",
+    "full_name": "gavanderhoorn/reach",
+    "html_url": "https://github.com/gavanderhoorn/reach",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 126820,
+      "CMake": 7380
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 65.53,
+    "S_code": 131.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ur_modern_driver",
+    "full_name": "gavanderhoorn/ur_modern_driver",
+    "html_url": "https://github.com/gavanderhoorn/ur_modern_driver",
+    "description": "The new driver for the UR3/UR5/UR10 robot arms from universal robots",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 106093
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 51.8,
+    "S_code": 103.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ros_controllers",
+    "full_name": "gavanderhoorn/ros_controllers",
+    "html_url": "https://github.com/gavanderhoorn/ros_controllers",
+    "description": "Generic robotic controllers to accompany ros_control",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 701632,
+      "Python": 32163,
+      "CMake": 21355,
+      "Objective-C": 19517
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 378.26,
+    "S_code": 756.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "haros",
+    "full_name": "gavanderhoorn/haros",
+    "html_url": "https://github.com/gavanderhoorn/haros",
+    "description": "H(igh) A(ssurance) ROS - Static analysis of ROS application code.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 83754,
+      "JavaScript": 58393,
+      "HTML": 25026,
+      "CSS": 18206,
+      "EmberScript": 688,
+      "CMake": 321
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 121.01,
+    "S_code": 182.02,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "rqt_plot",
+    "full_name": "gavanderhoorn/rqt_plot",
+    "html_url": "https://github.com/gavanderhoorn/rqt_plot",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 70626,
+      "CMake": 429
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 34.69,
+    "S_code": 69.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "descartes",
+    "full_name": "gavanderhoorn/descartes",
+    "html_url": "https://github.com/gavanderhoorn/descartes",
+    "description": "ROS-Industrial Special Project: Cartesian Path Planner",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 215408,
+      "CMake": 5549
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 127.89,
+    "S_code": 215.78,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "abb_file_suite",
+    "full_name": "gavanderhoorn/abb_file_suite",
+    "html_url": "https://github.com/gavanderhoorn/abb_file_suite",
+    "description": "A suite of tools used for interfacing ROS-I and an ABB robot through the use of module files that are generated and downloaded on the fly.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 26861,
+      "CMake": 2104,
+      "AMPL": 681
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.48,
+    "S_code": 28.95,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "buildfarm_deployment",
+    "full_name": "gavanderhoorn/buildfarm_deployment",
+    "html_url": "https://github.com/gavanderhoorn/buildfarm_deployment",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Puppet": 49546,
+      "HTML": 13168,
+      "Python": 12621,
+      "Shell": 11091,
+      "Groovy": 463,
+      "Ruby": 415
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 56.63,
+    "S_code": 85.26,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "yaml-cpp",
+    "full_name": "gavanderhoorn/yaml-cpp",
+    "html_url": "https://github.com/gavanderhoorn/yaml-cpp",
+    "description": "A YAML parser and emitter in C++",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 4135048,
+      "Python": 459125,
+      "CMake": 44244,
+      "C": 35794,
+      "Shell": 26543,
+      "Makefile": 25787,
+      "M4": 25387
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2320.28,
+    "S_code": 4640.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "yaskawa_ethernet",
+    "full_name": "gavanderhoorn/yaskawa_ethernet",
+    "html_url": "https://github.com/gavanderhoorn/yaskawa_ethernet",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C++": 166123,
+      "CMake": 2398
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 86.29,
+    "S_code": 164.57,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "industrial_moveit",
+    "full_name": "gavanderhoorn/industrial_moveit",
+    "html_url": "https://github.com/gavanderhoorn/industrial_moveit",
+    "description": "ROS-Industrial movit meta-package (http://wiki.ros.org/industrial_moveit)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 768011,
+      "CMake": 20440,
+      "Python": 2950
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 396.43,
+    "S_code": 772.85,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "doosan-robot",
+    "full_name": "gavanderhoorn/doosan-robot",
+    "html_url": "https://github.com/gavanderhoorn/doosan-robot",
+    "description": "ROS for Doosan Robot",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 417645,
+      "Python": 284992,
+      "C": 31022,
+      "CMake": 16724,
+      "Shell": 37
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 366.42,
+    "S_code": 732.83,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "buildfarm_deployment_config",
+    "full_name": "gavanderhoorn/buildfarm_deployment_config",
+    "html_url": "https://github.com/gavanderhoorn/buildfarm_deployment_config",
+    "description": "Example configuration for buildfarm_deployment repo",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 2103
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.03,
+    "S_code": 2.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rviz",
+    "full_name": "gavanderhoorn/rviz",
+    "html_url": "https://github.com/gavanderhoorn/rviz",
+    "description": "ROS 3D Robot Visualizer",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 2086847,
+      "Python": 57698,
+      "C": 18278,
+      "Shell": 760
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1056.44,
+    "S_code": 2112.87,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "motoman_ma2010_d500_waam_moveit_config",
+    "full_name": "gavanderhoorn/motoman_ma2010_d500_waam_moveit_config",
+    "html_url": "https://github.com/gavanderhoorn/motoman_ma2010_d500_waam_moveit_config",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 327
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.16,
+    "S_code": 0.32,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rosparam_shortcuts",
+    "full_name": "gavanderhoorn/rosparam_shortcuts",
+    "html_url": "https://github.com/gavanderhoorn/rosparam_shortcuts",
+    "description": "Quickly load variables from rosparam with good command line error checking.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 19487,
+      "C": 2374,
+      "CMake": 1984
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.64,
+    "S_code": 23.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "robot_localization",
+    "full_name": "gavanderhoorn/robot_localization",
+    "html_url": "https://github.com/gavanderhoorn/robot_localization",
+    "description": "robot_localization is a package of nonlinear state estimation nodes. The package was developed by Charles River Analytics, Inc. Please ask questions on answers.ros.org.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 482203,
+      "CMake": 11411,
+      "Shell": 669
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 241.35,
+    "S_code": 482.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "KUKAVARPROXY",
+    "full_name": "gavanderhoorn/KUKAVARPROXY",
+    "html_url": "https://github.com/gavanderhoorn/KUKAVARPROXY",
+    "description": "Robot KUKA variables TCP server",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Visual Basic": 88085
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 43.01,
+    "S_code": 86.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ros_control_boilerplate",
+    "full_name": "gavanderhoorn/ros_control_boilerplate",
+    "html_url": "https://github.com/gavanderhoorn/ros_control_boilerplate",
+    "description": "Provides a simple simulation interface and template for setting up a hardware interface for ros_control",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 102379,
+      "CMake": 6685,
+      "MATLAB": 5799
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 56.09,
+    "S_code": 112.17,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "yumi",
+    "full_name": "gavanderhoorn/yumi",
+    "html_url": "https://github.com/gavanderhoorn/yumi",
+    "description": "ROS packages pertaining to the ABB YuMi (IRB 14000) robot",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "AMPL": 26564,
+      "CMake": 1657
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.78,
+    "S_code": 27.56,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "franka_emika_docs",
+    "full_name": "gavanderhoorn/franka_emika_docs",
+    "html_url": "https://github.com/gavanderhoorn/franka_emika_docs",
+    "description": "Franka Control Interface (FCI) documentation source",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4978,
+      "CSS": 1477,
+      "Makefile": 624
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.46,
+    "S_code": 6.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "debian-backporter",
+    "full_name": "gavanderhoorn/debian-backporter",
+    "html_url": "https://github.com/gavanderhoorn/debian-backporter",
+    "description": "A tool for creating debian backports using docker",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 565,
+      "Dockerfile": 258
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.4,
+    "S_code": 0.8,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "borunte_robot",
+    "full_name": "gavanderhoorn/borunte_robot",
+    "html_url": "https://github.com/gavanderhoorn/borunte_robot",
+    "description": "ROS configuration for my Borunte BRTIRUS0805A robot",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 6873,
+      "Python": 6869,
+      "QML": 1639
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.51,
+    "S_code": 15.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "opw_kinematics",
+    "full_name": "gavanderhoorn/opw_kinematics",
+    "html_url": "https://github.com/gavanderhoorn/opw_kinematics",
+    "description": "Closed form IK for parallel base, spherical wrist industrial manipulators",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 137201,
+      "CMake": 1742
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 67.84,
+    "S_code": 135.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "robot_cal_tools",
+    "full_name": "gavanderhoorn/robot_cal_tools",
+    "html_url": "https://github.com/gavanderhoorn/robot_cal_tools",
+    "description": "A suite of tools focused on calibration of sensors for robotic workcell development",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 196862,
+      "CMake": 11415,
+      "Python": 5392
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 104.33,
+    "S_code": 208.66,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "kuka_kvp_hw_interface",
+    "full_name": "gavanderhoorn/kuka_kvp_hw_interface",
+    "html_url": "https://github.com/gavanderhoorn/kuka_kvp_hw_interface",
+    "description": "ROS KUKA driver using KUKAVARPROXY",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 80628,
+      "CMake": 8453
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 43.5,
+    "S_code": 86.99,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dockeROS",
+    "full_name": "gavanderhoorn/dockeROS",
+    "html_url": "https://github.com/gavanderhoorn/dockeROS",
+    "description": "Simply running ros nodes in docker containers on remote robots.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 13427,
+      "Shell": 2514,
+      "Dockerfile": 920,
+      "CMake": 524
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.49,
+    "S_code": 16.98,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rc_dynamics_api",
+    "full_name": "gavanderhoorn/rc_dynamics_api",
+    "html_url": "https://github.com/gavanderhoorn/rc_dynamics_api",
+    "description": "  Simple C++ API for subscribing rc_dynamics streams from Roboception rc_visard sensor",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 415984,
+      "CMake": 56357
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 230.64,
+    "S_code": 461.27,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hybrid_planning_experiments",
+    "full_name": "gavanderhoorn/hybrid_planning_experiments",
+    "html_url": "https://github.com/gavanderhoorn/hybrid_planning_experiments",
+    "description": "Sampler + Optimizing Motion Planning Demonstrations",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 92591,
+      "CMake": 34907
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 62.25,
+    "S_code": 124.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "get_pids_of_rosnodes",
+    "full_name": "gavanderhoorn/get_pids_of_rosnodes",
+    "html_url": "https://github.com/gavanderhoorn/get_pids_of_rosnodes",
+    "description": "https://answers.ros.org/question/271776",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1547
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.76,
+    "S_code": 1.51,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "kawapai",
+    "full_name": "gavanderhoorn/kawapai",
+    "html_url": "https://github.com/gavanderhoorn/kawapai",
+    "description": "Python library for interfacing with Kawasaki D, E and F series controllers",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "AngelScript": 11771,
+      "Python": 10105
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 34.68,
+    "S_code": 21.36,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "cdds",
+    "full_name": "gavanderhoorn/cdds",
+    "html_url": "https://github.com/gavanderhoorn/cdds",
+    "description": "Cyclone DDS -- AKA Chameleon",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 4267214,
+      "Java": 487390,
+      "CMake": 108361,
+      "C++": 52115,
+      "ANTLR": 18557,
+      "Smalltalk": 11326,
+      "Shell": 9203,
+      "Makefile": 1690,
+      "HTML": 850
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2420.27,
+    "S_code": 4840.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rosinstall_generator",
+    "full_name": "gavanderhoorn/rosinstall_generator",
+    "html_url": "https://github.com/gavanderhoorn/rosinstall_generator",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 50470,
+      "Makefile": 431,
+      "Shell": 68
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 24.89,
+    "S_code": 49.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rviz_distance_tool",
+    "full_name": "gavanderhoorn/rviz_distance_tool",
+    "html_url": "https://github.com/gavanderhoorn/rviz_distance_tool",
+    "description": "Like the default measurement tool, but with X, Y, and Z distances as well.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 4932,
+      "CMake": 1232
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.01,
+    "S_code": 6.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "x264_image_transport",
+    "full_name": "gavanderhoorn/x264_image_transport",
+    "html_url": "https://github.com/gavanderhoorn/x264_image_transport",
+    "description": "x264 image_transport ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 72888,
+      "CMake": 8984,
+      "Python": 6957,
+      "Shell": 2550
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 44.62,
+    "S_code": 89.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "abb_irb14000_core",
+    "full_name": "gavanderhoorn/abb_irb14000_core",
+    "html_url": "https://github.com/gavanderhoorn/abb_irb14000_core",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 72800,
+      "AMPL": 53744,
+      "Python": 5831,
+      "CMake": 3185
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 66.19,
+    "S_code": 132.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "phobos",
+    "full_name": "gavanderhoorn/phobos",
+    "html_url": "https://github.com/gavanderhoorn/phobos",
+    "description": "An add-on for Blender allowing to create URDF and SMURF robot models in a WYSIWYG environment.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 577515,
+      "Shell": 321
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 282.15,
+    "S_code": 564.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "abb_irb14000_description",
+    "full_name": "gavanderhoorn/abb_irb14000_description",
+    "html_url": "https://github.com/gavanderhoorn/abb_irb14000_description",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 277
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.14,
+    "S_code": 0.27,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "opt_control",
+    "full_name": "gavanderhoorn/opt_control",
+    "html_url": "https://github.com/gavanderhoorn/opt_control",
+    "description": "Time-optimal Trajectory Generation and Control",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "MATLAB": 36268
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.71,
+    "S_code": 35.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "move_base_flex",
+    "full_name": "gavanderhoorn/move_base_flex",
+    "html_url": "https://github.com/gavanderhoorn/move_base_flex",
+    "description": "Move Base Flex: a backwards-compatible replacement for move_base",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 291283,
+      "Python": 9672,
+      "CMake": 9194
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 151.44,
+    "S_code": 302.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rosin_bug_hunt_l3",
+    "full_name": "gavanderhoorn/rosin_bug_hunt_l3",
+    "html_url": "https://github.com/gavanderhoorn/rosin_bug_hunt_l3",
+    "description": "Contents has been moved, see readme below",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 1286
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 80.63,
+    "S_code": 1.26,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "rviz_camera_ray_tool",
+    "full_name": "gavanderhoorn/rviz_camera_ray_tool",
+    "html_url": "https://github.com/gavanderhoorn/rviz_camera_ray_tool",
+    "description": "Simple tool for publishing mouse clicks in RViz as geometric rays to ROS ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 2623,
+      "CMake": 1410
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.97,
+    "S_code": 3.94,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "roswiki",
+    "full_name": "gavanderhoorn/roswiki",
+    "html_url": "https://github.com/gavanderhoorn/roswiki",
+    "description": "Plugins and configurations for wiki.ros.org",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1337428,
+      "Python": 392924,
+      "CSS": 22576
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 865.92,
+    "S_code": 1711.84,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "roswiki_dev_sample_data",
+    "full_name": "gavanderhoorn/roswiki_dev_sample_data",
+    "html_url": "https://github.com/gavanderhoorn/roswiki_dev_sample_data",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "zhe",
+    "full_name": "gavanderhoorn/zhe",
+    "html_url": "https://github.com/gavanderhoorn/zhe",
+    "description": "Lighter-than-air, peer-to-peer, bounded, non-blocking, non-threaded, etc., implementation of XRCE",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 309603,
+      "C++": 107362,
+      "TeX": 58078,
+      "Perl 6": 4384,
+      "Makefile": 1975,
+      "CMake": 1902,
+      "Perl": 852
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 236.4,
+    "S_code": 472.81,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cros",
+    "full_name": "gavanderhoorn/cros",
+    "html_url": "https://github.com/gavanderhoorn/cros",
+    "description": "A single thread pure C implementation of the ROS framework",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 636848,
+      "C++": 32549,
+      "CMake": 6582,
+      "Python": 428
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 330.28,
+    "S_code": 660.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ros_buildfarm_config",
+    "full_name": "gavanderhoorn/ros_buildfarm_config",
+    "html_url": "https://github.com/gavanderhoorn/ros_buildfarm_config",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1260
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 170.62,
+    "S_code": 1.23,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "rviz_lasso_tool",
+    "full_name": "gavanderhoorn/rviz_lasso_tool",
+    "html_url": "https://github.com/gavanderhoorn/rviz_lasso_tool",
+    "description": "Lasso selection tool for point clouds in Rviz",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 16422,
+      "CMake": 2594
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.29,
+    "S_code": 18.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "robot_model",
+    "full_name": "gavanderhoorn/robot_model",
+    "html_url": "https://github.com/gavanderhoorn/robot_model",
+    "description": "Contains packages for modeling various aspects of robot information, specified in the Xml Robot Description Format (URDF). The core package of this stack is urdf, which parses URDF files, and constructs an object model (C++) of the robot.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 110
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.05,
+    "S_code": 0.11,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fanuc-doc-test",
+    "full_name": "gavanderhoorn/fanuc-doc-test",
+    "html_url": "https://github.com/gavanderhoorn/fanuc-doc-test",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 20388,
+      "Python": 10292,
+      "Makefile": 8101,
+      "Batchfile": 7755,
+      "JavaScript": 5701,
+      "CSS": 594
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 55.8,
+    "S_code": 51.59,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "tool_point_calibration",
+    "full_name": "gavanderhoorn/tool_point_calibration",
+    "html_url": "https://github.com/gavanderhoorn/tool_point_calibration",
+    "description": "Package for doing robot tool point calibrations",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 10231,
+      "CMake": 2486
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.21,
+    "S_code": 12.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ridgeback",
+    "full_name": "gavanderhoorn/ridgeback",
+    "html_url": "https://github.com/gavanderhoorn/ridgeback",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 205010,
+      "Python": 65426,
+      "TeX": 32497,
+      "C": 19529,
+      "EmberScript": 10688,
+      "CMake": 9749,
+      "Shell": 8174
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 171.42,
+    "S_code": 342.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "KukaRosOpenCommunication",
+    "full_name": "gavanderhoorn/KukaRosOpenCommunication",
+    "html_url": "https://github.com/gavanderhoorn/KukaRosOpenCommunication",
+    "description": "Allows controlling KUKA Robot by using ROS without additional technology package.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 41384,
+      "CMake": 3696
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22.01,
+    "S_code": 44.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rosdistro_filter",
+    "full_name": "gavanderhoorn/rosdistro_filter",
+    "html_url": "https://github.com/gavanderhoorn/rosdistro_filter",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 656
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.32,
+    "S_code": 0.64,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "DENSOrobot_denso_robot_ros",
+    "full_name": "gavanderhoorn/DENSOrobot_denso_robot_ros",
+    "html_url": "https://github.com/gavanderhoorn/DENSOrobot_denso_robot_ros",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 282187,
+      "CMake": 7770,
+      "Python": 7374
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 145.18,
+    "S_code": 290.36,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "DR-Camera-Kit-SDK",
+    "full_name": "gavanderhoorn/DR-Camera-Kit-SDK",
+    "html_url": "https://github.com/gavanderhoorn/DR-Camera-Kit-SDK",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Objective-C": 7982
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.9,
+    "S_code": 7.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "object_msgs",
+    "full_name": "gavanderhoorn/object_msgs",
+    "html_url": "https://github.com/gavanderhoorn/object_msgs",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 3072
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.5,
+    "S_code": 3.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "moveit_simple",
+    "full_name": "gavanderhoorn/moveit_simple",
+    "html_url": "https://github.com/gavanderhoorn/moveit_simple",
+    "description": "A wrapper around MoveIt that enables more traditional industrial robot programming.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 103841,
+      "CMake": 1549,
+      "Python": 352
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 51.63,
+    "S_code": 103.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "EEIP.NET",
+    "full_name": "gavanderhoorn/EEIP.NET",
+    "html_url": "https://github.com/gavanderhoorn/EEIP.NET",
+    "description": "Ethernet/IP compatible library for .NET implementations",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 112931
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 55.14,
+    "S_code": 110.28,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "haros_catkin_test",
+    "full_name": "gavanderhoorn/haros_catkin_test",
+    "html_url": "https://github.com/gavanderhoorn/haros_catkin_test",
+    "description": null,
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "CMake": 905,
+      "C++": 452
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 108.66,
+    "S_code": 1.33,
+    "S_social": 4,
+    "S_maint": 10
+  },
+  {
+    "name": "docker_kinetic_on_opensuse_leap",
+    "full_name": "gavanderhoorn/docker_kinetic_on_opensuse_leap",
+    "html_url": "https://github.com/gavanderhoorn/docker_kinetic_on_opensuse_leap",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "docker-public-images",
+    "full_name": "gavanderhoorn/docker-public-images",
+    "html_url": "https://github.com/gavanderhoorn/docker-public-images",
+    "description": "Public Docker images used in PRL codebase",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Makefile": 183
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.09,
+    "S_code": 0.18,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "design",
+    "full_name": "gavanderhoorn/design",
+    "html_url": "https://github.com/gavanderhoorn/design",
+    "description": "Design documentation for ROS 2.0 effort",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 36386,
+      "HTML": 5459,
+      "C++": 1615,
+      "CSS": 1398,
+      "CMake": 1248,
+      "Shell": 118,
+      "Ruby": 109
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22.62,
+    "S_code": 45.25,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "EEIP.Java",
+    "full_name": "gavanderhoorn/EEIP.Java",
+    "html_url": "https://github.com/gavanderhoorn/EEIP.Java",
+    "description": "Ethernet/IP compatible library for Java implementations",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 81944
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 40.01,
+    "S_code": 80.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rosdocked",
+    "full_name": "gavanderhoorn/rosdocked",
+    "html_url": "https://github.com/gavanderhoorn/rosdocked",
+    "description": "Tools for running ROS in docker with a shared username, home, and X11 ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 783
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.38,
+    "S_code": 0.76,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "demos",
+    "full_name": "gavanderhoorn/demos",
+    "html_url": "https://github.com/gavanderhoorn/demos",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 195552,
+      "Python": 54441,
+      "CMake": 27698,
+      "C": 1852,
+      "Shell": 343
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 136.66,
+    "S_code": 273.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bio_ik",
+    "full_name": "gavanderhoorn/bio_ik",
+    "html_url": "https://github.com/gavanderhoorn/bio_ik",
+    "description": "MoveIt kinematics_base plugin based on particle optimization & GA",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 296115,
+      "CMake": 3625
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 146.36,
+    "S_code": 292.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "message_thief",
+    "full_name": "gavanderhoorn/message_thief",
+    "html_url": "https://github.com/gavanderhoorn/message_thief",
+    "description": "Tools to steal ROS message definitions so you can talk with robots",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 55675
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 27.19,
+    "S_code": 54.37,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ur_ur_support",
+    "full_name": "gavanderhoorn/ur_ur_support",
+    "html_url": "https://github.com/gavanderhoorn/ur_ur_support",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 409
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.2,
+    "S_code": 0.4,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "catkin_pip",
+    "full_name": "gavanderhoorn/catkin_pip",
+    "html_url": "https://github.com/gavanderhoorn/catkin_pip",
+    "description": "Catkin extension to play nice with usual python packages and workflow",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 51615,
+      "Python": 19293,
+      "Shell": 11235
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 50.11,
+    "S_code": 80.22,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "genpy",
+    "full_name": "gavanderhoorn/genpy",
+    "html_url": "https://github.com/gavanderhoorn/genpy",
+    "description": "genpy",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 204230,
+      "EmberScript": 3093,
+      "CMake": 898
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 101.67,
+    "S_code": 203.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ensenso_extrinsic_calibration",
+    "full_name": "gavanderhoorn/ensenso_extrinsic_calibration",
+    "html_url": "https://github.com/gavanderhoorn/ensenso_extrinsic_calibration",
+    "description": "Ensenso automatic extrinsic calibration",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 38843,
+      "CMake": 2692
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.28,
+    "S_code": 40.56,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "py-faster-rcnn",
+    "full_name": "gavanderhoorn/py-faster-rcnn",
+    "html_url": "https://github.com/gavanderhoorn/py-faster-rcnn",
+    "description": "Faster R-CNN (Python implementation) -- see https://github.com/ShaoqingRen/faster_rcnn for the official MATLAB version",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 179006,
+      "C": 9632,
+      "Shell": 5819,
+      "Cuda": 5064,
+      "MATLAB": 1821,
+      "C++": 146,
+      "Makefile": 56
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 98.41,
+    "S_code": 196.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "kukavarproxy-msg-format",
+    "full_name": "gavanderhoorn/kukavarproxy-msg-format",
+    "html_url": "https://github.com/gavanderhoorn/kukavarproxy-msg-format",
+    "description": "A class that can send and receive messages from KUKAVARPROXY throught Python or CPP.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4518,
+      "C++": 3778
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.05,
+    "S_code": 8.1,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "matilda_moveit_config",
+    "full_name": "gavanderhoorn/matilda_moveit_config",
+    "html_url": "https://github.com/gavanderhoorn/matilda_moveit_config",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 267
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.13,
+    "S_code": 0.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "matilda_support",
+    "full_name": "gavanderhoorn/matilda_support",
+    "html_url": "https://github.com/gavanderhoorn/matilda_support",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 6150
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.0,
+    "S_code": 6.01,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "KUnit",
+    "full_name": "gavanderhoorn/KUnit",
+    "html_url": "https://github.com/gavanderhoorn/KUnit",
+    "description": "A unit testing framework for FANUC KAREL.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 10,
+    "contribution_score": 100.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "libstdex_kl",
+    "full_name": "gavanderhoorn/libstdex_kl",
+    "html_url": "https://github.com/gavanderhoorn/libstdex_kl",
+    "description": "A small set of reusable Fanuc Karel routines",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 5,
+    "contribution_score": 50.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "libindlog_kl",
+    "full_name": "gavanderhoorn/libindlog_kl",
+    "html_url": "https://github.com/gavanderhoorn/libindlog_kl",
+    "description": "A very rudimentary logging library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 40.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "libmathex_kl",
+    "full_name": "gavanderhoorn/libmathex_kl",
+    "html_url": "https://github.com/gavanderhoorn/libmathex_kl",
+    "description": "Rossum package providing a small collection of math functions.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 40.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "rosindex.github.io",
+    "full_name": "gavanderhoorn/rosindex.github.io",
+    "html_url": "https://github.com/gavanderhoorn/rosindex.github.io",
+    "description": "A community-maintained ROS package index.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 189604,
+      "CSS": 149976,
+      "Ruby": 55823,
+      "Shell": 203
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 193.17,
+    "S_code": 386.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "SimpleCV",
+    "full_name": "gavanderhoorn/SimpleCV",
+    "html_url": "https://github.com/gavanderhoorn/SimpleCV",
+    "description": "The Open Source Framework for Machine Vision",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "staubli_tx60_controller",
+    "full_name": "gavanderhoorn/staubli_tx60_controller",
+    "html_url": "https://github.com/gavanderhoorn/staubli_tx60_controller",
+    "description": "controller for the staubli_tx60 robotic arm",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 1728526,
+      "C": 220855,
+      "CMake": 4827,
+      "Python": 1101
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 954.74,
+    "S_code": 1909.48,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "catkin_tools",
+    "full_name": "gavanderhoorn/catkin_tools",
+    "html_url": "https://github.com/gavanderhoorn/catkin_tools",
+    "description": "Command line tools for working with catkin",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 429685,
+      "Shell": 7758,
+      "Objective-C": 3354,
+      "CMake": 2854,
+      "C++": 637
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 216.94,
+    "S_code": 433.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ros_opcua_communication",
+    "full_name": "gavanderhoorn/ros_opcua_communication",
+    "html_url": "https://github.com/gavanderhoorn/ros_opcua_communication",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 53070,
+      "C++": 26747,
+      "CMake": 2412
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 40.15,
+    "S_code": 80.3,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dpr4_description",
+    "full_name": "gavanderhoorn/dpr4_description",
+    "html_url": "https://github.com/gavanderhoorn/dpr4_description",
+    "description": "Unified Robot Description Format (URDF) of the DPR4 platform for the TU Delft Minor Robotics",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 40.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "fr_hdrs",
+    "full_name": "gavanderhoorn/fr_hdrs",
+    "html_url": "https://github.com/gavanderhoorn/fr_hdrs",
+    "description": "Rossum package that adds include guards to Fanuc Robotics supplied Karel headers.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "dual_m10ia_cell_support",
+    "full_name": "gavanderhoorn/dual_m10ia_cell_support",
+    "html_url": "https://github.com/gavanderhoorn/dual_m10ia_cell_support",
+    "description": "A ROS-Industrial IRCv2 example support package for a workcell with dual Fanuc M-10iA manipulators",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 220
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.11,
+    "S_code": 0.21,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "dual_m10ia_cell_moveit_config",
+    "full_name": "gavanderhoorn/dual_m10ia_cell_moveit_config",
+    "html_url": "https://github.com/gavanderhoorn/dual_m10ia_cell_moveit_config",
+    "description": "MoveIt package for the IRCv2 example cell with dual Fanuc M-10iA manipulators.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 275
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.13,
+    "S_code": 0.27,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "ur-sim1.8-64bit",
+    "full_name": "gavanderhoorn/ur-sim1.8-64bit",
+    "html_url": "https://github.com/gavanderhoorn/ur-sim1.8-64bit",
+    "description": "Regular UR ursim 1.8 but with 64bit compatible jogl libs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "rossum_example_ws",
+    "full_name": "gavanderhoorn/rossum_example_ws",
+    "html_url": "https://github.com/gavanderhoorn/rossum_example_ws",
+    "description": "An example workspace for rossum",
+    "stars": 0,
+    "forks": 2,
+    "languages": {},
+    "contributions_by_user": 6,
+    "contribution_score": 68.0,
+    "S_code": 0.0,
+    "S_social": 4,
+    "S_maint": 6
+  },
+  {
+    "name": "strings",
+    "full_name": "gavanderhoorn/strings",
+    "html_url": "https://github.com/gavanderhoorn/strings",
+    "description": "String utilities for FANUC KAREL",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Makefile": 363
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.18,
+    "S_code": 0.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hash",
+    "full_name": "gavanderhoorn/hash",
+    "html_url": "https://github.com/gavanderhoorn/hash",
+    "description": "A hash table implementation for FANUC KAREL",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Makefile": 447
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.22,
+    "S_code": 0.44,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ros-remote-turtles",
+    "full_name": "gavanderhoorn/ros-remote-turtles",
+    "html_url": "https://github.com/gavanderhoorn/ros-remote-turtles",
+    "description": "A simple, remotely controlled ROS node that uses turtlesim to draw figures.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 8854,
+      "JavaScript": 7215,
+      "Java": 4412,
+      "Shell": 2917,
+      "HTML": 1229,
+      "CSS": 102
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.07,
+    "S_code": 24.15,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gpp",
+    "full_name": "gavanderhoorn/gpp",
+    "html_url": "https://github.com/gavanderhoorn/gpp",
+    "description": "Fork of Tristan Miller's GPP that builds with CMake",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 103922,
+      "CMake": 11474
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 106.35,
+    "S_code": 112.69,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "rosbridge_client_dot_net",
+    "full_name": "gavanderhoorn/rosbridge_client_dot_net",
+    "html_url": "https://github.com/gavanderhoorn/rosbridge_client_dot_net",
+    "description": "A .NET Rosbridge Client Library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 42854
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.92,
+    "S_code": 41.85,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "yasnac",
+    "full_name": "gavanderhoorn/yasnac",
+    "html_url": "https://github.com/gavanderhoorn/yasnac",
+    "description": "floppy emulation, control API for YASNAC motoman",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 58916,
+      "Prolog": 5866,
+      "Ruby": 854
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 32.05,
+    "S_code": 64.1,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "moveit_commander",
+    "full_name": "gavanderhoorn/moveit_commander",
+    "html_url": "https://github.com/gavanderhoorn/moveit_commander",
+    "description": "Python Interfaces to MoveIt",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 91372,
+      "CMake": 237
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 44.73,
+    "S_code": 89.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "julienking.github.io",
+    "full_name": "gavanderhoorn/julienking.github.io",
+    "html_url": "https://github.com/gavanderhoorn/julienking.github.io",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PHP": 327225,
+      "CSS": 192496,
+      "HTML": 7956,
+      "JavaScript": 5127
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 260.16,
+    "S_code": 520.32,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "simple_message_py",
+    "full_name": "gavanderhoorn/simple_message_py",
+    "html_url": "https://github.com/gavanderhoorn/simple_message_py",
+    "description": "A Python (Twisted) implementation of the Simple Message protocol",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "Python": 18202
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 46.89,
+    "S_code": 17.78,
+    "S_social": 4,
+    "S_maint": 3
+  },
+  {
+    "name": "ros1_shim",
+    "full_name": "gavanderhoorn/ros1_shim",
+    "html_url": "https://github.com/gavanderhoorn/ros1_shim",
+    "description": "in theory, this repo will allow compilation of ROS1 code in ROS2",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 213547,
+      "CMake": 17119,
+      "C": 5108
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 115.12,
+    "S_code": 230.25,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ros-virtual-cam",
+    "full_name": "gavanderhoorn/ros-virtual-cam",
+    "html_url": "https://github.com/gavanderhoorn/ros-virtual-cam",
+    "description": "Stream ROS image topics to video capture devices.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 17749,
+      "CMake": 6097,
+      "Python": 2496
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.86,
+    "S_code": 25.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "geometry_experimental",
+    "full_name": "gavanderhoorn/geometry_experimental",
+    "html_url": "https://github.com/gavanderhoorn/geometry_experimental",
+    "description": "Catkinized version of geometry-experimental",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 521682,
+      "Python": 62292,
+      "CMake": 17843,
+      "Objective-C": 234
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 293.97,
+    "S_code": 587.94,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dp_ptu47_pan_tilt_stage",
+    "full_name": "gavanderhoorn/dp_ptu47_pan_tilt_stage",
+    "html_url": "https://github.com/gavanderhoorn/dp_ptu47_pan_tilt_stage",
+    "description": "ROS driver for DirectedPerception Pan-Tilt-Units (PTU-47) (C-Turtle version)",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C++": 44228,
+      "Shell": 2127,
+      "Python": 903,
+      "CMake": 744,
+      "Makefile": 42
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 97.46,
+    "S_code": 46.92,
+    "S_social": 2,
+    "S_maint": 7
+  },
+  {
+    "name": "NXT-ROS",
+    "full_name": "gavanderhoorn/NXT-ROS",
+    "html_url": "https://github.com/gavanderhoorn/NXT-ROS",
+    "description": "LEGO Mindstorms NXT interface for ROS Groovy & Fuerte.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "industrial_ci",
+    "full_name": "gavanderhoorn/industrial_ci",
+    "html_url": "https://github.com/gavanderhoorn/industrial_ci",
+    "description": "Continuous integration repository for ROS-Industrial",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 15925,
+      "Python": 1880,
+      "CMake": 239
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.81,
+    "S_code": 17.62,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "siemens_experimental",
+    "full_name": "gavanderhoorn/siemens_experimental",
+    "html_url": "https://github.com/gavanderhoorn/siemens_experimental",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 100957,
+      "CMake": 2395
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 50.46,
+    "S_code": 100.93,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mitsubishi_experimental",
+    "full_name": "gavanderhoorn/mitsubishi_experimental",
+    "html_url": "https://github.com/gavanderhoorn/mitsubishi_experimental",
+    "description": "Experimental packages for Mitsubishi manipulators within ROS-Industrial",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 122
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.06,
+    "S_code": 0.12,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "siemens_drivers",
+    "full_name": "gavanderhoorn/siemens_drivers",
+    "html_url": "https://github.com/gavanderhoorn/siemens_drivers",
+    "description": "Open source drivers for Siemens devices",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 2103,
+      "EmberScript": 287
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.17,
+    "S_code": 2.33,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "omron",
+    "full_name": "gavanderhoorn/omron",
+    "html_url": "https://github.com/gavanderhoorn/omron",
+    "description": "ROS driver for OMRON OS32C laser scanner.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 88615,
+      "CMake": 1721
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 54.11,
+    "S_code": 88.22,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "odva_ethernetip",
+    "full_name": "gavanderhoorn/odva_ethernetip",
+    "html_url": "https://github.com/gavanderhoorn/odva_ethernetip",
+    "description": "Library implementing ODVA EtherNet/IP (Industrial Protocol).",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 344090,
+      "CMake": 2151
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 179.06,
+    "S_code": 338.13,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "industrial_calibration",
+    "full_name": "gavanderhoorn/industrial_calibration",
+    "html_url": "https://github.com/gavanderhoorn/industrial_calibration",
+    "description": "Contains libraries/algorithms for calibration industrial systems",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 652208,
+      "CMake": 19836,
+      "MATLAB": 845,
+      "C": 121
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 328.62,
+    "S_code": 657.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "moveit_ikfast_simpler",
+    "full_name": "gavanderhoorn/moveit_ikfast_simpler",
+    "html_url": "https://github.com/gavanderhoorn/moveit_ikfast_simpler",
+    "description": "Scripts creating IKFast MoveIt plugins for simple, serial manipulators. Wraps moveit_ikfast.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 11931,
+      "CMake": 225
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 125.94,
+    "S_code": 11.87,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "rfbh",
+    "full_name": "gavanderhoorn/rfbh",
+    "html_url": "https://github.com/gavanderhoorn/rfbh",
+    "description": "ROS-Fanuc-Blender helper script",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 10390
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 45.07,
+    "S_code": 10.15,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "ros_qml",
+    "full_name": "gavanderhoorn/ros_qml",
+    "html_url": "https://github.com/gavanderhoorn/ros_qml",
+    "description": "The ros_qml package",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 10021,
+      "Shell": 1348,
+      "CMake": 338
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.72,
+    "S_code": 11.43,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bezier",
+    "full_name": "gavanderhoorn/bezier",
+    "html_url": "https://github.com/gavanderhoorn/bezier",
+    "description": "ROS-Industrial Special Project: 5D tool path planner",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 72183,
+      "CMake": 3196
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 36.81,
+    "S_code": 73.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "keyence_experimental",
+    "full_name": "gavanderhoorn/keyence_experimental",
+    "html_url": "https://github.com/gavanderhoorn/keyence_experimental",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "prerelease_website",
+    "full_name": "gavanderhoorn/prerelease_website",
+    "html_url": "https://github.com/gavanderhoorn/prerelease_website",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 23955,
+      "JavaScript": 18970,
+      "HTML": 10095
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 25.89,
+    "S_code": 51.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "robotiq",
+    "full_name": "gavanderhoorn/robotiq",
+    "html_url": "https://github.com/gavanderhoorn/robotiq",
+    "description": "ROS-Industrial robotiq meta-package. http://wiki.ros.org/robotiq",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 64112,
+      "C++": 40921,
+      "CMake": 6964
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 54.69,
+    "S_code": 109.37,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "genfrkl_test_msgs",
+    "full_name": "gavanderhoorn/genfrkl_test_msgs",
+    "html_url": "https://github.com/gavanderhoorn/genfrkl_test_msgs",
+    "description": "Test messages for genfrkl",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 327
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 50.16,
+    "S_code": 0.32,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "genmsg",
+    "full_name": "gavanderhoorn/genmsg",
+    "html_url": "https://github.com/gavanderhoorn/genmsg",
+    "description": "Standalone Python library for generating ROS message and service data structures for various languages",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 131138,
+      "EmberScript": 17671,
+      "XML": 750
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 73.03,
+    "S_code": 146.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "smart5six_gazebo_plugin",
+    "full_name": "gavanderhoorn/smart5six_gazebo_plugin",
+    "html_url": "https://github.com/gavanderhoorn/smart5six_gazebo_plugin",
+    "description": "ROS Gazebo Plug-in for Comau Smart5 SiX",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 554661,
+      "C": 39427,
+      "CMake": 2400
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 291.25,
+    "S_code": 582.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ros_map",
+    "full_name": "gavanderhoorn/ros_map",
+    "html_url": "https://github.com/gavanderhoorn/ros_map",
+    "description": "ROS Users Map",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "moveit_setup_assistant",
+    "full_name": "gavanderhoorn/moveit_setup_assistant",
+    "html_url": "https://github.com/gavanderhoorn/moveit_setup_assistant",
+    "description": "MoveIt! Setup Assistant",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 514087,
+      "Python": 1596,
+      "CSS": 484
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 252.03,
+    "S_code": 504.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "frping",
+    "full_name": "gavanderhoorn/frping",
+    "html_url": "https://github.com/gavanderhoorn/frping",
+    "description": "A command-line ping-like utility for discovery of Fanuc Robotics industrial controllers with the FRDM option",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "moveit_humanoid_stability",
+    "full_name": "gavanderhoorn/moveit_humanoid_stability",
+    "html_url": "https://github.com/gavanderhoorn/moveit_humanoid_stability",
+    "description": "Libraries for sampling and validating a humanoid biped with one or more fixed feet for stability constraints in MoveIt!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 47384,
+      "CMake": 1451
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.85,
+    "S_code": 47.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "teleop_tools",
+    "full_name": "gavanderhoorn/teleop_tools",
+    "html_url": "https://github.com/gavanderhoorn/teleop_tools",
+    "description": "A set of generic teleoperation tools for any robot.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 15239
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.44,
+    "S_code": 14.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "euler",
+    "full_name": "gavanderhoorn/euler",
+    "html_url": "https://github.com/gavanderhoorn/euler",
+    "description": "SwRI mobile manipulation platform",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "softkinetic",
+    "full_name": "gavanderhoorn/softkinetic",
+    "html_url": "https://github.com/gavanderhoorn/softkinetic",
+    "description": "This repository holds a ROS driver package for an interactive gesture camera (softkinetic).",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 22126
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 30.8,
+    "S_code": 21.61,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "roberta-ros",
+    "full_name": "gavanderhoorn/roberta-ros",
+    "html_url": "https://github.com/gavanderhoorn/roberta-ros",
+    "description": "ROS interface to Roberta",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gencpp",
+    "full_name": "gavanderhoorn/gencpp",
+    "html_url": "https://github.com/gavanderhoorn/gencpp",
+    "description": "ROS C++ message definition and serialization generators",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "moveit_ikfast",
+    "full_name": "gavanderhoorn/moveit_ikfast",
+    "html_url": "https://github.com/gavanderhoorn/moveit_ikfast",
+    "description": "Generates a IKFast kinematics plugin for MoveIt using OpenRave generated cpp files",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 50441,
+      "Python": 19585
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 124.19,
+    "S_code": 68.38,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "dry_prerelease_job_generator",
+    "full_name": "gavanderhoorn/dry_prerelease_job_generator",
+    "html_url": "https://github.com/gavanderhoorn/dry_prerelease_job_generator",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 740120,
+      "Shell": 38315,
+      "JavaScript": 9485,
+      "Makefile": 9122,
+      "CMake": 4490,
+      "HTML": 3952
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 393.3,
+    "S_code": 786.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "roslaunch_test_resolve_unless",
+    "full_name": "gavanderhoorn/roslaunch_test_resolve_unless",
+    "html_url": "https://github.com/gavanderhoorn/roslaunch_test_resolve_unless",
+    "description": "Test",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "reis_experimental",
+    "full_name": "gavanderhoorn/reis_experimental",
+    "html_url": "https://github.com/gavanderhoorn/reis_experimental",
+    "description": "Experimental packages for Reis manipulators within ROS-Industrial",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 10,
+    "contribution_score": 100.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "staubli-lhs",
+    "full_name": "gavanderhoorn/staubli-lhs",
+    "html_url": "https://github.com/gavanderhoorn/staubli-lhs",
+    "description": "Staubli package for integration with ROS industrial",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 13,
+    "contribution_score": 130.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "urdf_tutorial",
+    "full_name": "gavanderhoorn/urdf_tutorial",
+    "html_url": "https://github.com/gavanderhoorn/urdf_tutorial",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "industrial_training",
+    "full_name": "gavanderhoorn/industrial_training",
+    "html_url": "https://github.com/gavanderhoorn/industrial_training",
+    "description": "Training material for ROS-Industrial.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 2497877,
+      "Python": 169800,
+      "C": 82801,
+      "Shell": 15152,
+      "D": 12484,
+      "Fortran": 12484,
+      "Objective-C": 3991,
+      "LiveScript": 2676,
+      "Erlang": 2230,
+      "Perl": 1173
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 1377.51,
+    "S_code": 2735.03,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "rosinstall",
+    "full_name": "gavanderhoorn/rosinstall",
+    "html_url": "https://github.com/gavanderhoorn/rosinstall",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 222681,
+      "Shell": 4815
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 131.08,
+    "S_code": 222.16,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "ros_industrial_training",
+    "full_name": "gavanderhoorn/ros_industrial_training",
+    "html_url": "https://github.com/gavanderhoorn/ros_industrial_training",
+    "description": "ROS-Industrial examples and exercises material. NOTE: OLD AND DEFUNCT",
+    "stars": 0,
+    "forks": 11,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 44.0,
+    "S_code": 0.0,
+    "S_social": 22,
+    "S_maint": 0
+  },
+  {
+    "name": "gen_rosinstall",
+    "full_name": "gavanderhoorn/gen_rosinstall",
+    "html_url": "https://github.com/gavanderhoorn/gen_rosinstall",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 24538
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.98,
+    "S_code": 23.96,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "industrial_experimental",
+    "full_name": "gavanderhoorn/industrial_experimental",
+    "html_url": "https://github.com/gavanderhoorn/industrial_experimental",
+    "description": "Contains experimental packages for industrial_core.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "inventor_to_urdf",
+    "full_name": "gavanderhoorn/inventor_to_urdf",
+    "html_url": "https://github.com/gavanderhoorn/inventor_to_urdf",
+    "description": "Program used in conjunction with Autodesk Inventor 2013 to convert assemblies into Universal Robot Description Format (URDF) for ROS.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 34687
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.94,
+    "S_code": 33.87,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "kpro9",
+    "full_name": "gavanderhoorn/kpro9",
+    "html_url": "https://github.com/gavanderhoorn/kpro9",
+    "description": "Automatic generation of Wireshark dissectors from C structs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "username": "rainerhahnekamp",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "Java",
+      "Batchfile",
+      "JavaScript",
+      "TypeScript",
+      "Shell",
+      "CSS"
+    ],
+    "distinct_topics": [
+      "java",
+      "performance",
+      "best-practices",
+      "testing",
+      "change-detection",
+      "qwik-city",
+      "visual-regression",
+      "ngrx",
+      "rxjs",
+      "svelte",
+      "sveltejs",
+      "angular",
+      "design-patterns",
+      "exception-handling",
+      "ngx-formly",
+      "qwik",
+      "cloudflare",
+      "observables"
+    ],
+    "language_count": 7,
+    "topic_count": 18,
+    "total_owned_repos": 132
+  },
+  "diversity_score_100": 56.4
+}

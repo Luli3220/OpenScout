@@ -1,0 +1,32 @@
+{
+  "username": "klmr",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Vim script",
+      "C++",
+      "Python",
+      "PostScript",
+      "Makefile",
+      "Lua",
+      "TeX",
+      "C",
+      "JavaScript",
+      "R",
+      "PHP",
+      "Shell"
+    ],
+    "distinct_topics": [
+      "packages",
+      "package",
+      "r",
+      "metaprogramming",
+      "interpreter",
+      "modules",
+      "lox"
+    ],
+    "language_count": 12,
+    "topic_count": 7,
+    "total_owned_repos": 62
+  },
+  "diversity_score_100": 65.6
+}

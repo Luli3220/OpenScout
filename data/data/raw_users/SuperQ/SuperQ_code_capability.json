@@ -1,0 +1,14 @@
+{
+  "username": "SuperQ",
+  "raw_metrics": {
+    "accepted_external_prs": 0,
+    "created_issues": 0,
+    "merged_external_pr_count_approx": 0,
+    "issue_comment_count": 42,
+    "pr_review_comment_count": 17,
+    "events_fetched": 300,
+    "merged_prs_with_stars": [],
+    "total_closed_external_prs": 4
+  },
+  "code_capability_score_100": 15.0
+}

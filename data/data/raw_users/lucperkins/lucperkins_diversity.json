@@ -1,0 +1,46 @@
+{
+  "username": "lucperkins",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Dart",
+      "Rust",
+      "Makefile",
+      "Elixir",
+      "Open Policy Agent",
+      "Java",
+      "Sass",
+      "Scala",
+      "Starlark",
+      "Nix",
+      "Shell",
+      "Go"
+    ],
+    "distinct_topics": [
+      "static",
+      "grpc",
+      "go",
+      "minikube",
+      "markdown",
+      "bazel",
+      "golang",
+      "docs",
+      "grpc-java",
+      "techdocs",
+      "kubernetes",
+      "grpc-go",
+      "rust",
+      "python-requests",
+      "requests",
+      "docker",
+      "documentation",
+      "java",
+      "http-client",
+      "kubectl",
+      "ssg"
+    ],
+    "language_count": 12,
+    "topic_count": 21,
+    "total_owned_repos": 31
+  },
+  "diversity_score_100": 76.8
+}

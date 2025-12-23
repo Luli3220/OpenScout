@@ -1,0 +1,1649 @@
+[
+  {
+    "name": "captcha-decoder",
+    "full_name": "mekarpeles/captcha-decoder",
+    "html_url": "https://github.com/mekarpeles/captcha-decoder",
+    "description": "An elementary captcha decoder written in python",
+    "stars": 156,
+    "forks": 54,
+    "languages": {
+      "Python": 17706
+    },
+    "contributions_by_user": 50,
+    "contribution_score": 1036.65,
+    "S_code": 17.29,
+    "S_social": 264,
+    "S_maint": 50
+  },
+  {
+    "name": "pypc",
+    "full_name": "mekarpeles/pypc",
+    "html_url": "https://github.com/mekarpeles/pypc",
+    "description": "The Python3 Package Creator",
+    "stars": 24,
+    "forks": 4,
+    "languages": {
+      "Python": 18164,
+      "HTML": 1303
+    },
+    "contributions_by_user": 77,
+    "contribution_score": 843.51,
+    "S_code": 19.01,
+    "S_social": 32,
+    "S_maint": 77
+  },
+  {
+    "name": "papers",
+    "full_name": "mekarpeles/papers",
+    "html_url": "https://github.com/mekarpeles/papers",
+    "description": "`Papers` is an open community for sharing and discussing academic papers",
+    "stars": 23,
+    "forks": 6,
+    "languages": {
+      "Python": 31383,
+      "HTML": 11860,
+      "CSS": 5465
+    },
+    "contributions_by_user": 170,
+    "contribution_score": 1793.78,
+    "S_code": 47.57,
+    "S_social": 35,
+    "S_maint": 170
+  },
+  {
+    "name": "math.mx",
+    "full_name": "mekarpeles/math.mx",
+    "html_url": "https://github.com/mekarpeles/math.mx",
+    "description": "A comprehensive graph of mathematical domains and topics",
+    "stars": 22,
+    "forks": 7,
+    "languages": {
+      "JavaScript": 6686,
+      "HTML": 2411,
+      "CSS": 613
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 156.74,
+    "S_code": 9.48,
+    "S_social": 36,
+    "S_maint": 8
+  },
+  {
+    "name": "waltz",
+    "full_name": "mekarpeles/waltz",
+    "html_url": "https://github.com/mekarpeles/waltz",
+    "description": "Waltz lets you design web.py apps in 3/4 time",
+    "stars": 12,
+    "forks": 0,
+    "languages": {
+      "Python": 61153
+    },
+    "contributions_by_user": 150,
+    "contribution_score": 1553.86,
+    "S_code": 59.72,
+    "S_social": 12,
+    "S_maint": 150
+  },
+  {
+    "name": "iiif2",
+    "full_name": "mekarpeles/iiif2",
+    "html_url": "https://github.com/mekarpeles/iiif2",
+    "description": "An implementation of the IIIF Image API 2.0 Specification",
+    "stars": 10,
+    "forks": 0,
+    "languages": {
+      "Python": 17401
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 168.5,
+    "S_code": 16.99,
+    "S_social": 10,
+    "S_maint": 14
+  },
+  {
+    "name": "niiifty",
+    "full_name": "mekarpeles/niiifty",
+    "html_url": "https://github.com/mekarpeles/niiifty",
+    "description": "A simple Python Flask-based implementation of the IIIF Image API 2.0 standard",
+    "stars": 7,
+    "forks": 0,
+    "languages": {
+      "Python": 5185,
+      "HTML": 1724
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 47.37,
+    "S_code": 6.75,
+    "S_social": 7,
+    "S_maint": 3
+  },
+  {
+    "name": "lazydb",
+    "full_name": "mekarpeles/lazydb",
+    "html_url": "https://github.com/mekarpeles/lazydb",
+    "description": "LazyDB is a simple shelve-based flatfile database for Python",
+    "stars": 7,
+    "forks": 0,
+    "languages": {
+      "Python": 12289
+    },
+    "contributions_by_user": 59,
+    "contribution_score": 610.0,
+    "S_code": 12.0,
+    "S_social": 7,
+    "S_maint": 59
+  },
+  {
+    "name": "parseli",
+    "full_name": "mekarpeles/parseli",
+    "html_url": "https://github.com/mekarpeles/parseli",
+    "description": "Parseli cooks public LinkedIn profile pages into json",
+    "stars": 7,
+    "forks": 5,
+    "languages": {
+      "Python": 23761
+    },
+    "contributions_by_user": 47,
+    "contribution_score": 515.6,
+    "S_code": 23.2,
+    "S_social": 17,
+    "S_maint": 47
+  },
+  {
+    "name": "archive.org",
+    "full_name": "mekarpeles/archive.org",
+    "html_url": "https://github.com/mekarpeles/archive.org",
+    "description": "A redesign concept of archive.org",
+    "stars": 6,
+    "forks": 5,
+    "languages": {
+      "CSS": 9260,
+      "Python": 8427,
+      "JavaScript": 512
+    },
+    "contributions_by_user": 88,
+    "contribution_score": 920.89,
+    "S_code": 17.77,
+    "S_social": 16,
+    "S_maint": 88
+  },
+  {
+    "name": "commonbook",
+    "full_name": "mekarpeles/commonbook",
+    "html_url": "https://github.com/mekarpeles/commonbook",
+    "description": "My Life's Commonbook",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "Python": 2620
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 53.28,
+    "S_code": 2.56,
+    "S_social": 6,
+    "S_maint": 4
+  },
+  {
+    "name": "quintet",
+    "full_name": "mekarpeles/quintet",
+    "html_url": "https://github.com/mekarpeles/quintet",
+    "description": "Quintet is the story of Leina Grey, a young girl who founds an academy of prodigies to shield her from society.",
+    "stars": 5,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 78,
+    "contribution_score": 790.0,
+    "S_code": 0.0,
+    "S_social": 5,
+    "S_maint": 78
+  },
+  {
+    "name": "practical-python_ebook",
+    "full_name": "mekarpeles/practical-python_ebook",
+    "html_url": "https://github.com/mekarpeles/practical-python_ebook",
+    "description": null,
+    "stars": 5,
+    "forks": 2,
+    "languages": {
+      "Python": 2595,
+      "JavaScript": 305
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 139.42,
+    "S_code": 2.83,
+    "S_social": 9,
+    "S_maint": 12
+  },
+  {
+    "name": "front-end-guide-2019",
+    "full_name": "mekarpeles/front-end-guide-2019",
+    "html_url": "https://github.com/mekarpeles/front-end-guide-2019",
+    "description": "Quickstart guide to understanding modern front-end technologies and how to get started without researching forever",
+    "stars": 3,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 36.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 3
+  },
+  {
+    "name": "nginxmon",
+    "full_name": "mekarpeles/nginxmon",
+    "html_url": "https://github.com/mekarpeles/nginxmon",
+    "description": "pyinotify nginx error.log monitoring tool, complete with email alerts",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Python": 5693
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 112.78,
+    "S_code": 5.56,
+    "S_social": 5,
+    "S_maint": 10
+  },
+  {
+    "name": "tincan",
+    "full_name": "mekarpeles/tincan",
+    "html_url": "https://github.com/mekarpeles/tincan",
+    "description": "Turn your unsmart phone into a smartphone",
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "Python": 6308
+    },
+    "contributions_by_user": 38,
+    "contribution_score": 397.08,
+    "S_code": 6.16,
+    "S_social": 7,
+    "S_maint": 38
+  },
+  {
+    "name": "michaelkarpeles.com",
+    "full_name": "mekarpeles/michaelkarpeles.com",
+    "html_url": "https://github.com/mekarpeles/michaelkarpeles.com",
+    "description": "Organizing my life's work",
+    "stars": 2,
+    "forks": 2,
+    "languages": {
+      "HTML": 1466457,
+      "JavaScript": 106208,
+      "CSS": 18310,
+      "Python": 12172,
+      "Rich Text Format": 2031,
+      "TeX": 30
+    },
+    "contributions_by_user": 30,
+    "contribution_score": 1095.79,
+    "S_code": 1567.59,
+    "S_social": 6,
+    "S_maint": 30
+  },
+  {
+    "name": "ia-br-translate-experiment",
+    "full_name": "mekarpeles/ia-br-translate-experiment",
+    "html_url": "https://github.com/mekarpeles/ia-br-translate-experiment",
+    "description": "Internet Archive Bookreader + Mozilla Client-side Translation experiment",
+    "stars": 2,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 182602,
+      "CSS": 1655,
+      "HTML": 1049,
+      "Shell": 172
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 122.57,
+    "S_code": 181.13,
+    "S_social": 6,
+    "S_maint": 2
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "mekarpeles/dotfiles",
+    "html_url": "https://github.com/mekarpeles/dotfiles",
+    "description": "Misc configs like screen.rc, etc",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Shell": 4252,
+      "Common Lisp": 2588
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 77.34,
+    "S_code": 6.68,
+    "S_social": 2,
+    "S_maint": 7
+  },
+  {
+    "name": "responsible-citizens-handbook",
+    "full_name": "mekarpeles/responsible-citizens-handbook",
+    "html_url": "https://github.com/mekarpeles/responsible-citizens-handbook",
+    "description": "Responsible Citizens Handbook is a guide to understanding power and organizing movements",
+    "stars": 2,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 34.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "enpy",
+    "full_name": "mekarpeles/enpy",
+    "html_url": "https://github.com/mekarpeles/enpy",
+    "description": "English syntax for Python",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 6100
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 176.98,
+    "S_code": 5.96,
+    "S_social": 2,
+    "S_maint": 17
+  },
+  {
+    "name": "sendr",
+    "full_name": "mekarpeles/sendr",
+    "html_url": "https://github.com/mekarpeles/sendr",
+    "description": "Semantic Email Client",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 18366
+    },
+    "contributions_by_user": 71,
+    "contribution_score": 722.97,
+    "S_code": 17.94,
+    "S_social": 2,
+    "S_maint": 71
+  },
+  {
+    "name": "un404.website",
+    "full_name": "mekarpeles/un404.website",
+    "html_url": "https://github.com/mekarpeles/un404.website",
+    "description": "Bring a missing website back to life",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5278,
+      "CSS": 3360,
+      "HTML": 3283
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 57.82,
+    "S_code": 11.64,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "wordguess.app",
+    "full_name": "mekarpeles/wordguess.app",
+    "html_url": "https://github.com/mekarpeles/wordguess.app",
+    "description": "Word Guess is a language-learning game where you guess answers to TabooGPT's hints in a target language",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 2851,
+      "HTML": 867,
+      "Dockerfile": 783,
+      "Shell": 170
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 74.28,
+    "S_code": 4.56,
+    "S_social": 1,
+    "S_maint": 7
+  },
+  {
+    "name": "openlibrary.press",
+    "full_name": "mekarpeles/openlibrary.press",
+    "html_url": "https://github.com/mekarpeles/openlibrary.press",
+    "description": "Explorations into open access publishing",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 22.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "ePublish",
+    "full_name": "mekarpeles/ePublish",
+    "html_url": "https://github.com/mekarpeles/ePublish",
+    "description": "ePublish is a thin s3 API which lets publishers/vendor register an eBook patrons curl payment and get a file download back",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 22.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "booktrails",
+    "full_name": "mekarpeles/booktrails",
+    "html_url": "https://github.com/mekarpeles/booktrails",
+    "description": "A simple website for creating curriculum: directed sequences of books",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 42.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "peanutsforgood.org",
+    "full_name": "mekarpeles/peanutsforgood.org",
+    "html_url": "https://github.com/mekarpeles/peanutsforgood.org",
+    "description": "Peanuts For Good website",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 10842
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 37.29,
+    "S_code": 10.59,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "infogami",
+    "full_name": "mekarpeles/infogami",
+    "html_url": "https://github.com/mekarpeles/infogami",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 524233,
+      "JavaScript": 105904,
+      "HTML": 30962,
+      "CSS": 4167,
+      "PLpgSQL": 3925
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 328.75,
+    "S_code": 653.51,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "notesclub",
+    "full_name": "mekarpeles/notesclub",
+    "html_url": "https://github.com/mekarpeles/notesclub",
+    "description": "Book Notes Club",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Ruby": 108108,
+      "TypeScript": 102555,
+      "JavaScript": 77352,
+      "HTML": 30081,
+      "SCSS": 494,
+      "CSS": 366
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 161.74,
+    "S_code": 311.48,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "regex-parser.js",
+    "full_name": "mekarpeles/regex-parser.js",
+    "html_url": "https://github.com/mekarpeles/regex-parser.js",
+    "description": ":expressionless: A module that parses a string as regular expression and returns the parsed value",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3500
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.71,
+    "S_code": 3.42,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "simple-webrtc-video-chat",
+    "full_name": "mekarpeles/simple-webrtc-video-chat",
+    "html_url": "https://github.com/mekarpeles/simple-webrtc-video-chat",
+    "description": "A bare bones WebRTC video chat implementation ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 17562,
+      "CoffeeScript": 1149,
+      "HTML": 405,
+      "CSS": 151
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.41,
+    "S_code": 18.82,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "internetarchive",
+    "full_name": "mekarpeles/internetarchive",
+    "html_url": "https://github.com/mekarpeles/internetarchive",
+    "description": "A Python and Command-Line Interface to Archive.org",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 292588,
+      "Makefile": 1576
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 145.63,
+    "S_code": 287.27,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "78sidekick",
+    "full_name": "mekarpeles/78sidekick",
+    "html_url": "https://github.com/mekarpeles/78sidekick",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 21519,
+      "CSS": 11793,
+      "HTML": 606
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 18.56,
+    "S_code": 33.12,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "flask",
+    "full_name": "mekarpeles/flask",
+    "html_url": "https://github.com/mekarpeles/flask",
+    "description": "The Python micro framework for building web applications.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 502064,
+      "Makefile": 550,
+      "HTML": 404,
+      "CSS": 18
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 247.62,
+    "S_code": 491.25,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "fatcat",
+    "full_name": "mekarpeles/fatcat",
+    "html_url": "https://github.com/mekarpeles/fatcat",
+    "description": "MIRROR of upstream IA repository",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Rust": 715264,
+      "Python": 457976,
+      "HTML": 92428,
+      "PLpgSQL": 27143,
+      "Shell": 3179
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 634.81,
+    "S_code": 1265.62,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "fromscrat.ch",
+    "full_name": "mekarpeles/fromscrat.ch",
+    "html_url": "https://github.com/mekarpeles/fromscrat.ch",
+    "description": "A wiki which lets you collaboratively build anything from scratch",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "todo.rip",
+    "full_name": "mekarpeles/todo.rip",
+    "html_url": "https://github.com/mekarpeles/todo.rip",
+    "description": "The front-end for the todo.rip application",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9845,
+      "CSS": 1626,
+      "HTML": 1424
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 38.3,
+    "S_code": 12.59,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "abbyy-to-epub3",
+    "full_name": "mekarpeles/abbyy-to-epub3",
+    "html_url": "https://github.com/mekarpeles/abbyy-to-epub3",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 73106
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 37.7,
+    "S_code": 71.39,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "word2vec_pytorch",
+    "full_name": "mekarpeles/word2vec_pytorch",
+    "html_url": "https://github.com/mekarpeles/word2vec_pytorch",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 11788
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.76,
+    "S_code": 11.51,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "xr",
+    "full_name": "mekarpeles/xr",
+    "html_url": "https://github.com/mekarpeles/xr",
+    "description": "A multi-user collaborative exercise tracking application",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 20321
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 31.92,
+    "S_code": 19.84,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "api.todo.rip",
+    "full_name": "mekarpeles/api.todo.rip",
+    "html_url": "https://github.com/mekarpeles/api.todo.rip",
+    "description": "api.todo.rip is the API behind todo.rip: The rolling todo application",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 21089
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 32.3,
+    "S_code": 20.59,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "whyloop",
+    "full_name": "mekarpeles/whyloop",
+    "html_url": "https://github.com/mekarpeles/whyloop",
+    "description": "Recursive explanations down to axioms.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "iiif.directory",
+    "full_name": "mekarpeles/iiif.directory",
+    "html_url": "https://github.com/mekarpeles/iiif.directory",
+    "description": "A community search engine for IIIF",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 2581,
+      "HTML": 2148,
+      "CSS": 1349
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 24.97,
+    "S_code": 5.94,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "mapthebrain.org",
+    "full_name": "mekarpeles/mapthebrain.org",
+    "html_url": "https://github.com/mekarpeles/mapthebrain.org",
+    "description": "A website dedicated to curating an interactive mapping the parts of the brain",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 22.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "python-barista",
+    "full_name": "mekarpeles/python-barista",
+    "html_url": "https://github.com/mekarpeles/python-barista",
+    "description": "Barista helps you manage your use of the Flask",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 30294
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 106.79,
+    "S_code": 29.58,
+    "S_social": 1,
+    "S_maint": 9
+  },
+  {
+    "name": "manifest-factory",
+    "full_name": "mekarpeles/manifest-factory",
+    "html_url": "https://github.com/mekarpeles/manifest-factory",
+    "description": "IIIF Manifest Factory",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 164588,
+      "HTML": 4195
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 84.41,
+    "S_code": 164.83,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "browser",
+    "full_name": "mekarpeles/browser",
+    "html_url": "https://github.com/mekarpeles/browser",
+    "description": "An attempt at emulating a browser within a browser.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 16.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "Flask-Routing",
+    "full_name": "mekarpeles/Flask-Routing",
+    "html_url": "https://github.com/mekarpeles/Flask-Routing",
+    "description": "Alternative web.py style routing for Flask",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 3620
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 63.77,
+    "S_code": 3.54,
+    "S_social": 1,
+    "S_maint": 6
+  },
+  {
+    "name": "Deque",
+    "full_name": "mekarpeles/Deque",
+    "html_url": "https://github.com/mekarpeles/Deque",
+    "description": "A set of macros for offering a flexible Dequeue solution + functional programming in C",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 12539,
+      "Shell": 107
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 98.17,
+    "S_code": 12.35,
+    "S_social": 1,
+    "S_maint": 9
+  },
+  {
+    "name": "vipy",
+    "full_name": "mekarpeles/vipy",
+    "html_url": "https://github.com/mekarpeles/vipy",
+    "description": "Vipy ncurses text editor",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 2824
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 93.38,
+    "S_code": 2.76,
+    "S_social": 1,
+    "S_maint": 9
+  },
+  {
+    "name": "dungeons",
+    "full_name": "mekarpeles/dungeons",
+    "html_url": "https://github.com/mekarpeles/dungeons",
+    "description": "Simple MUD telnet server in Python (twisted)",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 31781
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 87.52,
+    "S_code": 31.04,
+    "S_social": 1,
+    "S_maint": 7
+  },
+  {
+    "name": "waltz-example",
+    "full_name": "mekarpeles/waltz-example",
+    "html_url": "https://github.com/mekarpeles/waltz-example",
+    "description": "Waltz is a web.py framework for designing web apps in 3/4 time",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Python": 45208
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 238.07,
+    "S_code": 44.15,
+    "S_social": 3,
+    "S_maint": 21
+  },
+  {
+    "name": "lggr",
+    "full_name": "mekarpeles/lggr",
+    "html_url": "https://github.com/mekarpeles/lggr",
+    "description": "Python Logging for Humans",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "chaitin",
+    "full_name": "mekarpeles/chaitin",
+    "html_url": "https://github.com/mekarpeles/chaitin",
+    "description": "Python WebServer written with ws4py",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 4824
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 24.36,
+    "S_code": 4.71,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "We-See-You",
+    "full_name": "mekarpeles/We-See-You",
+    "html_url": "https://github.com/mekarpeles/We-See-You",
+    "description": "Live latent semantic analysis via the open graph protocol and more!",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 13815931,
+      "JavaScript": 430720,
+      "C": 400492,
+      "Shell": 4113
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7155.93,
+    "S_code": 14307.87,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "playwright-tests",
+    "full_name": "mekarpeles/playwright-tests",
+    "html_url": "https://github.com/mekarpeles/playwright-tests",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 150220,
+      "JavaScript": 4047,
+      "Shell": 1779
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 86.19,
+    "S_code": 152.39,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "mekmui.com",
+    "full_name": "mekarpeles/mekmui.com",
+    "html_url": "https://github.com/mekarpeles/mekmui.com",
+    "description": "A website for Mek & Mui",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 9225,
+      "CSS": 4044
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 26.48,
+    "S_code": 12.96,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "openlibrary",
+    "full_name": "mekarpeles/openlibrary",
+    "html_url": "https://github.com/mekarpeles/openlibrary",
+    "description": "One webpage for every book ever published!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2440096,
+      "HTML": 689369,
+      "JavaScript": 611009,
+      "Less": 291971,
+      "Vue": 201167,
+      "Shell": 48256,
+      "PLpgSQL": 15936,
+      "CSS": 4730,
+      "Dockerfile": 4026,
+      "Makefile": 3042,
+      "MDX": 900
+    },
+    "contributions_by_user": 3388,
+    "contribution_score": 35984.74,
+    "S_code": 4209.47,
+    "S_social": 0,
+    "S_maint": 3388
+  },
+  {
+    "name": "midcolumbia_project",
+    "full_name": "mekarpeles/midcolumbia_project",
+    "html_url": "https://github.com/mekarpeles/midcolumbia_project",
+    "description": "An exploration into extracting reading levels for popular books",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 10460
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 25.11,
+    "S_code": 10.21,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "awesome-iiif",
+    "full_name": "mekarpeles/awesome-iiif",
+    "html_url": "https://github.com/mekarpeles/awesome-iiif",
+    "description": "Awesome IIIF-related resources",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "proteusisc",
+    "full_name": "mekarpeles/proteusisc",
+    "html_url": "https://github.com/mekarpeles/proteusisc",
+    "description": "Proteusisc: Program your device using any comptible jtag controller",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 72062
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 175.19,
+    "S_code": 70.37,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "qwery-me",
+    "full_name": "mekarpeles/qwery-me",
+    "html_url": "https://github.com/mekarpeles/qwery-me",
+    "description": "query editor for wikidata",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 13268,
+      "CSS": 2538,
+      "HTML": 190,
+      "Shell": 164
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.89,
+    "S_code": 15.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Isfahan",
+    "full_name": "mekarpeles/Isfahan",
+    "html_url": "https://github.com/mekarpeles/Isfahan",
+    "description": "A tiling window manager based on d3.js",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mekarpeles.github.io",
+    "full_name": "mekarpeles/mekarpeles.github.io",
+    "html_url": "https://github.com/mekarpeles/mekarpeles.github.io",
+    "description": "personal blog",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 75053,
+      "CSS": 14733
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 103.84,
+    "S_code": 87.68,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "Weave",
+    "full_name": "mekarpeles/Weave",
+    "html_url": "https://github.com/mekarpeles/Weave",
+    "description": "A reference implementation for a weave data structure to allow quick reconstruction of old versions of a compressed repository in version control systems",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pip",
+    "full_name": "mekarpeles/pip",
+    "html_url": "https://github.com/mekarpeles/pip",
+    "description": "The PyPA recommended tool for installing Python packages",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "openlibrary-utils",
+    "full_name": "mekarpeles/openlibrary-utils",
+    "html_url": "https://github.com/mekarpeles/openlibrary-utils",
+    "description": "Utilities for working with OpenLibrary",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 25245
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.33,
+    "S_code": 24.65,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dataBase",
+    "full_name": "mekarpeles/dataBase",
+    "html_url": "https://github.com/mekarpeles/dataBase",
+    "description": "An aggregation of public data-sets and data sources",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "pycon-2014-job-fair",
+    "full_name": "mekarpeles/pycon-2014-job-fair",
+    "html_url": "https://github.com/mekarpeles/pycon-2014-job-fair",
+    "description": "Data on PyCon 2014 job fair participants and their positions on remote work.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pytalk",
+    "full_name": "mekarpeles/pytalk",
+    "html_url": "https://github.com/mekarpeles/pytalk",
+    "description": "Universal text-to-speech and speech-to-text audio processing toolkit in python",
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 14.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "phantompy",
+    "full_name": "mekarpeles/phantompy",
+    "html_url": "https://github.com/mekarpeles/phantompy",
+    "description": "Phantompy is a headless WebKit engine with powerful pythonic api build on top of Qt5 Webkit",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pycrumbs",
+    "full_name": "mekarpeles/pycrumbs",
+    "html_url": "https://github.com/mekarpeles/pycrumbs",
+    "description": "Bits and bytes of Python from the Internet",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "autocrop",
+    "full_name": "mekarpeles/autocrop",
+    "html_url": "https://github.com/mekarpeles/autocrop",
+    "description": "This package contains a tool for automatically cropping and deskewing images of book pages captured by an Internet Archive Scribe bookscanner.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 8093888,
+      "Shell": 298865,
+      "Python": 60982,
+      "C++": 28959
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4141.94,
+    "S_code": 8283.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "opener",
+    "full_name": "mekarpeles/opener",
+    "html_url": "https://github.com/mekarpeles/opener",
+    "description": "opener is an open entity resolution framework in python",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4536,
+      "Ruby": 17
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 172.22,
+    "S_code": 4.45,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "pymarks",
+    "full_name": "mekarpeles/pymarks",
+    "html_url": "https://github.com/mekarpeles/pymarks",
+    "description": "A collection of benchmarks of common Python operations",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1967
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 120.96,
+    "S_code": 1.92,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "parsley",
+    "full_name": "mekarpeles/parsley",
+    "html_url": "https://github.com/mekarpeles/parsley",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 447392
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 218.45,
+    "S_code": 436.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "eulers",
+    "full_name": "mekarpeles/eulers",
+    "html_url": "https://github.com/mekarpeles/eulers",
+    "description": "Project euler in various languages",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 16479,
+      "Scala": 1098,
+      "Clojure": 448,
+      "Java": 189,
+      "Haskell": 172,
+      "C": 157
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 299.05,
+    "S_code": 18.11,
+    "S_social": 0,
+    "S_maint": 29
+  },
+  {
+    "name": "envois",
+    "full_name": "mekarpeles/envois",
+    "html_url": "https://github.com/mekarpeles/envois",
+    "description": "Lambda Labs Invoicing Kit",
+    "stars": 0,
+    "forks": 4,
+    "languages": {
+      "Python": 11097
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 141.42,
+    "S_code": 10.84,
+    "S_social": 8,
+    "S_maint": 12
+  },
+  {
+    "name": "dedupe",
+    "full_name": "mekarpeles/dedupe",
+    "html_url": "https://github.com/mekarpeles/dedupe",
+    "description": "A free python library for accurate and scalelable deduplication and entity-resolution.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 465073,
+      "Python": 120177,
+      "Shell": 193
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 285.86,
+    "S_code": 571.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "blog",
+    "full_name": "mekarpeles/blog",
+    "html_url": "https://github.com/mekarpeles/blog",
+    "description": "mek's blog",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 634
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 70.31,
+    "S_code": 0.62,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "nltk",
+    "full_name": "mekarpeles/nltk",
+    "html_url": "https://github.com/mekarpeles/nltk",
+    "description": "NLTK Source",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 3422561,
+      "Emacs Lisp": 619886,
+      "Java": 30569
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1988.78,
+    "S_code": 3977.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "los",
+    "full_name": "mekarpeles/los",
+    "html_url": "https://github.com/mekarpeles/los",
+    "description": "lua operating system",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 15283331,
+      "C++": 220012,
+      "Assembly": 91761,
+      "Objective-C": 38476,
+      "Perl": 34781,
+      "Shell": 28006,
+      "Lua": 9856,
+      "Python": 9353,
+      "Racket": 6084,
+      "OpenEdge ABL": 4225,
+      "JavaScript": 3710,
+      "Ruby": 3236,
+      "Awk": 1871
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 7732.96,
+    "S_code": 15365.92,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "goland",
+    "full_name": "mekarpeles/goland",
+    "html_url": "https://github.com/mekarpeles/goland",
+    "description": "terminal game in go",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 39368,
+      "Lua": 478
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 169.46,
+    "S_code": 38.91,
+    "S_social": 0,
+    "S_maint": 15
+  },
+  {
+    "name": "sendr_stdlib",
+    "full_name": "mekarpeles/sendr_stdlib",
+    "html_url": "https://github.com/mekarpeles/sendr_stdlib",
+    "description": "A collection of apis and design patterns for the sendr email client",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 0
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 70.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "bigimg",
+    "full_name": "mekarpeles/bigimg",
+    "html_url": "https://github.com/mekarpeles/bigimg",
+    "description": "Easily create big images.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1900
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 60.93,
+    "S_code": 1.86,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "webpy",
+    "full_name": "mekarpeles/webpy",
+    "html_url": "https://github.com/mekarpeles/webpy",
+    "description": "web.py is a web framework for python that is as simple as it is powerful. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 385576
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 198.27,
+    "S_code": 376.54,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "dt",
+    "full_name": "mekarpeles/dt",
+    "html_url": "https://github.com/mekarpeles/dt",
+    "description": "A decisions tree generator in common lisp from grad school",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Common Lisp": 15460
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 37.55,
+    "S_code": 15.1,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "archaea",
+    "full_name": "mekarpeles/archaea",
+    "html_url": "https://github.com/mekarpeles/archaea",
+    "description": "Simple scm based bug tracker (like fossil)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 0
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 60.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "amp",
+    "full_name": "mekarpeles/amp",
+    "html_url": "https://github.com/mekarpeles/amp",
+    "description": "Activity Management Protocol",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 40.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "research",
+    "full_name": "mekarpeles/research",
+    "html_url": "https://github.com/mekarpeles/research",
+    "description": "A collection of versioned academic research papers, experiments, and code",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "pocw3",
+    "full_name": "mekarpeles/pocw3",
+    "html_url": "https://github.com/mekarpeles/pocw3",
+    "description": "Piece of Crap World Wide Web-Server",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 8988
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 64.39,
+    "S_code": 8.78,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "disamb",
+    "full_name": "mekarpeles/disamb",
+    "html_url": "https://github.com/mekarpeles/disamb",
+    "description": "The Semantic Typewriter",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "seashell",
+    "full_name": "mekarpeles/seashell",
+    "html_url": "https://github.com/mekarpeles/seashell",
+    "description": "A broken, super simple implementation of a bash-like shell",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 18339
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 18.95,
+    "S_code": 17.91,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "ohp",
+    "full_name": "mekarpeles/ohp",
+    "html_url": "https://github.com/mekarpeles/ohp",
+    "description": "A collection of interview questions",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 274
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 90.13,
+    "S_code": 0.27,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "btree",
+    "full_name": "mekarpeles/btree",
+    "html_url": "https://github.com/mekarpeles/btree",
+    "description": "Simple binary tree utility to construct + search basic binary trees in python",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 6428
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 103.14,
+    "S_code": 6.28,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "lankylists",
+    "full_name": "mekarpeles/lankylists",
+    "html_url": "https://github.com/mekarpeles/lankylists",
+    "description": "Simple program to construct, sort, and merge linked lists program in c",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 2040
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 21.0,
+    "S_code": 1.99,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "cHeap",
+    "full_name": "mekarpeles/cHeap",
+    "html_url": "https://github.com/mekarpeles/cHeap",
+    "description": "Experimental library which demonstrates an implementation of a binary heap and priority queue in c",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "bitsy",
+    "full_name": "mekarpeles/bitsy",
+    "html_url": "https://github.com/mekarpeles/bitsy",
+    "description": "Avg runtime and performance comparison for summing the number of set bits within 1000, 16 bit ints",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 3189
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 141.56,
+    "S_code": 3.11,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "semantic.gs",
+    "full_name": "mekarpeles/semantic.gs",
+    "html_url": "https://github.com/mekarpeles/semantic.gs",
+    "description": "The Semantic CSS Grid: Page Layout for Tomorrow",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

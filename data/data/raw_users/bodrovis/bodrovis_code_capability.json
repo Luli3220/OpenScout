@@ -1,0 +1,14 @@
+{
+  "username": "bodrovis",
+  "raw_metrics": {
+    "accepted_external_prs": 0,
+    "created_issues": 0,
+    "merged_external_pr_count_approx": 0,
+    "issue_comment_count": 9,
+    "pr_review_comment_count": 0,
+    "events_fetched": 124,
+    "merged_prs_with_stars": [],
+    "total_closed_external_prs": 2
+  },
+  "code_capability_score_100": 15.0
+}

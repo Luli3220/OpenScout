@@ -1,0 +1,14 @@
+{
+  "username": "jshier",
+  "raw_metrics": {
+    "accepted_external_prs": 0,
+    "created_issues": 4,
+    "merged_external_pr_count_approx": 0,
+    "issue_comment_count": 13,
+    "pr_review_comment_count": 0,
+    "events_fetched": 54,
+    "merged_prs_with_stars": [],
+    "total_closed_external_prs": 2
+  },
+  "engagement_score_100": 1.56
+}

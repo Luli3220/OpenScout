@@ -1,0 +1,53 @@
+[
+  {
+    "name": "goFrendiAsgard/No-CMS",
+    "stars": 297,
+    "description": "No-CMS, A CodeIgniter Based CMS Framework",
+    "languages_breakdown": {
+      "HTML": 8320368,
+      "PHP": 5286630,
+      "JavaScript": 789845,
+      "CSS": 226281,
+      "Shell": 3011,
+      "CoffeeScript": 2660
+    },
+    "files": {}
+  },
+  {
+    "name": "goFrendiAsgard/zaruba",
+    "stars": 64,
+    "description": "Archived, please visit https://github.com/state-alchemists/zrb",
+    "languages_breakdown": {
+      "Python": 478744,
+      "Go": 458393,
+      "Mustache": 111878,
+      "Shell": 83096,
+      "Vue": 48379,
+      "HTML": 14746,
+      "JavaScript": 6195,
+      "Dockerfile": 4974,
+      "Mako": 2600,
+      "Smarty": 1842,
+      "Makefile": 507,
+      "TypeScript": 429,
+      "CSS": 77
+    },
+    "files": {
+      "go.mod": "module github.com/state-alchemists/zaruba\n\ngo 1.16\n\nrequire (\n\tgithub.com/chzyer/readline v1.5.0 // indirect\n\tgithub.com/gertd/go-pluralize v0.2.1\n\tgithub.com/google/uuid v1.3.0\n\tgithub.com/joho/godotenv v1.4.0\n\tgithub.com/manifoldco/promptui v0.9.0\n\tgithub.com/spf13/cobra v1.4.0\n\tgithub.com/spf13/pflag v1.0.5\n\tgolang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f // indirect\n\tgopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect\n\tgopkg.in/yaml.v3 v3.0.0-20220512140231-539c8e751b99\n)\n",
+      "Dockerfile": "FROM golang:1.16 AS builder\n\nRUN mkdir -p /zaruba\nWORKDIR /zaruba\nCOPY go.mod go.sum ./\nRUN go mod download\n\nCOPY ./ ./\nCOPY ./.git ./.git\nRUN chmod 755 ./buildZaruba.sh &&. ./buildZaruba.sh\nRUN chmod 755 ./zaruba-tasks -R\nRUN chmod 755 ./setup/*.sh\n\nENV ZARUBA_HOME=\"/zaruba\"\n\nFROM stalchmst/devbox:latest\n\nENV PATH=\"${PATH}:/.zaruba\"\nENV DOCKER_HOST=\"tcp://host.docker.internal:2375\"\n\nRUN mkdir -p /.zaruba\nCOPY --from=builder /zaruba/zaruba /.zaruba/zaruba\nCOPY --from=builder /zaruba/core.zaruba.yaml /.zaruba/core.zaruba.yaml\nCOPY --from=builder /zaruba/advertisement.yaml /.zaruba/advertisement.yaml\nCOPY --from=builder /zaruba/zaruba-tasks /.zaruba/zaruba-tasks\nCOPY --from=builder /zaruba/setup /.zaruba/setup\nCOPY --from=builder /zaruba/setup/templates/bash/init.sh /.zaruba/init.sh\nRUN chmod 755 /.zaruba/setup/*.sh && \\\n    chmod 755 /.zaruba/init.sh && \\\n    mkdir -p /project\n\nWORKDIR /project\n\nCMD [\"sleep\", \"infinity\"]",
+      "README.md": "> ⚠️ __This repository is archived.__ Please see [__new Zrb repository__](https://github.com/state-alchemists/zrb). The new repository is re-written in Python and no longer uses YAML as configuration.\n\n\n![zaruba-logo](arts/zaruba-250.png)\n\n[Documentation](docs/README.md) | [Tutorial](docs/use-cases/from-zero-to-cloud.md) | [Installation](#-installation)\n\n\n# 🤖 Zaruba \n\nZaruba is a [task](docs/core-concepts/task/README.md) runner and [CLI utility](docs/utilities/README.md). It helps you __prepare__, __run__, __deploy__, and __debug__ your applications.\n\nWe believe, a good tool not only increases productivity but also changes and transforms people. In turn, a good tool will enable people to achieve their goals and open many other opportunities.\n\n## ❓ Problem\n\nDeveloping/debugging a system can be challenging. \n\nYour system might consist of __several applications that depend on each other__. And you need to __watch every message or error logged__ by your applications. So, you might end up opening many Tmux panels.\n\nLet's say you have a system with the following components:\n- A __frontend__ application\n- A __backend__ application\n- __MySQL__\n- __Redis__\n\nYou will need to run a lot of commands whenever you want to run your system for debugging/development purposes.\n\nLet's take a look at the following diagram:\n\n![problem](docs/images/problem.png)\n\nYou can quickly notice that:\n\n- ⛓️ You can run `Install Node Packages`, `Start MySql Container`, `Install Pip Packages`, and `Start Redis Container` __in parallel__.\n- 🔗 Some tasks __depend__ on other tasks. For example:\n  - To `Start Database Migration`, you must make sure that:\n    - MySql Container is already running.\n    - Necessary Pip packages have been installed.\n  - To `Start Backend Application`, you must make sure that:\n    - Redis Container is already running.\n    - MySql Container is already running.\n    - Database migration has been performed.\n  - To `Start Frontend Application`, you must make sure that the Frontend Application has been built properly.\n- 📐 Some tasks __share similar behavior__. For example, to start Redis/MySQL Container, you need to run the same command with a different set of parameters.\n- ⚙️ Several tasks might __share a similar configuration__. For example:\n  - `BACKEND_PORT` in your Frontend should reflect `HTTP_PORT` in your Backend.\n  - `DB_PASSWORD` in your backend has to reflect `MYSQL_ROOT_PASSWORD` in your MySQL container.\n\nThere are a lot of things you need to consider, just to run your system on your local computer.\n\nZaruba takes the burden from you by providing a nice task definition for your project. Thus, you will only need to run a short nice command to run everything at once:\n\n```bash\nzaruba please start\n```\n\n## 💡 Solution\n\nInstead of opening many [Tmux](https://en.wikipedia.org/wiki/Tmux) panels, Zaruba allows you to define and run __a single task to run everything at once__.\n\n![meme](docs/images/solution-meme.png)\n\nIn Zaruba, you can think of [tasks](docs/core-c\n... (truncated)"
+    }
+  },
+  {
+    "name": "goFrendiAsgard/docker-workshop",
+    "stars": 56,
+    "description": "无",
+    "languages_breakdown": {
+      "JavaScript": 1880,
+      "Dockerfile": 383
+    },
+    "files": {
+      "README.md": "# Docker (dan Kubernetes) untuk Pemula\n\nSalah satu yang menarik dari docker adalah dukungan komunitas yang sangat kuat. Docker bahkan menjadi standar dalam deployment `kubernetes` (kita akan membahas kubernetes di bagian selanjutnya).\n\nDalam repo ini, saya akan menunjukkan contoh pemanfaatan docker secara nyata. Pada repo ini kita akan membangun aplikasi \"notepad\" online [seperti ini](https://onlinenotepad.org/notepad) menggunakan `redis` dan `node-js`.\n\nPerlu diingat, bahwa `redis` umumnya dipakai untuk caching, sehingga tidak cocok untuk dijadikan penyimpanan permanen. Jika teman-teman berminat mengembangkan aplikasi ini lebih lanjut, silahkan menggunakan `mysql`, `mongo` atau database engine lain. \n\n# Yang kita butuhkan\n\n* docker\n* docker-compose\n* node-js & npm\n* kubectl\n* akun docker-hub\n* akun okteto\n* ketekunan dan kemauan untuk belajar :)\n\n> Catatan: \n> * Saya menggunakan ubuntu-WSL dalam windows\n> * Untuk menginstall docker di windows, kalian harus menggunakan windows 10 pro dengan hyper-v yang telah diaktifkan\n> * Ikuti panduan [ini](https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly) untuk mengakses docker-for-windows dari dalam WSL\n> * Atau gunakan linux :)\n\n# Apa itu Docker? Apa Bedanya dengan Virtual Machine?\n\nDocker adalah platform virtualisasi di level OS. Docker biasa dipakai untuk membuat `container`.\n\nContainer sendiri adalah paket software yang terisolasi (saling lepas satu sama lain). Adapun isolasi yang dilakukan hanya di level aplikasi saja. Dengan demikian satu `container` dan `container` lain masih bisa berbagi `kernel` yang sama. Sifat kernel-sharing inilah yang membedakan docker-container dengan virtual machine. \n\n## Docker\n\nDocker melakukan virtualisasi di level aplikasi, sehingga semua `container` di satu mesin memakai kernel OS yang sama.\n\nJika kalian memakai linux, maka docker-container kalian akan memakai kernel yang sama dengan OS utama. Sebaliknya, jika teman-teman menggunakan windows/mac, maka akan ada level virtualisasi tambahan untuk emulasi kernel linux.\n\n![](resources/docker.png)\n\n## Virtual Machine\n\nVirtual machine melakukan virtualisasi di level hardware, sehingga antar VM menggunakan kernel, alokasi RAM, dan alokasi CPU yang berbeda. Akibatnya untuk membuat virtual-machine, kita diwajibkan membuat spesifikasi RAM dan CPU untuk setiap VM.\n\n![](resources/vm.png)\n\n# Instalasi docker\n\nIkuti panduan di [situs resmi docker](https://www.docker.com/get-started)\n\n# Docker Image\n\nUntuk membuat sebuah `docker-container`, kita perlu terlebih dahulu mendefinisikan spesifikasi-nya. Spesifikasi inilah yang kita kenal dengan sebutan `docker-image`.\n\nSaat ini sudah ada banyak sekali `docker-image` siap pakai. Kalian bisa mengunjungi [docker hub](https://hub.docker.com/) untuk mencari docker-image yang kalian butuhkan.\n\nKebetulan, docker-image untuk redis pun sudah tersedia dan siap dipakai.\n\nUntuk men-download docker-image, kita bisa menggunakan perintah `docker pull`. Berikut contoh p\n... (truncated)"
+    }
+  }
+]

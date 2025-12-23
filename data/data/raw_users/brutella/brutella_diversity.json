@@ -1,0 +1,31 @@
+{
+  "username": "brutella",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Ruby",
+      "Swift",
+      "JavaScript",
+      "Objective-C",
+      "Shell",
+      "Go"
+    ],
+    "distinct_topics": [
+      "mdns",
+      "camera",
+      "raspberry-pi",
+      "dns-sd",
+      "go",
+      "modbus",
+      "swift",
+      "homekit",
+      "zeroconf",
+      "knx",
+      "hap",
+      "csv"
+    ],
+    "language_count": 6,
+    "topic_count": 12,
+    "total_owned_repos": 32
+  },
+  "diversity_score_100": 45.6
+}

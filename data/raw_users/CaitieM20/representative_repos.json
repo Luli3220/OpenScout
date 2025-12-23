@@ -1,0 +1,251 @@
+[
+  {
+    "name": "Talks",
+    "full_name": "CaitieM20/Talks",
+    "html_url": "https://github.com/CaitieM20/Talks",
+    "description": "repositories of my talks",
+    "stars": 278,
+    "forks": 36,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 700.0,
+    "S_code": 0.0,
+    "S_social": 350,
+    "S_maint": 0
+  },
+  {
+    "name": "TheVerificationOfDistributedSystem",
+    "full_name": "CaitieM20/TheVerificationOfDistributedSystem",
+    "html_url": "https://github.com/CaitieM20/TheVerificationOfDistributedSystem",
+    "description": "Accompanying Repository for The Verification of a Distributed System Talk ",
+    "stars": 190,
+    "forks": 8,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 412.0,
+    "S_code": 0.0,
+    "S_social": 206,
+    "S_maint": 0
+  },
+  {
+    "name": "ScalingStatefulServices",
+    "full_name": "CaitieM20/ScalingStatefulServices",
+    "html_url": "https://github.com/CaitieM20/ScalingStatefulServices",
+    "description": "The accompanying repository for The ScalingStatefulServices talk",
+    "stars": 127,
+    "forks": 14,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 310.0,
+    "S_code": 0.0,
+    "S_social": 155,
+    "S_maint": 0
+  },
+  {
+    "name": "DistributedSagas",
+    "full_name": "CaitieM20/DistributedSagas",
+    "html_url": "https://github.com/CaitieM20/DistributedSagas",
+    "description": null,
+    "stars": 46,
+    "forks": 8,
+    "languages": {
+      "Go": 66200,
+      "Shell": 264
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 156.45,
+    "S_code": 64.91,
+    "S_social": 62,
+    "S_maint": 0
+  },
+  {
+    "name": "Monitorama2016",
+    "full_name": "CaitieM20/Monitorama2016",
+    "html_url": "https://github.com/CaitieM20/Monitorama2016",
+    "description": null,
+    "stars": 45,
+    "forks": 3,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 102.0,
+    "S_code": 0.0,
+    "S_social": 51,
+    "S_maint": 0
+  },
+  {
+    "name": "GoBase",
+    "full_name": "CaitieM20/GoBase",
+    "html_url": "https://github.com/CaitieM20/GoBase",
+    "description": "A example of a basic Go repo setup",
+    "stars": 24,
+    "forks": 6,
+    "languages": {
+      "Go": 7326,
+      "Shell": 273
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 75.71,
+    "S_code": 7.42,
+    "S_social": 36,
+    "S_maint": 0
+  },
+  {
+    "name": "Euler100",
+    "full_name": "CaitieM20/Euler100",
+    "html_url": "https://github.com/CaitieM20/Euler100",
+    "description": "Python Euler100 Project",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 7578
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 25.7,
+    "S_code": 7.4,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "Hoodie-Project",
+    "full_name": "CaitieM20/Hoodie-Project",
+    "html_url": "https://github.com/CaitieM20/Hoodie-Project",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 127398,
+      "Arduino": 17856
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 72.92,
+    "S_code": 141.85,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "DotNetConf",
+    "full_name": "CaitieM20/DotNetConf",
+    "html_url": "https://github.com/CaitieM20/DotNetConf",
+    "description": "Example Code For DotNetConf 2013",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 724745,
+      "PowerShell": 108164,
+      "C#": 12036,
+      "Puppet": 5555
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 417.28,
+    "S_code": 830.57,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "AspireMCPServiceExample",
+    "full_name": "CaitieM20/AspireMCPServiceExample",
+    "html_url": "https://github.com/CaitieM20/AspireMCPServiceExample",
+    "description": "Aspire C# MCP Service Example",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 100103,
+      "PowerShell": 5769,
+      "TypeSpec": 1943
+    },
+    "contributions_by_user": 32,
+    "contribution_score": 372.64,
+    "S_code": 105.29,
+    "S_social": 0,
+    "S_maint": 32
+  },
+  {
+    "name": "Wordle",
+    "full_name": "CaitieM20/Wordle",
+    "html_url": "https://github.com/CaitieM20/Wordle",
+    "description": "A basic wordle game, but all the words are animal",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "SnakeGame",
+    "full_name": "CaitieM20/SnakeGame",
+    "html_url": "https://github.com/CaitieM20/SnakeGame",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5238,
+      "CSS": 631,
+      "HTML": 433
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 63.08,
+    "S_code": 6.15,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "TypeChatPlay",
+    "full_name": "CaitieM20/TypeChatPlay",
+    "html_url": "https://github.com/CaitieM20/TypeChatPlay",
+    "description": "TypeChat is a library that makes it easy to build natural language interfaces using types.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 156498,
+      "Python": 112224,
+      "Jupyter Notebook": 23325,
+      "Nunjucks": 9814,
+      "JavaScript": 2877,
+      "CSS": 2328,
+      "HTML": 277
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 150.07,
+    "S_code": 300.14,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "examples",
+    "full_name": "CaitieM20/examples",
+    "html_url": "https://github.com/CaitieM20/examples",
+    "description": "A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 244484,
+      "C++": 54958,
+      "Shell": 5849,
+      "CMake": 5737
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 151.87,
+    "S_code": 303.74,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tensorflow_macos",
+    "full_name": "CaitieM20/tensorflow_macos",
+    "html_url": "https://github.com/CaitieM20/tensorflow_macos",
+    "description": "TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 13427
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.56,
+    "S_code": 13.11,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

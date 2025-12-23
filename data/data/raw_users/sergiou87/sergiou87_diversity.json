@@ -1,0 +1,18 @@
+{
+  "username": "sergiou87",
+  "raw_metrics": {
+    "distinct_languages": [
+      "C++",
+      "Dockerfile",
+      "C",
+      "TypeScript",
+      "Objective-C",
+      "CSS"
+    ],
+    "distinct_topics": [],
+    "language_count": 6,
+    "topic_count": 0,
+    "total_owned_repos": 14
+  },
+  "diversity_score_100": 36.0
+}

@@ -1,0 +1,89 @@
+[
+  {
+    "name": "hzqst/VmwareHardenedLoader",
+    "stars": 2144,
+    "description": "Vmware Hardened VM detection mitigation loader (anti anti-vm)",
+    "languages_breakdown": {
+      "C": 25037313,
+      "C#": 693469,
+      "Java": 505973,
+      "Python": 441103,
+      "C++": 306865,
+      "OCaml": 295102,
+      "FreeBASIC": 41321,
+      "Makefile": 36898,
+      "VBA": 35965,
+      "Visual Basic 6.0": 33153,
+      "PowerShell": 20593,
+      "CMake": 20154,
+      "Batchfile": 18093,
+      "Shell": 7957,
+      "Cython": 1805,
+      "Smalltalk": 125
+    },
+    "files": {
+      "README.md": "# VMwareHardenedLoader\nVMware Hardened VM detection mitigation loader\n\nFor now, only Windows (vista~win10) x64 guests are supported.\n\nIt get VMware guest undetected by VMProtect 3.2, Safengine and Themida (anti-vm feature).\n\n## What it does\n\nThe VmLoader driver patches SystemFirmwareTable at runtime, it removes all detectable signatures like \"VMware\" \"Virtual\" \"VMWARE\".\n\n## Build\n\nVisual Studio 2015 / 2017 and [Windows Driver Kit 10](https://docs.microsoft.com/zh-cn/windows-hardware/drivers/download-the-wdk) are required.\n\nOpen VmLoader.sln with Visual Studio 2015 / 2017\n\nBuild VmLoader as x64/Release. (No x86 support for now)\n\nRemember to test-sign \"bin/vmloader.sys\" if you want to load it in test-sign mode.\n\n# Installation\n\n## Warning\n\nDo not install vmtools, it will ruin everything!\n\nUse TeamViewer / AnyDesk / mstsc / VNC viewer instead!\n\n## 1st Step: Add following settings into .vmx\n\n```\nhypervisor.cpuid.v0 = \"FALSE\"\nboard-id.reflectHost = \"TRUE\"\nhw.model.reflectHost = \"TRUE\"\nserialNumber.reflectHost = \"TRUE\"\nsmbios.reflectHost = \"TRUE\"\nSMBIOS.noOEMStrings = \"TRUE\"\nisolation.tools.getPtrLocation.disable = \"TRUE\"\nisolation.tools.setPtrLocation.disable = \"TRUE\"\nisolation.tools.setVersion.disable = \"TRUE\"\nisolation.tools.getVersion.disable = \"TRUE\"\nmonitor_control.disable_directexec = \"TRUE\"\nmonitor_control.disable_chksimd = \"TRUE\"\nmonitor_control.disable_ntreloc = \"TRUE\"\nmonitor_control.disable_selfmod = \"TRUE\"\nmonitor_control.disable_reloc = \"TRUE\"\nmonitor_control.disable_btinout = \"TRUE\"\nmonitor_control.disable_btmemspace = \"TRUE\"\nmonitor_control.disable_btpriv = \"TRUE\"\nmonitor_control.disable_btseg = \"TRUE\"\nmonitor_control.restrict_backdoor = \"TRUE\"\n```\n\nIf you have a SCSI virtual disk at scsi0 slot (first slot) as your system drive, remember to add\n\n```\nscsi0:0.productID = \"Whatever you want\"\nscsi0:0.vendorID = \"Whatever you want\"\n```\n\nI use\n```\nscsi0:0.productID = \"Tencent SSD\"\nscsi0:0.vendorID = \"Tencent\"\n```\n\n## 2nd Step: Modify MAC address\n\nModify guest's MAC address to whatever except below:\n```\n\tTCHAR *szMac[][2] = {\n\t\t{ _T(\"\\x00\\x05\\x69\"), _T(\"00:05:69\") }, // VMWare, Inc.\n\t\t{ _T(\"\\x00\\x0C\\x29\"), _T(\"00:0c:29\") }, // VMWare, Inc.\n\t\t{ _T(\"\\x00\\x1C\\x14\"), _T(\"00:1C:14\") }, // VMWare, Inc.\n\t\t{ _T(\"\\x00\\x50\\x56\"), _T(\"00:50:56\") },\t// VMWare, Inc.\n\t};\n```\n\n![mac](https://github.com/hzqst/VmwareHardenedLoader/raw/master/img/4.png)\n\nYou could add\n\n```\nethernet0.address = \"Some random mac address\"\n```\nInto vmx file instead of modifying MAC address in VMware GUI\n\nI use\n\n```\nethernet0.address = \"00:11:56:20:D2:E8\"\n```\n\n## 3rd Step: Run install.bat in vm guest as Administrator Priviledge\n\nIf an error occurs when start service, use DbgView to capture kernel debug output. you can post an issue with DbgView output information and with your ntoskrnl.exe attached.\n\nIf no error occurs, then everything works fine.\n\n## Showcase\n\nVMware guest win8.1 x64 with VMProtect 3.2 packed program (anti-vm option enabled)\n\n![before](https://github.com/hzqst/Vmwar\n... (truncated)"
+    }
+  },
+  {
+    "name": "hzqst/unicorn_pe",
+    "stars": 896,
+    "description": "Unicorn PE is an unicorn based instrumentation project designed to emulate code execution for windows PE files.",
+    "languages_breakdown": {
+      "C": 42478362,
+      "C++": 1295304,
+      "C#": 875561,
+      "Java": 804509,
+      "Python": 771684,
+      "OCaml": 291404,
+      "Visual Basic 6.0": 228459,
+      "Pascal": 153761,
+      "Shell": 150093,
+      "F#": 144375,
+      "Ruby": 124185,
+      "Rust": 108652,
+      "Haskell": 105350,
+      "Go": 103271,
+      "CMake": 88044,
+      "Makefile": 64006,
+      "Objective-C": 41703,
+      "PowerShell": 20593,
+      "Batchfile": 14528,
+      "VBA": 9669,
+      "Assembly": 2813,
+      "Cython": 1805,
+      "Tcl": 1339,
+      "Smalltalk": 170
+    },
+    "files": {
+      "README.md": "# Unicorn PE\nUnicorn PE is an [unicorn](https://github.com/unicorn-engine/unicorn) based instrumentation project/framework designed to emulate code execution for windows PE files, especially packed ones.\n\n## Feature\n\nDump PE image from emu-memory into file, fix import table, decrypt VMProtect strings, decrypt VMProtect imports.\n\nPartial support for exception. (only #DB and #BP)\n\nShow disasm for all instructions that is being executed.\n\nUpdate BlackBone to latest ver (2020.4.5).\n\n## TODO\n\nFeature: x86 (low priority) -- 0%\n\n## Build\nVisual Studio 2017 or 2019\n\nOpen unicorn_pe.sln with Visual Studio\n\nBuild project \"unicorn_pe\" as x64/Release or x64/Debug. (No x86 support for now)\n\n## Usage\n\nunicorn_pe (filename or filepath) [-k for kernel mode driver emulation] [-disasm for displaying disasm] [-dump for binary dump] [-packed for packed binary] [-boundcheck for memory access bound check, may slower the execution]\n\n## Programming\n\n...to be documented\n\n## Snapshots\n\n### original driver\n![1](https://github.com/hzqst/unicorn_pe/raw/master/img/img1.png)\n\n### vmprotect packed driver\n![2](https://github.com/hzqst/unicorn_pe/raw/master/img/img2.png)\n\n### vmprotect is fixing encrypted IAT\n![3](https://github.com/hzqst/unicorn_pe/raw/master/img/img3.png)\n\n### vmprotect goes back to original entry point\n![4](https://github.com/hzqst/unicorn_pe/raw/master/img/img4.png)\n\n### vmprotect packed DLL, full user-mode emulation.\n![4](https://github.com/hzqst/unicorn_pe/raw/master/img/img5.png)\n\n## License\nThis software is released under the MIT License, see LICENSE.\n\n## Dependencies \nA modification of https://github.com/DarthTon/Blackbone is done for PE manual-mapping.\n\nhttps://github.com/unicorn-engine/unicorn for emulation.\n\nhttps://github.com/aquynh/capstone for disasm.\n"
+    }
+  },
+  {
+    "name": "hzqst/Syscall-Monitor",
+    "stars": 747,
+    "description": "Syscall Monitor is a system monitor program (like Sysinternal's Process Monitor) using Intel VT-X/EPT for Windows7+",
+    "languages_breakdown": {
+      "POV-Ray SDL": 8872570,
+      "C++": 7780391,
+      "C": 3481640,
+      "Smalltalk": 487865,
+      "Java": 394503,
+      "C#": 367233,
+      "Python": 335590,
+      "OCaml": 228692,
+      "Objective-C": 57920,
+      "Makefile": 35901,
+      "Assembly": 17527,
+      "CMake": 12261,
+      "Shell": 8201,
+      "QMake": 2067,
+      "Tcl": 1339,
+      "Ruby": 973,
+      "Batchfile": 849
+    },
+    "files": {
+      "README.md": "Syscall Monitor\r\n==============\r\n\r\nIntroduction\r\n-------------\r\nThis is a process monitoring tool (like Sysinternal's Process Monitor) implemented with Intel VT-X/EPT for Windows 7+.\r\n\r\nDevelop Environment\r\n-------------\r\n- Visual Studio 2015 update 3\r\n- Windows SDK 10\r\n- Windows Driver Kit 10\r\n- QT5.7 for MSVC\r\n\r\nDeployment\r\n-------------\r\n- QT GUI project: SyscallMonQT/SyscallMonQT.pro\r\n- Windows kernel driver project: ddimon/DdiMon/DdiMon.vcxproj\r\n- Remember to modify the shadow build path to /build32 or /build64 when configure the QT project\r\n- Remember to modify the windeploy.exe path in deploy32/deploy64.bat, run deploy32/64.bat to deploy x86/x64 binary files to bin32/bin64\r\n- Remember to sign the x64 kernel driver file\r\n\r\nPlatform\r\n--------------------\r\n- x86 and x64 Windows 7, 8.1 and 10\r\n- CPU with Intel VT-x and EPT technology support\r\n\r\nReference & Thanks\r\n--------------------\r\n- BOOST http://www.boost.org/\r\n- QT https://www.qt.io/\r\n- HyperPlatform https://github.com/tandasat/HyperPlatform\r\n- Capstone http://www.capstone-engine.org/\r\n\r\nTODO\r\n--------------------\r\n1.Optimize the memory usage issue.\r\n\r\nScreenshots\r\n--------------------\r\n![load symbol](https://github.com/hzqst/Syscall-Monitor/blob/master/snaps/1.png?raw=true)\r\n![main frame](https://github.com/hzqst/Syscall-Monitor/blob/master/snaps/2.png?raw=true)\r\n![process view](https://github.com/hzqst/Syscall-Monitor/blob/master/snaps/3.png?raw=true)\r\n![event info](https://github.com/hzqst/Syscall-Monitor/blob/master/snaps/4.png?raw=true)\r\n![event filter](https://github.com/hzqst/Syscall-Monitor/blob/master/snaps/5.png?raw=true)\r\n![filtered](https://github.com/hzqst/Syscall-Monitor/blob/master/snaps/6.png?raw=true)\r\n![filterable attributes](https://github.com/hzqst/Syscall-Monitor/blob/master/snaps/7.png?raw=true)\r\n![process info](https://github.com/hzqst/Syscall-Monitor/blob/master/snaps/8.png?raw=true)"
+    }
+  }
+]

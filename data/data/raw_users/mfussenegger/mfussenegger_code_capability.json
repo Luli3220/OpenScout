@@ -1,0 +1,14 @@
+{
+  "username": "mfussenegger",
+  "raw_metrics": {
+    "accepted_external_prs": 0,
+    "created_issues": 2,
+    "merged_external_pr_count_approx": 0,
+    "issue_comment_count": 51,
+    "pr_review_comment_count": 20,
+    "events_fetched": 300,
+    "merged_prs_with_stars": [],
+    "total_closed_external_prs": 3
+  },
+  "code_capability_score_100": 0.0
+}

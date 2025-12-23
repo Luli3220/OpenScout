@@ -1,0 +1,29 @@
+{
+  "username": "mudongliang",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Python",
+      "Shell",
+      "Dockerfile",
+      "C",
+      "SCSS"
+    ],
+    "distinct_topics": [
+      "youdao",
+      "vulnerability",
+      "python",
+      "ccs",
+      "cve",
+      "libdisasm",
+      "reproduction",
+      "linux",
+      "credal",
+      "dockerfile",
+      "edb"
+    ],
+    "language_count": 5,
+    "topic_count": 11,
+    "total_owned_repos": 14
+  },
+  "diversity_score_100": 38.8
+}

@@ -1,0 +1,28 @@
+{
+  "username": "Tai7sy",
+  "raw_metrics": {
+    "distinct_languages": [
+      "C++",
+      "Python",
+      "Java",
+      "Lua",
+      "Batchfile",
+      "Vue",
+      "C",
+      "JavaScript",
+      "Kotlin",
+      "PHP",
+      "Go"
+    ],
+    "distinct_topics": [
+      "battleye",
+      "ios",
+      "android",
+      "v2ray"
+    ],
+    "language_count": 11,
+    "topic_count": 4,
+    "total_owned_repos": 29
+  },
+  "diversity_score_100": 63.2
+}

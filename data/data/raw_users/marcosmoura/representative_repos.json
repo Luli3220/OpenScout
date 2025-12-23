@@ -1,0 +1,450 @@
+[
+  {
+    "name": "vue-boilerplate",
+    "full_name": "marcosmoura/vue-boilerplate",
+    "html_url": "https://github.com/marcosmoura/vue-boilerplate",
+    "description": "An opinionated Vue.js 2 boilerplate with Vue Router, AVA and Istanbul",
+    "stars": 26,
+    "forks": 13,
+    "languages": {
+      "JavaScript": 14851,
+      "Vue": 1031,
+      "HTML": 700
+    },
+    "contributions_by_user": 46,
+    "contribution_score": 572.1,
+    "S_code": 16.19,
+    "S_social": 52,
+    "S_maint": 46
+  },
+  {
+    "name": "generator-scaffold",
+    "full_name": "marcosmoura/generator-scaffold",
+    "html_url": "https://github.com/marcosmoura/generator-scaffold",
+    "description": "Generator to automate the most common tasks in day-to-day of a Front End project.",
+    "stars": 21,
+    "forks": 5,
+    "languages": {
+      "JavaScript": 45171,
+      "CSS": 26219,
+      "HTML": 10808
+    },
+    "contributions_by_user": 166,
+    "contribution_score": 1762.14,
+    "S_code": 80.27,
+    "S_social": 31,
+    "S_maint": 166
+  },
+  {
+    "name": "toneroom-presets",
+    "full_name": "marcosmoura/toneroom-presets",
+    "html_url": "https://github.com/marcosmoura/toneroom-presets",
+    "description": "VOX Tone Room Presets",
+    "stars": 18,
+    "forks": 2,
+    "languages": {},
+    "contributions_by_user": 27,
+    "contribution_score": 314.0,
+    "S_code": 0.0,
+    "S_social": 22,
+    "S_maint": 27
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "marcosmoura/dotfiles",
+    "html_url": "https://github.com/marcosmoura/dotfiles",
+    "description": "My personal macOS dotfiles",
+    "stars": 10,
+    "forks": 1,
+    "languages": {
+      "Lua": 112117,
+      "Rust": 101407,
+      "Shell": 50825
+    },
+    "contributions_by_user": 522,
+    "contribution_score": 5373.08,
+    "S_code": 258.15,
+    "S_social": 12,
+    "S_maint": 522
+  },
+  {
+    "name": "mini-react",
+    "full_name": "marcosmoura/mini-react",
+    "html_url": "https://github.com/marcosmoura/mini-react",
+    "description": "My mini react framework",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 42294,
+      "JavaScript": 12302,
+      "HTML": 300
+    },
+    "contributions_by_user": 44,
+    "contribution_score": 478.8,
+    "S_code": 53.61,
+    "S_social": 6,
+    "S_maint": 44
+  },
+  {
+    "name": "dotfiles-old",
+    "full_name": "marcosmoura/dotfiles-old",
+    "html_url": "https://github.com/marcosmoura/dotfiles-old",
+    "description": "My personal dotfiles - DEPRECATED!",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Python": 57462,
+      "Shell": 14684,
+      "CSS": 52
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 113.25,
+    "S_code": 70.51,
+    "S_social": 4,
+    "S_maint": 7
+  },
+  {
+    "name": "vue-store",
+    "full_name": "marcosmoura/vue-store",
+    "html_url": "https://github.com/marcosmoura/vue-store",
+    "description": "Simple store for Vue.js",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 13379,
+      "Shell": 1729
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.38,
+    "S_code": 14.75,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "angular-material-steppers",
+    "full_name": "marcosmoura/angular-material-steppers",
+    "html_url": "https://github.com/marcosmoura/angular-material-steppers",
+    "description": "A Angular Material directive to create Steppers following the Material Design spec.",
+    "stars": 3,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 16427,
+      "HTML": 12719,
+      "CSS": 6712
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 105.51,
+    "S_code": 35.02,
+    "S_social": 9,
+    "S_maint": 7
+  },
+  {
+    "name": "fluentui",
+    "full_name": "marcosmoura/fluentui",
+    "html_url": "https://github.com/marcosmoura/fluentui",
+    "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 27824862,
+      "JavaScript": 625233,
+      "MDX": 569899,
+      "SCSS": 161239,
+      "HTML": 56878,
+      "CSS": 47263,
+      "Shell": 1720,
+      "Handlebars": 844,
+      "Dockerfile": 429
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14304.96,
+    "S_code": 28601.92,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "ynab-sync-investments",
+    "full_name": "marcosmoura/ynab-sync-investments",
+    "html_url": "https://github.com/marcosmoura/ynab-sync-investments",
+    "description": "Application to sync investments to YNAB",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 169951,
+      "JavaScript": 5168
+    },
+    "contributions_by_user": 84,
+    "contribution_score": 927.51,
+    "S_code": 171.01,
+    "S_social": 1,
+    "S_maint": 84
+  },
+  {
+    "name": "vue",
+    "full_name": "marcosmoura/vue",
+    "html_url": "https://github.com/marcosmoura/vue",
+    "description": "Simple yet powerful library for building modern web interfaces.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1402539,
+      "HTML": 16202,
+      "CSS": 9530,
+      "TypeScript": 6638,
+      "Shell": 2102
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 703.67,
+    "S_code": 1403.33,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "angular-material-data-table",
+    "full_name": "marcosmoura/angular-material-data-table",
+    "html_url": "https://github.com/marcosmoura/angular-material-data-table",
+    "description": "A data table component for Angular Material using Google Design specs",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 31918,
+      "CSS": 27126,
+      "HTML": 17434
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 163.34,
+    "S_code": 74.69,
+    "S_social": 3,
+    "S_maint": 12
+  },
+  {
+    "name": "marcosmoura.com",
+    "full_name": "marcosmoura/marcosmoura.com",
+    "html_url": "https://github.com/marcosmoura/marcosmoura.com",
+    "description": "Personal website of Marcos Moura, a Front End Developer from Brazil, with resume, portfolio and blog.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "ApacheConf": 40690,
+      "CSS": 20396,
+      "JavaScript": 16522,
+      "HTML": 5808
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 42.73,
+    "S_code": 81.46,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "barba-shell",
+    "full_name": "marcosmoura/barba-shell",
+    "html_url": "https://github.com/marcosmoura/barba-shell",
+    "description": "Barba is a desktop shell-like application for macOS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 278810,
+      "TypeScript": 140101,
+      "Shell": 8023,
+      "CSS": 1840,
+      "JavaScript": 1304,
+      "HTML": 745
+    },
+    "contributions_by_user": 101,
+    "contribution_score": 1220.36,
+    "S_code": 420.73,
+    "S_social": 0,
+    "S_maint": 101
+  },
+  {
+    "name": "fluentui-contrib",
+    "full_name": "marcosmoura/fluentui-contrib",
+    "html_url": "https://github.com/marcosmoura/fluentui-contrib",
+    "description": "Monorepo for contributor extension packages to Fluent UI",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1227445,
+      "JavaScript": 25448,
+      "CSS": 11800,
+      "MDX": 2589,
+      "HTML": 2376
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 789.95,
+    "S_code": 1239.9,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "eza",
+    "full_name": "marcosmoura/eza",
+    "html_url": "https://github.com/marcosmoura/eza",
+    "description": "A modern alternative to ls",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 674737,
+      "PowerShell": 20700,
+      "Shell": 16804,
+      "Just": 11488,
+      "Nix": 10107,
+      "Nushell": 4549,
+      "Brainfuck": 176
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 360.63,
+    "S_code": 721.25,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hammerspoon",
+    "full_name": "marcosmoura/hammerspoon",
+    "html_url": "https://github.com/marcosmoura/hammerspoon",
+    "description": "Staggeringly powerful macOS desktop automation with Lua",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Objective-C": 3609501,
+      "Lua": 1745633,
+      "C": 1152706,
+      "HTML": 394858,
+      "Shell": 47803,
+      "Python": 35897,
+      "Roff": 12463,
+      "Rich Text Format": 10939,
+      "Makefile": 10835,
+      "C++": 10833,
+      "CSS": 2743,
+      "Ruby": 1759,
+      "Smarty": 1206
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3436.12,
+    "S_code": 6872.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fast-syntax-highlighting",
+    "full_name": "marcosmoura/fast-syntax-highlighting",
+    "html_url": "https://github.com/marcosmoura/fast-syntax-highlighting",
+    "description": "Feature-rich syntax highlighting for ZSH",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 377183
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 214.17,
+    "S_code": 368.34,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "menu",
+    "full_name": "marcosmoura/menu",
+    "html_url": "https://github.com/marcosmoura/menu",
+    "description": "UIMenu Component for React Native",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Kotlin": 16749,
+      "TypeScript": 10662,
+      "Swift": 10179,
+      "JavaScript": 2890,
+      "Objective-C": 748,
+      "Ruby": 747
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.5,
+    "S_code": 40.99,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fluentui-storybook-addons",
+    "full_name": "marcosmoura/fluentui-storybook-addons",
+    "html_url": "https://github.com/marcosmoura/fluentui-storybook-addons",
+    "description": "Repository for custom addons used in Storybook for Fluent UI React",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 17833,
+      "JavaScript": 5591
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 31.44,
+    "S_code": 22.88,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "homebrew-tap",
+    "full_name": "marcosmoura/homebrew-tap",
+    "html_url": "https://github.com/marcosmoura/homebrew-tap",
+    "description": "My personal Brew tap",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 1150
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 40.56,
+    "S_code": 1.12,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "boxy-oceanic",
+    "full_name": "marcosmoura/boxy-oceanic",
+    "html_url": "https://github.com/marcosmoura/boxy-oceanic",
+    "description": "Boxy Oceanic port for vscode",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "react-boilerplate",
+    "full_name": "marcosmoura/react-boilerplate",
+    "html_url": "https://github.com/marcosmoura/react-boilerplate",
+    "description": "An opinionated React.js boilerplate",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 10784,
+      "HTML": 733,
+      "CSS": 91
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 85.67,
+    "S_code": 11.34,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "md-data-table",
+    "full_name": "marcosmoura/md-data-table",
+    "html_url": "https://github.com/marcosmoura/md-data-table",
+    "description": "Material Design Data Table for Angular Material",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 87686,
+      "CSS": 25311,
+      "HTML": 6044
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 82.13,
+    "S_code": 116.25,
+    "S_social": 2,
+    "S_maint": 2
+  }
+]

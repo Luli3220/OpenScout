@@ -1,0 +1,19 @@
+{
+  "username": "nb",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "Python",
+      "Scheme",
+      "Lua",
+      "JavaScript",
+      "PHP",
+      "Vim Script"
+    ],
+    "distinct_topics": [],
+    "language_count": 7,
+    "topic_count": 0,
+    "total_owned_repos": 26
+  },
+  "diversity_score_100": 42.0
+}

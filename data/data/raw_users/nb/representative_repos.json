@@ -1,0 +1,1119 @@
+[
+  {
+    "name": "wordpress-tests",
+    "full_name": "nb/wordpress-tests",
+    "html_url": "https://github.com/nb/wordpress-tests",
+    "description": "Improved WordPress tests (moved to core)",
+    "stars": 138,
+    "forks": 31,
+    "languages": {
+      "PHP": 18596
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 599.08,
+    "S_code": 18.16,
+    "S_social": 200,
+    "S_maint": 19
+  },
+  {
+    "name": "oxymel",
+    "full_name": "nb/oxymel",
+    "html_url": "https://github.com/nb/oxymel",
+    "description": "Oxymel is a library for building XML with a sweet interface",
+    "stars": 22,
+    "forks": 3,
+    "languages": {
+      "PHP": 10923
+    },
+    "contributions_by_user": 47,
+    "contribution_score": 531.33,
+    "S_code": 10.67,
+    "S_social": 28,
+    "S_maint": 47
+  },
+  {
+    "name": "wordpress-piglatin",
+    "full_name": "nb/wordpress-piglatin",
+    "html_url": "https://github.com/nb/wordpress-piglatin",
+    "description": "A WordPress plugin, which overrides the current language and translates all messages into Pig Latin.",
+    "stars": 14,
+    "forks": 5,
+    "languages": {
+      "PHP": 5151,
+      "Shell": 3920
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 302.43,
+    "S_code": 8.86,
+    "S_social": 24,
+    "S_maint": 25
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "nb/dotfiles",
+    "html_url": "https://github.com/nb/dotfiles",
+    "description": "Config files",
+    "stars": 13,
+    "forks": 1,
+    "languages": {
+      "Vim Script": 58613,
+      "Shell": 9453,
+      "JavaScript": 9118,
+      "CoffeeScript": 2052,
+      "CSS": 490,
+      "Python": 413
+    },
+    "contributions_by_user": 342,
+    "contribution_score": 3489.13,
+    "S_code": 78.26,
+    "S_social": 15,
+    "S_maint": 342
+  },
+  {
+    "name": "bin",
+    "full_name": "nb/bin",
+    "html_url": "https://github.com/nb/bin",
+    "description": "A set of small and not very useful scripts",
+    "stars": 8,
+    "forks": 3,
+    "languages": {
+      "Python": 14043,
+      "Shell": 8473,
+      "PHP": 5479,
+      "Ruby": 2690,
+      "Perl": 65
+    },
+    "contributions_by_user": 100,
+    "contribution_score": 1043.01,
+    "S_code": 30.03,
+    "S_social": 14,
+    "S_maint": 100
+  },
+  {
+    "name": "periodic-name",
+    "full_name": "nb/periodic-name",
+    "html_url": "https://github.com/nb/periodic-name",
+    "description": "Your name in terms of periodic table elements",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "HTML": 5825
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 104.84,
+    "S_code": 5.69,
+    "S_social": 6,
+    "S_maint": 9
+  },
+  {
+    "name": "code-retreat-skeleton-js",
+    "full_name": "nb/code-retreat-skeleton-js",
+    "html_url": "https://github.com/nb/code-retreat-skeleton-js",
+    "description": "Simple unit-testing skeleton for a code retreat",
+    "stars": 5,
+    "forks": 4,
+    "languages": {
+      "JavaScript": 816
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 176.4,
+    "S_code": 0.8,
+    "S_social": 13,
+    "S_maint": 15
+  },
+  {
+    "name": "mess",
+    "full_name": "nb/mess",
+    "html_url": "https://github.com/nb/mess",
+    "description": "Console app for easy sharing of files",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Python": 3003
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 51.47,
+    "S_code": 2.93,
+    "S_social": 5,
+    "S_maint": 4
+  },
+  {
+    "name": "iphone-versions",
+    "full_name": "nb/iphone-versions",
+    "html_url": "https://github.com/nb/iphone-versions",
+    "description": "iPhone versions of sites that made me cry",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Python": 493703,
+      "JavaScript": 1300,
+      "Shell": 122
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 341.76,
+    "S_code": 483.52,
+    "S_social": 5,
+    "S_maint": 9
+  },
+  {
+    "name": "advent",
+    "full_name": "nb/advent",
+    "html_url": "https://github.com/nb/advent",
+    "description": "Advent of Code",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Python": 38318,
+      "Nim": 8079
+    },
+    "contributions_by_user": 49,
+    "contribution_score": 518.65,
+    "S_code": 45.31,
+    "S_social": 3,
+    "S_maint": 49
+  },
+  {
+    "name": "wordpress-admin-search",
+    "full_name": "nb/wordpress-admin-search",
+    "html_url": "https://github.com/nb/wordpress-admin-search",
+    "description": "Quick launcher for WordPress admin pages, just press /",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 15560,
+      "PHP": 3064
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 75.09,
+    "S_code": 18.19,
+    "S_social": 3,
+    "S_maint": 6
+  },
+  {
+    "name": "shareadraft",
+    "full_name": "nb/shareadraft",
+    "html_url": "https://github.com/nb/shareadraft",
+    "description": "Share a Draft WordPress plugin",
+    "stars": 2,
+    "forks": 10,
+    "languages": {
+      "PHP": 14285
+    },
+    "contributions_by_user": 84,
+    "contribution_score": 890.98,
+    "S_code": 13.95,
+    "S_social": 22,
+    "S_maint": 84
+  },
+  {
+    "name": "wp-cli",
+    "full_name": "nb/wp-cli",
+    "html_url": "https://github.com/nb/wp-cli",
+    "description": "A command line interface for WordPress",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "PHP": 384627,
+      "Shell": 9779
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 196.58,
+    "S_code": 385.16,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "vim-trailing-whitespace",
+    "full_name": "nb/vim-trailing-whitespace",
+    "html_url": "https://github.com/nb/vim-trailing-whitespace",
+    "description": "Highlights trailing whitespace in red and provides :FixWhitespace to fix it.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Vim Script": 758
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.37,
+    "S_code": 0.74,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "shmo",
+    "full_name": "nb/shmo",
+    "html_url": "https://github.com/nb/shmo",
+    "description": "SHMO Happiness Massive Obliterator",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "PHP": 3460
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 55.69,
+    "S_code": 3.38,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "sicp",
+    "full_name": "nb/sicp",
+    "html_url": "https://github.com/nb/sicp",
+    "description": "Notes and exercise solutions from the SICP book",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Scheme": 1127
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 14.55,
+    "S_code": 1.1,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "deleteraw.lrplugin",
+    "full_name": "nb/deleteraw.lrplugin",
+    "html_url": "https://github.com/nb/deleteraw.lrplugin",
+    "description": "Lightroom plugin to delete RAW files of selected photos",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Lua": 1467
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 14.72,
+    "S_code": 1.43,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "code-retreat-skeleton-php",
+    "full_name": "nb/code-retreat-skeleton-php",
+    "html_url": "https://github.com/nb/code-retreat-skeleton-php",
+    "description": "Simple unit-testing skeleton for a code retreat",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "PHP": 201
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 42.1,
+    "S_code": 0.2,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "hiring-without-whiteboards",
+    "full_name": "nb/hiring-without-whiteboards",
+    "html_url": "https://github.com/nb/hiring-without-whiteboards",
+    "description": "Companies that don't do typical CS based whiteboard interviews. The whiteboard is metaphorical.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "sonos-touch-on-zone-change",
+    "full_name": "nb/sonos-touch-on-zone-change",
+    "html_url": "https://github.com/nb/sonos-touch-on-zone-change",
+    "description": "Touch a file when the Sonos zones (topology, groups) change",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 566
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.28,
+    "S_code": 0.55,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "why-flux",
+    "full_name": "nb/why-flux",
+    "html_url": "https://github.com/nb/why-flux",
+    "description": "Refactor a small app to Flux to see why we need all the parts of Flux",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3760,
+      "HTML": 178
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 233.92,
+    "S_code": 3.85,
+    "S_social": 1,
+    "S_maint": 23
+  },
+  {
+    "name": "GlotPress",
+    "full_name": "nb/GlotPress",
+    "html_url": "https://github.com/nb/GlotPress",
+    "description": "Sync repo of http://svn.glotpress.org. You could also use glotpress.git.wordpress.org",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "PHP": 544846,
+      "JavaScript": 20585,
+      "CSS": 14941
+    },
+    "contributions_by_user": 647,
+    "contribution_score": 6755.38,
+    "S_code": 566.77,
+    "S_social": 1,
+    "S_maint": 647
+  },
+  {
+    "name": "wordpress-bgstyle",
+    "full_name": "nb/wordpress-bgstyle",
+    "html_url": "https://github.com/nb/wordpress-bgstyle",
+    "description": "Better format Bulgarian posts on WordPress",
+    "stars": 1,
+    "forks": 2,
+    "languages": {},
+    "contributions_by_user": 23,
+    "contribution_score": 240.0,
+    "S_code": 0.0,
+    "S_social": 5,
+    "S_maint": 23
+  },
+  {
+    "name": "camptix",
+    "full_name": "nb/camptix",
+    "html_url": "https://github.com/nb/camptix",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "PHP": 325924,
+      "JavaScript": 12153,
+      "CSS": 9028
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 231.48,
+    "S_code": 338.97,
+    "S_social": 1,
+    "S_maint": 6
+  },
+  {
+    "name": "markdown-on-save",
+    "full_name": "nb/markdown-on-save",
+    "html_url": "https://github.com/nb/markdown-on-save",
+    "description": "#WordPressPlugin: allows you to author posts in Markdown, but stores rendered HTML in post_content so you can deactivate with impunity.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "PHP": 99020,
+      "CoffeeScript": 1397,
+      "Ruby": 152
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 51.11,
+    "S_code": 98.21,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "batcache",
+    "full_name": "nb/batcache",
+    "html_url": "https://github.com/nb/batcache",
+    "description": "A memcached HTML page cache for WordPress.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "PHP": 12782
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.24,
+    "S_code": 12.48,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "wcsf-2012-the-elements-of-style",
+    "full_name": "nb/wcsf-2012-the-elements-of-style",
+    "html_url": "https://github.com/nb/wcsf-2012-the-elements-of-style",
+    "description": "Presentation from WordCamp San Francisco 2012: Selected Pieces of \"The Elements of Style\" Translated to Code",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 31825
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 57.54,
+    "S_code": 31.08,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "backbone",
+    "full_name": "nb/backbone",
+    "html_url": "https://github.com/nb/backbone",
+    "description": "Give your JS App some Backbone with Models, Views, Collections, and Events",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 130471,
+      "Ruby": 1192,
+      "CoffeeScript": 872
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 66.71,
+    "S_code": 129.43,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "dotfiles-1",
+    "full_name": "nb/dotfiles-1",
+    "html_url": "https://github.com/nb/dotfiles-1",
+    "description": "My dot files",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Vim Script": 279329,
+      "Ruby": 47989,
+      "C": 16572,
+      "C++": 4023,
+      "Objective-C": 3295,
+      "Shell": 1617
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 174.28,
+    "S_code": 344.56,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ice",
+    "full_name": "nb/ice",
+    "html_url": "https://github.com/nb/ice",
+    "description": "track changes with javascript",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 366979,
+      "PHP": 5671,
+      "Ruby": 2068
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 184.97,
+    "S_code": 365.94,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "noshlyok",
+    "full_name": "nb/noshlyok",
+    "html_url": "https://github.com/nb/noshlyok",
+    "description": "WordPress разширение, което не позволява изпращането на коментари без поне един кирилишки символ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "PHP": 5593
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 24.73,
+    "S_code": 5.46,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "phpunit-tmbundle",
+    "full_name": "nb/phpunit-tmbundle",
+    "html_url": "https://github.com/nb/phpunit-tmbundle",
+    "description": "TextMate bundle for working with PHPUnit",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Ruby": 9412,
+      "PHP": 1121
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 41.14,
+    "S_code": 10.29,
+    "S_social": 3,
+    "S_maint": 3
+  },
+  {
+    "name": "chromesniffer",
+    "full_name": "nb/chromesniffer",
+    "html_url": "https://github.com/nb/chromesniffer",
+    "description": "Chrome Sniffer Extension",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 22982
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 23.22,
+    "S_code": 22.44,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "Guiders-JS",
+    "full_name": "nb/Guiders-JS",
+    "html_url": "https://github.com/nb/Guiders-JS",
+    "description": "**Optimizely is hiring software engineers in SF** Guiders-JS: A Javascript library for guiders. Requires jQuery.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 10183
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 20.97,
+    "S_code": 9.94,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "woocommerce",
+    "full_name": "nb/woocommerce",
+    "html_url": "https://github.com/nb/woocommerce",
+    "description": "An open source eCommerce plugin for WordPress.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PHP": 26673850,
+      "TypeScript": 10254921,
+      "JavaScript": 5721500,
+      "SCSS": 1415508,
+      "HTML": 460098,
+      "Shell": 68655,
+      "Mustache": 38188,
+      "CSS": 30790,
+      "Handlebars": 20853,
+      "EJS": 14950,
+      "Gherkin": 9169,
+      "MDX": 8916,
+      "Roff": 584,
+      "Dockerfile": 500,
+      "Batchfile": 155
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 21835.27,
+    "S_code": 43670.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "crawler",
+    "full_name": "nb/crawler",
+    "html_url": "https://github.com/nb/crawler",
+    "description": "Easily show documentation to Cursor's coding AI",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 1904
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.93,
+    "S_code": 1.86,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sauce4strava",
+    "full_name": "nb/sauce4strava",
+    "html_url": "https://github.com/nb/sauce4strava",
+    "description": "Sauce for Strava™",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1233596,
+      "SCSS": 278509,
+      "HTML": 164349,
+      "Swift": 4486,
+      "Shell": 3027,
+      "Makefile": 2273,
+      "CSS": 954,
+      "Python": 637
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 824.14,
+    "S_code": 1648.27,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fossfox",
+    "full_name": "nb/fossfox",
+    "html_url": "https://github.com/nb/fossfox",
+    "description": "Opportunities for software engineers wanting to work with open-source. Posting a job is free 👩‍💻",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 24585
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.0,
+    "S_code": 24.01,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "kk-tips",
+    "full_name": "nb/kk-tips",
+    "html_url": "https://github.com/nb/kk-tips",
+    "description": "Three random tips from Kevin Kelly, kk.org",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 45682,
+      "Python": 511,
+      "Shell": 55
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 72.58,
+    "S_code": 45.16,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "BashGato",
+    "full_name": "nb/BashGato",
+    "html_url": "https://github.com/nb/BashGato",
+    "description": "Control Elgato lights with a Bash script",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 4042
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.97,
+    "S_code": 3.95,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "phoenix",
+    "full_name": "nb/phoenix",
+    "html_url": "https://github.com/nb/phoenix",
+    "description": "A lightweight macOS window and app manager scriptable with JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Objective-C": 147180,
+      "JavaScript": 5550,
+      "Shell": 5414,
+      "Rich Text Format": 890,
+      "C": 858,
+      "Ruby": 143
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 78.14,
+    "S_code": 156.28,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "slides",
+    "full_name": "nb/slides",
+    "html_url": "https://github.com/nb/slides",
+    "description": "Slides: Presentations with WordPress",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 50859,
+      "PHP": 19591,
+      "CSS": 10487,
+      "HTML": 160
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 39.6,
+    "S_code": 79.2,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tri",
+    "full_name": "nb/tri",
+    "html_url": "https://github.com/nb/tri",
+    "description": "drawing triangles like the world's ending",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 13530,
+      "HTML": 149
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 176.68,
+    "S_code": 13.36,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "gutenberg",
+    "full_name": "nb/gutenberg",
+    "html_url": "https://github.com/nb/gutenberg",
+    "description": "Prototyping since 1440. Development hub for the editor focus in core.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 203320,
+      "CSS": 18561,
+      "PHP": 7182
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 111.85,
+    "S_code": 223.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "women-in-software-eng",
+    "full_name": "nb/women-in-software-eng",
+    "html_url": "https://github.com/nb/women-in-software-eng",
+    "description": "Crowdsourced repository of women in software engineering stats.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 6300
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.08,
+    "S_code": 6.15,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "architecture_decision_record",
+    "full_name": "nb/architecture_decision_record",
+    "html_url": "https://github.com/nb/architecture_decision_record",
+    "description": "Architecture decision record (ADR) templates, lifecycle steps, and sources",
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 4.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "objective-c-style-guide",
+    "full_name": "nb/objective-c-style-guide",
+    "html_url": "https://github.com/nb/objective-c-style-guide",
+    "description": "Objective-C Style Guide",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "yowo",
+    "full_name": "nb/yowo",
+    "html_url": "https://github.com/nb/yowo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 9362
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 14.57,
+    "S_code": 9.14,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "bgwords",
+    "full_name": "nb/bgwords",
+    "html_url": "https://github.com/nb/bgwords",
+    "description": "Experiments with Words in Bulgarian",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4612,
+      "Shell": 67
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 32.28,
+    "S_code": 4.57,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "opencfp",
+    "full_name": "nb/opencfp",
+    "html_url": "https://github.com/nb/opencfp",
+    "description": "Repo for OpenCFP project, a PHP-based conference talk submission system",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PHP": 569258,
+      "HTML": 69308,
+      "CSS": 6385,
+      "JavaScript": 4848,
+      "Shell": 2174,
+      "Makefile": 381
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 318.53,
+    "S_code": 637.06,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "up-for-grabs.net",
+    "full_name": "nb/up-for-grabs.net",
+    "html_url": "https://github.com/nb/up-for-grabs.net",
+    "description": "Jump in!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 104693,
+      "CSS": 22772,
+      "HTML": 10192,
+      "Ruby": 6728,
+      "Batchfile": 50
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 70.52,
+    "S_code": 141.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Vundle.vim",
+    "full_name": "nb/Vundle.vim",
+    "html_url": "https://github.com/nb/Vundle.vim",
+    "description": "Vundle, the plug-in manager for Vim",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vim Script": 44146,
+      "Erlang": 423
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 21.76,
+    "S_code": 43.52,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "babel",
+    "full_name": "nb/babel",
+    "html_url": "https://github.com/nb/babel",
+    "description": "Babel is a compiler for writing next generation JavaScript.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2183049,
+      "Makefile": 3125,
+      "HTML": 529
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1067.73,
+    "S_code": 2135.45,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "angular.js",
+    "full_name": "nb/angular.js",
+    "html_url": "https://github.com/nb/angular.js",
+    "description": "HTML enhanced for web apps",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5173132,
+      "CSS": 21137,
+      "Shell": 19296
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2545.69,
+    "S_code": 5091.37,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cfp-2015",
+    "full_name": "nb/cfp-2015",
+    "html_url": "https://github.com/nb/cfp-2015",
+    "description": "This is the repository you need to fork to submit your talk to the ReactEurope conference this July http://react-europe.org",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "backbone-book",
+    "full_name": "nb/backbone-book",
+    "html_url": "https://github.com/nb/backbone-book",
+    "description": "A booklet on Backbone.js and JS apps patterns and best practices",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 14135,
+      "Ruby": 875
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.33,
+    "S_code": 14.66,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "funnel.js",
+    "full_name": "nb/funnel.js",
+    "html_url": "https://github.com/nb/funnel.js",
+    "description": "Funnel Visualization written in D3 and Backbone using HTML.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9169
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.48,
+    "S_code": 8.95,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "WordPress",
+    "full_name": "nb/WordPress",
+    "html_url": "https://github.com/nb/WordPress",
+    "description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to http://core.trac.wordpress.org/ instead.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PHP": 7663540,
+      "JavaScript": 1211223,
+      "CSS": 932965
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 4818.93,
+    "S_code": 9577.86,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "impromptu-git",
+    "full_name": "nb/impromptu-git",
+    "html_url": "https://github.com/nb/impromptu-git",
+    "description": "A git module for Impromptu.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CoffeeScript": 6254
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.05,
+    "S_code": 6.11,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "impromptu-system",
+    "full_name": "nb/impromptu-system",
+    "html_url": "https://github.com/nb/impromptu-system",
+    "description": "System commands for Impromptu.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CoffeeScript": 726
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.35,
+    "S_code": 0.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "my-impromptu",
+    "full_name": "nb/my-impromptu",
+    "html_url": "https://github.com/nb/my-impromptu",
+    "description": "Impromptu's starter prompt.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CoffeeScript": 1412
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.69,
+    "S_code": 1.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "impromptu",
+    "full_name": "nb/impromptu",
+    "html_url": "https://github.com/nb/impromptu",
+    "description": "A better prompt.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CoffeeScript": 39419,
+      "Shell": 2224,
+      "JavaScript": 2009
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 21.31,
+    "S_code": 42.63,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jinx",
+    "full_name": "nb/jinx",
+    "html_url": "https://github.com/nb/jinx",
+    "description": "jinx",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3607
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.76,
+    "S_code": 3.52,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "clojuredocs",
+    "full_name": "nb/clojuredocs",
+    "html_url": "https://github.com/nb/clojuredocs",
+    "description": "clojuredocs.org web app",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 354093,
+      "Ruby": 192603
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 266.94,
+    "S_code": 533.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "visual-editor-font-size",
+    "full_name": "nb/visual-editor-font-size",
+    "html_url": "https://github.com/nb/visual-editor-font-size",
+    "description": "WordPress plugin, which allows you to change the font size of the visual editor",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "PHP": 3273
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 75.6,
+    "S_code": 3.2,
+    "S_social": 2,
+    "S_maint": 7
+  }
+]

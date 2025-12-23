@@ -1,0 +1,1686 @@
+[
+  {
+    "name": "aglio",
+    "full_name": "danielgtaylor/aglio",
+    "html_url": "https://github.com/danielgtaylor/aglio",
+    "description": "An API Blueprint renderer with theme support that outputs static HTML",
+    "stars": 4755,
+    "forks": 479,
+    "languages": {
+      "CoffeeScript": 25447,
+      "API Blueprint": 6448,
+      "HTML": 158,
+      "JavaScript": 130,
+      "Dockerfile": 107
+    },
+    "contributions_by_user": 225,
+    "contribution_score": 13691.77,
+    "S_code": 31.53,
+    "S_social": 5713,
+    "S_maint": 225
+  },
+  {
+    "name": "huma",
+    "full_name": "danielgtaylor/huma",
+    "html_url": "https://github.com/danielgtaylor/huma",
+    "description": "Huma REST/HTTP API Framework for Golang with OpenAPI 3.1",
+    "stars": 3674,
+    "forks": 235,
+    "languages": {
+      "Go": 715366,
+      "Lua": 71
+    },
+    "contributions_by_user": 938,
+    "contribution_score": 18017.33,
+    "S_code": 698.67,
+    "S_social": 4144,
+    "S_maint": 938
+  },
+  {
+    "name": "python-betterproto",
+    "full_name": "danielgtaylor/python-betterproto",
+    "html_url": "https://github.com/danielgtaylor/python-betterproto",
+    "description": "Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async gRPC",
+    "stars": 1749,
+    "forks": 231,
+    "languages": {
+      "Python": 296564,
+      "Jinja": 9524,
+      "Java": 5315,
+      "Batchfile": 48
+    },
+    "contributions_by_user": 60,
+    "contribution_score": 5174.08,
+    "S_code": 304.15,
+    "S_social": 2211,
+    "S_maint": 60
+  },
+  {
+    "name": "jpeg-archive",
+    "full_name": "danielgtaylor/jpeg-archive",
+    "html_url": "https://github.com/danielgtaylor/jpeg-archive",
+    "description": "Utilities for archiving JPEGs for long term storage.",
+    "stars": 1180,
+    "forks": 129,
+    "languages": {
+      "C": 224267,
+      "MATLAB": 25757,
+      "Shell": 4179,
+      "Makefile": 3067,
+      "HTML": 478
+    },
+    "contributions_by_user": 93,
+    "contribution_score": 3931.85,
+    "S_code": 251.71,
+    "S_social": 1438,
+    "S_maint": 93
+  },
+  {
+    "name": "apisprout",
+    "full_name": "danielgtaylor/apisprout",
+    "html_url": "https://github.com/danielgtaylor/apisprout",
+    "description": "Lightweight, blazing fast, cross-platform OpenAPI 3 mock server with validation",
+    "stars": 714,
+    "forks": 72,
+    "languages": {
+      "Go": 44489,
+      "Shell": 382,
+      "Dockerfile": 337
+    },
+    "contributions_by_user": 62,
+    "contribution_score": 2358.07,
+    "S_code": 44.15,
+    "S_social": 858,
+    "S_maint": 62
+  },
+  {
+    "name": "qtfaststart",
+    "full_name": "danielgtaylor/qtfaststart",
+    "html_url": "https://github.com/danielgtaylor/qtfaststart",
+    "description": "Quicktime atom positioning in Python for fast streaming",
+    "stars": 475,
+    "forks": 58,
+    "languages": {
+      "Python": 14945,
+      "API Blueprint": 2075
+    },
+    "contributions_by_user": 31,
+    "contribution_score": 1500.31,
+    "S_code": 16.62,
+    "S_social": 591,
+    "S_maint": 31
+  },
+  {
+    "name": "nesh",
+    "full_name": "danielgtaylor/nesh",
+    "html_url": "https://github.com/danielgtaylor/nesh",
+    "description": "An enhanced, extensible interactive shell for Node.js and CoffeeScript",
+    "stars": 285,
+    "forks": 27,
+    "languages": {
+      "CoffeeScript": 41417,
+      "JavaScript": 48
+    },
+    "contributions_by_user": 71,
+    "contribution_score": 1408.25,
+    "S_code": 40.49,
+    "S_social": 339,
+    "S_maint": 71
+  },
+  {
+    "name": "openapi-cli-generator",
+    "full_name": "danielgtaylor/openapi-cli-generator",
+    "html_url": "https://github.com/danielgtaylor/openapi-cli-generator",
+    "description": "Generate a CLI from an OpenAPI 3 specification",
+    "stars": 196,
+    "forks": 49,
+    "languages": {
+      "Go": 103511,
+      "Shell": 361
+    },
+    "contributions_by_user": 88,
+    "contribution_score": 1518.72,
+    "S_code": 101.44,
+    "S_social": 294,
+    "S_maint": 88
+  },
+  {
+    "name": "arista",
+    "full_name": "danielgtaylor/arista",
+    "html_url": "https://github.com/danielgtaylor/arista",
+    "description": "Arista Transcoder",
+    "stars": 119,
+    "forks": 17,
+    "languages": {
+      "Python": 235180,
+      "Shell": 371
+    },
+    "contributions_by_user": 263,
+    "contribution_score": 3051.02,
+    "S_code": 230.03,
+    "S_social": 153,
+    "S_maint": 263
+  },
+  {
+    "name": "ladon",
+    "full_name": "danielgtaylor/ladon",
+    "html_url": "https://github.com/danielgtaylor/ladon",
+    "description": "A small, simple cross-platform utility to process many files in parallel.",
+    "stars": 84,
+    "forks": 6,
+    "languages": {
+      "JavaScript": 7627
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 445.72,
+    "S_code": 7.45,
+    "S_social": 96,
+    "S_maint": 25
+  },
+  {
+    "name": "braintree_django",
+    "full_name": "danielgtaylor/braintree_django",
+    "html_url": "https://github.com/danielgtaylor/braintree_django",
+    "description": "Braintree Django Module",
+    "stars": 52,
+    "forks": 16,
+    "languages": {
+      "Python": 27632
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 311.49,
+    "S_code": 26.98,
+    "S_social": 84,
+    "S_maint": 13
+  },
+  {
+    "name": "atom-api-blueprint-preview",
+    "full_name": "danielgtaylor/atom-api-blueprint-preview",
+    "html_url": "https://github.com/danielgtaylor/atom-api-blueprint-preview",
+    "description": "Live preview API Blueprint in Atom",
+    "stars": 43,
+    "forks": 18,
+    "languages": {
+      "CoffeeScript": 29546,
+      "HTML": 7355,
+      "CSS": 995
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 466.5,
+    "S_code": 37.01,
+    "S_social": 79,
+    "S_maint": 29
+  },
+  {
+    "name": "shorthand",
+    "full_name": "danielgtaylor/shorthand",
+    "html_url": "https://github.com/danielgtaylor/shorthand",
+    "description": "Structured data & CLI shorthand syntax for Go",
+    "stars": 37,
+    "forks": 3,
+    "languages": {
+      "Go": 74715
+    },
+    "contributions_by_user": 122,
+    "contribution_score": 1342.48,
+    "S_code": 72.96,
+    "S_social": 43,
+    "S_maint": 122
+  },
+  {
+    "name": "mexpr",
+    "full_name": "danielgtaylor/mexpr",
+    "html_url": "https://github.com/danielgtaylor/mexpr",
+    "description": "Micro expression parser library for Go",
+    "stars": 33,
+    "forks": 4,
+    "languages": {
+      "Go": 60148
+    },
+    "contributions_by_user": 37,
+    "contribution_score": 481.37,
+    "S_code": 58.74,
+    "S_social": 41,
+    "S_maint": 37
+  },
+  {
+    "name": "apilint",
+    "full_name": "danielgtaylor/apilint",
+    "html_url": "https://github.com/danielgtaylor/apilint",
+    "description": "Extensible REST API linter utility",
+    "stars": 30,
+    "forks": 7,
+    "languages": {
+      "JavaScript": 50732
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 232.77,
+    "S_code": 49.54,
+    "S_social": 44,
+    "S_maint": 12
+  },
+  {
+    "name": "html5-space-fighter",
+    "full_name": "danielgtaylor/html5-space-fighter",
+    "html_url": "https://github.com/danielgtaylor/html5-space-fighter",
+    "description": "HTML5 Space Fighter Game",
+    "stars": 30,
+    "forks": 21,
+    "languages": {
+      "JavaScript": 33390
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 300.3,
+    "S_code": 32.61,
+    "S_social": 72,
+    "S_maint": 14
+  },
+  {
+    "name": "qtrotate",
+    "full_name": "danielgtaylor/qtrotate",
+    "html_url": "https://github.com/danielgtaylor/qtrotate",
+    "description": "Tools for handling rotated Quicktime/MP4 files",
+    "stars": 26,
+    "forks": 11,
+    "languages": {
+      "Python": 6517
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 109.18,
+    "S_code": 6.36,
+    "S_social": 48,
+    "S_maint": 1
+  },
+  {
+    "name": "malt.io",
+    "full_name": "danielgtaylor/malt.io",
+    "html_url": "https://github.com/danielgtaylor/malt.io",
+    "description": "Malt.io free community for brewers",
+    "stars": 26,
+    "forks": 11,
+    "languages": {
+      "Python": 1114609,
+      "CoffeeScript": 111693,
+      "JavaScript": 43965,
+      "CSS": 29972,
+      "Shell": 1471
+    },
+    "contributions_by_user": 272,
+    "contribution_score": 3451.6,
+    "S_code": 1271.2,
+    "S_social": 48,
+    "S_maint": 272
+  },
+  {
+    "name": "qtfaststart.js",
+    "full_name": "danielgtaylor/qtfaststart.js",
+    "html_url": "https://github.com/danielgtaylor/qtfaststart.js",
+    "description": "Javascript version of qt-faststart",
+    "stars": 21,
+    "forks": 4,
+    "languages": {
+      "JavaScript": 13242,
+      "Python": 595
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 154.76,
+    "S_code": 13.51,
+    "S_social": 29,
+    "S_maint": 9
+  },
+  {
+    "name": "guid-tool-web",
+    "full_name": "danielgtaylor/guid-tool-web",
+    "html_url": "https://github.com/danielgtaylor/guid-tool-web",
+    "description": "GUID conversion tool website",
+    "stars": 18,
+    "forks": 13,
+    "languages": {
+      "Python": 2160,
+      "CoffeeScript": 1862
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 169.96,
+    "S_code": 3.93,
+    "S_social": 44,
+    "S_maint": 8
+  },
+  {
+    "name": "tech-talk",
+    "full_name": "danielgtaylor/tech-talk",
+    "html_url": "https://github.com/danielgtaylor/tech-talk",
+    "description": "Markdown slideshows with a built-in terminal that just works",
+    "stars": 15,
+    "forks": 4,
+    "languages": {
+      "JavaScript": 501150,
+      "Go": 10261,
+      "CSS": 2372,
+      "HTML": 651,
+      "Shell": 416
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 417.39,
+    "S_code": 502.78,
+    "S_social": 23,
+    "S_maint": 12
+  },
+  {
+    "name": "atom-language-api-blueprint",
+    "full_name": "danielgtaylor/atom-language-api-blueprint",
+    "html_url": "https://github.com/danielgtaylor/atom-language-api-blueprint",
+    "description": "API Blueprint and MSON grammars for the Atom.io text editor.",
+    "stars": 14,
+    "forks": 2,
+    "languages": {
+      "CoffeeScript": 65723,
+      "JavaScript": 1147
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 138.65,
+    "S_code": 65.3,
+    "S_social": 18,
+    "S_maint": 7
+  },
+  {
+    "name": "django-ccss",
+    "full_name": "danielgtaylor/django-ccss",
+    "html_url": "https://github.com/danielgtaylor/django-ccss",
+    "description": "Django CleverCSS",
+    "stars": 14,
+    "forks": 2,
+    "languages": {
+      "Python": 62032
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 146.29,
+    "S_code": 60.58,
+    "S_social": 18,
+    "S_maint": 8
+  },
+  {
+    "name": "casing",
+    "full_name": "danielgtaylor/casing",
+    "html_url": "https://github.com/danielgtaylor/casing",
+    "description": "An intelligent casing conversion library for Go",
+    "stars": 13,
+    "forks": 0,
+    "languages": {
+      "Go": 11076
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 51.41,
+    "S_code": 10.82,
+    "S_social": 13,
+    "S_maint": 2
+  },
+  {
+    "name": "node-desktop-uploader",
+    "full_name": "danielgtaylor/node-desktop-uploader",
+    "html_url": "https://github.com/danielgtaylor/node-desktop-uploader",
+    "description": "Recursively watch directories and upload new/updated files",
+    "stars": 11,
+    "forks": 1,
+    "languages": {
+      "CoffeeScript": 22102
+    },
+    "contributions_by_user": 42,
+    "contribution_score": 456.79,
+    "S_code": 21.58,
+    "S_social": 13,
+    "S_maint": 42
+  },
+  {
+    "name": "atom-monokai-extended",
+    "full_name": "danielgtaylor/atom-monokai-extended",
+    "html_url": "https://github.com/danielgtaylor/atom-monokai-extended",
+    "description": "Extended Monokai theme for the Atom text editor",
+    "stars": 9,
+    "forks": 4,
+    "languages": {
+      "CSS": 3056
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 165.49,
+    "S_code": 2.98,
+    "S_social": 17,
+    "S_maint": 13
+  },
+  {
+    "name": "apibin",
+    "full_name": "danielgtaylor/apibin",
+    "html_url": "https://github.com/danielgtaylor/apibin",
+    "description": "Example API with modern features",
+    "stars": 7,
+    "forks": 1,
+    "languages": {
+      "Go": 29884,
+      "Dockerfile": 267
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 252.72,
+    "S_code": 29.44,
+    "S_social": 9,
+    "S_maint": 22
+  },
+  {
+    "name": "guid-tool",
+    "full_name": "danielgtaylor/guid-tool",
+    "html_url": "https://github.com/danielgtaylor/guid-tool",
+    "description": "A tool to convert between various forms of GUID",
+    "stars": 7,
+    "forks": 4,
+    "languages": {
+      "Python": 730
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 70.36,
+    "S_code": 0.71,
+    "S_social": 15,
+    "S_maint": 4
+  },
+  {
+    "name": "unistyle",
+    "full_name": "danielgtaylor/unistyle",
+    "html_url": "https://github.com/danielgtaylor/unistyle",
+    "description": "ℱ𝒶𝓃𝒸𝓎 𝘁𝗲𝘅𝘁 𝘴𝘵𝘺𝘭𝘦𝘴 𝔣𝔬𝔯 G̳o̳l̳a̳n̳g̳ in a compact, zero dependency library.",
+    "stars": 7,
+    "forks": 1,
+    "languages": {
+      "Go": 10314
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 53.04,
+    "S_code": 10.07,
+    "S_social": 9,
+    "S_maint": 3
+  },
+  {
+    "name": "ffmpeg",
+    "full_name": "danielgtaylor/ffmpeg",
+    "html_url": "https://github.com/danielgtaylor/ffmpeg",
+    "description": "FFmpeg + patches",
+    "stars": 7,
+    "forks": 3,
+    "languages": {
+      "C": 17255308,
+      "Assembly": 276496,
+      "Shell": 33706,
+      "Perl": 11971,
+      "Verilog": 462
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 8728.98,
+    "S_code": 17165.96,
+    "S_social": 13,
+    "S_maint": 12
+  },
+  {
+    "name": "sdt",
+    "full_name": "danielgtaylor/sdt",
+    "html_url": "https://github.com/danielgtaylor/sdt",
+    "description": "Structured Data Templates",
+    "stars": 6,
+    "forks": 1,
+    "languages": {
+      "Go": 46920
+    },
+    "contributions_by_user": 39,
+    "contribution_score": 428.91,
+    "S_code": 45.82,
+    "S_social": 8,
+    "S_maint": 39
+  },
+  {
+    "name": "eidolon",
+    "full_name": "danielgtaylor/eidolon",
+    "html_url": "https://github.com/danielgtaylor/eidolon",
+    "description": "Generate JSON or JSON Schema from Refract & MSON data structures",
+    "stars": 6,
+    "forks": 1,
+    "languages": {
+      "CoffeeScript": 26984
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 269.18,
+    "S_code": 26.35,
+    "S_social": 8,
+    "S_maint": 24
+  },
+  {
+    "name": "glfx.js",
+    "full_name": "danielgtaylor/glfx.js",
+    "html_url": "https://github.com/danielgtaylor/glfx.js",
+    "description": "An image effects library for JavaScript using WebGL",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 71990,
+      "Python": 2070
+    },
+    "contributions_by_user": 32,
+    "contribution_score": 368.16,
+    "S_code": 72.32,
+    "S_social": 6,
+    "S_maint": 32
+  },
+  {
+    "name": "go-jmespath-plus",
+    "full_name": "danielgtaylor/go-jmespath-plus",
+    "html_url": "https://github.com/danielgtaylor/go-jmespath-plus",
+    "description": "Golang implementation of JMESPath with added features.",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "Go": 88239,
+      "Makefile": 998
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 117.57,
+    "S_code": 87.15,
+    "S_social": 7,
+    "S_maint": 6
+  },
+  {
+    "name": "mateo",
+    "full_name": "danielgtaylor/mateo",
+    "html_url": "https://github.com/danielgtaylor/mateo",
+    "description": "A simple API description interface library",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 55189
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 130.95,
+    "S_code": 53.9,
+    "S_social": 7,
+    "S_maint": 9
+  },
+  {
+    "name": "paodate",
+    "full_name": "danielgtaylor/paodate",
+    "html_url": "https://github.com/danielgtaylor/paodate",
+    "description": "Simpler Python date handling",
+    "stars": 5,
+    "forks": 2,
+    "languages": {
+      "Python": 63713
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 189.11,
+    "S_code": 62.22,
+    "S_social": 9,
+    "S_maint": 14
+  },
+  {
+    "name": "humaclient",
+    "full_name": "danielgtaylor/humaclient",
+    "html_url": "https://github.com/danielgtaylor/humaclient",
+    "description": "Experiemental Huma client SDK generator for Go",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Go": 127636
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 330.32,
+    "S_code": 124.64,
+    "S_social": 4,
+    "S_maint": 26
+  },
+  {
+    "name": "rhs-color",
+    "full_name": "danielgtaylor/rhs-color",
+    "html_url": "https://github.com/danielgtaylor/rhs-color",
+    "description": "R.H.S. color conversion utilities",
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 36700
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 53.92,
+    "S_code": 35.84,
+    "S_social": 8,
+    "S_maint": 2
+  },
+  {
+    "name": "apiscrub",
+    "full_name": "danielgtaylor/apiscrub",
+    "html_url": "https://github.com/danielgtaylor/apiscrub",
+    "description": "OpenAPI Scrubber",
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "Python": 5838
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 56.85,
+    "S_code": 5.7,
+    "S_social": 7,
+    "S_maint": 4
+  },
+  {
+    "name": "peasant",
+    "full_name": "danielgtaylor/peasant",
+    "html_url": "https://github.com/danielgtaylor/peasant",
+    "description": "An opinionated Node.js ES6 module lint/build/test/coverage helper",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 10087
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 140.93,
+    "S_code": 9.85,
+    "S_social": 3,
+    "S_maint": 13
+  },
+  {
+    "name": "polaris",
+    "full_name": "danielgtaylor/polaris",
+    "html_url": "https://github.com/danielgtaylor/polaris",
+    "description": "Lightweight backend utilities for static websites",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "CoffeeScript": 4818,
+      "JavaScript": 3735
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 220.18,
+    "S_code": 8.35,
+    "S_social": 3,
+    "S_maint": 21
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "danielgtaylor/dotfiles",
+    "html_url": "https://github.com/danielgtaylor/dotfiles",
+    "description": "My public dotfiles to help bootstrap a new machine",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Shell": 725
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 30.35,
+    "S_code": 0.71,
+    "S_social": 5,
+    "S_maint": 2
+  },
+  {
+    "name": "huma-build",
+    "full_name": "danielgtaylor/huma-build",
+    "html_url": "https://github.com/danielgtaylor/huma-build",
+    "description": "Docker build utility for Huma REST OpenAPI projects",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Go": 3680,
+      "Dockerfile": 2503
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 21.02,
+    "S_code": 6.04,
+    "S_social": 4,
+    "S_maint": 1
+  },
+  {
+    "name": "awesome-openapi3",
+    "full_name": "danielgtaylor/awesome-openapi3",
+    "html_url": "https://github.com/danielgtaylor/awesome-openapi3",
+    "description": "😎 A list of awesome projects related to OpenAPI 3.0.x, curated by the community",
+    "stars": 2,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 4.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "injectobot",
+    "full_name": "danielgtaylor/injectobot",
+    "html_url": "https://github.com/danielgtaylor/injectobot",
+    "description": "Developer-friendly programmable IRC bot",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "CoffeeScript": 12186,
+      "JavaScript": 71
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 129.98,
+    "S_code": 11.97,
+    "S_social": 2,
+    "S_maint": 12
+  },
+  {
+    "name": "bible-ref",
+    "full_name": "danielgtaylor/bible-ref",
+    "html_url": "https://github.com/danielgtaylor/bible-ref",
+    "description": "Utilities for handling Bible references",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "CoffeeScript": 2608
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 15.27,
+    "S_code": 2.55,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "vscode-sdt",
+    "full_name": "danielgtaylor/vscode-sdt",
+    "html_url": "https://github.com/danielgtaylor/vscode-sdt",
+    "description": "Visual Studio Code support for Structured Data Templates",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8310
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 46.06,
+    "S_code": 8.12,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "awesome-docsify",
+    "full_name": "danielgtaylor/awesome-docsify",
+    "html_url": "https://github.com/danielgtaylor/awesome-docsify",
+    "description": "💖 A curated list of awesome things related to docsify",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "homebrew",
+    "full_name": "danielgtaylor/homebrew",
+    "html_url": "https://github.com/danielgtaylor/homebrew",
+    "description": ":beer: The missing package manager for OS X.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 4410753,
+      "Groff": 25188,
+      "Shell": 19062,
+      "C++": 5889,
+      "Perl": 547,
+      "PostScript": 485,
+      "JavaScript": 18
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2180.68,
+    "S_code": 4357.37,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "gaaflora-website",
+    "full_name": "danielgtaylor/gaaflora-website",
+    "html_url": "https://github.com/danielgtaylor/gaaflora-website",
+    "description": "http://www.gaaflora.com/",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 5728,
+      "CSS": 3579,
+      "JavaScript": 748
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 196.91,
+    "S_code": 9.82,
+    "S_social": 1,
+    "S_maint": 19
+  },
+  {
+    "name": "api-blueprint",
+    "full_name": "danielgtaylor/api-blueprint",
+    "html_url": "https://github.com/danielgtaylor/api-blueprint",
+    "description": "API Blueprint",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "nesh-hello",
+    "full_name": "danielgtaylor/nesh-hello",
+    "html_url": "https://github.com/danielgtaylor/nesh-hello",
+    "description": "A simple example plugin for Nesh, the Node.js enhanced shell.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 289
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 26.14,
+    "S_code": 0.28,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "gitlist",
+    "full_name": "danielgtaylor/gitlist",
+    "html_url": "https://github.com/danielgtaylor/gitlist",
+    "description": "An elegant and modern git repository viewer",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "PHP": 74708,
+      "JavaScript": 719
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 38.83,
+    "S_code": 73.66,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "django-social-auth",
+    "full_name": "danielgtaylor/django-social-auth",
+    "html_url": "https://github.com/danielgtaylor/django-social-auth",
+    "description": "Django social authentication made simple",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 120017
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 130.6,
+    "S_code": 117.2,
+    "S_social": 1,
+    "S_maint": 7
+  },
+  {
+    "name": "arista-website",
+    "full_name": "danielgtaylor/arista-website",
+    "html_url": "https://github.com/danielgtaylor/arista-website",
+    "description": "Arista Transcoder Website",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 42440,
+      "Python": 14821,
+      "Shell": 364
+    },
+    "contributions_by_user": 113,
+    "contribution_score": 1160.14,
+    "S_code": 56.27,
+    "S_social": 1,
+    "S_maint": 113
+  },
+  {
+    "name": "django-paypal",
+    "full_name": "danielgtaylor/django-paypal",
+    "html_url": "https://github.com/danielgtaylor/django-paypal",
+    "description": "A pluggable Django application for integrating PayPal Payments Standard or Payments Pro",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Python": 144223
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 86.42,
+    "S_code": 140.84,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "danielgtaylor",
+    "full_name": "danielgtaylor/danielgtaylor",
+    "html_url": "https://github.com/danielgtaylor/danielgtaylor",
+    "description": null,
+    "stars": 0,
+    "forks": 2,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 48.0,
+    "S_code": 0.0,
+    "S_social": 4,
+    "S_maint": 4
+  },
+  {
+    "name": "go-web-framework-stars",
+    "full_name": "danielgtaylor/go-web-framework-stars",
+    "html_url": "https://github.com/danielgtaylor/go-web-framework-stars",
+    "description": ":star: Web frameworks for Go, most starred on GitHub",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 4439
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.17,
+    "S_code": 4.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "openapi.tools",
+    "full_name": "danielgtaylor/openapi.tools",
+    "html_url": "https://github.com/danielgtaylor/openapi.tools",
+    "description": "A collection of Editors, Linters, Parsers, Code Generators,  Documentation, Testing",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 4755,
+      "Ruby": 1513,
+      "CSS": 1112
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.6,
+    "S_code": 7.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "libopenapi",
+    "full_name": "danielgtaylor/libopenapi",
+    "html_url": "https://github.com/danielgtaylor/libopenapi",
+    "description": "libopenapi is an enterprise grade OpenAPI and Swagger library for go. Designed for high performance and comes with unique high-level and low-level API",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 1524586
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 774.43,
+    "S_code": 1488.85,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "awesome-go",
+    "full_name": "danielgtaylor/awesome-go",
+    "html_url": "https://github.com/danielgtaylor/awesome-go",
+    "description": "A curated list of awesome Go frameworks, libraries and software",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 13909
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.79,
+    "S_code": 13.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "protoc-gen-huma",
+    "full_name": "danielgtaylor/protoc-gen-huma",
+    "html_url": "https://github.com/danielgtaylor/protoc-gen-huma",
+    "description": "Generate Huma data structures from Protocol Buffers (Protobuf)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 42475
+    },
+    "contributions_by_user": 30,
+    "contribution_score": 320.74,
+    "S_code": 41.48,
+    "S_social": 0,
+    "S_maint": 30
+  },
+  {
+    "name": "gopherjs",
+    "full_name": "danielgtaylor/gopherjs",
+    "html_url": "https://github.com/danielgtaylor/gopherjs",
+    "description": "A compiler from Go to JavaScript for running Go code in a browser",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 615005,
+      "C++": 4399,
+      "Shell": 1496,
+      "Python": 440,
+      "JavaScript": 52
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 303.41,
+    "S_code": 606.83,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ion-go",
+    "full_name": "danielgtaylor/ion-go",
+    "html_url": "https://github.com/danielgtaylor/ion-go",
+    "description": "A Go implementation of Amazon Ion.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 314879
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 153.75,
+    "S_code": 307.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fastapi",
+    "full_name": "danielgtaylor/fastapi",
+    "html_url": "https://github.com/danielgtaylor/fastapi",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 948399,
+      "Shell": 2332,
+      "HTML": 187,
+      "CSS": 25
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 464.33,
+    "S_code": 928.66,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "api",
+    "full_name": "danielgtaylor/api",
+    "html_url": "https://github.com/danielgtaylor/api",
+    "description": "API definitions for the Istio project",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Makefile": 33096,
+      "Shell": 18190,
+      "Go": 13608,
+      "Python": 779,
+      "Starlark": 756,
+      "Ruby": 317
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 32.59,
+    "S_code": 65.18,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "personal-security-checklist",
+    "full_name": "danielgtaylor/personal-security-checklist",
+    "html_url": "https://github.com/danielgtaylor/personal-security-checklist",
+    "description": "🔒 A curated checklist of 100+ tips for protecting digital security and privacy in 2020",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "chroma",
+    "full_name": "danielgtaylor/chroma",
+    "html_url": "https://github.com/danielgtaylor/chroma",
+    "description": "A general purpose syntax highlighter in pure Go ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 1610569,
+      "Python": 8064,
+      "JavaScript": 3052,
+      "Makefile": 577
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 822.12,
+    "S_code": 1584.24,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "httpie-go",
+    "full_name": "danielgtaylor/httpie-go",
+    "html_url": "https://github.com/danielgtaylor/httpie-go",
+    "description": "httpie-like HTTP client written in Go",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 68180,
+      "Makefile": 183
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 43.38,
+    "S_code": 66.76,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "protobuf",
+    "full_name": "danielgtaylor/protobuf",
+    "html_url": "https://github.com/danielgtaylor/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 9461523,
+      "Java": 5127174,
+      "C#": 4758595,
+      "Objective-C": 2822454,
+      "JavaScript": 1737093,
+      "C": 1544106,
+      "Python": 1444601,
+      "PHP": 952348,
+      "NASL": 259084,
+      "Makefile": 224227,
+      "Ruby": 224223,
+      "Shell": 173661,
+      "Starlark": 75827,
+      "CMake": 72593,
+      "M4": 61738,
+      "Dockerfile": 33473,
+      "Swift": 20115,
+      "Batchfile": 8288,
+      "Emacs Lisp": 7898,
+      "Pawn": 4201,
+      "Vim Script": 3759,
+      "Go": 3348,
+      "Objective-C++": 2898,
+      "PowerShell": 972,
+      "Awk": 342
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14172.14,
+    "S_code": 28344.28,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "docker-protoc",
+    "full_name": "danielgtaylor/docker-protoc",
+    "html_url": "https://github.com/danielgtaylor/docker-protoc",
+    "description": "Protobuf compiler and plugins",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dockerfile": 1679
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.82,
+    "S_code": 1.64,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "spectral",
+    "full_name": "danielgtaylor/spectral",
+    "html_url": "https://github.com/danielgtaylor/spectral",
+    "description": "A flexible JSON linter with out of the box support for OpenAPI v2 and v3.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 454399,
+      "JavaScript": 5510,
+      "Dockerfile": 981,
+      "Shell": 791
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 225.43,
+    "S_code": 450.86,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "aiohttp",
+    "full_name": "danielgtaylor/aiohttp",
+    "html_url": "https://github.com/danielgtaylor/aiohttp",
+    "description": "Asynchronous HTTP client/server framework for asyncio and Python",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1538930,
+      "C": 187294,
+      "Makefile": 3262,
+      "Shell": 3023,
+      "Batchfile": 838,
+      "Gherkin": 396
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 846.55,
+    "S_code": 1693.11,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "go-metrics",
+    "full_name": "danielgtaylor/go-metrics",
+    "html_url": "https://github.com/danielgtaylor/go-metrics",
+    "description": "Metrics library and utilities for Go",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 44692
+    },
+    "contributions_by_user": 28,
+    "contribution_score": 301.82,
+    "S_code": 43.64,
+    "S_social": 0,
+    "S_maint": 28
+  },
+  {
+    "name": "kin-openapi",
+    "full_name": "danielgtaylor/kin-openapi",
+    "html_url": "https://github.com/danielgtaylor/kin-openapi",
+    "description": "OpenAPI 3.0 implementation for Go (parsing, converting, validating)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 210743
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 132.9,
+    "S_code": 205.8,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "OpenAPI-Specification",
+    "full_name": "danielgtaylor/OpenAPI-Specification",
+    "html_url": "https://github.com/danielgtaylor/OpenAPI-Specification",
+    "description": "The OpenAPI Specification Repository",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 292619,
+      "CSS": 32811,
+      "HTML": 3021
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 160.38,
+    "S_code": 320.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "widdershins",
+    "full_name": "danielgtaylor/widdershins",
+    "html_url": "https://github.com/danielgtaylor/widdershins",
+    "description": "OpenAPI / Swagger, AsyncAPI & Semoasa definitions to Slate / Shins compatible markdown",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 85503,
+      "Shell": 106
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 41.8,
+    "S_code": 83.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "berry-gardener",
+    "full_name": "danielgtaylor/berry-gardener",
+    "html_url": "https://github.com/danielgtaylor/berry-gardener",
+    "description": "BerryGardener.com website code",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 8301,
+      "CSS": 5997,
+      "JavaScript": 3028
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 148.46,
+    "S_code": 16.92,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "minim",
+    "full_name": "danielgtaylor/minim",
+    "html_url": "https://github.com/danielgtaylor/minim",
+    "description": "A library for interacting with Refract elements",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 75058
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 256.65,
+    "S_code": 73.3,
+    "S_social": 0,
+    "S_maint": 22
+  },
+  {
+    "name": "eslint",
+    "full_name": "danielgtaylor/eslint",
+    "html_url": "https://github.com/danielgtaylor/eslint",
+    "description": "A fully pluggable tool for identifying and reporting on patterns in JavaScript.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3681921,
+      "HTML": 5313,
+      "Shell": 928
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1800.86,
+    "S_code": 3601.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "CommonMark",
+    "full_name": "danielgtaylor/CommonMark",
+    "html_url": "https://github.com/danielgtaylor/CommonMark",
+    "description": "CommonMark spec, with reference implementations in C and JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 13283,
+      "Makefile": 590
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.77,
+    "S_code": 13.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "es6test",
+    "full_name": "danielgtaylor/es6test",
+    "html_url": "https://github.com/danielgtaylor/es6test",
+    "description": "ES6 native development test project",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2512
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.23,
+    "S_code": 2.45,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "language-gfm",
+    "full_name": "danielgtaylor/language-gfm",
+    "html_url": "https://github.com/danielgtaylor/language-gfm",
+    "description": "GitHub Flavored Markdown in Atom",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CoffeeScript": 95420
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 56.59,
+    "S_code": 93.18,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "linguist",
+    "full_name": "danielgtaylor/linguist",
+    "html_url": "https://github.com/danielgtaylor/linguist",
+    "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 167035,
+      "Shell": 1538
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 82.31,
+    "S_code": 164.62,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "botocore",
+    "full_name": "danielgtaylor/botocore",
+    "html_url": "https://github.com/danielgtaylor/botocore",
+    "description": "The low-level, core functionality of boto 3.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 1683687,
+      "Makefile": 5581,
+      "Shell": 5109
+    },
+    "contributions_by_user": 53,
+    "contribution_score": 1361.33,
+    "S_code": 1654.67,
+    "S_social": 2,
+    "S_maint": 53
+  },
+  {
+    "name": "sublime-monokai-extended",
+    "full_name": "danielgtaylor/sublime-monokai-extended",
+    "html_url": "https://github.com/danielgtaylor/sublime-monokai-extended",
+    "description": "Extends Monokai from Soda with additional syntax highlighting for Markdown, LESS, HTML, Handlebars and more.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "aglio-theme-hello",
+    "full_name": "danielgtaylor/aglio-theme-hello",
+    "html_url": "https://github.com/danielgtaylor/aglio-theme-hello",
+    "description": "A starting point for Aglio theme engine projects",
+    "stars": 0,
+    "forks": 4,
+    "languages": {
+      "JavaScript": 1737
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 26.85,
+    "S_code": 1.7,
+    "S_social": 8,
+    "S_maint": 1
+  },
+  {
+    "name": "awsebcli",
+    "full_name": "danielgtaylor/awsebcli",
+    "html_url": "https://github.com/danielgtaylor/awsebcli",
+    "description": "Amazon Elastic Beanstalk Client",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1274660,
+      "Shell": 280
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 622.53,
+    "S_code": 1245.06,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "aws-model-validators",
+    "full_name": "danielgtaylor/aws-model-validators",
+    "html_url": "https://github.com/danielgtaylor/aws-model-validators",
+    "description": "Tools for validating the AWS service JSON model files.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 21155
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.33,
+    "S_code": 20.66,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "boto",
+    "full_name": "danielgtaylor/boto",
+    "html_url": "https://github.com/danielgtaylor/boto",
+    "description": "Python interface to Amazon Web Services",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 6072100,
+      "Makefile": 3331,
+      "CSS": 3224,
+      "Shell": 3071
+    },
+    "contributions_by_user": 598,
+    "contribution_score": 8953.59,
+    "S_code": 5939.19,
+    "S_social": 2,
+    "S_maint": 598
+  },
+  {
+    "name": "aws-cli",
+    "full_name": "danielgtaylor/aws-cli",
+    "html_url": "https://github.com/danielgtaylor/aws-cli",
+    "description": "Universal Command Line Interface for Amazon Web Services",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 824220,
+      "Shell": 3268
+    },
+    "contributions_by_user": 78,
+    "contribution_score": 1184.05,
+    "S_code": 808.09,
+    "S_social": 0,
+    "S_maint": 78
+  },
+  {
+    "name": "atom-lint",
+    "full_name": "danielgtaylor/atom-lint",
+    "html_url": "https://github.com/danielgtaylor/atom-lint",
+    "description": "Generic code linting support for Atom.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CoffeeScript": 18304,
+      "CSS": 1235
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.54,
+    "S_code": 19.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "status-tab-spacing",
+    "full_name": "danielgtaylor/status-tab-spacing",
+    "html_url": "https://github.com/danielgtaylor/status-tab-spacing",
+    "description": "atom package to display tab spacing in the editor",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CoffeeScript": 4098,
+      "CSS": 251
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.12,
+    "S_code": 4.25,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "prism",
+    "full_name": "danielgtaylor/prism",
+    "html_url": "https://github.com/danielgtaylor/prism",
+    "description": "Lightweight, robust, elegant syntax highlighting. A spin-off project from Dabblet. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 66808
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 42.62,
+    "S_code": 65.24,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "node",
+    "full_name": "danielgtaylor/node",
+    "html_url": "https://github.com/danielgtaylor/node",
+    "description": "evented I/O for v8 javascript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2668002,
+      "C++": 873865,
+      "C": 110901,
+      "Python": 39399,
+      "D": 37445,
+      "Shell": 12903,
+      "Objective-C": 3455,
+      "Ruby": 2264,
+      "R": 2216
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1831.27,
+    "S_code": 3662.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "needle",
+    "full_name": "danielgtaylor/needle",
+    "html_url": "https://github.com/danielgtaylor/needle",
+    "description": "Nimble & fast HTTP client for Node.js. With proxy, deflate & multipart support.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 17192
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 18.39,
+    "S_code": 16.79,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "gaaflora-website-old",
+    "full_name": "danielgtaylor/gaaflora-website-old",
+    "html_url": "https://github.com/danielgtaylor/gaaflora-website-old",
+    "description": "Gaaflora Galleries Website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CoffeeScript": 7032
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 143.43,
+    "S_code": 6.87,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "userbadges-node",
+    "full_name": "danielgtaylor/userbadges-node",
+    "html_url": "https://github.com/danielgtaylor/userbadges-node",
+    "description": "UserBadges.com Javascript API client for Node.js",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CoffeeScript": 7242
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 63.54,
+    "S_code": 7.07,
+    "S_social": 0,
+    "S_maint": 6
+  }
+]

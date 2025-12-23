@@ -1,0 +1,47 @@
+{
+  "username": "userquin",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Vue",
+      "JavaScript",
+      "Kotlin",
+      "TypeScript",
+      "SCSS",
+      "Elm",
+      "Svelte"
+    ],
+    "distinct_topics": [
+      "vitest",
+      "sveltekit",
+      "default-exports",
+      "nuxt-module",
+      "unplugin-vue-components",
+      "playground-elements",
+      "unimport",
+      "vite",
+      "vuetify",
+      "nuxt",
+      "unplugin-auto-import",
+      "typescript",
+      "sass",
+      "network-hints",
+      "scss",
+      "vite-plugin",
+      "rollup",
+      "device-hints",
+      "detect-browser",
+      "browser-tests",
+      "vite-plugin-pwa",
+      "detect-operating-system",
+      "user-agent-client-hints",
+      "playground",
+      "rollup-plugin-dts",
+      "cjs",
+      "tresjs"
+    ],
+    "language_count": 7,
+    "topic_count": 27,
+    "total_owned_repos": 128
+  },
+  "diversity_score_100": 63.6
+}

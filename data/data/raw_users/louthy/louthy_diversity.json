@@ -1,0 +1,35 @@
+{
+  "username": "louthy",
+  "raw_metrics": {
+    "distinct_languages": [
+      "C#",
+      "HTML"
+    ],
+    "distinct_topics": [
+      "semigroup",
+      "monad-transformers",
+      "immutable-types",
+      "structural-equality",
+      "higher-kinded-types",
+      "monads",
+      "records",
+      "monad",
+      "applicative",
+      "ad-hoc-polymorphism",
+      "lenses",
+      "f-sharp",
+      "c-sharp",
+      "functor",
+      "bcl",
+      "functional-languages",
+      "language-ext",
+      "functional-programming",
+      "monoid",
+      "immutable-collections"
+    ],
+    "language_count": 2,
+    "topic_count": 20,
+    "total_owned_repos": 10
+  },
+  "diversity_score_100": 28.0
+}

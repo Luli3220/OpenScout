@@ -1,0 +1,46 @@
+{
+  "username": "knu",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "C++",
+      "CoffeeScript",
+      "Ruby",
+      "Lua",
+      "TypeScript",
+      "Jsonnet",
+      "C",
+      "Emacs Lisp",
+      "PHP",
+      "JavaScript",
+      "Perl",
+      "Shell",
+      "Hack"
+    ],
+    "distinct_topics": [
+      "emacs-package",
+      "terraform",
+      "yank",
+      "github",
+      "unicode",
+      "lua",
+      "actions",
+      "sequential",
+      "keyboard",
+      "paste",
+      "hammerspoon",
+      "github-actions",
+      "git",
+      "emacs",
+      "chrome-extension",
+      "macos",
+      "terragrunt",
+      "r2",
+      "cloudflare-workers"
+    ],
+    "language_count": 14,
+    "topic_count": 19,
+    "total_owned_repos": 107
+  },
+  "diversity_score_100": 75.2
+}

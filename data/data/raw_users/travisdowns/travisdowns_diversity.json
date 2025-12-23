@@ -1,0 +1,20 @@
+{
+  "username": "travisdowns",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "C++",
+      "Java",
+      "Dockerfile",
+      "C",
+      "JavaScript",
+      "Assembly",
+      "Shell"
+    ],
+    "distinct_topics": [],
+    "language_count": 8,
+    "topic_count": 0,
+    "total_owned_repos": 41
+  },
+  "diversity_score_100": 48.0
+}

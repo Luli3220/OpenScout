@@ -1,0 +1,2583 @@
+[
+  {
+    "name": "markdown-to-jsx",
+    "full_name": "quantizor/markdown-to-jsx",
+    "html_url": "https://github.com/quantizor/markdown-to-jsx",
+    "description": "A very fast and versatile markdown toolchain. Output to AST, React, React Native, SolidJS, Vue, HTML, and more!",
+    "stars": 2279,
+    "forks": 196,
+    "languages": {
+      "TypeScript": 1180858,
+      "Mermaid": 13229,
+      "JavaScript": 7087,
+      "CSS": 4502,
+      "HTML": 3127
+    },
+    "contributions_by_user": 541,
+    "contribution_score": 11342.24,
+    "S_code": 1180.47,
+    "S_social": 2671,
+    "S_maint": 541
+  },
+  {
+    "name": "buttermilk",
+    "full_name": "quantizor/buttermilk",
+    "html_url": "https://github.com/quantizor/buttermilk",
+    "description": "beautifully simple isomorphic routing for React projects",
+    "stars": 109,
+    "forks": 6,
+    "languages": {
+      "JavaScript": 52941,
+      "HTML": 124
+    },
+    "contributions_by_user": 110,
+    "contribution_score": 1367.91,
+    "S_code": 51.82,
+    "S_social": 121,
+    "S_maint": 110
+  },
+  {
+    "name": "wait-for-netlify-action",
+    "full_name": "quantizor/wait-for-netlify-action",
+    "html_url": "https://github.com/quantizor/wait-for-netlify-action",
+    "description": "A GitHub action that will wait until a Netlify deploy is completed before continuing on",
+    "stars": 20,
+    "forks": 19,
+    "languages": {
+      "JavaScript": 4297
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 358.1,
+    "S_code": 4.2,
+    "S_social": 58,
+    "S_maint": 24
+  },
+  {
+    "name": "link-media-html-webpack-plugin",
+    "full_name": "quantizor/link-media-html-webpack-plugin",
+    "html_url": "https://github.com/quantizor/link-media-html-webpack-plugin",
+    "description": "parses CSS filenames to automatically apply media HTML attribute to link elements",
+    "stars": 15,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 4843,
+      "HTML": 272,
+      "CSS": 89
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 170.54,
+    "S_code": 5.08,
+    "S_social": 19,
+    "S_maint": 13
+  },
+  {
+    "name": "twyx",
+    "full_name": "quantizor/twyx",
+    "html_url": "https://github.com/quantizor/twyx",
+    "description": "twyx is tailwind for CSS people",
+    "stars": 12,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 39729
+    },
+    "contributions_by_user": 41,
+    "contribution_score": 453.4,
+    "S_code": 38.8,
+    "S_social": 12,
+    "S_maint": 41
+  },
+  {
+    "name": "eslintify",
+    "full_name": "quantizor/eslintify",
+    "html_url": "https://github.com/quantizor/eslintify",
+    "description": ":mag: stream module for checking JavaScript programs with ESLint",
+    "stars": 12,
+    "forks": 5,
+    "languages": {
+      "JavaScript": 2634
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 45.29,
+    "S_code": 2.57,
+    "S_social": 22,
+    "S_maint": 0
+  },
+  {
+    "name": "CQ5-RequireJS",
+    "full_name": "quantizor/CQ5-RequireJS",
+    "html_url": "https://github.com/quantizor/CQ5-RequireJS",
+    "description": "☕️ JSP code to enable dynamic creation of requireJS calls based on the components dropped in a CQ5 page template.",
+    "stars": 5,
+    "forks": 7,
+    "languages": {
+      "Java": 3088
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 39.51,
+    "S_code": 3.02,
+    "S_social": 19,
+    "S_maint": 0
+  },
+  {
+    "name": "react-native-web-fork",
+    "full_name": "quantizor/react-native-web-fork",
+    "html_url": "https://github.com/quantizor/react-native-web-fork",
+    "description": "Cross-platform React UI packages - forked for ongoing maintenance",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 128440,
+      "CSS": 14034,
+      "HTML": 11903,
+      "Shell": 74
+    },
+    "contributions_by_user": 28,
+    "contribution_score": 359.42,
+    "S_code": 150.83,
+    "S_social": 2,
+    "S_maint": 28
+  },
+  {
+    "name": "chromatic-cli",
+    "full_name": "quantizor/chromatic-cli",
+    "html_url": "https://github.com/quantizor/chromatic-cli",
+    "description": "Chromatic CLI: `npx chromatic`",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 614152,
+      "HTML": 14804,
+      "JavaScript": 14520,
+      "Shell": 59,
+      "CSS": 37
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 316.24,
+    "S_code": 628.49,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "youtube-downloader",
+    "full_name": "quantizor/youtube-downloader",
+    "html_url": "https://github.com/quantizor/youtube-downloader",
+    "description": "A browser extension for simplifying downloading YouTube videos.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 122141,
+      "Svelte": 11727,
+      "SCSS": 9349,
+      "JavaScript": 2046
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 72.93,
+    "S_code": 141.86,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "babel-plugin-react-displayname",
+    "full_name": "quantizor/babel-plugin-react-displayname",
+    "html_url": "https://github.com/quantizor/babel-plugin-react-displayname",
+    "description": "Babel plugin to generate React components' displayName while preserving tree-shaking",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 42874
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 26.93,
+    "S_code": 41.87,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "rollup-plugin-flow",
+    "full_name": "quantizor/rollup-plugin-flow",
+    "html_url": "https://github.com/quantizor/rollup-plugin-flow",
+    "description": "Rollup plugin for removing Flow type annotations.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 1249
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.61,
+    "S_code": 1.22,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "mock-private-registry",
+    "full_name": "quantizor/mock-private-registry",
+    "html_url": "https://github.com/quantizor/mock-private-registry",
+    "description": "Mock of a private npm registry, useful for testing npm-related stuff",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9149
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 66.47,
+    "S_code": 8.93,
+    "S_social": 1,
+    "S_maint": 6
+  },
+  {
+    "name": "cra-styled-components-font-example",
+    "full_name": "quantizor/cra-styled-components-font-example",
+    "html_url": "https://github.com/quantizor/cra-styled-components-font-example",
+    "description": "see src/App.js for an example of using @font-face with styled-components injectGlobal",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5809,
+      "HTML": 1590,
+      "CSS": 446
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 25.83,
+    "S_code": 7.66,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "middleware-proxy",
+    "full_name": "quantizor/middleware-proxy",
+    "html_url": "https://github.com/quantizor/middleware-proxy",
+    "description": "↪ connect-compliant middleware for simple, transparent redirection of HTTP requests",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3895
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.9,
+    "S_code": 3.8,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "Docusaurus",
+    "full_name": "quantizor/Docusaurus",
+    "html_url": "https://github.com/quantizor/Docusaurus",
+    "description": "Easy to maintain open source documentation websites.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 168613,
+      "CSS": 37096,
+      "HTML": 53
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 102.47,
+    "S_code": 200.94,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "node-haste",
+    "full_name": "quantizor/node-haste",
+    "html_url": "https://github.com/quantizor/node-haste",
+    "description": "A dependency management system for static resources for node.js.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 316122
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 156.36,
+    "S_code": 308.71,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "tailwindcss.com",
+    "full_name": "quantizor/tailwindcss.com",
+    "html_url": "https://github.com/quantizor/tailwindcss.com",
+    "description": "The Tailwind CSS documentation website.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "MDX": 2173841,
+      "TypeScript": 1854045,
+      "HTML": 721540,
+      "CSS": 58541
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2347.64,
+    "S_code": 4695.28,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "directory",
+    "full_name": "quantizor/directory",
+    "html_url": "https://github.com/quantizor/directory",
+    "description": "A searchable and filterable directory of React Native libraries.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 348701,
+      "CSS": 9673,
+      "JavaScript": 4391
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 177.13,
+    "S_code": 354.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "awesome-markdown",
+    "full_name": "quantizor/awesome-markdown",
+    "html_url": "https://github.com/quantizor/awesome-markdown",
+    "description": "A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "awesome-react",
+    "full_name": "quantizor/awesome-react",
+    "html_url": "https://github.com/quantizor/awesome-react",
+    "description": "A collection of awesome things regarding React ecosystem.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "awesome-vue",
+    "full_name": "quantizor/awesome-vue",
+    "html_url": "https://github.com/quantizor/awesome-vue",
+    "description": "🎉 A curated list of awesome things related to Vue.js",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "usehooks-ts",
+    "full_name": "quantizor/usehooks-ts",
+    "html_url": "https://github.com/quantizor/usehooks-ts",
+    "description": "React hook library, ready to use, written in Typescript.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 272097,
+      "JavaScript": 25193,
+      "CSS": 4964,
+      "Handlebars": 1525
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 148.33,
+    "S_code": 296.66,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tailwind-merge",
+    "full_name": "quantizor/tailwind-merge",
+    "html_url": "https://github.com/quantizor/tailwind-merge",
+    "description": "Merge Tailwind CSS classes without style conflicts",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 227736,
+      "JavaScript": 13029
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 247.56,
+    "S_code": 235.12,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "node-current-git-branch",
+    "full_name": "quantizor/node-current-git-branch",
+    "html_url": "https://github.com/quantizor/node-current-git-branch",
+    "description": "A tool to get the branch name of a specific directory",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3576
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.75,
+    "S_code": 3.49,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lazycommit",
+    "full_name": "quantizor/lazycommit",
+    "html_url": "https://github.com/quantizor/lazycommit",
+    "description": "A CLI that writes your git commit messages for you with AI using Groq. Never write a commit message again.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 112141,
+      "HTML": 4333,
+      "Ruby": 614
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 97.17,
+    "S_code": 114.34,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "primitives",
+    "full_name": "quantizor/primitives",
+    "html_url": "https://github.com/quantizor/primitives",
+    "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1591572,
+      "CSS": 58605,
+      "JavaScript": 15593,
+      "HTML": 141
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 813.43,
+    "S_code": 1626.87,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "testing-library-docs",
+    "full_name": "quantizor/testing-library-docs",
+    "html_url": "https://github.com/quantizor/testing-library-docs",
+    "description": "docs site for @testing-library/*",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 39061,
+      "MDX": 10772,
+      "CSS": 7861
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 28.17,
+    "S_code": 56.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "reor",
+    "full_name": "quantizor/reor",
+    "html_url": "https://github.com/quantizor/reor",
+    "description": "Private & local AI personal knowledge management app for high entropy people.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1776135,
+      "TypeScript": 1219684,
+      "CSS": 33198,
+      "SCSS": 1961,
+      "HTML": 955,
+      "Makefile": 562,
+      "Dockerfile": 125
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1480.77,
+    "S_code": 2961.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "expo",
+    "full_name": "quantizor/expo",
+    "html_url": "https://github.com/quantizor/expo",
+    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 12788815,
+      "JavaScript": 7767612,
+      "Kotlin": 4014113,
+      "Swift": 2688863,
+      "Objective-C": 1528954,
+      "Java": 870460,
+      "C++": 528920,
+      "Objective-C++": 307760,
+      "C": 254176,
+      "Ruby": 177745,
+      "Shell": 52439,
+      "HTML": 21584,
+      "CMake": 8939,
+      "CSS": 897,
+      "Groovy": 180
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15142.31,
+    "S_code": 30284.63,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-native",
+    "full_name": "quantizor/react-native",
+    "html_url": "https://github.com/quantizor/react-native",
+    "description": "A framework for building native apps with React.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 4836505,
+      "JavaScript": 2626777,
+      "Kotlin": 2201496,
+      "Java": 2101498,
+      "Objective-C++": 1923071,
+      "Objective-C": 1265341,
+      "Ruby": 445568,
+      "CMake": 124133,
+      "TypeScript": 80297,
+      "Shell": 59064,
+      "C": 49371,
+      "Assembly": 14920,
+      "Swift": 6359,
+      "HTML": 1473
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7683.53,
+    "S_code": 15367.06,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nativewind",
+    "full_name": "quantizor/nativewind",
+    "html_url": "https://github.com/quantizor/nativewind",
+    "description": "React Native utility-first universal design system - powered by Tailwind CSS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 613572,
+      "MDX": 141346,
+      "JavaScript": 37627,
+      "SCSS": 11848,
+      "Shell": 427,
+      "HTML": 54
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 393.0,
+    "S_code": 786.01,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "happo.io",
+    "full_name": "quantizor/happo.io",
+    "html_url": "https://github.com/quantizor/happo.io",
+    "description": "Happo is a cross-browser screenshot testing service",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 186488,
+      "Shell": 18723,
+      "HTML": 1939,
+      "CSS": 170
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 101.23,
+    "S_code": 202.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dependabot-changesets",
+    "full_name": "quantizor/dependabot-changesets",
+    "html_url": "https://github.com/quantizor/dependabot-changesets",
+    "description": "Github action to generate and commit changesets for dependabot PRs, grouped or ungrouped",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 9911,
+      "Shell": 1566,
+      "Nix": 121
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.66,
+    "S_code": 11.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cypress-cloud",
+    "full_name": "quantizor/cypress-cloud",
+    "html_url": "https://github.com/quantizor/cypress-cloud",
+    "description": "Debug, troubleshoot and record Cypress CI tests in Cloud",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 177091,
+      "JavaScript": 146127,
+      "HTML": 1900
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 158.75,
+    "S_code": 317.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jira-changelog",
+    "full_name": "quantizor/jira-changelog",
+    "html_url": "https://github.com/quantizor/jira-changelog",
+    "description": "Generates a changelog by matching git commits to Jira tickets.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 67111
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 32.77,
+    "S_code": 65.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cypress-file-upload",
+    "full_name": "quantizor/cypress-file-upload",
+    "html_url": "https://github.com/quantizor/cypress-file-upload",
+    "description": "File upload testing made easy",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 30753,
+      "HTML": 2999
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.48,
+    "S_code": 32.96,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "codecov-cli",
+    "full_name": "quantizor/codecov-cli",
+    "html_url": "https://github.com/quantizor/codecov-cli",
+    "description": "Codecov's Command Line Interface. Used for uploading to Codecov in your CI, Test Labelling, Local Upload, and more",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 572292,
+      "Shell": 968,
+      "Makefile": 603,
+      "C": 446,
+      "Go": 325,
+      "Kotlin": 261,
+      "Hack": 159,
+      "C++": 131
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 280.85,
+    "S_code": 561.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "navi",
+    "full_name": "quantizor/navi",
+    "html_url": "https://github.com/quantizor/navi",
+    "description": "🧭 Declarative, asynchronous routing for React.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 161984,
+      "JavaScript": 59016,
+      "CSS": 4936,
+      "HTML": 3144
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 111.86,
+    "S_code": 223.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "html2react",
+    "full_name": "quantizor/html2react",
+    "html_url": "https://github.com/quantizor/html2react",
+    "description": "Transmute HTML markup into React components",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 21250
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.38,
+    "S_code": 20.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "changesets",
+    "full_name": "quantizor/changesets",
+    "html_url": "https://github.com/quantizor/changesets",
+    "description": "🦋       A way to manage your versioning and changelogs with a focus on monorepos",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 552451,
+      "JavaScript": 898
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 270.19,
+    "S_code": 540.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "styled-components-repro",
+    "full_name": "quantizor/styled-components-repro",
+    "html_url": "https://github.com/quantizor/styled-components-repro",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1916,
+      "CSS": 538,
+      "JavaScript": 200
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.3,
+    "S_code": 2.59,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "manifold",
+    "full_name": "quantizor/manifold",
+    "html_url": "https://github.com/quantizor/manifold",
+    "description": "Manifold Markets: A market for every question",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 4342947,
+      "HTML": 1546523,
+      "JavaScript": 107416,
+      "PLpgSQL": 99107,
+      "Python": 32274,
+      "CSS": 19073,
+      "Shell": 12651,
+      "Java": 9032,
+      "Ruby": 3686,
+      "Objective-C++": 3035,
+      "Handlebars": 2928,
+      "Dockerfile": 2843,
+      "SCSS": 2321,
+      "Objective-C": 327,
+      "Swift": 113
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3019.67,
+    "S_code": 6039.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "stylis",
+    "full_name": "quantizor/stylis",
+    "html_url": "https://github.com/quantizor/stylis",
+    "description": "light – weight css preprocessor",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 85756
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 71.87,
+    "S_code": 83.75,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "boring-avatars",
+    "full_name": "quantizor/boring-avatars",
+    "html_url": "https://github.com/quantizor/boring-avatars",
+    "description": "Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 112370,
+      "HTML": 1808,
+      "CSS": 366
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 55.93,
+    "S_code": 111.86,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "formik",
+    "full_name": "quantizor/formik",
+    "html_url": "https://github.com/quantizor/formik",
+    "description": "Build forms in React, without the tears 😭 ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 355514,
+      "JavaScript": 16577,
+      "CSS": 7352,
+      "Shell": 152
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 305.35,
+    "S_code": 370.7,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "typescript-plugin-styled-components",
+    "full_name": "quantizor/typescript-plugin-styled-components",
+    "html_url": "https://github.com/quantizor/typescript-plugin-styled-components",
+    "description": "TypeScript transformer for improving the debugging experience of styled-components",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 44330,
+      "JavaScript": 1241
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22.25,
+    "S_code": 44.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "babel",
+    "full_name": "quantizor/babel",
+    "html_url": "https://github.com/quantizor/babel",
+    "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2927502,
+      "Shell": 10950,
+      "Makefile": 7744,
+      "HTML": 3447
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1440.26,
+    "S_code": 2880.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "esbuild-plugin-yaml",
+    "full_name": "quantizor/esbuild-plugin-yaml",
+    "html_url": "https://github.com/quantizor/esbuild-plugin-yaml",
+    "description": "Convert YAML files to ES6 modules in esbuild, with watch mode support.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1712,
+      "TypeScript": 1482
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.56,
+    "S_code": 3.12,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "storybook-source-link",
+    "full_name": "quantizor/storybook-source-link",
+    "html_url": "https://github.com/quantizor/storybook-source-link",
+    "description": "Storybook add-on that adds a link to the source repo in the toolbar",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 18167,
+      "TypeScript": 5985
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.79,
+    "S_code": 23.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tsup",
+    "full_name": "quantizor/tsup",
+    "html_url": "https://github.com/quantizor/tsup",
+    "description": "The simplest and fastest way to bundle your TypeScript libraries.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 111178,
+      "JavaScript": 1084,
+      "Dockerfile": 946
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 55.28,
+    "S_code": 110.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-element-to-jsx-string",
+    "full_name": "quantizor/react-element-to-jsx-string",
+    "html_url": "https://github.com/quantizor/react-element-to-jsx-string",
+    "description": "Turn a ReactElement into the corresponding JSX string",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 106962,
+      "Shell": 583
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 62.51,
+    "S_code": 105.02,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "microbundle",
+    "full_name": "quantizor/microbundle",
+    "html_url": "https://github.com/quantizor/microbundle",
+    "description": "📦 Zero-configuration bundler for tiny modules.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 47885
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.38,
+    "S_code": 46.76,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-fast-compare",
+    "full_name": "quantizor/react-fast-compare",
+    "html_url": "https://github.com/quantizor/react-fast-compare",
+    "description": "fastest deep equal comparison for React",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 20545,
+      "TypeScript": 1820
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.92,
+    "S_code": 21.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "csstype",
+    "full_name": "quantizor/csstype",
+    "html_url": "https://github.com/quantizor/csstype",
+    "description": "Strict TypeScript and Flow types for style based on MDN data",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 121927,
+      "JavaScript": 2569
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 60.79,
+    "S_code": 121.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "storybook",
+    "full_name": "quantizor/storybook",
+    "html_url": "https://github.com/quantizor/storybook",
+    "description": "UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3309583,
+      "JavaScript": 372170,
+      "Kotlin": 15403,
+      "Vue": 9737,
+      "Svelte": 9310,
+      "HTML": 5127,
+      "Shell": 2273,
+      "CSS": 2134,
+      "EJS": 1239,
+      "Boo": 877,
+      "Marko": 222,
+      "SCSS": 22
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1820.36,
+    "S_code": 3640.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-live",
+    "full_name": "quantizor/react-live",
+    "html_url": "https://github.com/quantizor/react-live",
+    "description": "A production-focused playground for live editing React components",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 27813,
+      "TypeScript": 1047
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 44.09,
+    "S_code": 28.18,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "mdx2-csf",
+    "full_name": "quantizor/mdx2-csf",
+    "html_url": "https://github.com/quantizor/mdx2-csf",
+    "description": "MDX to CSF compiler using MDXv2",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 53517,
+      "JavaScript": 3236,
+      "CSS": 2254,
+      "Shell": 58
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 28.84,
+    "S_code": 57.68,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "xstyled",
+    "full_name": "quantizor/xstyled",
+    "html_url": "https://github.com/quantizor/xstyled",
+    "description": "A utility-first CSS-in-JS framework built for React. 💅👩‍🎤⚡️",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 273774,
+      "JavaScript": 40989,
+      "CSS": 95
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 173.74,
+    "S_code": 307.48,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "mui-phone-input-ssr",
+    "full_name": "quantizor/mui-phone-input-ssr",
+    "html_url": "https://github.com/quantizor/mui-phone-input-ssr",
+    "description": "An SSR-friendly, highly customizable Material UI React phone number input component with auto number formatting. This repo exists as a temporary workaround for server-side rendering issues.  Based on the excellent material-ui-phone-number, based on react-phone-input-2, based on react-phone-input.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 73207
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 45.75,
+    "S_code": 71.49,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "babel-plugin-macros",
+    "full_name": "quantizor/babel-plugin-macros",
+    "html_url": "https://github.com/quantizor/babel-plugin-macros",
+    "description": "🎣 Allows you to build simple compile-time libraries",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 31886
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.57,
+    "S_code": 31.14,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gatsby-plugin-remove-fingerprints",
+    "full_name": "quantizor/gatsby-plugin-remove-fingerprints",
+    "html_url": "https://github.com/quantizor/gatsby-plugin-remove-fingerprints",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 906
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.44,
+    "S_code": 0.88,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "typescript-error-reporter-action",
+    "full_name": "quantizor/typescript-error-reporter-action",
+    "html_url": "https://github.com/quantizor/typescript-error-reporter-action",
+    "description": "GitHub Action to diagnose TypeScript errors and report the result on PR.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 1591915,
+      "JavaScript": 1007
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 791.79,
+    "S_code": 1555.59,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "github-actions-for-packages",
+    "full_name": "quantizor/github-actions-for-packages",
+    "html_url": "https://github.com/quantizor/github-actions-for-packages",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6064,
+      "HTML": 1518,
+      "CSS": 588,
+      "Dockerfile": 81
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 34.03,
+    "S_code": 8.06,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "yup",
+    "full_name": "quantizor/yup",
+    "html_url": "https://github.com/quantizor/yup",
+    "description": "Dead simple Object schema validation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 148066
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 72.3,
+    "S_code": 144.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "github-action",
+    "full_name": "quantizor/github-action",
+    "html_url": "https://github.com/quantizor/github-action",
+    "description": "GitHub Action for running Cypress end-to-end tests",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 17538
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.56,
+    "S_code": 17.13,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gatsby-plugin-webpack-bundle-analyser-v2",
+    "full_name": "quantizor/gatsby-plugin-webpack-bundle-analyser-v2",
+    "html_url": "https://github.com/quantizor/gatsby-plugin-webpack-bundle-analyser-v2",
+    "description": "Gatsby plugin with the latest version of webpack-bundle-analyser (https://github.com/webpack-contrib/webpack-bundle-analyzer) to visualize size of output files with an interactive zoomable treemap.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 557
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.27,
+    "S_code": 0.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gatsby",
+    "full_name": "quantizor/gatsby",
+    "html_url": "https://github.com/quantizor/gatsby",
+    "description": "Build blazing fast, modern apps and websites with React",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4263232,
+      "TypeScript": 1150907,
+      "CSS": 100806,
+      "HTML": 62813,
+      "Shell": 6818,
+      "Handlebars": 2206,
+      "Dockerfile": 1095,
+      "Python": 281,
+      "Vim Snippet": 89
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2728.64,
+    "S_code": 5457.27,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "arr",
+    "full_name": "quantizor/arr",
+    "html_url": "https://github.com/quantizor/arr",
+    "description": "A collection of tiny, highly performant Array.prototype alternatives",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 25310
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.36,
+    "S_code": 24.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-query",
+    "full_name": "quantizor/react-query",
+    "html_url": "https://github.com/quantizor/react-query",
+    "description": "⚛️ Hooks for fetching, caching and updating asynchronous data in React",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 180740,
+      "JavaScript": 2532
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 89.49,
+    "S_code": 178.98,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "netlify-plugin-cypress",
+    "full_name": "quantizor/netlify-plugin-cypress",
+    "html_url": "https://github.com/quantizor/netlify-plugin-cypress",
+    "description": "Runs Cypress end-to-end tests after Netlify builds the site but before it is deployed",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8062,
+      "HTML": 50
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.96,
+    "S_code": 7.92,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "TypeScript",
+    "full_name": "quantizor/TypeScript",
+    "html_url": "https://github.com/quantizor/TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 96637462,
+      "Dockerfile": 4296,
+      "PowerShell": 2855,
+      "JavaScript": 175,
+      "Shell": 47
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 47189.86,
+    "S_code": 94379.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-spring",
+    "full_name": "quantizor/react-spring",
+    "html_url": "https://github.com/quantizor/react-spring",
+    "description": "✌️ A spring physics based React animation library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 107802,
+      "TypeScript": 88794
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 95.99,
+    "S_code": 191.99,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "moment-range",
+    "full_name": "quantizor/moment-range",
+    "html_url": "https://github.com/quantizor/moment-range",
+    "description": "Fancy date ranges for Moment.js",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 66356,
+      "TypeScript": 5015
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 34.85,
+    "S_code": 69.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "chakra-ui",
+    "full_name": "quantizor/chakra-ui",
+    "html_url": "https://github.com/quantizor/chakra-ui",
+    "description": "⚡️Simple, Modular & Accessible UI Components for your React Applications",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 404003
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 197.27,
+    "S_code": 394.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "azure-functions-extension-bundles",
+    "full_name": "quantizor/azure-functions-extension-bundles",
+    "html_url": "https://github.com/quantizor/azure-functions-extension-bundles",
+    "description": "Azure Functions Extension Bundles",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 47927
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.4,
+    "S_code": 46.8,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "DefinitelyTyped",
+    "full_name": "quantizor/DefinitelyTyped",
+    "html_url": "https://github.com/quantizor/DefinitelyTyped",
+    "description": "The repository for high quality TypeScript type definitions.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 24848725,
+      "JavaScript": 1193,
+      "Shell": 353
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12133.92,
+    "S_code": 24267.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "quantizor/dotfiles",
+    "html_url": "https://github.com/quantizor/dotfiles",
+    "description": "📂 my various config files",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 1524
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.74,
+    "S_code": 1.49,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "emotion",
+    "full_name": "quantizor/emotion",
+    "html_url": "https://github.com/quantizor/emotion",
+    "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 550795,
+      "TypeScript": 27557,
+      "HTML": 2079
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 353.41,
+    "S_code": 566.83,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "SVG-Loaders",
+    "full_name": "quantizor/SVG-Loaders",
+    "html_url": "https://github.com/quantizor/SVG-Loaders",
+    "description": "Loading icons and small animations built with pure SVG.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 5389
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.63,
+    "S_code": 5.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "next-site",
+    "full_name": "quantizor/next-site",
+    "html_url": "https://github.com/quantizor/next-site",
+    "description": "The official website for Next.js",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 617105,
+      "HTML": 54
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 301.35,
+    "S_code": 602.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jest",
+    "full_name": "quantizor/jest",
+    "html_url": "https://github.com/quantizor/jest",
+    "description": "Painless JavaScript Unit Testing built on top of the Jasmine test framework.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 5515705,
+      "TypeScript": 1882423,
+      "CSS": 13066,
+      "Shell": 1629
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3623.54,
+    "S_code": 7239.08,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "preact-compat",
+    "full_name": "quantizor/preact-compat",
+    "html_url": "https://github.com/quantizor/preact-compat",
+    "description": ":raised_hands: React compatibility layer for Preact.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 52114
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 25.45,
+    "S_code": 50.89,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-tiny-popover",
+    "full_name": "quantizor/react-tiny-popover",
+    "html_url": "https://github.com/quantizor/react-tiny-popover",
+    "description": "A simple and highly customizable popover react higher order component with no other dependencies! Typescript friendly.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 17355,
+      "JavaScript": 917
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.92,
+    "S_code": 17.84,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "google-maps-react",
+    "full_name": "quantizor/google-maps-react",
+    "html_url": "https://github.com/quantizor/google-maps-react",
+    "description": "Companion code to the \"How to Write a Google Maps React Component\" Tutorial",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 50963,
+      "Shell": 267,
+      "Makefile": 254
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 25.14,
+    "S_code": 50.28,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bundlesize",
+    "full_name": "quantizor/bundlesize",
+    "html_url": "https://github.com/quantizor/bundlesize",
+    "description": "Keep your bundle size in check",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 17680,
+      "HTML": 2820,
+      "CSS": 1386
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 20.69,
+    "S_code": 21.37,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "reactjs.org",
+    "full_name": "quantizor/reactjs.org",
+    "html_url": "https://github.com/quantizor/reactjs.org",
+    "description": "The React documentation website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 139410,
+      "CSS": 17121,
+      "HTML": 1237
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 77.04,
+    "S_code": 154.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react",
+    "full_name": "quantizor/react",
+    "html_url": "https://github.com/quantizor/react",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2569153,
+      "HTML": 47771,
+      "C++": 44278,
+      "TypeScript": 20252,
+      "CoffeeScript": 16077,
+      "CSS": 14057,
+      "Shell": 6286,
+      "C": 5225,
+      "Python": 259,
+      "Makefile": 189
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1329.86,
+    "S_code": 2659.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "javascript-client",
+    "full_name": "quantizor/javascript-client",
+    "html_url": "https://github.com/quantizor/javascript-client",
+    "description": "NodeJS and Browser SDK client for Split Software",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 619574,
+      "TypeScript": 12598,
+      "Shell": 4181
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 310.72,
+    "S_code": 621.44,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "babel-plugin-annotate-pure-calls",
+    "full_name": "quantizor/babel-plugin-annotate-pure-calls",
+    "html_url": "https://github.com/quantizor/babel-plugin-annotate-pure-calls",
+    "description": "This plugins helps with annotating top level functions calls with #__PURE__ comment.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2727
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.33,
+    "S_code": 2.66,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rainbow",
+    "full_name": "quantizor/rainbow",
+    "html_url": "https://github.com/quantizor/rainbow",
+    "description": "Simple syntax highlighting library written in javascript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 216699,
+      "CSS": 22185,
+      "HTML": 2524
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 117.88,
+    "S_code": 235.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "filter-transient-props",
+    "full_name": "quantizor/filter-transient-props",
+    "html_url": "https://github.com/quantizor/filter-transient-props",
+    "description": "⌦ Remove props marked as transient ($ prefix.)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "react-devtools",
+    "full_name": "quantizor/react-devtools",
+    "html_url": "https://github.com/quantizor/react-devtools",
+    "description": "An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 626321,
+      "HTML": 14497,
+      "Makefile": 261,
+      "Shell": 249
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 313.15,
+    "S_code": 626.3,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-router",
+    "full_name": "quantizor/react-router",
+    "html_url": "https://github.com/quantizor/react-router",
+    "description": "Declarative routing for React",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 193670,
+      "Objective-C": 4810,
+      "CSS": 3883,
+      "HTML": 1985,
+      "Python": 1659,
+      "Java": 1420,
+      "Shell": 511
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 101.53,
+    "S_code": 203.06,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fonts",
+    "full_name": "quantizor/fonts",
+    "html_url": "https://github.com/quantizor/fonts",
+    "description": "Font files available from Google Fonts",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "HTML": 642821
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 317.88,
+    "S_code": 627.75,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "next.js",
+    "full_name": "quantizor/next.js",
+    "html_url": "https://github.com/quantizor/next.js",
+    "description": "Next.js is a lightweight framework for static and server‑rendered applications.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 390231,
+      "TypeScript": 481,
+      "CSS": 90
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 190.82,
+    "S_code": 381.64,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "spectrum",
+    "full_name": "quantizor/spectrum",
+    "html_url": "https://github.com/quantizor/spectrum",
+    "description": "Simple, powerful online communities.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4015702,
+      "HTML": 287577,
+      "CSS": 9143
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2105.67,
+    "S_code": 4211.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "styled-components",
+    "full_name": "quantizor/styled-components",
+    "html_url": "https://github.com/quantizor/styled-components",
+    "description": "Visual primitives for the component age 💅",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 258334,
+      "TypeScript": 33485,
+      "HTML": 4180
+    },
+    "contributions_by_user": 96,
+    "contribution_score": 1104.53,
+    "S_code": 289.06,
+    "S_social": 0,
+    "S_maint": 96
+  },
+  {
+    "name": "blog_robinwieruch_content",
+    "full_name": "quantizor/blog_robinwieruch_content",
+    "html_url": "https://github.com/quantizor/blog_robinwieruch_content",
+    "description": "✏️ Content of robinwieruch.de - Write guest blog posts or improve the content. Your help means a lot to me.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "router-challenge",
+    "full_name": "quantizor/router-challenge",
+    "html_url": "https://github.com/quantizor/router-challenge",
+    "description": "This Challenge is to Routers what TodoMVC is to MV* frameworks",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 2877
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.4,
+    "S_code": 2.81,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rfcs",
+    "full_name": "quantizor/rfcs",
+    "html_url": "https://github.com/quantizor/rfcs",
+    "description": "RFCs for changes to React",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dns.js.org",
+    "full_name": "quantizor/dns.js.org",
+    "html_url": "https://github.com/quantizor/dns.js.org",
+    "description": "Providing nice and free domains for GitHub Pages since 2015",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 51926
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 25.35,
+    "S_code": 50.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "webpack.js.org",
+    "full_name": "quantizor/webpack.js.org",
+    "html_url": "https://github.com/quantizor/webpack.js.org",
+    "description": "New repository for webpack documentation and more!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 94862,
+      "CSS": 31847,
+      "Shell": 2550,
+      "HTML": 1595
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 63.89,
+    "S_code": 127.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "webpack",
+    "full_name": "quantizor/webpack",
+    "html_url": "https://github.com/quantizor/webpack",
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through \"loaders,\" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1646748,
+      "CSS": 3601,
+      "CoffeeScript": 1365,
+      "HTML": 1296,
+      "WebAssembly": 219
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 807.24,
+    "S_code": 1614.48,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "enhanced-resolve",
+    "full_name": "quantizor/enhanced-resolve",
+    "html_url": "https://github.com/quantizor/enhanced-resolve",
+    "description": "Offers an async require.resolve function. It's highly configurable.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 120158
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 58.67,
+    "S_code": 117.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "babel-plugin-styled-components",
+    "full_name": "quantizor/babel-plugin-styled-components",
+    "html_url": "https://github.com/quantizor/babel-plugin-styled-components",
+    "description": "Improve the debugging experience and add server-side rendering support to styled-components",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 29146
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 64.23,
+    "S_code": 28.46,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "bundler-performance-benchmark",
+    "full_name": "quantizor/bundler-performance-benchmark",
+    "html_url": "https://github.com/quantizor/bundler-performance-benchmark",
+    "description": "This is a super tiny example of a transparent comparison between parcel and webpack and anyone else who wants to be involved. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 480
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.23,
+    "S_code": 0.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "html-webpack-plugin",
+    "full_name": "quantizor/html-webpack-plugin",
+    "html_url": "https://github.com/quantizor/html-webpack-plugin",
+    "description": "Simplifies creation of HTML files to serve your webpack bundles",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 89093,
+      "HTML": 153
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 43.58,
+    "S_code": 87.15,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "CSS-IN-JS-Benchmarks",
+    "full_name": "quantizor/CSS-IN-JS-Benchmarks",
+    "html_url": "https://github.com/quantizor/CSS-IN-JS-Benchmarks",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 37190,
+      "HTML": 7488,
+      "CSS": 628
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22.12,
+    "S_code": 44.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "preact-perf",
+    "full_name": "quantizor/preact-perf",
+    "html_url": "https://github.com/quantizor/preact-perf",
+    "description": "Performance benchmarks for http://git.io/preact et al.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 329665,
+      "HTML": 159051,
+      "CSS": 29244,
+      "Elm": 8060,
+      "Clojure": 1116
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 257.39,
+    "S_code": 514.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rollup-plugin-prepack",
+    "full_name": "quantizor/rollup-plugin-prepack",
+    "html_url": "https://github.com/quantizor/rollup-plugin-prepack",
+    "description": "Rollup plugin for Facebook Prepack - https://prepack.io",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2247
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.1,
+    "S_code": 2.19,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nanoclone",
+    "full_name": "quantizor/nanoclone",
+    "html_url": "https://github.com/quantizor/nanoclone",
+    "description": "145B to deep clone JavaScript objects",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1923
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.94,
+    "S_code": 1.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "grommet",
+    "full_name": "quantizor/grommet",
+    "html_url": "https://github.com/quantizor/grommet",
+    "description": "Focus on the essential experience",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1803487,
+      "CSS": 293573
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1023.96,
+    "S_code": 2047.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-styleguidist",
+    "full_name": "quantizor/react-styleguidist",
+    "html_url": "https://github.com/quantizor/react-styleguidist",
+    "description": "Isolated React component development environment with a living style guide",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 285792,
+      "HTML": 240
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 139.66,
+    "S_code": 279.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "theming",
+    "full_name": "quantizor/theming",
+    "html_url": "https://github.com/quantizor/theming",
+    "description": "Unified CSSinJS theming solution for React",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 30848
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.06,
+    "S_code": 30.12,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jest-serializer-html",
+    "full_name": "quantizor/jest-serializer-html",
+    "html_url": "https://github.com/quantizor/jest-serializer-html",
+    "description": "Jest snapshot serializer that beautifies HTML.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2815,
+      "Shell": 2071
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.39,
+    "S_code": 4.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "benchmark",
+    "full_name": "quantizor/benchmark",
+    "html_url": "https://github.com/quantizor/benchmark",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 12154
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 95.93,
+    "S_code": 11.87,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "prop-types",
+    "full_name": "quantizor/prop-types",
+    "html_url": "https://github.com/quantizor/prop-types",
+    "description": "Runtime type checking for React props and similar objects",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 135967
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 66.39,
+    "S_code": 132.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "source-list-map",
+    "full_name": "quantizor/source-list-map",
+    "html_url": "https://github.com/quantizor/source-list-map",
+    "description": "Fast line to line SourceMap generator.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 27257
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.31,
+    "S_code": 26.62,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "remark",
+    "full_name": "quantizor/remark",
+    "html_url": "https://github.com/quantizor/remark",
+    "description": "Markdown processor powered by plugins",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 195012
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 95.22,
+    "S_code": 190.44,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fbjs",
+    "full_name": "quantizor/fbjs",
+    "html_url": "https://github.com/quantizor/fbjs",
+    "description": "A collection of utility libraries used by other Facebook JS projects.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 485291
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 236.96,
+    "S_code": 473.92,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sample_repo_a",
+    "full_name": "quantizor/sample_repo_a",
+    "html_url": "https://github.com/quantizor/sample_repo_a",
+    "description": "to illustrate an npm bug around transitive dependencies that expose a CLI",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "sample_repo_b",
+    "full_name": "quantizor/sample_repo_b",
+    "html_url": "https://github.com/quantizor/sample_repo_b",
+    "description": "to illustrate an npm bug around transitive dependencies that expose a CLI",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "dungeon-tools",
+    "full_name": "quantizor/dungeon-tools",
+    "html_url": "https://github.com/quantizor/dungeon-tools",
+    "description": "🏹 autogenerate a dungeon spec based on 5e rules",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9363
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.57,
+    "S_code": 9.14,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "deproptypeify",
+    "full_name": "quantizor/deproptypeify",
+    "html_url": "https://github.com/quantizor/deproptypeify",
+    "description": ":scissors: searches for <componentName>.propTypes and removes the block",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 818
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.4,
+    "S_code": 0.8,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "prism-themes",
+    "full_name": "quantizor/prism-themes",
+    "html_url": "https://github.com/quantizor/prism-themes",
+    "description": "A wider selection of Prism themes",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 43017
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 21.0,
+    "S_code": 42.01,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lerna",
+    "full_name": "quantizor/lerna",
+    "html_url": "https://github.com/quantizor/lerna",
+    "description": ":dragon: A tool for managing JavaScript projects with multiple packages.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 187938
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 91.77,
+    "S_code": 183.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rollup",
+    "full_name": "quantizor/rollup",
+    "html_url": "https://github.com/quantizor/rollup",
+    "description": "Next-generation ES6 module bundler",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 439677
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 214.69,
+    "S_code": 429.37,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pretty-format",
+    "full_name": "quantizor/pretty-format",
+    "html_url": "https://github.com/quantizor/pretty-format",
+    "description": ":sparkles: Stringify any JavaScript value",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 39723
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.4,
+    "S_code": 38.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "babel-plugin-react-docgen",
+    "full_name": "quantizor/babel-plugin-react-docgen",
+    "html_url": "https://github.com/quantizor/babel-plugin-react-docgen",
+    "description": "Babel plugin to add react-docgen info into your code.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9631
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.7,
+    "S_code": 9.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jsdom",
+    "full_name": "quantizor/jsdom",
+    "html_url": "https://github.com/quantizor/jsdom",
+    "description": "A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3471509,
+      "HTML": 351288,
+      "Groff": 253386,
+      "PHP": 911,
+      "CSS": 47
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1990.79,
+    "S_code": 3981.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "browserify-resolutions",
+    "full_name": "quantizor/browserify-resolutions",
+    "html_url": "https://github.com/quantizor/browserify-resolutions",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 23602
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.52,
+    "S_code": 23.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jsdoc-babel",
+    "full_name": "quantizor/jsdoc-babel",
+    "html_url": "https://github.com/quantizor/jsdoc-babel",
+    "description": "A JSDoc plugin that transforms ES6 source files with Babel before they are processsed",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 738
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.36,
+    "S_code": 0.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "node-browserify",
+    "full_name": "quantizor/node-browserify",
+    "html_url": "https://github.com/quantizor/node-browserify",
+    "description": "browser-side require() the node.js way",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 165209,
+      "HTML": 340,
+      "Shell": 303,
+      "CoffeeScript": 112
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 81.04,
+    "S_code": 162.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "web-platform-tests",
+    "full_name": "quantizor/web-platform-tests",
+    "html_url": "https://github.com/quantizor/web-platform-tests",
+    "description": "Test Suites for Web Platform specifications—including WHATWG, W3C and others",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 19352911,
+      "JavaScript": 4398876,
+      "GLSL": 2170875,
+      "Python": 330655,
+      "CSS": 15750,
+      "Haxe": 3707,
+      "Makefile": 1541,
+      "Ruby": 1476,
+      "Shell": 1449,
+      "ApacheConf": 396
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12830.88,
+    "S_code": 25661.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "html",
+    "full_name": "quantizor/html",
+    "html_url": "https://github.com/quantizor/html",
+    "description": "HTML Standard",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 27321,
+      "JavaScript": 8736,
+      "ApacheConf": 3211,
+      "CSS": 48
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.2,
+    "S_code": 38.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "node-globule",
+    "full_name": "quantizor/node-globule",
+    "html_url": "https://github.com/quantizor/node-globule",
+    "description": "An easy-to-use wildcard globbing library.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 29637
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.47,
+    "S_code": 28.94,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pleeease-cli",
+    "full_name": "quantizor/pleeease-cli",
+    "html_url": "https://github.com/quantizor/pleeease-cli",
+    "description": "CLI package for Pleeease",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 21707,
+      "CSS": 71
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.63,
+    "S_code": 21.27,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "brfs",
+    "full_name": "quantizor/brfs",
+    "html_url": "https://github.com/quantizor/brfs",
+    "description": "browserify fs.readFileSync() static asset inliner",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 20810,
+      "HTML": 57
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.19,
+    "S_code": 20.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "grunt-legacy-log",
+    "full_name": "quantizor/grunt-legacy-log",
+    "html_url": "https://github.com/quantizor/grunt-legacy-log",
+    "description": "The Grunt 0.4.x logger.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 28002
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.67,
+    "S_code": 27.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nodei.co",
+    "full_name": "quantizor/nodei.co",
+    "html_url": "https://github.com/quantizor/nodei.co",
+    "description": " nodei.co - Node.js badges, that's all",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 162725,
+      "HTML": 12777,
+      "CSS": 2015,
+      "Shell": 344
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 86.85,
+    "S_code": 173.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-input-placeholder",
+    "full_name": "quantizor/react-input-placeholder",
+    "html_url": "https://github.com/quantizor/react-input-placeholder",
+    "description": "Input is a small wrapper around React.DOM.input that shims in placeholder functionality for browsers that don't natively support it.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1923
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.94,
+    "S_code": 1.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "markie",
+    "full_name": "quantizor/markie",
+    "html_url": "https://github.com/quantizor/markie",
+    "description": "✏️ markdown directive for Angular 1.x",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 540
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.26,
+    "S_code": 0.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Gentle-Object-Transformer",
+    "full_name": "quantizor/Gentle-Object-Transformer",
+    "html_url": "https://github.com/quantizor/Gentle-Object-Transformer",
+    "description": "🤗 deep recursive transformation: make A into B while preserving the original object reference",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3044
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.49,
+    "S_code": 2.97,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "floater",
+    "full_name": "quantizor/floater",
+    "html_url": "https://github.com/quantizor/floater",
+    "description": "🕴 floating box directive for Angular 1.x",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1008
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.49,
+    "S_code": 0.98,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "safeStorage",
+    "full_name": "quantizor/safeStorage",
+    "html_url": "https://github.com/quantizor/safeStorage",
+    "description": "🚩 avoid DOM 22 exception when persisting to localStorage or sessionStorage in Private Browsing mode",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 953
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.47,
+    "S_code": 0.93,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "angular-backgroundSizer",
+    "full_name": "quantizor/angular-backgroundSizer",
+    "html_url": "https://github.com/quantizor/angular-backgroundSizer",
+    "description": "💗 angular 1 directive to automatically apply background sizing once an image is loaded",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "name": "jonasnick/taproot-ringsig",
+    "stars": 57,
+    "description": "proof of concept that creates a ring signature over all taproot outputs in the UTXO set",
+    "languages_breakdown": {
+      "C": 9650,
+      "Nix": 871,
+      "Makefile": 110
+    },
+    "files": {
+      "README.md": "# taproot-ringsig\n\nThis is a proof of concept that creates a ring signature over all taproot outputs in the UTXO set. The inputs of the signing algorithm are the output of bitcoind's `dumptxoutset`, a message and  a secret key corresponding to at least one of the taproot outputs. It uses *Borromean Ring Signatures* as implemented in [libsecp256k1-zkp](https://github.com/ElementsProject/secp256k1-zkp/pull/110).\n\nIt would be interesting to explore if this scheme can be more than a [\"Bragging Rights Signature\"](https://gist.github.com/AdamISZ/52aa2e4e48240dfbadebb316507d0749#bragging-rights-ring-signature). In any case, similar constructions can be used to implement Fidelity Bonds or [Stake Certificates](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-November/002884.html).\n\n## Example\n\n```\ntaproot-ringsig keygen\npubkey: 027A61C588FD357D8ED58F624FA7F97A651D1AC00B53B055E9B852507DD319A3D4\n```\n\n```\ntaproot-ringsig sign ./bitcoindir/signet/utxos.dat $(printf \"@n1ckler was here\" | sha256sum | awk '{ print $1 }')\n\nUTXO dump for block 00000019d7cff09e9e516ce7c3cbfa8c83f72c248264f1c4588f4dad8c4be18c contains\n5 unspent taproot outputs with more than 5000 sats:\n[28f3ec8baac348afb43708003393d2bfc372580ef6ac090d7f923b3c2ed6d9e3, 7a61c588fd357d8ed58f624fa7f97a651d1ac00b53b055e9b852507dd319a3d4, acd385f4c428f2ce97644de474a579a77435f40b6161d1c1875f48f2626fccde, 70271d98a521d0e4102ebdbc40f3e553666fb5b85c8c3d2709138568c6c90b23, 28f3ec8baac348afb43708003393d2bfc372580ef6ac090d7f923b3c2ed6d9e3]\n\nSignature:\n3a08498a05e32bc614fadf02441ac038f550d5f2c2004491982e0d7ed2abfaffc4b2e863b510c3b0ad9968c96dc8b58ee4dc65b8319fd92f6d7e6e5725c3a802b3215ebf2b914e2545f6f962a784091fbdb163887d17aa0689a3310d13fe448830868c4b845e53c2679eb373cae7da904992c71a16f5d74a516faee5c34f578a78e61fba341c1856748760426eeb95524f04da01b00bb6f9ff6e0df65d7ccdf17d0b7142c29303b1bf305745168f77592605e3da2e46538966f8edc20969ffba\n```\n\n```\ntaproot-ringsig verify ./bitcoindir/signet/utxos.dat 3a08498a05e32bc614fadf02441ac038f550d5f2c2004491982e0d7ed2abfaffc4b2e863b510c3b0ad9968c96dc8b58ee4dc65b8319fd92f6d7e6e5725c3a802b3215ebf2b914e2545f6f962a784091fbdb163887d17aa0689a3310d13fe448830868c4b845e53c2679eb373cae7da904992c71a16f5d74a516faee5c34f578a78e61fba341c1856748760426eeb95524f04da01b00bb6f9ff6e0df65d7ccdf17d0b7142c29303b1bf305745168f77592605e3da2e46538966f8edc20969ffba $(printf \"@n1ckler was here\" | sha256sum | awk '{ print $1 }')\n\nUTXO dump for block 00000019d7cff09e9e516ce7c3cbfa8c83f72c248264f1c4588f4dad8c4be18c contains\n5 unspent taproot outputs with more than 5000 sats:\n[28f3ec8baac348afb43708003393d2bfc372580ef6ac090d7f923b3c2ed6d9e3, 7a61c588fd357d8ed58f624fa7f97a651d1ac00b53b055e9b852507dd319a3d4, acd385f4c428f2ce97644de474a579a77435f40b6161d1c1875f48f2626fccde, 70271d98a521d0e4102ebdbc40f3e553666fb5b85c8c3d2709138568c6c90b23, 28f3ec8baac348afb43708003393d2bfc372580ef6ac090d7f923b3c2ed6d9e3]\n\nVerifying ring signature for public keys and message...ok!\n```\n\n## Building\n\nThe easiest way is to in\n... (truncated)"
+    }
+  },
+  {
+    "name": "jonasnick/ecdsaPredictableNonce",
+    "stars": 32,
+    "description": "Ethereum Bug Bounty Submission: Breaking ecdsa that uses `privKey xor message` as nonce.",
+    "languages_breakdown": {
+      "Go": 6410,
+      "TeX": 1737,
+      "Makefile": 77
+    },
+    "files": {
+      "README.md": "# Ethereum Bug Bounty Submission: Predictable ECDSA Nonce\nBreaks an ecdsa implementation that uses `privKey xor message` as nonce. Recovering the full private key requires 256 signatures.\nIn other words, every signature leaks 1 bit. \nA detailed explanation of the attack can be found in the\n[explanation.pdf](https://github.com/jonasnick/ecdsaPredictableNonce/raw/master/explanation/explanation.pdf).\n\n`main.go` is the implementation of an attack specifically against a vulnerable version of [github.com/obscuren/secp256k1-go](https://github.com/obscuren/secp256k1-go) and thus also against [go-ethereum](https://github.com/ethereum/go-ethereum) .\nIt takes roughly 11 minutes for my 3.0Ghz processor to solve the system.\nThe obvious fix is to use the operating system's PRNG to generate the nonce just like the [original project by haltingstate](https://github.com/haltingstate/secp256k1-go).\n\nCaveat\n---\nIn its current form, this attack does not directly work against github.com/obscuren/secp256k1-go package.\nThe reason for this is that in order to prevent `s`-malleability, libsecp256k1 enforces an `s` that is smaller than `curve_order/2`.\nIf libsecp256k1 computes an `s` that is bigger it is negated, which essentially has the effect that the message is signed using the negative of the original nonce.\nBecause this attack gets only 1 bit from each signature generated from the textbook algorithm and we don't know if `nonce` or `-nonce` has been used, the attacker looses 1 bit and thus learns nothing.\nSee [this line] (https://github.com/jonasnick/ecdsaPredictableNonce/blob/master/main.go#L215) for the cheat that is used in order to ensure using the non-negated nonce.\n\nThanks to [Pieter Wuille](https://github.com/sipa) for some helpful discussion.\n"
+    }
+  },
+  {
+    "name": "jonasnick/A-star",
+    "stars": 23,
+    "description": "Straightforward A* implementation in Java",
+    "languages_breakdown": {
+      "Java": 22716
+    },
+    "files": {
+      "README.md": "usage: \nextend the ASearchNode class and implement IGoalNode interface \n```java\nISearchNode AStar.search(ISearchNode initialNode, IGoalNode goalNode)\n```\n"
+    }
+  }
+]

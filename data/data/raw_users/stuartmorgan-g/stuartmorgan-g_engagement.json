@@ -1,0 +1,14 @@
+{
+  "username": "stuartmorgan-g",
+  "raw_metrics": {
+    "accepted_external_prs": 0,
+    "created_issues": 0,
+    "merged_external_pr_count_approx": 0,
+    "issue_comment_count": 24,
+    "pr_review_comment_count": 27,
+    "events_fetched": 99,
+    "merged_prs_with_stars": [],
+    "total_closed_external_prs": 3
+  },
+  "engagement_score_100": 8.28
+}

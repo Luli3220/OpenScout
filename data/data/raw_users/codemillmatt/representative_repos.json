@@ -1,0 +1,3849 @@
+[
+  {
+    "name": "deepseek-dotnet",
+    "full_name": "codemillmatt/deepseek-dotnet",
+    "html_url": "https://github.com/codemillmatt/deepseek-dotnet",
+    "description": "Example of getting started with DeepSeek models in .NET",
+    "stars": 73,
+    "forks": 36,
+    "languages": {
+      "C#": 3047
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 441.49,
+    "S_code": 2.98,
+    "S_social": 145,
+    "S_maint": 15
+  },
+  {
+    "name": "xamarin-101",
+    "full_name": "codemillmatt/xamarin-101",
+    "html_url": "https://github.com/codemillmatt/xamarin-101",
+    "description": "XAML based demos for Xamarin 101 series",
+    "stars": 42,
+    "forks": 26,
+    "languages": {
+      "C#": 53050
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 393.9,
+    "S_code": 51.81,
+    "S_social": 94,
+    "S_maint": 18
+  },
+  {
+    "name": "awesome-copilot-example",
+    "full_name": "codemillmatt/awesome-copilot-example",
+    "html_url": "https://github.com/codemillmatt/awesome-copilot-example",
+    "description": "Follow along example repo showing how custom instructions, prompts, and chat modes work!",
+    "stars": 35,
+    "forks": 12,
+    "languages": {
+      "TypeScript": 25464,
+      "Dockerfile": 1044,
+      "CSS": 488,
+      "JavaScript": 81
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 311.22,
+    "S_code": 26.44,
+    "S_social": 59,
+    "S_maint": 18
+  },
+  {
+    "name": "santa-talk",
+    "full_name": "codemillmatt/santa-talk",
+    "html_url": "https://github.com/codemillmatt/santa-talk",
+    "description": "An Intelligent Serverless Xamarin App Challenge",
+    "stars": 24,
+    "forks": 40,
+    "languages": {
+      "C#": 23336
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 289.39,
+    "S_code": 22.79,
+    "S_social": 104,
+    "S_maint": 7
+  },
+  {
+    "name": "beginner-dotnet-on-azure",
+    "full_name": "codemillmatt/beginner-dotnet-on-azure",
+    "html_url": "https://github.com/codemillmatt/beginner-dotnet-on-azure",
+    "description": "Samples and demos that go along with the Beginner's Series to .NET on Azure",
+    "stars": 23,
+    "forks": 40,
+    "languages": {
+      "C#": 110484,
+      "HTML": 108765,
+      "CSS": 42392,
+      "Dockerfile": 3440
+    },
+    "contributions_by_user": 35,
+    "contribution_score": 685.43,
+    "S_code": 258.87,
+    "S_social": 103,
+    "S_maint": 35
+  },
+  {
+    "name": "codemill.vmfirstnav",
+    "full_name": "codemillmatt/codemill.vmfirstnav",
+    "html_url": "https://github.com/codemillmatt/codemill.vmfirstnav",
+    "description": "Xamarin.Forms ViewModel First Navigation Library",
+    "stars": 22,
+    "forks": 5,
+    "languages": {
+      "C#": 37005,
+      "PowerShell": 7273
+    },
+    "contributions_by_user": 33,
+    "contribution_score": 415.62,
+    "S_code": 43.24,
+    "S_social": 32,
+    "S_maint": 33
+  },
+  {
+    "name": "xamarin-u-aadb2c",
+    "full_name": "codemillmatt/xamarin-u-aadb2c",
+    "html_url": "https://github.com/codemillmatt/xamarin-u-aadb2c",
+    "description": "Azure Active Directory B2C Crash Course - Xamarin University Guest Lecture",
+    "stars": 21,
+    "forks": 2,
+    "languages": {},
+    "contributions_by_user": 12,
+    "contribution_score": 170.0,
+    "S_code": 0.0,
+    "S_social": 25,
+    "S_maint": 12
+  },
+  {
+    "name": "XamFormsVMNav",
+    "full_name": "codemillmatt/XamFormsVMNav",
+    "html_url": "https://github.com/codemillmatt/XamFormsVMNav",
+    "description": "Xamarin Forms ViewModel First Navigation",
+    "stars": 21,
+    "forks": 3,
+    "languages": {
+      "C#": 26085
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 206.74,
+    "S_code": 25.47,
+    "S_social": 27,
+    "S_maint": 14
+  },
+  {
+    "name": "xam-forms-ez-print",
+    "full_name": "codemillmatt/xam-forms-ez-print",
+    "html_url": "https://github.com/codemillmatt/xam-forms-ez-print",
+    "description": "Example of how easy printing can be with Xamarin.Forms",
+    "stars": 19,
+    "forks": 5,
+    "languages": {
+      "C#": 19080
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 147.32,
+    "S_code": 18.63,
+    "S_social": 29,
+    "S_maint": 8
+  },
+  {
+    "name": "forms-ad-b2c",
+    "full_name": "codemillmatt/forms-ad-b2c",
+    "html_url": "https://github.com/codemillmatt/forms-ad-b2c",
+    "description": "Demonstration repo for all things Xamarin.Forms and AD B2C related",
+    "stars": 17,
+    "forks": 23,
+    "languages": {
+      "C#": 104808,
+      "CSS": 43719,
+      "HTML": 17094
+    },
+    "contributions_by_user": 58,
+    "contribution_score": 786.87,
+    "S_code": 161.74,
+    "S_social": 63,
+    "S_maint": 58
+  },
+  {
+    "name": "partly-newsy-s1e1",
+    "full_name": "codemillmatt/partly-newsy-s1e1",
+    "html_url": "https://github.com/codemillmatt/partly-newsy-s1e1",
+    "description": "Episode 1 of the Partly Cloudy Show - Hello News!",
+    "stars": 14,
+    "forks": 3,
+    "languages": {
+      "C#": 9045
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 94.42,
+    "S_code": 8.83,
+    "S_social": 20,
+    "S_maint": 5
+  },
+  {
+    "name": "dotnetconfpizza",
+    "full_name": "codemillmatt/dotnetconfpizza",
+    "html_url": "https://github.com/codemillmatt/dotnetconfpizza",
+    "description": "Blazor Pizza App and Azure for .NET Conf",
+    "stars": 14,
+    "forks": 11,
+    "languages": {
+      "Bicep": 78433,
+      "C#": 19776,
+      "HTML": 9531,
+      "CSS": 5280,
+      "Dockerfile": 2694
+    },
+    "contributions_by_user": 37,
+    "contribution_score": 498.5,
+    "S_code": 113.0,
+    "S_social": 36,
+    "S_maint": 37
+  },
+  {
+    "name": "quarantine-bingo",
+    "full_name": "codemillmatt/quarantine-bingo",
+    "html_url": "https://github.com/codemillmatt/quarantine-bingo",
+    "description": "Xamarin.Forms bingo game that plays itself",
+    "stars": 11,
+    "forks": 6,
+    "languages": {
+      "C#": 23534
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 97.49,
+    "S_code": 22.98,
+    "S_social": 23,
+    "S_maint": 4
+  },
+  {
+    "name": "xamarin-show-demos",
+    "full_name": "codemillmatt/xamarin-show-demos",
+    "html_url": "https://github.com/codemillmatt/xamarin-show-demos",
+    "description": "Demos As Seen On The Xamarin Show",
+    "stars": 10,
+    "forks": 12,
+    "languages": {
+      "C#": 63816
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 189.16,
+    "S_code": 62.32,
+    "S_social": 34,
+    "S_maint": 9
+  },
+  {
+    "name": "forms-particle",
+    "full_name": "codemillmatt/forms-particle",
+    "html_url": "https://github.com/codemillmatt/forms-particle",
+    "description": "Particle System Demo For Xam.Forms",
+    "stars": 8,
+    "forks": 1,
+    "languages": {
+      "C#": 17399
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 68.5,
+    "S_code": 16.99,
+    "S_social": 10,
+    "S_maint": 4
+  },
+  {
+    "name": "dotnet-conf-2019",
+    "full_name": "codemillmatt/dotnet-conf-2019",
+    "html_url": "https://github.com/codemillmatt/dotnet-conf-2019",
+    "description": "Build Amazing Apps with Xamarin, Azure, and App Center",
+    "stars": 7,
+    "forks": 2,
+    "languages": {
+      "C#": 36874
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 100.0,
+    "S_code": 36.01,
+    "S_social": 11,
+    "S_maint": 6
+  },
+  {
+    "name": "marketing-movie",
+    "full_name": "codemillmatt/marketing-movie",
+    "html_url": "https://github.com/codemillmatt/marketing-movie",
+    "description": "Use your free Azure credits to create a movie review app!",
+    "stars": 7,
+    "forks": 6,
+    "languages": {
+      "C#": 30082
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 102.69,
+    "S_code": 29.38,
+    "S_social": 19,
+    "S_maint": 5
+  },
+  {
+    "name": "ai-samples",
+    "full_name": "codemillmatt/ai-samples",
+    "html_url": "https://github.com/codemillmatt/ai-samples",
+    "description": null,
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "C#": 315465,
+      "Bicep": 6283,
+      "Shell": 966,
+      "PowerShell": 961
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 170.04,
+    "S_code": 316.09,
+    "S_social": 6,
+    "S_maint": 0
+  },
+  {
+    "name": "build-2019-mobile-backend",
+    "full_name": "codemillmatt/build-2019-mobile-backend",
+    "html_url": "https://github.com/codemillmatt/build-2019-mobile-backend",
+    "description": "Repository with demos to back the How to Choose a Mobile Backend talk at Build 2019",
+    "stars": 6,
+    "forks": 3,
+    "languages": {
+      "C#": 358006,
+      "Shell": 16976,
+      "JavaScript": 15480,
+      "Python": 4979,
+      "Smarty": 2138,
+      "HTML": 1157,
+      "Dockerfile": 1039
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 339.2,
+    "S_code": 390.41,
+    "S_social": 12,
+    "S_maint": 12
+  },
+  {
+    "name": "MonkeysRefresh",
+    "full_name": "codemillmatt/MonkeysRefresh",
+    "html_url": "https://github.com/codemillmatt/MonkeysRefresh",
+    "description": null,
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "C#": 54761
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 98.74,
+    "S_code": 53.48,
+    "S_social": 6,
+    "S_maint": 6
+  },
+  {
+    "name": "zumob2c",
+    "full_name": "codemillmatt/zumob2c",
+    "html_url": "https://github.com/codemillmatt/zumob2c",
+    "description": "Using Azure Mobile App Services with Azure AD B2C",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "C#": 18538
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 81.05,
+    "S_code": 18.1,
+    "S_social": 6,
+    "S_maint": 6
+  },
+  {
+    "name": "mobile-keyvault",
+    "full_name": "codemillmatt/mobile-keyvault",
+    "html_url": "https://github.com/codemillmatt/mobile-keyvault",
+    "description": "Reading Azure Keyvault from a mobile device",
+    "stars": 5,
+    "forks": 3,
+    "languages": {
+      "C#": 11289
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 187.51,
+    "S_code": 11.02,
+    "S_social": 11,
+    "S_maint": 16
+  },
+  {
+    "name": "partly-newsy-s1e6",
+    "full_name": "codemillmatt/partly-newsy-s1e6",
+    "html_url": "https://github.com/codemillmatt/partly-newsy-s1e6",
+    "description": "CollectionView All The Things!",
+    "stars": 5,
+    "forks": 3,
+    "languages": {
+      "C#": 28163
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 75.75,
+    "S_code": 27.5,
+    "S_social": 11,
+    "S_maint": 4
+  },
+  {
+    "name": "partly-newsy-s1e9",
+    "full_name": "codemillmatt/partly-newsy-s1e9",
+    "html_url": "https://github.com/codemillmatt/partly-newsy-s1e9",
+    "description": "Partly Cloudy Episode 9: Tweak It (Customizing the UI)",
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "C#": 47979
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 89.43,
+    "S_code": 46.85,
+    "S_social": 8,
+    "S_maint": 5
+  },
+  {
+    "name": "incorporate-ai-theater",
+    "full_name": "codemillmatt/incorporate-ai-theater",
+    "html_url": "https://github.com/codemillmatt/incorporate-ai-theater",
+    "description": "Sample repo showing how build a simple RAG chat application with a SLM",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "C#": 1808
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 92.88,
+    "S_code": 1.77,
+    "S_social": 6,
+    "S_maint": 8
+  },
+  {
+    "name": "PickleActionsDemo",
+    "full_name": "codemillmatt/PickleActionsDemo",
+    "html_url": "https://github.com/codemillmatt/PickleActionsDemo",
+    "description": null,
+    "stars": 4,
+    "forks": 4,
+    "languages": {
+      "C#": 17830,
+      "HTML": 15042,
+      "CSS": 5299,
+      "Dockerfile": 1720
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 93.48,
+    "S_code": 38.96,
+    "S_social": 12,
+    "S_maint": 5
+  },
+  {
+    "name": "Node-Pool",
+    "full_name": "codemillmatt/Node-Pool",
+    "html_url": "https://github.com/codemillmatt/Node-Pool",
+    "description": "Introduction to Node.js For .Net Developers",
+    "stars": 4,
+    "forks": 5,
+    "languages": {
+      "JavaScript": 28059,
+      "HTML": 3878,
+      "CSS": 2540,
+      "C#": 956
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 135.3,
+    "S_code": 34.6,
+    "S_social": 14,
+    "S_maint": 9
+  },
+  {
+    "name": "forms-animations",
+    "full_name": "codemillmatt/forms-animations",
+    "html_url": "https://github.com/codemillmatt/forms-animations",
+    "description": "Slides and code for mobile era talk",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "C#": 38096
+    },
+    "contributions_by_user": 39,
+    "contribution_score": 416.6,
+    "S_code": 37.2,
+    "S_social": 4,
+    "S_maint": 39
+  },
+  {
+    "name": "partly-newsy-s1e3",
+    "full_name": "codemillmatt/partly-newsy-s1e3",
+    "html_url": "https://github.com/codemillmatt/partly-newsy-s1e3",
+    "description": "Final episode repo for episode 3",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "C#": 12199
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 127.96,
+    "S_code": 11.91,
+    "S_social": 6,
+    "S_maint": 11
+  },
+  {
+    "name": "techsummit-stockholm-2018",
+    "full_name": "codemillmatt/techsummit-stockholm-2018",
+    "html_url": "https://github.com/codemillmatt/techsummit-stockholm-2018",
+    "description": "All demos for the Mobile Development with Xamarin Tech Summit Stockholm talk",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "C#": 131321,
+      "Shell": 578
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 106.4,
+    "S_code": 128.81,
+    "S_social": 6,
+    "S_maint": 3
+  },
+  {
+    "name": "cosmos-geospatial",
+    "full_name": "codemillmatt/cosmos-geospatial",
+    "html_url": "https://github.com/codemillmatt/cosmos-geospatial",
+    "description": "Demonstration of various geospatial capabilities of CosmosDB",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "C#": 10488
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 47.12,
+    "S_code": 10.24,
+    "S_social": 6,
+    "S_maint": 3
+  },
+  {
+    "name": "conference-talks",
+    "full_name": "codemillmatt/conference-talks",
+    "html_url": "https://github.com/codemillmatt/conference-talks",
+    "description": "Matt's repo for all conference talks",
+    "stars": 4,
+    "forks": 4,
+    "languages": {
+      "C#": 493458,
+      "JavaScript": 28059,
+      "HTML": 6532,
+      "CSS": 2540,
+      "ASP": 608
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 453.37,
+    "S_code": 518.75,
+    "S_social": 12,
+    "S_maint": 17
+  },
+  {
+    "name": "Rx-Cure",
+    "full_name": "codemillmatt/Rx-Cure",
+    "html_url": "https://github.com/codemillmatt/Rx-Cure",
+    "description": "Slides and demo code presented with the Cure What Ails You With This Rx - An Intro To The Reactive Extensions talk.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "C#": 25212
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 178.31,
+    "S_code": 24.62,
+    "S_social": 3,
+    "S_maint": 16
+  },
+  {
+    "name": "smashing-forms",
+    "full_name": "codemillmatt/smashing-forms",
+    "html_url": "https://github.com/codemillmatt/smashing-forms",
+    "description": null,
+    "stars": 3,
+    "forks": 4,
+    "languages": {
+      "C#": 12085
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 97.9,
+    "S_code": 11.8,
+    "S_social": 11,
+    "S_maint": 7
+  },
+  {
+    "name": "cosmos-permission-function",
+    "full_name": "codemillmatt/cosmos-permission-function",
+    "html_url": "https://github.com/codemillmatt/cosmos-permission-function",
+    "description": "Demo repo showing Azure Cosmos DB permissions w/ an Azure Function and Xamarin.Forms app",
+    "stars": 3,
+    "forks": 3,
+    "languages": {
+      "C#": 41850
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 108.43,
+    "S_code": 40.87,
+    "S_social": 9,
+    "S_maint": 7
+  },
+  {
+    "name": "xam-blog-mongodb",
+    "full_name": "codemillmatt/xam-blog-mongodb",
+    "html_url": "https://github.com/codemillmatt/xam-blog-mongodb",
+    "description": "Example fo using MongoDB with a Xamarin app",
+    "stars": 3,
+    "forks": 4,
+    "languages": {
+      "C#": 11267
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 47.5,
+    "S_code": 11.0,
+    "S_social": 11,
+    "S_maint": 2
+  },
+  {
+    "name": "techsummit-2018",
+    "full_name": "codemillmatt/techsummit-2018",
+    "html_url": "https://github.com/codemillmatt/techsummit-2018",
+    "description": "All demos for the Mobile Development with Xamarin Tech Summit talk",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "C#": 118692,
+      "Shell": 380
+    },
+    "contributions_by_user": 37,
+    "contribution_score": 434.14,
+    "S_code": 116.28,
+    "S_social": 3,
+    "S_maint": 37
+  },
+  {
+    "name": "forms-open-files",
+    "full_name": "codemillmatt/forms-open-files",
+    "html_url": "https://github.com/codemillmatt/forms-open-files",
+    "description": "Demo repo of how to open files from an outside app with Xamarin.Forms ",
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 1288239,
+      "Java": 554704,
+      "CSS": 46024,
+      "HTML": 19627,
+      "C#": 8297
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 989.98,
+    "S_code": 1871.96,
+    "S_social": 7,
+    "S_maint": 4
+  },
+  {
+    "name": "partly-newsy-s1e4",
+    "full_name": "codemillmatt/partly-newsy-s1e4",
+    "html_url": "https://github.com/codemillmatt/partly-newsy-s1e4",
+    "description": "Partly Cloudy Ep 4 - Who Are You? (Auth)",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "C#": 13201
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 54.45,
+    "S_code": 12.89,
+    "S_social": 4,
+    "S_maint": 4
+  },
+  {
+    "name": "partly-newsy-s1e7",
+    "full_name": "codemillmatt/partly-newsy-s1e7",
+    "html_url": "https://github.com/codemillmatt/partly-newsy-s1e7",
+    "description": "Finished repo for episode 7 - data",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "C#": 41878
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 88.45,
+    "S_code": 40.9,
+    "S_social": 4,
+    "S_maint": 6
+  },
+  {
+    "name": "ps-pwa-blazor",
+    "full_name": "codemillmatt/ps-pwa-blazor",
+    "html_url": "https://github.com/codemillmatt/ps-pwa-blazor",
+    "description": "Samples repo for PWA Blazor course",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "CSS": 15732,
+      "HTML": 14244,
+      "C#": 10324,
+      "JavaScript": 10262
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 252.69,
+    "S_code": 49.38,
+    "S_social": 4,
+    "S_maint": 22
+  },
+  {
+    "name": "generative-ai-for-beginners",
+    "full_name": "codemillmatt/generative-ai-for-beginners",
+    "html_url": "https://github.com/codemillmatt/generative-ai-for-beginners",
+    "description": "18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 381800,
+      "Python": 50053,
+      "TypeScript": 9532,
+      "JavaScript": 4379,
+      "Shell": 1880,
+      "HTML": 1166
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 223.15,
+    "S_code": 438.29,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "25days-serverless-day-5",
+    "full_name": "codemillmatt/25days-serverless-day-5",
+    "html_url": "https://github.com/codemillmatt/25days-serverless-day-5",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C#": 23333
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 75.39,
+    "S_code": 22.79,
+    "S_social": 2,
+    "S_maint": 6
+  },
+  {
+    "name": "mobile-release-mgmt",
+    "full_name": "codemillmatt/mobile-release-mgmt",
+    "html_url": "https://github.com/codemillmatt/mobile-release-mgmt",
+    "description": "Mobile release management strategies",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "C#": 32038
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 123.64,
+    "S_code": 31.29,
+    "S_social": 4,
+    "S_maint": 10
+  },
+  {
+    "name": "ignite-mobile",
+    "full_name": "codemillmatt/ignite-mobile",
+    "html_url": "https://github.com/codemillmatt/ignite-mobile",
+    "description": "New version of Tailwind Traders for Ignite Tour",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C#": 58874,
+      "Shell": 1873
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 223.66,
+    "S_code": 59.32,
+    "S_social": 2,
+    "S_maint": 19
+  },
+  {
+    "name": "maui-flight-tracker",
+    "full_name": "codemillmatt/maui-flight-tracker",
+    "html_url": "https://github.com/codemillmatt/maui-flight-tracker",
+    "description": "MAUI sample app to track flights",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C#": 12691
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 80.2,
+    "S_code": 12.39,
+    "S_social": 2,
+    "S_maint": 7
+  },
+  {
+    "name": "DevDays",
+    "full_name": "codemillmatt/DevDays",
+    "html_url": "https://github.com/codemillmatt/DevDays",
+    "description": "Xamarin-Azure Integration Talk for Xamarin Dev Days - Madison",
+    "stars": 2,
+    "forks": 2,
+    "languages": {
+      "C#": 51848
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 97.32,
+    "S_code": 50.63,
+    "S_social": 6,
+    "S_maint": 6
+  },
+  {
+    "name": "xam-dev-summit",
+    "full_name": "codemillmatt/xam-dev-summit",
+    "html_url": "https://github.com/codemillmatt/xam-dev-summit",
+    "description": "Partly Cloudy Talk - as presented at the Xamarin Developer Summit",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Shell": 778
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 54.38,
+    "S_code": 0.76,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "zumo-resilient",
+    "full_name": "codemillmatt/zumo-resilient",
+    "html_url": "https://github.com/codemillmatt/zumo-resilient",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "C#": 53787
+    },
+    "contributions_by_user": 28,
+    "contribution_score": 314.26,
+    "S_code": 52.53,
+    "S_social": 4,
+    "S_maint": 28
+  },
+  {
+    "name": "hue-functions",
+    "full_name": "codemillmatt/hue-functions",
+    "html_url": "https://github.com/codemillmatt/hue-functions",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "C#": 17621
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 46.6,
+    "S_code": 17.21,
+    "S_social": 4,
+    "S_maint": 3
+  },
+  {
+    "name": "cognitive-tourist",
+    "full_name": "codemillmatt/cognitive-tourist",
+    "html_url": "https://github.com/codemillmatt/cognitive-tourist",
+    "description": "Demo blending Microsoft cognitive services with iOS app",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "C#": 63136
+    },
+    "contributions_by_user": 40,
+    "contribution_score": 438.83,
+    "S_code": 61.66,
+    "S_social": 4,
+    "S_maint": 40
+  },
+  {
+    "name": "visual-studio-mac-launcher",
+    "full_name": "codemillmatt/visual-studio-mac-launcher",
+    "html_url": "https://github.com/codemillmatt/visual-studio-mac-launcher",
+    "description": "App to launch multiple instances of Visual Studio for Mac",
+    "stars": 2,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 6,
+    "contribution_score": 64.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 6
+  },
+  {
+    "name": "fantastic-forms-fonts",
+    "full_name": "codemillmatt/fantastic-forms-fonts",
+    "html_url": "https://github.com/codemillmatt/fantastic-forms-fonts",
+    "description": "Demo repo for using custom fonts with Xamarin.Forms",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "C#": 7745
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 61.78,
+    "S_code": 7.56,
+    "S_social": 4,
+    "S_maint": 5
+  },
+  {
+    "name": "BindablePicker",
+    "full_name": "codemillmatt/BindablePicker",
+    "html_url": "https://github.com/codemillmatt/BindablePicker",
+    "description": "Quick example of a bindable picker in Xamarin.Forms",
+    "stars": 2,
+    "forks": 3,
+    "languages": {
+      "C#": 7718
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 69.77,
+    "S_code": 7.54,
+    "S_social": 8,
+    "S_maint": 5
+  },
+  {
+    "name": "FormsPlatformSpecifics",
+    "full_name": "codemillmatt/FormsPlatformSpecifics",
+    "html_url": "https://github.com/codemillmatt/FormsPlatformSpecifics",
+    "description": "Demo of Xamarin.Forms 2.3.3 Platform Specifics",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C#": 7190
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 57.51,
+    "S_code": 7.02,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "CheesedStorage",
+    "full_name": "codemillmatt/CheesedStorage",
+    "html_url": "https://github.com/codemillmatt/CheesedStorage",
+    "description": "Demo application for Xamarin/Azure Store Primer Blog",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "C#": 57847
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 96.25,
+    "S_code": 56.49,
+    "S_social": 4,
+    "S_maint": 6
+  },
+  {
+    "name": "StackCache",
+    "full_name": "codemillmatt/StackCache",
+    "html_url": "https://github.com/codemillmatt/StackCache",
+    "description": "Example code for the cache blog post",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C#": 24418
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 105.92,
+    "S_code": 23.85,
+    "S_social": 2,
+    "S_maint": 9
+  },
+  {
+    "name": "dotnet-migration-copilot-samples",
+    "full_name": "codemillmatt/dotnet-migration-copilot-samples",
+    "html_url": "https://github.com/codemillmatt/dotnet-migration-copilot-samples",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 232740,
+      "C#": 73218,
+      "HTML": 52208,
+      "CSS": 14418,
+      "ASP.NET": 105
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 183.98,
+    "S_code": 363.95,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "eShopLite",
+    "full_name": "codemillmatt/eShopLite",
+    "html_url": "https://github.com/codemillmatt/eShopLite",
+    "description": "eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 637018,
+      "HTML": 254935,
+      "Bicep": 127787,
+      "CSS": 104962,
+      "JavaScript": 9631,
+      "TSQL": 2407,
+      "Dockerfile": 390
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 557.24,
+    "S_code": 1110.48,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ai-workshop",
+    "full_name": "codemillmatt/ai-workshop",
+    "html_url": "https://github.com/codemillmatt/ai-workshop",
+    "description": "Building GenAI Apps in C#: AI Templates, GitHub Models, Azure OpenAI & More",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 173247,
+      "C#": 77425,
+      "HTML": 69411,
+      "CSS": 31791
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 177.81,
+    "S_code": 343.63,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "partly-newsy-s1e2",
+    "full_name": "codemillmatt/partly-newsy-s1e2",
+    "html_url": "https://github.com/codemillmatt/partly-newsy-s1e2",
+    "description": "Final repo for second episode of partly newsy",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C#": 10584
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 121.17,
+    "S_code": 10.34,
+    "S_social": 3,
+    "S_maint": 11
+  },
+  {
+    "name": "community-content",
+    "full_name": "codemillmatt/community-content",
+    "html_url": "https://github.com/codemillmatt/community-content",
+    "description": "A curated collection of presentations-in-a-box created by Microsoft for speakers to use at user groups and meetups",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "AIDemo",
+    "full_name": "codemillmatt/AIDemo",
+    "html_url": "https://github.com/codemillmatt/AIDemo",
+    "description": ".NET AI Demo",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 1050342
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 514.86,
+    "S_code": 1025.72,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "reliable-web-app-pattern-dotnet",
+    "full_name": "codemillmatt/reliable-web-app-pattern-dotnet",
+    "html_url": "https://github.com/codemillmatt/reliable-web-app-pattern-dotnet",
+    "description": "The Reliable Web App Pattern is a set of objectives to help your web application converge on the cloud. This repo contains a reference implementation of a reliable web application for .NET.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C#": 185495,
+      "Bicep": 105168,
+      "PowerShell": 44866,
+      "Shell": 43132,
+      "HTML": 36452,
+      "CSS": 3490,
+      "JavaScript": 712,
+      "Dockerfile": 75
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 220.78,
+    "S_code": 409.56,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "azure-search-openai-demo-csharp",
+    "full_name": "codemillmatt/azure-search-openai-demo-csharp",
+    "html_url": "https://github.com/codemillmatt/azure-search-openai-demo-csharp",
+    "description": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 140794,
+      "Bicep": 90087,
+      "HTML": 53938,
+      "Shell": 8916,
+      "CSS": 6383,
+      "PowerShell": 3815,
+      "JavaScript": 3479,
+      "Dockerfile": 708
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 152.45,
+    "S_code": 300.9,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "whirlwind-tour-azure",
+    "full_name": "codemillmatt/whirlwind-tour-azure",
+    "html_url": "https://github.com/codemillmatt/whirlwind-tour-azure",
+    "description": "Repo with samples for Whirlwind Tour of Azure",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Bicep": 29271,
+      "C#": 19777,
+      "HTML": 9574,
+      "CSS": 5280,
+      "Dockerfile": 2505
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 54.43,
+    "S_code": 64.85,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "mobile-apps-data",
+    "full_name": "codemillmatt/mobile-apps-data",
+    "html_url": "https://github.com/codemillmatt/mobile-apps-data",
+    "description": "How to work with data in a Xamarin app",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 102637,
+      "TSQL": 4586
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 174.35,
+    "S_code": 104.71,
+    "S_social": 1,
+    "S_maint": 12
+  },
+  {
+    "name": "offline-sync-efcore",
+    "full_name": "codemillmatt/offline-sync-efcore",
+    "html_url": "https://github.com/codemillmatt/offline-sync-efcore",
+    "description": "See how to implement offline sync with Azure SQL and EF Core",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 39642,
+      "TSQL": 4647
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 133.63,
+    "S_code": 43.25,
+    "S_social": 1,
+    "S_maint": 11
+  },
+  {
+    "name": "xamarin-efcore-gettingstarted",
+    "full_name": "codemillmatt/xamarin-efcore-gettingstarted",
+    "html_url": "https://github.com/codemillmatt/xamarin-efcore-gettingstarted",
+    "description": "Getting started with Xamarin.Forms and Entity Framework Core",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 12349
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 38.03,
+    "S_code": 12.06,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "ef-xplat-tooling",
+    "full_name": "codemillmatt/ef-xplat-tooling",
+    "html_url": "https://github.com/codemillmatt/ef-xplat-tooling",
+    "description": "Repo to go along with the Pluralsight Entity Framework Cross-Platform Tooling course",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 40932
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 111.99,
+    "S_code": 39.97,
+    "S_social": 1,
+    "S_maint": 9
+  },
+  {
+    "name": "DeveloperProductivity",
+    "full_name": "codemillmatt/DeveloperProductivity",
+    "html_url": "https://github.com/codemillmatt/DeveloperProductivity",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 4299,
+      "HTML": 3909,
+      "CSS": 1053,
+      "JavaScript": 226
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 66.63,
+    "S_code": 9.26,
+    "S_social": 1,
+    "S_maint": 6
+  },
+  {
+    "name": "dotnet-maui-workshop",
+    "full_name": "codemillmatt/dotnet-maui-workshop",
+    "html_url": "https://github.com/codemillmatt/dotnet-maui-workshop",
+    "description": "A full day workshop (.NET MAUI Workshop in a Box) on how to build apps with .NET MAUI for iOS, Android, macOS, and Windows",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 54831
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 28.77,
+    "S_code": 53.55,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "fta-customerfacingapps",
+    "full_name": "codemillmatt/fta-customerfacingapps",
+    "html_url": "https://github.com/codemillmatt/fta-customerfacingapps",
+    "description": "Fast Track for Azure - Customer Facing Apps solution",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "C#": 78742,
+      "HTML": 18109,
+      "CSS": 2622,
+      "JavaScript": 489
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 58.81,
+    "S_code": 97.62,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "partly-newsy-s1e8",
+    "full_name": "codemillmatt/partly-newsy-s1e8",
+    "html_url": "https://github.com/codemillmatt/partly-newsy-s1e8",
+    "description": "Partly Newsy Episode 8 Final",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C#": 41838
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 56.43,
+    "S_code": 40.86,
+    "S_social": 3,
+    "S_maint": 3
+  },
+  {
+    "name": "partly-newsy-s1e5",
+    "full_name": "codemillmatt/partly-newsy-s1e5",
+    "html_url": "https://github.com/codemillmatt/partly-newsy-s1e5",
+    "description": "Finished repo for episode 5 - more on shell",
+    "stars": 1,
+    "forks": 3,
+    "languages": {
+      "C#": 14436
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 71.05,
+    "S_code": 14.1,
+    "S_social": 7,
+    "S_maint": 5
+  },
+  {
+    "name": "IdentityWebBlog",
+    "full_name": "codemillmatt/IdentityWebBlog",
+    "html_url": "https://github.com/codemillmatt/IdentityWebBlog",
+    "description": "Accompanying code samples for the best blog in the world on Microsoft.Identity.Web",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "C#": 17699,
+      "HTML": 9030,
+      "CSS": 2834,
+      "JavaScript": 460
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 54.66,
+    "S_code": 29.32,
+    "S_social": 5,
+    "S_maint": 3
+  },
+  {
+    "name": "azure-cosmos-db-mongodb-xamarin-getting-started",
+    "full_name": "codemillmatt/azure-cosmos-db-mongodb-xamarin-getting-started",
+    "html_url": "https://github.com/codemillmatt/azure-cosmos-db-mongodb-xamarin-getting-started",
+    "description": "A quick start demonstrating how to get up and running quickly with Azure Cosmos DB's Mongo API and a Xamarin.Forms app.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 17174
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 140.39,
+    "S_code": 16.77,
+    "S_social": 1,
+    "S_maint": 13
+  },
+  {
+    "name": "TailwindTraders-Mobile",
+    "full_name": "codemillmatt/TailwindTraders-Mobile",
+    "html_url": "https://github.com/codemillmatt/TailwindTraders-Mobile",
+    "description": "Tailwind Traders Mobile",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 267674,
+      "Shell": 12906,
+      "Python": 4979
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 161.43,
+    "S_code": 278.87,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "app-geocontacts",
+    "full_name": "codemillmatt/app-geocontacts",
+    "html_url": "https://github.com/codemillmatt/app-geocontacts",
+    "description": "Xamarin + Azure demo contact list feature Azure AD B2C, Functions, & CosmosDB.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C#": 85509,
+      "Shell": 1798
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 238.63,
+    "S_code": 85.26,
+    "S_social": 3,
+    "S_maint": 19
+  },
+  {
+    "name": "zero-knowledge-identity",
+    "full_name": "codemillmatt/zero-knowledge-identity",
+    "html_url": "https://github.com/codemillmatt/zero-knowledge-identity",
+    "description": "It's a secret!",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 129076
+    },
+    "contributions_by_user": 58,
+    "contribution_score": 645.03,
+    "S_code": 126.05,
+    "S_social": 1,
+    "S_maint": 58
+  },
+  {
+    "name": "url-shortener-extension",
+    "full_name": "codemillmatt/url-shortener-extension",
+    "html_url": "https://github.com/codemillmatt/url-shortener-extension",
+    "description": "Mobile sharing extension for the Serverless Url Shortener project",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 13497
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 58.59,
+    "S_code": 13.18,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "MyWeather.Forms",
+    "full_name": "codemillmatt/MyWeather.Forms",
+    "html_url": "https://github.com/codemillmatt/MyWeather.Forms",
+    "description": "Xamarin.Forms Weather Demo using OpenWeatherMap",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 29637
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.47,
+    "S_code": 28.94,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "the-reviewer",
+    "full_name": "codemillmatt/the-reviewer",
+    "html_url": "https://github.com/codemillmatt/the-reviewer",
+    "description": "Demo Xamarin.Forms app integrated with several Azure offerings",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 22.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "openness-xamarin-azure",
+    "full_name": "codemillmatt/openness-xamarin-azure",
+    "html_url": "https://github.com/codemillmatt/openness-xamarin-azure",
+    "description": "Slides and demos for Opennness Day Using Xamarin with Azure talk",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 24899
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 64.16,
+    "S_code": 24.32,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "cosmos-graph",
+    "full_name": "codemillmatt/cosmos-graph",
+    "html_url": "https://github.com/codemillmatt/cosmos-graph",
+    "description": "Demo project of using Cosmos Graph API in a Xamarin app",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 5057
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 24.47,
+    "S_code": 4.94,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "forms-macos-demo",
+    "full_name": "codemillmatt/forms-macos-demo",
+    "html_url": "https://github.com/codemillmatt/forms-macos-demo",
+    "description": "Xamarin Forms running on iOS, Droid, and macOS with 100% shared code",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 20233
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 61.88,
+    "S_code": 19.76,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "MasterDetail-LeftIconText",
+    "full_name": "codemillmatt/MasterDetail-LeftIconText",
+    "html_url": "https://github.com/codemillmatt/MasterDetail-LeftIconText",
+    "description": "Demo project illustrating how to incorporate both an icon and text for iOS in the upper left corner of a Xamarin.Forms master detail page.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 14367
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 39.02,
+    "S_code": 14.03,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "forms-woods",
+    "full_name": "codemillmatt/forms-woods",
+    "html_url": "https://github.com/codemillmatt/forms-woods",
+    "description": "Get Out of the Woods With Xamarin.Forms",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 25829
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 44.61,
+    "S_code": 25.22,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "CheesedTables",
+    "full_name": "codemillmatt/CheesedTables",
+    "html_url": "https://github.com/codemillmatt/CheesedTables",
+    "description": "Example app demo'ing Xamarin and Azure Table Service blog",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C#": 18361
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 104.97,
+    "S_code": 17.93,
+    "S_social": 3,
+    "S_maint": 9
+  },
+  {
+    "name": "AkaAwesome",
+    "full_name": "codemillmatt/AkaAwesome",
+    "html_url": "https://github.com/codemillmatt/AkaAwesome",
+    "description": "Example of Akavache refactoring",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C#": 20274
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 95.9,
+    "S_code": 19.8,
+    "S_social": 3,
+    "S_maint": 8
+  },
+  {
+    "name": "FuelStation",
+    "full_name": "codemillmatt/FuelStation",
+    "html_url": "https://github.com/codemillmatt/FuelStation",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 14142
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 28.91,
+    "S_code": 13.81,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "TabataShared",
+    "full_name": "codemillmatt/TabataShared",
+    "html_url": "https://github.com/codemillmatt/TabataShared",
+    "description": "Xamarin Cross Platform - Shared Project Example",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C#": 19358
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 95.45,
+    "S_code": 18.9,
+    "S_social": 3,
+    "S_maint": 8
+  },
+  {
+    "name": "awesome-copilot",
+    "full_name": "codemillmatt/awesome-copilot",
+    "html_url": "https://github.com/codemillmatt/awesome-copilot",
+    "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 58544,
+      "Shell": 283
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 28.72,
+    "S_code": 57.45,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "AZD-for-beginners",
+    "full_name": "codemillmatt/AZD-for-beginners",
+    "html_url": "https://github.com/codemillmatt/AZD-for-beginners",
+    "description": " Welcome to the comprehensive guide for Azure Developer CLI (azd)! This repository is designed to help developers at all levels from students to professional developers learn and master Azure Developer CLI for efficient cloud deployments.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 5885,
+      "HTML": 1015
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.37,
+    "S_code": 6.74,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "MvcMusicStore",
+    "full_name": "codemillmatt/MvcMusicStore",
+    "html_url": "https://github.com/codemillmatt/MvcMusicStore",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 515656,
+      "HTML": 80916,
+      "CSS": 27137,
+      "JavaScript": 11286,
+      "ASP.NET": 315
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 310.21,
+    "S_code": 620.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hello-world-agents",
+    "full_name": "codemillmatt/hello-world-agents",
+    "html_url": "https://github.com/codemillmatt/hello-world-agents",
+    "description": "Sample .NET app using Microsoft Agent Framework to showcase collaborative AI agents (e.g. writer + editor) with web & console interfaces.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 10648,
+      "JavaScript": 4395,
+      "CSS": 2010,
+      "HTML": 816
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 18.73,
+    "S_code": 17.45,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "VSCodeDaysPetApp",
+    "full_name": "codemillmatt/VSCodeDaysPetApp",
+    "html_url": "https://github.com/codemillmatt/VSCodeDaysPetApp",
+    "description": "Demo app for VS Code Days",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 3590,
+      "HTML": 1779,
+      "C#": 425
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 42.83,
+    "S_code": 5.66,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "SimplePetApp",
+    "full_name": "codemillmatt/SimplePetApp",
+    "html_url": "https://github.com/codemillmatt/SimplePetApp",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 3590,
+      "HTML": 1779,
+      "C#": 425
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.83,
+    "S_code": 5.66,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "VS-Code-Dev-Days",
+    "full_name": "codemillmatt/VS-Code-Dev-Days",
+    "html_url": "https://github.com/codemillmatt/VS-Code-Dev-Days",
+    "description": "Repo for VS Code Dev Days content, global in-person series of events focused on VS Code and GitHub Copilot.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vslive-ai-eval-tests",
+    "full_name": "codemillmatt/vslive-ai-eval-tests",
+    "html_url": "https://github.com/codemillmatt/vslive-ai-eval-tests",
+    "description": "Sample repo demonstrating ai evaluations",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 57749,
+      "C#": 37435,
+      "HTML": 25912,
+      "CSS": 10597
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 104.3,
+    "S_code": 128.61,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "MEAI-for-Dotnet-Developers",
+    "full_name": "codemillmatt/MEAI-for-Dotnet-Developers",
+    "html_url": "https://github.com/codemillmatt/MEAI-for-Dotnet-Developers",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 1306
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.64,
+    "S_code": 1.28,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "MvcMovieNet6",
+    "full_name": "codemillmatt/MvcMovieNet6",
+    "html_url": "https://github.com/codemillmatt/MvcMovieNet6",
+    "description": "A copy of the ASP.NET Core .NET 6 MVC Movie sample and other projects for research",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 36027,
+      "HTML": 17062,
+      "CSS": 2106,
+      "JavaScript": 452
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 27.17,
+    "S_code": 54.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mslearn-challenge-project-create-mini-game-with-copilot-dotnet",
+    "full_name": "codemillmatt/mslearn-challenge-project-create-mini-game-with-copilot-dotnet",
+    "html_url": "https://github.com/codemillmatt/mslearn-challenge-project-create-mini-game-with-copilot-dotnet",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 39
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.02,
+    "S_code": 0.04,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "ai-chat-aspire-meai-csharp",
+    "full_name": "codemillmatt/ai-chat-aspire-meai-csharp",
+    "html_url": "https://github.com/codemillmatt/ai-chat-aspire-meai-csharp",
+    "description": "A simple C#/.NET chat application using .NET Aspire and Microsoft.Extensions.AI. This uses managed identity for Azure OpenAI access. Designed for deployment on Azure Container Apps with the Azure Developer CLI.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 13814,
+      "CSS": 11077,
+      "Bicep": 7851,
+      "HTML": 4985,
+      "JavaScript": 799,
+      "PowerShell": 689,
+      "Shell": 681,
+      "Dockerfile": 356
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.65,
+    "S_code": 39.31,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dotnet-local-reasoning-models",
+    "full_name": "codemillmatt/dotnet-local-reasoning-models",
+    "html_url": "https://github.com/codemillmatt/dotnet-local-reasoning-models",
+    "description": "Running reasoning models locally with C# and Ollama",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 11113,
+      "C#": 4877,
+      "CSS": 4683
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.09,
+    "S_code": 20.19,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "eShopLite-SemanticSearch",
+    "full_name": "codemillmatt/eShopLite-SemanticSearch",
+    "html_url": "https://github.com/codemillmatt/eShopLite-SemanticSearch",
+    "description": "eShopLite - Semantic Search is a reference .NET application implementing an eCommerce site with Search features using Keyword Search and Semantic Search.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 33606,
+      "Bicep": 10097,
+      "CSS": 7501,
+      "HTML": 6820,
+      "Dockerfile": 390
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 28.52,
+    "S_code": 57.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dasblog-core",
+    "full_name": "codemillmatt/dasblog-core",
+    "html_url": "https://github.com/codemillmatt/dasblog-core",
+    "description": "The original DasBlog reimagined with ASP.NET Core",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 1434130,
+      "CSS": 279236,
+      "JavaScript": 115051,
+      "HTML": 112207,
+      "Dockerfile": 875
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 948.0,
+    "S_code": 1896.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "prompt-crafting-github-copilot",
+    "full_name": "codemillmatt/prompt-crafting-github-copilot",
+    "html_url": "https://github.com/codemillmatt/prompt-crafting-github-copilot",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 1497
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.73,
+    "S_code": 1.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "focus-ai-openai-sdk",
+    "full_name": "codemillmatt/focus-ai-openai-sdk",
+    "html_url": "https://github.com/codemillmatt/focus-ai-openai-sdk",
+    "description": "Sample repo for the .NET Conf Focus on AI presentation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 6716
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.28,
+    "S_code": 6.56,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "eshop-lite",
+    "full_name": "codemillmatt/eshop-lite",
+    "html_url": "https://github.com/codemillmatt/eshop-lite",
+    "description": "EShop Lite reference - non-Aspire",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 8225,
+      "CSS": 7501,
+      "HTML": 4089
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 39.68,
+    "S_code": 19.35,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "Build2024-eShopLite-Aspire-Lab",
+    "full_name": "codemillmatt/Build2024-eShopLite-Aspire-Lab",
+    "html_url": "https://github.com/codemillmatt/Build2024-eShopLite-Aspire-Lab",
+    "description": "A step-by-step lab of adding Aspire to the eShopLite application",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 60089,
+      "CSS": 37505,
+      "HTML": 20671
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 107.75,
+    "S_code": 115.49,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "ai-rag-chat-evaluator",
+    "full_name": "codemillmatt/ai-rag-chat-evaluator",
+    "html_url": "https://github.com/codemillmatt/ai-rag-chat-evaluator",
+    "description": "Tools for evaluation of RAG Chat Apps using Azure AI Evaluate SDK and OpenAI ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Bicep": 60153,
+      "Python": 43750,
+      "Jinja": 7940,
+      "HTML": 5496,
+      "Dockerfile": 343
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 67.46,
+    "S_code": 114.92,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "azurechat",
+    "full_name": "codemillmatt/azurechat",
+    "html_url": "https://github.com/codemillmatt/azurechat",
+    "description": "🤖 💼  Azure Chat Solution Accelerator powered by Azure Open AI Service",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 332352,
+      "Bicep": 19227,
+      "JavaScript": 2398,
+      "CSS": 1553
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 173.6,
+    "S_code": 347.2,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "systemweb-adapters",
+    "full_name": "codemillmatt/systemweb-adapters",
+    "html_url": "https://github.com/codemillmatt/systemweb-adapters",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 916713,
+      "PowerShell": 176267,
+      "Shell": 121344,
+      "CMake": 15129,
+      "Batchfile": 1762
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 601.18,
+    "S_code": 1202.36,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ghost-codespace",
+    "full_name": "codemillmatt/ghost-codespace",
+    "html_url": "https://github.com/codemillmatt/ghost-codespace",
+    "description": "Devcontainer repo for running ghost",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "ChatAppBlogDemo",
+    "full_name": "codemillmatt/ChatAppBlogDemo",
+    "html_url": "https://github.com/codemillmatt/ChatAppBlogDemo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 8537,
+      "CSS": 5486,
+      "C#": 2505
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 28.07,
+    "S_code": 16.14,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "reliable-web-app-pattern-java",
+    "full_name": "codemillmatt/reliable-web-app-pattern-java",
+    "html_url": "https://github.com/codemillmatt/reliable-web-app-pattern-java",
+    "description": "The reliable web app pattern is a set of objectives to help your web application converge on the cloud. This repo contains a reference implementation of a reliable web application for Java.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4604868,
+      "Java": 2711587,
+      "CSS": 401455,
+      "HCL": 68554,
+      "Shell": 24335,
+      "PowerShell": 7615,
+      "SCSS": 6736,
+      "Dockerfile": 2543,
+      "Go": 1175,
+      "PLSQL": 205,
+      "HTML": 106
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 3832.84,
+    "S_code": 7645.68,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "ConsoleGPT",
+    "full_name": "codemillmatt/ConsoleGPT",
+    "html_url": "https://github.com/codemillmatt/ConsoleGPT",
+    "description": "ConsoleGPT",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 8947
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.37,
+    "S_code": 8.74,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "whirlwind-pizza",
+    "full_name": "codemillmatt/whirlwind-pizza",
+    "html_url": "https://github.com/codemillmatt/whirlwind-pizza",
+    "description": "Example repo for the Whirlwind Tour of Azure for .NET Developers talk",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Bicep": 29271,
+      "C#": 19681,
+      "HTML": 9574,
+      "CSS": 5280,
+      "Dockerfile": 2505
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 212.38,
+    "S_code": 64.76,
+    "S_social": 0,
+    "S_maint": 18
+  },
+  {
+    "name": "aspnetcore-movies-workshop",
+    "full_name": "codemillmatt/aspnetcore-movies-workshop",
+    "html_url": "https://github.com/codemillmatt/aspnetcore-movies-workshop",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 148559,
+      "HTML": 98687,
+      "CSS": 13960,
+      "JavaScript": 3865
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 129.43,
+    "S_code": 258.86,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "openai-dotnet-samples",
+    "full_name": "codemillmatt/openai-dotnet-samples",
+    "html_url": "https://github.com/codemillmatt/openai-dotnet-samples",
+    "description": "Azure OpenAI .NET Samples",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 276099,
+      "Shell": 133
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 138.88,
+    "S_code": 269.76,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "mslearn-modernize-aspnet-framework-to-core",
+    "full_name": "codemillmatt/mslearn-modernize-aspnet-framework-to-core",
+    "html_url": "https://github.com/codemillmatt/mslearn-modernize-aspnet-framework-to-core",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 239159,
+      "HTML": 4653,
+      "C#": 4558,
+      "CSS": 476,
+      "ASP.NET": 104
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 121.56,
+    "S_code": 243.12,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cloud-developer-advocates",
+    "full_name": "codemillmatt/cloud-developer-advocates",
+    "html_url": "https://github.com/codemillmatt/cloud-developer-advocates",
+    "description": "Site content for the site listing the Cloud Advocacy team within Developer Relations at Microsoft.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PowerShell": 17844,
+      "C#": 14717
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 95.9,
+    "S_code": 31.8,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "PickleActions",
+    "full_name": "codemillmatt/PickleActions",
+    "html_url": "https://github.com/codemillmatt/PickleActions",
+    "description": null,
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "C#": 17830,
+      "HTML": 15042,
+      "CSS": 5299,
+      "Dockerfile": 1720
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 127.48,
+    "S_code": 38.96,
+    "S_social": 4,
+    "S_maint": 10
+  },
+  {
+    "name": "Low-Code",
+    "full_name": "codemillmatt/Low-Code",
+    "html_url": "https://github.com/codemillmatt/Low-Code",
+    "description": "Website to showcase Low-Code content and community initiatives to help developers explore low code and fusion development with Microsoft Cloud and Developer Tools",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 24461,
+      "CSS": 4500
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.14,
+    "S_code": 28.28,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tailwind-release-mgmt",
+    "full_name": "codemillmatt/tailwind-release-mgmt",
+    "html_url": "https://github.com/codemillmatt/tailwind-release-mgmt",
+    "description": "Release Management for Mobile Apps",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 58874,
+      "Shell": 1841
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 189.65,
+    "S_code": 59.29,
+    "S_social": 0,
+    "S_maint": 16
+  },
+  {
+    "name": "dotnetconf-studentzone",
+    "full_name": "codemillmatt/dotnetconf-studentzone",
+    "html_url": "https://github.com/codemillmatt/dotnetconf-studentzone",
+    "description": ".NET Student Zone .NET Conference 2022 ",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 224404,
+      "C#": 103740,
+      "HTML": 13690,
+      "CSS": 11194,
+      "Shell": 5593,
+      "Dockerfile": 347
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 199.28,
+    "S_code": 350.55,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "blazor-resume",
+    "full_name": "codemillmatt/blazor-resume",
+    "html_url": "https://github.com/codemillmatt/blazor-resume",
+    "description": "shows to to build a resume in Blazor",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 17092,
+      "HTML": 7187,
+      "CSS": 6178
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.87,
+    "S_code": 29.74,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "AspNetCore.Docs",
+    "full_name": "codemillmatt/AspNetCore.Docs",
+    "html_url": "https://github.com/codemillmatt/AspNetCore.Docs",
+    "description": "Documentation for ASP.NET Core",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 7456329,
+      "HTML": 3402875,
+      "JavaScript": 457871,
+      "Less": 406080,
+      "CSS": 218952,
+      "TypeScript": 67470,
+      "Rich Text Format": 42714,
+      "PowerShell": 34721,
+      "TSQL": 1914,
+      "Java": 1080,
+      "Dockerfile": 863,
+      "ASP.NET": 309,
+      "Ruby": 254
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5904.02,
+    "S_code": 11808.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "todo-csharp-sql",
+    "full_name": "codemillmatt/todo-csharp-sql",
+    "html_url": "https://github.com/codemillmatt/todo-csharp-sql",
+    "description": "A complete sample To Do application that demonstrates how to build an Azure solution using C#, Azure SQL for storage, and Azure Monitor for monitoring and logging.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Bicep": 88343,
+      "TypeScript": 55205,
+      "C#": 10864,
+      "HTML": 1659,
+      "Shell": 1489,
+      "JavaScript": 1162,
+      "CSS": 917,
+      "Dockerfile": 810
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 78.34,
+    "S_code": 156.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "intro-orleans",
+    "full_name": "codemillmatt/intro-orleans",
+    "html_url": "https://github.com/codemillmatt/intro-orleans",
+    "description": "backing repo for the Distributed .NET with Orleans talk",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "dotNET-FrontEnd-to-BackEnd-with-DAPR-on-Azure-Container-Apps",
+    "full_name": "codemillmatt/dotNET-FrontEnd-to-BackEnd-with-DAPR-on-Azure-Container-Apps",
+    "html_url": "https://github.com/codemillmatt/dotNET-FrontEnd-to-BackEnd-with-DAPR-on-Azure-Container-Apps",
+    "description": "This repository demonstrates a typical front-end UI built with ASP.NET and a complementary back-end API using DAPR for service discovery. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 5862,
+      "C#": 5778,
+      "Bicep": 4750,
+      "CSS": 3933,
+      "Dockerfile": 2232
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.01,
+    "S_code": 22.03,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Orleans-Cluster-on-Azure-App-Service",
+    "full_name": "codemillmatt/Orleans-Cluster-on-Azure-App-Service",
+    "html_url": "https://github.com/codemillmatt/Orleans-Cluster-on-Azure-App-Service",
+    "description": "Sample application demonstrating a multiple-silo Orleans cluster running in Azure App Service. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 29914,
+      "HTML": 21018,
+      "CSS": 3277
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 46.47,
+    "S_code": 52.94,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "BAM-FHL-Example",
+    "full_name": "codemillmatt/BAM-FHL-Example",
+    "html_url": "https://github.com/codemillmatt/BAM-FHL-Example",
+    "description": "Example MAUI app for BAM FHL Hackathon project",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 6292
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 43.07,
+    "S_code": 6.14,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "dotnet-podcasts",
+    "full_name": "codemillmatt/dotnet-podcasts",
+    "html_url": "https://github.com/codemillmatt/dotnet-podcasts",
+    "description": ".NET 6 reference application shown at .NET Conf 2021 featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, and more!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 262771,
+      "HTML": 161289,
+      "CSS": 90053,
+      "Bicep": 8316,
+      "TypeScript": 5982,
+      "JavaScript": 5505,
+      "Dockerfile": 5148,
+      "PowerShell": 1082,
+      "Smalltalk": 3
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 263.74,
+    "S_code": 527.49,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "maui-cosmos",
+    "full_name": "codemillmatt/maui-cosmos",
+    "html_url": "https://github.com/codemillmatt/maui-cosmos",
+    "description": ".NET MAUI app that accesses Azure Cosmos DB",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "Cloud-Native",
+    "full_name": "codemillmatt/Cloud-Native",
+    "html_url": "https://github.com/codemillmatt/Cloud-Native",
+    "description": "This is a showcase on Azure Cloud Native, the products, events and how to get started or go deep with cloud native technologies, including Serverless on Azure.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 20803,
+      "CSS": 4928
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 22.56,
+    "S_code": 25.13,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "Mapsui",
+    "full_name": "codemillmatt/Mapsui",
+    "html_url": "https://github.com/codemillmatt/Mapsui",
+    "description": "Mapsui is a .NET Map component for: Xamarin.Forms, WPF, Xamarin.Android and Xamarin.iOS.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 1534245,
+      "Batchfile": 5833,
+      "PowerShell": 5137,
+      "Shell": 1427
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 755.2,
+    "S_code": 1510.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mslearn-persist-data-ef-core",
+    "full_name": "codemillmatt/mslearn-persist-data-ef-core",
+    "html_url": "https://github.com/codemillmatt/mslearn-persist-data-ef-core",
+    "description": "Sample code for Microsoft Learn module, \"Persist and retrieve relational data with Entity Framework Core\"",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 3760
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.84,
+    "S_code": 3.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lower-learning-curve",
+    "full_name": "codemillmatt/lower-learning-curve",
+    "html_url": "https://github.com/codemillmatt/lower-learning-curve",
+    "description": "Sample application to support the Lower the Learning Curve talk",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 1776
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 40.87,
+    "S_code": 1.73,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "mslearn-dotnetmaui-consume-rest-services",
+    "full_name": "codemillmatt/mslearn-dotnetmaui-consume-rest-services",
+    "html_url": "https://github.com/codemillmatt/mslearn-dotnetmaui-consume-rest-services",
+    "description": "Sample for the Consuming REST Services with .NET MAUI Learn Module",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 27231,
+      "Shell": 1486
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 44.02,
+    "S_code": 28.04,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "AzureSignalR-samples",
+    "full_name": "codemillmatt/AzureSignalR-samples",
+    "html_url": "https://github.com/codemillmatt/AzureSignalR-samples",
+    "description": "Code samples for Azure SignalR",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 407214,
+      "HTML": 18747,
+      "C#": 14001,
+      "CSS": 1292
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 215.46,
+    "S_code": 430.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dotnet-maui",
+    "full_name": "codemillmatt/dotnet-maui",
+    "html_url": "https://github.com/codemillmatt/dotnet-maui",
+    "description": "Here you will find presentations for building native desktop and mobile applications for Android, iOS, macOS, and Windows with .NET MAUI.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mslearn-dotnetmaui-create-multi-page-apps",
+    "full_name": "codemillmatt/mslearn-dotnetmaui-create-multi-page-apps",
+    "html_url": "https://github.com/codemillmatt/mslearn-dotnetmaui-create-multi-page-apps",
+    "description": "Sample code for Create multi-page .NET MAUI apps with tab and flyout navigation MS Learn module",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 34232
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 166.71,
+    "S_code": 33.43,
+    "S_social": 0,
+    "S_maint": 15
+  },
+  {
+    "name": "mslearn-dotnetmaui-customize-xaml-pages-layout",
+    "full_name": "codemillmatt/mslearn-dotnetmaui-customize-xaml-pages-layout",
+    "html_url": "https://github.com/codemillmatt/mslearn-dotnetmaui-customize-xaml-pages-layout",
+    "description": "Sample code for the customizing XAML pages layout with .NET MAUI MS Learn module",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 14282
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.97,
+    "S_code": 13.95,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "VisualStudioPlaybook",
+    "full_name": "codemillmatt/VisualStudioPlaybook",
+    "html_url": "https://github.com/codemillmatt/VisualStudioPlaybook",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 4719,
+      "HTML": 3843,
+      "CSS": 1053,
+      "JavaScript": 226
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 34.81,
+    "S_code": 9.61,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "mslearn-dotnetmaui-store-local-data",
+    "full_name": "codemillmatt/mslearn-dotnetmaui-store-local-data",
+    "html_url": "https://github.com/codemillmatt/mslearn-dotnetmaui-store-local-data",
+    "description": "Sample code repo for storing local data with .NET MAUI MS Learn Module",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 6356
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 63.1,
+    "S_code": 6.21,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "netmaui-chat-app-challenge",
+    "full_name": "codemillmatt/netmaui-chat-app-challenge",
+    "html_url": "https://github.com/codemillmatt/netmaui-chat-app-challenge",
+    "description": "Chat App UI Challenge made with .NET MAUI.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 44758
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 21.85,
+    "S_code": 43.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vs2022-azure",
+    "full_name": "codemillmatt/vs2022-azure",
+    "html_url": "https://github.com/codemillmatt/vs2022-azure",
+    "description": "Pluralsight Visual Studio + Azure course materials",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 13454,
+      "HTML": 4711,
+      "CSS": 1053,
+      "JavaScript": 226
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 149.49,
+    "S_code": 18.99,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "adc-functions",
+    "full_name": "codemillmatt/adc-functions",
+    "html_url": "https://github.com/codemillmatt/adc-functions",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 4240
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 32.07,
+    "S_code": 4.14,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "graph-dotnet-challenge",
+    "full_name": "codemillmatt/graph-dotnet-challenge",
+    "html_url": "https://github.com/codemillmatt/graph-dotnet-challenge",
+    "description": "The starter repo for the MS Graph .NET Challenge",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 27947,
+      "HTML": 11287,
+      "CSS": 1544,
+      "JavaScript": 230
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 44.02,
+    "S_code": 40.05,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "mslearn-m365-microsoftgraph-dotnetcorerazor",
+    "full_name": "codemillmatt/mslearn-m365-microsoftgraph-dotnetcorerazor",
+    "html_url": "https://github.com/codemillmatt/mslearn-m365-microsoftgraph-dotnetcorerazor",
+    "description": "Microsoft Learn code for the Microsoft Graph/.NET Core scenarios learning path.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 59377,
+      "HTML": 22515,
+      "CSS": 3088,
+      "JavaScript": 460
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 61.72,
+    "S_code": 83.44,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "maui-modules",
+    "full_name": "codemillmatt/maui-modules",
+    "html_url": "https://github.com/codemillmatt/maui-modules",
+    "description": "For the .NET Learn examples",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 383810,
+      "Shell": 1490,
+      "HTML": 205
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 188.23,
+    "S_code": 376.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mslearn-dotnet-kubernetes",
+    "full_name": "codemillmatt/mslearn-dotnet-kubernetes",
+    "html_url": "https://github.com/codemillmatt/mslearn-dotnet-kubernetes",
+    "description": "Dockerfiles for the ASP.NET Core web API projects for the Deploying .NET microservices to Kubernetes Learn module",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "docker-aspnet-pizza",
+    "full_name": "codemillmatt/docker-aspnet-pizza",
+    "html_url": "https://github.com/codemillmatt/docker-aspnet-pizza",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 10423,
+      "HTML": 4258,
+      "CSS": 1346,
+      "Dockerfile": 572,
+      "JavaScript": 226
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 62.22,
+    "S_code": 16.43,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "VSToolbox",
+    "full_name": "codemillmatt/VSToolbox",
+    "html_url": "https://github.com/codemillmatt/VSToolbox",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "codespace",
+    "full_name": "codemillmatt/codespace",
+    "html_url": "https://github.com/codemillmatt/codespace",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9453,
+      "HTML": 1405,
+      "CSS": 958
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 35.77,
+    "S_code": 11.54,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "indy-shell",
+    "full_name": "codemillmatt/indy-shell",
+    "html_url": "https://github.com/codemillmatt/indy-shell",
+    "description": "Xamarin.Forms Shell example from the Indy Xamarin meetup",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 11046
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 25.39,
+    "S_code": 10.79,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "forms-shell-demo",
+    "full_name": "codemillmatt/forms-shell-demo",
+    "html_url": "https://github.com/codemillmatt/forms-shell-demo",
+    "description": "Quick demo showcasing all that Xamarin.Forms Shell has to offer",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "C#": 17020
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 56.31,
+    "S_code": 16.62,
+    "S_social": 4,
+    "S_maint": 4
+  },
+  {
+    "name": "teamspaces",
+    "full_name": "codemillmatt/teamspaces",
+    "html_url": "https://github.com/codemillmatt/teamspaces",
+    "description": "Can I develop a teams app in codespaces?",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "powerapps-docs",
+    "full_name": "codemillmatt/powerapps-docs",
+    "html_url": "https://github.com/codemillmatt/powerapps-docs",
+    "description": "Technical Documentation for Microsoft PowerApps",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PowerShell": 729
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.36,
+    "S_code": 0.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mslearn-developer-tools-power-platform",
+    "full_name": "codemillmatt/mslearn-developer-tools-power-platform",
+    "html_url": "https://github.com/codemillmatt/mslearn-developer-tools-power-platform",
+    "description": "Microsoft Learn: Downloads for Power Platform and Dynamics 365 Learn modules.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dotnet-ipad",
+    "full_name": "codemillmatt/dotnet-ipad",
+    "html_url": "https://github.com/codemillmatt/dotnet-ipad",
+    "description": "Write a .NET app from your iPad!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 5832,
+      "HTML": 3856,
+      "Shell": 1548,
+      "CSS": 1417,
+      "Dockerfile": 993,
+      "JavaScript": 230
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 56.78,
+    "S_code": 13.55,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "mslearn-dotnetmicroservices",
+    "full_name": "codemillmatt/mslearn-dotnetmicroservices",
+    "html_url": "https://github.com/codemillmatt/mslearn-dotnetmicroservices",
+    "description": "Sample app that learners can clone to follow along with how to build a .NET microservice's exercises",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 10423,
+      "HTML": 4258,
+      "CSS": 1346,
+      "Dockerfile": 572,
+      "JavaScript": 226
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 58.22,
+    "S_code": 16.43,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "docker-aspnet-weather",
+    "full_name": "codemillmatt/docker-aspnet-weather",
+    "html_url": "https://github.com/codemillmatt/docker-aspnet-weather",
+    "description": "A simple demo explaining Docker, ASP.NET Core",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 10423,
+      "HTML": 4258,
+      "CSS": 1346,
+      "Dockerfile": 1307,
+      "JavaScript": 226
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 18.57,
+    "S_code": 17.15,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "mslearn-improve-api-developer-experience-with-swagger",
+    "full_name": "codemillmatt/mslearn-improve-api-developer-experience-with-swagger",
+    "html_url": "https://github.com/codemillmatt/mslearn-improve-api-developer-experience-with-swagger",
+    "description": "Exercise code for Microsoft Learn module:  Improve the developer experience of an API with Swagger",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 3925,
+      "Shell": 1899
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.84,
+    "S_code": 5.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ondotnet",
+    "full_name": "codemillmatt/ondotnet",
+    "html_url": "https://github.com/codemillmatt/ondotnet",
+    "description": "Demos used in On.NET show",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 12761,
+      "HTML": 4263,
+      "CSS": 1346,
+      "JavaScript": 226
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.08,
+    "S_code": 18.16,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "FlyMe",
+    "full_name": "codemillmatt/FlyMe",
+    "html_url": "https://github.com/codemillmatt/FlyMe",
+    "description": "Xamarin.Forms demo for 3 sessions presented at Microsoft Ignite 2019",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 80960,
+      "CSS": 294
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 39.67,
+    "S_code": 79.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "LosGatos",
+    "full_name": "codemillmatt/LosGatos",
+    "html_url": "https://github.com/codemillmatt/LosGatos",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 77371
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 37.78,
+    "S_code": 75.56,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "azure-mobile-apps",
+    "full_name": "codemillmatt/azure-mobile-apps",
+    "html_url": "https://github.com/codemillmatt/azure-mobile-apps",
+    "description": "Build better mobile applications using Azure Mobile Apps",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fitapp-zumo",
+    "full_name": "codemillmatt/fitapp-zumo",
+    "html_url": "https://github.com/codemillmatt/fitapp-zumo",
+    "description": "Port existing sample app to new zumo",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 29746
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 34.52,
+    "S_code": 29.05,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "azure-mobile-apps-net-client",
+    "full_name": "codemillmatt/azure-mobile-apps-net-client",
+    "html_url": "https://github.com/codemillmatt/azure-mobile-apps-net-client",
+    "description": "Managed Client SDK for Azure Mobile Apps",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 2366211
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1155.38,
+    "S_code": 2310.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dotnet-files",
+    "full_name": "codemillmatt/dotnet-files",
+    "html_url": "https://github.com/codemillmatt/dotnet-files",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 40.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "azure-cosmos-db-mongodb-dotnet-getting-started",
+    "full_name": "codemillmatt/azure-cosmos-db-mongodb-dotnet-getting-started",
+    "html_url": "https://github.com/codemillmatt/azure-cosmos-db-mongodb-dotnet-getting-started",
+    "description": "This sample shows how to access Azure Cosmos DB for MongoDB API from a .NET application",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 782373,
+      "C#": 56930,
+      "HTML": 34330,
+      "CSS": 513,
+      "ASP.NET": 104
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 436.88,
+    "S_code": 853.76,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "EntityFramework.Docs",
+    "full_name": "codemillmatt/EntityFramework.Docs",
+    "html_url": "https://github.com/codemillmatt/EntityFramework.Docs",
+    "description": "Documentation for Entity Framework Core and Entity Framework 6",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PowerShell": 729
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.36,
+    "S_code": 0.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "efcore",
+    "full_name": "codemillmatt/efcore",
+    "html_url": "https://github.com/codemillmatt/efcore",
+    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 38452892,
+      "PowerShell": 201527,
+      "Shell": 100078,
+      "CMake": 9107,
+      "Batchfile": 3190,
+      "TSQL": 641
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 18929.41,
+    "S_code": 37858.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "demos",
+    "full_name": "codemillmatt/demos",
+    "html_url": "https://github.com/codemillmatt/demos",
+    "description": "Central repository for demo resources",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HCL": 95212,
+      "PowerShell": 15020,
+      "Scala": 6813
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 57.15,
+    "S_code": 114.3,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "GitHubPullRequestsTool",
+    "full_name": "codemillmatt/GitHubPullRequestsTool",
+    "html_url": "https://github.com/codemillmatt/GitHubPullRequestsTool",
+    "description": "A tool for retrieving Open Pull Request information for GitHub users",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 11697
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.71,
+    "S_code": 11.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fluentui-system-icons",
+    "full_name": "codemillmatt/fluentui-system-icons",
+    "html_url": "https://github.com/codemillmatt/fluentui-system-icons",
+    "description": "Fluent System Icons is a set of mobile platform icons from Microsoft",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Swift": 724494,
+      "Python": 11675,
+      "Kotlin": 11434,
+      "Shell": 6857,
+      "Batchfile": 3869,
+      "JavaScript": 3736,
+      "Ruby": 2013,
+      "Java": 1257,
+      "C": 28,
+      "MATLAB": 26
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 373.73,
+    "S_code": 747.45,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mobcat-samples",
+    "full_name": "codemillmatt/mobcat-samples",
+    "html_url": "https://github.com/codemillmatt/mobcat-samples",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 338451,
+      "Swift": 22647,
+      "Shell": 13566,
+      "Batchfile": 9700,
+      "Objective-C": 7931,
+      "C++": 2378
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 192.71,
+    "S_code": 385.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "xamarin.exposurenotification",
+    "full_name": "codemillmatt/xamarin.exposurenotification",
+    "html_url": "https://github.com/codemillmatt/xamarin.exposurenotification",
+    "description": "Xamarin Cross Platform Exposure Notification API and Samples",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 189872
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 342.71,
+    "S_code": 185.42,
+    "S_social": 0,
+    "S_maint": 25
+  },
+  {
+    "name": "storage-blobs-xamarin-quickstart",
+    "full_name": "codemillmatt/storage-blobs-xamarin-quickstart",
+    "html_url": "https://github.com/codemillmatt/storage-blobs-xamarin-quickstart",
+    "description": "Code for QuickStart article for accessing blobs with Xamarin",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 9351
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 24.57,
+    "S_code": 9.13,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "azure-cosmos-dotnet-v2",
+    "full_name": "codemillmatt/azure-cosmos-dotnet-v2",
+    "html_url": "https://github.com/codemillmatt/azure-cosmos-dotnet-v2",
+    "description": "Contains samples and utilities relating to the Azure Cosmos DB .NET SDK",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 13,
+    "contribution_score": 130.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "TravelMonkey",
+    "full_name": "codemillmatt/TravelMonkey",
+    "html_url": "https://github.com/codemillmatt/TravelMonkey",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 32027
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 29.64,
+    "S_code": 31.28,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "azure-cosmos-db-sql-xamarin-getting-started",
+    "full_name": "codemillmatt/azure-cosmos-db-sql-xamarin-getting-started",
+    "html_url": "https://github.com/codemillmatt/azure-cosmos-db-sql-xamarin-getting-started",
+    "description": "Quick-Start Xamarin app demonstrating how to use the Cosmos DB SQL API",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 17503
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 98.55,
+    "S_code": 17.09,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "azure-sql-db-sync-api-change-tracking",
+    "full_name": "codemillmatt/azure-sql-db-sync-api-change-tracking",
+    "html_url": "https://github.com/codemillmatt/azure-sql-db-sync-api-change-tracking",
+    "description": "Using Azure SQL Change Tracking API to Sync mobile Apps data with the Cloud",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 5614,
+      "TSQL": 3601,
+      "Shell": 1487
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.23,
+    "S_code": 10.45,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "water-tracker",
+    "full_name": "codemillmatt/water-tracker",
+    "html_url": "https://github.com/codemillmatt/water-tracker",
+    "description": "Track the amount of water you drink throughout the day",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "ignite-learning-paths-training-mod",
+    "full_name": "codemillmatt/ignite-learning-paths-training-mod",
+    "html_url": "https://github.com/codemillmatt/ignite-learning-paths-training-mod",
+    "description": "Microsoft Ignite Learning Path, Train the Trainer materials: Modernizing Web Applications and Data",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 69402,
+      "Shell": 5477,
+      "PowerShell": 309
+    },
+    "contributions_by_user": 37,
+    "contribution_score": 406.71,
+    "S_code": 73.43,
+    "S_social": 0,
+    "S_maint": 37
+  },
+  {
+    "name": "vsonline-test",
+    "full_name": "codemillmatt/vsonline-test",
+    "html_url": "https://github.com/codemillmatt/vsonline-test",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "mslearn-tailspin-spacegame-web",
+    "full_name": "codemillmatt/mslearn-tailspin-spacegame-web",
+    "html_url": "https://github.com/codemillmatt/mslearn-tailspin-spacegame-web",
+    "description": "Code used in Microsoft Learn modules to support Azure DevOps",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 20249,
+      "C#": 16938,
+      "CSS": 8391,
+      "JavaScript": 1515
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22.99,
+    "S_code": 45.99,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "app-pretty-weather",
+    "full_name": "codemillmatt/app-pretty-weather",
+    "html_url": "https://github.com/codemillmatt/app-pretty-weather",
+    "description": "A very pretty weather application built with Xamarin :)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 8654
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.23,
+    "S_code": 8.45,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "shell-collectionview-issue",
+    "full_name": "codemillmatt/shell-collectionview-issue",
+    "html_url": "https://github.com/codemillmatt/shell-collectionview-issue",
+    "description": "Reproduction repo for collection view and shell view weirdness",
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 14.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "ignite-learning-paths",
+    "full_name": "codemillmatt/ignite-learning-paths",
+    "html_url": "https://github.com/codemillmatt/ignite-learning-paths",
+    "description": "Microsoft Ignite Learning Path",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 44033,
+      "Shell": 37962,
+      "C#": 25992,
+      "JavaScript": 15394,
+      "Python": 12631,
+      "PowerShell": 11525,
+      "Smarty": 1045,
+      "Dockerfile": 869
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 82.97,
+    "S_code": 145.95,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "ignite-learning-paths-training-apps",
+    "full_name": "codemillmatt/ignite-learning-paths-training-apps",
+    "html_url": "https://github.com/codemillmatt/ignite-learning-paths-training-apps",
+    "description": "Microsoft Ignite Learning Path, Train the Trainer materials: Developing Cloud Native Applications",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 1374
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.67,
+    "S_code": 1.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "slackthemes",
+    "full_name": "codemillmatt/slackthemes",
+    "html_url": "https://github.com/codemillmatt/slackthemes",
+    "description": "A Slack sidebar theme browser",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 531884,
+      "HTML": 22615,
+      "Ruby": 9575,
+      "JavaScript": 2281
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 276.54,
+    "S_code": 553.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "captionr",
+    "full_name": "codemillmatt/captionr",
+    "html_url": "https://github.com/codemillmatt/captionr",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 24360,
+      "Vue": 7105,
+      "JavaScript": 5541,
+      "Java": 4398,
+      "HTML": 520
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.47,
+    "S_code": 40.94,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Xamarin.Forms",
+    "full_name": "codemillmatt/Xamarin.Forms",
+    "html_url": "https://github.com/codemillmatt/Xamarin.Forms",
+    "description": "Xamarin.Forms Official Home",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 10577160,
+      "PowerShell": 10833,
+      "Batchfile": 10209,
+      "Java": 3056,
+      "Shell": 2902,
+      "Makefile": 2200,
+      "CSS": 908,
+      "HTML": 587
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5179.62,
+    "S_code": 10359.23,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "forms-shadow-bug-repo",
+    "full_name": "codemillmatt/forms-shadow-bug-repo",
+    "html_url": "https://github.com/codemillmatt/forms-shadow-bug-repo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 4605
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 22.25,
+    "S_code": 4.5,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "cloud-car",
+    "full_name": "codemillmatt/cloud-car",
+    "html_url": "https://github.com/codemillmatt/cloud-car",
+    "description": "I have no idea if this is gonna work",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "forms-two-listviews",
+    "full_name": "codemillmatt/forms-two-listviews",
+    "html_url": "https://github.com/codemillmatt/forms-two-listviews",
+    "description": "Sample showing 2 listviews on same page",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 9834
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 24.8,
+    "S_code": 9.6,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "MonkeysApp-Workshop",
+    "full_name": "codemillmatt/MonkeysApp-Workshop",
+    "html_url": "https://github.com/codemillmatt/MonkeysApp-Workshop",
+    "description": " Xamarn.Forms Workshop sample monkey app for iOS, Android, and Windows",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 36310
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.73,
+    "S_code": 35.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "four-beautiful-apps",
+    "full_name": "codemillmatt/four-beautiful-apps",
+    "html_url": "https://github.com/codemillmatt/four-beautiful-apps",
+    "description": "Repo for the Creating Four Beautiful Apps at Once Talk",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 12314,
+      "CSS": 623
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 60.32,
+    "S_code": 12.63,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "cosmos-db-permissions",
+    "full_name": "codemillmatt/cosmos-db-permissions",
+    "html_url": "https://github.com/codemillmatt/cosmos-db-permissions",
+    "description": "Sample repo explaining how cosmos db permissions work with a Xamarin app",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 13161
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 26.43,
+    "S_code": 12.85,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "trashtalk",
+    "full_name": "codemillmatt/trashtalk",
+    "html_url": "https://github.com/codemillmatt/trashtalk",
+    "description": "Do some trash talking with Azure Functions and Twilio",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 8727
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 24.26,
+    "S_code": 8.52,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "microsoft-authentication-library-for-dotnet",
+    "full_name": "codemillmatt/microsoft-authentication-library-for-dotnet",
+    "html_url": "https://github.com/codemillmatt/microsoft-authentication-library-for-dotnet",
+    "description": "Microsoft Authentication Library (MSAL) Preview for .NET",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 1203468,
+      "Smalltalk": 4136,
+      "Batchfile": 2290,
+      "PowerShell": 2195,
+      "JavaScript": 1568,
+      "CSS": 572
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 592.89,
+    "S_code": 1185.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Xamarin-Quick-Tips",
+    "full_name": "codemillmatt/Xamarin-Quick-Tips",
+    "html_url": "https://github.com/codemillmatt/Xamarin-Quick-Tips",
+    "description": "Xamarin Quick Tips as presented at VS Live Orlando",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 6657
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 93.25,
+    "S_code": 6.5,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "mobile-samples",
+    "full_name": "codemillmatt/mobile-samples",
+    "html_url": "https://github.com/codemillmatt/mobile-samples",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 2550240,
+      "Visual Basic": 8577,
+      "JavaScript": 4492,
+      "GLSL": 4297,
+      "Ruby": 4282,
+      "CSS": 3465,
+      "HTML": 3422,
+      "Shell": 2642,
+      "ASP": 134,
+      "Batchfile": 46
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1260.55,
+    "S_code": 2521.09,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "telerik-webinar",
+    "full_name": "codemillmatt/telerik-webinar",
+    "html_url": "https://github.com/codemillmatt/telerik-webinar",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 21829
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 50.66,
+    "S_code": 21.32,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "arlo",
+    "full_name": "codemillmatt/arlo",
+    "html_url": "https://github.com/codemillmatt/arlo",
+    "description": "Python module for interacting with Netgear's Arlo camera system.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 24302,
+      "Makefile": 65
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.9,
+    "S_code": 23.8,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "alexa-frozen-custard",
+    "full_name": "codemillmatt/alexa-frozen-custard",
+    "html_url": "https://github.com/codemillmatt/alexa-frozen-custard",
+    "description": "First shot at crating a simple Amazon Alexa skill",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 32852
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 126.04,
+    "S_code": 32.08,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "NativeXamlCommands",
+    "full_name": "codemillmatt/NativeXamlCommands",
+    "html_url": "https://github.com/codemillmatt/NativeXamlCommands",
+    "description": "Demo project showing how to put native controls into XAML, then bind commands to events those native controls raise",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 9756
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 58.76,
+    "S_code": 9.53,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "planetxamarin",
+    "full_name": "codemillmatt/planetxamarin",
+    "html_url": "https://github.com/codemillmatt/planetxamarin",
+    "description": "We are an aggregator of content from Xamarin Community members. Why subscribe individually when you can subscribe to one convenient RSS feed, to see all the content generated by the community members in you news reader.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 214014,
+      "CSS": 169482,
+      "C#": 129905,
+      "PowerShell": 6089,
+      "Shell": 2945,
+      "ASP": 103
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 285.15,
+    "S_code": 510.29,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "pluralsight-ios-fab",
+    "full_name": "codemillmatt/pluralsight-ios-fab",
+    "html_url": "https://github.com/codemillmatt/pluralsight-ios-fab",
+    "description": "Example code for iOS floating action button from Moving Beyond the Basics with Xamarin.Forms course",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 3575
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 21.75,
+    "S_code": 3.49,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "attached-properties",
+    "full_name": "codemillmatt/attached-properties",
+    "html_url": "https://github.com/codemillmatt/attached-properties",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 9494
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 24.64,
+    "S_code": 9.27,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "SpecialCopy",
+    "full_name": "codemillmatt/SpecialCopy",
+    "html_url": "https://github.com/codemillmatt/SpecialCopy",
+    "description": "Paste JSON as C# Classes",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 72464
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.38,
+    "S_code": 70.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "native-embed-no-directives",
+    "full_name": "codemillmatt/native-embed-no-directives",
+    "html_url": "https://github.com/codemillmatt/native-embed-no-directives",
+    "description": "Quick sample of native embedding without compiler directives",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 6830
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.33,
+    "S_code": 6.67,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "DroidBackup",
+    "full_name": "codemillmatt/DroidBackup",
+    "html_url": "https://github.com/codemillmatt/DroidBackup",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 4734
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 32.31,
+    "S_code": 4.62,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "ThunderBot",
+    "full_name": "codemillmatt/ThunderBot",
+    "html_url": "https://github.com/codemillmatt/ThunderBot",
+    "description": "Chatbot for weather conditions utilizing Microsoft's Bot Framework",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 10832,
+      "HTML": 450,
+      "ASP": 109
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 69.56,
+    "S_code": 11.12,
+    "S_social": 2,
+    "S_maint": 6
+  },
+  {
+    "name": "TabataWatchDemo",
+    "full_name": "codemillmatt/TabataWatchDemo",
+    "html_url": "https://github.com/codemillmatt/TabataWatchDemo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 13465
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 16.57,
+    "S_code": 13.15,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "TabataSQLite",
+    "full_name": "codemillmatt/TabataSQLite",
+    "html_url": "https://github.com/codemillmatt/TabataSQLite",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 19806
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 39.67,
+    "S_code": 19.34,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "TabataPCLConsumer",
+    "full_name": "codemillmatt/TabataPCLConsumer",
+    "html_url": "https://github.com/codemillmatt/TabataPCLConsumer",
+    "description": "Consuming Applications of the Tabata PCL project",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 15081
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 27.36,
+    "S_code": 14.73,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "TabataPCL",
+    "full_name": "codemillmatt/TabataPCL",
+    "html_url": "https://github.com/codemillmatt/TabataPCL",
+    "description": "Portable Class Library implementation of the Tabata application.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 3937
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 31.92,
+    "S_code": 3.84,
+    "S_social": 0,
+    "S_maint": 3
+  }
+]

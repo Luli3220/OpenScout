@@ -1,0 +1,2112 @@
+[
+  {
+    "name": "Badger_Discord_API",
+    "full_name": "JaredScar/Badger_Discord_API",
+    "html_url": "https://github.com/JaredScar/Badger_Discord_API",
+    "description": "A FiveM API Script [created by Badger]",
+    "stars": 65,
+    "forks": 52,
+    "languages": {
+      "Lua": 33632
+    },
+    "contributions_by_user": 79,
+    "contribution_score": 1144.42,
+    "S_code": 32.84,
+    "S_social": 169,
+    "S_maint": 79
+  },
+  {
+    "name": "Badger-Anticheat",
+    "full_name": "JaredScar/Badger-Anticheat",
+    "html_url": "https://github.com/JaredScar/Badger-Anticheat",
+    "description": "Badger's Official Anticheat [code inspirations from DevLanceGood and Bluethefurry on GitHub]",
+    "stars": 43,
+    "forks": 29,
+    "languages": {
+      "Lua": 73937
+    },
+    "contributions_by_user": 44,
+    "contribution_score": 678.1,
+    "S_code": 72.2,
+    "S_social": 101,
+    "S_maint": 44
+  },
+  {
+    "name": "DiscordAcePerms",
+    "full_name": "JaredScar/DiscordAcePerms",
+    "html_url": "https://github.com/JaredScar/DiscordAcePerms",
+    "description": "A fivem script",
+    "stars": 41,
+    "forks": 25,
+    "languages": {
+      "Lua": 11687
+    },
+    "contributions_by_user": 43,
+    "contribution_score": 617.71,
+    "S_code": 11.41,
+    "S_social": 91,
+    "S_maint": 43
+  },
+  {
+    "name": "Bad-DiscordQueue",
+    "full_name": "JaredScar/Bad-DiscordQueue",
+    "html_url": "https://github.com/JaredScar/Bad-DiscordQueue",
+    "description": "A Fivem Script",
+    "stars": 31,
+    "forks": 11,
+    "languages": {
+      "Lua": 24599
+    },
+    "contributions_by_user": 42,
+    "contribution_score": 538.01,
+    "S_code": 24.02,
+    "S_social": 53,
+    "S_maint": 42
+  },
+  {
+    "name": "Multiverse-World-Manager",
+    "full_name": "JaredScar/Multiverse-World-Manager",
+    "html_url": "https://github.com/JaredScar/Multiverse-World-Manager",
+    "description": "A FiveM Script taking advantage of routing buckets",
+    "stars": 25,
+    "forks": 16,
+    "languages": {
+      "Lua": 9771
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 168.77,
+    "S_code": 9.54,
+    "S_social": 57,
+    "S_maint": 5
+  },
+  {
+    "name": "PoliceEMSActivity",
+    "full_name": "JaredScar/PoliceEMSActivity",
+    "html_url": "https://github.com/JaredScar/PoliceEMSActivity",
+    "description": "A simple EMS Activity Blip Fivem script that has some other features too",
+    "stars": 19,
+    "forks": 22,
+    "languages": {
+      "Lua": 12113
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 241.91,
+    "S_code": 11.83,
+    "S_social": 63,
+    "S_maint": 11
+  },
+  {
+    "name": "DiscordDonatorPerks",
+    "full_name": "JaredScar/DiscordDonatorPerks",
+    "html_url": "https://github.com/JaredScar/DiscordDonatorPerks",
+    "description": "A FiveM Script",
+    "stars": 18,
+    "forks": 7,
+    "languages": {
+      "Lua": 17804
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 192.69,
+    "S_code": 17.39,
+    "S_social": 32,
+    "S_maint": 12
+  },
+  {
+    "name": "DiscordReports",
+    "full_name": "JaredScar/DiscordReports",
+    "html_url": "https://github.com/JaredScar/DiscordReports",
+    "description": "A Fivem script",
+    "stars": 18,
+    "forks": 9,
+    "languages": {
+      "Lua": 5729
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 144.8,
+    "S_code": 5.59,
+    "S_social": 36,
+    "S_maint": 7
+  },
+  {
+    "name": "BadgerStaffPanel",
+    "full_name": "JaredScar/BadgerStaffPanel",
+    "html_url": "https://github.com/JaredScar/BadgerStaffPanel",
+    "description": "The official BadgerStaffPanel Codebase",
+    "stars": 16,
+    "forks": 5,
+    "languages": {
+      "PHP": 144678,
+      "Lua": 45236,
+      "CSS": 13926,
+      "JavaScript": 4421
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 313.69,
+    "S_code": 203.38,
+    "S_social": 26,
+    "S_maint": 16
+  },
+  {
+    "name": "BadgerStaffPanelPlus",
+    "full_name": "JaredScar/BadgerStaffPanelPlus",
+    "html_url": "https://github.com/JaredScar/BadgerStaffPanelPlus",
+    "description": "The official BadgerStaffPanel+ repository",
+    "stars": 14,
+    "forks": 0,
+    "languages": {
+      "Blade": 339724,
+      "PHP": 138303,
+      "CSS": 24733,
+      "JavaScript": 285
+    },
+    "contributions_by_user": 85,
+    "contribution_score": 1123.63,
+    "S_code": 491.25,
+    "S_social": 14,
+    "S_maint": 85
+  },
+  {
+    "name": "BadgerStockMarket",
+    "full_name": "JaredScar/BadgerStockMarket",
+    "html_url": "https://github.com/JaredScar/BadgerStockMarket",
+    "description": "A FiveM Script (that actually utilizes the real stock market, pretty nifty)",
+    "stars": 14,
+    "forks": 3,
+    "languages": {
+      "Lua": 16198,
+      "JavaScript": 12725,
+      "HTML": 7626,
+      "CSS": 6919
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 171.22,
+    "S_code": 42.45,
+    "S_social": 20,
+    "S_maint": 11
+  },
+  {
+    "name": "Badger_Tackle",
+    "full_name": "JaredScar/Badger_Tackle",
+    "html_url": "https://github.com/JaredScar/Badger_Tackle",
+    "description": "Enables tackling for cops",
+    "stars": 14,
+    "forks": 6,
+    "languages": {
+      "Lua": 4742
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 94.32,
+    "S_code": 4.63,
+    "S_social": 26,
+    "S_maint": 4
+  },
+  {
+    "name": "DiscordTagIDs",
+    "full_name": "JaredScar/DiscordTagIDs",
+    "html_url": "https://github.com/JaredScar/DiscordTagIDs",
+    "description": "A fivem script",
+    "stars": 13,
+    "forks": 3,
+    "languages": {
+      "Lua": 17732
+    },
+    "contributions_by_user": 34,
+    "contribution_score": 386.66,
+    "S_code": 17.32,
+    "S_social": 19,
+    "S_maint": 34
+  },
+  {
+    "name": "Badssentials",
+    "full_name": "JaredScar/Badssentials",
+    "html_url": "https://github.com/JaredScar/Badssentials",
+    "description": "A Fivem Script",
+    "stars": 13,
+    "forks": 12,
+    "languages": {
+      "Lua": 73081
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 349.68,
+    "S_code": 71.37,
+    "S_social": 37,
+    "S_maint": 24
+  },
+  {
+    "name": "DiscordChatRoles",
+    "full_name": "JaredScar/DiscordChatRoles",
+    "html_url": "https://github.com/JaredScar/DiscordChatRoles",
+    "description": "A fivem script",
+    "stars": 13,
+    "forks": 10,
+    "languages": {
+      "Lua": 21403
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 256.45,
+    "S_code": 20.9,
+    "S_social": 33,
+    "S_maint": 18
+  },
+  {
+    "name": "DiscordWeaponPerms",
+    "full_name": "JaredScar/DiscordWeaponPerms",
+    "html_url": "https://github.com/JaredScar/DiscordWeaponPerms",
+    "description": "A fivem script",
+    "stars": 13,
+    "forks": 4,
+    "languages": {
+      "Lua": 4862
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 124.37,
+    "S_code": 4.75,
+    "S_social": 21,
+    "S_maint": 8
+  },
+  {
+    "name": "BadgerBankRobbery",
+    "full_name": "JaredScar/BadgerBankRobbery",
+    "html_url": "https://github.com/JaredScar/BadgerBankRobbery",
+    "description": "A Fivem Script",
+    "stars": 13,
+    "forks": 14,
+    "languages": {
+      "Lua": 21798
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 192.64,
+    "S_code": 21.29,
+    "S_social": 41,
+    "S_maint": 10
+  },
+  {
+    "name": "Bad-Scoreboard",
+    "full_name": "JaredScar/Bad-Scoreboard",
+    "html_url": "https://github.com/JaredScar/Bad-Scoreboard",
+    "description": "The best Fivem Scoreboard created [A Fivem Script]",
+    "stars": 12,
+    "forks": 7,
+    "languages": {
+      "Lua": 8864,
+      "HTML": 1498,
+      "JavaScript": 1456,
+      "CSS": 1175
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 218.34,
+    "S_code": 12.69,
+    "S_social": 26,
+    "S_maint": 16
+  },
+  {
+    "name": "BadgerFires",
+    "full_name": "JaredScar/BadgerFires",
+    "html_url": "https://github.com/JaredScar/BadgerFires",
+    "description": "A FiveM Fire Script",
+    "stars": 11,
+    "forks": 1,
+    "languages": {
+      "Lua": 32193
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 231.72,
+    "S_code": 31.44,
+    "S_social": 13,
+    "S_maint": 19
+  },
+  {
+    "name": "ResourceEventScrambler",
+    "full_name": "JaredScar/ResourceEventScrambler",
+    "html_url": "https://github.com/JaredScar/ResourceEventScrambler",
+    "description": "Initial Commit",
+    "stars": 11,
+    "forks": 7,
+    "languages": {
+      "Java": 15995,
+      "Lua": 5125
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 220.31,
+    "S_code": 20.62,
+    "S_social": 25,
+    "S_maint": 16
+  },
+  {
+    "name": "BadgerTracer",
+    "full_name": "JaredScar/BadgerTracer",
+    "html_url": "https://github.com/JaredScar/BadgerTracer",
+    "description": "A username logging script for Fivem servers. Don't allow people to RDM/VDM, change their name, and act like you don't know them...",
+    "stars": 11,
+    "forks": 3,
+    "languages": {
+      "Lua": 2753
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 65.34,
+    "S_code": 2.69,
+    "S_social": 17,
+    "S_maint": 3
+  },
+  {
+    "name": "DiscordVehicleWhitelist",
+    "full_name": "JaredScar/DiscordVehicleWhitelist",
+    "html_url": "https://github.com/JaredScar/DiscordVehicleWhitelist",
+    "description": "A Discord vehicle restriction script [by Badger, inspired by FAXES]",
+    "stars": 10,
+    "forks": 7,
+    "languages": {
+      "Lua": 8589
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 152.19,
+    "S_code": 8.39,
+    "S_social": 24,
+    "S_maint": 10
+  },
+  {
+    "name": "BadgerStore",
+    "full_name": "JaredScar/BadgerStore",
+    "html_url": "https://github.com/JaredScar/BadgerStore",
+    "description": "My badger.store website",
+    "stars": 10,
+    "forks": 3,
+    "languages": {
+      "PHP": 258542,
+      "JavaScript": 235319,
+      "CSS": 19882
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 412.85,
+    "S_code": 501.7,
+    "S_social": 16,
+    "S_maint": 13
+  },
+  {
+    "name": "DiscordVehicleRestrictions",
+    "full_name": "JaredScar/DiscordVehicleRestrictions",
+    "html_url": "https://github.com/JaredScar/DiscordVehicleRestrictions",
+    "description": "A FiveM Script [lol, do these get old as the default description?]",
+    "stars": 8,
+    "forks": 3,
+    "languages": {
+      "Lua": 6064
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 160.96,
+    "S_code": 5.92,
+    "S_social": 14,
+    "S_maint": 13
+  },
+  {
+    "name": "DiscordPedPerms",
+    "full_name": "JaredScar/DiscordPedPerms",
+    "html_url": "https://github.com/JaredScar/DiscordPedPerms",
+    "description": "A fivem script",
+    "stars": 8,
+    "forks": 4,
+    "languages": {
+      "Lua": 3399
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 133.66,
+    "S_code": 3.32,
+    "S_social": 16,
+    "S_maint": 10
+  },
+  {
+    "name": "JaredScar",
+    "full_name": "JaredScar/JaredScar",
+    "html_url": "https://github.com/JaredScar/JaredScar",
+    "description": null,
+    "stars": 7,
+    "forks": 8,
+    "languages": {},
+    "contributions_by_user": 17,
+    "contribution_score": 216.0,
+    "S_code": 0.0,
+    "S_social": 23,
+    "S_maint": 17
+  },
+  {
+    "name": "BadgerTools-Revamped",
+    "full_name": "JaredScar/BadgerTools-Revamped",
+    "html_url": "https://github.com/JaredScar/BadgerTools-Revamped",
+    "description": "Basically a revamp of my BadgerTools script (more optimizaton and features with hardly any known bugs)",
+    "stars": 7,
+    "forks": 0,
+    "languages": {
+      "Lua": 28663
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 198.0,
+    "S_code": 27.99,
+    "S_social": 7,
+    "S_maint": 17
+  },
+  {
+    "name": "BadgerTools",
+    "full_name": "JaredScar/BadgerTools",
+    "html_url": "https://github.com/JaredScar/BadgerTools",
+    "description": "A Fivem Script",
+    "stars": 7,
+    "forks": 6,
+    "languages": {
+      "Lua": 21036
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 118.27,
+    "S_code": 20.54,
+    "S_social": 19,
+    "S_maint": 7
+  },
+  {
+    "name": "VehicleTrustSystem",
+    "full_name": "JaredScar/VehicleTrustSystem",
+    "html_url": "https://github.com/JaredScar/VehicleTrustSystem",
+    "description": "A Fivem Script",
+    "stars": 7,
+    "forks": 1,
+    "languages": {
+      "Lua": 15143
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 125.39,
+    "S_code": 14.79,
+    "S_social": 9,
+    "S_maint": 10
+  },
+  {
+    "name": "FivemDiscordPerms",
+    "full_name": "JaredScar/FivemDiscordPerms",
+    "html_url": "https://github.com/JaredScar/FivemDiscordPerms",
+    "description": "A project for Fivem",
+    "stars": 7,
+    "forks": 3,
+    "languages": {
+      "Lua": 122879,
+      "PHP": 10171,
+      "CSS": 2144,
+      "JavaScript": 1383,
+      "TSQL": 831,
+      "HTML": 553
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 233.36,
+    "S_code": 134.73,
+    "S_social": 13,
+    "S_maint": 14
+  },
+  {
+    "name": "EssentialBot",
+    "full_name": "JaredScar/EssentialBot",
+    "html_url": "https://github.com/JaredScar/EssentialBot",
+    "description": "A Discord Bot",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "Java": 163231
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 241.7,
+    "S_code": 159.41,
+    "S_social": 6,
+    "S_maint": 15
+  },
+  {
+    "name": "Rattled",
+    "full_name": "JaredScar/Rattled",
+    "html_url": "https://github.com/JaredScar/Rattled",
+    "description": "A new programming language created by Jared Scarito",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "Python": 4372
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 154.13,
+    "S_code": 4.27,
+    "S_social": 6,
+    "S_maint": 14
+  },
+  {
+    "name": "CPU-Simulator",
+    "full_name": "JaredScar/CPU-Simulator",
+    "html_url": "https://github.com/JaredScar/CPU-Simulator",
+    "description": "A CPU simulating program made in JavaScript for Sister Jane's class assignment.",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 51683,
+      "CSS": 14791,
+      "HTML": 12820
+    },
+    "contributions_by_user": 46,
+    "contribution_score": 510.72,
+    "S_code": 77.44,
+    "S_social": 6,
+    "S_maint": 46
+  },
+  {
+    "name": "BadgerAnims",
+    "full_name": "JaredScar/BadgerAnims",
+    "html_url": "https://github.com/JaredScar/BadgerAnims",
+    "description": "A Fivem Script",
+    "stars": 6,
+    "forks": 2,
+    "languages": {
+      "Lua": 7828
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 83.82,
+    "S_code": 7.64,
+    "S_social": 10,
+    "S_maint": 6
+  },
+  {
+    "name": "PedTrustSystem",
+    "full_name": "JaredScar/PedTrustSystem",
+    "html_url": "https://github.com/JaredScar/PedTrustSystem",
+    "description": "Basically like my VehicleTrustSystem script, but this one is for peds",
+    "stars": 6,
+    "forks": 1,
+    "languages": {
+      "Lua": 15765
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 53.7,
+    "S_code": 15.4,
+    "S_social": 8,
+    "S_maint": 3
+  },
+  {
+    "name": "Fivem-Keybase-Anticheat",
+    "full_name": "JaredScar/Fivem-Keybase-Anticheat",
+    "html_url": "https://github.com/JaredScar/Fivem-Keybase-Anticheat",
+    "description": "Coded by Badger",
+    "stars": 6,
+    "forks": 5,
+    "languages": {
+      "Lua": 2825
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 133.38,
+    "S_code": 2.76,
+    "S_social": 16,
+    "S_maint": 10
+  },
+  {
+    "name": "Badger_Doorlock",
+    "full_name": "JaredScar/Badger_Doorlock",
+    "html_url": "https://github.com/JaredScar/Badger_Doorlock",
+    "description": "Door lock [NO ESX REQUIRED]",
+    "stars": 5,
+    "forks": 2,
+    "languages": {
+      "Lua": 13314
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 204.5,
+    "S_code": 13.0,
+    "S_social": 9,
+    "S_maint": 18
+  },
+  {
+    "name": "Badger-Docs-Gitbook",
+    "full_name": "JaredScar/Badger-Docs-Gitbook",
+    "html_url": "https://github.com/JaredScar/Badger-Docs-Gitbook",
+    "description": "The Gitbook for Badger Docs",
+    "stars": 5,
+    "forks": 3,
+    "languages": {},
+    "contributions_by_user": 116,
+    "contribution_score": 1182.0,
+    "S_code": 0.0,
+    "S_social": 11,
+    "S_maint": 116
+  },
+  {
+    "name": "Badger-Priorities",
+    "full_name": "JaredScar/Badger-Priorities",
+    "html_url": "https://github.com/JaredScar/Badger-Priorities",
+    "description": "A Fivem Script",
+    "stars": 5,
+    "forks": 7,
+    "languages": {
+      "Lua": 10728
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 183.24,
+    "S_code": 10.48,
+    "S_social": 19,
+    "S_maint": 14
+  },
+  {
+    "name": "Badger_Jailing",
+    "full_name": "JaredScar/Badger_Jailing",
+    "html_url": "https://github.com/JaredScar/Badger_Jailing",
+    "description": "A FiveM script",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "Lua": 10102
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 158.93,
+    "S_code": 9.87,
+    "S_social": 7,
+    "S_maint": 14
+  },
+  {
+    "name": "Badger-911",
+    "full_name": "JaredScar/Badger-911",
+    "html_url": "https://github.com/JaredScar/Badger-911",
+    "description": "A Fivem Script",
+    "stars": 5,
+    "forks": 4,
+    "languages": {
+      "Lua": 4651
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 108.27,
+    "S_code": 4.54,
+    "S_social": 13,
+    "S_maint": 8
+  },
+  {
+    "name": "Pokecord-2",
+    "full_name": "JaredScar/Pokecord-2",
+    "html_url": "https://github.com/JaredScar/Pokecord-2",
+    "description": "Pokécord 2 [by Badger] Documentation",
+    "stars": 5,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 18,
+    "contribution_score": 194.0,
+    "S_code": 0.0,
+    "S_social": 7,
+    "S_maint": 18
+  },
+  {
+    "name": "SimpleRoleBot",
+    "full_name": "JaredScar/SimpleRoleBot",
+    "html_url": "https://github.com/JaredScar/SimpleRoleBot",
+    "description": "Initial Commit",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "Java": 13434
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 70.56,
+    "S_code": 13.12,
+    "S_social": 7,
+    "S_maint": 5
+  },
+  {
+    "name": "cuff-plus",
+    "full_name": "JaredScar/cuff-plus",
+    "html_url": "https://github.com/JaredScar/cuff-plus",
+    "description": null,
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Lua": 4581
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 22.24,
+    "S_code": 4.47,
+    "S_social": 5,
+    "S_maint": 1
+  },
+  {
+    "name": "z-scoreboard",
+    "full_name": "JaredScar/z-scoreboard",
+    "html_url": "https://github.com/JaredScar/z-scoreboard",
+    "description": "The Best Configurable Playerlist/Scoreboard",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "CSS": 4879,
+      "Lua": 3115,
+      "JavaScript": 956,
+      "HTML": 750
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 28.74,
+    "S_code": 9.47,
+    "S_social": 7,
+    "S_maint": 1
+  },
+  {
+    "name": "AirlineOracle",
+    "full_name": "JaredScar/AirlineOracle",
+    "html_url": "https://github.com/JaredScar/AirlineOracle",
+    "description": "Airlines Oracle SQL Project created for Professor Hong's class at SJC",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Java": 56339,
+      "CSS": 3072,
+      "HTML": 188,
+      "Batchfile": 27
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 249.11,
+    "S_code": 58.23,
+    "S_social": 5,
+    "S_maint": 21
+  },
+  {
+    "name": "SandyVehiclesRestrict",
+    "full_name": "JaredScar/SandyVehiclesRestrict",
+    "html_url": "https://github.com/JaredScar/SandyVehiclesRestrict",
+    "description": "A Fivem Script",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Lua": 5057
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 132.47,
+    "S_code": 4.94,
+    "S_social": 5,
+    "S_maint": 12
+  },
+  {
+    "name": "MarchMadnessAlerts",
+    "full_name": "JaredScar/MarchMadnessAlerts",
+    "html_url": "https://github.com/JaredScar/MarchMadnessAlerts",
+    "description": "The March Madness Alerts System (SMS Alerts)",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Python": 6202
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 103.03,
+    "S_code": 6.06,
+    "S_social": 5,
+    "S_maint": 9
+  },
+  {
+    "name": "BadgerProtection",
+    "full_name": "JaredScar/BadgerProtection",
+    "html_url": "https://github.com/JaredScar/BadgerProtection",
+    "description": "BadgerProtection Source Code",
+    "stars": 5,
+    "forks": 2,
+    "languages": {
+      "Java": 45724
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 60.33,
+    "S_code": 44.65,
+    "S_social": 9,
+    "S_maint": 2
+  },
+  {
+    "name": "AdvancedRoleBot",
+    "full_name": "JaredScar/AdvancedRoleBot",
+    "html_url": "https://github.com/JaredScar/AdvancedRoleBot",
+    "description": "A successor to SimpleRoleBot",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "Java": 66092
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 124.27,
+    "S_code": 64.54,
+    "S_social": 6,
+    "S_maint": 8
+  },
+  {
+    "name": "AdventOfCode2021",
+    "full_name": "JaredScar/AdventOfCode2021",
+    "html_url": "https://github.com/JaredScar/AdventOfCode2021",
+    "description": "AdventOfCode2021",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "PHP": 17458
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 226.52,
+    "S_code": 17.05,
+    "S_social": 4,
+    "S_maint": 21
+  },
+  {
+    "name": "CollectiveBot",
+    "full_name": "JaredScar/CollectiveBot",
+    "html_url": "https://github.com/JaredScar/CollectiveBot",
+    "description": "Initial Commit",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Java": 17198
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 96.4,
+    "S_code": 16.79,
+    "S_social": 4,
+    "S_maint": 8
+  },
+  {
+    "name": "Badger-Site",
+    "full_name": "JaredScar/Badger-Site",
+    "html_url": "https://github.com/JaredScar/Badger-Site",
+    "description": "Website for my online alias 'Badger'",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "CSS": 44894,
+      "HTML": 16152
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 77.81,
+    "S_code": 59.62,
+    "S_social": 4,
+    "S_maint": 4
+  },
+  {
+    "name": "Noir-Roleplay-Gitbook",
+    "full_name": "JaredScar/Noir-Roleplay-Gitbook",
+    "html_url": "https://github.com/JaredScar/Noir-Roleplay-Gitbook",
+    "description": "The Gitbook for Noir Roleplay",
+    "stars": 4,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 10,
+    "contribution_score": 112.0,
+    "S_code": 0.0,
+    "S_social": 6,
+    "S_maint": 10
+  },
+  {
+    "name": "BadgerWebChat",
+    "full_name": "JaredScar/BadgerWebChat",
+    "html_url": "https://github.com/JaredScar/BadgerWebChat",
+    "description": "A WebSocket minecraft chat displayer. This uses WebSockets to connect to a site to display the minecraft chat and to chat with the users through the site. This is not too advanced yet, but I will update it further eventually.",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Java": 3766
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 39.84,
+    "S_code": 3.68,
+    "S_social": 4,
+    "S_maint": 3
+  },
+  {
+    "name": "BadgerVoting",
+    "full_name": "JaredScar/BadgerVoting",
+    "html_url": "https://github.com/JaredScar/BadgerVoting",
+    "description": "A simple Fivem AOP Voting Script I wrote up",
+    "stars": 4,
+    "forks": 6,
+    "languages": {
+      "Lua": 3330
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 63.63,
+    "S_code": 3.25,
+    "S_social": 16,
+    "S_maint": 3
+  },
+  {
+    "name": "cfx-server-data",
+    "full_name": "JaredScar/cfx-server-data",
+    "html_url": "https://github.com/JaredScar/cfx-server-data",
+    "description": "Data repository for CitizenFX servers.",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 5123868,
+      "Lua": 90340,
+      "HTML": 19623,
+      "CSS": 8069
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 2581.52,
+    "S_code": 5119.04,
+    "S_social": 6,
+    "S_maint": 1
+  },
+  {
+    "name": "JFTP",
+    "full_name": "JaredScar/JFTP",
+    "html_url": "https://github.com/JaredScar/JFTP",
+    "description": "Your #1 FTP (File Transfer Protocol) program made by Jared Scarito!",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Java": 64916,
+      "CSS": 661,
+      "HTML": 188
+    },
+    "contributions_by_user": 33,
+    "contribution_score": 370.11,
+    "S_code": 64.22,
+    "S_social": 4,
+    "S_maint": 33
+  },
+  {
+    "name": "Memory_Manager",
+    "full_name": "JaredScar/Memory_Manager",
+    "html_url": "https://github.com/JaredScar/Memory_Manager",
+    "description": "Memory_Manager was a program designed to show how the memory is stored for jobs using the different memory fit algorithms.",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Java": 37074,
+      "CSS": 1895
+    },
+    "contributions_by_user": 36,
+    "contribution_score": 387.03,
+    "S_code": 38.06,
+    "S_social": 4,
+    "S_maint": 36
+  },
+  {
+    "name": "SimpleCiphers",
+    "full_name": "JaredScar/SimpleCiphers",
+    "html_url": "https://github.com/JaredScar/SimpleCiphers",
+    "description": "SimpleCiphers was a site designed to show how a few ciphers work in encrypting messages and decrypting encrypted messages.",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 20336,
+      "HTML": 19154,
+      "CSS": 10766
+    },
+    "contributions_by_user": 33,
+    "contribution_score": 366.54,
+    "S_code": 49.08,
+    "S_social": 6,
+    "S_maint": 33
+  },
+  {
+    "name": "ACMgnyrTester",
+    "full_name": "JaredScar/ACMgnyrTester",
+    "html_url": "https://github.com/JaredScar/ACMgnyrTester",
+    "description": "ACMgnyrTester is a program that was made to test https://acmgnyr.org inputs for their problems from their competition.",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Java": 15543
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 85.59,
+    "S_code": 15.18,
+    "S_social": 4,
+    "S_maint": 7
+  },
+  {
+    "name": "ACMgnyrProjects",
+    "full_name": "JaredScar/ACMgnyrProjects",
+    "html_url": "https://github.com/JaredScar/ACMgnyrProjects",
+    "description": "Projects created from problems provided by the https://acmgnyr.org competition",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Python": 11624
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 43.68,
+    "S_code": 11.35,
+    "S_social": 4,
+    "S_maint": 3
+  },
+  {
+    "name": "JaredsCalculator",
+    "full_name": "JaredScar/JaredsCalculator",
+    "html_url": "https://github.com/JaredScar/JaredsCalculator",
+    "description": "A Java Calculator program that was made for Professor McAllister's COM-370 class at St. Joseph's College Long Island.",
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "Java": 33014
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 122.12,
+    "S_code": 32.24,
+    "S_social": 8,
+    "S_maint": 9
+  },
+  {
+    "name": "CharityBotJava",
+    "full_name": "JaredScar/CharityBotJava",
+    "html_url": "https://github.com/JaredScar/CharityBotJava",
+    "description": null,
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Java": 6551
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 61.2,
+    "S_code": 6.4,
+    "S_social": 4,
+    "S_maint": 5
+  },
+  {
+    "name": "home",
+    "full_name": "JaredScar/home",
+    "html_url": "https://github.com/JaredScar/home",
+    "description": "This will be the location of SJC-ACM's website",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "CSS": 6534,
+      "HTML": 5793,
+      "JavaScript": 4921
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 186.42,
+    "S_code": 16.84,
+    "S_social": 4,
+    "S_maint": 17
+  },
+  {
+    "name": "SQLHelper",
+    "full_name": "JaredScar/SQLHelper",
+    "html_url": "https://github.com/JaredScar/SQLHelper",
+    "description": "This is a helping class for the users of PHP with SQL in which the user can only use bind_result()! This makes it easier to use!",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "PHP": 5171
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 140.52,
+    "S_code": 5.05,
+    "S_social": 4,
+    "S_maint": 13
+  },
+  {
+    "name": "SortingAlgorithms",
+    "full_name": "JaredScar/SortingAlgorithms",
+    "html_url": "https://github.com/JaredScar/SortingAlgorithms",
+    "description": "SortingAlgorithms is a project made for people who want to understand the sorting algorithms more clearly.",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Java": 15401
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 55.52,
+    "S_code": 15.04,
+    "S_social": 4,
+    "S_maint": 4
+  },
+  {
+    "name": "PlatformerRevamped",
+    "full_name": "JaredScar/PlatformerRevamped",
+    "html_url": "https://github.com/JaredScar/PlatformerRevamped",
+    "description": "This is Jared's Platformer project, but it is the revamped version",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Java": 42449
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 108.73,
+    "S_code": 41.45,
+    "S_social": 4,
+    "S_maint": 8
+  },
+  {
+    "name": "SupplyCrates",
+    "full_name": "JaredScar/SupplyCrates",
+    "html_url": "https://github.com/JaredScar/SupplyCrates",
+    "description": "SupplyCrates Source",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Java": 20408
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 67.96,
+    "S_code": 19.93,
+    "S_social": 4,
+    "S_maint": 5
+  },
+  {
+    "name": "J-SSH",
+    "full_name": "JaredScar/J-SSH",
+    "html_url": "https://github.com/JaredScar/J-SSH",
+    "description": "A simple SSH program that supports running commands via actions",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 217151,
+      "Java": 144365,
+      "CSS": 126078,
+      "HTML": 8812,
+      "SCSS": 2014,
+      "JavaScript": 372,
+      "Batchfile": 255
+    },
+    "contributions_by_user": 62,
+    "contribution_score": 869.68,
+    "S_code": 487.35,
+    "S_social": 3,
+    "S_maint": 62
+  },
+  {
+    "name": "ComponentsById-Chrome-Ext",
+    "full_name": "JaredScar/ComponentsById-Chrome-Ext",
+    "html_url": "https://github.com/JaredScar/ComponentsById-Chrome-Ext",
+    "description": "Work in progress...",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 13741
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 232.71,
+    "S_code": 13.42,
+    "S_social": 3,
+    "S_maint": 22
+  },
+  {
+    "name": "vMenu",
+    "full_name": "JaredScar/vMenu",
+    "html_url": "https://github.com/JaredScar/vMenu",
+    "description": "vMenu is a custom server sided trainer/menu, built using a custom version of NativeUI. It has full permissions support, so the server owner can decide who's allowed to do what.",
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "C#": 1419606,
+      "HTML": 7078,
+      "Batchfile": 1315
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 951.27,
+    "S_code": 1394.53,
+    "S_social": 7,
+    "S_maint": 24
+  },
+  {
+    "name": "BadgerCopChat",
+    "full_name": "JaredScar/BadgerCopChat",
+    "html_url": "https://github.com/JaredScar/BadgerCopChat",
+    "description": "A FiveM script",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Lua": 5812
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 72.84,
+    "S_code": 5.68,
+    "S_social": 5,
+    "S_maint": 6
+  },
+  {
+    "name": "SpeedTrap",
+    "full_name": "JaredScar/SpeedTrap",
+    "html_url": "https://github.com/JaredScar/SpeedTrap",
+    "description": "A FiveM Script",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Lua": 6268
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 19.06,
+    "S_code": 6.12,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "DayCovidBot",
+    "full_name": "JaredScar/DayCovidBot",
+    "html_url": "https://github.com/JaredScar/DayCovidBot",
+    "description": "A Twitter bot I made to help spread information about COVID statistics",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Java": 24982
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 68.2,
+    "S_code": 24.4,
+    "S_social": 3,
+    "S_maint": 5
+  },
+  {
+    "name": "ModulateDemodulate",
+    "full_name": "JaredScar/ModulateDemodulate",
+    "html_url": "https://github.com/JaredScar/ModulateDemodulate",
+    "description": "ModulateDemodulate made for Lane's Networking class circa Spring 2020...",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5069,
+      "CSS": 1811,
+      "HTML": 1609
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 100.15,
+    "S_code": 8.29,
+    "S_social": 3,
+    "S_maint": 9
+  },
+  {
+    "name": "FiveM-JailNJury",
+    "full_name": "JaredScar/FiveM-JailNJury",
+    "html_url": "https://github.com/JaredScar/FiveM-JailNJury",
+    "description": "A Jail and Justice System that gives power back to the players.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Lua": 25588
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 28.49,
+    "S_code": 24.99,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "Minesweeper",
+    "full_name": "JaredScar/Minesweeper",
+    "html_url": "https://github.com/JaredScar/Minesweeper",
+    "description": "Remaking Minesweeper with HTML Canvas",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6247,
+      "HTML": 757,
+      "CSS": 575
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.7,
+    "S_code": 7.4,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "algorithms-and-data-structures",
+    "full_name": "JaredScar/algorithms-and-data-structures",
+    "html_url": "https://github.com/JaredScar/algorithms-and-data-structures",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "C": 2514
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.23,
+    "S_code": 2.46,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "guides",
+    "full_name": "JaredScar/guides",
+    "html_url": "https://github.com/JaredScar/guides",
+    "description": "A collection of easy-to-understand guides to programming tools",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 53808,
+      "CSS": 3473
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 33.97,
+    "S_code": 55.94,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "socket.io",
+    "full_name": "JaredScar/socket.io",
+    "html_url": "https://github.com/JaredScar/socket.io",
+    "description": "Realtime application framework (Node.JS server)",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 102084
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 55.85,
+    "S_code": 99.69,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "CrateDrop",
+    "full_name": "JaredScar/CrateDrop",
+    "html_url": "https://github.com/JaredScar/CrateDrop",
+    "description": "Cratedrop Source",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Java": 14009
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 52.84,
+    "S_code": 13.68,
+    "S_social": 3,
+    "S_maint": 4
+  },
+  {
+    "name": "BankVault",
+    "full_name": "JaredScar/BankVault",
+    "html_url": "https://github.com/JaredScar/BankVault",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Java": 12696
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 32.2,
+    "S_code": 12.4,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "Cliques",
+    "full_name": "JaredScar/Cliques",
+    "html_url": "https://github.com/JaredScar/Cliques",
+    "description": "Cliques Source Code",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Java": 37923
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 64.52,
+    "S_code": 37.03,
+    "S_social": 3,
+    "S_maint": 4
+  },
+  {
+    "name": "SimpleThirst",
+    "full_name": "JaredScar/SimpleThirst",
+    "html_url": "https://github.com/JaredScar/SimpleThirst",
+    "description": "SimpleThirst Source",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Java": 3647
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 57.78,
+    "S_code": 3.56,
+    "S_social": 3,
+    "S_maint": 5
+  },
+  {
+    "name": "practiceKits",
+    "full_name": "JaredScar/practiceKits",
+    "html_url": "https://github.com/JaredScar/practiceKits",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Java": 6819
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 29.33,
+    "S_code": 6.66,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "FastfoodLikeMe",
+    "full_name": "JaredScar/FastfoodLikeMe",
+    "html_url": "https://github.com/JaredScar/FastfoodLikeMe",
+    "description": "FastfoodLikeMe Source Code",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Java": 2633
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 37.29,
+    "S_code": 2.57,
+    "S_social": 3,
+    "S_maint": 3
+  },
+  {
+    "name": "MySQL",
+    "full_name": "JaredScar/MySQL",
+    "html_url": "https://github.com/JaredScar/MySQL",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 6.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "CharlieBot",
+    "full_name": "JaredScar/CharlieBot",
+    "html_url": "https://github.com/JaredScar/CharlieBot",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 209337
+    },
+    "contributions_by_user": 49,
+    "contribution_score": 596.22,
+    "S_code": 204.43,
+    "S_social": 2,
+    "S_maint": 49
+  },
+  {
+    "name": "cdn-fuel",
+    "full_name": "JaredScar/cdn-fuel",
+    "html_url": "https://github.com/JaredScar/cdn-fuel",
+    "description": "A functionality fuel system based off of LegacyFuel that uses PolyZones that target fueling pumps and vehicles to allow you to refuel your vehicle, as well as interact-sound to play accurate refueling sounds, Syphoning, Jerry Cans and more!",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Lua": 387896
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 243.4,
+    "S_code": 378.8,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "AdvertisementModule",
+    "full_name": "JaredScar/AdvertisementModule",
+    "html_url": "https://github.com/JaredScar/AdvertisementModule",
+    "description": "A NamelessMC module",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "PHP": 5107
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 96.49,
+    "S_code": 4.99,
+    "S_social": 2,
+    "S_maint": 9
+  },
+  {
+    "name": "BadgerHurricaneTracker",
+    "full_name": "JaredScar/BadgerHurricaneTracker",
+    "html_url": "https://github.com/JaredScar/BadgerHurricaneTracker",
+    "description": "Initial Commit",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "HTML": 16603,
+      "CSS": 11943,
+      "JavaScript": 8278
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 171.98,
+    "S_code": 35.96,
+    "S_social": 2,
+    "S_maint": 15
+  },
+  {
+    "name": "ART377-Midterm",
+    "full_name": "JaredScar/ART377-Midterm",
+    "html_url": "https://github.com/JaredScar/ART377-Midterm",
+    "description": "HTML website",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 96602,
+      "HTML": 28526,
+      "CSS": 16171
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 112.99,
+    "S_code": 137.99,
+    "S_social": 2,
+    "S_maint": 4
+  },
+  {
+    "name": "ServerTrials",
+    "full_name": "JaredScar/ServerTrials",
+    "html_url": "https://github.com/JaredScar/ServerTrials",
+    "description": "ServerTrials Source",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 17626
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 62.61,
+    "S_code": 17.21,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "LoggingPreventor",
+    "full_name": "JaredScar/LoggingPreventor",
+    "html_url": "https://github.com/JaredScar/LoggingPreventor",
+    "description": "Combat Logging Preventor",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 8883
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 38.34,
+    "S_code": 8.67,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "Fire_Aspect-Torches",
+    "full_name": "JaredScar/Fire_Aspect-Torches",
+    "html_url": "https://github.com/JaredScar/Fire_Aspect-Torches",
+    "description": "Fire_Aspect-Torches Source",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 2451
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 65.2,
+    "S_code": 2.39,
+    "S_social": 2,
+    "S_maint": 6
+  },
+  {
+    "name": "Anti-Teaming",
+    "full_name": "JaredScar/Anti-Teaming",
+    "html_url": "https://github.com/JaredScar/Anti-Teaming",
+    "description": "Anti-Teaming Source",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 5844
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 36.85,
+    "S_code": 5.71,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "AntiMobSteals",
+    "full_name": "JaredScar/AntiMobSteals",
+    "html_url": "https://github.com/JaredScar/AntiMobSteals",
+    "description": "AntiMobSteals Source",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Java": 3560
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 39.74,
+    "S_code": 3.48,
+    "S_social": 4,
+    "S_maint": 3
+  },
+  {
+    "name": "StaffTrials",
+    "full_name": "JaredScar/StaffTrials",
+    "html_url": "https://github.com/JaredScar/StaffTrials",
+    "description": "StaffTrials Source Code",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 14585
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 81.12,
+    "S_code": 14.24,
+    "S_social": 2,
+    "S_maint": 7
+  },
+  {
+    "name": "rpgParties",
+    "full_name": "JaredScar/rpgParties",
+    "html_url": "https://github.com/JaredScar/rpgParties",
+    "description": "rpgParties Source",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 17826
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 42.7,
+    "S_code": 17.41,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "Preventors",
+    "full_name": "JaredScar/Preventors",
+    "html_url": "https://github.com/JaredScar/Preventors",
+    "description": "Preventors Source",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 2285
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 35.12,
+    "S_code": 2.23,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "Bandages",
+    "full_name": "JaredScar/Bandages",
+    "html_url": "https://github.com/JaredScar/Bandages",
+    "description": "Bandages Source",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 2633
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 45.29,
+    "S_code": 2.57,
+    "S_social": 2,
+    "S_maint": 4
+  },
+  {
+    "name": "ChargeJump",
+    "full_name": "JaredScar/ChargeJump",
+    "html_url": "https://github.com/JaredScar/ChargeJump",
+    "description": "ChargeJump Source",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 2058
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 55.0,
+    "S_code": 2.01,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "TimberTrees",
+    "full_name": "JaredScar/TimberTrees",
+    "html_url": "https://github.com/JaredScar/TimberTrees",
+    "description": "TimberTrees plugin made for a request [FREE]",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 1321
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 14.65,
+    "S_code": 1.29,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "CatchBracketMismatches",
+    "full_name": "JaredScar/CatchBracketMismatches",
+    "html_url": "https://github.com/JaredScar/CatchBracketMismatches",
+    "description": "Short program made in python which finds errors in your code with the brackets \"[\" \"]\" \"{\" \"}\" \"(\" \")\" and will point them out! :) ",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 3131
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 25.53,
+    "S_code": 3.06,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "SelectionTool-API-",
+    "full_name": "JaredScar/SelectionTool-API-",
+    "html_url": "https://github.com/JaredScar/SelectionTool-API-",
+    "description": "SelectionTool API Source",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 31462
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 39.36,
+    "S_code": 30.72,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "twitter-contest-bot",
+    "full_name": "JaredScar/twitter-contest-bot",
+    "html_url": "https://github.com/JaredScar/twitter-contest-bot",
+    "description": "Will poll for Retweet Contests and retweet them. Inspired by http://www.hscott.net/twitter-contest-winning-as-a-service/",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 7253
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.54,
+    "S_code": 7.08,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "github-basic-badges",
+    "full_name": "JaredScar/github-basic-badges",
+    "html_url": "https://github.com/JaredScar/github-basic-badges",
+    "description": "Basic badges for github",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Ruby": 8752
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.27,
+    "S_code": 8.55,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "TrustSystemDBConverter",
+    "full_name": "JaredScar/TrustSystemDBConverter",
+    "html_url": "https://github.com/JaredScar/TrustSystemDBConverter",
+    "description": "Python script designed as a successor to the original FiveM script named VehicleTrustSystem",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 5327
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 44.6,
+    "S_code": 5.2,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "gd_tornado",
+    "full_name": "JaredScar/gd_tornado",
+    "html_url": "https://github.com/JaredScar/gd_tornado",
+    "description": "Lua-based Port of https://github.com/CamxxCore/TornadoScript for FiveM",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Lua": 25729
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.56,
+    "S_code": 25.13,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ngx-multi-window",
+    "full_name": "JaredScar/ngx-multi-window",
+    "html_url": "https://github.com/JaredScar/ngx-multi-window",
+    "description": "📬 Cross-window communication for multi-window angular apps",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 38161,
+      "HTML": 4733,
+      "JavaScript": 2973,
+      "Shell": 2212,
+      "CSS": 1438
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 126.18,
+    "S_code": 48.36,
+    "S_social": 1,
+    "S_maint": 10
+  },
+  {
+    "name": "Vivaldi-Stylesheets",
+    "full_name": "JaredScar/Vivaldi-Stylesheets",
+    "html_url": "https://github.com/JaredScar/Vivaldi-Stylesheets",
+    "description": "Some stylesheets I've made for use with the Vivaldi browser (https://vivaldi.com)",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "CSS": 4402
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 58.15,
+    "S_code": 4.3,
+    "S_social": 3,
+    "S_maint": 5
+  },
+  {
+    "name": "AngTicTacToe",
+    "full_name": "JaredScar/AngTicTacToe",
+    "html_url": "https://github.com/JaredScar/AngTicTacToe",
+    "description": "My First Angular App (Tic Tac Toe)",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 7178,
+      "JavaScript": 1432,
+      "HTML": 601,
+      "CSS": 224
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 26.61,
+    "S_code": 9.21,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "Dashboard_Utils",
+    "full_name": "JaredScar/Dashboard_Utils",
+    "html_url": "https://github.com/JaredScar/Dashboard_Utils",
+    "description": "A Util repository that can be useful for most dashboard systems and websites that manage data",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "PHP": 18963
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 81.26,
+    "S_code": 18.52,
+    "S_social": 1,
+    "S_maint": 7
+  },
+  {
+    "name": "fivem-tgiann-carhud",
+    "full_name": "JaredScar/fivem-tgiann-carhud",
+    "html_url": "https://github.com/JaredScar/fivem-tgiann-carhud",
+    "description": "Fivem tgiann-carhud script",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Lua": 27120
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 35.24,
+    "S_code": 26.48,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "BadgerColorChat",
+    "full_name": "JaredScar/BadgerColorChat",
+    "html_url": "https://github.com/JaredScar/BadgerColorChat",
+    "description": "BadgerColorChat Source",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 3397
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 43.66,
+    "S_code": 3.32,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "clients",
+    "full_name": "JaredScar/clients",
+    "html_url": "https://github.com/JaredScar/clients",
+    "description": "Bitwarden client apps (web, browser extension, desktop, and cli).",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 18607094,
+      "HTML": 1263633,
+      "SCSS": 526182,
+      "Rust": 334828,
+      "JavaScript": 183325,
+      "MDX": 182436,
+      "Swift": 36041,
+      "CSS": 17775,
+      "PowerShell": 13993,
+      "Objective-C": 11468,
+      "Shell": 7527,
+      "Dockerfile": 2734,
+      "NSIS": 858,
+      "EJS": 408
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10345.85,
+    "S_code": 20691.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "AOC-Rust-2025",
+    "full_name": "JaredScar/AOC-Rust-2025",
+    "html_url": "https://github.com/JaredScar/AOC-Rust-2025",
+    "description": "Advent of Code 2025 - Participating using Rust",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 15372
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 207.51,
+    "S_code": 15.01,
+    "S_social": 0,
+    "S_maint": 20
+  },
+  {
+    "name": "LBi-Name-Selector",
+    "full_name": "JaredScar/LBi-Name-Selector",
+    "html_url": "https://github.com/JaredScar/LBi-Name-Selector",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "server",
+    "full_name": "JaredScar/server",
+    "html_url": "https://github.com/JaredScar/server",
+    "description": "Bitwarden infrastructure/backend (API, database, Docker, etc).",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 13825722,
+      "TSQL": 2126432,
+      "Handlebars": 426678,
+      "HTML": 144419,
+      "Shell": 35656,
+      "Dockerfile": 26390,
+      "JavaScript": 26225,
+      "PowerShell": 10916,
+      "PLpgSQL": 7072,
+      "Rust": 5807,
+      "SCSS": 3848,
+      "CSS": 1940
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8125.54,
+    "S_code": 16251.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "qb-inventory-rework",
+    "full_name": "JaredScar/qb-inventory-rework",
+    "html_url": "https://github.com/JaredScar/qb-inventory-rework",
+    "description": "A fully reworked QB-Inventory for QBCore (FiveM). a modern, feature-rich, and optimized inventory system.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 127977,
+      "Lua": 127198,
+      "JavaScript": 61807,
+      "CSS": 23568
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 186.28,
+    "S_code": 332.57,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "bInventory",
+    "full_name": "JaredScar/bInventory",
+    "html_url": "https://github.com/JaredScar/bInventory",
+    "description": "bCore Inventory Script",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 247152,
+      "HTML": 98593,
+      "Lua": 92366,
+      "JavaScript": 32992,
+      "CSS": 25729
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 282.59,
+    "S_code": 485.19,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "infisical",
+    "full_name": "JaredScar/infisical",
+    "html_url": "https://github.com/JaredScar/infisical",
+    "description": "♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 6458030,
+      "Go": 498054,
+      "JavaScript": 47159,
+      "Handlebars": 8632,
+      "Makefile": 8531,
+      "Shell": 8372,
+      "MDX": 8208,
+      "Smarty": 5462,
+      "CSS": 5100,
+      "Dockerfile": 4605
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3443.43,
+    "S_code": 6886.87,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ps-mdt",
+    "full_name": "JaredScar/ps-mdt",
+    "html_url": "https://github.com/JaredScar/ps-mdt",
+    "description": "MDT for QBCore",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 209638,
+      "Lua": 201871,
+      "CSS": 134627,
+      "HTML": 71704
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 301.68,
+    "S_code": 603.36,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "qb-vehicleshop",
+    "full_name": "JaredScar/qb-vehicleshop",
+    "html_url": "https://github.com/JaredScar/qb-vehicleshop",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 109211
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 103.33,
+    "S_code": 106.65,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "Guardian",
+    "full_name": "JaredScar/Guardian",
+    "html_url": "https://github.com/JaredScar/Guardian",
+    "description": "Another FiveM Script by Jordan",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 6910
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.37,
+    "S_code": 6.75,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

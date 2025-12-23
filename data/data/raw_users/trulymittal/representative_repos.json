@@ -1,0 +1,2079 @@
+[
+  {
+    "name": "API-Authentication-NodeJs",
+    "full_name": "trulymittal/API-Authentication-NodeJs",
+    "html_url": "https://github.com/trulymittal/API-Authentication-NodeJs",
+    "description": "API Authentication using JWT's (JSON Web Tokens). Plug n Play inside any app which requires authentication. NodeJs Express MongoDB & Redis.",
+    "stars": 227,
+    "forks": 102,
+    "languages": {
+      "JavaScript": 9356,
+      "Shell": 240
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 936.69,
+    "S_code": 9.37,
+    "S_social": 431,
+    "S_maint": 7
+  },
+  {
+    "name": "google-maps-directions-tutorial",
+    "full_name": "trulymittal/google-maps-directions-tutorial",
+    "html_url": "https://github.com/trulymittal/google-maps-directions-tutorial",
+    "description": "Google Maps API integration in React with directions service",
+    "stars": 104,
+    "forks": 116,
+    "languages": {
+      "JavaScript": 4370,
+      "HTML": 1721
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 784.97,
+    "S_code": 5.95,
+    "S_social": 336,
+    "S_maint": 11
+  },
+  {
+    "name": "Nodejs-REST-API",
+    "full_name": "trulymittal/Nodejs-REST-API",
+    "html_url": "https://github.com/trulymittal/Nodejs-REST-API",
+    "description": "This is a RESTful API example based on Node.js and MongoDB, following the MVC pattern i.e. Model View Controller.",
+    "stars": 86,
+    "forks": 106,
+    "languages": {
+      "JavaScript": 5527,
+      "Shell": 129
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 638.76,
+    "S_code": 5.52,
+    "S_social": 298,
+    "S_maint": 4
+  },
+  {
+    "name": "react-firebase-auth",
+    "full_name": "trulymittal/react-firebase-auth",
+    "html_url": "https://github.com/trulymittal/react-firebase-auth",
+    "description": "Firebase authentication v9 (new API) with Reactjs and ChakraUI template with Dark Mode",
+    "stars": 56,
+    "forks": 30,
+    "languages": {
+      "JavaScript": 24462,
+      "HTML": 1721
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 304.78,
+    "S_code": 25.57,
+    "S_social": 116,
+    "S_maint": 6
+  },
+  {
+    "name": "gmail-api",
+    "full_name": "trulymittal/gmail-api",
+    "html_url": "https://github.com/trulymittal/gmail-api",
+    "description": "Sample application to send mails using the Gmail API using OAuth2.0",
+    "stars": 56,
+    "forks": 31,
+    "languages": {
+      "JavaScript": 1434
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 256.7,
+    "S_code": 1.4,
+    "S_social": 118,
+    "S_maint": 2
+  },
+  {
+    "name": "role-based-access-control",
+    "full_name": "trulymittal/role-based-access-control",
+    "html_url": "https://github.com/trulymittal/role-based-access-control",
+    "description": "This is a Role Based Access Control application using Nodejs, Express, Passport Js, etc. ",
+    "stars": 50,
+    "forks": 32,
+    "languages": {
+      "JavaScript": 10408,
+      "HTML": 5188,
+      "CSS": 3839,
+      "Shell": 130
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 337.55,
+    "S_code": 19.11,
+    "S_social": 114,
+    "S_maint": 10
+  },
+  {
+    "name": "RecyclerView",
+    "full_name": "trulymittal/RecyclerView",
+    "html_url": "https://github.com/trulymittal/RecyclerView",
+    "description": "This repo contains all the details about how to create a Recycler View, and in addition to that, it also contains various methods involved inside a recycler view like - ex: how to handle touch events, how to swipe to delete, and much more...",
+    "stars": 36,
+    "forks": 34,
+    "languages": {
+      "Java": 5681
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 250.77,
+    "S_code": 5.55,
+    "S_social": 104,
+    "S_maint": 4
+  },
+  {
+    "name": "express-draft",
+    "full_name": "trulymittal/express-draft",
+    "html_url": "https://github.com/trulymittal/express-draft",
+    "description": "This is a no nonsense and minimal Express.js application generator, which is can be used as a starting point for any express application.",
+    "stars": 33,
+    "forks": 13,
+    "languages": {
+      "JavaScript": 7118,
+      "Shell": 9
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 251.48,
+    "S_code": 6.96,
+    "S_social": 59,
+    "S_maint": 13
+  },
+  {
+    "name": "Geofencing",
+    "full_name": "trulymittal/Geofencing",
+    "html_url": "https://github.com/trulymittal/Geofencing",
+    "description": null,
+    "stars": 33,
+    "forks": 26,
+    "languages": {
+      "Java": 16712
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 198.16,
+    "S_code": 16.32,
+    "S_social": 85,
+    "S_maint": 2
+  },
+  {
+    "name": "chat-socket.io",
+    "full_name": "trulymittal/chat-socket.io",
+    "html_url": "https://github.com/trulymittal/chat-socket.io",
+    "description": null,
+    "stars": 29,
+    "forks": 31,
+    "languages": {
+      "JavaScript": 3166,
+      "HTML": 2292,
+      "CSS": 2267
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 205.77,
+    "S_code": 7.54,
+    "S_social": 91,
+    "S_maint": 2
+  },
+  {
+    "name": "rock-solid-server-setup",
+    "full_name": "trulymittal/rock-solid-server-setup",
+    "html_url": "https://github.com/trulymittal/rock-solid-server-setup",
+    "description": "Production grade server setup for any type of application ",
+    "stars": 25,
+    "forks": 36,
+    "languages": {
+      "Shell": 188
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 244.09,
+    "S_code": 0.18,
+    "S_social": 97,
+    "S_maint": 5
+  },
+  {
+    "name": "LocationTutorial",
+    "full_name": "trulymittal/LocationTutorial",
+    "html_url": "https://github.com/trulymittal/LocationTutorial",
+    "description": null,
+    "stars": 25,
+    "forks": 16,
+    "languages": {
+      "Java": 19004
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 193.28,
+    "S_code": 18.56,
+    "S_social": 57,
+    "S_maint": 7
+  },
+  {
+    "name": "mongodb_backup_nodejs",
+    "full_name": "trulymittal/mongodb_backup_nodejs",
+    "html_url": "https://github.com/trulymittal/mongodb_backup_nodejs",
+    "description": "Backup MongoDB using nodejs every night or at any time period or at any time as specified - using crontab",
+    "stars": 24,
+    "forks": 15,
+    "languages": {
+      "JavaScript": 1729
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 128.84,
+    "S_code": 1.69,
+    "S_social": 54,
+    "S_maint": 2
+  },
+  {
+    "name": "t3-app-with-express-react-vite-trpc-prisma",
+    "full_name": "trulymittal/t3-app-with-express-react-vite-trpc-prisma",
+    "html_url": "https://github.com/trulymittal/t3-app-with-express-react-vite-trpc-prisma",
+    "description": "Starter project with expressjs React+Vite and prisma as ORM",
+    "stars": 23,
+    "forks": 4,
+    "languages": {
+      "TypeScript": 8713,
+      "CSS": 548,
+      "HTML": 366,
+      "JavaScript": 282
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 186.84,
+    "S_code": 9.68,
+    "S_social": 31,
+    "S_maint": 12
+  },
+  {
+    "name": "ssl-secured",
+    "full_name": "trulymittal/ssl-secured",
+    "html_url": "https://github.com/trulymittal/ssl-secured",
+    "description": "Demo about generating and using a SSL/TLS certificate on a nodejs express server.",
+    "stars": 21,
+    "forks": 8,
+    "languages": {
+      "JavaScript": 492
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 84.24,
+    "S_code": 0.48,
+    "S_social": 37,
+    "S_maint": 1
+  },
+  {
+    "name": "FirebaseNotesApp",
+    "full_name": "trulymittal/FirebaseNotesApp",
+    "html_url": "https://github.com/trulymittal/FirebaseNotesApp",
+    "description": null,
+    "stars": 20,
+    "forks": 15,
+    "languages": {
+      "Java": 49791
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 144.31,
+    "S_code": 48.62,
+    "S_social": 50,
+    "S_maint": 2
+  },
+  {
+    "name": "tanstack-table-tutorial",
+    "full_name": "trulymittal/tanstack-table-tutorial",
+    "html_url": "https://github.com/trulymittal/tanstack-table-tutorial",
+    "description": null,
+    "stars": 19,
+    "forks": 9,
+    "languages": {
+      "JavaScript": 6059,
+      "CSS": 1756,
+      "HTML": 439
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 88.03,
+    "S_code": 8.06,
+    "S_social": 37,
+    "S_maint": 1
+  },
+  {
+    "name": "ShoppingCart",
+    "full_name": "trulymittal/ShoppingCart",
+    "html_url": "https://github.com/trulymittal/ShoppingCart",
+    "description": null,
+    "stars": 19,
+    "forks": 17,
+    "languages": {
+      "Java": 31077
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 211.17,
+    "S_code": 30.35,
+    "S_social": 53,
+    "S_maint": 9
+  },
+  {
+    "name": "todo-chakra-ui-with-dark-mode",
+    "full_name": "trulymittal/todo-chakra-ui-with-dark-mode",
+    "html_url": "https://github.com/trulymittal/todo-chakra-ui-with-dark-mode",
+    "description": "Simple todo-app with Chakra-ui components with dark mode enabled.",
+    "stars": 17,
+    "forks": 8,
+    "languages": {
+      "JavaScript": 3959,
+      "HTML": 1721
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 98.77,
+    "S_code": 5.55,
+    "S_social": 33,
+    "S_maint": 3
+  },
+  {
+    "name": "ECDH-AES-256-GCM",
+    "full_name": "trulymittal/ECDH-AES-256-GCM",
+    "html_url": "https://github.com/trulymittal/ECDH-AES-256-GCM",
+    "description": "This repo describes how to use the shared secret (generated using ECDH between two clients - Alice and Bob) to send encrypted messages between them using authenticated AES 256 using GCM",
+    "stars": 14,
+    "forks": 8,
+    "languages": {
+      "JavaScript": 1935
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 70.94,
+    "S_code": 1.89,
+    "S_social": 30,
+    "S_maint": 1
+  },
+  {
+    "name": "SectionRecyclerView",
+    "full_name": "trulymittal/SectionRecyclerView",
+    "html_url": "https://github.com/trulymittal/SectionRecyclerView",
+    "description": null,
+    "stars": 12,
+    "forks": 2,
+    "languages": {
+      "Java": 7559
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 45.69,
+    "S_code": 7.38,
+    "S_social": 16,
+    "S_maint": 1
+  },
+  {
+    "name": "forgot-password",
+    "full_name": "trulymittal/forgot-password",
+    "html_url": "https://github.com/trulymittal/forgot-password",
+    "description": "Simple logic for one-time password reset links",
+    "stars": 11,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 2465,
+      "HTML": 1057
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 61.72,
+    "S_code": 3.44,
+    "S_social": 15,
+    "S_maint": 3
+  },
+  {
+    "name": "slideshow-tutorial",
+    "full_name": "trulymittal/slideshow-tutorial",
+    "html_url": "https://github.com/trulymittal/slideshow-tutorial",
+    "description": "Slideshow using Framer motion",
+    "stars": 10,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 5094,
+      "HTML": 1721,
+      "CSS": 1232
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 77.93,
+    "S_code": 7.86,
+    "S_social": 12,
+    "S_maint": 5
+  },
+  {
+    "name": "Notifications",
+    "full_name": "trulymittal/Notifications",
+    "html_url": "https://github.com/trulymittal/Notifications",
+    "description": null,
+    "stars": 10,
+    "forks": 3,
+    "languages": {
+      "Java": 4391
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 44.14,
+    "S_code": 4.29,
+    "S_social": 16,
+    "S_maint": 1
+  },
+  {
+    "name": "nodejs-child-process-tutorial",
+    "full_name": "trulymittal/nodejs-child-process-tutorial",
+    "html_url": "https://github.com/trulymittal/nodejs-child-process-tutorial",
+    "description": "Demonstration of child process in nodejs",
+    "stars": 9,
+    "forks": 20,
+    "languages": {
+      "JavaScript": 2135,
+      "Shell": 34
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 129.06,
+    "S_code": 2.12,
+    "S_social": 49,
+    "S_maint": 3
+  },
+  {
+    "name": "caching-nodejs-redis",
+    "full_name": "trulymittal/caching-nodejs-redis",
+    "html_url": "https://github.com/trulymittal/caching-nodejs-redis",
+    "description": null,
+    "stars": 8,
+    "forks": 12,
+    "languages": {
+      "JavaScript": 1612
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 74.79,
+    "S_code": 1.57,
+    "S_social": 32,
+    "S_maint": 1
+  },
+  {
+    "name": "SharedViewModel",
+    "full_name": "trulymittal/SharedViewModel",
+    "html_url": "https://github.com/trulymittal/SharedViewModel",
+    "description": null,
+    "stars": 8,
+    "forks": 4,
+    "languages": {
+      "Java": 12154
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 67.93,
+    "S_code": 11.87,
+    "S_social": 16,
+    "S_maint": 3
+  },
+  {
+    "name": "DataBinding_RecyclerView",
+    "full_name": "trulymittal/DataBinding_RecyclerView",
+    "html_url": "https://github.com/trulymittal/DataBinding_RecyclerView",
+    "description": null,
+    "stars": 7,
+    "forks": 4,
+    "languages": {
+      "Java": 6416
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 73.13,
+    "S_code": 6.27,
+    "S_social": 15,
+    "S_maint": 4
+  },
+  {
+    "name": "RecyclerViewPopUpMenu",
+    "full_name": "trulymittal/RecyclerViewPopUpMenu",
+    "html_url": "https://github.com/trulymittal/RecyclerViewPopUpMenu",
+    "description": null,
+    "stars": 7,
+    "forks": 2,
+    "languages": {
+      "Java": 5967
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 44.91,
+    "S_code": 5.83,
+    "S_social": 11,
+    "S_maint": 2
+  },
+  {
+    "name": "RoomTodo",
+    "full_name": "trulymittal/RoomTodo",
+    "html_url": "https://github.com/trulymittal/RoomTodo",
+    "description": null,
+    "stars": 7,
+    "forks": 5,
+    "languages": {
+      "Java": 7812
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 47.81,
+    "S_code": 7.63,
+    "S_social": 17,
+    "S_maint": 1
+  },
+  {
+    "name": "ExpandableRecyclerView",
+    "full_name": "trulymittal/ExpandableRecyclerView",
+    "html_url": "https://github.com/trulymittal/ExpandableRecyclerView",
+    "description": null,
+    "stars": 7,
+    "forks": 11,
+    "languages": {
+      "Java": 10427
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 73.09,
+    "S_code": 10.18,
+    "S_social": 29,
+    "S_maint": 1
+  },
+  {
+    "name": "ECDH-AES-nodejs",
+    "full_name": "trulymittal/ECDH-AES-nodejs",
+    "html_url": "https://github.com/trulymittal/ECDH-AES-nodejs",
+    "description": "This repo describes how to use the shared secret (generated using ECDH between two clients - Alice and Bob) to send encrypted messages between them using AES 256.",
+    "stars": 6,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 1134
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 54.55,
+    "S_code": 1.11,
+    "S_social": 12,
+    "S_maint": 3
+  },
+  {
+    "name": "short-url-nodejs-mongodb",
+    "full_name": "trulymittal/short-url-nodejs-mongodb",
+    "html_url": "https://github.com/trulymittal/short-url-nodejs-mongodb",
+    "description": "This is an example of how to make a application which shortens the url entered by the client.",
+    "stars": 6,
+    "forks": 8,
+    "languages": {
+      "JavaScript": 2350,
+      "HTML": 687,
+      "CSS": 639
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 55.79,
+    "S_code": 3.59,
+    "S_social": 22,
+    "S_maint": 1
+  },
+  {
+    "name": "nodejs-file-upload",
+    "full_name": "trulymittal/nodejs-file-upload",
+    "html_url": "https://github.com/trulymittal/nodejs-file-upload",
+    "description": "Uploading files to a Nodejs express server",
+    "stars": 6,
+    "forks": 5,
+    "languages": {
+      "JavaScript": 1795,
+      "HTML": 1013
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 53.37,
+    "S_code": 2.74,
+    "S_social": 16,
+    "S_maint": 2
+  },
+  {
+    "name": "BroadcastReceiverDemo",
+    "full_name": "trulymittal/BroadcastReceiverDemo",
+    "html_url": "https://github.com/trulymittal/BroadcastReceiverDemo",
+    "description": null,
+    "stars": 6,
+    "forks": 2,
+    "languages": {
+      "Java": 4024
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 31.96,
+    "S_code": 3.93,
+    "S_social": 10,
+    "S_maint": 1
+  },
+  {
+    "name": "Retrofit",
+    "full_name": "trulymittal/Retrofit",
+    "html_url": "https://github.com/trulymittal/Retrofit",
+    "description": null,
+    "stars": 6,
+    "forks": 4,
+    "languages": {
+      "Java": 6594
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 41.22,
+    "S_code": 6.44,
+    "S_social": 14,
+    "S_maint": 1
+  },
+  {
+    "name": "cookies-tasty",
+    "full_name": "trulymittal/cookies-tasty",
+    "html_url": "https://github.com/trulymittal/cookies-tasty",
+    "description": "This is a demo application for: How to use cookies in an Express NodeJS application.",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 772
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 44.38,
+    "S_code": 0.75,
+    "S_social": 7,
+    "S_maint": 3
+  },
+  {
+    "name": "ListAdapter",
+    "full_name": "trulymittal/ListAdapter",
+    "html_url": "https://github.com/trulymittal/ListAdapter",
+    "description": null,
+    "stars": 5,
+    "forks": 3,
+    "languages": {
+      "Java": 9247
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 76.52,
+    "S_code": 9.03,
+    "S_social": 11,
+    "S_maint": 5
+  },
+  {
+    "name": "AsyncTask",
+    "full_name": "trulymittal/AsyncTask",
+    "html_url": "https://github.com/trulymittal/AsyncTask",
+    "description": null,
+    "stars": 5,
+    "forks": 3,
+    "languages": {
+      "Java": 3825
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 33.87,
+    "S_code": 3.74,
+    "S_social": 11,
+    "S_maint": 1
+  },
+  {
+    "name": "NavigationComponent",
+    "full_name": "trulymittal/NavigationComponent",
+    "html_url": "https://github.com/trulymittal/NavigationComponent",
+    "description": null,
+    "stars": 5,
+    "forks": 8,
+    "languages": {
+      "Java": 5918
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 54.89,
+    "S_code": 5.78,
+    "S_social": 21,
+    "S_maint": 1
+  },
+  {
+    "name": "CustomAlertDialog",
+    "full_name": "trulymittal/CustomAlertDialog",
+    "html_url": "https://github.com/trulymittal/CustomAlertDialog",
+    "description": null,
+    "stars": 5,
+    "forks": 5,
+    "languages": {
+      "Java": 2912
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 41.42,
+    "S_code": 2.84,
+    "S_social": 15,
+    "S_maint": 1
+  },
+  {
+    "name": "custom_fab_menu",
+    "full_name": "trulymittal/custom_fab_menu",
+    "html_url": "https://github.com/trulymittal/custom_fab_menu",
+    "description": null,
+    "stars": 5,
+    "forks": 3,
+    "languages": {
+      "Java": 4466
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 34.18,
+    "S_code": 4.36,
+    "S_social": 11,
+    "S_maint": 1
+  },
+  {
+    "name": "nodejs_dockerfile",
+    "full_name": "trulymittal/nodejs_dockerfile",
+    "html_url": "https://github.com/trulymittal/nodejs_dockerfile",
+    "description": "Dockerfile for Nodejs app",
+    "stars": 4,
+    "forks": 12,
+    "languages": {
+      "Dockerfile": 707,
+      "JavaScript": 245
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 86.46,
+    "S_code": 0.93,
+    "S_social": 28,
+    "S_maint": 3
+  },
+  {
+    "name": "DataBinding_intro",
+    "full_name": "trulymittal/DataBinding_intro",
+    "html_url": "https://github.com/trulymittal/DataBinding_intro",
+    "description": null,
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Java": 4099
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 30.0,
+    "S_code": 4.0,
+    "S_social": 4,
+    "S_maint": 2
+  },
+  {
+    "name": "RecyclerView-ViewBinding",
+    "full_name": "trulymittal/RecyclerView-ViewBinding",
+    "html_url": "https://github.com/trulymittal/RecyclerView-ViewBinding",
+    "description": null,
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "Java": 4407
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 28.15,
+    "S_code": 4.3,
+    "S_social": 8,
+    "S_maint": 1
+  },
+  {
+    "name": "NightMode",
+    "full_name": "trulymittal/NightMode",
+    "html_url": "https://github.com/trulymittal/NightMode",
+    "description": null,
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Java": 5146
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 20.51,
+    "S_code": 5.03,
+    "S_social": 4,
+    "S_maint": 1
+  },
+  {
+    "name": "mongodb",
+    "full_name": "trulymittal/mongodb",
+    "html_url": "https://github.com/trulymittal/mongodb",
+    "description": "Cheat Sheet MongoDB",
+    "stars": 4,
+    "forks": 5,
+    "languages": {
+      "JavaScript": 6609
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 91.23,
+    "S_code": 6.45,
+    "S_social": 14,
+    "S_maint": 6
+  },
+  {
+    "name": "viewModel_LiveData",
+    "full_name": "trulymittal/viewModel_LiveData",
+    "html_url": "https://github.com/trulymittal/viewModel_LiveData",
+    "description": null,
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "Java": 3760
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 113.84,
+    "S_code": 3.67,
+    "S_social": 6,
+    "S_maint": 10
+  },
+  {
+    "name": "ECDH-nodejs",
+    "full_name": "trulymittal/ECDH-nodejs",
+    "html_url": "https://github.com/trulymittal/ECDH-nodejs",
+    "description": "This repo explains the use of crypto nodejs module to generate Elliptic-curve Diffie–Hellman (ECDH) shared secret (256 bits) using secp256k1 curve.",
+    "stars": 3,
+    "forks": 4,
+    "languages": {
+      "JavaScript": 873
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 42.43,
+    "S_code": 0.85,
+    "S_social": 11,
+    "S_maint": 2
+  },
+  {
+    "name": "diffie-hellman-shared-secret",
+    "full_name": "trulymittal/diffie-hellman-shared-secret",
+    "html_url": "https://github.com/trulymittal/diffie-hellman-shared-secret",
+    "description": "This repo explains the use of crypto nodejs module to generate Diffie-Hellman shared secret using 3072 bit Modp group (15).",
+    "stars": 3,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 636
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 48.31,
+    "S_code": 0.62,
+    "S_social": 9,
+    "S_maint": 3
+  },
+  {
+    "name": "stytch-email-passcodes",
+    "full_name": "trulymittal/stytch-email-passcodes",
+    "html_url": "https://github.com/trulymittal/stytch-email-passcodes",
+    "description": "React + Express for handling authentication using Stytch email passcodes",
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 7659,
+      "CSS": 2692,
+      "HTML": 1721,
+      "Shell": 186
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 49.99,
+    "S_code": 11.97,
+    "S_social": 7,
+    "S_maint": 3
+  },
+  {
+    "name": "AdmobExample",
+    "full_name": "trulymittal/AdmobExample",
+    "html_url": "https://github.com/trulymittal/AdmobExample",
+    "description": null,
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Java": 1820
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 20.89,
+    "S_code": 1.78,
+    "S_social": 5,
+    "S_maint": 1
+  },
+  {
+    "name": "ViewBinding",
+    "full_name": "trulymittal/ViewBinding",
+    "html_url": "https://github.com/trulymittal/ViewBinding",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Java": 2416
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 17.18,
+    "S_code": 2.36,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "CountdownTimer",
+    "full_name": "trulymittal/CountdownTimer",
+    "html_url": "https://github.com/trulymittal/CountdownTimer",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Java": 2027
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 16.99,
+    "S_code": 1.98,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "LottieApplication",
+    "full_name": "trulymittal/LottieApplication",
+    "html_url": "https://github.com/trulymittal/LottieApplication",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Java": 1629
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 16.8,
+    "S_code": 1.59,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "wordpress-docker-compose",
+    "full_name": "trulymittal/wordpress-docker-compose",
+    "html_url": "https://github.com/trulymittal/wordpress-docker-compose",
+    "description": "Docker compose file including uploads.ini file for seamless Wordpress installation.",
+    "stars": 3,
+    "forks": 12,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 84.0,
+    "S_code": 0.0,
+    "S_social": 27,
+    "S_maint": 3
+  },
+  {
+    "name": "BottomNavWithNavigationComponent",
+    "full_name": "trulymittal/BottomNavWithNavigationComponent",
+    "html_url": "https://github.com/trulymittal/BottomNavWithNavigationComponent",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Java": 3567
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 17.74,
+    "S_code": 3.48,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "AppbarNavgiationComponent",
+    "full_name": "trulymittal/AppbarNavgiationComponent",
+    "html_url": "https://github.com/trulymittal/AppbarNavgiationComponent",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Java": 3968
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 17.94,
+    "S_code": 3.88,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "DateTimePicker",
+    "full_name": "trulymittal/DateTimePicker",
+    "html_url": "https://github.com/trulymittal/DateTimePicker",
+    "description": null,
+    "stars": 3,
+    "forks": 5,
+    "languages": {
+      "Java": 4510
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 58.2,
+    "S_code": 4.4,
+    "S_social": 13,
+    "S_maint": 3
+  },
+  {
+    "name": "fifa-2022-standings",
+    "full_name": "trulymittal/fifa-2022-standings",
+    "html_url": "https://github.com/trulymittal/fifa-2022-standings",
+    "description": "FIFA World Cup 2022 standings",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5277,
+      "CSS": 59
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 56.61,
+    "S_code": 5.21,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "demo_express",
+    "full_name": "trulymittal/demo_express",
+    "html_url": "https://github.com/trulymittal/demo_express",
+    "description": null,
+    "stars": 2,
+    "forks": 5,
+    "languages": {
+      "JavaScript": 922,
+      "Shell": 40
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 34.47,
+    "S_code": 0.94,
+    "S_social": 12,
+    "S_maint": 1
+  },
+  {
+    "name": "serve-dir-like-ftp",
+    "full_name": "trulymittal/serve-dir-like-ftp",
+    "html_url": "https://github.com/trulymittal/serve-dir-like-ftp",
+    "description": null,
+    "stars": 2,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 262
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 26.13,
+    "S_code": 0.26,
+    "S_social": 8,
+    "S_maint": 1
+  },
+  {
+    "name": "MenuLoginLogout",
+    "full_name": "trulymittal/MenuLoginLogout",
+    "html_url": "https://github.com/trulymittal/MenuLoginLogout",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 3487
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 15.7,
+    "S_code": 3.41,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "AddingMenu",
+    "full_name": "trulymittal/AddingMenu",
+    "html_url": "https://github.com/trulymittal/AddingMenu",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 4104
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 36.0,
+    "S_code": 4.01,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "CustomButtons",
+    "full_name": "trulymittal/CustomButtons",
+    "html_url": "https://github.com/trulymittal/CustomButtons",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 1491
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 14.73,
+    "S_code": 1.46,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "ShakeAnimation",
+    "full_name": "trulymittal/ShakeAnimation",
+    "html_url": "https://github.com/trulymittal/ShakeAnimation",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 1759
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 14.86,
+    "S_code": 1.72,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "ConstraintSetAnimation",
+    "full_name": "trulymittal/ConstraintSetAnimation",
+    "html_url": "https://github.com/trulymittal/ConstraintSetAnimation",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 2945
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 55.44,
+    "S_code": 2.88,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "RunnablesThreadsHandlers",
+    "full_name": "trulymittal/RunnablesThreadsHandlers",
+    "html_url": "https://github.com/trulymittal/RunnablesThreadsHandlers",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 3175
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 15.55,
+    "S_code": 3.1,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "GlideApplication",
+    "full_name": "trulymittal/GlideApplication",
+    "html_url": "https://github.com/trulymittal/GlideApplication",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 1909
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 14.93,
+    "S_code": 1.86,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "RockPaperScissor",
+    "full_name": "trulymittal/RockPaperScissor",
+    "html_url": "https://github.com/trulymittal/RockPaperScissor",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Java": 4759
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 80.32,
+    "S_code": 4.65,
+    "S_social": 4,
+    "S_maint": 7
+  },
+  {
+    "name": "docker",
+    "full_name": "trulymittal/docker",
+    "html_url": "https://github.com/trulymittal/docker",
+    "description": "A very beginner friendly Dockerfile, to help you get started.",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Dockerfile": 762,
+      "JavaScript": 168
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 118.45,
+    "S_code": 0.91,
+    "S_social": 4,
+    "S_maint": 11
+  },
+  {
+    "name": "SplashSceen",
+    "full_name": "trulymittal/SplashSceen",
+    "html_url": "https://github.com/trulymittal/SplashSceen",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Java": 1972
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 28.96,
+    "S_code": 1.93,
+    "S_social": 4,
+    "S_maint": 2
+  },
+  {
+    "name": "JsonGson",
+    "full_name": "trulymittal/JsonGson",
+    "html_url": "https://github.com/trulymittal/JsonGson",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 49696
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 38.27,
+    "S_code": 48.53,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "BottomNavigationView",
+    "full_name": "trulymittal/BottomNavigationView",
+    "html_url": "https://github.com/trulymittal/BottomNavigationView",
+    "description": null,
+    "stars": 2,
+    "forks": 2,
+    "languages": {
+      "Java": 6809
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 25.32,
+    "S_code": 6.65,
+    "S_social": 6,
+    "S_maint": 1
+  },
+  {
+    "name": "collapsingToolbar",
+    "full_name": "trulymittal/collapsingToolbar",
+    "html_url": "https://github.com/trulymittal/collapsingToolbar",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 1486
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 14.73,
+    "S_code": 1.45,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "yt-openai",
+    "full_name": "trulymittal/yt-openai",
+    "html_url": "https://github.com/trulymittal/yt-openai",
+    "description": "Tutorial videos from youtube - Mafia codes",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2412
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 23.18,
+    "S_code": 2.36,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "nextjs-blog-cms-sanity-v3",
+    "full_name": "trulymittal/nextjs-blog-cms-sanity-v3",
+    "html_url": "https://github.com/trulymittal/nextjs-blog-cms-sanity-v3",
+    "description": "A Next.js Blog with a Native Authoring Experience",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 78252,
+      "JavaScript": 1691,
+      "CSS": 474
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 45.27,
+    "S_code": 78.53,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "ssl-cert-server",
+    "full_name": "trulymittal/ssl-cert-server",
+    "html_url": "https://github.com/trulymittal/ssl-cert-server",
+    "description": "On the fly SSL certificate issue and renewal inside OpenResty with Let's Encrypt",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Go": 87408,
+      "Lua": 20733,
+      "Makefile": 571,
+      "Assembly": 104
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 59.13,
+    "S_code": 106.27,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "recoil-demo",
+    "full_name": "trulymittal/recoil-demo",
+    "html_url": "https://github.com/trulymittal/recoil-demo",
+    "description": "Recoil demonstration",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "HTML": 1721,
+      "JavaScript": 1340,
+      "CSS": 930
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 51.95,
+    "S_code": 3.9,
+    "S_social": 5,
+    "S_maint": 4
+  },
+  {
+    "name": "Kotlin_RecyclerView",
+    "full_name": "trulymittal/Kotlin_RecyclerView",
+    "html_url": "https://github.com/trulymittal/Kotlin_RecyclerView",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Kotlin": 6223
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 35.04,
+    "S_code": 6.08,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "record_video_and_media_controls",
+    "full_name": "trulymittal/record_video_and_media_controls",
+    "html_url": "https://github.com/trulymittal/record_video_and_media_controls",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Java": 2623
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 17.28,
+    "S_code": 2.56,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "SafeArgsNavgiation",
+    "full_name": "trulymittal/SafeArgsNavgiation",
+    "html_url": "https://github.com/trulymittal/SafeArgsNavgiation",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 3968
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 13.94,
+    "S_code": 3.88,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "Camera",
+    "full_name": "trulymittal/Camera",
+    "html_url": "https://github.com/trulymittal/Camera",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 3194
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 13.56,
+    "S_code": 3.12,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "ButterKnife",
+    "full_name": "trulymittal/ButterKnife",
+    "html_url": "https://github.com/trulymittal/ButterKnife",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 3212
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 13.57,
+    "S_code": 3.14,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "parcelable",
+    "full_name": "trulymittal/parcelable",
+    "html_url": "https://github.com/trulymittal/parcelable",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 3235
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 13.58,
+    "S_code": 3.16,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "TextFields",
+    "full_name": "trulymittal/TextFields",
+    "html_url": "https://github.com/trulymittal/TextFields",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Java": 1804
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 16.88,
+    "S_code": 1.76,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "bottomsheetdialog",
+    "full_name": "trulymittal/bottomsheetdialog",
+    "html_url": "https://github.com/trulymittal/bottomsheetdialog",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 4345
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 14.12,
+    "S_code": 4.24,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "TextAppearance",
+    "full_name": "trulymittal/TextAppearance",
+    "html_url": "https://github.com/trulymittal/TextAppearance",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Java": 1470
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 26.72,
+    "S_code": 1.44,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "CustomToast",
+    "full_name": "trulymittal/CustomToast",
+    "html_url": "https://github.com/trulymittal/CustomToast",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 2058
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 13.0,
+    "S_code": 2.01,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "PaletteAPI",
+    "full_name": "trulymittal/PaletteAPI",
+    "html_url": "https://github.com/trulymittal/PaletteAPI",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 6361
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 15.11,
+    "S_code": 6.21,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "RuntimePermission",
+    "full_name": "trulymittal/RuntimePermission",
+    "html_url": "https://github.com/trulymittal/RuntimePermission",
+    "description": null,
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "Java": 5676
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 32.77,
+    "S_code": 5.54,
+    "S_social": 5,
+    "S_maint": 2
+  },
+  {
+    "name": "CL4R1T4S",
+    "full_name": "trulymittal/CL4R1T4S",
+    "html_url": "https://github.com/trulymittal/CL4R1T4S",
+    "description": "AI SYSTEMS TRANSPARENCY FOR ALL! - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, WINDSURF, DEVIN, REPLIT, AND MORE!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "next-js-sanity-starter",
+    "full_name": "trulymittal/next-js-sanity-starter",
+    "html_url": "https://github.com/trulymittal/next-js-sanity-starter",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 278165,
+      "CSS": 5338,
+      "JavaScript": 453
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 138.65,
+    "S_code": 277.3,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nextjs-billing-lemon-squeezy",
+    "full_name": "trulymittal/nextjs-billing-lemon-squeezy",
+    "html_url": "https://github.com/trulymittal/nextjs-billing-lemon-squeezy",
+    "description": "Next.js billing app with Lemon Squeezy",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 80131,
+      "JavaScript": 1348,
+      "CSS": 59
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 39.81,
+    "S_code": 79.63,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "auto-form",
+    "full_name": "trulymittal/auto-form",
+    "html_url": "https://github.com/trulymittal/auto-form",
+    "description": "🌟  A React component that automatically creates a @shadcn/ui form based on a zod schema.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 89624,
+      "JavaScript": 4016,
+      "CSS": 1492,
+      "HTML": 600
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 46.74,
+    "S_code": 93.49,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gemini-chatbot",
+    "full_name": "trulymittal/gemini-chatbot",
+    "html_url": "https://github.com/trulymittal/gemini-chatbot",
+    "description": "Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 238575,
+      "CSS": 1502,
+      "JavaScript": 1157
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 117.79,
+    "S_code": 235.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sanity-kit",
+    "full_name": "trulymittal/sanity-kit",
+    "html_url": "https://github.com/trulymittal/sanity-kit",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 77370,
+      "JavaScript": 2609,
+      "CSS": 225
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 39.16,
+    "S_code": 78.32,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nextjs-starter-template",
+    "full_name": "trulymittal/nextjs-starter-template",
+    "html_url": "https://github.com/trulymittal/nextjs-starter-template",
+    "description": "Starter template for Nextjs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 23848,
+      "CSS": 2422,
+      "JavaScript": 172,
+      "Shell": 82
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 112.95,
+    "S_code": 25.9,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "Fooocus",
+    "full_name": "trulymittal/Fooocus",
+    "html_url": "https://github.com/trulymittal/Fooocus",
+    "description": "Focus on prompting and generating",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1514781,
+      "JavaScript": 57379,
+      "CSS": 3346,
+      "Jupyter Notebook": 620
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 769.59,
+    "S_code": 1539.19,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-mantine",
+    "full_name": "trulymittal/react-mantine",
+    "html_url": "https://github.com/trulymittal/react-mantine",
+    "description": "sample",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3840,
+      "HTML": 361
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.05,
+    "S_code": 4.1,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "LangChain-JS-Full-Course",
+    "full_name": "trulymittal/LangChain-JS-Full-Course",
+    "html_url": "https://github.com/trulymittal/LangChain-JS-Full-Course",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8713
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.25,
+    "S_code": 8.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vercel-hydrogen-demo-store",
+    "full_name": "trulymittal/vercel-hydrogen-demo-store",
+    "html_url": "https://github.com/trulymittal/vercel-hydrogen-demo-store",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 315637,
+      "JavaScript": 3986,
+      "CSS": 3985
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 158.01,
+    "S_code": 316.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sanity-remix-template",
+    "full_name": "trulymittal/sanity-remix-template",
+    "html_url": "https://github.com/trulymittal/sanity-remix-template",
+    "description": "Sanity Studio v3 embedded into a Remix application with live preview and code examples",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 52658,
+      "CSS": 37209,
+      "JavaScript": 1010
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 44.37,
+    "S_code": 88.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-hook-form-tutorial",
+    "full_name": "trulymittal/react-hook-form-tutorial",
+    "html_url": "https://github.com/trulymittal/react-hook-form-tutorial",
+    "description": "Tutorial on react hook form",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 8645,
+      "HTML": 361,
+      "CSS": 124
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 62.46,
+    "S_code": 8.92,
+    "S_social": 4,
+    "S_maint": 5
+  },
+  {
+    "name": "HULL",
+    "full_name": "trulymittal/HULL",
+    "html_url": "https://github.com/trulymittal/HULL",
+    "description": "💀 Headless Shopify Starter – powered by Next.js + Sanity.io",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 325577,
+      "CSS": 54189,
+      "TypeScript": 1810,
+      "Liquid": 1312
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 186.96,
+    "S_code": 373.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "icons",
+    "full_name": "trulymittal/icons",
+    "html_url": "https://github.com/trulymittal/icons",
+    "description": "svg icon component with UI icons",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 61041,
+      "HTML": 1721,
+      "JavaScript": 237,
+      "CSS": 58
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 30.79,
+    "S_code": 61.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mailgen",
+    "full_name": "trulymittal/mailgen",
+    "html_url": "https://github.com/trulymittal/mailgen",
+    "description": "A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 73041,
+      "JavaScript": 6748
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 38.96,
+    "S_code": 77.92,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Android-Image-Cropper",
+    "full_name": "trulymittal/Android-Image-Cropper",
+    "html_url": "https://github.com/trulymittal/Android-Image-Cropper",
+    "description": "Image Cropping Library for Android, optimised for Camera / Gallery.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Kotlin": 336093
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 164.11,
+    "S_code": 328.22,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "formik-chakra-ui",
+    "full_name": "trulymittal/formik-chakra-ui",
+    "html_url": "https://github.com/trulymittal/formik-chakra-ui",
+    "description": "Chakra-UI bindings for Formik",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 21163,
+      "HTML": 342
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.5,
+    "S_code": 21.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "segment-control",
+    "full_name": "trulymittal/segment-control",
+    "html_url": "https://github.com/trulymittal/segment-control",
+    "description": "Simple iOS style segment control in react using framer motion",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2933,
+      "HTML": 1721,
+      "CSS": 1654
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.08,
+    "S_code": 6.16,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "nextjs-starter",
+    "full_name": "trulymittal/nextjs-starter",
+    "html_url": "https://github.com/trulymittal/nextjs-starter",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 13685,
+      "CSS": 2343,
+      "Dockerfile": 1821,
+      "Shell": 84
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.76,
+    "S_code": 17.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Kotlin-Coroutines-Android-Examples",
+    "full_name": "trulymittal/Kotlin-Coroutines-Android-Examples",
+    "html_url": "https://github.com/trulymittal/Kotlin-Coroutines-Android-Examples",
+    "description": "Learn Kotlin Coroutines for Android by Examples. Learn how to use Kotlin Coroutines for Android App Development.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Kotlin": 62510
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 30.52,
+    "S_code": 61.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "classsed-react-localization",
+    "full_name": "trulymittal/classsed-react-localization",
+    "html_url": "https://github.com/trulymittal/classsed-react-localization",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5342,
+      "HTML": 517
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.86,
+    "S_code": 5.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "prisma-api-crud",
+    "full_name": "trulymittal/prisma-api-crud",
+    "html_url": "https://github.com/trulymittal/prisma-api-crud",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2390,
+      "Shell": 499
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.41,
+    "S_code": 2.82,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "getting-started-github-apps",
+    "full_name": "trulymittal/getting-started-github-apps",
+    "html_url": "https://github.com/trulymittal/getting-started-github-apps",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "chakra-ui-navbar",
+    "full_name": "trulymittal/chakra-ui-navbar",
+    "html_url": "https://github.com/trulymittal/chakra-ui-navbar",
+    "description": "Fully-responsive NavBar component for landing pages built with Chakra-UI. Check the full tutorial on my blog 👇",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4080,
+      "HTML": 1544,
+      "CSS": 58
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.77,
+    "S_code": 5.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "landing-page-with-chakra-ui-part-1",
+    "full_name": "trulymittal/landing-page-with-chakra-ui-part-1",
+    "html_url": "https://github.com/trulymittal/landing-page-with-chakra-ui-part-1",
+    "description": "The full code about the tutorial \"Build a landing page with Chakra UI\"",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 7407,
+      "HTML": 1544,
+      "CSS": 58
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.4,
+    "S_code": 8.8,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "flask_demo",
+    "full_name": "trulymittal/flask_demo",
+    "html_url": "https://github.com/trulymittal/flask_demo",
+    "description": "Very simple hello world from flask",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 157
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.08,
+    "S_code": 0.15,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "nextjs-demo",
+    "full_name": "trulymittal/nextjs-demo",
+    "html_url": "https://github.com/trulymittal/nextjs-demo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2365,
+      "CSS": 2072
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 32.17,
+    "S_code": 4.33,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "react-demo",
+    "full_name": "trulymittal/react-demo",
+    "html_url": "https://github.com/trulymittal/react-demo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1910,
+      "HTML": 1721,
+      "CSS": 930
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 32.23,
+    "S_code": 4.45,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "font-proxima-nova",
+    "full_name": "trulymittal/font-proxima-nova",
+    "html_url": "https://github.com/trulymittal/font-proxima-nova",
+    "description": "Proxima font npm package",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 18104
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.84,
+    "S_code": 17.68,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ViewPagerTabbar",
+    "full_name": "trulymittal/ViewPagerTabbar",
+    "html_url": "https://github.com/trulymittal/ViewPagerTabbar",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 6277
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 13.06,
+    "S_code": 6.13,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "OneTimeWorkRequest",
+    "full_name": "trulymittal/OneTimeWorkRequest",
+    "html_url": "https://github.com/trulymittal/OneTimeWorkRequest",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Java": 2522
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 15.23,
+    "S_code": 2.46,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "ChainableWorkRequest",
+    "full_name": "trulymittal/ChainableWorkRequest",
+    "html_url": "https://github.com/trulymittal/ChainableWorkRequest",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Java": 3715
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 15.81,
+    "S_code": 3.63,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "PeriodicWorkRequest",
+    "full_name": "trulymittal/PeriodicWorkRequest",
+    "html_url": "https://github.com/trulymittal/PeriodicWorkRequest",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Java": 2710
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.32,
+    "S_code": 2.65,
+    "S_social": 2,
+    "S_maint": 0
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "username": "davidjgraph",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML"
+    ],
+    "distinct_topics": [],
+    "language_count": 1,
+    "topic_count": 0,
+    "total_owned_repos": 3
+  },
+  "diversity_score_100": 6.0
+}

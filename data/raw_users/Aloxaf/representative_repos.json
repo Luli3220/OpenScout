@@ -1,0 +1,2269 @@
+[
+  {
+    "name": "fzf-tab",
+    "full_name": "Aloxaf/fzf-tab",
+    "html_url": "https://github.com/Aloxaf/fzf-tab",
+    "description": "Replace zsh's default completion selection menu with fzf!",
+    "stars": 4347,
+    "forks": 121,
+    "languages": {
+      "Shell": 54279,
+      "C": 14994
+    },
+    "contributions_by_user": 222,
+    "contribution_score": 11431.82,
+    "S_code": 67.65,
+    "S_social": 4589,
+    "S_maint": 222
+  },
+  {
+    "name": "silicon",
+    "full_name": "Aloxaf/silicon",
+    "html_url": "https://github.com/Aloxaf/silicon",
+    "description": "Create beautiful image of your source code.",
+    "stars": 3434,
+    "forks": 95,
+    "languages": {
+      "Rust": 74761,
+      "Shell": 349
+    },
+    "contributions_by_user": 145,
+    "contribution_score": 8734.67,
+    "S_code": 73.35,
+    "S_social": 3624,
+    "S_maint": 145
+  },
+  {
+    "name": "MirageTankGo",
+    "full_name": "Aloxaf/MirageTankGo",
+    "html_url": "https://github.com/Aloxaf/MirageTankGo",
+    "description": "幻影坦克(特指点开后不一样的图片)快速发车工具",
+    "stars": 160,
+    "forks": 20,
+    "languages": {
+      "Python": 26260,
+      "Tcl": 16054
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 620.66,
+    "S_code": 41.32,
+    "S_social": 200,
+    "S_maint": 20
+  },
+  {
+    "name": "rbkcrack",
+    "full_name": "Aloxaf/rbkcrack",
+    "html_url": "https://github.com/Aloxaf/rbkcrack",
+    "description": "Crack legacy zip encryption with Biham and Kocher's known plaintext attack. 使用明文攻击破解加密的 zip 文件",
+    "stars": 108,
+    "forks": 17,
+    "languages": {
+      "Rust": 38168,
+      "Python": 357
+    },
+    "contributions_by_user": 47,
+    "contribution_score": 772.81,
+    "S_code": 37.62,
+    "S_social": 142,
+    "S_maint": 47
+  },
+  {
+    "name": "LeetCode-Rust",
+    "full_name": "Aloxaf/LeetCode-Rust",
+    "html_url": "https://github.com/Aloxaf/LeetCode-Rust",
+    "description": "听说刷题建 repo 是立 flag 一般的行为?",
+    "stars": 87,
+    "forks": 10,
+    "languages": {
+      "Rust": 124891,
+      "Shell": 287
+    },
+    "contributions_by_user": 54,
+    "contribution_score": 815.12,
+    "S_code": 122.24,
+    "S_social": 107,
+    "S_maint": 54
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "Aloxaf/dotfiles",
+    "html_url": "https://github.com/Aloxaf/dotfiles",
+    "description": "my dotfiles",
+    "stars": 75,
+    "forks": 12,
+    "languages": {
+      "Shell": 123570,
+      "Python": 46242,
+      "Emacs Lisp": 33763,
+      "Lua": 5514,
+      "PowerShell": 861
+    },
+    "contributions_by_user": 125,
+    "contribution_score": 1550.51,
+    "S_code": 205.03,
+    "S_social": 99,
+    "S_maint": 125
+  },
+  {
+    "name": "Rust-toys",
+    "full_name": "Aloxaf/Rust-toys",
+    "html_url": "https://github.com/Aloxaf/Rust-toys",
+    "description": "一堆写着练手的小玩意儿, 考虑到Rust的龟速编译, 还是放在一起比较省事",
+    "stars": 20,
+    "forks": 3,
+    "languages": {
+      "Rust": 67668,
+      "C": 2989
+    },
+    "contributions_by_user": 34,
+    "contribution_score": 426.5,
+    "S_code": 69.0,
+    "S_social": 26,
+    "S_maint": 34
+  },
+  {
+    "name": "leetcode_prelude",
+    "full_name": "Aloxaf/leetcode_prelude",
+    "html_url": "https://github.com/Aloxaf/leetcode_prelude",
+    "description": "Some useful macros and definition for exercising in leetcode",
+    "stars": 14,
+    "forks": 4,
+    "languages": {
+      "Rust": 9467
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 228.62,
+    "S_code": 9.25,
+    "S_social": 22,
+    "S_maint": 18
+  },
+  {
+    "name": "aur-build",
+    "full_name": "Aloxaf/aur-build",
+    "html_url": "https://github.com/Aloxaf/aur-build",
+    "description": "Build AUR packages with GitHub Actions",
+    "stars": 14,
+    "forks": 1,
+    "languages": {
+      "Shell": 28967
+    },
+    "contributions_by_user": 50,
+    "contribution_score": 546.14,
+    "S_code": 28.29,
+    "S_social": 16,
+    "S_maint": 50
+  },
+  {
+    "name": "p7zip",
+    "full_name": "Aloxaf/p7zip",
+    "html_url": "https://github.com/Aloxaf/p7zip",
+    "description": "a custom 7z, which can use three keys instead of password to extract zip file.",
+    "stars": 13,
+    "forks": 6,
+    "languages": {
+      "C++": 5500622,
+      "C": 583387,
+      "HTML": 201349,
+      "Makefile": 78165,
+      "Python": 63316,
+      "CMake": 53494,
+      "QMake": 40384,
+      "Assembly": 33015,
+      "Shell": 29056,
+      "CSS": 22800,
+      "Roff": 13715,
+      "Lua": 11970,
+      "Objective-C": 391
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 3308.12,
+    "S_code": 6476.23,
+    "S_social": 25,
+    "S_maint": 2
+  },
+  {
+    "name": "NT4_CMD",
+    "full_name": "Aloxaf/NT4_CMD",
+    "html_url": "https://github.com/Aloxaf/NT4_CMD",
+    "description": "从OpenNT提取的NT4_CMD_x86源码及其编译环境",
+    "stars": 12,
+    "forks": 7,
+    "languages": {
+      "C": 13665216,
+      "C++": 4506634,
+      "CWeb": 1177316,
+      "Logos": 247475,
+      "RPC": 165505,
+      "Objective-C": 106602,
+      "Assembly": 76240,
+      "Pascal": 65802,
+      "Makefile": 20281,
+      "R": 6027,
+      "Batchfile": 358,
+      "sed": 72
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 9925.95,
+    "S_code": 19567.9,
+    "S_social": 26,
+    "S_maint": 9
+  },
+  {
+    "name": "CAPIx",
+    "full_name": "Aloxaf/CAPIx",
+    "html_url": "https://github.com/Aloxaf/CAPIx",
+    "description": "使CMD能够高速调用API",
+    "stars": 12,
+    "forks": 6,
+    "languages": {
+      "C++": 56520
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 235.6,
+    "S_code": 55.2,
+    "S_social": 24,
+    "S_maint": 16
+  },
+  {
+    "name": "ppool",
+    "full_name": "Aloxaf/ppool",
+    "html_url": "https://github.com/Aloxaf/ppool",
+    "description": "一个爬虫 IP 代理池",
+    "stars": 11,
+    "forks": 4,
+    "languages": {
+      "Rust": 38564
+    },
+    "contributions_by_user": 69,
+    "contribution_score": 746.83,
+    "S_code": 37.66,
+    "S_social": 19,
+    "S_maint": 69
+  },
+  {
+    "name": "gencomp",
+    "full_name": "Aloxaf/gencomp",
+    "html_url": "https://github.com/Aloxaf/gencomp",
+    "description": "Generate zsh completion functions from manpage or `--help`",
+    "stars": 10,
+    "forks": 1,
+    "languages": {
+      "Python": 73959,
+      "Shell": 8628,
+      "C++": 6556,
+      "Lex": 3220,
+      "Makefile": 315
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 159.25,
+    "S_code": 90.51,
+    "S_social": 12,
+    "S_maint": 9
+  },
+  {
+    "name": "cdda-itembrowser",
+    "full_name": "Aloxaf/cdda-itembrowser",
+    "html_url": "https://github.com/Aloxaf/cdda-itembrowser",
+    "description": "CDDA 物品浏览器",
+    "stars": 8,
+    "forks": 2,
+    "languages": {
+      "PHP": 326868,
+      "Blade": 86491,
+      "Python": 44162,
+      "Shell": 2231,
+      "CSS": 1767,
+      "Dockerfile": 1444,
+      "JavaScript": 562,
+      "SCSS": 3
+    },
+    "contributions_by_user": 218,
+    "contribution_score": 2430.33,
+    "S_code": 452.66,
+    "S_social": 12,
+    "S_maint": 218
+  },
+  {
+    "name": "telegraph-rs",
+    "full_name": "Aloxaf/telegraph-rs",
+    "html_url": "https://github.com/Aloxaf/telegraph-rs",
+    "description": "telegraph API binding in Rust",
+    "stars": 7,
+    "forks": 4,
+    "languages": {
+      "Rust": 24064
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 281.75,
+    "S_code": 23.5,
+    "S_social": 15,
+    "S_maint": 24
+  },
+  {
+    "name": "zsh-sqlite",
+    "full_name": "Aloxaf/zsh-sqlite",
+    "html_url": "https://github.com/Aloxaf/zsh-sqlite",
+    "description": "A zsh module for manipulating sqlite database",
+    "stars": 7,
+    "forks": 0,
+    "languages": {
+      "C": 8749,
+      "Shell": 2966
+    },
+    "contributions_by_user": 31,
+    "contribution_score": 329.72,
+    "S_code": 11.44,
+    "S_social": 7,
+    "S_maint": 31
+  },
+  {
+    "name": "facenote_thirdparty_app",
+    "full_name": "Aloxaf/facenote_thirdparty_app",
+    "html_url": "https://github.com/Aloxaf/facenote_thirdparty_app",
+    "description": "为掌阅系统安装第三方 app",
+    "stars": 7,
+    "forks": 0,
+    "languages": {
+      "Python": 1923
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 24.94,
+    "S_code": 1.88,
+    "S_social": 7,
+    "S_maint": 1
+  },
+  {
+    "name": "10_0_0_55_login",
+    "full_name": "Aloxaf/10_0_0_55_login",
+    "html_url": "https://github.com/Aloxaf/10_0_0_55_login",
+    "description": "BIT 10.0.0.55 的登入与登出的Python实现",
+    "stars": 7,
+    "forks": 1,
+    "languages": {
+      "Python": 7001
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 121.42,
+    "S_code": 6.84,
+    "S_social": 9,
+    "S_maint": 10
+  },
+  {
+    "name": "Use-PosixPipeline",
+    "full_name": "Aloxaf/Use-PosixPipeline",
+    "html_url": "https://github.com/Aloxaf/Use-PosixPipeline",
+    "description": "The POSIX version of Use-RawPipeline",
+    "stars": 7,
+    "forks": 0,
+    "languages": {
+      "C#": 12242,
+      "PowerShell": 4066
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 131.96,
+    "S_code": 15.93,
+    "S_social": 7,
+    "S_maint": 11
+  },
+  {
+    "name": "Crypko.Spider",
+    "full_name": "Aloxaf/Crypko.Spider",
+    "html_url": "https://github.com/Aloxaf/Crypko.Spider",
+    "description": "(目前是)一次性的Crypko小爬虫",
+    "stars": 5,
+    "forks": 4,
+    "languages": {
+      "Python": 7990
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 159.9,
+    "S_code": 7.8,
+    "S_social": 13,
+    "S_maint": 13
+  },
+  {
+    "name": "crc32fix",
+    "full_name": "Aloxaf/crc32fix",
+    "html_url": "https://github.com/Aloxaf/crc32fix",
+    "description": "fix png's length or height according to its crc32 checksum",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Rust": 4997
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 20.44,
+    "S_code": 4.88,
+    "S_social": 4,
+    "S_maint": 1
+  },
+  {
+    "name": "ren3",
+    "full_name": "Aloxaf/ren3",
+    "html_url": "https://github.com/Aloxaf/ren3",
+    "description": "Do file renaming using regular expressions. 使用正则表达式重命名文件.",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Rust": 9481,
+      "Shell": 2284
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 225.74,
+    "S_code": 11.49,
+    "S_social": 5,
+    "S_maint": 21
+  },
+  {
+    "name": "funcall",
+    "full_name": "Aloxaf/funcall",
+    "html_url": "https://github.com/Aloxaf/funcall",
+    "description": null,
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Rust": 17539
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 208.56,
+    "S_code": 17.13,
+    "S_social": 5,
+    "S_maint": 19
+  },
+  {
+    "name": "GCD-1",
+    "full_name": "Aloxaf/GCD-1",
+    "html_url": "https://github.com/Aloxaf/GCD-1",
+    "description": "综合性批处理游戏开发第三方",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "C": 41404,
+      "Batchfile": 1225,
+      "Makefile": 269
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 156.95,
+    "S_code": 41.89,
+    "S_social": 3,
+    "S_maint": 13
+  },
+  {
+    "name": "cdda-wiki-bot",
+    "full_name": "Aloxaf/cdda-wiki-bot",
+    "html_url": "https://github.com/Aloxaf/cdda-wiki-bot",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 26141
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 106.76,
+    "S_code": 25.53,
+    "S_social": 2,
+    "S_maint": 9
+  },
+  {
+    "name": "IMGSolve",
+    "full_name": "Aloxaf/IMGSolve",
+    "html_url": "https://github.com/Aloxaf/IMGSolve",
+    "description": "基于Python的可扩展的图片隐写分析工具",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 20008,
+      "Makefile": 315
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 63.92,
+    "S_code": 19.85,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "GCD",
+    "full_name": "Aloxaf/GCD",
+    "html_url": "https://github.com/Aloxaf/GCD",
+    "description": "GCD的dll版",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C": 23156,
+      "HTML": 18930,
+      "Makefile": 171
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 144.63,
+    "S_code": 41.27,
+    "S_social": 2,
+    "S_maint": 12
+  },
+  {
+    "name": "Aloxaf.github.io",
+    "full_name": "Aloxaf/Aloxaf.github.io",
+    "html_url": "https://github.com/Aloxaf/Aloxaf.github.io",
+    "description": "my blog",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 2636341,
+      "XSLT": 3885,
+      "Python": 1892,
+      "Shell": 611
+    },
+    "contributions_by_user": 149,
+    "contribution_score": 2782.4,
+    "S_code": 2580.79,
+    "S_social": 1,
+    "S_maint": 149
+  },
+  {
+    "name": "chat-plugin-jina",
+    "full_name": "Aloxaf/chat-plugin-jina",
+    "html_url": "https://github.com/Aloxaf/chat-plugin-jina",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1539
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 82.75,
+    "S_code": 1.5,
+    "S_social": 1,
+    "S_maint": 8
+  },
+  {
+    "name": "zinit-module",
+    "full_name": "Aloxaf/zinit-module",
+    "html_url": "https://github.com/Aloxaf/zinit-module",
+    "description": "zsh module for automatically compiling sourced files",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C": 1701245,
+      "M4": 125344,
+      "Shell": 57540,
+      "Makefile": 13760,
+      "Awk": 10084,
+      "Vim Script": 32
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 937.64,
+    "S_code": 1863.29,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "ohmyzsh",
+    "full_name": "Aloxaf/ohmyzsh",
+    "html_url": "https://github.com/Aloxaf/ohmyzsh",
+    "description": "🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Shell": 1034002,
+      "Python": 5256,
+      "Roff": 5000,
+      "Perl": 3811,
+      "Makefile": 1357,
+      "Ruby": 1327
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 515.06,
+    "S_code": 1026.13,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "comic-translation",
+    "full_name": "Aloxaf/comic-translation",
+    "html_url": "https://github.com/Aloxaf/comic-translation",
+    "description": "基于深度学习的漫画翻译辅助工具，包含翻译、朗读、图像去字、自动嵌字功能。  目的是帮助非专业汉化人员完成更简单，快速的翻译任务。",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 5282092
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2581.15,
+    "S_code": 5158.29,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "IRust",
+    "full_name": "Aloxaf/IRust",
+    "html_url": "https://github.com/Aloxaf/IRust",
+    "description": "Cross Platform Rust Repl",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Rust": 213842
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 116.42,
+    "S_code": 208.83,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "Google-Chinese-Results-Blocklist",
+    "full_name": "Aloxaf/Google-Chinese-Results-Blocklist",
+    "html_url": "https://github.com/Aloxaf/Google-Chinese-Results-Blocklist",
+    "description": "他妈的我终于能用谷歌搜中文了",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 32.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "fcitx5-chinese-addons",
+    "full_name": "Aloxaf/fcitx5-chinese-addons",
+    "html_url": "https://github.com/Aloxaf/fcitx5-chinese-addons",
+    "description": "Addons related to Chinese, including IME previous bundled inside fcitx4.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 266322,
+      "CMake": 18537,
+      "Lua": 4474,
+      "Shell": 1468,
+      "C": 327
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 154.15,
+    "S_code": 284.3,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "gorse-rs",
+    "full_name": "Aloxaf/gorse-rs",
+    "html_url": "https://github.com/Aloxaf/gorse-rs",
+    "description": "Rust SDK for gorse recommender system",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 21371,
+      "Dockerfile": 268
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 30.57,
+    "S_code": 21.13,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "lobe-chat",
+    "full_name": "Aloxaf/lobe-chat",
+    "html_url": "https://github.com/Aloxaf/lobe-chat",
+    "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 13681566,
+      "HTML": 112691,
+      "JavaScript": 26673,
+      "Shell": 26385,
+      "MDX": 11645,
+      "PLpgSQL": 9963,
+      "Dockerfile": 9385,
+      "TeX": 1797,
+      "Gherkin": 1597
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6778.17,
+    "S_code": 13556.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "koharu",
+    "full_name": "Aloxaf/koharu",
+    "html_url": "https://github.com/Aloxaf/koharu",
+    "description": "Automated manga translation tool with LLM, written in Rust.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 209314,
+      "TypeScript": 61771,
+      "Python": 15087,
+      "JavaScript": 94,
+      "CSS": 23
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 139.79,
+    "S_code": 279.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Cataclysm-DDA",
+    "full_name": "Aloxaf/Cataclysm-DDA",
+    "html_url": "https://github.com/Aloxaf/Cataclysm-DDA",
+    "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 17673796,
+      "Python": 349663,
+      "Java": 206095,
+      "CMake": 90877,
+      "C": 51146,
+      "Makefile": 38600,
+      "Shell": 28968,
+      "HTML": 3722,
+      "CodeQL": 3506,
+      "JSONiq": 3063,
+      "JavaScript": 2547,
+      "R": 1408,
+      "Perl": 1087,
+      "Batchfile": 697,
+      "PowerShell": 651,
+      "Gnuplot": 276
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9011.77,
+    "S_code": 18023.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ChatGPT-Next-Web",
+    "full_name": "Aloxaf/ChatGPT-Next-Web",
+    "html_url": "https://github.com/Aloxaf/ChatGPT-Next-Web",
+    "description": "One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1293169,
+      "SCSS": 97069,
+      "JavaScript": 9989,
+      "Rust": 4632,
+      "Shell": 3882,
+      "Dockerfile": 1673
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 688.68,
+    "S_code": 1377.36,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "XUnity.AiTranslator",
+    "full_name": "Aloxaf/XUnity.AiTranslator",
+    "html_url": "https://github.com/Aloxaf/XUnity.AiTranslator",
+    "description": "用于 XUnity.AutoTranslator 的 LLM 翻译端点 Custom LLM Translator endpoint for XUnity.AutoTranslator",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dart": 162684,
+      "C++": 24127,
+      "CMake": 19763,
+      "C": 1425
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 241.56,
+    "S_code": 203.12,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "faiss-rs",
+    "full_name": "Aloxaf/faiss-rs",
+    "html_url": "https://github.com/Aloxaf/faiss-rs",
+    "description": "Rust language bindings for Faiss",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 377395,
+      "Shell": 2011
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 185.26,
+    "S_code": 370.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "faiss",
+    "full_name": "Aloxaf/faiss",
+    "html_url": "https://github.com/Aloxaf/faiss",
+    "description": "A library for efficient similarity search and clustering of dense vectors.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 3532186,
+      "Python": 1158605,
+      "Cuda": 983483,
+      "C": 102198,
+      "CMake": 73078,
+      "Shell": 37847,
+      "Jupyter Notebook": 21436,
+      "Batchfile": 1845,
+      "Dockerfile": 657
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2886.39,
+    "S_code": 5772.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "duckdb-rs",
+    "full_name": "Aloxaf/duckdb-rs",
+    "html_url": "https://github.com/Aloxaf/duckdb-rs",
+    "description": " Ergonomic bindings to duckdb for Rust ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 1256372,
+      "Shell": 2603,
+      "C": 2461,
+      "Python": 1889,
+      "RenderScript": 1
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 616.86,
+    "S_code": 1233.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "astro",
+    "full_name": "Aloxaf/astro",
+    "html_url": "https://github.com/Aloxaf/astro",
+    "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2553500,
+      "JavaScript": 1934198,
+      "Astro": 151295,
+      "CSS": 8334,
+      "Vue": 7948,
+      "MDX": 5836,
+      "Svelte": 5814,
+      "Shell": 943,
+      "Dockerfile": 682,
+      "Roff": 630,
+      "SCSS": 13
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2279.88,
+    "S_code": 4559.76,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "astro-mermaid",
+    "full_name": "Aloxaf/astro-mermaid",
+    "html_url": "https://github.com/Aloxaf/astro-mermaid",
+    "description": "Mermaid integration using pattern from cloudflare-docs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Astro": 16222,
+      "JavaScript": 16029,
+      "MDX": 3964,
+      "TypeScript": 400,
+      "CSS": 135
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.94,
+    "S_code": 35.89,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "KeywordGacha",
+    "full_name": "Aloxaf/KeywordGacha",
+    "html_url": "https://github.com/Aloxaf/KeywordGacha",
+    "description": "使用 OpenAI 兼容接口自动生成小说、漫画、字幕、游戏脚本等内容文本中实体词语表的翻译辅助工具",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 441745,
+      "Batchfile": 162
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 215.77,
+    "S_code": 431.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hnswlib-rs",
+    "full_name": "Aloxaf/hnswlib-rs",
+    "html_url": "https://github.com/Aloxaf/hnswlib-rs",
+    "description": "Rust implementation of the HNSW algorithm (Malkov-Yashunin)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 232792
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 113.67,
+    "S_code": 227.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "usearch",
+    "full_name": "Aloxaf/usearch",
+    "html_url": "https://github.com/Aloxaf/usearch",
+    "description": "Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 658277,
+      "Python": 174844,
+      "C#": 73720,
+      "Rust": 70653,
+      "Swift": 44956,
+      "C": 40294,
+      "Go": 26958,
+      "Jupyter Notebook": 25255,
+      "CMake": 24888,
+      "TypeScript": 24533,
+      "Java": 22278,
+      "Objective-C++": 12538,
+      "JavaScript": 10151,
+      "Objective-C": 9162,
+      "Batchfile": 1219,
+      "Dockerfile": 417
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 595.77,
+    "S_code": 1191.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "chat-plugin-wolframalpha",
+    "full_name": "Aloxaf/chat-plugin-wolframalpha",
+    "html_url": "https://github.com/Aloxaf/chat-plugin-wolframalpha",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3512
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 51.71,
+    "S_code": 3.43,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "chat-plugins-gateway",
+    "full_name": "Aloxaf/chat-plugins-gateway",
+    "html_url": "https://github.com/Aloxaf/chat-plugins-gateway",
+    "description": "🧩 / 🚪 Plugins Gateway - The LobeChat Plugins Gateway is a backend service that serves as a gateway for LobeChat plugins. We deploy this service using Vercel. The primary API POST /api/v1/runner is deployed as an Edge Function.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 49613,
+      "JavaScript": 437,
+      "Shell": 352,
+      "HTML": 148
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 24.68,
+    "S_code": 49.37,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lobe-chat-plugins",
+    "full_name": "Aloxaf/lobe-chat-plugins",
+    "html_url": "https://github.com/Aloxaf/lobe-chat-plugins",
+    "description": "🧩 / 🏪  Plugin Index - This is the plugin index for LobeChat. It accesses index.json from this repository to display a list of available plugins for LobeChat to the user.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 17508,
+      "JavaScript": 520
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 18.8,
+    "S_code": 17.61,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "open-webui",
+    "full_name": "Aloxaf/open-webui",
+    "html_url": "https://github.com/Aloxaf/open-webui",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2256275,
+      "Svelte": 1536441,
+      "Python": 1162090,
+      "TypeScript": 267448,
+      "CSS": 201197,
+      "Shell": 11212,
+      "Dockerfile": 6731,
+      "HTML": 5721,
+      "Batchfile": 1214,
+      "Mako": 665,
+      "Makefile": 643
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2660.96,
+    "S_code": 5321.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fast-syntax-highlighting",
+    "full_name": "Aloxaf/fast-syntax-highlighting",
+    "html_url": "https://github.com/Aloxaf/fast-syntax-highlighting",
+    "description": "Feature-rich syntax highlighting for ZSH",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 378891
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 195.01,
+    "S_code": 370.01,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "ore-miner-group",
+    "full_name": "Aloxaf/ore-miner-group",
+    "html_url": "https://github.com/Aloxaf/ore-miner-group",
+    "description": "ore miner group",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 84502,
+      "HTML": 4404
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 43.41,
+    "S_code": 86.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ore-cli",
+    "full_name": "Aloxaf/ore-cli",
+    "html_url": "https://github.com/Aloxaf/ore-cli",
+    "description": "Command line interface for ORE cryptocurrency mining.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 71518
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 34.92,
+    "S_code": 69.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "chat-plugin-sdk",
+    "full_name": "Aloxaf/chat-plugin-sdk",
+    "html_url": "https://github.com/Aloxaf/chat-plugin-sdk",
+    "description": "🧩 Lobe Chat Plugin SDK - The LobeChat Plugin SDK assists you in creating exceptional chat plugins for Lobe Chat.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 64741,
+      "JavaScript": 1171,
+      "Shell": 189
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 32.28,
+    "S_code": 64.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lotus",
+    "full_name": "Aloxaf/lotus",
+    "html_url": "https://github.com/Aloxaf/lotus",
+    "description": "Implementation of the Filecoin protocol, written in Go",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 8224121,
+      "Shell": 37918,
+      "Solidity": 35063,
+      "Makefile": 11686,
+      "HTML": 8672,
+      "Dockerfile": 7564,
+      "Python": 3142,
+      "CSS": 3080,
+      "JavaScript": 1952,
+      "Assembly": 975,
+      "C": 293
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4069.56,
+    "S_code": 8139.13,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gentoo-zsh-completions",
+    "full_name": "Aloxaf/gentoo-zsh-completions",
+    "html_url": "https://github.com/Aloxaf/gentoo-zsh-completions",
+    "description": "[ORIGIN] Gentoo specific zsh completion support (ebuild, emerge, eselect, ...)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 86282
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 42.13,
+    "S_code": 84.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mitogen",
+    "full_name": "Aloxaf/mitogen",
+    "html_url": "https://github.com/Aloxaf/mitogen",
+    "description": "Distributed self-replicating programs in Python",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1239855,
+      "Shell": 7392,
+      "Perl": 530,
+      "Makefile": 428,
+      "C": 397
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 609.67,
+    "S_code": 1219.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "go-jsonrpc",
+    "full_name": "Aloxaf/go-jsonrpc",
+    "html_url": "https://github.com/Aloxaf/go-jsonrpc",
+    "description": "Low Boilerplate JSON-RPC 2.0 library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 109480
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 53.46,
+    "S_code": 106.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pdm",
+    "full_name": "Aloxaf/pdm",
+    "html_url": "https://github.com/Aloxaf/pdm",
+    "description": "A modern Python package manager with PEP 582 support.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 427353,
+      "Dockerfile": 562,
+      "Gherkin": 321
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 229.1,
+    "S_code": 418.2,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "atuin",
+    "full_name": "Aloxaf/atuin",
+    "html_url": "https://github.com/Aloxaf/atuin",
+    "description": "✨ Magical shell history",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 519440,
+      "Shell": 25666,
+      "PLpgSQL": 3330,
+      "Nix": 3231,
+      "Xonsh": 2787,
+      "Nushell": 1824,
+      "Dockerfile": 910
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 272.06,
+    "S_code": 544.13,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "venus-docker-compose",
+    "full_name": "Aloxaf/venus-docker-compose",
+    "html_url": "https://github.com/Aloxaf/venus-docker-compose",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 18926,
+      "Makefile": 753
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 79.61,
+    "S_code": 19.22,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "hdwallet-filecoin",
+    "full_name": "Aloxaf/hdwallet-filecoin",
+    "html_url": "https://github.com/Aloxaf/hdwallet-filecoin",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 32545
+    },
+    "contributions_by_user": 27,
+    "contribution_score": 285.89,
+    "S_code": 31.78,
+    "S_social": 0,
+    "S_maint": 27
+  },
+  {
+    "name": "hiddify-next",
+    "full_name": "Aloxaf/hiddify-next",
+    "html_url": "https://github.com/Aloxaf/hiddify-next",
+    "description": "Multi-platform auto-proxy client made with Flutter, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH and many more. It’s an open-source, secure and ads-free app.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dart": 406394,
+      "Kotlin": 88768,
+      "Swift": 48659,
+      "C++": 26426,
+      "CMake": 19383,
+      "Makefile": 5136,
+      "Ruby": 3563,
+      "C": 1425,
+      "AIDL": 483,
+      "Smarty": 224,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 293.21,
+    "S_code": 586.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "http-body",
+    "full_name": "Aloxaf/http-body",
+    "html_url": "https://github.com/Aloxaf/http-body",
+    "description": "Asynchronous HTTP body trait",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 54800
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 26.76,
+    "S_code": 53.52,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "eth-keystore-rs",
+    "full_name": "Aloxaf/eth-keystore-rs",
+    "html_url": "https://github.com/Aloxaf/eth-keystore-rs",
+    "description": "A minimalist library to interact with encrypted JSON keystores",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 22987
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 61.22,
+    "S_code": 22.45,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "jintemplify",
+    "full_name": "Aloxaf/jintemplify",
+    "html_url": "https://github.com/Aloxaf/jintemplify",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 42592,
+      "Shell": 2021,
+      "Makefile": 1242
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22.39,
+    "S_code": 44.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "s3ql",
+    "full_name": "Aloxaf/s3ql",
+    "html_url": "https://github.com/Aloxaf/s3ql",
+    "description": "a full featured file system for online data storage",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 848699,
+      "C++": 17988,
+      "Shell": 6188,
+      "CSS": 5965,
+      "HTML": 2811,
+      "Cython": 1797,
+      "Dockerfile": 1256,
+      "Emacs Lisp": 186
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 432.08,
+    "S_code": 864.15,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "go-unixfs",
+    "full_name": "Aloxaf/go-unixfs",
+    "html_url": "https://github.com/Aloxaf/go-unixfs",
+    "description": "Implementation of a unix-like filesystem on top of an ipld merkledag",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 228795,
+      "Makefile": 171
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 111.8,
+    "S_code": 223.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "JetBrainsRuntime-for-Linux-x64",
+    "full_name": "Aloxaf/JetBrainsRuntime-for-Linux-x64",
+    "html_url": "https://github.com/Aloxaf/JetBrainsRuntime-for-Linux-x64",
+    "description": "在线定时编译改进的 JBR",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jsonrpsee",
+    "full_name": "Aloxaf/jsonrpsee",
+    "html_url": "https://github.com/Aloxaf/jsonrpsee",
+    "description": "Rust JSON-RPC library on top of async/await",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 680061,
+      "Shell": 5978
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 334.98,
+    "S_code": 669.96,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "memfd-exec",
+    "full_name": "Aloxaf/memfd-exec",
+    "html_url": "https://github.com/Aloxaf/memfd-exec",
+    "description": "Execute binaries straight from memory, without touching disk, with a friendly interface!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 59151,
+      "C": 728
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 29.24,
+    "S_code": 58.48,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "zsh-histdb",
+    "full_name": "Aloxaf/zsh-histdb",
+    "html_url": "https://github.com/Aloxaf/zsh-histdb",
+    "description": "A slightly better history for zsh",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 25407
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 32.41,
+    "S_code": 24.81,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "QtVSCodeStyle",
+    "full_name": "Aloxaf/QtVSCodeStyle",
+    "html_url": "https://github.com/Aloxaf/QtVSCodeStyle",
+    "description": "VS Code Style for PySide and PyQt.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 167055
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 91.57,
+    "S_code": 163.14,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "pyTelegramBotAPI",
+    "full_name": "Aloxaf/pyTelegramBotAPI",
+    "html_url": "https://github.com/Aloxaf/pyTelegramBotAPI",
+    "description": "Python Telegram bot api.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 739950
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 361.3,
+    "S_code": 722.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "filecoin-ffi",
+    "full_name": "Aloxaf/filecoin-ffi",
+    "html_url": "https://github.com/Aloxaf/filecoin-ffi",
+    "description": "C and CGO bindings for Filecoin's Rust libraries",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 214580,
+      "Go": 88271,
+      "Shell": 23807,
+      "Makefile": 883,
+      "C": 317
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 160.09,
+    "S_code": 320.17,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "zinit",
+    "full_name": "Aloxaf/zinit",
+    "html_url": "https://github.com/Aloxaf/zinit",
+    "description": "🌻 Flexible and fast ZSH plugin manager",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 457647,
+      "Makefile": 1497,
+      "Dockerfile": 1345
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 244.85,
+    "S_code": 449.7,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "rust-fil-proofs",
+    "full_name": "Aloxaf/rust-fil-proofs",
+    "html_url": "https://github.com/Aloxaf/rust-fil-proofs",
+    "description": "Proofs for Filecoin in Rust",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 1529321,
+      "Shell": 15298
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 754.21,
+    "S_code": 1508.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dnsmasq-china-list",
+    "full_name": "Aloxaf/dnsmasq-china-list",
+    "html_url": "https://github.com/Aloxaf/dnsmasq-china-list",
+    "description": "Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 13987,
+      "Makefile": 4058,
+      "Shell": 2553
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.06,
+    "S_code": 20.12,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rust-rocksdb",
+    "full_name": "Aloxaf/rust-rocksdb",
+    "html_url": "https://github.com/Aloxaf/rust-rocksdb",
+    "description": "rust wrapper for rocksdb",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 449044,
+      "C": 153327,
+      "C++": 5544,
+      "Makefile": 173
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 296.92,
+    "S_code": 593.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "flann",
+    "full_name": "Aloxaf/flann",
+    "html_url": "https://github.com/Aloxaf/flann",
+    "description": "Fast Library for Approximate Nearest Neighbors",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 663405,
+      "Cuda": 72407,
+      "CMake": 59792,
+      "Python": 54866,
+      "Ruby": 40305,
+      "C": 38783,
+      "MATLAB": 22860,
+      "Shell": 322
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 465.21,
+    "S_code": 930.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rust-flann",
+    "full_name": "Aloxaf/rust-flann",
+    "html_url": "https://github.com/Aloxaf/rust-flann",
+    "description": "Rust bindings for FLANN library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 54821
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 76.77,
+    "S_code": 53.54,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "rust-fil-logger",
+    "full_name": "Aloxaf/rust-fil-logger",
+    "html_url": "https://github.com/Aloxaf/rust-fil-logger",
+    "description": "A logging library used by Filecoin",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 7532
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.68,
+    "S_code": 7.36,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "filecoin-docs",
+    "full_name": "Aloxaf/filecoin-docs",
+    "html_url": "https://github.com/Aloxaf/filecoin-docs",
+    "description": "Filecoin Docs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 3762
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.84,
+    "S_code": 3.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "teloxide-core",
+    "full_name": "Aloxaf/teloxide-core",
+    "html_url": "https://github.com/Aloxaf/teloxide-core",
+    "description": "The core part of teloxide: API types, requests",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 736356
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 359.55,
+    "S_code": 719.1,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tg-methods-schema",
+    "full_name": "Aloxaf/tg-methods-schema",
+    "html_url": "https://github.com/Aloxaf/tg-methods-schema",
+    "description": "Formalized schema",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 1777
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.87,
+    "S_code": 1.74,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "rms-support-letter.github.io",
+    "full_name": "Aloxaf/rms-support-letter.github.io",
+    "html_url": "https://github.com/Aloxaf/rms-support-letter.github.io",
+    "description": "An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 10246,
+      "Ruby": 7406,
+      "HTML": 3435,
+      "SCSS": 951
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.76,
+    "S_code": 21.52,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fastmac",
+    "full_name": "Aloxaf/fastmac",
+    "html_url": "https://github.com/Aloxaf/fastmac",
+    "description": "a test environment",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 231
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.11,
+    "S_code": 0.23,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "proxy_pool",
+    "full_name": "Aloxaf/proxy_pool",
+    "html_url": "https://github.com/Aloxaf/proxy_pool",
+    "description": "Python爬虫代理IP池(proxy pool)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 65668,
+      "Dockerfile": 445,
+      "Shell": 77
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 52.32,
+    "S_code": 64.64,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "zsh-ls-colors",
+    "full_name": "Aloxaf/zsh-ls-colors",
+    "html_url": "https://github.com/Aloxaf/zsh-ls-colors",
+    "description": "A zsh library to use LS_COLORS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 11822
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 15.77,
+    "S_code": 11.54,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "fcitx5-lua",
+    "full_name": "Aloxaf/fcitx5-lua",
+    "html_url": "https://github.com/Aloxaf/fcitx5-lua",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 43699,
+      "Lua": 13239,
+      "CMake": 6108,
+      "Shell": 1313
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 31.43,
+    "S_code": 62.85,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fcitx5",
+    "full_name": "Aloxaf/fcitx5",
+    "html_url": "https://github.com/Aloxaf/fcitx5",
+    "description": "maybe a new fcitx.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 1694403,
+      "C": 240272,
+      "Objective-C": 119817,
+      "CMake": 74383,
+      "Shell": 59063,
+      "Python": 28275
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 1092.14,
+    "S_code": 2164.27,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "tikv",
+    "full_name": "Aloxaf/tikv",
+    "html_url": "https://github.com/Aloxaf/tikv",
+    "description": "Distributed transactional key-value database, originally created to complement TiDB",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 7227807,
+      "Makefile": 13264,
+      "Shell": 10606
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3540.86,
+    "S_code": 7081.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "skim",
+    "full_name": "Aloxaf/skim",
+    "html_url": "https://github.com/Aloxaf/skim",
+    "description": "Fuzzy Finder in rust!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 288036,
+      "Shell": 45747,
+      "Python": 45737,
+      "Vim Script": 29703
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 199.82,
+    "S_code": 399.63,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pycomplete",
+    "full_name": "Aloxaf/pycomplete",
+    "html_url": "https://github.com/Aloxaf/pycomplete",
+    "description": "A Python library to generate static completion scripts for your CLI app",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 26153,
+      "Smarty": 3383
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.42,
+    "S_code": 28.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "exa",
+    "full_name": "Aloxaf/exa",
+    "html_url": "https://github.com/Aloxaf/exa",
+    "description": "A modern version of ‘ls’.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 377019,
+      "Shell": 38758,
+      "Roff": 13426,
+      "Makefile": 3141
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 211.11,
+    "S_code": 422.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "qBittorrent-Enhanced-Edition",
+    "full_name": "Aloxaf/qBittorrent-Enhanced-Edition",
+    "html_url": "https://github.com/Aloxaf/qBittorrent-Enhanced-Edition",
+    "description": "[Unofficial] qBittorrent BitTorrent client (Enhanced Edition)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 2642116,
+      "JavaScript": 451885,
+      "HTML": 339566,
+      "Python": 61050,
+      "CMake": 55900,
+      "M4": 39886,
+      "CSS": 31329,
+      "Shell": 29663,
+      "QMake": 26597,
+      "C": 4436,
+      "Objective-C++": 4001
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1800.01,
+    "S_code": 3600.03,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "zplugin",
+    "full_name": "Aloxaf/zplugin",
+    "html_url": "https://github.com/Aloxaf/zplugin",
+    "description": "Flexible Zsh plugin manager with clean fpath, reports, completion management, turbo mode, annexes, services, packages",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 1673727,
+      "Shell": 452985,
+      "M4": 125344,
+      "Objective-C": 27518,
+      "Makefile": 16455,
+      "Awk": 10084
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 1136.03,
+    "S_code": 2252.06,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "repo",
+    "full_name": "Aloxaf/repo",
+    "html_url": "https://github.com/Aloxaf/repo",
+    "description": "Arch Linux CN Repository",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 2679782,
+      "Python": 239869,
+      "HTML": 114593,
+      "Roff": 108579,
+      "C++": 44900,
+      "C": 27901,
+      "Makefile": 6703,
+      "JavaScript": 3852,
+      "Julia": 3282,
+      "CSS": 1992
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1577.86,
+    "S_code": 3155.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "PKs_Rebalancing",
+    "full_name": "Aloxaf/PKs_Rebalancing",
+    "html_url": "https://github.com/Aloxaf/PKs_Rebalancing",
+    "description": "This fork aims to fix the immediate errors in the sparsely maintained mod, as well as add some rebalancing for the more 'hardcore' features of the mod. In case you don't want the rebalancing, the vanilla-errorfixed branch should serve you well. Credit for initial error fixes goes to /u/dissociativity of the Cataclysm discourse forum.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "gitstatus",
+    "full_name": "Aloxaf/gitstatus",
+    "html_url": "https://github.com/Aloxaf/gitstatus",
+    "description": "10x faster implementation of `git status` command",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 160296,
+      "Shell": 97197,
+      "Makefile": 997
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 126.22,
+    "S_code": 252.43,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "serde_tuple",
+    "full_name": "Aloxaf/serde_tuple",
+    "html_url": "https://github.com/Aloxaf/serde_tuple",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 16988
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.29,
+    "S_code": 16.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mcfly",
+    "full_name": "Aloxaf/mcfly",
+    "html_url": "https://github.com/Aloxaf/mcfly",
+    "description": "Fly through your shell history. Great Scott!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 131092,
+      "Shell": 5533,
+      "Ruby": 1009
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 67.2,
+    "S_code": 134.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pure",
+    "full_name": "Aloxaf/pure",
+    "html_url": "https://github.com/Aloxaf/pure",
+    "description": "Pretty, minimal and fast ZSH prompt",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 42164
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 100.59,
+    "S_code": 41.18,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "tidb",
+    "full_name": "Aloxaf/tidb",
+    "html_url": "https://github.com/Aloxaf/tidb",
+    "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 12409202,
+      "Shell": 11056,
+      "Makefile": 8647,
+      "Dockerfile": 769,
+      "Assembly": 514
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6069.43,
+    "S_code": 12138.86,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "evcxr",
+    "full_name": "Aloxaf/evcxr",
+    "html_url": "https://github.com/Aloxaf/evcxr",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 178161,
+      "Jupyter Notebook": 15231,
+      "Shell": 1225
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 105.03,
+    "S_code": 190.06,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "rustyline",
+    "full_name": "Aloxaf/rustyline",
+    "html_url": "https://github.com/Aloxaf/rustyline",
+    "description": "Readline Implementation in Rust",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 313155
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 152.91,
+    "S_code": 305.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "font-kit",
+    "full_name": "Aloxaf/font-kit",
+    "html_url": "https://github.com/Aloxaf/font-kit",
+    "description": "A cross-platform font loading library written in Rust",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 265939
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 129.85,
+    "S_code": 259.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "copr-test",
+    "full_name": "Aloxaf/copr-test",
+    "html_url": "https://github.com/Aloxaf/copr-test",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TSQL": 7735881,
+      "Go": 13189,
+      "Shell": 7769,
+      "Makefile": 100
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3787.57,
+    "S_code": 7575.14,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "moshmosh",
+    "full_name": "Aloxaf/moshmosh",
+    "html_url": "https://github.com/Aloxaf/moshmosh",
+    "description": "An amazing syntax extension system in pure Python, the way to coding efficiency. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 85470
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 41.73,
+    "S_code": 83.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "telegram-types",
+    "full_name": "Aloxaf/telegram-types",
+    "html_url": "https://github.com/Aloxaf/telegram-types",
+    "description": "Types in the Telegram Bot API and their deserializers",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 79991
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 39.06,
+    "S_code": 78.12,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "zip-rs",
+    "full_name": "Aloxaf/zip-rs",
+    "html_url": "https://github.com/Aloxaf/zip-rs",
+    "description": "Zip implementation in Rust",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 95804
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 46.78,
+    "S_code": 93.56,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "img_hash",
+    "full_name": "Aloxaf/img_hash",
+    "html_url": "https://github.com/Aloxaf/img_hash",
+    "description": "A Rust library for calculating perceptual hash values of images",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 39963
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.51,
+    "S_code": 39.03,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fastblur",
+    "full_name": "Aloxaf/fastblur",
+    "html_url": "https://github.com/Aloxaf/fastblur",
+    "description": "Fast (linear time) implementation of the Gaussian Blur algorithm in Rust",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 16939
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.27,
+    "S_code": 16.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "extsort-rs",
+    "full_name": "Aloxaf/extsort-rs",
+    "html_url": "https://github.com/Aloxaf/extsort-rs",
+    "description": "External sorting (i.e. on disk sorting) capability on arbitrarily sized iterator",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 14372
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 27.02,
+    "S_code": 14.04,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "files-viewer",
+    "full_name": "Aloxaf/files-viewer",
+    "html_url": "https://github.com/Aloxaf/files-viewer",
+    "description": "A File Manager for DrRacket",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Racket": 109615
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 53.52,
+    "S_code": 107.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pyAkinator",
+    "full_name": "Aloxaf/pyAkinator",
+    "html_url": "https://github.com/Aloxaf/pyAkinator",
+    "description": "Akinator的非官方命令行版本",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 6432
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 53.14,
+    "S_code": 6.28,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "timeauth",
+    "full_name": "Aloxaf/timeauth",
+    "html_url": "https://github.com/Aloxaf/timeauth",
+    "description": "Python Time Based Authentication Attack Tool",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 7190
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 13.51,
+    "S_code": 7.02,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "ScreenshotUtil",
+    "full_name": "Aloxaf/ScreenshotUtil",
+    "html_url": "https://github.com/Aloxaf/ScreenshotUtil",
+    "description": "Take a screen shot and recognize the text or scan the qrcode/barcode",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2965
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 81.45,
+    "S_code": 2.9,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "image",
+    "full_name": "Aloxaf/image",
+    "html_url": "https://github.com/Aloxaf/image",
+    "description": "控制台显示图片",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 25465,
+      "Batchfile": 4670
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 64.71,
+    "S_code": 29.43,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "CTF-RSA-tool",
+    "full_name": "Aloxaf/CTF-RSA-tool",
+    "html_url": "https://github.com/Aloxaf/CTF-RSA-tool",
+    "description": "a little tool help CTFer solve RSA problem",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 34985
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 37.08,
+    "S_code": 34.17,
+    "S_social": 0,
+    "S_maint": 2
+  }
+]

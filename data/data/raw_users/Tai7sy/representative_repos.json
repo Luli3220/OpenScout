@@ -1,0 +1,1923 @@
+[
+  {
+    "name": "card-system",
+    "full_name": "Tai7sy/card-system",
+    "html_url": "https://github.com/Tai7sy/card-system",
+    "description": "卡密商城系统，高效安全的在线卡密商城",
+    "stars": 2979,
+    "forks": 910,
+    "languages": {
+      "PHP": 339047,
+      "Blade": 172012,
+      "Vue": 563
+    },
+    "contributions_by_user": 166,
+    "contribution_score": 11507.82,
+    "S_code": 499.63,
+    "S_social": 4799,
+    "S_maint": 166
+  },
+  {
+    "name": "fuckcdn",
+    "full_name": "Tai7sy/fuckcdn",
+    "html_url": "https://github.com/Tai7sy/fuckcdn",
+    "description": "CDN真实IP扫描，易语言开发",
+    "stars": 474,
+    "forks": 148,
+    "languages": {
+      "Batchfile": 106
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 1570.05,
+    "S_code": 0.1,
+    "S_social": 770,
+    "S_maint": 3
+  },
+  {
+    "name": "OneDriveFly",
+    "full_name": "Tai7sy/OneDriveFly",
+    "html_url": "https://github.com/Tai7sy/OneDriveFly",
+    "description": "OneDrive Index Anywhere (QCloud SCF/Aliyun FC/Cloudflare Workers/Google Cloud Functions etc.)",
+    "stars": 280,
+    "forks": 162,
+    "languages": {
+      "PHP": 247156,
+      "JavaScript": 6934
+    },
+    "contributions_by_user": 33,
+    "contribution_score": 1662.07,
+    "S_code": 248.13,
+    "S_social": 604,
+    "S_maint": 33
+  },
+  {
+    "name": "LotServer_KeyGen",
+    "full_name": "Tai7sy/LotServer_KeyGen",
+    "html_url": "https://github.com/Tai7sy/LotServer_KeyGen",
+    "description": "A LotServer KeyGen",
+    "stars": 182,
+    "forks": 249,
+    "languages": {
+      "PHP": 18232
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 1468.9,
+    "S_code": 17.8,
+    "S_social": 680,
+    "S_maint": 10
+  },
+  {
+    "name": "vs-obfuscation",
+    "full_name": "Tai7sy/vs-obfuscation",
+    "html_url": "https://github.com/Tai7sy/vs-obfuscation",
+    "description": "LLVM Obfuscator / constexpr / PEB CALL API",
+    "stars": 180,
+    "forks": 64,
+    "languages": {
+      "C++": 10552
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 661.15,
+    "S_code": 10.3,
+    "S_social": 308,
+    "S_maint": 4
+  },
+  {
+    "name": "card-gateway",
+    "full_name": "Tai7sy/card-gateway",
+    "html_url": "https://github.com/Tai7sy/card-gateway",
+    "description": "The Gateways of card-system",
+    "stars": 90,
+    "forks": 64,
+    "languages": {
+      "PHP": 1238489,
+      "Blade": 10629,
+      "HTML": 6339,
+      "Hack": 2578
+    },
+    "contributions_by_user": 59,
+    "contribution_score": 1640.27,
+    "S_code": 1228.55,
+    "S_social": 218,
+    "S_maint": 59
+  },
+  {
+    "name": "ida_xorstr_decrypt",
+    "full_name": "Tai7sy/ida_xorstr_decrypt",
+    "html_url": "https://github.com/Tai7sy/ida_xorstr_decrypt",
+    "description": "String decrypt plugin powered by unicorn engine",
+    "stars": 83,
+    "forks": 18,
+    "languages": {
+      "Python": 21279
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 278.39,
+    "S_code": 20.78,
+    "S_social": 119,
+    "S_maint": 3
+  },
+  {
+    "name": "v2ray_mobile_lib",
+    "full_name": "Tai7sy/v2ray_mobile_lib",
+    "html_url": "https://github.com/Tai7sy/v2ray_mobile_lib",
+    "description": "v2ray mobile library for Android/iOS",
+    "stars": 72,
+    "forks": 38,
+    "languages": {
+      "Go": 24667,
+      "Shell": 6603,
+      "Makefile": 5775
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 514.09,
+    "S_code": 36.18,
+    "S_social": 148,
+    "S_maint": 20
+  },
+  {
+    "name": "aliyun_ecs_console",
+    "full_name": "Tai7sy/aliyun_ecs_console",
+    "html_url": "https://github.com/Tai7sy/aliyun_ecs_console",
+    "description": "阿里云ECS管理控制台, A simple demo of aliyun ECS",
+    "stars": 51,
+    "forks": 62,
+    "languages": {
+      "PHP": 538011
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 632.7,
+    "S_code": 525.4,
+    "S_social": 175,
+    "S_maint": 2
+  },
+  {
+    "name": "cnki-downloader",
+    "full_name": "Tai7sy/cnki-downloader",
+    "html_url": "https://github.com/Tai7sy/cnki-downloader",
+    "description": "chrome 插件: 知网(CNKI)文献下载工具",
+    "stars": 34,
+    "forks": 11,
+    "languages": {
+      "JavaScript": 21385,
+      "HTML": 4103
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 164.45,
+    "S_code": 24.89,
+    "S_social": 56,
+    "S_maint": 4
+  },
+  {
+    "name": "qvm_console",
+    "full_name": "Tai7sy/qvm_console",
+    "html_url": "https://github.com/Tai7sy/qvm_console",
+    "description": "腾讯云CVM管理控制台, A simple demo of CVM",
+    "stars": 34,
+    "forks": 34,
+    "languages": {
+      "PHP": 42388
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 254.7,
+    "S_code": 41.39,
+    "S_social": 102,
+    "S_maint": 3
+  },
+  {
+    "name": "NoVmp",
+    "full_name": "Tai7sy/NoVmp",
+    "html_url": "https://github.com/Tai7sy/NoVmp",
+    "description": "A static devirtualizer for VMProtect x64 3.x. powered by VTIL.",
+    "stars": 24,
+    "forks": 7,
+    "languages": {
+      "C++": 206833,
+      "C": 432,
+      "CMake": 416
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 177.41,
+    "S_code": 202.81,
+    "S_social": 38,
+    "S_maint": 0
+  },
+  {
+    "name": "js_hijack",
+    "full_name": "Tai7sy/js_hijack",
+    "html_url": "https://github.com/Tai7sy/js_hijack",
+    "description": "注入JS代码到微信浏览器",
+    "stars": 17,
+    "forks": 8,
+    "languages": {
+      "JavaScript": 30377,
+      "PHP": 753
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 271.2,
+    "S_code": 30.4,
+    "S_social": 33,
+    "S_maint": 19
+  },
+  {
+    "name": "CoinKLine",
+    "full_name": "Tai7sy/CoinKLine",
+    "html_url": "https://github.com/Tai7sy/CoinKLine",
+    "description": "Vue, okex kline 虚拟币K线, 附带各种价格通道线/斐波纳契扇/回调",
+    "stars": 17,
+    "forks": 5,
+    "languages": {
+      "JavaScript": 584127,
+      "HTML": 28389,
+      "CSS": 15979
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 380.88,
+    "S_code": 613.76,
+    "S_social": 27,
+    "S_maint": 2
+  },
+  {
+    "name": "BE_Fuck",
+    "full_name": "Tai7sy/BE_Fuck",
+    "html_url": "https://github.com/Tai7sy/BE_Fuck",
+    "description": "BattlEye Emulator, modified from slicktors work.",
+    "stars": 14,
+    "forks": 5,
+    "languages": {
+      "C++": 292827,
+      "Batchfile": 397
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 211.18,
+    "S_code": 286.35,
+    "S_social": 24,
+    "S_maint": 2
+  },
+  {
+    "name": "ico-spider",
+    "full_name": "Tai7sy/ico-spider",
+    "html_url": "https://github.com/Tai7sy/ico-spider",
+    "description": "ICO Source Spider, write in NodeJS",
+    "stars": 12,
+    "forks": 4,
+    "languages": {
+      "JavaScript": 1660
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 80.81,
+    "S_code": 1.62,
+    "S_social": 20,
+    "S_maint": 4
+  },
+  {
+    "name": "NvFBC_Capture",
+    "full_name": "Tai7sy/NvFBC_Capture",
+    "html_url": "https://github.com/Tai7sy/NvFBC_Capture",
+    "description": "ALSO works on consumer cards",
+    "stars": 9,
+    "forks": 2,
+    "languages": {
+      "C": 1169079,
+      "C++": 142356
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 686.35,
+    "S_code": 1280.7,
+    "S_social": 13,
+    "S_maint": 2
+  },
+  {
+    "name": "pay-demo",
+    "full_name": "Tai7sy/pay-demo",
+    "html_url": "https://github.com/Tai7sy/pay-demo",
+    "description": "Anfaka 支付SDK演示, https://pay.his.cat/",
+    "stars": 9,
+    "forks": 5,
+    "languages": {
+      "Vue": 7566,
+      "JavaScript": 1686,
+      "HTML": 504,
+      "CSS": 493
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 183.0,
+    "S_code": 10.01,
+    "S_social": 19,
+    "S_maint": 14
+  },
+  {
+    "name": "ChinaIP",
+    "full_name": "Tai7sy/ChinaIP",
+    "html_url": "https://github.com/Tai7sy/ChinaIP",
+    "description": "A PHP class that can help you determine if it is a Chinese IP address",
+    "stars": 5,
+    "forks": 2,
+    "languages": {
+      "PHP": 3051
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 29.49,
+    "S_code": 2.98,
+    "S_social": 9,
+    "S_maint": 1
+  },
+  {
+    "name": "Utf8_Unicode",
+    "full_name": "Tai7sy/Utf8_Unicode",
+    "html_url": "https://github.com/Tai7sy/Utf8_Unicode",
+    "description": "Convert Utf8 to Utf8 binary, Utf8 to Unicode Binary, Utf8 to Binary String, Utf8 to Ansi Binary etc",
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 13666
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 92.67,
+    "S_code": 13.35,
+    "S_social": 8,
+    "S_maint": 7
+  },
+  {
+    "name": "lua_bitop",
+    "full_name": "Tai7sy/lua_bitop",
+    "html_url": "https://github.com/Tai7sy/lua_bitop",
+    "description": "bitop for lua 5.1/5.2 and 5.3 ! ",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Lua": 12605,
+      "C": 5914,
+      "Makefile": 1399,
+      "Batchfile": 1156
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 36.29,
+    "S_code": 20.58,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "VTIL-Core",
+    "full_name": "Tai7sy/VTIL-Core",
+    "html_url": "https://github.com/Tai7sy/VTIL-Core",
+    "description": "Virtual-machine Translation Intermediate Language",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "C++": 7931969,
+      "CMake": 6412,
+      "C": 731
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 4114.52,
+    "S_code": 7753.04,
+    "S_social": 4,
+    "S_maint": 23
+  },
+  {
+    "name": "LazadaHook",
+    "full_name": "Tai7sy/LazadaHook",
+    "html_url": "https://github.com/Tai7sy/LazadaHook",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Java": 8442,
+      "Python": 5656
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 24.88,
+    "S_code": 13.77,
+    "S_social": 4,
+    "S_maint": 1
+  },
+  {
+    "name": "NoScreen",
+    "full_name": "Tai7sy/NoScreen",
+    "html_url": "https://github.com/Tai7sy/NoScreen",
+    "description": "Hiding the window from screenshots using the function win32kfull::ChangeWindowTreeProtection",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "C": 11104,
+      "C++": 8117
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.39,
+    "S_code": 18.77,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "anyconnect_hijack",
+    "full_name": "Tai7sy/anyconnect_hijack",
+    "html_url": "https://github.com/Tai7sy/anyconnect_hijack",
+    "description": "hijack scheme data of anyconnect",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Kotlin": 2226
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 55.09,
+    "S_code": 2.17,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "XposedWeChat",
+    "full_name": "Tai7sy/XposedWeChat",
+    "html_url": "https://github.com/Tai7sy/XposedWeChat",
+    "description": "fork of wechathelper,  只保留修改步数，支持自定义倍率",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Kotlin": 15136
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 25.39,
+    "S_code": 14.78,
+    "S_social": 4,
+    "S_maint": 1
+  },
+  {
+    "name": "Nt-Modules",
+    "full_name": "Tai7sy/Nt-Modules",
+    "html_url": "https://github.com/Tai7sy/Nt-Modules",
+    "description": "Collect different versions of Crucial modules.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Batchfile": 958
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 22.47,
+    "S_code": 0.94,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "screen-capture",
+    "full_name": "Tai7sy/screen-capture",
+    "html_url": "https://github.com/Tai7sy/screen-capture",
+    "description": "evaluate multi capture techniques",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 32139,
+      "C": 15371
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 35.2,
+    "S_code": 46.4,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "NO_ACCESS_Protection",
+    "full_name": "Tai7sy/NO_ACCESS_Protection",
+    "html_url": "https://github.com/Tai7sy/NO_ACCESS_Protection",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 4338
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.12,
+    "S_code": 4.24,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "nvidia-overlay-hijack",
+    "full_name": "Tai7sy/nvidia-overlay-hijack",
+    "html_url": "https://github.com/Tai7sy/nvidia-overlay-hijack",
+    "description": "Hijacking the nvidia overlay with C++ ",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C++": 5061,
+      "CMake": 185
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.56,
+    "S_code": 5.12,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "KernelGDIDraw",
+    "full_name": "Tai7sy/KernelGDIDraw",
+    "html_url": "https://github.com/Tai7sy/KernelGDIDraw",
+    "description": "The program draws with win32k gdi functions in the kernel while NtGdiDdDDISubmitCommand is being hooked.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C++": 97693,
+      "C": 72141,
+      "Objective-C": 42584
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 109.72,
+    "S_code": 207.44,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "UnrealEngineSDKGenerator",
+    "full_name": "Tai7sy/UnrealEngineSDKGenerator",
+    "html_url": "https://github.com/Tai7sy/UnrealEngineSDKGenerator",
+    "description": "Generate SDKs from Unreal Engine games (UE1 - 4 supported).",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C++": 934054,
+      "PowerShell": 1085,
+      "Batchfile": 142
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 482.68,
+    "S_code": 913.36,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "Kernel-Bridge",
+    "full_name": "Tai7sy/Kernel-Bridge",
+    "html_url": "https://github.com/Tai7sy/Kernel-Bridge",
+    "description": "Windows kernel hacking framework, driver template, hypervisor and API written on C++",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C++": 566149,
+      "C": 40878,
+      "Python": 24693,
+      "Assembly": 4217,
+      "Batchfile": 2332,
+      "QMake": 1351
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 318.31,
+    "S_code": 624.63,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "RW_Password",
+    "full_name": "Tai7sy/RW_Password",
+    "html_url": "https://github.com/Tai7sy/RW_Password",
+    "description": "此项目用来提取收集以往泄露的密码中符合条件的强弱密码",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Python": 2150
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.05,
+    "S_code": 2.1,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "llvm-obfuscator",
+    "full_name": "Tai7sy/llvm-obfuscator",
+    "html_url": "https://github.com/Tai7sy/llvm-obfuscator",
+    "description": "ollvm based on llvm 5.0 release",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 124204503,
+      "LLVM": 72636294,
+      "Assembly": 24738777,
+      "C": 16471321,
+      "Objective-C": 5532205,
+      "Objective-C++": 1681588,
+      "Python": 1368483,
+      "HTML": 1345087,
+      "CMake": 537056,
+      "OCaml": 301670,
+      "Cuda": 223426,
+      "Go": 135215,
+      "Perl": 121588,
+      "Shell": 99747,
+      "MATLAB": 58202,
+      "JavaScript": 42269,
+      "C#": 27149,
+      "Emacs Lisp": 25438,
+      "Batchfile": 22672,
+      "Vim Script": 17334,
+      "CSS": 14456,
+      "Roff": 10437,
+      "Makefile": 8946,
+      "Fortran": 8180,
+      "Mathematica": 7083,
+      "Dockerfile": 5737,
+      "M": 2951,
+      "PHP": 1544,
+      "AppleScript": 1429,
+      "Mercury": 1193,
+      "Forth": 925,
+      "RenderScript": 741,
+      "Rust": 200,
+      "Logos": 28
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 121903.31,
+    "S_code": 243802.61,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "shadowsocksr-android",
+    "full_name": "Tai7sy/shadowsocksr-android",
+    "html_url": "https://github.com/Tai7sy/shadowsocksr-android",
+    "description": "A ShadowsocksR client for Android",
+    "stars": 1,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 6.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "ngx_http_proxy_connect_module",
+    "full_name": "Tai7sy/ngx_http_proxy_connect_module",
+    "html_url": "https://github.com/Tai7sy/ngx_http_proxy_connect_module",
+    "description": "A forward proxy module for CONNECT request handling",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 40982,
+      "Perl": 3491
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.72,
+    "S_code": 43.43,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "hummingbot",
+    "full_name": "Tai7sy/hummingbot",
+    "html_url": "https://github.com/Tai7sy/hummingbot",
+    "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 12029842,
+      "Cython": 448576,
+      "C++": 18030,
+      "Shell": 4699,
+      "Dockerfile": 2430,
+      "Makefile": 1042,
+      "Batchfile": 52
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6105.8,
+    "S_code": 12211.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "deobfuscator",
+    "full_name": "Tai7sy/deobfuscator",
+    "html_url": "https://github.com/Tai7sy/deobfuscator",
+    "description": "break ollvm.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 66315
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 42.38,
+    "S_code": 64.76,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "FakeSign",
+    "full_name": "Tai7sy/FakeSign",
+    "html_url": "https://github.com/Tai7sy/FakeSign",
+    "description": "自建时间戳服务器实现伪签名驱动证书 Implementing Pseudo Signature with Self-Sign Timestamp Servers",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PowerShell": 194197,
+      "HTML": 190852,
+      "C++": 45887,
+      "Batchfile": 23240,
+      "C#": 22942,
+      "C": 8044,
+      "Python": 3994
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 238.85,
+    "S_code": 477.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "resym",
+    "full_name": "Tai7sy/resym",
+    "html_url": "https://github.com/Tai7sy/resym",
+    "description": "Cross-platform tool that allows browsing and extracting C and C++ type declarations from PDB files.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 400433,
+      "C++": 11044,
+      "HTML": 7789,
+      "Shell": 1671,
+      "Batchfile": 737,
+      "JavaScript": 576,
+      "Makefile": 433
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 216.39,
+    "S_code": 412.78,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "KsDumper-11",
+    "full_name": "Tai7sy/KsDumper-11",
+    "html_url": "https://github.com/Tai7sy/KsDumper-11",
+    "description": "A revival of the classic and legendary KsDumper",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 312397,
+      "C": 15620,
+      "Batchfile": 88
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 160.21,
+    "S_code": 320.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ethereum_json_rpc_request_generator",
+    "full_name": "Tai7sy/ethereum_json_rpc_request_generator",
+    "html_url": "https://github.com/Tai7sy/ethereum_json_rpc_request_generator",
+    "description": "Ethereum request generator server",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 7798
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.81,
+    "S_code": 7.62,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "NullTrace-Injector",
+    "full_name": "Tai7sy/NullTrace-Injector",
+    "html_url": "https://github.com/Tai7sy/NullTrace-Injector",
+    "description": "Inject shared libraries into processes on Android (real/emulator device supported)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 46940,
+      "CMake": 1171,
+      "Batchfile": 429,
+      "Shell": 429
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.91,
+    "S_code": 47.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "VMP-Imports-Deobfuscator",
+    "full_name": "Tai7sy/VMP-Imports-Deobfuscator",
+    "html_url": "https://github.com/Tai7sy/VMP-Imports-Deobfuscator",
+    "description": "VMProtect 2.x-3.x x64 Import Deobfuscator",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 182374
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 89.05,
+    "S_code": 178.1,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "MicroBackdoor",
+    "full_name": "Tai7sy/MicroBackdoor",
+    "html_url": "https://github.com/Tai7sy/MicroBackdoor",
+    "description": "Small and convenient C2 tool for Windows targets. [ Русский -- значит нахуй! ]",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 117548,
+      "Python": 81202,
+      "C": 32073,
+      "CSS": 3622,
+      "JavaScript": 1982,
+      "Dockerfile": 1172,
+      "Makefile": 875
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 116.44,
+    "S_code": 232.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "web.scraper.workers.dev",
+    "full_name": "Tai7sy/web.scraper.workers.dev",
+    "html_url": "https://github.com/Tai7sy/web.scraper.workers.dev",
+    "description": "Scrape websites for text by CSS selector.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 28524
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.93,
+    "S_code": 27.86,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Office-User-Auto-Create",
+    "full_name": "Tai7sy/Office-User-Auto-Create",
+    "html_url": "https://github.com/Tai7sy/Office-User-Auto-Create",
+    "description": "with cloudflare workers",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 1087717,
+      "JavaScript": 30659,
+      "TypeScript": 11715,
+      "CSS": 419
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 552.01,
+    "S_code": 1104.01,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cstrike15_src",
+    "full_name": "Tai7sy/cstrike15_src",
+    "html_url": "https://github.com/Tai7sy/cstrike15_src",
+    "description": "Leak of CS:GO Source code, provided by toomuchcaffeine",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 116777991,
+      "C": 13363254,
+      "Objective-C": 583322,
+      "C#": 533221,
+      "Perl": 423623,
+      "Makefile": 391252,
+      "Shell": 374258,
+      "HTML": 360233,
+      "Objective-C++": 175987,
+      "GLSL": 49990,
+      "Assembly": 42375,
+      "Batchfile": 37639,
+      "Squirrel": 36497,
+      "JavaScript": 22049,
+      "Roff": 21837,
+      "Yacc": 20220,
+      "Python": 14223,
+      "M4": 13880,
+      "Lua": 11887,
+      "Scheme": 7012,
+      "Lex": 6243,
+      "SourcePawn": 5535,
+      "Raku": 1825,
+      "PHP": 1657,
+      "Clarion": 1599,
+      "sed": 991,
+      "PLSQL": 833,
+      "CSS": 708
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 65078.19,
+    "S_code": 130156.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "php-apk-parser",
+    "full_name": "Tai7sy/php-apk-parser",
+    "html_url": "https://github.com/Tai7sy/php-apk-parser",
+    "description": "Read basic info about an application from .apk file.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PHP": 218542
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 106.71,
+    "S_code": 213.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "markdown-it",
+    "full_name": "Tai7sy/markdown-it",
+    "html_url": "https://github.com/Tai7sy/markdown-it",
+    "description": "Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 210852,
+      "HTML": 4050,
+      "Makefile": 3559,
+      "CSS": 2324
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 107.81,
+    "S_code": 215.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "go-tun2socks-build",
+    "full_name": "Tai7sy/go-tun2socks-build",
+    "html_url": "https://github.com/Tai7sy/go-tun2socks-build",
+    "description": "tun2socks with v2ray support for Android",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 31910,
+      "Makefile": 660
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 35.9,
+    "S_code": 31.81,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "VmwareHardenedLoader",
+    "full_name": "Tai7sy/VmwareHardenedLoader",
+    "html_url": "https://github.com/Tai7sy/VmwareHardenedLoader",
+    "description": "Vmware Hardened VM detection mitigation loader (anti anti-vm)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 25035716,
+      "Smalltalk": 606600,
+      "Java": 505973,
+      "Python": 442908,
+      "C++": 308180,
+      "OCaml": 295102,
+      "VBA": 110445,
+      "C#": 86994,
+      "Makefile": 36898,
+      "PowerShell": 20593,
+      "CMake": 20154,
+      "Batchfile": 14752,
+      "Shell": 7957
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13423.96,
+    "S_code": 26847.92,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "card-sdk",
+    "full_name": "Tai7sy/card-sdk",
+    "html_url": "https://github.com/Tai7sy/card-sdk",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 14.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "HyperPlatform-1",
+    "full_name": "Tai7sy/HyperPlatform-1",
+    "html_url": "https://github.com/Tai7sy/HyperPlatform-1",
+    "description": "Intel VT-x based hypervisor aiming to provide a thin VM-exit filtering platform on Windows.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 254794,
+      "C": 74624,
+      "Assembly": 23363,
+      "Objective-C": 4951,
+      "Batchfile": 269
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 174.81,
+    "S_code": 349.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "AndroidLibV2rayLite",
+    "full_name": "Tai7sy/AndroidLibV2rayLite",
+    "html_url": "https://github.com/Tai7sy/AndroidLibV2rayLite",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 17254,
+      "Shell": 6244,
+      "Makefile": 5638
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.23,
+    "S_code": 28.45,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "go-tun2socks",
+    "full_name": "Tai7sy/go-tun2socks",
+    "html_url": "https://github.com/Tai7sy/go-tun2socks",
+    "description": "A tun2socks implementation written in Go.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 2237345,
+      "Go": 92276,
+      "C++": 13796,
+      "CMake": 3808,
+      "Makefile": 780
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1146.49,
+    "S_code": 2292.97,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cheat-engine",
+    "full_name": "Tai7sy/cheat-engine",
+    "html_url": "https://github.com/Tai7sy/cheat-engine",
+    "description": "Cheat Engine. A development environment focused on modding",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Pascal": 8571757,
+      "C": 4077596,
+      "Lua": 476971,
+      "C++": 444705,
+      "Makefile": 134943,
+      "Assembly": 101202,
+      "Cuda": 20313,
+      "Visual Basic": 17537,
+      "Batchfile": 7874,
+      "HTML": 4110,
+      "HLSL": 2086,
+      "Shell": 221
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6767.24,
+    "S_code": 13534.49,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hvpp",
+    "full_name": "Tai7sy/hvpp",
+    "html_url": "https://github.com/Tai7sy/hvpp",
+    "description": "hvpp is a lightweight Intel x64/VT-x hypervisor written in C++ focused primarily on virtualization of already running operating system",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 987329,
+      "C": 457148,
+      "Assembly": 26620
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 718.31,
+    "S_code": 1436.62,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "SharpMonoInjector",
+    "full_name": "Tai7sy/SharpMonoInjector",
+    "html_url": "https://github.com/Tai7sy/SharpMonoInjector",
+    "description": "A tool for injecting assemblies into Mono embedded applications, commonly Unity Engine based games",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "C#": 57443
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 66.05,
+    "S_code": 56.1,
+    "S_social": 4,
+    "S_maint": 3
+  },
+  {
+    "name": "quill-render",
+    "full_name": "Tai7sy/quill-render",
+    "html_url": "https://github.com/Tai7sy/quill-render",
+    "description": "Renders quilljs deltas into HTML",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9114
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 34.45,
+    "S_code": 8.9,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "Struts2-Scan",
+    "full_name": "Tai7sy/Struts2-Scan",
+    "html_url": "https://github.com/Tai7sy/Struts2-Scan",
+    "description": "Struts2全漏洞扫描利用工具",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 86660,
+      "Java": 191
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 46.41,
+    "S_code": 84.82,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "LinkerMod",
+    "full_name": "Tai7sy/LinkerMod",
+    "html_url": "https://github.com/Tai7sy/LinkerMod",
+    "description": "Enhancements for Black Ops' modtools",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 6965298,
+      "C": 3224943,
+      "Objective-C": 251503,
+      "JavaScript": 61751,
+      "CMake": 23046,
+      "Batchfile": 7248,
+      "Lex": 5988,
+      "Shell": 1179
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5146.95,
+    "S_code": 10293.9,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "unicorn_pe",
+    "full_name": "Tai7sy/unicorn_pe",
+    "html_url": "https://github.com/Tai7sy/unicorn_pe",
+    "description": "Unicorn PE is an unicorn based instrumentation project designed to emulate code execution for windows PE files.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 33888625,
+      "C++": 1603907,
+      "Python": 861309,
+      "Java": 743571,
+      "Smalltalk": 646821,
+      "OCaml": 291404,
+      "Visual Basic": 237974,
+      "C#": 232223,
+      "Pascal": 120395,
+      "F#": 106921,
+      "Haskell": 105350,
+      "Ruby": 93126,
+      "Makefile": 82268,
+      "Go": 74806,
+      "CMake": 31301,
+      "Objective-C": 26163,
+      "PowerShell": 20593,
+      "Shell": 17538,
+      "Batchfile": 17223,
+      "Assembly": 3962,
+      "Tcl": 1339
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19143.95,
+    "S_code": 38287.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "uWebSockets",
+    "full_name": "Tai7sy/uWebSockets",
+    "html_url": "https://github.com/Tai7sy/uWebSockets",
+    "description": "Tiny WebSockets",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C++": 209338,
+      "Makefile": 3177,
+      "Go": 977,
+      "QMake": 946,
+      "JavaScript": 476,
+      "Shell": 97
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 138.99,
+    "S_code": 209.97,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "mfenc-decompiler",
+    "full_name": "Tai7sy/mfenc-decompiler",
+    "html_url": "https://github.com/Tai7sy/mfenc-decompiler",
+    "description": "PHP mfenc Decompiler",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PHP": 609817,
+      "JavaScript": 339,
+      "Batchfile": 47
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 297.95,
+    "S_code": 595.9,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ACL4SSR",
+    "full_name": "Tai7sy/ACL4SSR",
+    "html_url": "https://github.com/Tai7sy/ACL4SSR",
+    "description": "SSR 去广告ACL规则/SS完整GFWList规则，Telegram频道订阅地址",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "PUBG-RADAR-8K-OUTDATED-",
+    "full_name": "Tai7sy/PUBG-RADAR-8K-OUTDATED-",
+    "html_url": "https://github.com/Tai7sy/PUBG-RADAR-8K-OUTDATED-",
+    "description": "NOT WORKING NOW",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Kotlin": 235467,
+      "PLSQL": 12554,
+      "Batchfile": 5266,
+      "Shell": 1684
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 128.5,
+    "S_code": 249.0,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "vConsole",
+    "full_name": "Tai7sy/vConsole",
+    "html_url": "https://github.com/Tai7sy/vConsole",
+    "description": "(ie11 supported) A lightweight, extendable front-end developer tool for mobile web page.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 97681,
+      "HTML": 17933,
+      "CSS": 12509,
+      "PHP": 3317
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 64.18,
+    "S_code": 128.36,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "IDA7-Rizzo",
+    "full_name": "Tai7sy/IDA7-Rizzo",
+    "html_url": "https://github.com/Tai7sy/IDA7-Rizzo",
+    "description": "Rizzo plugin by devttys0, ported to IDA 7",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 21170
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.34,
+    "S_code": 20.67,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "PUBG-Radar",
+    "full_name": "Tai7sy/PUBG-Radar",
+    "html_url": "https://github.com/Tai7sy/PUBG-Radar",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Kotlin": 150336
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 77.41,
+    "S_code": 146.81,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "muse-ui",
+    "full_name": "Tai7sy/muse-ui",
+    "html_url": "https://github.com/Tai7sy/muse-ui",
+    "description": "Material Design UI library for Vuejs 2.0",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vue": 505229,
+      "JavaScript": 305321,
+      "CSS": 102677,
+      "Shell": 657
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 466.23,
+    "S_code": 892.46,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "LunarCalendar",
+    "full_name": "Tai7sy/LunarCalendar",
+    "html_url": "https://github.com/Tai7sy/LunarCalendar",
+    "description": "LunarCalendar",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 33382
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 36.3,
+    "S_code": 32.6,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "better-npm-run",
+    "full_name": "Tai7sy/better-npm-run",
+    "html_url": "https://github.com/Tai7sy/better-npm-run",
+    "description": "Better NPM scripts runner",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3489
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 31.7,
+    "S_code": 3.41,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "IW5M-Client-Server",
+    "full_name": "Tai7sy/IW5M-Client-Server",
+    "html_url": "https://github.com/Tai7sy/IW5M-Client-Server",
+    "description": "Client and Server files for IW5M",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 400491,
+      "C#": 179833,
+      "C": 13037,
+      "Assembly": 6116
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 292.71,
+    "S_code": 585.43,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Blasting_dictionary",
+    "full_name": "Tai7sy/Blasting_dictionary",
+    "html_url": "https://github.com/Tai7sy/Blasting_dictionary",
+    "description": "爆破字典",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "Python": 4137
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.02,
+    "S_code": 4.04,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "vs_demo",
+    "full_name": "Tai7sy/vs_demo",
+    "html_url": "https://github.com/Tai7sy/vs_demo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "Potatso",
+    "full_name": "Tai7sy/Potatso",
+    "html_url": "https://github.com/Tai7sy/Potatso",
+    "description": "Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 9.",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "Swift": 326713,
+      "Objective-C": 81113,
+      "Ruby": 1978
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 208.1,
+    "S_code": 400.2,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "shadowsocksr-csharp",
+    "full_name": "Tai7sy/shadowsocksr-csharp",
+    "html_url": "https://github.com/Tai7sy/shadowsocksr-csharp",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 1339665,
+      "Shell": 317
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 658.29,
+    "S_code": 1308.58,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "Syscall-Monitor",
+    "full_name": "Tai7sy/Syscall-Monitor",
+    "html_url": "https://github.com/Tai7sy/Syscall-Monitor",
+    "description": "Syscall Monitor is a system monitor program (like Sysinternal's Process Monitor) using Intel VT-X/EPT for Windows7+",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PHP": 8872570,
+      "C++": 7797498,
+      "C": 3517507,
+      "Smalltalk": 673296,
+      "Java": 394503,
+      "Python": 335590,
+      "OCaml": 228692,
+      "C#": 181802,
+      "Makefile": 35901,
+      "Assembly": 17527,
+      "CMake": 12261,
+      "Shell": 8201,
+      "Objective-C": 4946,
+      "QMake": 2067,
+      "Tcl": 1339,
+      "Ruby": 973,
+      "Batchfile": 849
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10783.95,
+    "S_code": 21567.89,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "yaf.auto.complete",
+    "full_name": "Tai7sy/yaf.auto.complete",
+    "html_url": "https://github.com/Tai7sy/yaf.auto.complete",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PHP": 182486
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 89.1,
+    "S_code": 178.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "HDTestSomething",
+    "full_name": "Tai7sy/HDTestSomething",
+    "html_url": "https://github.com/Tai7sy/HDTestSomething",
+    "description": "日常练习",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Objective-C": 194179,
+      "Ruby": 191
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 94.91,
+    "S_code": 189.81,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "shadowsocks-mu",
+    "full_name": "Tai7sy/shadowsocks-mu",
+    "html_url": "https://github.com/Tai7sy/shadowsocks-mu",
+    "description": "Python port of ShadowsocksR",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 383164,
+      "Shell": 15840,
+      "Batchfile": 230
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 198.94,
+    "S_code": 389.88,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "EQGRP_Lost_in_Translation",
+    "full_name": "Tai7sy/EQGRP_Lost_in_Translation",
+    "html_url": "https://github.com/Tai7sy/EQGRP_Lost_in_Translation",
+    "description": "Decrypted content of odd.tar.xz.gpg, swift.tar.xz.gpg and windows.tar.xz.gpg",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2823913,
+      "XSLT": 1544835,
+      "PostScript": 1010412,
+      "Perl": 461655,
+      "XS": 306191,
+      "Batchfile": 22553,
+      "ASP": 8681,
+      "PLSQL": 3778
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3018.56,
+    "S_code": 6037.13,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "zstack",
+    "full_name": "Tai7sy/zstack",
+    "html_url": "https://github.com/Tai7sy/zstack",
+    "description": "ZStack - the open-source IaaS software http://zstack.org",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Java": 15300079,
+      "Groovy": 1833563,
+      "Shell": 154382,
+      "AspectJ": 59213,
+      "Batchfile": 1132
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8474.88,
+    "S_code": 16941.77,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "ics-openvpn",
+    "full_name": "Tai7sy/ics-openvpn",
+    "html_url": "https://github.com/Tai7sy/ics-openvpn",
+    "description": "OpenVPN for Android",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 1122243,
+      "Shell": 837584,
+      "Java": 757356,
+      "Makefile": 313373,
+      "Assembly": 194714,
+      "C++": 158282,
+      "xBase": 151958,
+      "Batchfile": 54991,
+      "HTML": 27737,
+      "M4": 27288,
+      "AGS Script": 21828,
+      "Perl": 11298,
+      "CMake": 7502,
+      "Python": 6031
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1802.82,
+    "S_code": 3605.65,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "openvpn",
+    "full_name": "Tai7sy/openvpn",
+    "html_url": "https://github.com/Tai7sy/openvpn",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 2748203,
+      "Shell": 54381,
+      "M4": 48628,
+      "Makefile": 20735,
+      "C++": 11427,
+      "Perl": 4930,
+      "Groff": 4145,
+      "JavaScript": 3315,
+      "Batchfile": 2909,
+      "Objective-C": 2164,
+      "Python": 1517
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1417.17,
+    "S_code": 2834.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "weakfilescan",
+    "full_name": "Tai7sy/weakfilescan",
+    "html_url": "https://github.com/Tai7sy/weakfilescan",
+    "description": "动态多线程敏感信息泄露检测工具",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 832919
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 410.7,
+    "S_code": 813.4,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "dxsdk",
+    "full_name": "Tai7sy/dxsdk",
+    "html_url": "https://github.com/Tai7sy/dxsdk",
+    "description": "Collection of DirectX SDK headers to facilitate the build of Apitrace",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C++": 3286533,
+      "C": 2049375,
+      "CMake": 5483,
+      "Makefile": 326
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2612.26,
+    "S_code": 5216.52,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "serverSpeeder_kernel",
+    "full_name": "Tai7sy/serverSpeeder_kernel",
+    "html_url": "https://github.com/Tai7sy/serverSpeeder_kernel",
+    "description": "download from http://my.serverspeeder.com/download/",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "platform_external_openssl",
+    "full_name": "Tai7sy/platform_external_openssl",
+    "html_url": "https://github.com/Tai7sy/platform_external_openssl",
+    "description": "OpenVPN for Android - openssl",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 14431961,
+      "Perl": 2893257,
+      "Assembly": 2014201,
+      "C++": 485491,
+      "Makefile": 81489,
+      "Shell": 58750,
+      "M4": 49030,
+      "XS": 4319,
+      "eC": 3789,
+      "Batchfile": 2243
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9777.6,
+    "S_code": 19555.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "breakpad",
+    "full_name": "Tai7sy/breakpad",
+    "html_url": "https://github.com/Tai7sy/breakpad",
+    "description": "Mirror of Google Breakpad project",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 4930421,
+      "Makefile": 907921,
+      "C": 365644,
+      "Shell": 358562,
+      "Objective-C": 251510,
+      "Objective-C++": 192965,
+      "Python": 59706,
+      "M4": 32145,
+      "Assembly": 18834,
+      "Go": 13628,
+      "Protocol Buffer": 8872,
+      "Batchfile": 1164
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3487.0,
+    "S_code": 6974.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "SwitchyOmega",
+    "full_name": "Tai7sy/SwitchyOmega",
+    "html_url": "https://github.com/Tai7sy/SwitchyOmega",
+    "description": "Manage and switch between multiple proxies quickly & easily.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CoffeeScript": 309640,
+      "HTML": 52361,
+      "CSS": 11103,
+      "JavaScript": 2739
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 183.52,
+    "S_code": 367.03,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ssshell-jar",
+    "full_name": "Tai7sy/ssshell-jar",
+    "html_url": "https://github.com/Tai7sy/ssshell-jar",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 1126
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.55,
+    "S_code": 1.1,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ss-panel",
+    "full_name": "Tai7sy/ss-panel",
+    "html_url": "https://github.com/Tai7sy/ss-panel",
+    "description": "Let's talk about cat",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "PHP": 292341,
+      "CSS": 9194,
+      "JavaScript": 2890,
+      "Shell": 261,
+      "ApacheConf": 120
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 152.83,
+    "S_code": 297.66,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "SSShell",
+    "full_name": "Tai7sy/SSShell",
+    "html_url": "https://github.com/Tai7sy/SSShell",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 52539
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 25.65,
+    "S_code": 51.31,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "chnroutes",
+    "full_name": "Tai7sy/chnroutes",
+    "html_url": "https://github.com/Tai7sy/chnroutes",
+    "description": "scripts help chinese netizen, who uses vpn to combat censorship, by modifying the route table so as routing only the censored ip to the vpn",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 15343,
+      "HTML": 315
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.65,
+    "S_code": 15.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "finalspeed",
+    "full_name": "Tai7sy/finalspeed",
+    "html_url": "https://github.com/Tai7sy/finalspeed",
+    "description": "高速双边加速软件,在高丢包,延迟环境下仍可达到90%物理带宽利用率.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Java": 258281
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 130.11,
+    "S_code": 252.23,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "Injectora",
+    "full_name": "Tai7sy/Injectora",
+    "html_url": "https://github.com/Tai7sy/Injectora",
+    "description": "x86/x64 manual mapping injector using the JUCE library",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "C++": 7151695,
+      "C": 2475491,
+      "Objective-C++": 356444,
+      "Objective-C": 30285,
+      "Java": 24636
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4909.64,
+    "S_code": 9803.27,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "ShadowsocksRDroid",
+    "full_name": "Tai7sy/ShadowsocksRDroid",
+    "html_url": "https://github.com/Tai7sy/ShadowsocksRDroid",
+    "description": "A ShadowsocksR client for Android4.0+.Compatible Shadowsocks protocol and support some ShadowsocksR function.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 47440298,
+      "Perl": 3897610,
+      "Makefile": 2531651,
+      "Assembly": 904486,
+      "Shell": 842089,
+      "Groff": 730619,
+      "C++": 695531,
+      "HTML": 398876,
+      "Kotlin": 259743,
+      "M4": 243857,
+      "DIGITAL Command Language": 189824,
+      "PHP": 147640,
+      "Python": 110912,
+      "Yacc": 105362,
+      "CMake": 83638,
+      "Batchfile": 14801,
+      "XSLT": 11744,
+      "Lex": 10310,
+      "XS": 8638,
+      "eC": 7420,
+      "Java": 1960,
+      "Objective-C": 1886,
+      "Nix": 1224,
+      "JavaScript": 1012,
+      "Visual Basic": 294
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 28633.51,
+    "S_code": 57267.02,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "goanpeca/appveyor-client",
+    "stars": 2,
+    "description": "Appveyor Python Client",
+    "languages_breakdown": {
+      "Python": 39228
+    },
+    "files": {
+      "README.rst": "appveyor-client\n===============\n\nBuild status\n------------\n|travis status| |appveyor status| |circleci status| |quantified code| |scrutinizer|\n\nProject information\n-------------------\n|license| |pypi version|\n\n.. |travis status| image:: https://travis-ci.org/goanpeca/appveyor-client.svg?branch=master\n   :target: https://travis-ci.org/goanpeca/appveyor-client\n   :alt: Travis-CI build status\n.. |appveyor status| image:: https://ci.appveyor.com/api/projects/status/mgv5gnstlxv718xk?svg=true\n   :target: https://ci.appveyor.com/project/goanpeca/appveyor-client\n   :alt: Appveyor build status\n.. |circleci status| image:: https://circleci.com/gh/goanpeca/appveyor-client/tree/master.svg?style=shield\n   :target: https://circleci.com/gh/goanpeca/appveyor-client/tree/master\n   :alt: Circle-CI build status\n.. |quantified code| image:: https://www.quantifiedcode.com/api/v1/project/cc20fe74549746108607476699d2d7ec/badge.svg\n   :target: https://www.quantifiedcode.com/app/project/cc20fe74549746108607476699d2d7ec\n   :alt: Quantified Code issues\n.. |scrutinizer| image:: https://scrutinizer-ci.com/g/goanpeca/appveyor-client/badges/quality-score.png?b=master\n   :target: https://scrutinizer-ci.com/g/goanpeca/appveyor-client/?branch=master\n   :alt: Scrutinizer Code Quality\n.. |license| image:: https://img.shields.io/pypi/l/appveyor-client.svg\n   :target: LICENSE.txt\n   :alt: License\n.. |pypi version| image:: https://img.shields.io/pypi/v/appveyor-client.svg\n   :target: https://pypi.python.org/pypi/appveyor-client/\n   :alt: Latest PyPI version\n\nDescription\n-----------\nSimple python interface to the Appveyor restful api.\n\nUsage\n-----\n\n::\n\n  from appveyor_client import AppveyorClient\n  client = AppveyorClient('{appveyor_token}')\n\n  # Get list of projects\n  projects = client.projects.get()\n\n  # Get list of projects builds\n  builds = client.projects.history('goanpeca', 'appveyor-client')\n\n\nInstallation\n------------\n\nUsing pip\n\n::\n\n    pip install appveyor-client\n\nUsing conda\n\n::\n\n    conda install appveyor-client -c conda-forge\n"
+    }
+  },
+  {
+    "name": "goanpeca/lektor-outdated-alt-diffs",
+    "stars": 1,
+    "description": "Lektor plugin for finding oudated (translation wise) pages in a multi language project",
+    "languages_breakdown": {},
+    "files": {
+      "README.md": "# lektor-outdated-alt-diffs\nLektor plugin for finding oudated (translation wise) pages in a multi language project\n"
+    }
+  },
+  {
+    "name": "goanpeca/acciones",
+    "stars": 0,
+    "description": "Repositorio de pruebas de acciones de github",
+    "languages_breakdown": {},
+    "files": {}
+  }
+]

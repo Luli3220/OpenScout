@@ -1,0 +1,50 @@
+{
+  "username": "thoughtpolice",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Python",
+      "Perl",
+      "C++",
+      "Rust",
+      "Scheme",
+      "OCaml",
+      "Ruby",
+      "PHP",
+      "C",
+      "Coq",
+      "Starlark",
+      "Emacs Lisp",
+      "JavaScript",
+      "Assembly",
+      "Nix",
+      "SystemVerilog",
+      "Shell",
+      "Haskell"
+    ],
+    "distinct_topics": [
+      "embedded",
+      "nix",
+      "openddl",
+      "fpga",
+      "tree-sitter",
+      "haskell",
+      "risc-v",
+      "nixos",
+      "javascript",
+      "hackage",
+      "ed25519",
+      "parser",
+      "compression",
+      "http",
+      "bsdiff",
+      "cryptography",
+      "perl",
+      "bluespec",
+      "nixpkgs"
+    ],
+    "language_count": 18,
+    "topic_count": 19,
+    "total_owned_repos": 73
+  },
+  "diversity_score_100": 75.2
+}

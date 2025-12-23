@@ -1,0 +1,2483 @@
+[
+  {
+    "name": "CmdParser",
+    "full_name": "FlorianRappl/CmdParser",
+    "html_url": "https://github.com/FlorianRappl/CmdParser",
+    "description": "A simple and lightweight command line parser using C++11.",
+    "stars": 217,
+    "forks": 47,
+    "languages": {
+      "C++": 683842,
+      "CMake": 538
+    },
+    "contributions_by_user": 32,
+    "contribution_score": 1276.17,
+    "S_code": 668.34,
+    "S_social": 311,
+    "S_maint": 32
+  },
+  {
+    "name": "Mages",
+    "full_name": "FlorianRappl/Mages",
+    "html_url": "https://github.com/FlorianRappl/Mages",
+    "description": ":tophat: MAGES is a very simple, yet powerful, expression parser and interpreter.",
+    "stars": 130,
+    "forks": 15,
+    "languages": {
+      "C#": 1112821,
+      "PowerShell": 2371,
+      "Shell": 2304
+    },
+    "contributions_by_user": 677,
+    "contribution_score": 7635.65,
+    "S_code": 1091.3,
+    "S_social": 160,
+    "S_maint": 677
+  },
+  {
+    "name": "AngleSharp",
+    "full_name": "FlorianRappl/AngleSharp",
+    "html_url": "https://github.com/FlorianRappl/AngleSharp",
+    "description": "Don't star :star: this repo! Do :star: https://github.com/anglesharp/anglesharp instead!",
+    "stars": 99,
+    "forks": 21,
+    "languages": {
+      "C#": 10257745,
+      "HTML": 469943,
+      "JavaScript": 75888,
+      "Shell": 2665,
+      "PowerShell": 2364,
+      "Smalltalk": 694
+    },
+    "contributions_by_user": 5603,
+    "contribution_score": 61589.98,
+    "S_code": 10555.96,
+    "S_social": 141,
+    "S_maint": 5603
+  },
+  {
+    "name": "Mario5TS",
+    "full_name": "FlorianRappl/Mario5TS",
+    "html_url": "https://github.com/FlorianRappl/Mario5TS",
+    "description": "The TypeScript version of the Mario5 demo application.",
+    "stars": 61,
+    "forks": 16,
+    "languages": {
+      "TypeScript": 103458,
+      "CSS": 1579,
+      "HTML": 188,
+      "JavaScript": 176
+    },
+    "contributions_by_user": 62,
+    "contribution_score": 857.47,
+    "S_code": 102.93,
+    "S_social": 93,
+    "S_maint": 62
+  },
+  {
+    "name": "parcel-plugin-externals",
+    "full_name": "FlorianRappl/parcel-plugin-externals",
+    "html_url": "https://github.com/FlorianRappl/parcel-plugin-externals",
+    "description": "Parcel plugin for declaring externals. These externals will not be bundled. :package:",
+    "stars": 46,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 8382
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 368.09,
+    "S_code": 8.19,
+    "S_social": 52,
+    "S_maint": 26
+  },
+  {
+    "name": "microfrontends-with-blazor-demos",
+    "full_name": "FlorianRappl/microfrontends-with-blazor-demos",
+    "html_url": "https://github.com/FlorianRappl/microfrontends-with-blazor-demos",
+    "description": "Demos for my talk about \"Microfrontends with Blazor\". :rocket:",
+    "stars": 37,
+    "forks": 7,
+    "languages": {
+      "HTML": 30691,
+      "C#": 29333,
+      "CSS": 18616,
+      "TypeScript": 4017,
+      "JavaScript": 2034
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 183.35,
+    "S_code": 82.71,
+    "S_social": 51,
+    "S_maint": 4
+  },
+  {
+    "name": "WinFormsX",
+    "full_name": "FlorianRappl/WinFormsX",
+    "html_url": "https://github.com/FlorianRappl/WinFormsX",
+    "description": "Windows Forms Extensions Library for the Windows Forms applications / applications using the .NET-Framework.",
+    "stars": 34,
+    "forks": 13,
+    "languages": {
+      "C#": 310745
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 401.73,
+    "S_code": 303.46,
+    "S_social": 60,
+    "S_maint": 13
+  },
+  {
+    "name": "kras",
+    "full_name": "FlorianRappl/kras",
+    "html_url": "https://github.com/FlorianRappl/kras",
+    "description": "Efficient server proxying and mocking in Node.js. :muscle:",
+    "stars": 33,
+    "forks": 6,
+    "languages": {
+      "TypeScript": 143743,
+      "JavaScript": 2986
+    },
+    "contributions_by_user": 277,
+    "contribution_score": 2931.65,
+    "S_code": 143.29,
+    "S_social": 45,
+    "S_maint": 277
+  },
+  {
+    "name": "dets",
+    "full_name": "FlorianRappl/dets",
+    "html_url": "https://github.com/FlorianRappl/dets",
+    "description": "Generate a single declaration file for your TypeScript project. :rocket:",
+    "stars": 32,
+    "forks": 7,
+    "languages": {
+      "TypeScript": 348655,
+      "JavaScript": 3676
+    },
+    "contributions_by_user": 256,
+    "contribution_score": 2824.04,
+    "S_code": 344.07,
+    "S_social": 46,
+    "S_maint": 256
+  },
+  {
+    "name": "pwa-example",
+    "full_name": "FlorianRappl/pwa-example",
+    "html_url": "https://github.com/FlorianRappl/pwa-example",
+    "description": "A short example illustrating some essential steps for creating a progressive web app (PWA).",
+    "stars": 29,
+    "forks": 5,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 88.0,
+    "S_code": 0.0,
+    "S_social": 39,
+    "S_maint": 1
+  },
+  {
+    "name": "react-carousel-hook-example",
+    "full_name": "FlorianRappl/react-carousel-hook-example",
+    "html_url": "https://github.com/FlorianRappl/react-carousel-hook-example",
+    "description": "Example for creating a carousel component based on the useCarousel hook.",
+    "stars": 27,
+    "forks": 17,
+    "languages": {
+      "TypeScript": 10963,
+      "HTML": 315,
+      "JavaScript": 176
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 157.59,
+    "S_code": 11.19,
+    "S_social": 61,
+    "S_maint": 3
+  },
+  {
+    "name": "react-prerender-demo",
+    "full_name": "FlorianRappl/react-prerender-demo",
+    "html_url": "https://github.com/FlorianRappl/react-prerender-demo",
+    "description": "A simple demo repository to showcase how to pre-render a React application.",
+    "stars": 26,
+    "forks": 4,
+    "languages": {
+      "TypeScript": 6913,
+      "JavaScript": 6068
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 104.34,
+    "S_code": 12.68,
+    "S_social": 34,
+    "S_maint": 3
+  },
+  {
+    "name": "YAMP",
+    "full_name": "FlorianRappl/YAMP",
+    "html_url": "https://github.com/FlorianRappl/YAMP",
+    "description": "Yet Another Math Parser",
+    "stars": 25,
+    "forks": 9,
+    "languages": {
+      "C#": 2501286,
+      "PowerShell": 359
+    },
+    "contributions_by_user": 232,
+    "contribution_score": 3627.51,
+    "S_code": 2443.01,
+    "S_social": 43,
+    "S_maint": 232
+  },
+  {
+    "name": "bundler-comparison",
+    "full_name": "FlorianRappl/bundler-comparison",
+    "html_url": "https://github.com/FlorianRappl/bundler-comparison",
+    "description": "Comparison of web resource bundlers. :package:",
+    "stars": 22,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 6833,
+      "JavaScript": 4633,
+      "HTML": 2538,
+      "CSS": 903
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 175.28,
+    "S_code": 14.56,
+    "S_social": 24,
+    "S_maint": 12
+  },
+  {
+    "name": "JsonEditor",
+    "full_name": "FlorianRappl/JsonEditor",
+    "html_url": "https://github.com/FlorianRappl/JsonEditor",
+    "description": "Simple example JSON editor powered by a JSON schema. :snowman:",
+    "stars": 17,
+    "forks": 7,
+    "languages": {
+      "C#": 45934
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 104.43,
+    "S_code": 44.86,
+    "S_social": 31,
+    "S_maint": 2
+  },
+  {
+    "name": "portal-sample",
+    "full_name": "FlorianRappl/portal-sample",
+    "html_url": "https://github.com/FlorianRappl/portal-sample",
+    "description": "Sample React web app to host a portal for (framework independent) mini applications. :rocket:",
+    "stars": 16,
+    "forks": 3,
+    "languages": {
+      "TypeScript": 19047,
+      "JavaScript": 15102,
+      "HTML": 651,
+      "CSS": 129
+    },
+    "contributions_by_user": 32,
+    "contribution_score": 381.06,
+    "S_code": 34.11,
+    "S_social": 22,
+    "S_maint": 32
+  },
+  {
+    "name": "netpack",
+    "full_name": "FlorianRappl/netpack",
+    "html_url": "https://github.com/FlorianRappl/netpack",
+    "description": "A web project bundler written in C#/.NET.",
+    "stars": 14,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2081025,
+      "C#": 121398,
+      "JavaScript": 7900,
+      "HTML": 3843,
+      "Shell": 1539,
+      "CSS": 837,
+      "SCSS": 415,
+      "Less": 253
+    },
+    "contributions_by_user": 43,
+    "contribution_score": 1540.62,
+    "S_code": 2165.24,
+    "S_social": 14,
+    "S_maint": 43
+  },
+  {
+    "name": "typescript-fullstack-sample",
+    "full_name": "FlorianRappl/typescript-fullstack-sample",
+    "html_url": "https://github.com/FlorianRappl/typescript-fullstack-sample",
+    "description": "A sample repository to demonstrate creating a full stack web app using TypeScript with Node.js and React.",
+    "stars": 14,
+    "forks": 3,
+    "languages": {
+      "TypeScript": 7115,
+      "JavaScript": 668,
+      "Dockerfile": 135
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 303.87,
+    "S_code": 7.73,
+    "S_social": 20,
+    "S_maint": 26
+  },
+  {
+    "name": "tikz.js",
+    "full_name": "FlorianRappl/tikz.js",
+    "html_url": "https://github.com/FlorianRappl/tikz.js",
+    "description": "Creates standalone graphics based on PGF/TikZ using LaTeX and ImageMagick.",
+    "stars": 12,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 13619,
+      "TeX": 471
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 228.88,
+    "S_code": 13.76,
+    "S_social": 16,
+    "S_maint": 19
+  },
+  {
+    "name": "dynamic-esm-microfrontends-demo",
+    "full_name": "FlorianRappl/dynamic-esm-microfrontends-demo",
+    "html_url": "https://github.com/FlorianRappl/dynamic-esm-microfrontends-demo",
+    "description": "Demo for using ESM with dynamic imports for creating microfrontend solutions. :rocket:",
+    "stars": 12,
+    "forks": 2,
+    "languages": {
+      "TypeScript": 7515,
+      "CSS": 3118,
+      "JavaScript": 2913,
+      "HTML": 2632
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 59.9,
+    "S_code": 15.8,
+    "S_social": 16,
+    "S_maint": 2
+  },
+  {
+    "name": "parcel-plugin-codegen",
+    "full_name": "FlorianRappl/parcel-plugin-codegen",
+    "html_url": "https://github.com/FlorianRappl/parcel-plugin-codegen",
+    "description": "Parcel plugin for bundle-time code generation. Simple, powerful, and flexible. :package:",
+    "stars": 11,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 1248
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 130.61,
+    "S_code": 1.22,
+    "S_social": 15,
+    "S_maint": 10
+  },
+  {
+    "name": "react-arbiter",
+    "full_name": "FlorianRappl/react-arbiter",
+    "html_url": "https://github.com/FlorianRappl/react-arbiter",
+    "description": ":rocket: Recall all your modules to extend your SPA dynamically at runtime.",
+    "stars": 9,
+    "forks": 2,
+    "languages": {
+      "TypeScript": 43765,
+      "JavaScript": 701
+    },
+    "contributions_by_user": 50,
+    "contribution_score": 547.71,
+    "S_code": 43.42,
+    "S_social": 13,
+    "S_maint": 50
+  },
+  {
+    "name": "module-federation-tractor-v2",
+    "full_name": "FlorianRappl/module-federation-tractor-v2",
+    "html_url": "https://github.com/FlorianRappl/module-federation-tractor-v2",
+    "description": "The Tractor v2 implemented with micro frontends using Module Federation (v1 and v2; Vite, rspack and Webpack).",
+    "stars": 7,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 36495,
+      "CSS": 23713,
+      "HTML": 3033,
+      "Shell": 723
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 143.23,
+    "S_code": 62.46,
+    "S_social": 11,
+    "S_maint": 9
+  },
+  {
+    "name": "jest-fs-snapshot",
+    "full_name": "FlorianRappl/jest-fs-snapshot",
+    "html_url": "https://github.com/FlorianRappl/jest-fs-snapshot",
+    "description": "Jest matcher for filesystem snapshotting.",
+    "stars": 7,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 32245,
+      "CSS": 31
+    },
+    "contributions_by_user": 31,
+    "contribution_score": 343.76,
+    "S_code": 31.52,
+    "S_social": 9,
+    "S_maint": 31
+  },
+  {
+    "name": "peerjs-example-app",
+    "full_name": "FlorianRappl/peerjs-example-app",
+    "html_url": "https://github.com/FlorianRappl/peerjs-example-app",
+    "description": "A small video chat solution using PeerJS as written in the LogRocket article.",
+    "stars": 7,
+    "forks": 10,
+    "languages": {
+      "TypeScript": 6974,
+      "HTML": 361,
+      "JavaScript": 197
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 77.68,
+    "S_code": 7.36,
+    "S_social": 27,
+    "S_maint": 2
+  },
+  {
+    "name": "Piral.Blazor.Server.Samples.Tractor",
+    "full_name": "FlorianRappl/Piral.Blazor.Server.Samples.Tractor",
+    "html_url": "https://github.com/FlorianRappl/Piral.Blazor.Server.Samples.Tractor",
+    "description": "Repository for the famous tractor micro frontend sample using Piral.Blazor.Server.",
+    "stars": 6,
+    "forks": 3,
+    "languages": {
+      "C#": 6826,
+      "HTML": 6046,
+      "CSS": 5890
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 133.16,
+    "S_code": 18.32,
+    "S_social": 12,
+    "S_maint": 10
+  },
+  {
+    "name": "piral-webpack-tools",
+    "full_name": "FlorianRappl/piral-webpack-tools",
+    "html_url": "https://github.com/FlorianRappl/piral-webpack-tools",
+    "description": "Integrates webpack for debugging and building pilets. :rocket:",
+    "stars": 6,
+    "forks": 4,
+    "languages": {
+      "TypeScript": 14352,
+      "JavaScript": 1854
+    },
+    "contributions_by_user": 89,
+    "contribution_score": 925.91,
+    "S_code": 15.83,
+    "S_social": 14,
+    "S_maint": 89
+  },
+  {
+    "name": "ts-transform-sample",
+    "full_name": "FlorianRappl/ts-transform-sample",
+    "html_url": "https://github.com/FlorianRappl/ts-transform-sample",
+    "description": "Sample code for using TypeScript transforms.",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 5935,
+      "JavaScript": 176
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 34.98,
+    "S_code": 5.97,
+    "S_social": 6,
+    "S_maint": 2
+  },
+  {
+    "name": "Sumerics",
+    "full_name": "FlorianRappl/Sumerics",
+    "html_url": "https://github.com/FlorianRappl/Sumerics",
+    "description": "Sumerics is a touch enabled sensor application for doing numerical calculations on Windows 8+ computers.",
+    "stars": 6,
+    "forks": 5,
+    "languages": {
+      "C#": 1024734,
+      "Shell": 2300,
+      "PowerShell": 1922
+    },
+    "contributions_by_user": 170,
+    "contribution_score": 2234.42,
+    "S_code": 1004.84,
+    "S_social": 16,
+    "S_maint": 170
+  },
+  {
+    "name": "ddc-sample-microfrontend-app",
+    "full_name": "FlorianRappl/ddc-sample-microfrontend-app",
+    "html_url": "https://github.com/FlorianRappl/ddc-sample-microfrontend-app",
+    "description": "A sample microfrontend solution using only Blazor and ASP.NET.",
+    "stars": 5,
+    "forks": 3,
+    "languages": {
+      "C#": 20666,
+      "HTML": 11394,
+      "CSS": 3963,
+      "JavaScript": 494
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 59.83,
+    "S_code": 35.66,
+    "S_social": 11,
+    "S_maint": 2
+  },
+  {
+    "name": "module-federation-with-systemjs-importmap",
+    "full_name": "FlorianRappl/module-federation-with-systemjs-importmap",
+    "html_url": "https://github.com/FlorianRappl/module-federation-with-systemjs-importmap",
+    "description": "A simple example showing how a host can dynamically introduce MFs with shared dependencies using Webpack Module Federation.",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 4491,
+      "Shell": 212
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 36.3,
+    "S_code": 4.59,
+    "S_social": 7,
+    "S_maint": 2
+  },
+  {
+    "name": "react-concurrent-mode-example",
+    "full_name": "FlorianRappl/react-concurrent-mode-example",
+    "html_url": "https://github.com/FlorianRappl/react-concurrent-mode-example",
+    "description": "One example where React concurrent mode excels in user experience. :atom:",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2285,
+      "HTML": 255
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 31.24,
+    "S_code": 2.48,
+    "S_social": 5,
+    "S_maint": 2
+  },
+  {
+    "name": "piral-cli-local-feed",
+    "full_name": "FlorianRappl/piral-cli-local-feed",
+    "html_url": "https://github.com/FlorianRappl/piral-cli-local-feed",
+    "description": "Adds a command to run a local feed service. :rocket:",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 1743,
+      "JavaScript": 176
+    },
+    "contributions_by_user": 36,
+    "contribution_score": 372.94,
+    "S_code": 1.87,
+    "S_social": 6,
+    "S_maint": 36
+  },
+  {
+    "name": "parcel-plugin-import-maps",
+    "full_name": "FlorianRappl/parcel-plugin-import-maps",
+    "html_url": "https://github.com/FlorianRappl/parcel-plugin-import-maps",
+    "description": "Enables support for import-maps in Parcel. :world_map:",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 4812
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 104.35,
+    "S_code": 4.7,
+    "S_social": 6,
+    "S_maint": 9
+  },
+  {
+    "name": "mario5-sample-pilet",
+    "full_name": "FlorianRappl/mario5-sample-pilet",
+    "html_url": "https://github.com/FlorianRappl/mario5-sample-pilet",
+    "description": "A pilet running the Mario5 game for the sample-piral app shell. :ghost:",
+    "stars": 4,
+    "forks": 3,
+    "languages": {
+      "TypeScript": 104364,
+      "SCSS": 1799,
+      "JavaScript": 262
+    },
+    "contributions_by_user": 28,
+    "contribution_score": 351.97,
+    "S_code": 103.93,
+    "S_social": 10,
+    "S_maint": 28
+  },
+  {
+    "name": "DWX-Trickbox",
+    "full_name": "FlorianRappl/DWX-Trickbox",
+    "html_url": "https://github.com/FlorianRappl/DWX-Trickbox",
+    "description": "Demo code as shown in the talk \"Another look at the C# (6.0) trickbox\" at the DWX 2015.",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "C#": 35867
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 139.51,
+    "S_code": 35.03,
+    "S_social": 6,
+    "S_maint": 11
+  },
+  {
+    "name": "HarmOsc",
+    "full_name": "FlorianRappl/HarmOsc",
+    "html_url": "https://github.com/FlorianRappl/HarmOsc",
+    "description": "The harmonic oscillator on the lattice simulated using the HMC algorithm.",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "C++": 34029,
+      "JavaScript": 4805
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 256.96,
+    "S_code": 37.92,
+    "S_social": 4,
+    "S_maint": 23
+  },
+  {
+    "name": "awesome-dotnet",
+    "full_name": "FlorianRappl/awesome-dotnet",
+    "html_url": "https://github.com/FlorianRappl/awesome-dotnet",
+    "description": "A collection of awesome .NET libraries, tools, frameworks and software",
+    "stars": 4,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 8.0,
+    "S_code": 0.0,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "parcel-plugin-browserconfig",
+    "full_name": "FlorianRappl/parcel-plugin-browserconfig",
+    "html_url": "https://github.com/FlorianRappl/parcel-plugin-browserconfig",
+    "description": "A simple plugin for Parcel to traverse a browserconfig.xml file. :package:",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 931
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 246.45,
+    "S_code": 0.91,
+    "S_social": 3,
+    "S_maint": 24
+  },
+  {
+    "name": "DevOpsLittleHelper",
+    "full_name": "FlorianRappl/DevOpsLittleHelper",
+    "html_url": "https://github.com/FlorianRappl/DevOpsLittleHelper",
+    "description": "Azure Functions demo project for the CodeProject serverless competition.",
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "C#": 27822
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 147.58,
+    "S_code": 27.17,
+    "S_social": 7,
+    "S_maint": 12
+  },
+  {
+    "name": "piral-nextjs-sample",
+    "full_name": "FlorianRappl/piral-nextjs-sample",
+    "html_url": "https://github.com/FlorianRappl/piral-nextjs-sample",
+    "description": "Migrating an existing Next.js application to be used in a Piral instance as a pilet. :package:",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1813
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 36.89,
+    "S_code": 1.77,
+    "S_social": 3,
+    "S_maint": 3
+  },
+  {
+    "name": "Partial.Newtonsoft.Json",
+    "full_name": "FlorianRappl/Partial.Newtonsoft.Json",
+    "html_url": "https://github.com/FlorianRappl/Partial.Newtonsoft.Json",
+    "description": "Helper library to support deserializing fragments of types.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "C#": 27390
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 39.37,
+    "S_code": 26.75,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "FlorianRappl",
+    "full_name": "FlorianRappl/FlorianRappl",
+    "html_url": "https://github.com/FlorianRappl/FlorianRappl",
+    "description": "My GitHub profile.",
+    "stars": 2,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 6,
+    "contribution_score": 68.0,
+    "S_code": 0.0,
+    "S_social": 4,
+    "S_maint": 6
+  },
+  {
+    "name": "codegen-js",
+    "full_name": "FlorianRappl/codegen-js",
+    "html_url": "https://github.com/FlorianRappl/codegen-js",
+    "description": "Everything around codegen - the one bundler plugin that turns your frontend code into magic.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 12157,
+      "JavaScript": 2797
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 241.3,
+    "S_code": 14.6,
+    "S_social": 2,
+    "S_maint": 23
+  },
+  {
+    "name": "snow-pilet",
+    "full_name": "FlorianRappl/snow-pilet",
+    "html_url": "https://github.com/FlorianRappl/snow-pilet",
+    "description": "A pilet to produce snow on the website",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 4595,
+      "JavaScript": 176
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 36.33,
+    "S_code": 4.66,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "nightwatch-nunit3-reporter",
+    "full_name": "FlorianRappl/nightwatch-nunit3-reporter",
+    "html_url": "https://github.com/FlorianRappl/nightwatch-nunit3-reporter",
+    "description": "An NUnit3 reporter for Nightwatch.js.  :computer:",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 5921,
+      "EJS": 4508,
+      "JavaScript": 222
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 129.2,
+    "S_code": 10.4,
+    "S_social": 2,
+    "S_maint": 12
+  },
+  {
+    "name": "volley-sample-pilet",
+    "full_name": "FlorianRappl/volley-sample-pilet",
+    "html_url": "https://github.com/FlorianRappl/volley-sample-pilet",
+    "description": "A pilet running the Ultimate Volley game for the sample-piral app shell. :volleyball:",
+    "stars": 2,
+    "forks": 3,
+    "languages": {
+      "TypeScript": 43948,
+      "SCSS": 939,
+      "JavaScript": 332
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 238.08,
+    "S_code": 44.16,
+    "S_social": 8,
+    "S_maint": 20
+  },
+  {
+    "name": "portal-sample-piral",
+    "full_name": "FlorianRappl/portal-sample-piral",
+    "html_url": "https://github.com/FlorianRappl/portal-sample-piral",
+    "description": "Recreation of my portal-sample project using Piral :rocket:.",
+    "stars": 2,
+    "forks": 3,
+    "languages": {
+      "TypeScript": 9889,
+      "SCSS": 2971,
+      "JavaScript": 1010,
+      "Shell": 697,
+      "HTML": 460
+    },
+    "contributions_by_user": 82,
+    "contribution_score": 843.34,
+    "S_code": 14.67,
+    "S_social": 8,
+    "S_maint": 82
+  },
+  {
+    "name": "microfrontend-resources",
+    "full_name": "FlorianRappl/microfrontend-resources",
+    "html_url": "https://github.com/FlorianRappl/microfrontend-resources",
+    "description": ":fire: A curated list of resources about  Micro frontends grouped by types",
+    "stars": 2,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 8.0,
+    "S_code": 0.0,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "adc25-demos",
+    "full_name": "FlorianRappl/adc25-demos",
+    "html_url": "https://github.com/FlorianRappl/adc25-demos",
+    "description": "Demos for my talks given at the ADC25 conference.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2067914,
+      "C#": 8647,
+      "SCSS": 6538,
+      "CSS": 4578,
+      "HTML": 4305,
+      "Rust": 2042,
+      "JavaScript": 123,
+      "Shell": 49
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 1104.56,
+    "S_code": 2045.11,
+    "S_social": 1,
+    "S_maint": 8
+  },
+  {
+    "name": "piral-cli-dotenv",
+    "full_name": "FlorianRappl/piral-cli-dotenv",
+    "html_url": "https://github.com/FlorianRappl/piral-cli-dotenv",
+    "description": "Adds a flag to include environment variables from .env files. :rocket:",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1367,
+      "JavaScript": 176
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 132.75,
+    "S_code": 1.51,
+    "S_social": 1,
+    "S_maint": 13
+  },
+  {
+    "name": "schaaf.js",
+    "full_name": "FlorianRappl/schaaf.js",
+    "html_url": "https://github.com/FlorianRappl/schaaf.js",
+    "description": "Example code for the \"custom JS framework\" session at My Coding Zone (5th of April 2024).",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4007,
+      "HTML": 236
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 14.07,
+    "S_code": 4.14,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "wasm-demos",
+    "full_name": "FlorianRappl/wasm-demos",
+    "html_url": "https://github.com/FlorianRappl/wasm-demos",
+    "description": "Demos for the My Coding Zone stream",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 5,
+    "contribution_score": 52.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "css-conflict-inspector",
+    "full_name": "FlorianRappl/css-conflict-inspector",
+    "html_url": "https://github.com/FlorianRappl/css-conflict-inspector",
+    "description": "Find potential for CSS conflicts.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 14534,
+      "JavaScript": 176
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 59.18,
+    "S_code": 14.37,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "cz-lang",
+    "full_name": "FlorianRappl/cz-lang",
+    "html_url": "https://github.com/FlorianRappl/cz-lang",
+    "description": "My Coding Zone stream project - create your own programming language",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 11443,
+      "JavaScript": 123
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 17.65,
+    "S_code": 11.29,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "tower-defense-sample-pilet",
+    "full_name": "FlorianRappl/tower-defense-sample-pilet",
+    "html_url": "https://github.com/FlorianRappl/tower-defense-sample-pilet",
+    "description": "A pilet running a Tower Defense game for the sample-piral app shell. :house:",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "TypeScript": 86285,
+      "SCSS": 4725,
+      "JavaScript": 176
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 234.52,
+    "S_code": 89.05,
+    "S_social": 5,
+    "S_maint": 18
+  },
+  {
+    "name": "kras-swagger-injector",
+    "full_name": "FlorianRappl/kras-swagger-injector",
+    "html_url": "https://github.com/FlorianRappl/kras-swagger-injector",
+    "description": "Mock web service APIs by providing Swagger YAML files. :muscle:",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3399,
+      "JavaScript": 209
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 223.76,
+    "S_code": 3.52,
+    "S_social": 1,
+    "S_maint": 22
+  },
+  {
+    "name": "Simplet",
+    "full_name": "FlorianRappl/Simplet",
+    "html_url": "https://github.com/FlorianRappl/Simplet",
+    "description": "A simple C# class generator for static text templates.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C#": 35066
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 103.12,
+    "S_code": 34.24,
+    "S_social": 3,
+    "S_maint": 8
+  },
+  {
+    "name": "react-alpine",
+    "full_name": "FlorianRappl/react-alpine",
+    "html_url": "https://github.com/FlorianRappl/react-alpine",
+    "description": "A proof of concept / idea for a JS-in-JS implementation to enable ultra-fast websites with some degree of interactivity.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3865,
+      "JavaScript": 176
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.97,
+    "S_code": 3.95,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "spaceshoot-sample-pilet",
+    "full_name": "FlorianRappl/spaceshoot-sample-pilet",
+    "html_url": "https://github.com/FlorianRappl/spaceshoot-sample-pilet",
+    "description": "A pilet running the infamous SpaceShoot game for the sample-piral app shell. :space_invader:",
+    "stars": 1,
+    "forks": 3,
+    "languages": {
+      "TypeScript": 94100,
+      "SCSS": 5085,
+      "JavaScript": 368
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 152.61,
+    "S_code": 97.22,
+    "S_social": 7,
+    "S_maint": 9
+  },
+  {
+    "name": "react-workshop-2022",
+    "full_name": "FlorianRappl/react-workshop-2022",
+    "html_url": "https://github.com/FlorianRappl/react-workshop-2022",
+    "description": ":atom: Material for the React workshop.",
+    "stars": 1,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 8763,
+      "HTML": 6412
+    },
+    "contributions_by_user": 32,
+    "contribution_score": 341.41,
+    "S_code": 14.82,
+    "S_social": 7,
+    "S_maint": 32
+  },
+  {
+    "name": "openmrs-esm-template-app",
+    "full_name": "FlorianRappl/openmrs-esm-template-app",
+    "html_url": "https://github.com/FlorianRappl/openmrs-esm-template-app",
+    "description": "A \"Hello World\" app you can use as a template for creating new microfrontends",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 10773,
+      "JavaScript": 236,
+      "Shell": 203,
+      "CSS": 97
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 17.52,
+    "S_code": 11.04,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "mkdocs-material",
+    "full_name": "FlorianRappl/mkdocs-material",
+    "html_url": "https://github.com/FlorianRappl/mkdocs-material",
+    "description": "A Material Design theme for MkDocs",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 275854,
+      "HTML": 219195,
+      "CSS": 160859,
+      "Python": 2656,
+      "Dockerfile": 2015
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 324.55,
+    "S_code": 645.1,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "parcel-plugin-at-alias",
+    "full_name": "FlorianRappl/parcel-plugin-at-alias",
+    "html_url": "https://github.com/FlorianRappl/parcel-plugin-at-alias",
+    "description": "Parcel plugin to provide support for aliases starting with '@'. :package:",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 898
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 42.44,
+    "S_code": 0.88,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "mife-tutorial",
+    "full_name": "FlorianRappl/mife-tutorial",
+    "html_url": "https://github.com/FlorianRappl/mife-tutorial",
+    "description": "Tutorial for a minimalistic microfrontend setup using React. :atom: :rocket:",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 5411,
+      "HTML": 383
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 28.83,
+    "S_code": 5.66,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "ts-service-boilerplate",
+    "full_name": "FlorianRappl/ts-service-boilerplate",
+    "html_url": "https://github.com/FlorianRappl/ts-service-boilerplate",
+    "description": "Example boilerplate code for writing a Node.js service in TypeScript incl. OpenAPI spec generation and unit testing.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 8013,
+      "JavaScript": 226
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 126.02,
+    "S_code": 8.05,
+    "S_social": 1,
+    "S_maint": 12
+  },
+  {
+    "name": "msdevrgb-web2018-demo",
+    "full_name": "FlorianRappl/msdevrgb-web2018-demo",
+    "html_url": "https://github.com/FlorianRappl/msdevrgb-web2018-demo",
+    "description": "Demo code derived during the talk about Web Development 2018 at the Microsoft Developer Group in Regensburg.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1221,
+      "JavaScript": 545
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 112.86,
+    "S_code": 1.72,
+    "S_social": 1,
+    "S_maint": 11
+  },
+  {
+    "name": "awesome-microfrontends",
+    "full_name": "FlorianRappl/awesome-microfrontends",
+    "html_url": "https://github.com/FlorianRappl/awesome-microfrontends",
+    "description": "A curated list of resources about everything Micro Frontends",
+    "stars": 1,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 6.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "awesome-micro-frontends",
+    "full_name": "FlorianRappl/awesome-micro-frontends",
+    "html_url": "https://github.com/FlorianRappl/awesome-micro-frontends",
+    "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
+    "stars": 1,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 6.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "Chocolatey-Julia",
+    "full_name": "FlorianRappl/Chocolatey-Julia",
+    "html_url": "https://github.com/FlorianRappl/Chocolatey-Julia",
+    "description": "Chocolatey package to install the Julia programming language.",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "PowerShell": 563
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 170.27,
+    "S_code": 0.55,
+    "S_social": 5,
+    "S_maint": 16
+  },
+  {
+    "name": "ts-webpack-virtual-resolve",
+    "full_name": "FlorianRappl/ts-webpack-virtual-resolve",
+    "html_url": "https://github.com/FlorianRappl/ts-webpack-virtual-resolve",
+    "description": "Example of resolving virtual modules from TypeScript with Webpack.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1549,
+      "TypeScript": 257,
+      "HTML": 33
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 52.9,
+    "S_code": 1.8,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "SpiderSample",
+    "full_name": "FlorianRappl/SpiderSample",
+    "html_url": "https://github.com/FlorianRappl/SpiderSample",
+    "description": "A short sample code for demonstrating some features of the Spider programming language.",
+    "stars": 1,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 8815,
+      "HTML": 387
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 78.49,
+    "S_code": 8.99,
+    "S_social": 7,
+    "S_maint": 6
+  },
+  {
+    "name": "dotnet",
+    "full_name": "FlorianRappl/dotnet",
+    "html_url": "https://github.com/FlorianRappl/dotnet",
+    "description": "dotnet is the official home of .NET on GitHub. It's a starting point to find .NET OSS projects from Microsoft, including those that are part of the .NET Foundation.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ModernCS",
+    "full_name": "FlorianRappl/ModernCS",
+    "html_url": "https://github.com/FlorianRappl/ModernCS",
+    "description": "Examples for my presentation regarding C# for professionals",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C#": 65183
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 97.83,
+    "S_code": 63.66,
+    "S_social": 3,
+    "S_maint": 6
+  },
+  {
+    "name": "react-datagrids-sample",
+    "full_name": "FlorianRappl/react-datagrids-sample",
+    "html_url": "https://github.com/FlorianRappl/react-datagrids-sample",
+    "description": "Some examples for different datagrid solutions.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 10826,
+      "HTML": 1721,
+      "CSS": 929
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 186.58,
+    "S_code": 13.16,
+    "S_social": 0,
+    "S_maint": 18
+  },
+  {
+    "name": "bisecur2mqtt",
+    "full_name": "FlorianRappl/bisecur2mqtt",
+    "html_url": "https://github.com/FlorianRappl/bisecur2mqtt",
+    "description": "MQTT wrapper to Hormann Bisecur Gateway Library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 83088,
+      "Shell": 49
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 40.59,
+    "S_code": 81.19,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "craft-conf-25-astro-examples",
+    "full_name": "FlorianRappl/craft-conf-25-astro-examples",
+    "html_url": "https://github.com/FlorianRappl/craft-conf-25-astro-examples",
+    "description": "Examples for the Warp Speed Web Dev with Astro talk at CraftConf 2025.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Astro": 37385,
+      "CSS": 2911,
+      "TypeScript": 2494,
+      "MDX": 1584,
+      "JavaScript": 1055
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 42.18,
+    "S_code": 44.36,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "portfolio",
+    "full_name": "FlorianRappl/portfolio",
+    "html_url": "https://github.com/FlorianRappl/portfolio",
+    "description": "Most lightweight portfolio for me.florian-rappl.de",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 15142,
+      "JavaScript": 2649,
+      "CSS": 380
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 48.87,
+    "S_code": 17.75,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "netpack-benchmarks",
+    "full_name": "FlorianRappl/netpack-benchmarks",
+    "html_url": "https://github.com/FlorianRappl/netpack-benchmarks",
+    "description": "A collection of some benchmarks to measure the performance of netpack.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2060537,
+      "JavaScript": 1783134,
+      "HTML": 1129,
+      "Shell": 941,
+      "SCSS": 286,
+      "CSS": 29
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 1887.96,
+    "S_code": 3755.91,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "picard-sspa-module-federation-tractor-v2",
+    "full_name": "FlorianRappl/picard-sspa-module-federation-tractor-v2",
+    "html_url": "https://github.com/FlorianRappl/picard-sspa-module-federation-tractor-v2",
+    "description": "The Tractor v2 implemented with micro frontends using Module Federation, orchestrated using Picard.js with single-spa lifecycle components.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 36560,
+      "CSS": 23713,
+      "HTML": 2939,
+      "Shell": 735
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 51.22,
+    "S_code": 62.45,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "single-spa-tractor-v2",
+    "full_name": "FlorianRappl/single-spa-tractor-v2",
+    "html_url": "https://github.com/FlorianRappl/single-spa-tractor-v2",
+    "description": "The Tractor v2 implemented with micro frontends using single-spa with SystemJS.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 39809,
+      "CSS": 23713,
+      "HTML": 3369,
+      "Shell": 716
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 53.01,
+    "S_code": 66.02,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "single-spa-module-federation-tractor-v2",
+    "full_name": "FlorianRappl/single-spa-module-federation-tractor-v2",
+    "html_url": "https://github.com/FlorianRappl/single-spa-module-federation-tractor-v2",
+    "description": "The Tractor v2 implemented with micro frontends using Module Federation with single-spa. ",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 40066,
+      "CSS": 23713,
+      "HTML": 3033,
+      "Shell": 734
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 60.98,
+    "S_code": 65.96,
+    "S_social": 4,
+    "S_maint": 2
+  },
+  {
+    "name": "ddc24-devsession",
+    "full_name": "FlorianRappl/ddc24-devsession",
+    "html_url": "https://github.com/FlorianRappl/ddc24-devsession",
+    "description": "Material for the DevSession about Micro Frontends at the DDC 24 in Cologne.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 40580,
+      "HTML": 38625,
+      "C#": 6575,
+      "JavaScript": 1310
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 92.52,
+    "S_code": 85.05,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "js.org",
+    "full_name": "FlorianRappl/js.org",
+    "html_url": "https://github.com/FlorianRappl/js.org",
+    "description": "Dedicated to JavaScript and its awesome community since 2015 ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 157640
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 76.97,
+    "S_code": 153.95,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "website",
+    "full_name": "FlorianRappl/website",
+    "html_url": "https://github.com/FlorianRappl/website",
+    "description": "Website of the JSCraftCamp in Munich",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Svelte": 98984,
+      "TypeScript": 16301,
+      "JavaScript": 1224,
+      "HTML": 329
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 61.05,
+    "S_code": 114.1,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "module-federation-plugin",
+    "full_name": "FlorianRappl/module-federation-plugin",
+    "html_url": "https://github.com/FlorianRappl/module-federation-plugin",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 279732,
+      "JavaScript": 9924,
+      "CSS": 2350,
+      "Batchfile": 1893,
+      "HTML": 1450
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 144.21,
+    "S_code": 288.43,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "developers-conferences-agenda",
+    "full_name": "FlorianRappl/developers-conferences-agenda",
+    "html_url": "https://github.com/FlorianRappl/developers-conferences-agenda",
+    "description": "This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 44195,
+      "CSS": 13057,
+      "HTML": 2731,
+      "Shell": 308
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 29.44,
+    "S_code": 58.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "munichjs-website",
+    "full_name": "FlorianRappl/munichjs-website",
+    "html_url": "https://github.com/FlorianRappl/munichjs-website",
+    "description": "The website for the MunichJS meetup group.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Astro": 7602,
+      "JavaScript": 109
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 63.77,
+    "S_code": 7.53,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "mf-angular-i18next",
+    "full_name": "FlorianRappl/mf-angular-i18next",
+    "html_url": "https://github.com/FlorianRappl/mf-angular-i18next",
+    "description": "angular v10+ integration with i18next v19.4+",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 85983,
+      "HTML": 13669,
+      "JavaScript": 3329,
+      "CSS": 1987,
+      "Shell": 142
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 111.32,
+    "S_code": 102.65,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "featurevisor",
+    "full_name": "FlorianRappl/featurevisor",
+    "html_url": "https://github.com/FlorianRappl/featurevisor",
+    "description": "Git-based feature flags and experimentation management solution for developers",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 239290,
+      "JavaScript": 4378,
+      "Makefile": 528,
+      "HTML": 319,
+      "CSS": 115
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 119.45,
+    "S_code": 238.9,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "damon-de-letter-poc",
+    "full_name": "FlorianRappl/damon-de-letter-poc",
+    "html_url": "https://github.com/FlorianRappl/damon-de-letter-poc",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 13445,
+      "Vue": 5093,
+      "CSS": 3478,
+      "SCSS": 3037,
+      "JavaScript": 1075,
+      "Svelte": 760,
+      "HTML": 457
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 23.35,
+    "S_code": 26.7,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "svelte-twitter",
+    "full_name": "FlorianRappl/svelte-twitter",
+    "html_url": "https://github.com/FlorianRappl/svelte-twitter",
+    "description": "A simple demo project using Svelte to display a timeline of posts.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 6525,
+      "JavaScript": 587,
+      "CSS": 490,
+      "HTML": 299
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 143.86,
+    "S_code": 7.72,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "piral-labs",
+    "full_name": "FlorianRappl/piral-labs",
+    "html_url": "https://github.com/FlorianRappl/piral-labs",
+    "description": "One experiment at a time.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 7247,
+      "TypeScript": 7009,
+      "SCSS": 404,
+      "HTML": 293
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 57.3,
+    "S_code": 14.6,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "good-first-issue",
+    "full_name": "FlorianRappl/good-first-issue",
+    "html_url": "https://github.com/FlorianRappl/good-first-issue",
+    "description": "Make your first open-source contribution.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 20073,
+      "Python": 15095,
+      "Vue": 11290,
+      "Makefile": 421
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22.89,
+    "S_code": 45.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "native-dep-sharing",
+    "full_name": "FlorianRappl/native-dep-sharing",
+    "html_url": "https://github.com/FlorianRappl/native-dep-sharing",
+    "description": "Fully native dependency sharing in the browser using ESM. No polyfills required. Can be written by hand.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6045,
+      "HTML": 532
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 13.21,
+    "S_code": 6.42,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "code-palousa-2022",
+    "full_name": "FlorianRappl/code-palousa-2022",
+    "html_url": "https://github.com/FlorianRappl/code-palousa-2022",
+    "description": "Slides from Code PaLOUsa 2022.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 3848,
+      "Shell": 2070,
+      "Dockerfile": 402
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.09,
+    "S_code": 6.17,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "prince-sample-pilet",
+    "full_name": "FlorianRappl/prince-sample-pilet",
+    "html_url": "https://github.com/FlorianRappl/prince-sample-pilet",
+    "description": "A sample pilet with the prince of persia game.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 236023,
+      "TypeScript": 2617,
+      "SCSS": 304,
+      "CSS": 300
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 136.82,
+    "S_code": 233.64,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "swag-original",
+    "full_name": "FlorianRappl/swag-original",
+    "html_url": "https://github.com/FlorianRappl/swag-original",
+    "description": "Comparison sources",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 22036,
+      "HTML": 376
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 30.94,
+    "S_code": 21.89,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "piral_blazor_mvp",
+    "full_name": "FlorianRappl/piral_blazor_mvp",
+    "html_url": "https://github.com/FlorianRappl/piral_blazor_mvp",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 8405,
+      "HTML": 5750,
+      "TypeScript": 5109,
+      "SCSS": 3037,
+      "JavaScript": 871,
+      "C#": 242
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.43,
+    "S_code": 22.87,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "file-size-impact",
+    "full_name": "FlorianRappl/file-size-impact",
+    "html_url": "https://github.com/FlorianRappl/file-size-impact",
+    "description": "Report pull request impacts on specific files size",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 76133
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 37.17,
+    "S_code": 74.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "discoverdotnet",
+    "full_name": "FlorianRappl/discoverdotnet",
+    "html_url": "https://github.com/FlorianRappl/discoverdotnet",
+    "description": "A web site that helps you discover awesome .NET open source and community resources",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 99316,
+      "Vue": 70385,
+      "HTML": 48628,
+      "SCSS": 4825
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 108.96,
+    "S_code": 217.92,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "documentation",
+    "full_name": "FlorianRappl/documentation",
+    "html_url": "https://github.com/FlorianRappl/documentation",
+    "description": "Documentation of Tolgee localization toolkit",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 1028984,
+      "CSS": 14747,
+      "JavaScript": 8216,
+      "Dockerfile": 93
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 517.69,
+    "S_code": 1027.38,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "tsoa",
+    "full_name": "FlorianRappl/tsoa",
+    "html_url": "https://github.com/FlorianRappl/tsoa",
+    "description": "Build OpenAPI-compliant REST APIs using TypeScript and Node",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 909573,
+      "Handlebars": 40652,
+      "JavaScript": 16730
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 476.15,
+    "S_code": 944.29,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "precise-ui",
+    "full_name": "FlorianRappl/precise-ui",
+    "html_url": "https://github.com/FlorianRappl/precise-ui",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 58
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 120.03,
+    "S_code": 0.06,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "openmrs-icrc-workshop-sample-app",
+    "full_name": "FlorianRappl/openmrs-icrc-workshop-sample-app",
+    "html_url": "https://github.com/FlorianRappl/openmrs-icrc-workshop-sample-app",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 12393,
+      "JavaScript": 236,
+      "Shell": 203,
+      "CSS": 140
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 26.33,
+    "S_code": 12.67,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "kras-management-portal",
+    "full_name": "FlorianRappl/kras-management-portal",
+    "html_url": "https://github.com/FlorianRappl/kras-management-portal",
+    "description": "The default frontend / management portal for the kras server. :muscle:",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 54035,
+      "JavaScript": 2234,
+      "CSS": 967,
+      "HTML": 246
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 88.07,
+    "S_code": 56.13,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "orga",
+    "full_name": "FlorianRappl/orga",
+    "html_url": "https://github.com/FlorianRappl/orga",
+    "description": "Code for my personal organization projects.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 19584,
+      "JavaScript": 2107,
+      "HTML": 792,
+      "SCSS": 94
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 21.02,
+    "S_code": 22.05,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "typing",
+    "full_name": "FlorianRappl/typing",
+    "html_url": "https://github.com/FlorianRappl/typing",
+    "description": "An experimental interactive README experience!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 6946,
+      "Python": 1423
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.09,
+    "S_code": 8.17,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "css-in-readme-like-wat",
+    "full_name": "FlorianRappl/css-in-readme-like-wat",
+    "html_url": "https://github.com/FlorianRappl/css-in-readme-like-wat",
+    "description": "Style your readme using CSS with this simple trick",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Ampath-Test-Environment",
+    "full_name": "FlorianRappl/Ampath-Test-Environment",
+    "html_url": "https://github.com/FlorianRappl/Ampath-Test-Environment",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TSQL": 66820,
+      "PLSQL": 27683,
+      "Python": 26707,
+      "HTML": 13134,
+      "Roff": 5366,
+      "Shell": 2664,
+      "Dockerfile": 1583,
+      "JavaScript": 1357
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 70.95,
+    "S_code": 141.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Javascript-Keylogger",
+    "full_name": "FlorianRappl/Javascript-Keylogger",
+    "html_url": "https://github.com/FlorianRappl/Javascript-Keylogger",
+    "description": "Javascript-based keylogger",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PHP": 482,
+      "JavaScript": 364
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.41,
+    "S_code": 0.83,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "reactjs.de",
+    "full_name": "FlorianRappl/reactjs.de",
+    "html_url": "https://github.com/FlorianRappl/reactjs.de",
+    "description": "Website zu reactjs.de",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 493947,
+      "HTML": 114506,
+      "CSS": 26743,
+      "Ruby": 8787
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 314.44,
+    "S_code": 628.89,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "awesome-parcel",
+    "full_name": "FlorianRappl/awesome-parcel",
+    "html_url": "https://github.com/FlorianRappl/awesome-parcel",
+    "description": "🔗 A curated list of awesome Parcel resources, libraries, tools and boilerplates",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dotnetconf2019",
+    "full_name": "FlorianRappl/dotnetconf2019",
+    "html_url": "https://github.com/FlorianRappl/dotnetconf2019",
+    "description": "Creative and technical content for running a .NET Conf 2019 local event in your community",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "Leaflet",
+    "full_name": "FlorianRappl/Leaflet",
+    "html_url": "https://github.com/FlorianRappl/Leaflet",
+    "description": " :leaves: JavaScript library for mobile-friendly interactive maps",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 733271,
+      "HTML": 155051,
+      "Shell": 839,
+      "CSS": 150
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 434.23,
+    "S_code": 868.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gameboy.live",
+    "full_name": "FlorianRappl/gameboy.live",
+    "html_url": "https://github.com/FlorianRappl/gameboy.live",
+    "description": "🕹️ A basic gameboy emulator with terminal \"Cloud Gaming\" support",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 188065
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 91.83,
+    "S_code": 183.66,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "foundation",
+    "full_name": "FlorianRappl/foundation",
+    "html_url": "https://github.com/FlorianRappl/foundation",
+    "description": "This is the hub for all the projects that are part of the .NET Foundation. MD files in the projects folder feed the content on the .NET Foundation website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "PerformanceTDD",
+    "full_name": "FlorianRappl/PerformanceTDD",
+    "html_url": "https://github.com/FlorianRappl/PerformanceTDD",
+    "description": "Examples for my presentation regarding managed code performance und Test-Driven-Development for professionals",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 93848,
+      "CSS": 13188,
+      "HTML": 3513,
+      "JavaScript": 572,
+      "ASP": 105
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 78.31,
+    "S_code": 108.62,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "badge-generator",
+    "full_name": "FlorianRappl/badge-generator",
+    "html_url": "https://github.com/FlorianRappl/badge-generator",
+    "description": "Make ReadMe badges with ExpressJS and Squirrelly with just 80 lines of code",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1287
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.63,
+    "S_code": 1.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-photo-gallery",
+    "full_name": "FlorianRappl/react-photo-gallery",
+    "html_url": "https://github.com/FlorianRappl/react-photo-gallery",
+    "description": "React Photo Gallery",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 16346
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.98,
+    "S_code": 15.96,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-waterfall",
+    "full_name": "FlorianRappl/react-waterfall",
+    "html_url": "https://github.com/FlorianRappl/react-waterfall",
+    "description": "React store built on top of the new context API",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8323
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.06,
+    "S_code": 8.13,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "drawio-github",
+    "full_name": "FlorianRappl/drawio-github",
+    "html_url": "https://github.com/FlorianRappl/drawio-github",
+    "description": "Drawio GitHub Integration",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 74492,
+      "JavaScript": 9338,
+      "CSS": 769
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 41.31,
+    "S_code": 82.62,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hello-world",
+    "full_name": "FlorianRappl/hello-world",
+    "html_url": "https://github.com/FlorianRappl/hello-world",
+    "description": "Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Assembly": 18330,
+      "HTML": 8638,
+      "xBase": 2220,
+      "C": 2199,
+      "ActionScript": 1264,
+      "OpenEdge ABL": 1103,
+      "Python": 952,
+      "Shell": 558,
+      "Java": 540,
+      "Perl": 464,
+      "LLVM": 437,
+      "Visual Basic": 412,
+      "Limbo": 407,
+      "JavaScript": 364,
+      "Scheme": 349,
+      "Smali": 336,
+      "Objective-C": 307,
+      "Jasmin": 303,
+      "PostScript": 276,
+      "MAXScript": 254,
+      "Omgrofl": 239,
+      "XSLT": 228,
+      "VHDL": 219,
+      "Mathematica": 208,
+      "Common Lisp": 176,
+      "Csound": 175,
+      "COBOL": 167,
+      "Mercury": 164,
+      "Apex": 151,
+      "Yacc": 146,
+      "Oz": 139,
+      "Modula-2": 137,
+      "Fortran": 135,
+      "Processing": 113,
+      "Brainfuck": 111,
+      "C++": 106,
+      "Nemerle": 104,
+      "Ada": 100,
+      "AGS Script": 99,
+      "Verilog": 98,
+      "Forth": 97,
+      "Fantom": 96,
+      "Dogescript": 92,
+      "C#": 88,
+      "SAS": 88,
+      "OCaml": 87,
+      "Haxe": 86,
+      "Cool": 85,
+      "TeX": 85,
+      "Arduino": 84,
+      "D": 84,
+      "Elixir": 83,
+      "Erlang": 81,
+      "Standard ML": 79,
+      "Kotlin": 77,
+      "Go": 76,
+      "Pascal": 75,
+      "BlitzBasic": 74,
+      "LSL": 74,
+      "Smalltalk": 73,
+      "Golo": 72,
+      "Vala": 72,
+      "ABAP": 71,
+      "LOLCODE": 71,
+      "Agda": 70,
+      "Pony": 70,
+      "ASP": 68,
+      "PureScript": 68,
+      "DTrace": 67,
+      "ColdFusion": 64,
+      "Elm": 59,
+      "Scala": 59,
+      "Pike": 58,
+      "Idris": 56,
+      "Batchfile": 54,
+      "Clean": 54,
+      "Prolog": 54,
+      "Ceylon": 52,
+      "PLSQL": 52,
+      "Haskell": 51,
+      "Perl 6": 49,
+      "Awk": 47,
+      "J": 47,
+      "PureBasic": 47,
+      "Julia": 46,
+      "Rust": 45,
+      "XQuery": 44,
+      "ooc": 44,
+      "Emacs Lisp": 43,
+      "AutoIt": 40,
+      "CSS": 40,
+      "Ruby": 39,
+      "Dart": 37,
+      "XProc": 37,
+      "REXX": 36,
+      "Factor": 33,
+      "AppleScript": 31,
+      "PigLatin": 30,
+      "TypeScript": 30,
+      "CoffeeScript": 28,
+      "LiveScript": 28,
+      "PHP": 27,
+      "Racket": 27,
+      "Hack": 26,
+      "NewLisp": 26,
+      "Clojure": 25,
+      "Fancy": 25,
+      "Chapel": 24,
+      "Io": 24,
+      "Ioke": 24,
+      "Self": 24,
+      "Hy": 23,
+      "SuperCollider": 23,
+      "APL": 22,
+      "Genie": 22,
+      "Groovy": 22,
+      "Squirrel": 22,
+      "AutoHotkey": 21,
+      "Crystal": 21,
+      "Nit": 21,
+      "Nu": 21,
+      "Rebol": 21,
+      "Swift": 21,
+      "Tea": 21,
+      "Boo": 20,
+      "Lua": 20,
+      "M": 20,
+      "MoonScript": 20,
+      "Nim": 20,
+      "Opa": 20,
+      "R": 20,
+      "MATLAB": 19,
+      "Shen": 19,
+      "Turing": 19,
+      "Vim Script": 19,
+      "Tcl": 18,
+      "PowerShell": 14,
+      "M4": 5
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.07,
+    "S_code": 46.13,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "DefinitelyTyped",
+    "full_name": "FlorianRappl/DefinitelyTyped",
+    "html_url": "https://github.com/FlorianRappl/DefinitelyTyped",
+    "description": "The repository for high quality TypeScript type definitions.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 24375440,
+      "JavaScript": 1193
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11902.65,
+    "S_code": 23805.31,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ts-node-browser-hybrid-example",
+    "full_name": "FlorianRappl/ts-node-browser-hybrid-example",
+    "html_url": "https://github.com/FlorianRappl/ts-node-browser-hybrid-example",
+    "description": "Simple example to create an hybrid Node.js / web version of a library with TypeScript.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2401,
+      "TypeScript": 935
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 51.63,
+    "S_code": 3.26,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "Wyam",
+    "full_name": "FlorianRappl/Wyam",
+    "html_url": "https://github.com/FlorianRappl/Wyam",
+    "description": "A modular static content and static site generator.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 2062573,
+      "CSS": 75921,
+      "JavaScript": 16911,
+      "PowerShell": 4790,
+      "Shell": 2420,
+      "C++": 1891,
+      "Batchfile": 78
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 1106.93,
+    "S_code": 2113.85,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "Wyam.Web",
+    "full_name": "FlorianRappl/Wyam.Web",
+    "html_url": "https://github.com/FlorianRappl/Wyam.Web",
+    "description": "The website for the Wyam static content generator, generated by Wyam.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 112053,
+      "C#": 47130
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 77.73,
+    "S_code": 155.45,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hain",
+    "full_name": "FlorianRappl/hain",
+    "html_url": "https://github.com/FlorianRappl/hain",
+    "description": "An 'alt+space' launcher for Windows, built with Electron",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 65739,
+      "C++": 6003,
+      "HTML": 1014,
+      "Python": 184,
+      "Batchfile": 169
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.7,
+    "S_code": 71.4,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "TI-Report",
+    "full_name": "FlorianRappl/TI-Report",
+    "html_url": "https://github.com/FlorianRappl/TI-Report",
+    "description": "LaTeX template for contests organized by Texas Instruments.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 6789,
+      "Makefile": 328
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 63.48,
+    "S_code": 6.95,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "CoffeeMind",
+    "full_name": "FlorianRappl/CoffeeMind",
+    "html_url": "https://github.com/FlorianRappl/CoffeeMind",
+    "description": "Thie repository contains the game mastermind written in coffeescript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CoffeeScript": 49443,
+      "CSS": 6895
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 27.51,
+    "S_code": 55.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gulp-tsc",
+    "full_name": "FlorianRappl/gulp-tsc",
+    "html_url": "https://github.com/FlorianRappl/gulp-tsc",
+    "description": "gulp.js plugin for compiling TypeScript files",
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 4.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "CodeSharing",
+    "full_name": "FlorianRappl/CodeSharing",
+    "html_url": "https://github.com/FlorianRappl/CodeSharing",
+    "description": "Examples for my presentation regarding sharing code between WPF and Windows Store applications",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 54293
+    },
+    "contributions_by_user": 30,
+    "contribution_score": 330.51,
+    "S_code": 53.02,
+    "S_social": 2,
+    "S_maint": 30
+  },
+  {
+    "name": "ModernDev",
+    "full_name": "FlorianRappl/ModernDev",
+    "html_url": "https://github.com/FlorianRappl/ModernDev",
+    "description": "Examples for my presentation regarding C# and VS (2012) for professionals",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 126624
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 135.83,
+    "S_code": 123.66,
+    "S_social": 2,
+    "S_maint": 7
+  },
+  {
+    "name": "latex-template-collection",
+    "full_name": "FlorianRappl/latex-template-collection",
+    "html_url": "https://github.com/FlorianRappl/latex-template-collection",
+    "description": "A collection of different LaTeX templates (invoices, timesheets, letters, etc.).",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

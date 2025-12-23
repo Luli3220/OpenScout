@@ -1,0 +1,31 @@
+{
+  "username": "cescoffier",
+  "raw_metrics": {
+    "distinct_languages": [
+      "C++",
+      "Java",
+      "Shell",
+      "Puppet",
+      "Vue",
+      "JavaScript",
+      "HTML",
+      "Groovy",
+      "Scala",
+      "Ruby",
+      "Dockerfile",
+      "CSS"
+    ],
+    "distinct_topics": [
+      "quarkus",
+      "langchain",
+      "workshop",
+      "llm",
+      "langchain4j",
+      "ai"
+    ],
+    "language_count": 12,
+    "topic_count": 6,
+    "total_owned_repos": 175
+  },
+  "diversity_score_100": 64.8
+}

@@ -1,0 +1,1497 @@
+[
+  {
+    "name": "undefined-moe",
+    "full_name": "undefined-moe/undefined-moe",
+    "html_url": "https://github.com/undefined-moe/undefined-moe",
+    "description": null,
+    "stars": 6,
+    "forks": 4,
+    "languages": {},
+    "contributions_by_user": 14,
+    "contribution_score": 168.0,
+    "S_code": 0.0,
+    "S_social": 14,
+    "S_maint": 14
+  },
+  {
+    "name": "Nomad-City",
+    "full_name": "undefined-moe/Nomad-City",
+    "html_url": "https://github.com/undefined-moe/Nomad-City",
+    "description": "Online version of Nomad City: The Founders",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 121286,
+      "CSS": 2937,
+      "JavaScript": 406,
+      "HTML": 373
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 199.04,
+    "S_code": 122.07,
+    "S_social": 4,
+    "S_maint": 13
+  },
+  {
+    "name": "cs2022",
+    "full_name": "undefined-moe/cs2022",
+    "html_url": "https://github.com/undefined-moe/cs2022",
+    "description": "C 语言程设大作业项目",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "C++": 1865015,
+      "CMake": 44022,
+      "C": 31253,
+      "CSS": 5821,
+      "HTML": 1512,
+      "QMake": 1092,
+      "Shell": 702
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 1147.86,
+    "S_code": 1903.73,
+    "S_social": 3,
+    "S_maint": 19
+  },
+  {
+    "name": "vj4",
+    "full_name": "undefined-moe/vj4",
+    "html_url": "https://github.com/undefined-moe/vj4",
+    "description": "The online judge service with millions of submissions, since 2005.",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Python": 464773,
+      "HTML": 255338,
+      "JavaScript": 213760,
+      "CSS": 122534,
+      "Shell": 410
+    },
+    "contributions_by_user": 56,
+    "contribution_score": 1086.02,
+    "S_code": 1032.05,
+    "S_social": 5,
+    "S_maint": 56
+  },
+  {
+    "name": "vijoscloud",
+    "full_name": "undefined-moe/vijoscloud",
+    "html_url": "https://github.com/undefined-moe/vijoscloud",
+    "description": "Cloud storage powered by VIJOS",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 5642
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 20.75,
+    "S_code": 5.51,
+    "S_social": 4,
+    "S_maint": 1
+  },
+  {
+    "name": "vijos-enhance",
+    "full_name": "undefined-moe/vijos-enhance",
+    "html_url": "https://github.com/undefined-moe/vijos-enhance",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 13547,
+      "CSS": 9341,
+      "HTML": 3877
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 77.07,
+    "S_code": 26.14,
+    "S_social": 2,
+    "S_maint": 6
+  },
+  {
+    "name": "vijosapi",
+    "full_name": "undefined-moe/vijosapi",
+    "html_url": "https://github.com/undefined-moe/vijosapi",
+    "description": "API Interface for Vijos",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 4567
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 30.23,
+    "S_code": 4.46,
+    "S_social": 4,
+    "S_maint": 2
+  },
+  {
+    "name": "usaco",
+    "full_name": "undefined-moe/usaco",
+    "html_url": "https://github.com/undefined-moe/usaco",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C++": 11851
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 59.79,
+    "S_code": 11.57,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "vijos",
+    "full_name": "undefined-moe/vijos",
+    "html_url": "https://github.com/undefined-moe/vijos",
+    "description": "solutions for Vijos.org",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C++": 12006,
+      "JavaScript": 498
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 50.11,
+    "S_code": 12.21,
+    "S_social": 2,
+    "S_maint": 4
+  },
+  {
+    "name": "schemastery",
+    "full_name": "undefined-moe/schemastery",
+    "html_url": "https://github.com/undefined-moe/schemastery",
+    "description": "Type driven schema validator",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Vue": 66223,
+      "TypeScript": 65689,
+      "SCSS": 3042
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 77.9,
+    "S_code": 131.79,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "BilibiliPotPlayer",
+    "full_name": "undefined-moe/BilibiliPotPlayer",
+    "html_url": "https://github.com/undefined-moe/BilibiliPotPlayer",
+    "description": "PotPlayer 哔哩哔哩插件：可以直接在 PotPlayer 中播放哔哩哔哩中的视频、直播和音乐",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "AngelScript": 80182
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 41.15,
+    "S_code": 78.3,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "docker-ComWechat",
+    "full_name": "undefined-moe/docker-ComWechat",
+    "html_url": "https://github.com/undefined-moe/docker-ComWechat",
+    "description": "A docker image for https://github.com/ljc545w/ComWeChatRobot",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 17472,
+      "Dockerfile": 1821
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.42,
+    "S_code": 18.84,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "market",
+    "full_name": "undefined-moe/market",
+    "html_url": "https://github.com/undefined-moe/market",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 23691
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 43.57,
+    "S_code": 23.14,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "monaco-debugger",
+    "full_name": "undefined-moe/monaco-debugger",
+    "html_url": "https://github.com/undefined-moe/monaco-debugger",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 59924
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 41.26,
+    "S_code": 58.52,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "test",
+    "full_name": "undefined-moe/test",
+    "html_url": "https://github.com/undefined-moe/test",
+    "description": "13",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 246
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 192.12,
+    "S_code": 0.24,
+    "S_social": 1,
+    "S_maint": 19
+  },
+  {
+    "name": "luogupainter",
+    "full_name": "undefined-moe/luogupainter",
+    "html_url": "https://github.com/undefined-moe/luogupainter",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3314,
+      "Python": 1926,
+      "HTML": 240
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 34.68,
+    "S_code": 5.35,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "vijos-installer",
+    "full_name": "undefined-moe/vijos-installer",
+    "html_url": "https://github.com/undefined-moe/vijos-installer",
+    "description": "Easy to install !",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6445,
+      "Shell": 908
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 135.59,
+    "S_code": 7.18,
+    "S_social": 1,
+    "S_maint": 13
+  },
+  {
+    "name": "live2d",
+    "full_name": "undefined-moe/live2d",
+    "html_url": "https://github.com/undefined-moe/live2d",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "addons",
+    "full_name": "undefined-moe/addons",
+    "html_url": "https://github.com/undefined-moe/addons",
+    "description": "Addons for bot",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 20034
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 61.78,
+    "S_code": 19.56,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "jd4",
+    "full_name": "undefined-moe/jd4",
+    "html_url": "https://github.com/undefined-moe/jd4",
+    "description": "Judging daemon for programming contests",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 71110,
+      "Dockerfile": 966
+    },
+    "contributions_by_user": 34,
+    "contribution_score": 377.19,
+    "S_code": 70.39,
+    "S_social": 1,
+    "S_maint": 34
+  },
+  {
+    "name": "vijostools",
+    "full_name": "undefined-moe/vijostools",
+    "html_url": "https://github.com/undefined-moe/vijostools",
+    "description": "vijos数据文件打包器",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Go": 5380,
+      "Python": 3634,
+      "JavaScript": 2883
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 27.81,
+    "S_code": 11.62,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "LuoguRemoteJudge",
+    "full_name": "undefined-moe/LuoguRemoteJudge",
+    "html_url": "https://github.com/undefined-moe/LuoguRemoteJudge",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "CSS": 9341,
+      "JavaScript": 4429,
+      "HTML": 3886
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 30.62,
+    "S_code": 17.24,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "chess",
+    "full_name": "undefined-moe/chess",
+    "html_url": "https://github.com/undefined-moe/chess",
+    "description": "a simple chess game",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 45961,
+      "JavaScript": 2475
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 35.65,
+    "S_code": 47.3,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "nixpkgs",
+    "full_name": "undefined-moe/nixpkgs",
+    "html_url": "https://github.com/undefined-moe/nixpkgs",
+    "description": "Nix Packages collection",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Nix": 87609271,
+      "Shell": 1824249,
+      "Python": 1512263,
+      "Rust": 197495,
+      "C": 171082,
+      "Perl": 161013,
+      "JavaScript": 152715,
+      "Ruby": 111153,
+      "Haskell": 47193,
+      "Roff": 39201,
+      "Elixir": 32789,
+      "Common Lisp": 29613,
+      "Emacs Lisp": 25497,
+      "Vim Script": 21329,
+      "Prolog": 18510,
+      "Meson": 16263,
+      "Nushell": 11980,
+      "sed": 10188,
+      "TypeScript": 10164,
+      "M4": 9030,
+      "Scheme": 8506,
+      "CMake": 7367,
+      "SmPL": 7091,
+      "Nim": 5755,
+      "Julia": 5744,
+      "TeX": 5699,
+      "XSLT": 5287,
+      "D": 5281,
+      "QML": 5127,
+      "R": 4720,
+      "Makefile": 4653,
+      "C++": 4362,
+      "Awk": 4233,
+      "PLpgSQL": 2748,
+      "VHDL": 2420,
+      "Boogie": 2147,
+      "Go": 2070,
+      "Cuda": 1902,
+      "Java": 1634,
+      "Lua": 1521,
+      "MiniZinc": 1504,
+      "Erlang": 1437,
+      "CSS": 1263,
+      "jq": 1038,
+      "PHP": 952,
+      "CUE": 876,
+      "Jupyter Notebook": 826,
+      "Racket": 784,
+      "Jasmin": 656,
+      "Tcl": 589,
+      "C#": 499,
+      "Swift": 381,
+      "Nu": 338,
+      "Smarty": 214,
+      "Elvish": 213,
+      "HCL": 210,
+      "Reason": 182,
+      "PureScript": 170,
+      "Verilog": 125,
+      "Agda": 108,
+      "Dune": 33
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 44976.4,
+    "S_code": 89952.8,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "minato",
+    "full_name": "undefined-moe/minato",
+    "html_url": "https://github.com/undefined-moe/minato",
+    "description": "Type Driven Database Framework.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 485589
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 257.1,
+    "S_code": 474.21,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "xcpcio",
+    "full_name": "undefined-moe/xcpcio",
+    "html_url": "https://github.com/undefined-moe/xcpcio",
+    "description": "The ICPC Series Competition Leaderboard Visualization Engine",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 207238,
+      "Vue": 180127,
+      "Python": 143561,
+      "Less": 31336,
+      "CSS": 18799,
+      "HTML": 5027,
+      "Shell": 4198,
+      "Dockerfile": 850
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 318.64,
+    "S_code": 577.28,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "pm2",
+    "full_name": "undefined-moe/pm2",
+    "html_url": "https://github.com/undefined-moe/pm2",
+    "description": "Node.js Production Process Manager with a built-in Load Balancer.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 744880,
+      "Shell": 165496,
+      "Smarty": 5432,
+      "Dockerfile": 309,
+      "Python": 122,
+      "PowerShell": 90
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 447.43,
+    "S_code": 894.85,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "open-packages-on-npm",
+    "full_name": "undefined-moe/open-packages-on-npm",
+    "html_url": "https://github.com/undefined-moe/open-packages-on-npm",
+    "description": "A simple CLI tool for maintainers to set up npm Trusted Publisher easier for monorepo with a lot of packages.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2587,
+      "JavaScript": 227
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.37,
+    "S_code": 2.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "oma",
+    "full_name": "undefined-moe/oma",
+    "html_url": "https://github.com/undefined-moe/oma",
+    "description": "Package Manager for AOSC OS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 827177,
+      "Fluent": 89676,
+      "Shell": 7590,
+      "Python": 2827,
+      "Racket": 900,
+      "Just": 472
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 453.44,
+    "S_code": 906.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "modern-monaco",
+    "full_name": "undefined-moe/modern-monaco",
+    "html_url": "https://github.com/undefined-moe/modern-monaco",
+    "description": "A modern version of Monaco Editor.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 271743
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 162.69,
+    "S_code": 265.37,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "cerberus",
+    "full_name": "undefined-moe/cerberus",
+    "html_url": "https://github.com/undefined-moe/cerberus",
+    "description": "A Caddy module that blocks unwanted requests using a sha256 PoW challenge",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 53120,
+      "JavaScript": 8898,
+      "templ": 5224,
+      "Rust": 3093,
+      "Nix": 1887,
+      "CSS": 96,
+      "Shell": 70
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 75.35,
+    "S_code": 70.69,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "mozjs-riscv",
+    "full_name": "undefined-moe/mozjs-riscv",
+    "html_url": "https://github.com/undefined-moe/mozjs-riscv",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "docs",
+    "full_name": "undefined-moe/docs",
+    "html_url": "https://github.com/undefined-moe/docs",
+    "description": "docs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "MDX": 213442,
+      "TypeScript": 23201,
+      "CSS": 4774
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 117.88,
+    "S_code": 235.76,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "riscv-board-wandering",
+    "full_name": "undefined-moe/riscv-board-wandering",
+    "html_url": "https://github.com/undefined-moe/riscv-board-wandering",
+    "description": "RISC-V Development Boards Wandering Project. It is part of the Jiachen Project.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ClipboardQRReader",
+    "full_name": "undefined-moe/ClipboardQRReader",
+    "html_url": "https://github.com/undefined-moe/ClipboardQRReader",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 45309,
+      "Shell": 10498,
+      "Nix": 8154
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 91.23,
+    "S_code": 62.46,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "nanode",
+    "full_name": "undefined-moe/nanode",
+    "html_url": "https://github.com/undefined-moe/nanode",
+    "description": "The minimalist builds of Node.JS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 10892,
+      "PowerShell": 327
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 25.48,
+    "S_code": 10.96,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "gdb-static",
+    "full_name": "undefined-moe/gdb-static",
+    "html_url": "https://github.com/undefined-moe/gdb-static",
+    "description": "A statically compiled gdb/gdbserver-16.x repository",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 30666,
+      "Python": 4864,
+      "Makefile": 3346,
+      "Dockerfile": 958
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.45,
+    "S_code": 38.9,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "umami",
+    "full_name": "undefined-moe/umami",
+    "html_url": "https://github.com/undefined-moe/umami",
+    "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 823443,
+      "CSS": 46937,
+      "JavaScript": 29241,
+      "Dockerfile": 1743,
+      "Shell": 302
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 440.27,
+    "S_code": 880.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "eveship.fit",
+    "full_name": "undefined-moe/eveship.fit",
+    "html_url": "https://github.com/undefined-moe/eveship.fit",
+    "description": "View, Create, and Share EVE Online ship fits online",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 11209,
+      "CSS": 2535,
+      "JavaScript": 1304
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.35,
+    "S_code": 14.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cordis",
+    "full_name": "undefined-moe/cordis",
+    "html_url": "https://github.com/undefined-moe/cordis",
+    "description": "Meta-Framework for Modern Applications",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 170807,
+      "JavaScript": 1442
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 84.11,
+    "S_code": 168.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "MaiBot",
+    "full_name": "undefined-moe/MaiBot",
+    "html_url": "https://github.com/undefined-moe/MaiBot",
+    "description": "麦麦bot，一款专注于 群组聊天 的赛博网友（非常专注）QQ BOT",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 699392,
+      "Shell": 22189,
+      "Nix": 802,
+      "Dockerfile": 467
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 352.95,
+    "S_code": 705.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "MoegirlPediaInterfaceCodes",
+    "full_name": "undefined-moe/MoegirlPediaInterfaceCodes",
+    "html_url": "https://github.com/undefined-moe/MoegirlPediaInterfaceCodes",
+    "description": "萌娘百科界面代码库",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1338868,
+      "CSS": 104370,
+      "Shell": 437
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 704.92,
+    "S_code": 1409.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ua-parser-js",
+    "full_name": "undefined-moe/ua-parser-js",
+    "html_url": "https://github.com/undefined-moe/ua-parser-js",
+    "description": "\"Unmask Your Traffic\" - UAParser.js: The Essential Web Development Tool for User-Agent Detection",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 271775,
+      "TypeScript": 1958,
+      "Shell": 1073
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 134.18,
+    "S_code": 268.37,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "reggol",
+    "full_name": "undefined-moe/reggol",
+    "html_url": "https://github.com/undefined-moe/reggol",
+    "description": "Logger for professionals",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 8897
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.34,
+    "S_code": 8.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "efb-wechat-comwechat-slave",
+    "full_name": "undefined-moe/efb-wechat-comwechat-slave",
+    "html_url": "https://github.com/undefined-moe/efb-wechat-comwechat-slave",
+    "description": "efb-wechat-comwechat-slave",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 75881,
+      "Dockerfile": 1663
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 47.86,
+    "S_code": 75.73,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "chatluna",
+    "full_name": "undefined-moe/chatluna",
+    "html_url": "https://github.com/undefined-moe/chatluna",
+    "description": "多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat with multi-model integration, extensibility, and various output formats",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1366934,
+      "CSS": 11203,
+      "JavaScript": 5022,
+      "HTML": 4912
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 677.77,
+    "S_code": 1355.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nunjucks",
+    "full_name": "undefined-moe/nunjucks",
+    "html_url": "https://github.com/undefined-moe/nunjucks",
+    "description": "A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 377973,
+      "HTML": 19900,
+      "Nunjucks": 5401,
+      "Python": 799,
+      "Batchfile": 111
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 197.36,
+    "S_code": 394.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "seat-prices-janice",
+    "full_name": "undefined-moe/seat-prices-janice",
+    "html_url": "https://github.com/undefined-moe/seat-prices-janice",
+    "description": "Janice Market Data price provider backend for recursivetree/seat-prices-core",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PHP": 11572,
+      "Blade": 5372
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.27,
+    "S_code": 16.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pakku.js",
+    "full_name": "undefined-moe/pakku.js",
+    "html_url": "https://github.com/undefined-moe/pakku.js",
+    "description": "拯救B站的弹幕体验！",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 303432,
+      "HTML": 49849,
+      "JavaScript": 12828,
+      "C++": 7392,
+      "CSS": 7040,
+      "CMake": 922,
+      "Batchfile": 298
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 206.41,
+    "S_code": 372.81,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "dashflare",
+    "full_name": "undefined-moe/dashflare",
+    "html_url": "https://github.com/undefined-moe/dashflare",
+    "description": "An unofficial Cloudflare dashboard built on top of Cloudflare API.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 123402,
+      "JavaScript": 10073,
+      "HTML": 973
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 65.65,
+    "S_code": 131.3,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "MaaBackendCenter",
+    "full_name": "undefined-moe/MaaBackendCenter",
+    "html_url": "https://github.com/undefined-moe/MaaBackendCenter",
+    "description": "MAA Copilot Backend",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Kotlin": 268222,
+      "Lua": 618,
+      "Dockerfile": 178
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 131.36,
+    "S_code": 262.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lgapi-docs",
+    "full_name": "undefined-moe/lgapi-docs",
+    "html_url": "https://github.com/undefined-moe/lgapi-docs",
+    "description": "洛谷 API 文档",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2006,
+      "Python": 1776
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.85,
+    "S_code": 3.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "eveship.fit-react",
+    "full_name": "undefined-moe/eveship.fit-react",
+    "html_url": "https://github.com/undefined-moe/eveship.fit-react",
+    "description": "React component library to quickly and easily show EVE Online ship fits in your own application",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 261000,
+      "JavaScript": 44174,
+      "CSS": 16203
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 156.92,
+    "S_code": 313.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "chronocat.nix",
+    "full_name": "undefined-moe/chronocat.nix",
+    "html_url": "https://github.com/undefined-moe/chronocat.nix",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Nix": 4762,
+      "Shell": 10
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 32.33,
+    "S_code": 4.66,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "FlareSolverr",
+    "full_name": "undefined-moe/FlareSolverr",
+    "html_url": "https://github.com/undefined-moe/FlareSolverr",
+    "description": "Proxy server to bypass Cloudflare protection",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 148081,
+      "HTML": 51329,
+      "Dockerfile": 3113
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 98.89,
+    "S_code": 197.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "caddy-ipinfo-free",
+    "full_name": "undefined-moe/caddy-ipinfo-free",
+    "html_url": "https://github.com/undefined-moe/caddy-ipinfo-free",
+    "description": "integrate the free ipinfo database into caddy",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 15959
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.79,
+    "S_code": 15.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "monaco-languageclient",
+    "full_name": "undefined-moe/monaco-languageclient",
+    "html_url": "https://github.com/undefined-moe/monaco-languageclient",
+    "description": "Repo hosts npm packages for monaco-languageclient, vscode-ws-jsonrpc, monaco-editor-wrapper, @typefox/monaco-editor-react and monaco-languageclient-examples",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 258196,
+      "HTML": 15062,
+      "JavaScript": 8108,
+      "Dockerfile": 735,
+      "Shell": 423,
+      "PowerShell": 383,
+      "Python": 248,
+      "CSS": 93
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 138.3,
+    "S_code": 276.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "monaco-editor-wrapper",
+    "full_name": "undefined-moe/monaco-editor-wrapper",
+    "html_url": "https://github.com/undefined-moe/monaco-editor-wrapper",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 58890,
+      "JavaScript": 2719,
+      "Shell": 710
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 30.43,
+    "S_code": 60.86,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "adm-zip",
+    "full_name": "undefined-moe/adm-zip",
+    "html_url": "https://github.com/undefined-moe/adm-zip",
+    "description": "A Javascript implementation of zip for nodejs. Allows user to create or extract zip files both in memory or to/from disk",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 132750
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 64.82,
+    "S_code": 129.64,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "require-resolve-hook",
+    "full_name": "undefined-moe/require-resolve-hook",
+    "html_url": "https://github.com/undefined-moe/require-resolve-hook",
+    "description": "Module to hook into the Node.js require and require.resolve function",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 6895,
+      "JavaScript": 412
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 13.57,
+    "S_code": 7.14,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "OI-wiki",
+    "full_name": "undefined-moe/OI-wiki",
+    "html_url": "https://github.com/undefined-moe/OI-wiki",
+    "description": ":star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 39737
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.4,
+    "S_code": 38.81,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "MtF-wiki",
+    "full_name": "undefined-moe/MtF-wiki",
+    "html_url": "https://github.com/undefined-moe/MtF-wiki",
+    "description": "MtF.wiki is a free, open, and continuously updated transgender female knowledge integration site.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 10510,
+      "SCSS": 9065,
+      "JavaScript": 3441,
+      "TypeScript": 1050
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.75,
+    "S_code": 23.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "esbuild-plugin-vue3",
+    "full_name": "undefined-moe/esbuild-plugin-vue3",
+    "html_url": "https://github.com/undefined-moe/esbuild-plugin-vue3",
+    "description": "esbuild plugin for loading Vue 3 SFC files",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 24785
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.1,
+    "S_code": 24.2,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "CSGOJ",
+    "full_name": "undefined-moe/CSGOJ",
+    "html_url": "https://github.com/undefined-moe/CSGOJ",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 13308376,
+      "PHP": 2211319,
+      "HTML": 1213049,
+      "C++": 324690,
+      "Hack": 307946,
+      "CSS": 244629,
+      "C": 150789,
+      "Lex": 37320,
+      "Smarty": 32189,
+      "Shell": 31616,
+      "Roff": 20648,
+      "TeX": 19088,
+      "Makefile": 14193,
+      "Python": 5930,
+      "PLpgSQL": 3807,
+      "PLSQL": 3649,
+      "Dockerfile": 1804
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8755.39,
+    "S_code": 17510.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "RLE-wiki",
+    "full_name": "undefined-moe/RLE-wiki",
+    "html_url": "https://github.com/undefined-moe/RLE-wiki",
+    "description": "RLE.wiki is a free, open, and continuously updated transgender real-life-experience site.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 40.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "caddy-bandwidth",
+    "full_name": "undefined-moe/caddy-bandwidth",
+    "html_url": "https://github.com/undefined-moe/caddy-bandwidth",
+    "description": "Extend your Caddy v2 server with dynamic bandwidth throttling. Ideal for CDN use-cases. 🛠",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 1867
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.91,
+    "S_code": 1.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hustoj",
+    "full_name": "undefined-moe/hustoj",
+    "html_url": "https://github.com/undefined-moe/hustoj",
+    "description": "Popular Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 13277424,
+      "PHP": 2984740,
+      "CSS": 939989,
+      "C": 169417,
+      "Shell": 152163,
+      "C++": 139956,
+      "HTML": 125381,
+      "Less": 84359,
+      "SCSS": 82922,
+      "Lex": 37320,
+      "TeX": 19088,
+      "Roff": 18557,
+      "Makefile": 14269,
+      "Dockerfile": 13257,
+      "Hack": 4306,
+      "PLSQL": 3649
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 8861.68,
+    "S_code": 17643.36,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "agent",
+    "full_name": "undefined-moe/agent",
+    "html_url": "https://github.com/undefined-moe/agent",
+    "description": "Ultimate Hacking Keyboard configurator",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1039539,
+      "HTML": 124033,
+      "SCSS": 70313,
+      "JavaScript": 15893,
+      "Shell": 1771,
+      "Mustache": 248
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 621.23,
+    "S_code": 1222.46,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "cuiping.js",
+    "full_name": "undefined-moe/cuiping.js",
+    "html_url": "https://github.com/undefined-moe/cuiping.js",
+    "description": "A TypeScript library rendering chemistry strutures to SVG",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 159089,
+      "Vue": 19264,
+      "HTML": 686,
+      "CSS": 195,
+      "Shell": 102
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 97.57,
+    "S_code": 175.13,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "screeps-launcher",
+    "full_name": "undefined-moe/screeps-launcher",
+    "html_url": "https://github.com/undefined-moe/screeps-launcher",
+    "description": "Launcher for the Screeps Private Server",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 41495,
+      "Dockerfile": 483,
+      "Shell": 273
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.63,
+    "S_code": 41.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "QFace",
+    "full_name": "undefined-moe/QFace",
+    "html_url": "https://github.com/undefined-moe/QFace",
+    "description": "QQ 系统表情包",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1692,
+      "CSS": 670,
+      "HTML": 615
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 31.45,
+    "S_code": 2.91,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "sese-engine-ui",
+    "full_name": "undefined-moe/sese-engine-ui",
+    "html_url": "https://github.com/undefined-moe/sese-engine-ui",
+    "description": "🔍 Sese engine ui. 色色搜索引擎 UI",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vue": 16353,
+      "TypeScript": 15014,
+      "SCSS": 3279,
+      "HTML": 847,
+      "Shell": 110
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.38,
+    "S_code": 34.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "weui",
+    "full_name": "undefined-moe/weui",
+    "html_url": "https://github.com/undefined-moe/weui",
+    "description": "A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 202969,
+      "Less": 192502,
+      "JavaScript": 16363
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 201.09,
+    "S_code": 402.18,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tencentcloud-exporter",
+    "full_name": "undefined-moe/tencentcloud-exporter",
+    "html_url": "https://github.com/undefined-moe/tencentcloud-exporter",
+    "description": "TencentCloud Prometheus Exporter",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 255008,
+      "Makefile": 601,
+      "Dockerfile": 458
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 125.03,
+    "S_code": 250.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "extend-luogu",
+    "full_name": "undefined-moe/extend-luogu",
+    "html_url": "https://github.com/undefined-moe/extend-luogu",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 121855,
+      "Shell": 72
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 59.53,
+    "S_code": 119.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sockjs-node",
+    "full_name": "undefined-moe/sockjs-node",
+    "html_url": "https://github.com/undefined-moe/sockjs-node",
+    "description": "WebSocket emulation - Node.js server",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 46856,
+      "Shell": 315
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.03,
+    "S_code": 46.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tx2",
+    "full_name": "undefined-moe/tx2",
+    "html_url": "https://github.com/undefined-moe/tx2",
+    "description": "Metrics, Issues, Actions, Events reporting library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 27714
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.53,
+    "S_code": 27.06,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "koa-body",
+    "full_name": "undefined-moe/koa-body",
+    "html_url": "https://github.com/undefined-moe/koa-body",
+    "description": "koa body parser middleware",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 27137,
+      "TypeScript": 281
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.39,
+    "S_code": 26.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "wqxuetang-download",
+    "full_name": "undefined-moe/wqxuetang-download",
+    "html_url": "https://github.com/undefined-moe/wqxuetang-download",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4220
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 52.06,
+    "S_code": 4.12,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "23333",
+    "full_name": "undefined-moe/23333",
+    "html_url": "https://github.com/undefined-moe/23333",
+    "description": "草  我要被爆破叻",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

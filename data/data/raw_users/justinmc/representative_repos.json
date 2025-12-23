@@ -1,0 +1,2359 @@
+[
+  {
+    "name": "react-audio-player",
+    "full_name": "justinmc/react-audio-player",
+    "html_url": "https://github.com/justinmc/react-audio-player",
+    "description": "A simple React wrapper on the HTML5 audio tag",
+    "stars": 598,
+    "forks": 104,
+    "languages": {
+      "TypeScript": 7689,
+      "JavaScript": 3846,
+      "HTML": 746
+    },
+    "contributions_by_user": 136,
+    "contribution_score": 2978.0,
+    "S_code": 11.99,
+    "S_social": 806,
+    "S_maint": 136
+  },
+  {
+    "name": "flutter-lazy-performance",
+    "full_name": "justinmc/flutter-lazy-performance",
+    "html_url": "https://github.com/justinmc/flutter-lazy-performance",
+    "description": "An example app for exploring Flutter's performance when handling heavy off-screen widgets.",
+    "stars": 135,
+    "forks": 27,
+    "languages": {
+      "Dart": 52585,
+      "HTML": 1531,
+      "Swift": 1158,
+      "Kotlin": 138,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 48,
+    "contribution_score": 885.08,
+    "S_code": 54.15,
+    "S_social": 189,
+    "S_maint": 48
+  },
+  {
+    "name": "flutter-go",
+    "full_name": "justinmc/flutter-go",
+    "html_url": "https://github.com/justinmc/flutter-go",
+    "description": "An example of using InteractiveViewer to build a go game board",
+    "stars": 74,
+    "forks": 5,
+    "languages": {
+      "Dart": 12121,
+      "Swift": 1158,
+      "HTML": 1110,
+      "Kotlin": 119,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 405.1,
+    "S_code": 14.21,
+    "S_social": 84,
+    "S_maint": 23
+  },
+  {
+    "name": "markdown-html-form",
+    "full_name": "justinmc/markdown-html-form",
+    "html_url": "https://github.com/justinmc/markdown-html-form",
+    "description": "Write markdown, preview html, submit as a form",
+    "stars": 43,
+    "forks": 25,
+    "languages": {
+      "CoffeeScript": 4270
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 328.08,
+    "S_code": 4.17,
+    "S_social": 93,
+    "S_maint": 14
+  },
+  {
+    "name": "meteor-backbone-boilerplate",
+    "full_name": "justinmc/meteor-backbone-boilerplate",
+    "html_url": "https://github.com/justinmc/meteor-backbone-boilerplate",
+    "description": "A starting point for Meteor apps that use Backbone paging",
+    "stars": 42,
+    "forks": 11,
+    "languages": {
+      "CoffeeScript": 11165,
+      "CSS": 7461,
+      "JavaScript": 736
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 327.45,
+    "S_code": 18.91,
+    "S_social": 64,
+    "S_maint": 19
+  },
+  {
+    "name": "jQuery-Open-Carousel",
+    "full_name": "justinmc/jQuery-Open-Carousel",
+    "html_url": "https://github.com/justinmc/jQuery-Open-Carousel",
+    "description": "A simple and open coffeescript carousel",
+    "stars": 33,
+    "forks": 16,
+    "languages": {
+      "JavaScript": 139497,
+      "CSS": 25446,
+      "CoffeeScript": 21569
+    },
+    "contributions_by_user": 65,
+    "contribution_score": 871.07,
+    "S_code": 182.14,
+    "S_social": 65,
+    "S_maint": 65
+  },
+  {
+    "name": "flutter_releases",
+    "full_name": "justinmc/flutter_releases",
+    "html_url": "https://github.com/justinmc/flutter_releases",
+    "description": "An app for accessing quick info about Flutter releases",
+    "stars": 18,
+    "forks": 0,
+    "languages": {
+      "Dart": 78821,
+      "CMake": 8742,
+      "C++": 4346,
+      "HTML": 3945,
+      "C": 691,
+      "Swift": 404,
+      "Kotlin": 134,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 157,
+    "contribution_score": 1653.42,
+    "S_code": 94.84,
+    "S_social": 18,
+    "S_maint": 157
+  },
+  {
+    "name": "flutter-interactive-viewer-demos",
+    "full_name": "justinmc/flutter-interactive-viewer-demos",
+    "html_url": "https://github.com/justinmc/flutter-interactive-viewer-demos",
+    "description": "Demos for Flutter's InteractiveViewer widget",
+    "stars": 14,
+    "forks": 3,
+    "languages": {
+      "Dart": 62469,
+      "Swift": 1158,
+      "HTML": 1142,
+      "Kotlin": 135,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 191.71,
+    "S_code": 63.42,
+    "S_social": 20,
+    "S_maint": 12
+  },
+  {
+    "name": "jquery.mobile.fastButtons",
+    "full_name": "justinmc/jquery.mobile.fastButtons",
+    "html_url": "https://github.com/justinmc/jquery.mobile.fastButtons",
+    "description": "Speed up click events in jQueryMobile",
+    "stars": 12,
+    "forks": 4,
+    "languages": {
+      "JavaScript": 818
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 200.4,
+    "S_code": 0.8,
+    "S_social": 20,
+    "S_maint": 16
+  },
+  {
+    "name": "flutter-text-selection-menu-examples",
+    "full_name": "justinmc/flutter-text-selection-menu-examples",
+    "html_url": "https://github.com/justinmc/flutter-text-selection-menu-examples",
+    "description": "Examples of customizing the text selection menu in Flutter",
+    "stars": 11,
+    "forks": 5,
+    "languages": {
+      "Dart": 23701,
+      "HTML": 1168,
+      "Swift": 1158,
+      "Kotlin": 145,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 194.8,
+    "S_code": 25.6,
+    "S_social": 21,
+    "S_maint": 14
+  },
+  {
+    "name": "flutter_shortcut_intent_action_talk",
+    "full_name": "justinmc/flutter_shortcut_intent_action_talk",
+    "html_url": "https://github.com/justinmc/flutter_shortcut_intent_action_talk",
+    "description": "Code for Flutter Talk from Flutter Vikings 2022: Custom User Interactions in Flutter",
+    "stars": 10,
+    "forks": 1,
+    "languages": {
+      "Dart": 96209,
+      "C++": 21426,
+      "CMake": 18833,
+      "Ruby": 2685,
+      "HTML": 1874,
+      "C": 1425,
+      "Swift": 1271,
+      "Kotlin": 152,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 74,
+    "contribution_score": 834.27,
+    "S_code": 140.54,
+    "S_social": 12,
+    "S_maint": 74
+  },
+  {
+    "name": "parse-pdb",
+    "full_name": "justinmc/parse-pdb",
+    "html_url": "https://github.com/justinmc/parse-pdb",
+    "description": "A small utility for parsing PDB files into useable JSON",
+    "stars": 9,
+    "forks": 5,
+    "languages": {
+      "JavaScript": 5757
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 180.81,
+    "S_code": 5.62,
+    "S_social": 19,
+    "S_maint": 14
+  },
+  {
+    "name": "flutter-autocomplete-examples",
+    "full_name": "justinmc/flutter-autocomplete-examples",
+    "html_url": "https://github.com/justinmc/flutter-autocomplete-examples",
+    "description": "Examples for Flutter's upcoming Autocomplete widget",
+    "stars": 9,
+    "forks": 5,
+    "languages": {
+      "Dart": 61330,
+      "Swift": 1158,
+      "HTML": 1148,
+      "Kotlin": 138,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 319.16,
+    "S_code": 62.32,
+    "S_social": 19,
+    "S_maint": 25
+  },
+  {
+    "name": "multitasq",
+    "full_name": "justinmc/multitasq",
+    "html_url": "https://github.com/justinmc/multitasq",
+    "description": "A new to do",
+    "stars": 9,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 59284,
+      "ApacheConf": 20453,
+      "CSS": 17005,
+      "HTML": 12673
+    },
+    "contributions_by_user": 145,
+    "contribution_score": 1533.43,
+    "S_code": 106.85,
+    "S_social": 15,
+    "S_maint": 145
+  },
+  {
+    "name": "meteorplate",
+    "full_name": "justinmc/meteorplate",
+    "html_url": "https://github.com/justinmc/meteorplate",
+    "description": "A starting point for Meteor apps with pages and routes",
+    "stars": 9,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 11253,
+      "CSS": 8181,
+      "HTML": 7096
+    },
+    "contributions_by_user": 40,
+    "contribution_score": 430.95,
+    "S_code": 25.91,
+    "S_social": 9,
+    "S_maint": 40
+  },
+  {
+    "name": "letsencrypt-express-example",
+    "full_name": "justinmc/letsencrypt-express-example",
+    "html_url": "https://github.com/justinmc/letsencrypt-express-example",
+    "description": "A working example of using letsencrypt-express",
+    "stars": 6,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 3963,
+      "HTML": 275,
+      "CSS": 111
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 58.12,
+    "S_code": 4.25,
+    "S_social": 8,
+    "S_maint": 4
+  },
+  {
+    "name": "flutter_context_menu_examples",
+    "full_name": "justinmc/flutter_context_menu_examples",
+    "html_url": "https://github.com/justinmc/flutter_context_menu_examples",
+    "description": "Examples of building custom contextual menus in Flutter",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Dart": 41314,
+      "C++": 21411,
+      "CMake": 18258,
+      "HTML": 3959,
+      "Ruby": 2685,
+      "C": 1425,
+      "Swift": 1271,
+      "Kotlin": 290,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 34,
+    "contribution_score": 394.26,
+    "S_code": 88.53,
+    "S_social": 5,
+    "S_maint": 34
+  },
+  {
+    "name": "delta-text-editor-demo",
+    "full_name": "justinmc/delta-text-editor-demo",
+    "html_url": "https://github.com/justinmc/delta-text-editor-demo",
+    "description": null,
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "Dart": 48456,
+      "CMake": 7275,
+      "C++": 4083,
+      "HTML": 3995,
+      "Swift": 1158,
+      "C": 691,
+      "Kotlin": 302,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 216.23,
+    "S_code": 64.45,
+    "S_social": 7,
+    "S_maint": 17
+  },
+  {
+    "name": "mathpx",
+    "full_name": "justinmc/mathpx",
+    "html_url": "https://github.com/justinmc/mathpx",
+    "description": "An experimental HTML5 game to teach arithmetic in a new way",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 383068,
+      "CSS": 4135
+    },
+    "contributions_by_user": 140,
+    "contribution_score": 1603.06,
+    "S_code": 378.13,
+    "S_social": 7,
+    "S_maint": 140
+  },
+  {
+    "name": "flutter",
+    "full_name": "justinmc/flutter",
+    "html_url": "https://github.com/justinmc/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "stars": 4,
+    "forks": 3,
+    "languages": {
+      "Dart": 79164203,
+      "C++": 17370508,
+      "Objective-C++": 2946930,
+      "Java": 2901876,
+      "Objective-C": 679975,
+      "C": 628902,
+      "Python": 509572,
+      "Kotlin": 366140,
+      "GLSL": 214587,
+      "Shell": 154993,
+      "CMake": 109851,
+      "Swift": 92764,
+      "JavaScript": 78330,
+      "Ruby": 47976,
+      "HTML": 34304,
+      "Batchfile": 27271,
+      "PowerShell": 15138,
+      "CSS": 6019,
+      "Lex": 2259,
+      "HLSL": 898
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 51461.65,
+    "S_code": 102883.3,
+    "S_social": 10,
+    "S_maint": 0
+  },
+  {
+    "name": "tiny-molecule",
+    "full_name": "justinmc/tiny-molecule",
+    "html_url": "https://github.com/justinmc/tiny-molecule",
+    "description": "A small, developer-friendly 3D molecule viewer for the modern web",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8551
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 222.18,
+    "S_code": 8.35,
+    "S_social": 4,
+    "S_maint": 21
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "justinmc/dotfiles",
+    "html_url": "https://github.com/justinmc/dotfiles",
+    "description": "neovim setup",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Vim Script": 93693,
+      "Vim Snippet": 3885
+    },
+    "contributions_by_user": 64,
+    "contribution_score": 693.65,
+    "S_code": 95.29,
+    "S_social": 3,
+    "S_maint": 64
+  },
+  {
+    "name": "parse-pdb-rust",
+    "full_name": "justinmc/parse-pdb-rust",
+    "html_url": "https://github.com/justinmc/parse-pdb-rust",
+    "description": "Reads molecular data from PDB files into Rust",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Rust": 7122
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 143.48,
+    "S_code": 6.96,
+    "S_social": 5,
+    "S_maint": 13
+  },
+  {
+    "name": "parse-mmcif",
+    "full_name": "justinmc/parse-mmcif",
+    "html_url": "https://github.com/justinmc/parse-mmcif",
+    "description": "A small utility for parsing MMCIF files into useable JSON",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5663
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 38.77,
+    "S_code": 5.53,
+    "S_social": 3,
+    "S_maint": 3
+  },
+  {
+    "name": "react-workshop-app",
+    "full_name": "justinmc/react-workshop-app",
+    "html_url": "https://github.com/justinmc/react-workshop-app",
+    "description": "The demo app used in my react-workshop",
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 8280,
+      "HTML": 1137,
+      "CSS": 660
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 218.92,
+    "S_code": 9.84,
+    "S_social": 7,
+    "S_maint": 20
+  },
+  {
+    "name": "justinmccandless.com",
+    "full_name": "justinmc/justinmccandless.com",
+    "html_url": "https://github.com/justinmc/justinmccandless.com",
+    "description": "(Deprecated) My personal website",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "PHP": 7034360,
+      "JavaScript": 3826771,
+      "HTML": 301513,
+      "CSS": 275157,
+      "ASP": 48011,
+      "Shell": 6605,
+      "ApacheConf": 319
+    },
+    "contributions_by_user": 134,
+    "contribution_score": 6957.69,
+    "S_code": 11223.38,
+    "S_social": 3,
+    "S_maint": 134
+  },
+  {
+    "name": "SVG-Minesweeper",
+    "full_name": "justinmc/SVG-Minesweeper",
+    "html_url": "https://github.com/justinmc/SVG-Minesweeper",
+    "description": "The classic game of Minesweeper, in SVG",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 257261,
+      "CoffeeScript": 22876,
+      "CSS": 6366
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 325.89,
+    "S_code": 279.79,
+    "S_social": 3,
+    "S_maint": 18
+  },
+  {
+    "name": "More-Less-Overflow",
+    "full_name": "justinmc/More-Less-Overflow",
+    "html_url": "https://github.com/justinmc/More-Less-Overflow",
+    "description": "jQuery project to give you a more/less button to show/hide text that overflows a div's initial height",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1964
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 26.96,
+    "S_code": 1.92,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "flutter-add-to-app",
+    "full_name": "justinmc/flutter-add-to-app",
+    "html_url": "https://github.com/justinmc/flutter-add-to-app",
+    "description": "An example of adding Flutter to an existing Android app, with predictive back working",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Dart": 6347,
+      "Kotlin": 5944
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 70.0,
+    "S_code": 12.0,
+    "S_social": 2,
+    "S_maint": 6
+  },
+  {
+    "name": "flutter_predictive_back_examples",
+    "full_name": "justinmc/flutter_predictive_back_examples",
+    "html_url": "https://github.com/justinmc/flutter_predictive_back_examples",
+    "description": "Examples of Android's predictive back feature in Flutter",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Dart": 129572,
+      "C++": 22701,
+      "CMake": 18769,
+      "HTML": 1855,
+      "Swift": 1733,
+      "C": 1425,
+      "Kotlin": 132,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 220.05,
+    "S_code": 172.09,
+    "S_social": 2,
+    "S_maint": 13
+  },
+  {
+    "name": "ffmpeg_gif",
+    "full_name": "justinmc/ffmpeg_gif",
+    "html_url": "https://github.com/justinmc/ffmpeg_gif",
+    "description": "A Flutter desktop plugin that exposes ffmpeg's gif conversion capabilities",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "CMake": 10653,
+      "C++": 7522,
+      "Dart": 5933,
+      "C": 1322
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 26.42,
+    "S_code": 24.83,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "flutter-state-restoration-and-navigator",
+    "full_name": "justinmc/flutter-state-restoration-and-navigator",
+    "html_url": "https://github.com/justinmc/flutter-state-restoration-and-navigator",
+    "description": "An attempt at getting state restoration and navigator 2.0 to work together.",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "CMake": 7277,
+      "Dart": 7245,
+      "C++": 4078,
+      "HTML": 3733,
+      "C": 670,
+      "Swift": 404,
+      "Kotlin": 144,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 99.52,
+    "S_code": 23.04,
+    "S_social": 4,
+    "S_maint": 8
+  },
+  {
+    "name": "easy_form_fields",
+    "full_name": "justinmc/easy_form_fields",
+    "html_url": "https://github.com/justinmc/easy_form_fields",
+    "description": "Simple, pre-built fields for form validation in Flutter",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Dart": 18573
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 183.07,
+    "S_code": 18.14,
+    "S_social": 2,
+    "S_maint": 17
+  },
+  {
+    "name": "affine-transforms-react-svg",
+    "full_name": "justinmc/affine-transforms-react-svg",
+    "html_url": "https://github.com/justinmc/affine-transforms-react-svg",
+    "description": "Example of 2D affine transformations using React and SVG",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 16418,
+      "HTML": 1590,
+      "CSS": 611
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 113.09,
+    "S_code": 18.18,
+    "S_social": 2,
+    "S_maint": 10
+  },
+  {
+    "name": "ethereum-visualization",
+    "full_name": "justinmc/ethereum-visualization",
+    "html_url": "https://github.com/justinmc/ethereum-visualization",
+    "description": "A React visualization of Ethereum blocks in SVG",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "ApacheConf": 39014,
+      "JavaScript": 6778,
+      "CSS": 6430,
+      "HTML": 2984
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 120.96,
+    "S_code": 53.91,
+    "S_social": 2,
+    "S_maint": 9
+  },
+  {
+    "name": "webpack-boilerplate",
+    "full_name": "justinmc/webpack-boilerplate",
+    "html_url": "https://github.com/justinmc/webpack-boilerplate",
+    "description": "A starting point for apps using Webpack and Babel",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "ApacheConf": 39693,
+      "CSS": 5806,
+      "JavaScript": 4047,
+      "HTML": 2638
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 199.48,
+    "S_code": 50.96,
+    "S_social": 2,
+    "S_maint": 17
+  },
+  {
+    "name": "boilerplate-gulp",
+    "full_name": "justinmc/boilerplate-gulp",
+    "html_url": "https://github.com/justinmc/boilerplate-gulp",
+    "description": "A quick, clean starting point for apps with, HTML5 Boilerplate, Gulp, and Browserify",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "ApacheConf": 39014,
+      "CSS": 11622,
+      "HTML": 6098,
+      "JavaScript": 3436
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 83.38,
+    "S_code": 58.76,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "Rank-Form",
+    "full_name": "justinmc/Rank-Form",
+    "html_url": "https://github.com/justinmc/Rank-Form",
+    "description": "A nice way to allow users to rank choices in an HTML form using jquery",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 2459,
+      "HTML": 2145,
+      "CSS": 734
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 70.61,
+    "S_code": 5.21,
+    "S_social": 4,
+    "S_maint": 6
+  },
+  {
+    "name": "hoopty",
+    "full_name": "justinmc/hoopty",
+    "html_url": "https://github.com/justinmc/hoopty",
+    "description": "A barebones Javascript game framework",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 396729,
+      "CSS": 7796
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 461.52,
+    "S_code": 395.04,
+    "S_social": 2,
+    "S_maint": 26
+  },
+  {
+    "name": "app",
+    "full_name": "justinmc/app",
+    "html_url": "https://github.com/justinmc/app",
+    "description": "DemocracyOS is an online space for deliberation and voting on political proposals. The software aims to stimulate better arguments and come to better rulings.  ",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 344854,
+      "CSS": 114538,
+      "Makefile": 428
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 228.52,
+    "S_code": 449.04,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "engine",
+    "full_name": "justinmc/engine",
+    "html_url": "https://github.com/justinmc/engine",
+    "description": "The Flutter engine",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 14336334,
+      "Dart": 9105590,
+      "Java": 2629109,
+      "Objective-C++": 2496537,
+      "Objective-C": 540095,
+      "C": 407938,
+      "Python": 346561,
+      "GLSL": 171300,
+      "Shell": 73884,
+      "Roff": 55608,
+      "JavaScript": 33418,
+      "Batchfile": 3098,
+      "HLSL": 898,
+      "HTML": 200,
+      "CSS": 64
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14748.4,
+    "S_code": 29492.81,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "flutter_linkify",
+    "full_name": "justinmc/flutter_linkify",
+    "html_url": "https://github.com/justinmc/flutter_linkify",
+    "description": "Example of Flutter's linkify text feature",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Dart": 37564,
+      "C++": 23204,
+      "CMake": 18786,
+      "Ruby": 2803,
+      "HTML": 1841,
+      "Swift": 1841,
+      "C": 1425,
+      "Kotlin": 124,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 168.79,
+    "S_code": 85.57,
+    "S_social": 3,
+    "S_maint": 12
+  },
+  {
+    "name": "predictive_back_example",
+    "full_name": "justinmc/predictive_back_example",
+    "html_url": "https://github.com/justinmc/predictive_back_example",
+    "description": "An example of using Android's predictive back feature",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Kotlin": 5528
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 44.7,
+    "S_code": 5.4,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "flutter_github_client",
+    "full_name": "justinmc/flutter_github_client",
+    "html_url": "https://github.com/justinmc/flutter_github_client",
+    "description": "Learning Flutter desktop",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C++": 16864,
+      "CMake": 9406,
+      "Dart": 5526,
+      "Swift": 754,
+      "C": 734
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 32.25,
+    "S_code": 32.5,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "react-workshop",
+    "full_name": "justinmc/react-workshop",
+    "html_url": "https://github.com/justinmc/react-workshop",
+    "description": "React in a Day Workshop Slides",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 269388,
+      "CSS": 197952,
+      "HTML": 186677
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 611.34,
+    "S_code": 638.69,
+    "S_social": 1,
+    "S_maint": 29
+  },
+  {
+    "name": "cuneiform",
+    "full_name": "justinmc/cuneiform",
+    "html_url": "https://github.com/justinmc/cuneiform",
+    "description": "A simple project to help you store encrypted files in a git repository",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Shell": 127
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 22.06,
+    "S_code": 0.12,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "esnext-talk-examples",
+    "full_name": "justinmc/esnext-talk-examples",
+    "html_url": "https://github.com/justinmc/esnext-talk-examples",
+    "description": "ESNext Examples from Talk",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 10972
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 17.36,
+    "S_code": 10.71,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "node-token-auth-ex",
+    "full_name": "justinmc/node-token-auth-ex",
+    "html_url": "https://github.com/justinmc/node-token-auth-ex",
+    "description": "Token Based Authentication Example in Node",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9176,
+      "CSS": 110
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 136.53,
+    "S_code": 9.07,
+    "S_social": 1,
+    "S_maint": 13
+  },
+  {
+    "name": "CryptoForWebDevelopers",
+    "full_name": "justinmc/CryptoForWebDevelopers",
+    "html_url": "https://github.com/justinmc/CryptoForWebDevelopers",
+    "description": "Teespring tech talk",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 3564
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 23.74,
+    "S_code": 3.48,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "ndarray",
+    "full_name": "justinmc/ndarray",
+    "html_url": "https://github.com/justinmc/ndarray",
+    "description": "Multidimensional arrays in javascript",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8733
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 36.26,
+    "S_code": 8.53,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "es6-generator-dialog",
+    "full_name": "justinmc/es6-generator-dialog",
+    "html_url": "https://github.com/justinmc/es6-generator-dialog",
+    "description": "An example of ES6 generators used in a game dialog system",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8592,
+      "HTML": 2094,
+      "CSS": 750
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 17.58,
+    "S_code": 11.17,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "boilerplate-gulp-react",
+    "full_name": "justinmc/boilerplate-gulp-react",
+    "html_url": "https://github.com/justinmc/boilerplate-gulp-react",
+    "description": "A starting point for React apps using Gulp, Browserify, and HTML5 Boilerplate",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1606322,
+      "ApacheConf": 39014,
+      "CSS": 11622,
+      "HTML": 6062
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 834.02,
+    "S_code": 1624.04,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "svg-viewbox-sandbox",
+    "full_name": "justinmc/svg-viewbox-sandbox",
+    "html_url": "https://github.com/justinmc/svg-viewbox-sandbox",
+    "description": "A sandbox for learning SVG's viewBox attribute",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "ApacheConf": 39014,
+      "JavaScript": 7022,
+      "CSS": 6047,
+      "HTML": 3218
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 99.0,
+    "S_code": 54.0,
+    "S_social": 1,
+    "S_maint": 7
+  },
+  {
+    "name": "youtube-upload-angular",
+    "full_name": "justinmc/youtube-upload-angular",
+    "html_url": "https://github.com/justinmc/youtube-upload-angular",
+    "description": "An Angular wrapper on the YouTube Upload Widget",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 128865,
+      "CSS": 4242,
+      "HTML": 1059
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 197.51,
+    "S_code": 131.02,
+    "S_social": 1,
+    "S_maint": 13
+  },
+  {
+    "name": "adjacent",
+    "full_name": "justinmc/adjacent",
+    "html_url": "https://github.com/justinmc/adjacent",
+    "description": "Messaging for two",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "CSS": 5804,
+      "JavaScript": 4692,
+      "HTML": 1757
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 57.98,
+    "S_code": 11.97,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "svg-sandbox",
+    "full_name": "justinmc/svg-sandbox",
+    "html_url": "https://github.com/justinmc/svg-sandbox",
+    "description": "Simple project for doing quick experiments in SVG",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 10785,
+      "HTML": 2303,
+      "CSS": 574
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 38.67,
+    "S_code": 13.34,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "Build-Something-1",
+    "full_name": "justinmc/Build-Something-1",
+    "html_url": "https://github.com/justinmc/Build-Something-1",
+    "description": "Build Something Episode 1 - Parallax Scrolling with Canvas",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 236162,
+      "CSS": 3939
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 169.24,
+    "S_code": 234.47,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "Ten-Second-Time-Machine",
+    "full_name": "justinmc/Ten-Second-Time-Machine",
+    "html_url": "https://github.com/justinmc/Ten-Second-Time-Machine",
+    "description": "Entry for Ludum Dare 27 Game Competition",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 258722,
+      "CoffeeScript": 23869,
+      "CSS": 3709
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 231.79,
+    "S_code": 279.59,
+    "S_social": 1,
+    "S_maint": 9
+  },
+  {
+    "name": "daguerreo",
+    "full_name": "justinmc/daguerreo",
+    "html_url": "https://github.com/justinmc/daguerreo",
+    "description": "Photography site and blog",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 7458968,
+      "PHP": 7262536,
+      "ASP": 96022,
+      "Shell": 2625
+    },
+    "contributions_by_user": 72,
+    "contribution_score": 7958.4,
+    "S_code": 14472.8,
+    "S_social": 1,
+    "S_maint": 72
+  },
+  {
+    "name": "confirm-link",
+    "full_name": "justinmc/confirm-link",
+    "html_url": "https://github.com/justinmc/confirm-link",
+    "description": "Small javascript project to prompt the user to confirm after clicking a link",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 6,
+    "contribution_score": 62.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 6
+  },
+  {
+    "name": "aiesecmichigan.com",
+    "full_name": "justinmc/aiesecmichigan.com",
+    "html_url": "https://github.com/justinmc/aiesecmichigan.com",
+    "description": "The website of AIESEC Michigan",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "PHP": 40809,
+      "JavaScript": 3482
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 273.63,
+    "S_code": 43.25,
+    "S_social": 1,
+    "S_maint": 25
+  },
+  {
+    "name": "snc2010",
+    "full_name": "justinmc/snc2010",
+    "html_url": "https://github.com/justinmc/snc2010",
+    "description": "The official site of AIESEC US's 2010 Summer National Conference",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "PHP": 63216
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 42.87,
+    "S_code": 61.73,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "Yearbook",
+    "full_name": "justinmc/Yearbook",
+    "html_url": "https://github.com/justinmc/Yearbook",
+    "description": "The 2009-2010 yearbook for the student organization AIESEC Michigan",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "PHP": 85576,
+      "JavaScript": 426
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 53.99,
+    "S_code": 83.99,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "guardiansportsalliance.com",
+    "full_name": "justinmc/guardiansportsalliance.com",
+    "html_url": "https://github.com/justinmc/guardiansportsalliance.com",
+    "description": "The website of Guardian Sports",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "PHP": 90406
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 46.14,
+    "S_code": 88.29,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "turkiball.com",
+    "full_name": "justinmc/turkiball.com",
+    "html_url": "https://github.com/justinmc/turkiball.com",
+    "description": "The website of the sport Turkiball",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "PHP": 484902,
+      "JavaScript": 235026
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 353.53,
+    "S_code": 703.05,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "packages",
+    "full_name": "justinmc/packages",
+    "html_url": "https://github.com/justinmc/packages",
+    "description": "A collection of useful packages maintained by the Flutter team",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dart": 20741750,
+      "Java": 3397228,
+      "C++": 3256515,
+      "Swift": 2067911,
+      "Objective-C": 1685106,
+      "Kotlin": 1522711,
+      "C": 555756,
+      "CMake": 331573,
+      "Ruby": 110353,
+      "HTML": 29474,
+      "Shell": 16918,
+      "JavaScript": 3941,
+      "Batchfile": 693,
+      "CSS": 69
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16464.84,
+    "S_code": 32929.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "flutter-widgets-only",
+    "full_name": "justinmc/flutter-widgets-only",
+    "html_url": "https://github.com/justinmc/flutter-widgets-only",
+    "description": "Playing around with writing a Flutter app without using Material/Cupertino",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 24725,
+      "CMake": 19764,
+      "Dart": 15175,
+      "Swift": 1812,
+      "C": 1425,
+      "HTML": 1238,
+      "Kotlin": 134,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 111.4,
+    "S_code": 62.8,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "tests",
+    "full_name": "justinmc/tests",
+    "html_url": "https://github.com/justinmc/tests",
+    "description": "Contributed tests for Flutter",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dart": 14706,
+      "Shell": 6344,
+      "Batchfile": 1448
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.99,
+    "S_code": 21.97,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "textinputkitchensink",
+    "full_name": "justinmc/textinputkitchensink",
+    "html_url": "https://github.com/justinmc/textinputkitchensink",
+    "description": "An example Flutter project that demonstrates some common text input use cases.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Dart": 52740,
+      "C++": 24557,
+      "CMake": 19804,
+      "Ruby": 2757,
+      "Swift": 1925,
+      "C": 1425,
+      "HTML": 1236,
+      "Kotlin": 133,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 245.08,
+    "S_code": 102.16,
+    "S_social": 2,
+    "S_maint": 19
+  },
+  {
+    "name": "textinputkitchensink-web",
+    "full_name": "justinmc/textinputkitchensink-web",
+    "html_url": "https://github.com/justinmc/textinputkitchensink-web",
+    "description": "Some typical text input interactions in a webapp",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 5101,
+      "JavaScript": 3894,
+      "CSS": 1672
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 75.21,
+    "S_code": 10.42,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "textinputkitchensink_compose",
+    "full_name": "justinmc/textinputkitchensink_compose",
+    "html_url": "https://github.com/justinmc/textinputkitchensink_compose",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Kotlin": 106850
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 52.17,
+    "S_code": 104.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "textinputkitchensink_swiftui",
+    "full_name": "justinmc/textinputkitchensink_swiftui",
+    "html_url": "https://github.com/justinmc/textinputkitchensink_swiftui",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Swift": 27890
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.62,
+    "S_code": 27.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "codelabs",
+    "full_name": "justinmc/codelabs",
+    "html_url": "https://github.com/justinmc/codelabs",
+    "description": "Flutter codelab examples",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dart": 2677918,
+      "C++": 637717,
+      "CMake": 458007,
+      "HTML": 164433,
+      "Ruby": 78612,
+      "Swift": 56066,
+      "C": 47850,
+      "TypeScript": 46734,
+      "PureBasic": 19360,
+      "Jupyter Notebook": 11953,
+      "Objective-C": 8942,
+      "Shell": 7611,
+      "Kotlin": 7077,
+      "JavaScript": 4386,
+      "Java": 4060,
+      "Dockerfile": 1110,
+      "CSS": 22
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2066.34,
+    "S_code": 4132.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "samples",
+    "full_name": "justinmc/samples",
+    "html_url": "https://github.com/justinmc/samples",
+    "description": "A collection of Flutter examples and demos",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dart": 1957876,
+      "C++": 441306,
+      "CMake": 348611,
+      "Kotlin": 77194,
+      "Swift": 70055,
+      "Ruby": 55297,
+      "HTML": 52346,
+      "C": 27747,
+      "Objective-C": 11964,
+      "Shell": 11818,
+      "SCSS": 9957,
+      "Java": 9167,
+      "Dockerfile": 566,
+      "Makefile": 425,
+      "JavaScript": 287
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1501.28,
+    "S_code": 3002.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "assets-for-api-docs",
+    "full_name": "justinmc/assets-for-api-docs",
+    "html_url": "https://github.com/justinmc/assets-for-api-docs",
+    "description": "Static assets for embedding into docs.flutter.io",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dart": 189172,
+      "Ruby": 4254,
+      "Shell": 1828,
+      "Objective-C": 1503,
+      "Java": 1108
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 96.61,
+    "S_code": 193.23,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "website",
+    "full_name": "justinmc/website",
+    "html_url": "https://github.com/justinmc/website",
+    "description": "Flutter web site",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 113288,
+      "HTML": 86194,
+      "JavaScript": 26932,
+      "Ruby": 18794,
+      "Dart": 17502,
+      "Shell": 11916,
+      "Dockerfile": 5149
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 136.61,
+    "S_code": 273.22,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gallery",
+    "full_name": "justinmc/gallery",
+    "html_url": "https://github.com/justinmc/gallery",
+    "description": "Flutter Gallery is a resource to help developers evaluate and use Flutter",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dart": 3755953,
+      "C++": 20711,
+      "CMake": 14892,
+      "HTML": 3039,
+      "Ruby": 2684,
+      "C": 1615,
+      "Swift": 1500,
+      "Kotlin": 128,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 1885.74,
+    "S_code": 3711.48,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "flutter-semantics-editor",
+    "full_name": "justinmc/flutter-semantics-editor",
+    "html_url": "https://github.com/justinmc/flutter-semantics-editor",
+    "description": "An example of a custom editor that works with a screen reader",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 23052,
+      "CMake": 18754,
+      "Dart": 3540,
+      "HTML": 1847,
+      "Swift": 1728,
+      "C": 1425,
+      "Kotlin": 127,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 34.66,
+    "S_code": 49.33,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "io-extended-sf-2023",
+    "full_name": "justinmc/io-extended-sf-2023",
+    "html_url": "https://github.com/justinmc/io-extended-sf-2023",
+    "description": "Source code for my recap talk at I/O Extended 2023 in SF",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dart": 2017
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 80.98,
+    "S_code": 1.97,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "data_table_2",
+    "full_name": "justinmc/data_table_2",
+    "html_url": "https://github.com/justinmc/data_table_2",
+    "description": "In-place substitute for Flutter's DataTable and PaginatedDataTable with fixed/sticky header and extra features",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dart": 753551,
+      "C++": 20911,
+      "CMake": 18130,
+      "HTML": 1839,
+      "C": 1425,
+      "Swift": 1158,
+      "Kotlin": 124,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 389.25,
+    "S_code": 778.49,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "threejs-boilerplate",
+    "full_name": "justinmc/threejs-boilerplate",
+    "html_url": "https://github.com/justinmc/threejs-boilerplate",
+    "description": "A quick starting point for threejs apps",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2469086,
+      "HTML": 291
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 1225.75,
+    "S_code": 2411.5,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "testing-talk-project",
+    "full_name": "justinmc/testing-talk-project",
+    "html_url": "https://github.com/justinmc/testing-talk-project",
+    "description": "An example project used in the testing-talk slides",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 589432,
+      "CSS": 5596,
+      "HTML": 439
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 340.76,
+    "S_code": 581.51,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "testing-talk",
+    "full_name": "justinmc/testing-talk",
+    "html_url": "https://github.com/justinmc/testing-talk",
+    "description": "An Introduction to Testing Software Projects",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 454957,
+      "CSS": 213609,
+      "HTML": 115651
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 622.92,
+    "S_code": 765.84,
+    "S_social": 0,
+    "S_maint": 24
+  },
+  {
+    "name": "super_editor",
+    "full_name": "justinmc/super_editor",
+    "html_url": "https://github.com/justinmc/super_editor",
+    "description": "A Rich Text Editor for Flutter",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Dart": 2652670,
+      "C++": 16818,
+      "CMake": 8223,
+      "HTML": 4370,
+      "Ruby": 2684,
+      "Swift": 2395,
+      "C": 734,
+      "Shell": 437,
+      "Batchfile": 276,
+      "Kotlin": 128,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1316.88,
+    "S_code": 2625.75,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "flutter_text_input_examples",
+    "full_name": "justinmc/flutter_text_input_examples",
+    "html_url": "https://github.com/justinmc/flutter_text_input_examples",
+    "description": "Examples demonstrating the state of text input with Flutter.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 20971,
+      "CMake": 18757,
+      "Dart": 7794,
+      "HTML": 1858,
+      "C": 1425,
+      "Swift": 1158,
+      "Kotlin": 144,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 65.46,
+    "S_code": 50.92,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "flutter_github_client_backup",
+    "full_name": "justinmc/flutter_github_client_backup",
+    "html_url": "https://github.com/justinmc/flutter_github_client_backup",
+    "description": "Learning Flutter desktop!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 16864,
+      "CMake": 9406,
+      "Dart": 5526,
+      "Swift": 754,
+      "C": 734
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 36.25,
+    "S_code": 32.5,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "flutter_workshop_github_client",
+    "full_name": "justinmc/flutter_workshop_github_client",
+    "html_url": "https://github.com/justinmc/flutter_workshop_github_client",
+    "description": "https://codelabs.developers.google.com/codelabs/flutter-github-client",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 21535,
+      "CMake": 18216,
+      "Dart": 6338,
+      "HTML": 3971,
+      "Ruby": 2684,
+      "C": 1425,
+      "Swift": 1385,
+      "Kotlin": 147,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 97.22,
+    "S_code": 54.43,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "flutter_workshop_github_client_plugin",
+    "full_name": "justinmc/flutter_workshop_github_client_plugin",
+    "html_url": "https://github.com/justinmc/flutter_workshop_github_client_plugin",
+    "description": "The plugin for the Flutter Github client workshop.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 20235,
+      "CMake": 11532,
+      "Dart": 6157,
+      "Ruby": 2115,
+      "Swift": 1521,
+      "C": 1306
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 40.93,
+    "S_code": 41.86,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "flutter-repo-info-server",
+    "full_name": "justinmc/flutter-repo-info-server",
+    "html_url": "https://github.com/justinmc/flutter-repo-info-server",
+    "description": "Provides quick information about the flutter/flutter repo, features, and releases",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 3643
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 101.78,
+    "S_code": 3.56,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "flutter_texteditor_linenums",
+    "full_name": "justinmc/flutter_texteditor_linenums",
+    "html_url": "https://github.com/justinmc/flutter_texteditor_linenums",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 16838,
+      "HTML": 8415,
+      "CMake": 7979,
+      "Dart": 7219,
+      "Swift": 1158,
+      "C": 734,
+      "Kotlin": 144,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.76,
+    "S_code": 41.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sampler",
+    "full_name": "justinmc/sampler",
+    "html_url": "https://github.com/justinmc/sampler",
+    "description": "An app for managing code samples.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dart": 128751,
+      "C++": 24609,
+      "CMake": 15193,
+      "HTML": 8568,
+      "Shell": 7331,
+      "C": 1102,
+      "Swift": 754
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 90.97,
+    "S_code": 181.94,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "clipboard_native_android",
+    "full_name": "justinmc/clipboard_native_android",
+    "html_url": "https://github.com/justinmc/clipboard_native_android",
+    "description": "Clipboard Test for Xiaomi MIUI 12",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Kotlin": 3094
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.51,
+    "S_code": 3.02,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "buildroot",
+    "full_name": "justinmc/buildroot",
+    "html_url": "https://github.com/justinmc/buildroot",
+    "description": "Build environment for the Flutter engine",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1645869,
+      "Shell": 165084,
+      "C++": 31316,
+      "Java": 23452,
+      "sed": 1677,
+      "Makefile": 402
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 912.01,
+    "S_code": 1824.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "android-samsung-keyboard-bug-demo",
+    "full_name": "justinmc/android-samsung-keyboard-bug-demo",
+    "html_url": "https://github.com/justinmc/android-samsung-keyboard-bug-demo",
+    "description": "An example app used to reproduce the Samsung Korean keyboard bug from Flutter.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Java": 1689
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 54.82,
+    "S_code": 1.65,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "flutter-5k",
+    "full_name": "justinmc/flutter-5k",
+    "html_url": "https://github.com/justinmc/flutter-5k",
+    "description": "A flutter app in less than 5k of Dart code",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dart": 6739,
+      "Objective-C": 753,
+      "Java": 362
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 163.83,
+    "S_code": 7.67,
+    "S_social": 0,
+    "S_maint": 16
+  },
+  {
+    "name": "qPCR-data-viz",
+    "full_name": "justinmc/qPCR-data-viz",
+    "html_url": "https://github.com/justinmc/qPCR-data-viz",
+    "description": "Visualizing data from a qPCR machine",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 27294,
+      "HTML": 1590,
+      "CSS": 1310
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 184.74,
+    "S_code": 29.49,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "hugo-blog",
+    "full_name": "justinmc/hugo-blog",
+    "html_url": "https://github.com/justinmc/hugo-blog",
+    "description": "My blog made with Hugo",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 11237358,
+      "CSS": 71270,
+      "HTML": 48142,
+      "CoffeeScript": 23869
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 5746.95,
+    "S_code": 11113.91,
+    "S_social": 0,
+    "S_maint": 19
+  },
+  {
+    "name": "material-ui",
+    "full_name": "justinmc/material-ui",
+    "html_url": "https://github.com/justinmc/material-ui",
+    "description": "React Components that Implement Google's Material Design.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1230993
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 601.07,
+    "S_code": 1202.14,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "flow-parcel-sudoku",
+    "full_name": "justinmc/flow-parcel-sudoku",
+    "html_url": "https://github.com/justinmc/flow-parcel-sudoku",
+    "description": "Just playing around with Flow and Parcel",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9028,
+      "CSS": 244,
+      "HTML": 111
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 74.58,
+    "S_code": 9.16,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "hugo-theme-blueberry-detox",
+    "full_name": "justinmc/hugo-theme-blueberry-detox",
+    "html_url": "https://github.com/justinmc/hugo-theme-blueberry-detox",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 10615,
+      "JavaScript": 815,
+      "CSS": 467
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 135.81,
+    "S_code": 11.62,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "tdd-talk",
+    "full_name": "justinmc/tdd-talk",
+    "html_url": "https://github.com/justinmc/tdd-talk",
+    "description": "Slides: Practical TDD in JavaScript",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 275495,
+      "CSS": 198798,
+      "HTML": 108243
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 438.44,
+    "S_code": 568.88,
+    "S_social": 2,
+    "S_maint": 15
+  },
+  {
+    "name": "tdd-talk-app",
+    "full_name": "justinmc/tdd-talk-app",
+    "html_url": "https://github.com/justinmc/tdd-talk-app",
+    "description": "Example app for \"Practical TDD in JavaScript\"",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8158,
+      "HTML": 746,
+      "CSS": 185
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 144.44,
+    "S_code": 8.88,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "qa-interview-project",
+    "full_name": "justinmc/qa-interview-project",
+    "html_url": "https://github.com/justinmc/qa-interview-project",
+    "description": "Money Input React project for QA engineer interviews",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 7366,
+      "HTML": 1590,
+      "CSS": 463
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 44.6,
+    "S_code": 9.2,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "molecular-simulation-tools",
+    "full_name": "justinmc/molecular-simulation-tools",
+    "html_url": "https://github.com/justinmc/molecular-simulation-tools",
+    "description": "Web applications for molecular modeling using the Molecular Design Toolkit",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 209833,
+      "MAXScript": 48092,
+      "CSS": 41626,
+      "ApacheConf": 39693,
+      "Shell": 2102,
+      "HTML": 1959
+    },
+    "contributions_by_user": 456,
+    "contribution_score": 4727.63,
+    "S_code": 335.26,
+    "S_social": 0,
+    "S_maint": 456
+  },
+  {
+    "name": "nightwatch",
+    "full_name": "justinmc/nightwatch",
+    "html_url": "https://github.com/justinmc/nightwatch",
+    "description": "Automated testing and continous integration framework based on node.js and selenium webdriver",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 834550,
+      "HTML": 1758
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 408.35,
+    "S_code": 816.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "3Dmol.js",
+    "full_name": "justinmc/3Dmol.js",
+    "html_url": "https://github.com/justinmc/3Dmol.js",
+    "description": "WebGL accelerated JavaScript molecular graphics library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 21656461,
+      "HTML": 12456550,
+      "CSS": 2333211,
+      "Jupyter Notebook": 351929,
+      "TeX": 43421,
+      "Python": 6452,
+      "Batchfile": 59
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17992.23,
+    "S_code": 35984.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "learn-nightwatch",
+    "full_name": "justinmc/learn-nightwatch",
+    "html_url": "https://github.com/justinmc/learn-nightwatch",
+    "description": ":last_quarter_moon_with_face: Learn how to use Nightwatch.js to easily & automatically test your web apps in *real* web browsers.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 11227,
+      "HTML": 6013
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 18.42,
+    "S_code": 16.84,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "cloud-compute-cannon",
+    "full_name": "justinmc/cloud-compute-cannon",
+    "html_url": "https://github.com/justinmc/cloud-compute-cannon",
+    "description": "Cloud Compute Cannon is a tool aimed at scientists and more general users who want to use cheap cloud providers (such as Amazon) to perform large scale computes (number crunching).",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Haxe": 944854,
+      "Shell": 12754,
+      "JavaScript": 5519,
+      "Python": 1249
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 470.89,
+    "S_code": 941.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "notebook-molecular-visualization",
+    "full_name": "justinmc/notebook-molecular-visualization",
+    "html_url": "https://github.com/justinmc/notebook-molecular-visualization",
+    "description": "2D and 3D molecular visualization in Jupyter notebooks using 3DMol.js and D3.js",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 885879,
+      "Python": 146340,
+      "Shell": 133
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 604.08,
+    "S_code": 1008.16,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "ipywidgets",
+    "full_name": "justinmc/ipywidgets",
+    "html_url": "https://github.com/justinmc/ipywidgets",
+    "description": "IPython widgets for the Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 220594,
+      "Python": 136520,
+      "JavaScript": 66012,
+      "CSS": 20057,
+      "HTML": 6230,
+      "Shell": 1589
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 220.22,
+    "S_code": 440.43,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "seeds",
+    "full_name": "justinmc/seeds",
+    "html_url": "https://github.com/justinmc/seeds",
+    "description": "Quick experiment in generating 2d plant images via growth over time, using functional programming",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "ApacheConf": 39693,
+      "JavaScript": 11052,
+      "CSS": 5979,
+      "HTML": 2638
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 208.99,
+    "S_code": 57.97,
+    "S_social": 0,
+    "S_maint": 18
+  },
+  {
+    "name": "dna",
+    "full_name": "justinmc/dna",
+    "html_url": "https://github.com/justinmc/dna",
+    "description": "DNA Visualization Experiment",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 55420,
+      "ApacheConf": 39693,
+      "CSS": 7161,
+      "HTML": 2292
+    },
+    "contributions_by_user": 56,
+    "contribution_score": 611.06,
+    "S_code": 102.12,
+    "S_social": 0,
+    "S_maint": 56
+  },
+  {
+    "name": "luhn-rust",
+    "full_name": "justinmc/luhn-rust",
+    "html_url": "https://github.com/justinmc/luhn-rust",
+    "description": "Learning Rust: The Luhn Algorithm",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 2265
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 21.11,
+    "S_code": 2.21,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "calhacks2015-talk",
+    "full_name": "justinmc/calhacks2015-talk",
+    "html_url": "https://github.com/justinmc/calhacks2015-talk",
+    "description": "Graphics on the Web",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 29662,
+      "HTML": 9710,
+      "JavaScript": 2993
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 40.69,
+    "S_code": 41.37,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "torrent-web-tools",
+    "full_name": "justinmc/torrent-web-tools",
+    "html_url": "https://github.com/justinmc/torrent-web-tools",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 20514
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 20.02,
+    "S_code": 20.03,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "hello-world-1",
+    "full_name": "justinmc/hello-world-1",
+    "html_url": "https://github.com/justinmc/hello-world-1",
+    "description": "implement hello world",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "hello-world",
+    "full_name": "justinmc/hello-world",
+    "html_url": "https://github.com/justinmc/hello-world",
+    "description": "Github Patchwork Mentorship",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "s3upload-coffee-javascript",
+    "full_name": "justinmc/s3upload-coffee-javascript",
+    "html_url": "https://github.com/justinmc/s3upload-coffee-javascript",
+    "description": "Client Side S3 CORS Upload for Amazon S3 - CoffeeScript and JavaScript Class",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5644
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.76,
+    "S_code": 5.51,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "mean",
+    "full_name": "justinmc/mean",
+    "html_url": "https://github.com/justinmc/mean",
+    "description": "MEAN (Mongo, Express, Angular, Node) - A Simple, Scalable and Easy starting point for full stack javascript web development - utilizing many of the best practices we've found on the way",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 70710,
+      "CSS": 937,
+      "Perl": 48
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.01,
+    "S_code": 70.01,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "quick-ng-repeat",
+    "full_name": "justinmc/quick-ng-repeat",
+    "html_url": "https://github.com/justinmc/quick-ng-repeat",
+    "description": "A much more quicker replacement for AngularJS ng-repeat directive",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 149667,
+      "JavaScript": 21273
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 93.47,
+    "S_code": 166.93,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "simpleoo.js",
+    "full_name": "justinmc/simpleoo.js",
+    "html_url": "https://github.com/justinmc/simpleoo.js",
+    "description": "A simple utility to make prototypal inheritance in Javascript a bit easier",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6571
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 13.21,
+    "S_code": 6.42,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "quantum-angularity",
+    "full_name": "justinmc/quantum-angularity",
+    "html_url": "https://github.com/justinmc/quantum-angularity",
+    "description": "AngularJS image gallery",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 586584,
+      "CSS": 453666
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 607.93,
+    "S_code": 1015.87,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "StaggeredGridView",
+    "full_name": "justinmc/StaggeredGridView",
+    "html_url": "https://github.com/justinmc/StaggeredGridView",
+    "description": "Based of the google staggeredgridview that has been hidden from the ACL, this is an example based off of that.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mortar-game-stub",
+    "full_name": "justinmc/mortar-game-stub",
+    "html_url": "https://github.com/justinmc/mortar-game-stub",
+    "description": "A simple web game template.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "username": "ly0",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "VimL",
+      "Python",
+      "C++",
+      "CSS",
+      "C",
+      "JavaScript",
+      "TypeScript",
+      "Shell",
+      "Elm"
+    ],
+    "distinct_topics": [
+      "langchain",
+      "agents",
+      "deepagent",
+      "claude",
+      "claude-code"
+    ],
+    "language_count": 10,
+    "topic_count": 5,
+    "total_owned_repos": 67
+  },
+  "diversity_score_100": 64.0
+}

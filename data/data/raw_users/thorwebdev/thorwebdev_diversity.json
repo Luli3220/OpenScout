@@ -1,0 +1,50 @@
+{
+  "username": "thorwebdev",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "Python",
+      "Elixir",
+      "Java",
+      "Ruby",
+      "JavaScript",
+      "Kotlin",
+      "TypeScript",
+      "Shell",
+      "CSS"
+    ],
+    "distinct_topics": [
+      "elvenlabs",
+      "inference",
+      "payment-request",
+      "stripe",
+      "maps",
+      "expo",
+      "postgres",
+      "webgpu",
+      "supabase",
+      "elevenlabs-api",
+      "react-native",
+      "elevenlabs",
+      "database",
+      "fresh",
+      "wcag2",
+      "authentication",
+      "apple-pay",
+      "supabase-storage",
+      "gemini",
+      "transformerjs",
+      "postgis",
+      "pglite",
+      "android-pay",
+      "gemini-api",
+      "huggingface",
+      "lovable",
+      "deno"
+    ],
+    "language_count": 10,
+    "topic_count": 27,
+    "total_owned_repos": 87
+  },
+  "diversity_score_100": 81.6
+}

@@ -1,0 +1,29 @@
+{
+  "username": "tib",
+  "raw_metrics": {
+    "distinct_languages": [
+      "Shell",
+      "Swift"
+    ],
+    "distinct_topics": [
+      "async-await",
+      "swift-5",
+      "admin",
+      "authentication",
+      "cms",
+      "blog",
+      "nes",
+      "server",
+      "modules",
+      "swift-5-8",
+      "vapor-4",
+      "swift",
+      "swift-html",
+      "6502"
+    ],
+    "language_count": 2,
+    "topic_count": 14,
+    "total_owned_repos": 7
+  },
+  "diversity_score_100": 23.2
+}

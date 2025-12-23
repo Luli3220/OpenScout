@@ -1,0 +1,48 @@
+{
+  "username": "patrickhulce",
+  "raw_metrics": {
+    "distinct_languages": [
+      "HTML",
+      "Python",
+      "CoffeeScript",
+      "Rust",
+      "Matlab",
+      "Java",
+      "Astro",
+      "Scala",
+      "JavaScript",
+      "TypeScript",
+      "Shell",
+      "CSS"
+    ],
+    "distinct_topics": [
+      "prettier",
+      "unused",
+      "webpack",
+      "httparchive",
+      "github-bot",
+      "minification",
+      "css",
+      "purifycss",
+      "font",
+      "javascript",
+      "linter",
+      "eslint",
+      "analysis",
+      "github-issues",
+      "web",
+      "fontmin",
+      "minifies-icon-fonts",
+      "uncss",
+      "nukecss",
+      "xo",
+      "third-party-javascript",
+      "comment-bot",
+      "remove"
+    ],
+    "language_count": 12,
+    "topic_count": 23,
+    "total_owned_repos": 77
+  },
+  "diversity_score_100": 78.4
+}

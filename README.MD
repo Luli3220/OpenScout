@@ -41,7 +41,7 @@ Score_final = 50 + 50 * Φ((ln(S_raw + 1) - μ) / σ)
 
 - **维护力 (Maintainership)**
   ```text
-  S_main = 1.0 * Merged Others' PRs + 0.3 * Review Comments
+  S_main = 0.7 * Merged Others' PRs + 0.3 * Review Comments
   ```
   *评估作为维护者合并 PR 与 Code Review 的活跃度，体现项目维护责任感。*
 
@@ -69,7 +69,7 @@ Score_final = 50 + 50 * Φ((ln(S_raw + 1) - μ) / σ)
 - **The Career Strategist**：基于 Profile、六维雷达与 OpenRank/活跃度趋势，判断职业阶段（上升/稳定/沉寂）、社区生态位（Maintainer/Core/Casual），给出结论式画像。
 - **The Tech Stack Evaluator**：基于语言分布与 Topics，提炼核心技术栈（排除辅助语言）、评估技术广度（I 型/T 型），并判断技术栈的现代性与技术品味。
 - **The Project Analyst**：基于 Top 仓库的 Description/README 片段，判断项目含金量（玩具/练习/资料/生产级），评估文档与工程素养（安装、架构、测试、徽章等）及沟通表达能力。
-- **Chief Talent Officer**：综合以上三位 Agent 输出，生成结构化的《OpenScout 深度人才评估报告》，包含核心画像、技术基因、项目实战与招聘建议（岗位方向/面试重点）。
+- **Chief Talent Officer**：综合以上三位 Agent 输出，生成结构化的《OpenScout 深度人才评估报告》，包含核心画像、技术基因、项目实战。
 - **Keywords Generator**：基于《OpenScout 深度人才评估报告》生成 3 个精准关键词，并严格按 JSON 输出：`tech_core` / `career_persona` / `engineering_trait`。
 
 ![Multi-Agent Architecture](image/Multi-agent.png)

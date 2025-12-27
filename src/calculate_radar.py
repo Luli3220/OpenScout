@@ -98,7 +98,7 @@ def calculate_raw_scores(metrics):
     scores["contribution"] = (metrics["ext_prs"] * 0.7) + (metrics["created_issues"] * 0.3)
     
     # Maintainership: Merged_Others_PRs * 1.0 + Review_Comments * 0.3 (to avoid 0 score for reviewers)
-    scores["maintainership"] = (metrics["others_prs"] * 1.0) + (metrics["review_comments"] * 0.3)
+    scores["maintainership"] = (metrics["others_prs"] * 0.7) + (metrics["review_comments"] * 0.3)
     
     # Engagement: (Issue_Comments * 0.6) + (Review_Comments * 0.4)
     scores["engagement"] = (metrics["issue_comments"] * 0.6) + (metrics["review_comments"] * 0.4)

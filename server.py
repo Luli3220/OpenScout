@@ -15,7 +15,8 @@ app = FastAPI()
 # Paths
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(ROOT_DIR, "data")
-HTML_FILE = os.path.join(ROOT_DIR, "OpenScout.htm")
+SEARCH_HTML_FILE = os.path.join(ROOT_DIR, "search.htm")
+PROFILE_HTML_FILE = os.path.join(ROOT_DIR, "profile.htm")
 RADAR_FILE = os.path.join(DATA_DIR, "radar_scores.json")
 MACRO_DATA_FILE = os.path.join(DATA_DIR, "macro_data", "macro_data_results.json")
 USERS_LIST_FILE = os.path.join(DATA_DIR, "users_list.json")
@@ -23,6 +24,7 @@ RAW_USERS_DIR = os.path.join(DATA_DIR, "raw_users")
 CONFIG_FILE = os.path.join(ROOT_DIR, "config.json")
 SRC_DIR = os.path.join(ROOT_DIR, "src")
 PIPELINE_SCRIPT = os.path.join(SRC_DIR, "run_pipeline.py")
+DEVELOPER_VECTORS_FILE = os.path.join(DATA_DIR, "developer_vectors.json")
 
 # In-memory status for mining jobs
 mining_status = {} # username -> status ("processing", "done", "failed")
@@ -60,6 +62,8 @@ if MAXKB_API_URL:
     MAXKB_API_URL = f"{MAXKB_API_URL.rstrip('/')}/chat/completions"
 
 MAXKB_API_KEY = config.get("maxkb_api_key", "")
+CHATECNU_API_URL = config.get("chatecnu_api_url", "")
+CHATECNU_API_KEY = config.get("chatecnu_api_key", "")
 GITHUB_TOKEN = config.get("github_token") or ((config.get("github_tokens") or [None])[0])
 
 # Load data
@@ -180,6 +184,103 @@ def load_json(path):
             return json.load(f)
     return {}
 
+def load_developer_vectors():
+    """Load developer vectors from file"""
+    return load_json(DEVELOPER_VECTORS_FILE)
+
+def cosine_similarity(vec1, vec2):
+    """Calculate cosine similarity between two vectors"""
+    if len(vec1) != len(vec2):
+        return 0.0
+    
+    dot_product = sum(v1 * v2 for v1, v2 in zip(vec1, vec2))
+    norm1 = sum(v1 ** 2 for v1 in vec1) ** 0.5
+    norm2 = sum(v2 ** 2 for v2 in vec2) ** 0.5
+    
+    if norm1 == 0 or norm2 == 0:
+        return 0.0
+    
+    return dot_product / (norm1 * norm2)
+
+def generate_vector_chatecnu(query_text: str):
+    """Generate vector from text using ChatECNU API"""
+    if not CHATECNU_API_URL or not CHATECNU_API_KEY:
+        raise HTTPException(status_code=500, detail="ChatECNU API not configured")
+    
+    # Prepare the prompt to generate a 10-dimensional vector
+    prompt = f"请将以下文本转换为一个10维的浮点数向量，仅返回向量数据，格式为JSON数组，不要包含其他任何内容：\n{query_text}"
+    
+    payload = {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是华东师范大学大模型ChatECNU，擅长将文本转换为向量表示。"
+            },
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ],
+        "stream": False,
+        "model": "ecnu-plus"
+    }
+    
+    headers = {
+        "Authorization": f"Bearer {CHATECNU_API_KEY}",
+        "Content-Type": "application/json"
+    }
+    
+    try:
+        response = requests.post(CHATECNU_API_URL, json=payload, headers=headers, timeout=30)
+        response.raise_for_status()
+        
+        # Parse the response
+        data = response.json()
+        content = data.get("choices", [{}])[0].get("message", {}).get("content", "")
+        
+        # Extract vector from content
+        import ast
+        vector = ast.literal_eval(content.strip())
+        
+        # Validate vector format
+        if not isinstance(vector, list):
+            raise ValueError("Vector is not a list")
+        
+        # Ensure vector has exactly 10 dimensions
+        if len(vector) != 10:
+            # If not 10 dimensions, pad or truncate
+            if len(vector) < 10:
+                # Pad with zeros
+                vector += [0.0] * (10 - len(vector))
+            else:
+                # Truncate to 10 dimensions
+                vector = vector[:10]
+        
+        # Convert all elements to float
+        vector = [float(x) for x in vector]
+        
+        return vector
+    except requests.exceptions.RequestException as e:
+        raise HTTPException(status_code=500, detail=f"ChatECNU API request failed: {str(e)}")
+    except (ValueError, SyntaxError) as e:
+        raise HTTPException(status_code=500, detail=f"Failed to parse ChatECNU vector response: {str(e)}")
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Vector generation failed: {str(e)}")
+
+def search_developers(query_vector, vectors, limit=10):
+    """Search developers by vector similarity"""
+    results = []
+    
+    for username, vector in vectors.items():
+        similarity = cosine_similarity(query_vector, vector)
+        results.append((username, similarity))
+    
+    # Sort by similarity in descending order
+    results.sort(key=lambda x: x[1], reverse=True)
+    
+    # Return top N results
+    return results[:limit]
+
 def generate_payload(username):
     # 1. Load Data
     github_profile = load_json(os.path.join(RAW_USERS_DIR, username, "github_profile.json"))
@@ -252,7 +353,15 @@ def generate_payload(username):
 
 @app.get("/")
 async def get_index():
-    return FileResponse(HTML_FILE)
+    return FileResponse(SEARCH_HTML_FILE)
+
+@app.get("/search")
+async def get_search():
+    return FileResponse(SEARCH_HTML_FILE)
+
+@app.get("/profile/{username}")
+async def get_profile(username: str):
+    return FileResponse(PROFILE_HTML_FILE)
 
 @app.get("/api/analyze/{username}")
 def analyze_user(username: str):
@@ -426,6 +535,55 @@ def get_cached_avatar(username: str):
         if os.path.exists(avatar_path):
             return FileResponse(avatar_path)
     raise HTTPException(status_code=404, detail="Avatar not cached")
+
+@app.post("/api/search")
+def search_users(query: dict):
+    """Search users based on natural language query or vector"""
+    print(f"--- Searching Users: {query} ---")
+    
+    # Load developer vectors
+    vectors = load_developer_vectors()
+    if not vectors:
+        raise HTTPException(status_code=500, detail="No developer vectors found")
+    
+    # Extract query information
+    query_text = query.get("query", "")
+    query_vector = query.get("vector")
+    limit = query.get("limit", 10)
+    
+    # Generate vector from text if no vector is provided
+    if not query_vector and query_text:
+        # Use ChatECNU API to generate vector from query text
+        query_vector = generate_vector_chatecnu(query_text)
+    elif not query_vector:
+        # Default vector (all zeros)
+        first_username = next(iter(vectors.keys()), None)
+        if not first_username:
+            return []
+        vector_length = len(vectors[first_username])
+        query_vector = [0.0] * vector_length
+    
+    # Search developers
+    results = search_developers(query_vector, vectors, limit)
+    
+    # Format results
+    formatted_results = []
+    for username, similarity in results:
+        # Get user profile information
+        profile = load_cached_github_profile(username) or {}
+        github_info = {
+            "login": profile.get("login", username),
+            "name": profile.get("name", username),
+            "avatar_url": profile.get("avatar_file") and f"/api/avatar/{username}" or profile.get("avatar_remote_url")
+        }
+        
+        formatted_results.append({
+            "username": username,
+            "similarity": similarity,
+            "profile": github_info
+        })
+    
+    return formatted_results
 
 if __name__ == "__main__":
     print("Starting OpenScout Server at http://localhost:8001")

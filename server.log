@@ -1,0 +1,50 @@
+INFO:     Started server process [34682]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
+Starting OpenScout Server at http://localhost:8001
+--- Searching Users: {'query': '我需要一个擅长设计前端界面的人才', 'limit': 5} ---
+INFO:     127.0.0.1:63045 - "POST /api/search HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63152 - "GET /?ide_webview_request_time=1767002001492 HTTP/1.1" 200 OK
+--- Analyzing User: cescoffier ---
+INFO:     127.0.0.1:63158 - "GET /api/github/cescoffier HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63157 - "GET /api/radar/cescoffier HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63158 - "GET /%40vite/client HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:63158 - "GET /api/tech_stack/cescoffier HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63158 - "GET /api/representative/cescoffier HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63152 - "GET /api/analyze/cescoffier HTTP/1.1" 401 Unauthorized
+--- Searching Users: {'query': '我需要一个擅长前端设计的人才', 'limit': 12} ---
+INFO:     127.0.0.1:63189 - "POST /api/search HTTP/1.1" 200 OK
+--- Analyzing User: 944095635 ---
+INFO:     127.0.0.1:63196 - "GET /api/radar/944095635 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63194 - "GET /api/analyze/944095635 HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:63197 - "GET /api/github/944095635 HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:63197 - "GET /api/tech_stack/944095635 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63197 - "GET /api/representative/944095635 HTTP/1.1" 200 OK
+--- Analyzing User: 944095635 ---
+INFO:     127.0.0.1:63194 - "GET /api/radar/944095635 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63196 - "GET /api/github/944095635 HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:63196 - "GET /api/tech_stack/944095635 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63196 - "GET /api/representative/944095635 HTTP/1.1" 200 OK
+--- Analyzing User: AlexeyPechnikov ---
+INFO:     127.0.0.1:63194 - "GET /api/radar/AlexeyPechnikov HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63196 - "GET /api/analyze/AlexeyPechnikov HTTP/1.1" 401 Unauthorized
+--- Analyzing User: AlexeyPechnikov ---
+INFO:     127.0.0.1:63194 - "GET /api/radar/AlexeyPechnikov HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63196 - "GET /api/analyze/AlexeyPechnikov HTTP/1.1" 401 Unauthorized
+--- Analyzing User: AlexeyPechnikov ---
+INFO:     127.0.0.1:63194 - "GET /api/radar/AlexeyPechnikov HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63196 - "GET /api/analyze/AlexeyPechnikov HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:63209 - "GET /api/github/AlexeyPechnikov HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:63209 - "GET /api/tech_stack/AlexeyPechnikov HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63209 - "GET /api/representative/AlexeyPechnikov HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63196 - "GET /api/github/AlexeyPechnikov HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:63224 - "GET /api/tech_stack/AlexeyPechnikov HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63224 - "GET /api/representative/AlexeyPechnikov HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63196 - "GET /api/github/AlexeyPechnikov HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:63196 - "GET /api/tech_stack/AlexeyPechnikov HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63196 - "GET /api/representative/AlexeyPechnikov HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [34682]

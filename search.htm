@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OpenScout - 开源人才智能搜索</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Phosphor Icons (for visuals) -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <style>
+        /* Custom Theme Configuration */
+        :root {
+            --bg-color: #fcfbf9;
+            --card-bg: #ffffff;
+            --text-main: #334155;
+            --text-muted: #64748b;
+            --accent: #ea580c;
+            /* Burnt Orange */
+            --border: #e2e8f0;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            font-family: 'Inter', system-ui, sans-serif;
+        }
+
+        /* Animations */
+        @keyframes shimmer {
+            0% {
+                background-position: -1000px 0;
+            }
+
+            100% {
+                background-position: 1000px 0;
+            }
+        }
+
+        .skeleton {
+            animation: shimmer 2s infinite linear;
+            background: linear-gradient(to right, #f1f5f9 4%, #e2e8f0 25%, #f1f5f9 36%);
+            background-size: 1000px 100%;
+            border-radius: 4px;
+            display: inline-block;
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translate3d(0, 20px, 0);
+            }
+
+            to {
+                opacity: 1;
+                transform: none;
+            }
+        }
+
+        .fade-in-up {
+            animation: fadeInUp 0.6s ease-out both;
+        }
+
+        /* Card Styling */
+        .scout-card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 0.75rem;
+            /* 12px */
+            box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            will-change: transform, box-shadow;
+        }
+
+        .scout-card:hover {
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+            transform: translateY(-4px) scale(1.02);
+            border-color: var(--accent);
+            z-index: 10;
+        }
+
+        .btn-primary {
+            background-color: var(--text-main);
+            color: white;
+            transition: background-color 0.2s;
+        }
+
+        .btn-primary:hover {
+            background-color: var(--accent);
+        }
+    </style>
+</head>
+
+<body class="min-h-screen flex flex-col">
+
+    <!-- Navigation / Header -->
+    <nav class="w-full bg-white border-b border-gray-200 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16">
+                <div class="flex items-center gap-3">
+                    <i class="ph ph-radar text-3xl text-orange-600"></i>
+                    <span class="font-bold text-xl tracking-tight text-slate-800">OpenScout</span>
+                </div>
+                <div class="flex items-center gap-4">
+                    <span class="text-sm text-slate-500 hidden md:block">Powered by OpenDigger & MaxKB</span>
+                    <button class="text-slate-600 hover:text-orange-600 transition-colors">
+                        <i class="ph ph-github-logo text-2xl"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full space-y-8">
+
+        <!-- 1. Search & Context Section -->
+        <section class="text-center space-y-4 max-w-3xl mx-auto">
+            <h1 class="text-3xl font-bold text-slate-800">开源人才智能搜索</h1>
+            <p class="text-slate-600 leading-relaxed">
+                OpenScout 利用 <strong>OpenDigger</strong> 的行为数据构建开发者画像，并结合 <strong>AI</strong> 大模型能力进行智能分析。
+                输入您的需求，立即获取匹配的开发者列表。
+            </p>
+
+            <!-- 智能搜索选项卡 -->
+            <div class="mt-6">
+                <div class="flex justify-center mb-4">
+                    <div class="inline-flex rounded-md shadow-sm" role="group">
+                        <button type="button" id="idSearchTab" class="px-4 py-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-l-lg hover:bg-gray-50 focus:z-10 focus:ring-2 focus:ring-orange-500 focus:text-orange-700 focus:border-orange-500">
+                            GitHub ID 搜索
+                        </button>
+                        <button type="button" id="aiSearchTab" class="px-4 py-2 text-sm font-medium text-gray-900 bg-white border-t border-b border-gray-200 hover:bg-gray-50 focus:z-10 focus:ring-2 focus:ring-orange-500 focus:text-orange-700 focus:border-orange-500 rounded-r-lg">
+                            智能搜索
+                        </button>
+                    </div>
+                </div>
+
+                <!-- ID 搜索面板 -->
+                <div id="idSearchPanel" class="relative max-w-md mx-auto">
+                    <div class="flex shadow-sm rounded-md">
+                        <input type="text" id="searchInput" placeholder="输入 GitHub ID (例如: torvalds)" 
+                            class="flex-1 block w-full rounded-l-md border-gray-300 focus:border-orange-500 focus:ring-orange-500 sm:text-sm p-3 border"
+                            value="cescoffier">
+                        <button id="searchBtn" type="button" 
+                            class="btn-primary inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-r-md">
+                            <i class="ph ph-magnifying-glass mr-2 text-lg"></i> 查看详情
+                        </button>
+                    </div>
+                    <!-- Presets for Demo -->
+                    <div class="mt-2 flex justify-center gap-2 text-xs text-slate-400">
+                        <span>示例:</span>
+                        <button class="hover:text-orange-600 underline demo-preset" data-id="HansKristian-Work">HansKristian-Work (图形学)</button>
+                        <button class="hover:text-orange-600 underline demo-preset" data-id="camilamaia">camilamaia (K8s)</button>
+                        <button class="hover:text-orange-600 underline demo-preset" data-id="cescoffier">cescoffier (Java/Quarkus)</button>
+                    </div>
+                </div>
+
+                <!-- 智能搜索面板 -->
+                <div id="aiSearchPanel" class="relative max-w-md mx-auto hidden">
+                    <div class="flex flex-col space-y-4">
+                        <div class="flex shadow-sm rounded-md">
+                            <textarea id="aiSearchInput" placeholder="输入您的需求，例如: 我需要一个擅长设计前端界面的人才" 
+                                class="flex-1 block w-full rounded-l-md border-gray-300 focus:border-orange-500 focus:ring-orange-500 sm:text-sm p-3 border resize-none"
+                                rows="3"></textarea>
+                        </div>
+                        <div class="flex justify-end">
+                            <button id="aiSearchBtn" type="button" 
+                                class="btn-primary inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md">
+                                <i class="ph ph-magnifying-glass mr-2 text-lg"></i> 搜索
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 搜索结果展示区域 -->
+        <div id="searchResults" class="space-y-6 transition-opacity duration-500 opacity-100 hidden">
+            <div class="scout-card p-6">
+                <h2 class="text-xl font-bold text-slate-800 mb-4">搜索结果</h2>
+                <div id="resultsList" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                    <!-- 搜索结果将通过 JavaScript 动态添加 -->
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="bg-white border-t border-gray-200 py-8 mt-8">
+        <div class="max-w-7xl mx-auto px-4 text-center">
+            <p class="text-slate-400 text-sm">&copy; 2025 OpenScout Project. Data provided by OpenDigger.</p>
+        </div>
+    </footer>
+
+    <script>
+        // --- 1. SEARCH FUNCTIONS ---
+        
+        // Search Tab Listeners
+        document.getElementById('idSearchTab').addEventListener('click', () => {
+            document.getElementById('idSearchPanel').classList.remove('hidden');
+            document.getElementById('aiSearchPanel').classList.add('hidden');
+            document.getElementById('idSearchTab').classList.add('bg-orange-50', 'border-orange-500', 'text-orange-700');
+            document.getElementById('aiSearchTab').classList.remove('bg-orange-50', 'border-orange-500', 'text-orange-700');
+            document.getElementById('aiSearchTab').classList.add('bg-white', 'border-gray-200', 'text-gray-900');
+            document.getElementById('idSearchTab').classList.remove('bg-white', 'border-gray-200', 'text-gray-900');
+        });
+        
+        document.getElementById('aiSearchTab').addEventListener('click', () => {
+            document.getElementById('idSearchPanel').classList.add('hidden');
+            document.getElementById('aiSearchPanel').classList.remove('hidden');
+            document.getElementById('aiSearchTab').classList.add('bg-orange-50', 'border-orange-500', 'text-orange-700');
+            document.getElementById('idSearchTab').classList.remove('bg-orange-50', 'border-orange-500', 'text-orange-700');
+            document.getElementById('idSearchTab').classList.add('bg-white', 'border-gray-200', 'text-gray-900');
+            document.getElementById('aiSearchTab').classList.remove('bg-white', 'border-gray-200', 'text-gray-900');
+        });
+        
+        // Demo Presets
+        document.querySelectorAll('.demo-preset').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                document.getElementById('searchInput').value = e.target.dataset.id;
+            });
+        });
+        
+        // ID Search Button Listener
+        document.getElementById('searchBtn').addEventListener('click', () => {
+            const query = document.getElementById('searchInput').value.trim();
+            if (!query) return;
+            
+            // 跳转到详情页
+            window.location.href = `/profile/${query}`;
+        });
+        
+        // ID Search Enter Key Listener
+        document.getElementById('searchInput').addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                document.getElementById('searchBtn').click();
+            }
+        });
+        
+        // AI Search Button Listener
+        document.getElementById('aiSearchBtn').addEventListener('click', handleAISearch);
+        
+        async function handleAISearch() {
+            const query = document.getElementById('aiSearchInput').value.trim();
+            if (!query) return;
+            
+            // Show loading state
+            document.getElementById('resultsList').innerHTML = '<div class="col-span-full text-center text-gray-500 py-12"><i class="ph ph-spinner animate-spin text-4xl mb-4"></i><div>搜索中...</div></div>';
+            document.getElementById('searchResults').classList.remove('hidden');
+            
+            try {
+                const response = await fetch('/api/search', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        query: query,
+                        limit: 12
+                    })
+                });
+                
+                if (!response.ok) {
+                    throw new Error('Search failed');
+                }
+                
+                const results = await response.json();
+                renderSearchResults(results);
+            } catch (error) {
+                document.getElementById('resultsList').innerHTML = '<div class="col-span-full text-center text-red-500 py-12">搜索失败，请稍后重试</div>';
+                console.error('Search error:', error);
+            }
+        }
+        
+        function renderSearchResults(results) {
+            if (!results || results.length === 0) {
+                document.getElementById('resultsList').innerHTML = '<div class="col-span-full text-center text-gray-500 py-12">未找到匹配的开发者</div>';
+                return;
+            }
+            
+            const resultsList = document.getElementById('resultsList');
+            resultsList.innerHTML = '';
+            
+            results.forEach(result => {
+                const card = document.createElement('div');
+                card.className = 'scout-card p-4 flex flex-col items-center text-center h-full cursor-pointer hover:shadow-lg transition-shadow';
+                card.addEventListener('click', () => {
+                    // 点击搜索结果跳转到详情页
+                    window.location.href = `/profile/${result.username}`;
+                });
+                
+                const avatarContainer = document.createElement('div');
+                avatarContainer.className = 'w-16 h-16 rounded-full bg-slate-100 mb-3 flex items-center justify-center border-2 border-orange-100 relative overflow-hidden';
+                
+                const avatarImg = document.createElement('img');
+                avatarImg.src = result.profile.avatar_url || '';
+                avatarImg.alt = result.username;
+                avatarImg.className = 'absolute w-full h-full object-cover';
+                avatarImg.onerror = function() {
+                    this.style.display = 'none';
+                    this.parentElement.innerHTML = '<i class="ph ph-user text-3xl text-slate-400"></i>';
+                };
+                
+                avatarContainer.appendChild(avatarImg);
+                
+                const name = document.createElement('h3');
+                name.className = 'text-lg font-semibold text-slate-800';
+                name.textContent = result.profile.name || result.username;
+                
+                const handle = document.createElement('p');
+                handle.className = 'text-sm text-orange-600 font-medium mb-3';
+                handle.textContent = '@' + result.username;
+                
+                const similarity = document.createElement('div');
+                similarity.className = 'mt-auto w-full pt-3 border-t border-slate-100';
+                
+                const similarityLabel = document.createElement('div');
+                similarityLabel.className = 'text-xs text-slate-500 mb-1';
+                similarityLabel.textContent = '匹配度';
+                
+                const similarityBar = document.createElement('div');
+                similarityBar.className = 'w-full bg-slate-200 rounded-full h-2';
+                
+                const similarityFill = document.createElement('div');
+                similarityFill.className = 'bg-orange-500 h-2 rounded-full transition-all duration-500';
+                similarityFill.style.width = `${(result.similarity * 100).toFixed(0)}%`;
+                
+                const similarityText = document.createElement('div');
+                similarityText.className = 'text-xs text-slate-700 mt-1';
+                similarityText.textContent = `${(result.similarity * 100).toFixed(1)}%`;
+                
+                similarityBar.appendChild(similarityFill);
+                similarity.appendChild(similarityLabel);
+                similarity.appendChild(similarityBar);
+                similarity.appendChild(similarityText);
+                
+                card.appendChild(avatarContainer);
+                card.appendChild(name);
+                card.appendChild(handle);
+                card.appendChild(similarity);
+                
+                resultsList.appendChild(card);
+            });
+        }
+    </script>
+</body>
+</html>

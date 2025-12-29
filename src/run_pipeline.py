@@ -73,7 +73,8 @@ def run_pipeline(username=None):
         ("get_all_metrics.py", "3. Metric Agent: Fetching 6-Dimension Raw Metrics"),
         ("calculate_radar.py", "4. Analysis Agent: Calculating Radar Scores"),
         ("fetch_tech_stack_context.py", "5. Context Agent: Fetching Tech Stack Context (Optional)"),
-        ("fetch_representative_repos.py", "6. Context Agent: Fetching Representative Repos (Optional)")
+        ("fetch_representative_repos.py", "6. Context Agent: Fetching Representative Repos (Optional)"),
+        ("generate_developer_vectors.py", "7. Vector Agent: Generating Developer Vectors")  # New step for smart search
     ]
     
     # If not running for specific user, include discovery

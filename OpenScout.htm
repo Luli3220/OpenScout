@@ -419,8 +419,8 @@
                                 <i class="ph ph-user-focus text-orange-600 text-2xl"></i>
                             </div>
                             <div>
-                                <h3 class="font-bold text-xl text-slate-800">Chief Talent Officer</h3>
-                                <p class="text-xs text-slate-500">综合评估报告与招聘建议</p>
+                                <h3 class="font-bold text-xl text-slate-800">The Chief Talent Officer</h3>
+                                <p class="text-xs text-slate-500">综合评估报告</p>
                             </div>
                         </div>
                         <div class="flex flex-col sm:flex-row items-end sm:items-center gap-2">
@@ -696,42 +696,57 @@
             return `${shown}${more}`;
         }
 
-        function renderKeywordChip(label, rawValue) {
-            const value = formatKeywordsCompact(rawValue) || '无';
+        function renderKeywordChip(rawValue) {
+            // 处理内容：格式化并去掉多余符号
+            const value = formatKeywordsCompact(rawValue);
+
+            // 如果依然为空，则不创建标签
+            if (!value || value === '无') return document.createDocumentFragment();
+
             const chip = document.createElement('span');
-            // Modified for better visibility but keeping it "plain":
-            // bg-slate-100 (light gray), border-slate-300 (defined border), shadow-sm (subtle lift), font-medium
-            chip.className = 'inline-flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-slate-100 border border-slate-300 text-xs text-slate-700 whitespace-nowrap shadow-sm font-medium';
+            chip.className = 'inline-flex items-center px-3 py-1 rounded-full bg-orange-100 text-orange-700 text-xs whitespace-nowrap shadow-sm font-bold border border-orange-200';
+            chip.textContent = value;
 
-            const k = document.createElement('span');
-            k.className = 'text-slate-500 font-normal'; // Keep label slightly lighter and normal weight
-            k.textContent = `${label}:`;
-
-            const v = document.createElement('span');
-            v.className = 'text-slate-900'; // Make value darker for contrast
-            v.textContent = value;
-
-            chip.appendChild(k);
-            chip.appendChild(v);
             return chip;
         }
 
         function updateKeywordsContent(element, text) {
             if (!element) return;
             const obj = extractStrictJsonObject(text);
+
+            // 如果解析失败
             if (!obj) {
-                element.innerHTML = '<div class="text-slate-400 text-xs italic">未收到关键词数据。</div>';
+                element.innerHTML = '<div class="text-slate-400 text-xs italic">数据解析中...</div>';
                 return;
             }
 
-            const techCore = obj.tech_core ?? '';
-            const careerPersona = obj.career_persona ?? '';
-            const engineeringTrait = obj.engineering_trait ?? '';
+            // 优先获取指定的键，如果没有，则获取对象中前三个非空的字符串值
+            const values = [
+                obj.tech_core,
+                obj.career_persona,
+                obj.engineering_trait
+            ].filter(v => v); // 过滤掉空值
+
+            // 容错处理：如果指定的键都是空的，就尝试拿对象里前3个有值的属性
+            if (values.length === 0) {
+                Object.values(obj).forEach(val => {
+                    if (val && typeof val === 'string' && values.length < 3) {
+                        values.push(val);
+                    }
+                });
+            }
 
             element.innerHTML = '';
-            element.appendChild(renderKeywordChip('tech_core', techCore));
-            element.appendChild(renderKeywordChip('career_persona', careerPersona));
-            element.appendChild(renderKeywordChip('engineering_trait', engineeringTrait));
+
+            if (values.length === 0) {
+                element.innerHTML = '<div class="text-slate-400 text-xs italic">暂无关键词</div>';
+                return;
+            }
+
+            // 渲染找到的所有关键词
+            values.forEach(val => {
+                element.appendChild(renderKeywordChip(val));
+            });
         }
 
         function renderRepresentativeReposPage() {

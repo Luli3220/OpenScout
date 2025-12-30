@@ -1,0 +1,319 @@
+[
+  {
+    "name": "auto-py-to-exe",
+    "full_name": "brentvollebregt/auto-py-to-exe",
+    "html_url": "https://github.com/brentvollebregt/auto-py-to-exe",
+    "description": "Converts .py to .exe using a simple graphical interface ",
+    "stars": 4767,
+    "forks": 795,
+    "languages": {
+      "JavaScript": 167289,
+      "Python": 39329,
+      "HTML": 12049,
+      "CSS": 10817
+    },
+    "contributions_by_user": 465,
+    "contribution_score": 17476.05,
+    "S_code": 224.11,
+    "S_social": 6357,
+    "S_maint": 465
+  },
+  {
+    "name": "hit-counter",
+    "full_name": "brentvollebregt/hit-counter",
+    "html_url": "https://github.com/brentvollebregt/hit-counter",
+    "description": "Easily count hits 📈 on a website by requesting a SVG displaying hit count 🎯 ",
+    "stars": 143,
+    "forks": 43,
+    "languages": {
+      "Python": 14662,
+      "HTML": 9260,
+      "Dockerfile": 284
+    },
+    "contributions_by_user": 71,
+    "contribution_score": 1179.82,
+    "S_code": 23.64,
+    "S_social": 229,
+    "S_maint": 71
+  },
+  {
+    "name": "whos-on-my-network",
+    "full_name": "brentvollebregt/whos-on-my-network",
+    "html_url": "https://github.com/brentvollebregt/whos-on-my-network",
+    "description": "Keep an eye on who and when something is connected to your network",
+    "stars": 109,
+    "forks": 10,
+    "languages": {
+      "TypeScript": 86841,
+      "Python": 42278,
+      "JavaScript": 2356,
+      "HTML": 934,
+      "CSS": 867,
+      "Dockerfile": 622
+    },
+    "contributions_by_user": 180,
+    "contribution_score": 2123.38,
+    "S_code": 130.76,
+    "S_social": 129,
+    "S_maint": 180
+  },
+  {
+    "name": "monopoly-money",
+    "full_name": "brentvollebregt/monopoly-money",
+    "html_url": "https://github.com/brentvollebregt/monopoly-money",
+    "description": "A NodeJS server and React frontend that helps you manage your finances in a game of Monopoly from the browser 💸 (supports mobile)",
+    "stars": 89,
+    "forks": 27,
+    "languages": {
+      "TypeScript": 118505,
+      "SCSS": 2401,
+      "JavaScript": 2295,
+      "HTML": 1108,
+      "Dockerfile": 699
+    },
+    "contributions_by_user": 231,
+    "contribution_score": 2657.04,
+    "S_code": 122.08,
+    "S_social": 143,
+    "S_maint": 231
+  },
+  {
+    "name": "spotify-lyrics-viewer",
+    "full_name": "brentvollebregt/spotify-lyrics-viewer",
+    "html_url": "https://github.com/brentvollebregt/spotify-lyrics-viewer",
+    "description": "View the lyrics of the current playing Spotify song in your browser",
+    "stars": 67,
+    "forks": 13,
+    "languages": {
+      "TypeScript": 76184,
+      "HTML": 1112,
+      "CSS": 372
+    },
+    "contributions_by_user": 190,
+    "contribution_score": 2123.92,
+    "S_code": 75.85,
+    "S_social": 93,
+    "S_maint": 190
+  },
+  {
+    "name": "emotionify",
+    "full_name": "brentvollebregt/emotionify",
+    "html_url": "https://github.com/brentvollebregt/emotionify",
+    "description": "Webapp than can create emotionally gradiented Spotify playlists and more 🎵🎧🔀",
+    "stars": 43,
+    "forks": 5,
+    "languages": {
+      "TypeScript": 139853,
+      "HTML": 1346,
+      "CSS": 602
+    },
+    "contributions_by_user": 233,
+    "contribution_score": 2505.24,
+    "S_code": 138.48,
+    "S_social": 53,
+    "S_maint": 233
+  },
+  {
+    "name": "price-per-unit",
+    "full_name": "brentvollebregt/price-per-unit",
+    "html_url": "https://github.com/brentvollebregt/price-per-unit",
+    "description": "An Android app that helps you compare prices of similar products 💵 💰",
+    "stars": 27,
+    "forks": 2,
+    "languages": {
+      "Java": 38392
+    },
+    "contributions_by_user": 112,
+    "contribution_score": 1200.75,
+    "S_code": 37.49,
+    "S_social": 31,
+    "S_maint": 112
+  },
+  {
+    "name": "spotify-playlist-downloader",
+    "full_name": "brentvollebregt/spotify-playlist-downloader",
+    "html_url": "https://github.com/brentvollebregt/spotify-playlist-downloader",
+    "description": "Downloads Spotify playlists to mp3 tagged and given album art 🎧🎼",
+    "stars": 20,
+    "forks": 3,
+    "languages": {
+      "Python": 8531
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 146.17,
+    "S_code": 8.33,
+    "S_social": 26,
+    "S_maint": 9
+  },
+  {
+    "name": "multi-clipboard",
+    "full_name": "brentvollebregt/multi-clipboard",
+    "html_url": "https://github.com/brentvollebregt/multi-clipboard",
+    "description": "Switch clipboard contents using a simple GUI 📋<->🗃",
+    "stars": 18,
+    "forks": 5,
+    "languages": {
+      "Python": 42113
+    },
+    "contributions_by_user": 94,
+    "contribution_score": 1016.56,
+    "S_code": 41.13,
+    "S_social": 28,
+    "S_maint": 94
+  },
+  {
+    "name": "nitratine.net",
+    "full_name": "brentvollebregt/nitratine.net",
+    "html_url": "https://github.com/brentvollebregt/nitratine.net",
+    "description": "Site files for nitratine.net",
+    "stars": 15,
+    "forks": 4,
+    "languages": {
+      "Python": 71376,
+      "HTML": 69513,
+      "JavaScript": 31621,
+      "CSS": 10033
+    },
+    "contributions_by_user": 769,
+    "contribution_score": 7825.13,
+    "S_code": 178.26,
+    "S_social": 23,
+    "S_maint": 769
+  },
+  {
+    "name": "mp3-iTunes",
+    "full_name": "brentvollebregt/mp3-iTunes",
+    "html_url": "https://github.com/brentvollebregt/mp3-iTunes",
+    "description": "Downloads selected song from a iTunes album using YouTube",
+    "stars": 11,
+    "forks": 3,
+    "languages": {
+      "Python": 12313
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 110.01,
+    "S_code": 12.02,
+    "S_social": 17,
+    "S_maint": 7
+  },
+  {
+    "name": "quick-script",
+    "full_name": "brentvollebregt/quick-script",
+    "html_url": "https://github.com/brentvollebregt/quick-script",
+    "description": "Run small scripts from a simple UI ⏳",
+    "stars": 9,
+    "forks": 3,
+    "languages": {
+      "Python": 18692,
+      "Visual Basic": 96
+    },
+    "contributions_by_user": 32,
+    "contribution_score": 359.17,
+    "S_code": 18.35,
+    "S_social": 15,
+    "S_maint": 32
+  },
+  {
+    "name": "Lucy-In-The-Sky-With-Emotion",
+    "full_name": "brentvollebregt/Lucy-In-The-Sky-With-Emotion",
+    "html_url": "https://github.com/brentvollebregt/Lucy-In-The-Sky-With-Emotion",
+    "description": "UOW COMP241 Project for Visualizing emotion in music",
+    "stars": 7,
+    "forks": 3,
+    "languages": {
+      "C#": 362184,
+      "ShaderLab": 99560,
+      "Python": 85642,
+      "HLSL": 5320,
+      "GLSL": 4449,
+      "Batchfile": 204
+    },
+    "contributions_by_user": 48,
+    "contribution_score": 778.15,
+    "S_code": 544.3,
+    "S_social": 13,
+    "S_maint": 48
+  },
+  {
+    "name": "brentvollebregt",
+    "full_name": "brentvollebregt/brentvollebregt",
+    "html_url": "https://github.com/brentvollebregt/brentvollebregt",
+    "description": "GitHub profile",
+    "stars": 5,
+    "forks": 2,
+    "languages": {},
+    "contributions_by_user": 36,
+    "contribution_score": 378.0,
+    "S_code": 0.0,
+    "S_social": 9,
+    "S_maint": 36
+  },
+  {
+    "name": "am-i-a-participant",
+    "full_name": "brentvollebregt/am-i-a-participant",
+    "html_url": "https://github.com/brentvollebregt/am-i-a-participant",
+    "description": "Check if you are a participant of a conversation in Gmail. Helps you stop sending emails with the wrong address.",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1015
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 70.5,
+    "S_code": 0.99,
+    "S_social": 5,
+    "S_maint": 6
+  },
+  {
+    "name": "media-picker",
+    "full_name": "brentvollebregt/media-picker",
+    "html_url": "https://github.com/brentvollebregt/media-picker",
+    "description": "Easily chose which media files to keep in a folder with a simple interface",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8288,
+      "Python": 6116,
+      "CSS": 3793,
+      "HTML": 3053
+    },
+    "contributions_by_user": 47,
+    "contribution_score": 488.38,
+    "S_code": 20.75,
+    "S_social": 4,
+    "S_maint": 47
+  },
+  {
+    "name": "primary-input-devices-requests",
+    "full_name": "brentvollebregt/primary-input-devices-requests",
+    "html_url": "https://github.com/brentvollebregt/primary-input-devices-requests",
+    "description": "Control the Mouse 🖱️ and Keyboard ⌨️ using simple requests",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Python": 7277
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 101.55,
+    "S_code": 7.11,
+    "S_social": 4,
+    "S_maint": 9
+  },
+  {
+    "name": "uow-moodle-rwa-ignorer",
+    "full_name": "brentvollebregt/uow-moodle-rwa-ignorer",
+    "html_url": "https://github.com/brentvollebregt/uow-moodle-rwa-ignorer",
+    "description": "A chrome extension to solve the Waikato Universities resource work around in Moodle",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1351,
+      "HTML": 1290
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 73.29,
+    "S_code": 2.58,
+    "S_social": 1,
+    "S_maint": 7
+  }
+]

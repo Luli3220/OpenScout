@@ -1,0 +1,1461 @@
+[
+  {
+    "name": "sketch_simplification",
+    "full_name": "bobbens/sketch_simplification",
+    "html_url": "https://github.com/bobbens/sketch_simplification",
+    "description": "Models and code related to sketch simplification of rough sketches.",
+    "stars": 751,
+    "forks": 101,
+    "languages": {
+      "Lua": 30428,
+      "Shell": 1944,
+      "Python": 1129
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 2052.36,
+    "S_code": 32.72,
+    "S_social": 953,
+    "S_maint": 13
+  },
+  {
+    "name": "clothes_parsing",
+    "full_name": "bobbens/clothes_parsing",
+    "html_url": "https://github.com/bobbens/clothes_parsing",
+    "description": "Code for the paper 'A High Performance CRF Model for Clothes Parsing'.",
+    "stars": 118,
+    "forks": 28,
+    "languages": {
+      "C++": 2971753,
+      "MATLAB": 629234,
+      "C": 117589,
+      "Makefile": 25320,
+      "Python": 14313,
+      "Gherkin": 3136,
+      "Lex": 2585,
+      "Shell": 2041,
+      "M": 396
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 2287.05,
+    "S_code": 3678.09,
+    "S_social": 174,
+    "S_maint": 10
+  },
+  {
+    "name": "cvpr2016_stylenet",
+    "full_name": "bobbens/cvpr2016_stylenet",
+    "html_url": "https://github.com/bobbens/cvpr2016_stylenet",
+    "description": "Code for our CVPR 2016 paper on Fashion styles in 128 floats.",
+    "stars": 68,
+    "forks": 23,
+    "languages": {
+      "Lua": 1529
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 238.75,
+    "S_code": 1.49,
+    "S_social": 114,
+    "S_maint": 1
+  },
+  {
+    "name": "libdq",
+    "full_name": "bobbens/libdq",
+    "html_url": "https://github.com/bobbens/libdq",
+    "description": "Library for creating and manipulating dual quaternions.",
+    "stars": 54,
+    "forks": 19,
+    "languages": {
+      "C": 79732,
+      "Makefile": 3446,
+      "Lua": 790
+    },
+    "contributions_by_user": 179,
+    "contribution_score": 2015.0,
+    "S_code": 82.0,
+    "S_social": 92,
+    "S_maint": 179
+  },
+  {
+    "name": "line_thinning",
+    "full_name": "bobbens/line_thinning",
+    "html_url": "https://github.com/bobbens/line_thinning",
+    "description": "Line thickness normalization network using in the SIGGRPAH 2018 paper \"Real-Time Data-Driven Interactive Rough Sketch Inking\".",
+    "stars": 29,
+    "forks": 4,
+    "languages": {
+      "Python": 2138
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 85.04,
+    "S_code": 2.09,
+    "S_social": 37,
+    "S_maint": 1
+  },
+  {
+    "name": "DaLI",
+    "full_name": "bobbens/DaLI",
+    "html_url": "https://github.com/bobbens/DaLI",
+    "description": "Source code for the Deformation and Lighting Invariant (DaLI) descriptor.",
+    "stars": 23,
+    "forks": 12,
+    "languages": {
+      "C": 120934,
+      "Makefile": 2118,
+      "MATLAB": 903
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 204.52,
+    "S_code": 121.05,
+    "S_social": 47,
+    "S_maint": 5
+  },
+  {
+    "name": "tae-kim_latex",
+    "full_name": "bobbens/tae-kim_latex",
+    "html_url": "https://github.com/bobbens/tae-kim_latex",
+    "description": "Script to convert the Tae-Kim online website \"Japanese Grammar Guide\" to multiple pdf types.",
+    "stars": 13,
+    "forks": 4,
+    "languages": {
+      "Perl": 14520,
+      "TeX": 3753
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 170.92,
+    "S_code": 17.84,
+    "S_social": 21,
+    "S_maint": 12
+  },
+  {
+    "name": "gfmm",
+    "full_name": "bobbens/gfmm",
+    "html_url": "https://github.com/bobbens/gfmm",
+    "description": "Code for the paper 'Geodesic Finite Mixture Model'.",
+    "stars": 10,
+    "forks": 6,
+    "languages": {
+      "MATLAB": 71315
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 148.82,
+    "S_code": 69.64,
+    "S_social": 22,
+    "S_maint": 7
+  },
+  {
+    "name": "ceigs",
+    "full_name": "bobbens/ceigs",
+    "html_url": "https://github.com/bobbens/ceigs",
+    "description": "C Wrapper for ARPACK.",
+    "stars": 7,
+    "forks": 5,
+    "languages": {
+      "C": 59298,
+      "Makefile": 2196
+    },
+    "contributions_by_user": 69,
+    "contribution_score": 754.03,
+    "S_code": 60.05,
+    "S_social": 17,
+    "S_maint": 69
+  },
+  {
+    "name": "cwiid",
+    "full_name": "bobbens/cwiid",
+    "html_url": "https://github.com/bobbens/cwiid",
+    "description": "Linux Nintendo Wiimote interface",
+    "stars": 7,
+    "forks": 4,
+    "languages": {
+      "C": 394800,
+      "Python": 8105,
+      "Shell": 26
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 346.74,
+    "S_code": 393.49,
+    "S_social": 15,
+    "S_maint": 12
+  },
+  {
+    "name": "iced-lua",
+    "full_name": "bobbens/iced-lua",
+    "html_url": "https://github.com/bobbens/iced-lua",
+    "description": "Iced bindings for Lua using mlua.",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Rust": 25549,
+      "Lua": 626
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 222.78,
+    "S_code": 25.56,
+    "S_social": 5,
+    "S_maint": 20
+  },
+  {
+    "name": "moski",
+    "full_name": "bobbens/moski",
+    "html_url": "https://github.com/bobbens/moski",
+    "description": "MOS Killer (moski) motor control board (dual h-bridge) firmware",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "C": 34560
+    },
+    "contributions_by_user": 87,
+    "contribution_score": 898.88,
+    "S_code": 33.75,
+    "S_social": 6,
+    "S_maint": 87
+  },
+  {
+    "name": "naev",
+    "full_name": "bobbens/naev",
+    "html_url": "https://github.com/bobbens/naev",
+    "description": "Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "C": 7046785,
+      "Lua": 5711086,
+      "Rust": 556476,
+      "GLSL": 536262,
+      "Python": 374494,
+      "Meson": 112015,
+      "Shell": 99716,
+      "TeX": 30362,
+      "WGSL": 9738,
+      "HTML": 9070,
+      "Tree-sitter Query": 7424,
+      "NSIS": 6182,
+      "CSS": 4889,
+      "Scheme": 3849,
+      "Roff": 2062,
+      "Vim Script": 1912,
+      "Objective-C": 1525,
+      "sed": 1025,
+      "Makefile": 821,
+      "POV-Ray SDL": 384,
+      "Perl": 73
+    },
+    "contributions_by_user": 29489,
+    "contribution_score": 301983.96,
+    "S_code": 14175.93,
+    "S_social": 3,
+    "S_maint": 29489
+  },
+  {
+    "name": "autosub",
+    "full_name": "bobbens/autosub",
+    "html_url": "https://github.com/bobbens/autosub",
+    "description": "Command-line utility to transcribe/translate from video/audio/subtitles to subtitles ",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Python": 237808,
+      "Batchfile": 2622
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 133.4,
+    "S_code": 234.79,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "ArtTreeKS",
+    "full_name": "bobbens/ArtTreeKS",
+    "html_url": "https://github.com/bobbens/ArtTreeKS",
+    "description": "Finite dimensional kinematic synthesis for articulated trees.",
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "C": 340991,
+      "Lua": 59987,
+      "C++": 905
+    },
+    "contributions_by_user": 96,
+    "contribution_score": 1170.23,
+    "S_code": 392.46,
+    "S_social": 7,
+    "S_maint": 96
+  },
+  {
+    "name": "libbttc",
+    "full_name": "bobbens/libbttc",
+    "html_url": "https://github.com/bobbens/libbttc",
+    "description": "Small library to handle B-Tree Triangular Coding.",
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "C": 13574
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 210.63,
+    "S_code": 13.26,
+    "S_social": 7,
+    "S_maint": 19
+  },
+  {
+    "name": "naev-artwork",
+    "full_name": "bobbens/naev-artwork",
+    "html_url": "https://github.com/bobbens/naev-artwork",
+    "description": "Naev's Artwork Repository",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 54788,
+      "Shell": 17335,
+      "Makefile": 2129
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 120.26,
+    "S_code": 72.51,
+    "S_social": 2,
+    "S_maint": 8
+  },
+  {
+    "name": "style2paints",
+    "full_name": "bobbens/style2paints",
+    "html_url": "https://github.com/bobbens/style2paints",
+    "description": "sketch + style = paints :art:",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 72890,
+      "Python": 23063,
+      "CSS": 4808,
+      "HTML": 1871
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 58.11,
+    "S_code": 100.23,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "shousetsu-ebook-utils",
+    "full_name": "bobbens/shousetsu-ebook-utils",
+    "html_url": "https://github.com/bobbens/shousetsu-ebook-utils",
+    "description": "Scripts to adapt japanese short stories to ebook readers.",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Shell": 14969,
+      "Python": 1713
+    },
+    "contributions_by_user": 38,
+    "contribution_score": 396.15,
+    "S_code": 16.29,
+    "S_social": 4,
+    "S_maint": 38
+  },
+  {
+    "name": "symphonia-adapters",
+    "full_name": "bobbens/symphonia-adapters",
+    "html_url": "https://github.com/bobbens/symphonia-adapters",
+    "description": "Adapters for external AAC and Opus decoders to be used with Symphonia",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Rust": 24805,
+      "Shell": 535
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 24.37,
+    "S_code": 24.75,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "visqol-rs",
+    "full_name": "bobbens/visqol-rs",
+    "html_url": "https://github.com/bobbens/visqol-rs",
+    "description": "The speech quality evalutator ViSQOL written in Rust",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Rust": 208516,
+      "Starlark": 733,
+      "Python": 153
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 104.25,
+    "S_code": 204.49,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "Symphonia",
+    "full_name": "bobbens/Symphonia",
+    "html_url": "https://github.com/bobbens/Symphonia",
+    "description": "Pure Rust multimedia format demuxing, tag reading, and audio decoding library",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Rust": 1766573,
+      "Python": 2441,
+      "RenderScript": 2
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 865.78,
+    "S_code": 1727.55,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "sdl3-rs",
+    "full_name": "bobbens/sdl3-rs",
+    "html_url": "https://github.com/bobbens/sdl3-rs",
+    "description": "SDL3 bindings for Rust",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Rust": 1043530,
+      "Shell": 953
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 512.0,
+    "S_code": 1020.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "naeva",
+    "full_name": "bobbens/naeva",
+    "html_url": "https://github.com/bobbens/naeva",
+    "description": "A total conversion for Naev that adds a reimagined Novaverse.",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "Lua": 52272,
+      "Python": 35474
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 62.84,
+    "S_code": 85.69,
+    "S_social": 5,
+    "S_maint": 1
+  },
+  {
+    "name": "mlua_setfenv_globals",
+    "full_name": "bobbens/mlua_setfenv_globals",
+    "html_url": "https://github.com/bobbens/mlua_setfenv_globals",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Rust": 3771
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 43.84,
+    "S_code": 3.68,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "rust-sdl-wgpu-iced-accesskit-test",
+    "full_name": "bobbens/rust-sdl-wgpu-iced-accesskit-test",
+    "html_url": "https://github.com/bobbens/rust-sdl-wgpu-iced-accesskit-test",
+    "description": "Just testing some library compatibility in rust.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Rust": 44179,
+      "Lua": 1089,
+      "WGSL": 542
+    },
+    "contributions_by_user": 68,
+    "contribution_score": 708.37,
+    "S_code": 44.74,
+    "S_social": 3,
+    "S_maint": 68
+  },
+  {
+    "name": "pygraphgram",
+    "full_name": "bobbens/pygraphgram",
+    "html_url": "https://github.com/bobbens/pygraphgram",
+    "description": "A small test for grammar rewriting for procedural content generation. ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 11835
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 137.78,
+    "S_code": 11.56,
+    "S_social": 1,
+    "S_maint": 13
+  },
+  {
+    "name": "dev-webgl-skeleton",
+    "full_name": "bobbens/dev-webgl-skeleton",
+    "html_url": "https://github.com/bobbens/dev-webgl-skeleton",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2660,
+      "JavaScript": 1302,
+      "GLSL": 270
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.07,
+    "S_code": 4.13,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "thebookofshaders",
+    "full_name": "bobbens/thebookofshaders",
+    "html_url": "https://github.com/bobbens/thebookofshaders",
+    "description": "Step-by-step guide through the abstract and complex universe of Fragment Shaders.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "GLSL": 273000,
+      "PHP": 37777,
+      "HTML": 9435,
+      "JavaScript": 8194,
+      "CSS": 8051,
+      "Python": 5493,
+      "C++": 4161,
+      "Hack": 2404,
+      "Processing": 638,
+      "Shell": 444,
+      "CMake": 427,
+      "Makefile": 300
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 173.06,
+    "S_code": 342.11,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "PaintsChainer",
+    "full_name": "bobbens/PaintsChainer",
+    "html_url": "https://github.com/bobbens/PaintsChainer",
+    "description": "line drawing colorization using chainer",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 42772,
+      "JavaScript": 27758,
+      "HTML": 6774,
+      "CSS": 129
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 39.81,
+    "S_code": 75.62,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "neuralart",
+    "full_name": "bobbens/neuralart",
+    "html_url": "https://github.com/bobbens/neuralart",
+    "description": "An implementation of the paper 'A Neural Algorithm of Artistic Style'.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Lua": 19471,
+      "Shell": 286
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 71.65,
+    "S_code": 19.29,
+    "S_social": 1,
+    "S_maint": 6
+  },
+  {
+    "name": "vlfeat",
+    "full_name": "bobbens/vlfeat",
+    "html_url": "https://github.com/bobbens/vlfeat",
+    "description": "An open library of computer vision algorithms",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 956241,
+      "MATLAB": 311765,
+      "Python": 70568,
+      "Objective-C": 2487,
+      "Shell": 1828
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 667.71,
+    "S_code": 1311.42,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "open-bldc",
+    "full_name": "bobbens/open-bldc",
+    "html_url": "https://github.com/bobbens/open-bldc",
+    "description": "OpenSource Brushless Drive Controller",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C": 253459,
+      "C++": 162489,
+      "Shell": 896
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 219.54,
+    "S_code": 407.07,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "LACE",
+    "full_name": "bobbens/LACE",
+    "html_url": "https://github.com/bobbens/LACE",
+    "description": "Light Adaptable Control Electrosystem - Hardware and Software for an Atmel based modular elelctronic platform.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 152655
+    },
+    "contributions_by_user": 143,
+    "contribution_score": 1506.54,
+    "S_code": 149.08,
+    "S_social": 1,
+    "S_maint": 143
+  },
+  {
+    "name": "LACE_HW",
+    "full_name": "bobbens/LACE_HW",
+    "html_url": "https://github.com/bobbens/LACE_HW",
+    "description": "Hardware for the LACE.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 35,
+    "contribution_score": 352.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 35
+  },
+  {
+    "name": "spritepack",
+    "full_name": "bobbens/spritepack",
+    "html_url": "https://github.com/bobbens/spritepack",
+    "description": "A simple sprite atlas generator",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C": 176050
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 111.96,
+    "S_code": 171.92,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "ai-baby-monitor",
+    "full_name": "bobbens/ai-baby-monitor",
+    "html_url": "https://github.com/bobbens/ai-baby-monitor",
+    "description": "Personal project building an ai baby monitor on a Rasberry pi",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 139496,
+      "HTML": 12598,
+      "Shell": 3728
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 86.08,
+    "S_code": 152.17,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "gltf",
+    "full_name": "bobbens/gltf",
+    "html_url": "https://github.com/bobbens/gltf",
+    "description": "A crate for loading glTF 2.0",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 431397
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 210.64,
+    "S_code": 421.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dialogic",
+    "full_name": "bobbens/dialogic",
+    "html_url": "https://github.com/bobbens/dialogic",
+    "description": "💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "GDScript": 1125827,
+      "GDShader": 4025
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 551.69,
+    "S_code": 1103.37,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "palette",
+    "full_name": "bobbens/palette",
+    "html_url": "https://github.com/bobbens/palette",
+    "description": "A Rust library for linear color calculations and conversion",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 1750545
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 854.76,
+    "S_code": 1709.52,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "procedural-asteroid-generator",
+    "full_name": "bobbens/procedural-asteroid-generator",
+    "html_url": "https://github.com/bobbens/procedural-asteroid-generator",
+    "description": "A Blender project for batch generating and rendering spinning Asteroids.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "glow",
+    "full_name": "bobbens/glow",
+    "html_url": "https://github.com/bobbens/glow",
+    "description": "GL on Whatever: a set of bindings to run GL anywhere and avoid target-specific code",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 1973195,
+      "Shell": 2655
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 964.77,
+    "S_code": 1929.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lua-ryaml",
+    "full_name": "bobbens/lua-ryaml",
+    "html_url": "https://github.com/bobbens/lua-ryaml",
+    "description": "A fast Lua YAML library written in Rust using serde",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 4415,
+      "Lua": 625
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 32.46,
+    "S_code": 4.92,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "lyaml",
+    "full_name": "bobbens/lyaml",
+    "html_url": "https://github.com/bobbens/lyaml",
+    "description": "LibYAML binding for Lua.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 73341,
+      "C": 39729
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 75.21,
+    "S_code": 110.42,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "language_tool_python",
+    "full_name": "bobbens/language_tool_python",
+    "html_url": "https://github.com/bobbens/language_tool_python",
+    "description": "a free python grammar checker 📝✅",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 89450,
+      "Shell": 2043,
+      "Makefile": 475
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 74.91,
+    "S_code": 89.81,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "cboe",
+    "full_name": "bobbens/cboe",
+    "html_url": "https://github.com/bobbens/cboe",
+    "description": "Classic Blades of Exile",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 3204484,
+      "Objective-C++": 52255,
+      "Python": 43329,
+      "NSIS": 14637,
+      "C": 8187,
+      "XSLT": 7970,
+      "Shell": 7762,
+      "CSS": 2604,
+      "FLUX": 1327,
+      "GLSL": 686,
+      "Makefile": 407,
+      "Batchfile": 205
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1632.74,
+    "S_code": 3265.48,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "More-Cores-mod-2",
+    "full_name": "bobbens/More-Cores-mod-2",
+    "html_url": "https://github.com/bobbens/More-Cores-mod-2",
+    "description": "Adds the Prometheus and Aegis cores back into the game, and redistributes all millspec cores to different factions ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rich Text Format": 7581
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 23.7,
+    "S_code": 7.4,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "Math-for-CS-solutions",
+    "full_name": "bobbens/Math-for-CS-solutions",
+    "html_url": "https://github.com/bobbens/Math-for-CS-solutions",
+    "description": "Solutions to In-Class questions, Problem Sets and Exams of MIT Mathematics for Computer Science 2015 (same as 2019 Open Learning Library)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 653570
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 319.13,
+    "S_code": 638.25,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Epp-Discrete-Math-5th-solutions",
+    "full_name": "bobbens/Epp-Discrete-Math-5th-solutions",
+    "html_url": "https://github.com/bobbens/Epp-Discrete-Math-5th-solutions",
+    "description": "Solutions to Susanna Epp's Discrete Mathematics book, 5th Edition",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 2199105
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1073.78,
+    "S_code": 2147.56,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "PLTFalcor",
+    "full_name": "bobbens/PLTFalcor",
+    "html_url": "https://github.com/bobbens/PLTFalcor",
+    "description": "Real-time physical light transport (PLT) framework",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 6724542,
+      "Python": 328178,
+      "CMake": 76588,
+      "HLSL": 24368,
+      "PowerShell": 21730,
+      "Batchfile": 20911,
+      "C": 14064,
+      "Shell": 11295,
+      "Smarty": 6832,
+      "Cuda": 2764,
+      "CSS": 186
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 3540.99,
+    "S_code": 7061.97,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "formatx",
+    "full_name": "bobbens/formatx",
+    "html_url": "https://github.com/bobbens/formatx",
+    "description": "A macro for formatting non literal strings at runtime in Rust",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 32633
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 25.93,
+    "S_code": 31.87,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "iced",
+    "full_name": "bobbens/iced",
+    "html_url": "https://github.com/bobbens/iced",
+    "description": "A cross-platform GUI library for Rust, inspired by Elm",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 1925162,
+      "WGSL": 22299,
+      "RenderScript": 1
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 950.91,
+    "S_code": 1901.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Ciallo",
+    "full_name": "bobbens/Ciallo",
+    "html_url": "https://github.com/bobbens/Ciallo",
+    "description": "The next generation vector paint program.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 19499737,
+      "C": 363910,
+      "Cuda": 101833,
+      "CMake": 100538,
+      "GLSL": 11697,
+      "Java": 6840,
+      "Makefile": 4661,
+      "Shell": 3154,
+      "Batchfile": 809,
+      "MATLAB": 354
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9811.3,
+    "S_code": 19622.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "OpenBabyMonitor",
+    "full_name": "bobbens/OpenBabyMonitor",
+    "html_url": "https://github.com/bobbens/OpenBabyMonitor",
+    "description": "A user-friendly Raspberry Pi baby monitor with cry detection and audio/video streaming.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PHP": 148659,
+      "Python": 131424,
+      "JavaScript": 106377,
+      "Shell": 50505,
+      "Hack": 2015,
+      "CSS": 216
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 214.45,
+    "S_code": 428.9,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cmark-lua",
+    "full_name": "bobbens/cmark-lua",
+    "html_url": "https://github.com/bobbens/cmark-lua",
+    "description": "Lua bindings to libcmark CommonMark parser",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 599751,
+      "Lua": 147088,
+      "Terra": 4345,
+      "Makefile": 1602,
+      "SWIG": 829
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 377.98,
+    "S_code": 735.95,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "cgltf",
+    "full_name": "bobbens/cgltf",
+    "html_url": "https://github.com/bobbens/cgltf",
+    "description": ":diamond_shape_with_a_dot_inside: Single-file glTF 2.0 loader and writer written in C99",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 252122,
+      "C++": 8423,
+      "CMake": 3250,
+      "Python": 2672
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 170.11,
+    "S_code": 260.22,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "nanoc",
+    "full_name": "bobbens/nanoc",
+    "html_url": "https://github.com/bobbens/nanoc",
+    "description": "A powerful web publishing system",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 1657524
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 809.34,
+    "S_code": 1618.68,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "docker-openldap",
+    "full_name": "bobbens/docker-openldap",
+    "html_url": "https://github.com/bobbens/docker-openldap",
+    "description": "OpenLDAP as a Docker image",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 3577,
+      "Dockerfile": 505
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.99,
+    "S_code": 3.99,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "SDL",
+    "full_name": "bobbens/SDL",
+    "html_url": "https://github.com/bobbens/SDL",
+    "description": "Simple Directmedia Layer",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 18795378,
+      "Objective-C": 725609,
+      "C++": 454699,
+      "CMake": 359409,
+      "Java": 210067,
+      "Perl": 112062,
+      "Python": 47598,
+      "SmPL": 44719,
+      "Shell": 38632,
+      "Assembly": 32995,
+      "M4": 25544,
+      "Makefile": 8947,
+      "M": 6266,
+      "Metal": 3691,
+      "Meson": 894,
+      "JavaScript": 749
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10189.09,
+    "S_code": 20378.18,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "msdfgen",
+    "full_name": "bobbens/msdfgen",
+    "html_url": "https://github.com/bobbens/msdfgen",
+    "description": "Multi-channel signed distance field generator",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 314101,
+      "CMake": 17066,
+      "C": 2038
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 162.7,
+    "S_code": 325.4,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bezier-curve-drawing",
+    "full_name": "bobbens/bezier-curve-drawing",
+    "html_url": "https://github.com/bobbens/bezier-curve-drawing",
+    "description": "Simple JS webapp for drawing bezier curves",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 20791,
+      "HTML": 6831
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 23.49,
+    "S_code": 26.97,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "glslCanvas",
+    "full_name": "bobbens/glslCanvas",
+    "html_url": "https://github.com/bobbens/glslCanvas",
+    "description": "Simple tool to load GLSL shaders on HTML Canvas using WebGL",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 127806,
+      "HTML": 12590
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 78.55,
+    "S_code": 137.11,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "reveal.js",
+    "full_name": "bobbens/reveal.js",
+    "html_url": "https://github.com/bobbens/reveal.js",
+    "description": "The HTML Presentation Framework",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 402659,
+      "CSS": 209281,
+      "HTML": 102621
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 348.91,
+    "S_code": 697.81,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "language-markdown",
+    "full_name": "bobbens/language-markdown",
+    "html_url": "https://github.com/bobbens/language-markdown",
+    "description": "Add support for Markdown to Atom (including Github flavored, Markdown Extra, CriticMark, YAML/TOML front-matter, and R Markdown), and smart behavior to lists.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 19456,
+      "CoffeeScript": 14484
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.57,
+    "S_code": 33.14,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mit-cs-math-6042-fall-2010-problems",
+    "full_name": "bobbens/mit-cs-math-6042-fall-2010-problems",
+    "html_url": "https://github.com/bobbens/mit-cs-math-6042-fall-2010-problems",
+    "description": "MIT CS 6.042 opencourseware Fall 2010 problems + solutions",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "qpth",
+    "full_name": "bobbens/qpth",
+    "html_url": "https://github.com/bobbens/qpth",
+    "description": "A fast and differentiable QP solver for PyTorch.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 40231,
+      "Shell": 222
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.75,
+    "S_code": 39.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vision",
+    "full_name": "bobbens/vision",
+    "html_url": "https://github.com/bobbens/vision",
+    "description": "Datasets, Transforms and Models specific to Computer Vision",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 301863,
+      "Python": 48005
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 170.83,
+    "S_code": 341.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pytorch",
+    "full_name": "bobbens/pytorch",
+    "html_url": "https://github.com/bobbens/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python  with strong GPU acceleration",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1416973,
+      "C": 1201204,
+      "Cuda": 1163593,
+      "C++": 457169,
+      "CMake": 202577,
+      "Makefile": 6824,
+      "Groff": 6174,
+      "Lua": 4650,
+      "Shell": 4146,
+      "Objective-C": 2598,
+      "Vim Script": 1013
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2181.11,
+    "S_code": 4362.23,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "prezto",
+    "full_name": "bobbens/prezto",
+    "html_url": "https://github.com/bobbens/prezto",
+    "description": "The configuration framework for Zsh",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 71151
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 34.74,
+    "S_code": 69.48,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bxslider-4",
+    "full_name": "bobbens/bxslider-4",
+    "html_url": "https://github.com/bobbens/bxslider-4",
+    "description": "Responsive jQuery content slider",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 144662,
+      "HTML": 70325,
+      "CSS": 12905
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 141.28,
+    "S_code": 222.55,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "colorbox",
+    "full_name": "bobbens/colorbox",
+    "html_url": "https://github.com/bobbens/colorbox",
+    "description": "A light-weight, customizable lightbox plugin for jQuery",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 47064,
+      "HTML": 28154,
+      "CSS": 18500
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 45.76,
+    "S_code": 91.52,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nn",
+    "full_name": "bobbens/nn",
+    "html_url": "https://github.com/bobbens/nn",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 452475,
+      "C": 246455,
+      "CMake": 1833
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 342.17,
+    "S_code": 684.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "caffe",
+    "full_name": "bobbens/caffe",
+    "html_url": "https://github.com/bobbens/caffe",
+    "description": "Caffe: a fast open framework for deep learning.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 2627708,
+      "Python": 271023,
+      "Cuda": 169399,
+      "CMake": 96415,
+      "Protocol Buffer": 49861,
+      "MATLAB": 31908,
+      "Makefile": 22037,
+      "Shell": 12600,
+      "M": 71
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 1752.06,
+    "S_code": 3204.12,
+    "S_social": 0,
+    "S_maint": 15
+  },
+  {
+    "name": "tensorflow",
+    "full_name": "bobbens/tensorflow",
+    "html_url": "https://github.com/bobbens/tensorflow",
+    "description": " Open source software library for numerical computation using data flow graphs.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 4876772,
+      "Python": 2431622,
+      "HTML": 631255,
+      "TypeScript": 236089,
+      "C": 127080,
+      "Protocol Buffer": 44898,
+      "Java": 44192,
+      "JavaScript": 5067,
+      "Shell": 1714,
+      "Objective-C": 630,
+      "CSS": 107
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 4131.28,
+    "S_code": 8202.56,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "imagenet-multiGPU.torch",
+    "full_name": "bobbens/imagenet-multiGPU.torch",
+    "html_url": "https://github.com/bobbens/imagenet-multiGPU.torch",
+    "description": "an imagenet example free of fbcunn dependencies in torch. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 91764
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 64.81,
+    "S_code": 89.61,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "loadcaffe",
+    "full_name": "bobbens/loadcaffe",
+    "html_url": "https://github.com/bobbens/loadcaffe",
+    "description": "Load Caffe networks in Torch7",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Protocol Buffer": 38374,
+      "C++": 22034,
+      "Lua": 5589,
+      "CMake": 959
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 42.69,
+    "S_code": 65.39,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "vlbenchmarks",
+    "full_name": "bobbens/vlbenchmarks",
+    "html_url": "https://github.com/bobbens/vlbenchmarks",
+    "description": "VLBenchmark is a MATLAB suite of benchmarks for computer vision features",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "MATLAB": 258578,
+      "C": 26937,
+      "C++": 6910
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 152.79,
+    "S_code": 285.57,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "wPaint",
+    "full_name": "bobbens/wPaint",
+    "html_url": "https://github.com/bobbens/wPaint",
+    "description": "jQuery Paint Plugin",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 66226,
+      "HTML": 18327,
+      "CSS": 8126,
+      "PHP": 265
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 45.38,
+    "S_code": 90.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "image_pipeline",
+    "full_name": "bobbens/image_pipeline",
+    "html_url": "https://github.com/bobbens/image_pipeline",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 267830,
+      "Python": 115341,
+      "CMake": 10489
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 192.22,
+    "S_code": 384.43,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

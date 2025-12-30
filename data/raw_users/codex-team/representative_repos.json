@@ -1,0 +1,2542 @@
+[
+  {
+    "name": "editor.js",
+    "full_name": "codex-team/editor.js",
+    "html_url": "https://github.com/codex-team/editor.js",
+    "description": "A block-style editor with clean JSON output",
+    "stars": 31331,
+    "forks": 2225,
+    "languages": {
+      "TypeScript": 874447,
+      "HTML": 54342,
+      "CSS": 38035,
+      "JavaScript": 3657
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 72035.87,
+    "S_code": 947.74,
+    "S_social": 35781,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.docs",
+    "full_name": "codex-team/codex.docs",
+    "html_url": "https://github.com/codex-team/codex.docs",
+    "description": "Free Docs app powered by Editor.js ecosystem",
+    "stars": 817,
+    "forks": 88,
+    "languages": {
+      "TypeScript": 151286,
+      "JavaScript": 57962,
+      "CSS": 36050,
+      "Twig": 18598
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2114.86,
+    "S_code": 257.71,
+    "S_social": 993,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.notes",
+    "full_name": "codex-team/codex.notes",
+    "html_url": "https://github.com/codex-team/codex.notes",
+    "description": "WIP: crossplatform desktop notes application based on Electron and Editor.js",
+    "stars": 147,
+    "forks": 16,
+    "languages": {
+      "JavaScript": 181558,
+      "CSS": 16513,
+      "Pug": 5022
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 457.17,
+    "S_code": 198.33,
+    "S_social": 179,
+    "S_maint": 0
+  },
+  {
+    "name": "capella",
+    "full_name": "codex-team/capella",
+    "html_url": "https://github.com/codex-team/capella",
+    "description": "Cloud service for image storage and delivery",
+    "stars": 129,
+    "forks": 23,
+    "languages": {
+      "PHP": 74814,
+      "JavaScript": 22406,
+      "CSS": 13669,
+      "Dockerfile": 1245
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 404.75,
+    "S_code": 109.51,
+    "S_social": 175,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.media",
+    "full_name": "codex-team/codex.media",
+    "html_url": "https://github.com/codex-team/codex.media",
+    "description": "A platform for building a modern UGC media",
+    "stars": 101,
+    "forks": 22,
+    "languages": {
+      "PHP": 1655660,
+      "CSS": 299623,
+      "JavaScript": 150731,
+      "Hack": 27063,
+      "Shell": 10397,
+      "HTML": 7695,
+      "Dockerfile": 2385
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1341.54,
+    "S_code": 2103.08,
+    "S_social": 145,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk",
+    "full_name": "codex-team/hawk",
+    "html_url": "https://github.com/codex-team/hawk",
+    "description": "Fast and lightweight errors tracking service",
+    "stars": 93,
+    "forks": 8,
+    "languages": {
+      "JavaScript": 176215,
+      "Twig": 74649,
+      "CSS": 44885,
+      "Shell": 286,
+      "Dockerfile": 99
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 362.6,
+    "S_code": 289.19,
+    "S_social": 109,
+    "S_maint": 0
+  },
+  {
+    "name": "deeplinker",
+    "full_name": "codex-team/deeplinker",
+    "html_url": "https://github.com/codex-team/deeplinker",
+    "description": "Use one link to open installed apps or web pages",
+    "stars": 76,
+    "forks": 10,
+    "languages": {
+      "JavaScript": 5289
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 194.58,
+    "S_code": 5.17,
+    "S_social": 96,
+    "S_maint": 0
+  },
+  {
+    "name": "icons",
+    "full_name": "codex-team/icons",
+    "html_url": "https://github.com/codex-team/icons",
+    "description": "Dozens of cute svg icons made with love by CodeX for your projects. No dependencies required. Free to use and share.",
+    "stars": 53,
+    "forks": 18,
+    "languages": {
+      "TypeScript": 44136,
+      "JavaScript": 6925,
+      "Vue": 1334
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 203.58,
+    "S_code": 51.17,
+    "S_social": 89,
+    "S_maint": 0
+  },
+  {
+    "name": "js-notifier",
+    "full_name": "codex-team/js-notifier",
+    "html_url": "https://github.com/codex-team/js-notifier",
+    "description": "Notifications for websites",
+    "stars": 51,
+    "forks": 10,
+    "languages": {
+      "JavaScript": 5745,
+      "CSS": 3507
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 146.52,
+    "S_code": 9.04,
+    "S_social": 71,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.shortcuts",
+    "full_name": "codex-team/codex.shortcuts",
+    "html_url": "https://github.com/codex-team/codex.shortcuts",
+    "description": " Micro-library for dispatching keyboard shortcuts in Javascript",
+    "stars": 50,
+    "forks": 7,
+    "languages": {
+      "JavaScript": 5976,
+      "HTML": 806
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 131.31,
+    "S_code": 6.62,
+    "S_social": 64,
+    "S_maint": 0
+  },
+  {
+    "name": "email-provider",
+    "full_name": "codex-team/email-provider",
+    "html_url": "https://github.com/codex-team/email-provider",
+    "description": "Detect email provider by address",
+    "stars": 47,
+    "forks": 4,
+    "languages": {
+      "JavaScript": 5633
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 112.75,
+    "S_code": 5.5,
+    "S_social": 55,
+    "S_maint": 0
+  },
+  {
+    "name": "action-check-domain",
+    "full_name": "codex-team/action-check-domain",
+    "html_url": "https://github.com/codex-team/action-check-domain",
+    "description": "Watch SSL certs and registry date expiring for your domains",
+    "stars": 40,
+    "forks": 10,
+    "languages": {
+      "JavaScript": 3682
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 121.8,
+    "S_code": 3.6,
+    "S_social": 60,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.bot",
+    "full_name": "codex-team/codex.bot",
+    "html_url": "https://github.com/codex-team/codex.bot",
+    "description": "Working team assistant",
+    "stars": 40,
+    "forks": 12,
+    "languages": {
+      "Python": 89247,
+      "Shell": 401,
+      "Dockerfile": 202
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 171.87,
+    "S_code": 87.74,
+    "S_social": 64,
+    "S_maint": 0
+  },
+  {
+    "name": "ajax",
+    "full_name": "codex-team/ajax",
+    "html_url": "https://github.com/codex-team/ajax",
+    "description": "Just another AJAX requests helper",
+    "stars": 35,
+    "forks": 11,
+    "languages": {
+      "JavaScript": 19972,
+      "HTML": 6325
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 126.84,
+    "S_code": 25.68,
+    "S_social": 57,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.mono",
+    "full_name": "codex-team/hawk.mono",
+    "html_url": "https://github.com/codex-team/hawk.mono",
+    "description": "Open-source errors tracker",
+    "stars": 31,
+    "forks": 0,
+    "languages": {
+      "Shell": 2138,
+      "PowerShell": 673
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 63.37,
+    "S_code": 2.75,
+    "S_social": 31,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.javascript",
+    "full_name": "codex-team/hawk.javascript",
+    "html_url": "https://github.com/codex-team/hawk.javascript",
+    "description": "JavaScript errors tracker",
+    "stars": 29,
+    "forks": 4,
+    "languages": {
+      "TypeScript": 62261,
+      "HTML": 9745,
+      "JavaScript": 3550
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 110.89,
+    "S_code": 73.79,
+    "S_social": 37,
+    "S_maint": 0
+  },
+  {
+    "name": "check-ssl-cert-expire-date",
+    "full_name": "codex-team/check-ssl-cert-expire-date",
+    "html_url": "https://github.com/codex-team/check-ssl-cert-expire-date",
+    "description": "Checks SSL certificates expire date and sends alerts to the Slack or Telegram when date X is coming",
+    "stars": 29,
+    "forks": 13,
+    "languages": {
+      "Python": 3145,
+      "Dockerfile": 193
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 111.63,
+    "S_code": 3.26,
+    "S_social": 55,
+    "S_maint": 0
+  },
+  {
+    "name": "deployserver",
+    "full_name": "codex-team/deployserver",
+    "html_url": "https://github.com/codex-team/deployserver",
+    "description": "Deploy your project automatically when git branch was updated.",
+    "stars": 28,
+    "forks": 5,
+    "languages": {
+      "Python": 10237
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 81.0,
+    "S_code": 10.0,
+    "S_social": 38,
+    "S_maint": 0
+  },
+  {
+    "name": "capella-tray",
+    "full_name": "codex-team/capella-tray",
+    "html_url": "https://github.com/codex-team/capella-tray",
+    "description": "Upload screenshots instantly to Capella and get link directly to clipboard",
+    "stars": 26,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 6584
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 63.21,
+    "S_code": 6.43,
+    "S_social": 30,
+    "S_maint": 0
+  },
+  {
+    "name": "codex",
+    "full_name": "codex-team/codex",
+    "html_url": "https://github.com/codex-team/codex",
+    "description": "Codex Team website",
+    "stars": 24,
+    "forks": 12,
+    "languages": {
+      "PHP": 1703332,
+      "CSS": 405510,
+      "JavaScript": 200081,
+      "Hack": 38810,
+      "Dockerfile": 2922,
+      "HTML": 2815,
+      "Shell": 1995
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1246.13,
+    "S_code": 2300.26,
+    "S_social": 48,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.tooltips",
+    "full_name": "codex-team/codex.tooltips",
+    "html_url": "https://github.com/codex-team/codex.tooltips",
+    "description": "JavaScript module to add custom tooltips to any element",
+    "stars": 23,
+    "forks": 9,
+    "languages": {
+      "TypeScript": 11100,
+      "CSS": 2305,
+      "JavaScript": 2289,
+      "HTML": 1504
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 90.4,
+    "S_code": 16.79,
+    "S_social": 41,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.php",
+    "full_name": "codex-team/hawk.php",
+    "html_url": "https://github.com/codex-team/hawk.php",
+    "description": "PHP Errors catching and monitoring",
+    "stars": 22,
+    "forks": 4,
+    "languages": {
+      "PHP": 62524
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 90.53,
+    "S_code": 61.06,
+    "S_social": 30,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.desktop",
+    "full_name": "codex-team/hawk.desktop",
+    "html_url": "https://github.com/codex-team/hawk.desktop",
+    "description": "Hawk.so desktop client",
+    "stars": 17,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 10082,
+      "CSS": 2680
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 52.23,
+    "S_code": 12.46,
+    "S_social": 23,
+    "S_maint": 0
+  },
+  {
+    "name": "html-slacker",
+    "full_name": "codex-team/html-slacker",
+    "html_url": "https://github.com/codex-team/html-slacker",
+    "description": "Converts HTML to Slack formatted markdown",
+    "stars": 17,
+    "forks": 17,
+    "languages": {
+      "Python": 5169
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 104.52,
+    "S_code": 5.05,
+    "S_social": 51,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.garage",
+    "full_name": "codex-team/hawk.garage",
+    "html_url": "https://github.com/codex-team/hawk.garage",
+    "description": "Hawk 2.0 web client",
+    "stars": 15,
+    "forks": 1,
+    "languages": {
+      "Vue": 569714,
+      "TypeScript": 185331,
+      "JavaScript": 106370,
+      "CSS": 12300,
+      "MDX": 2504,
+      "HTML": 1975,
+      "Dockerfile": 519,
+      "Shell": 292
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 463.2,
+    "S_code": 858.4,
+    "S_social": 17,
+    "S_maint": 0
+  },
+  {
+    "name": "stimagebot",
+    "full_name": "codex-team/stimagebot",
+    "html_url": "https://github.com/codex-team/stimagebot",
+    "description": "Get images of your favourite stickers :star:",
+    "stars": 14,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 4065,
+      "Dockerfile": 79
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 38.02,
+    "S_code": 4.05,
+    "S_social": 18,
+    "S_maint": 0
+  },
+  {
+    "name": "notes.web",
+    "full_name": "codex-team/notes.web",
+    "html_url": "https://github.com/codex-team/notes.web",
+    "description": null,
+    "stars": 11,
+    "forks": 6,
+    "languages": {
+      "Vue": 218546,
+      "TypeScript": 182572,
+      "CSS": 28202,
+      "JavaScript": 6503,
+      "HTML": 1132,
+      "Dockerfile": 561
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 259.63,
+    "S_code": 427.26,
+    "S_social": 23,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.nodejs",
+    "full_name": "codex-team/hawk.nodejs",
+    "html_url": "https://github.com/codex-team/hawk.nodejs",
+    "description": "Node.js catcher for Hawk",
+    "stars": 11,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 16083,
+      "JavaScript": 3016
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 31.33,
+    "S_code": 18.65,
+    "S_social": 11,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.special",
+    "full_name": "codex-team/codex.special",
+    "html_url": "https://github.com/codex-team/codex.special",
+    "description": "Module for making high-contrast version of websites. Simple usage.",
+    "stars": 10,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 13018,
+      "CSS": 6407,
+      "HTML": 1465
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 42.2,
+    "S_code": 20.4,
+    "S_social": 16,
+    "S_maint": 0
+  },
+  {
+    "name": "webpack-build-config",
+    "full_name": "codex-team/webpack-build-config",
+    "html_url": "https://github.com/codex-team/webpack-build-config",
+    "description": null,
+    "stars": 10,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 2452,
+      "CSS": 100
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 33.25,
+    "S_code": 2.49,
+    "S_social": 16,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.python",
+    "full_name": "codex-team/hawk.python",
+    "html_url": "https://github.com/codex-team/hawk.python",
+    "description": "Codex Hawk python catcher",
+    "stars": 9,
+    "forks": 3,
+    "languages": {
+      "Python": 27570,
+      "Makefile": 1077
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 43.99,
+    "S_code": 27.98,
+    "S_social": 15,
+    "S_maint": 0
+  },
+  {
+    "name": "python-queue",
+    "full_name": "codex-team/python-queue",
+    "html_url": "https://github.com/codex-team/python-queue",
+    "description": null,
+    "stars": 9,
+    "forks": 4,
+    "languages": {
+      "Python": 2828
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.38,
+    "S_code": 2.76,
+    "S_social": 17,
+    "S_maint": 0
+  },
+  {
+    "name": "html-css-practice",
+    "full_name": "codex-team/html-css-practice",
+    "html_url": "https://github.com/codex-team/html-css-practice",
+    "description": "Making Facebook for several minutes",
+    "stars": 9,
+    "forks": 4,
+    "languages": {
+      "HTML": 17575,
+      "CSS": 7502
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 46.24,
+    "S_code": 24.49,
+    "S_social": 17,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.workers",
+    "full_name": "codex-team/hawk.workers",
+    "html_url": "https://github.com/codex-team/hawk.workers",
+    "description": "Hawk workers system",
+    "stars": 8,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 563564,
+      "JavaScript": 65940,
+      "Twig": 57302,
+      "PHP": 2163,
+      "Dockerfile": 541,
+      "Shell": 441
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 356.89,
+    "S_code": 673.78,
+    "S_social": 10,
+    "S_maint": 0
+  },
+  {
+    "name": "moduleDispatcher",
+    "full_name": "codex-team/moduleDispatcher",
+    "html_url": "https://github.com/codex-team/moduleDispatcher",
+    "description": "CodeX Module Dispatcher",
+    "stars": 8,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 9014,
+      "HTML": 762
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 32.77,
+    "S_code": 9.55,
+    "S_social": 14,
+    "S_maint": 0
+  },
+  {
+    "name": "kohana-aliases",
+    "full_name": "codex-team/kohana-aliases",
+    "html_url": "https://github.com/codex-team/kohana-aliases",
+    "description": "Module which allows you to create beautiful URL's",
+    "stars": 8,
+    "forks": 2,
+    "languages": {
+      "PHP": 18656
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 33.11,
+    "S_code": 18.22,
+    "S_social": 12,
+    "S_maint": 0
+  },
+  {
+    "name": "AR-Tester",
+    "full_name": "codex-team/AR-Tester",
+    "html_url": "https://github.com/codex-team/AR-Tester",
+    "description": "Test your site's layout on the virtual devices at Augmented Reality",
+    "stars": 8,
+    "forks": 4,
+    "languages": {
+      "Swift": 12852,
+      "Shell": 3595,
+      "Ruby": 100
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 40.08,
+    "S_code": 16.16,
+    "S_social": 16,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.api.nodejs",
+    "full_name": "codex-team/hawk.api.nodejs",
+    "html_url": "https://github.com/codex-team/hawk.api.nodejs",
+    "description": "GraphQL API for Hawk Garage",
+    "stars": 7,
+    "forks": 2,
+    "languages": {
+      "TypeScript": 368123,
+      "JavaScript": 124657,
+      "Shell": 1363
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 263.28,
+    "S_code": 482.56,
+    "S_social": 11,
+    "S_maint": 0
+  },
+  {
+    "name": "eslint-config",
+    "full_name": "codex-team/eslint-config",
+    "html_url": "https://github.com/codex-team/eslint-config",
+    "description": "CodeX basic eslint configuration",
+    "stars": 7,
+    "forks": 4,
+    "languages": {
+      "JavaScript": 20123,
+      "Vue": 3882,
+      "TypeScript": 931
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 42.18,
+    "S_code": 24.35,
+    "S_social": 15,
+    "S_maint": 0
+  },
+  {
+    "name": "action-codexbot-notify",
+    "full_name": "codex-team/action-codexbot-notify",
+    "html_url": "https://github.com/codex-team/action-codexbot-notify",
+    "description": "This action sends a notification message to Telegram or Slack chat",
+    "stars": 7,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 1742
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22.85,
+    "S_code": 1.7,
+    "S_social": 11,
+    "S_maint": 0
+  },
+  {
+    "name": "transport",
+    "full_name": "codex-team/transport",
+    "html_url": "https://github.com/codex-team/transport",
+    "description": "One click file uploader",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3842
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.88,
+    "S_code": 3.75,
+    "S_social": 6,
+    "S_maint": 0
+  },
+  {
+    "name": "capella.php",
+    "full_name": "codex-team/capella.php",
+    "html_url": "https://github.com/codex-team/capella.php",
+    "description": "PHP SDK for CodeX Capella project",
+    "stars": 6,
+    "forks": 1,
+    "languages": {
+      "PHP": 9775
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.77,
+    "S_code": 9.55,
+    "S_social": 8,
+    "S_maint": 0
+  },
+  {
+    "name": "flux-webhook-autoreconciler",
+    "full_name": "codex-team/flux-webhook-autoreconciler",
+    "html_url": "https://github.com/codex-team/flux-webhook-autoreconciler",
+    "description": null,
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Go": 20884,
+      "Smarty": 1982,
+      "Dockerfile": 585
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 21.45,
+    "S_code": 22.9,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.notes.server",
+    "full_name": "codex-team/codex.notes.server",
+    "html_url": "https://github.com/codex-team/codex.notes.server",
+    "description": "Cloud for the CodeX Notes",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "PHP": 123048,
+      "CSS": 2151,
+      "Dockerfile": 1921,
+      "Shell": 646,
+      "Hack": 197
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 72.48,
+    "S_code": 124.96,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "tinkoff-api",
+    "full_name": "codex-team/tinkoff-api",
+    "html_url": "https://github.com/codex-team/tinkoff-api",
+    "description": "NodeJS SDK for Tinkoff Acquiring API",
+    "stars": 5,
+    "forks": 4,
+    "languages": {
+      "TypeScript": 8486,
+      "JavaScript": 341
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 30.31,
+    "S_code": 8.62,
+    "S_social": 13,
+    "S_maint": 0
+  },
+  {
+    "name": "reactions",
+    "full_name": "codex-team/reactions",
+    "html_url": "https://github.com/codex-team/reactions",
+    "description": "Light-weight reactions module",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 30711,
+      "CSS": 2505,
+      "JavaScript": 827,
+      "HTML": 742
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 26.98,
+    "S_code": 33.97,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "pycapella",
+    "full_name": "codex-team/pycapella",
+    "html_url": "https://github.com/codex-team/pycapella",
+    "description": "Python SDK for capella.pics",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Python": 8385
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.09,
+    "S_code": 8.19,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "docker",
+    "full_name": "codex-team/docker",
+    "html_url": "https://github.com/codex-team/docker",
+    "description": "Simple container with Nginx, PHP, MySQL",
+    "stars": 5,
+    "forks": 5,
+    "languages": {
+      "PHP": 2900
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 31.42,
+    "S_code": 2.83,
+    "S_social": 15,
+    "S_maint": 0
+  },
+  {
+    "name": "notes.api",
+    "full_name": "codex-team/notes.api",
+    "html_url": "https://github.com/codex-team/notes.api",
+    "description": null,
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "TypeScript": 384703,
+      "JavaScript": 3666,
+      "Dockerfile": 615,
+      "Shell": 35
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 205.95,
+    "S_code": 379.9,
+    "S_social": 8,
+    "S_maint": 0
+  },
+  {
+    "name": "editorjs.io",
+    "full_name": "codex-team/editorjs.io",
+    "html_url": "https://github.com/codex-team/editorjs.io",
+    "description": "Source code of the Editor.js homepage",
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "Vue": 49111,
+      "TypeScript": 1850,
+      "CSS": 1385,
+      "Shell": 343
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 41.73,
+    "S_code": 51.45,
+    "S_social": 8,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.music",
+    "full_name": "codex-team/codex.music",
+    "html_url": "https://github.com/codex-team/codex.music",
+    "description": "WIP: Dehumanised engine for generating Chillout music 🎶",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 18814,
+      "HTML": 4652,
+      "JavaScript": 919
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.91,
+    "S_code": 23.81,
+    "S_social": 6,
+    "S_maint": 0
+  },
+  {
+    "name": "action-nodejs-package-info",
+    "full_name": "codex-team/action-nodejs-package-info",
+    "html_url": "https://github.com/codex-team/action-nodejs-package-info",
+    "description": "Action for getting information from package.json file",
+    "stars": 4,
+    "forks": 4,
+    "languages": {
+      "JavaScript": 1048
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 24.51,
+    "S_code": 1.02,
+    "S_social": 12,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.notes.android",
+    "full_name": "codex-team/codex.notes.android",
+    "html_url": "https://github.com/codex-team/codex.notes.android",
+    "description": "CodeX Notes for Android",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Kotlin": 113058
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 63.2,
+    "S_code": 110.41,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.go",
+    "full_name": "codex-team/hawk.go",
+    "html_url": "https://github.com/codex-team/hawk.go",
+    "description": "Hawk catcher for Golang",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "Go": 21474,
+      "Makefile": 70
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22.52,
+    "S_code": 21.04,
+    "S_social": 6,
+    "S_maint": 0
+  },
+  {
+    "name": "capella.nodejs",
+    "full_name": "codex-team/capella.nodejs",
+    "html_url": "https://github.com/codex-team/capella.nodejs",
+    "description": "Capella SDK for Node.js",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3039
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.48,
+    "S_code": 2.97,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.so",
+    "full_name": "codex-team/hawk.so",
+    "html_url": "https://github.com/codex-team/hawk.so",
+    "description": null,
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Vue": 53602,
+      "JavaScript": 3459,
+      "CSS": 1048,
+      "TypeScript": 410,
+      "Dockerfile": 358
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 38.75,
+    "S_code": 57.5,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.kotlin",
+    "full_name": "codex-team/hawk.kotlin",
+    "html_url": "https://github.com/codex-team/hawk.kotlin",
+    "description": "Kotlin Catcher for Hawk.so",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Kotlin": 29131
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 24.22,
+    "S_code": 28.45,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "culture-of-art",
+    "full_name": "codex-team/culture-of-art",
+    "html_url": "https://github.com/codex-team/culture-of-art",
+    "description": "Dummy page for «Culture of Art» project",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "CSS": 1734,
+      "HTML": 625,
+      "JavaScript": 213
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.26,
+    "S_code": 2.51,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "task-manager",
+    "full_name": "codex-team/task-manager",
+    "html_url": "https://github.com/codex-team/task-manager",
+    "description": null,
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "TypeScript": 173666,
+      "JavaScript": 7619,
+      "Dockerfile": 1836,
+      "HTML": 403
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 103.61,
+    "S_code": 179.22,
+    "S_social": 7,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.android.catcher",
+    "full_name": "codex-team/hawk.android.catcher",
+    "html_url": "https://github.com/codex-team/hawk.android.catcher",
+    "description": "Android errors Catcher module for Hawk.so",
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "Kotlin": 21919,
+      "Java": 14448
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 31.76,
+    "S_code": 35.51,
+    "S_social": 7,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.tunnel",
+    "full_name": "codex-team/codex.tunnel",
+    "html_url": "https://github.com/codex-team/codex.tunnel",
+    "description": "Expose your project via codex.tunnel",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Go": 11464,
+      "Python": 2293,
+      "Dockerfile": 1074,
+      "Shell": 597,
+      "C++": 161
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.61,
+    "S_code": 15.22,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.editor.sandbox",
+    "full_name": "codex-team/codex.editor.sandbox",
+    "html_url": "https://github.com/codex-team/codex.editor.sandbox",
+    "description": "Dockerized CodeX Editor backend with example application.",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "HTML": 4659,
+      "PHP": 2935,
+      "Dockerfile": 771
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.08,
+    "S_code": 8.17,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "announcer-landing",
+    "full_name": "codex-team/announcer-landing",
+    "html_url": "https://github.com/codex-team/announcer-landing",
+    "description": "Admin page for @itmoabitbot announcements",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "CSS": 5920,
+      "HTML": 2189,
+      "JavaScript": 2187
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.03,
+    "S_code": 10.05,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "vue-tutorial",
+    "full_name": "codex-team/vue-tutorial",
+    "html_url": "https://github.com/codex-team/vue-tutorial",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Vue": 3206,
+      "JavaScript": 1535,
+      "HTML": 161
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.39,
+    "S_code": 4.79,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "capella.go",
+    "full_name": "codex-team/capella.go",
+    "html_url": "https://github.com/codex-team/capella.go",
+    "description": "Capella SDK for Golang",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Go": 3067
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.5,
+    "S_code": 3.0,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.backup",
+    "full_name": "codex-team/codex.backup",
+    "html_url": "https://github.com/codex-team/codex.backup",
+    "description": "Simple shell script for server backups to the cloud",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "PHP": 1016,
+      "Shell": 325
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.65,
+    "S_code": 1.31,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.notes.ios",
+    "full_name": "codex-team/codex.notes.ios",
+    "html_url": "https://github.com/codex-team/codex.notes.ios",
+    "description": "Codex Notes for iOS ",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Swift": 16192,
+      "Liquid": 10607
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.09,
+    "S_code": 26.17,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "logs-checker",
+    "full_name": "codex-team/logs-checker",
+    "html_url": "https://github.com/codex-team/logs-checker",
+    "description": "Script for checking server's log-files updates.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "PHP": 5167
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.52,
+    "S_code": 5.05,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "node-playground",
+    "full_name": "codex-team/node-playground",
+    "html_url": "https://github.com/codex-team/node-playground",
+    "description": "Sources from CodeX Meetup about making real-time application with Nodejs, Express, Socket.io",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3729,
+      "HTML": 708,
+      "CSS": 361
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.34,
+    "S_code": 4.69,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "action-pr-assistant",
+    "full_name": "codex-team/action-pr-assistant",
+    "html_url": "https://github.com/codex-team/action-pr-assistant",
+    "description": "Automatic PR checks for description and linked issues",
+    "stars": 2,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 4.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.collector",
+    "full_name": "codex-team/hawk.collector",
+    "html_url": "https://github.com/codex-team/hawk.collector",
+    "description": "High-performance messages collector for the Hawk project",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Go": 71807,
+      "Makefile": 1284,
+      "Dockerfile": 579
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 39.97,
+    "S_code": 71.94,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.laravel",
+    "full_name": "codex-team/hawk.laravel",
+    "html_url": "https://github.com/codex-team/hawk.laravel",
+    "description": "Hawk Laravel SDK",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "PHP": 21311
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 18.41,
+    "S_code": 20.81,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.symfony",
+    "full_name": "codex-team/hawk.symfony",
+    "html_url": "https://github.com/codex-team/hawk.symfony",
+    "description": "Symfony errors Catcher module for Hawk.so",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "PHP": 12315
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.01,
+    "S_code": 12.03,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "opencollective-webhook",
+    "full_name": "codex-team/opencollective-webhook",
+    "html_url": "https://github.com/codex-team/opencollective-webhook",
+    "description": "Service that checks opencollective API and informs you about new donations via Telegram and CodeX.Bot",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Go": 5301,
+      "Dockerfile": 310
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.74,
+    "S_code": 5.48,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.docs.chart",
+    "full_name": "codex-team/codex.docs.chart",
+    "html_url": "https://github.com/codex-team/codex.docs.chart",
+    "description": "Helm chart for deploying CodeX Docs",
+    "stars": 2,
+    "forks": 3,
+    "languages": {
+      "Smarty": 3078
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.5,
+    "S_code": 3.01,
+    "S_social": 8,
+    "S_maint": 0
+  },
+  {
+    "name": "k8s-backup-mysql",
+    "full_name": "codex-team/k8s-backup-mysql",
+    "html_url": "https://github.com/codex-team/k8s-backup-mysql",
+    "description": "kubernetes-mysql-backup is a Docker Image based on Alpine Linux that automatically performs backups of MySQL databases, before uploading them to Amazon S3. It is designed to be run as a Cronjob in Kubernetes for scheduled database backups. It also features Slack integration.",
+    "stars": 2,
+    "forks": 7,
+    "languages": {
+      "Shell": 2725,
+      "Dockerfile": 393
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 33.52,
+    "S_code": 3.04,
+    "S_social": 16,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.smm",
+    "full_name": "codex-team/codex.smm",
+    "html_url": "https://github.com/codex-team/codex.smm",
+    "description": "SMM assistant. Reminds you to write something to you followers.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6704
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.27,
+    "S_code": 6.55,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.bot.chart",
+    "full_name": "codex-team/codex.bot.chart",
+    "html_url": "https://github.com/codex-team/codex.bot.chart",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Smarty": 5346
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.61,
+    "S_code": 5.22,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.workers.go",
+    "full_name": "codex-team/hawk.workers.go",
+    "html_url": "https://github.com/codex-team/hawk.workers.go",
+    "description": "Experimental Golang worker implementation",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Go": 14313
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.99,
+    "S_code": 13.98,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "ctproto",
+    "full_name": "codex-team/ctproto",
+    "html_url": "https://github.com/codex-team/ctproto",
+    "description": "CodeX Transport Protocol",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 61442,
+      "JavaScript": 6672,
+      "HTML": 136
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 37.33,
+    "S_code": 66.65,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "domain-checker",
+    "full_name": "codex-team/domain-checker",
+    "html_url": "https://github.com/codex-team/domain-checker",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 39574,
+      "CSS": 1871,
+      "HTML": 596
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 24.53,
+    "S_code": 41.06,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "capella.scala",
+    "full_name": "codex-team/capella.scala",
+    "html_url": "https://github.com/codex-team/capella.scala",
+    "description": "Capella SDK for Scala",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Scala": 10090
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.93,
+    "S_code": 9.85,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "article-ci",
+    "full_name": "codex-team/article-ci",
+    "html_url": "https://github.com/codex-team/article-ci",
+    "description": "Demo code for CI article on ifmo.su",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 1774
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.87,
+    "S_code": 1.73,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "cover-generator",
+    "full_name": "codex-team/cover-generator",
+    "html_url": "https://github.com/codex-team/cover-generator",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 38512,
+      "CSS": 5465,
+      "HTML": 573
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 25.75,
+    "S_code": 43.51,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "codex-orion",
+    "full_name": "codex-team/codex-orion",
+    "html_url": "https://github.com/codex-team/codex-orion",
+    "description": "News analysis project",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Scala": 21936
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.71,
+    "S_code": 21.42,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.webpack.plugin",
+    "full_name": "codex-team/hawk.webpack.plugin",
+    "html_url": "https://github.com/codex-team/hawk.webpack.plugin",
+    "description": "Webpack plugin for sending source maps to the Hawk",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 15484,
+      "HTML": 278
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.7,
+    "S_code": 15.39,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.vite.plugin",
+    "full_name": "codex-team/hawk.vite.plugin",
+    "html_url": "https://github.com/codex-team/hawk.vite.plugin",
+    "description": "JS errors tracking with Vite",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 7477
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.65,
+    "S_code": 7.3,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.java",
+    "full_name": "codex-team/hawk.java",
+    "html_url": "https://github.com/codex-team/hawk.java",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 28207
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.77,
+    "S_code": 27.55,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "workflow",
+    "full_name": "codex-team/workflow",
+    "html_url": "https://github.com/codex-team/workflow",
+    "description": "Sprint backlog, daily meetings, and PRs notifications to the team chat",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 23677,
+      "Dockerfile": 89
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 21.6,
+    "S_code": 23.21,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "codex-accounting-sdk",
+    "full_name": "codex-team/codex-accounting-sdk",
+    "html_url": "https://github.com/codex-team/codex-accounting-sdk",
+    "description": "Simple SDK for communicating with CodeX Accounting",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 8923,
+      "JavaScript": 8795
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.65,
+    "S_code": 17.3,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "typescript-lib-template",
+    "full_name": "codex-team/typescript-lib-template",
+    "html_url": "https://github.com/codex-team/typescript-lib-template",
+    "description": "A quick start template for a new TypeScript library 💅🏻",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1472,
+      "JavaScript": 995
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.2,
+    "S_code": 2.41,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "codex-accounting",
+    "full_name": "codex-team/codex-accounting",
+    "html_url": "https://github.com/codex-team/codex-accounting",
+    "description": "Microservice for accounting",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 54672,
+      "JavaScript": 2891
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 34.11,
+    "S_code": 56.21,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "fastDeployServer",
+    "full_name": "codex-team/fastDeployServer",
+    "html_url": "https://github.com/codex-team/fastDeployServer",
+    "description": "Service that will stop and restart your docker-compose services on the fly based on images",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Go": 15099
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.37,
+    "S_code": 14.75,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "web3-payment-gateway",
+    "full_name": "codex-team/web3-payment-gateway",
+    "html_url": "https://github.com/codex-team/web3-payment-gateway",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 4604
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.25,
+    "S_code": 4.5,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "codex-surveys",
+    "full_name": "codex-team/codex-surveys",
+    "html_url": "https://github.com/codex-team/codex-surveys",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 13005,
+      "CSS": 3213,
+      "HTML": 1943,
+      "JavaScript": 821
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.27,
+    "S_code": 18.54,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "codex-surveys-proxy",
+    "full_name": "codex-team/codex-surveys-proxy",
+    "html_url": "https://github.com/codex-team/codex-surveys-proxy",
+    "description": "Proxy to access Notion API via CodeX Surveys",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "manager-ai",
+    "full_name": "codex-team/manager-ai",
+    "html_url": "https://github.com/codex-team/manager-ai",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Python": 20059,
+      "Dockerfile": 205
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.89,
+    "S_code": 19.79,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "whocame",
+    "full_name": "codex-team/whocame",
+    "html_url": "https://github.com/codex-team/whocame",
+    "description": "Bot that knows who come to the office",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Go": 8199,
+      "Dockerfile": 207
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.1,
+    "S_code": 8.21,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.langbot",
+    "full_name": "codex-team/codex.langbot",
+    "html_url": "https://github.com/codex-team/codex.langbot",
+    "description": "Bot that automatically translate any Russian message to English in Telegram chat",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Python": 1930,
+      "Dockerfile": 166
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.02,
+    "S_code": 2.05,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "mongodb-changes-notifier",
+    "full_name": "codex-team/mongodb-changes-notifier",
+    "html_url": "https://github.com/codex-team/mongodb-changes-notifier",
+    "description": "With this tool you'll be able to be notified of any data changes in MongoDB",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Go": 7122,
+      "Makefile": 745,
+      "Dockerfile": 395
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.03,
+    "S_code": 8.07,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.meetup.bot",
+    "full_name": "codex-team/codex.meetup.bot",
+    "html_url": "https://github.com/codex-team/codex.meetup.bot",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 22766
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.12,
+    "S_code": 22.23,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "devops-monitor",
+    "full_name": "codex-team/devops-monitor",
+    "html_url": "https://github.com/codex-team/devops-monitor",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Shell": 8559
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.18,
+    "S_code": 8.36,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.misprints",
+    "full_name": "codex-team/codex.misprints",
+    "html_url": "https://github.com/codex-team/codex.misprints",
+    "description": "Module for sendings misprints to Slack and Telegram",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2798,
+      "HTML": 1420,
+      "JavaScript": 345
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.23,
+    "S_code": 4.46,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "uptime-monitor.workers",
+    "full_name": "codex-team/uptime-monitor.workers",
+    "html_url": "https://github.com/codex-team/uptime-monitor.workers",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 17580,
+      "Shell": 533
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.84,
+    "S_code": 17.69,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.scala",
+    "full_name": "codex-team/hawk.scala",
+    "html_url": "https://github.com/codex-team/hawk.scala",
+    "description": "Hawk catcher for Scala",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Scala": 2911
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.42,
+    "S_code": 2.84,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.notes.server-nodejs",
+    "full_name": "codex-team/codex.notes.server-nodejs",
+    "html_url": "https://github.com/codex-team/codex.notes.server-nodejs",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 11004
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.37,
+    "S_code": 10.75,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.bot.v3",
+    "full_name": "codex-team/codex.bot.v3",
+    "html_url": "https://github.com/codex-team/codex.bot.v3",
+    "description": "Bot that let you to control everything from Telegram and Slack.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 82381
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 42.23,
+    "S_code": 80.45,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "dev",
+    "full_name": "codex-team/dev",
+    "html_url": "https://github.com/codex-team/dev",
+    "description": "Repository for development needs",
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 4.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.types",
+    "full_name": "codex-team/hawk.types",
+    "html_url": "https://github.com/codex-team/hawk.types",
+    "description": "Common Hawk types for all projects",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 37505,
+      "JavaScript": 9712
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.06,
+    "S_code": 46.11,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk-tracker.ru",
+    "full_name": "codex-team/hawk-tracker.ru",
+    "html_url": "https://github.com/codex-team/hawk-tracker.ru",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vue": 146046,
+      "CSS": 17689,
+      "TypeScript": 6108,
+      "JavaScript": 4661,
+      "Dockerfile": 358
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 85.38,
+    "S_code": 170.76,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.cron-manager",
+    "full_name": "codex-team/hawk.cron-manager",
+    "html_url": "https://github.com/codex-team/hawk.cron-manager",
+    "description": "Manager for scheduling adding new tasks to the Hawk registry ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 7899,
+      "JavaScript": 6541
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.05,
+    "S_code": 14.1,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.nuxt",
+    "full_name": "codex-team/hawk.nuxt",
+    "html_url": "https://github.com/codex-team/hawk.nuxt",
+    "description": "Module for integration of Hawk.so error tracker to Nuxt 3 app",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 9298,
+      "Vue": 1259,
+      "JavaScript": 428
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.36,
+    "S_code": 10.73,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.react-native",
+    "full_name": "codex-team/hawk.react-native",
+    "html_url": "https://github.com/codex-team/hawk.react-native",
+    "description": "Codex Hawk React Native catcher",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1472,
+      "JavaScript": 995
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.2,
+    "S_code": 2.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "codex-figma-notify",
+    "full_name": "codex-team/codex-figma-notify",
+    "html_url": "https://github.com/codex-team/codex-figma-notify",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 10704,
+      "Dockerfile": 160
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.3,
+    "S_code": 10.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk-cli",
+    "full_name": "codex-team/hawk-cli",
+    "html_url": "https://github.com/codex-team/hawk-cli",
+    "description": "Commands for using Hawk in Node.js",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "github-workflows",
+    "full_name": "codex-team/github-workflows",
+    "html_url": "https://github.com/codex-team/github-workflows",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "test-fluxcd-webhook",
+    "full_name": "codex-team/test-fluxcd-webhook",
+    "html_url": "https://github.com/codex-team/test-fluxcd-webhook",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "config-loader",
+    "full_name": "codex-team/config-loader",
+    "html_url": "https://github.com/codex-team/config-loader",
+    "description": "Config loader for Cloud Native applications",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 4669,
+      "Shell": 65
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.31,
+    "S_code": 4.62,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "codex.collaboration",
+    "full_name": "codex-team/codex.collaboration",
+    "html_url": "https://github.com/codex-team/codex.collaboration",
+    "description": "WIP: collaboration editing module",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 619,
+      "TypeScript": 1
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.3,
+    "S_code": 0.61,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "devops-monitor-backend",
+    "full_name": "codex-team/devops-monitor-backend",
+    "html_url": "https://github.com/codex-team/devops-monitor-backend",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 16227,
+      "Shell": 438,
+      "JavaScript": 243,
+      "Dockerfile": 165
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.34,
+    "S_code": 16.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "k8s-backup-redis",
+    "full_name": "codex-team/k8s-backup-redis",
+    "html_url": "https://github.com/codex-team/k8s-backup-redis",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dockerfile": 251
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.12,
+    "S_code": 0.25,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "brand-watcher",
+    "full_name": "codex-team/brand-watcher",
+    "html_url": "https://github.com/codex-team/brand-watcher",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 17160,
+      "Go": 4049,
+      "Dockerfile": 717
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.71,
+    "S_code": 21.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "devops-monitor-frontend",
+    "full_name": "codex-team/devops-monitor-frontend",
+    "html_url": "https://github.com/codex-team/devops-monitor-frontend",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vue": 5955,
+      "TypeScript": 2269,
+      "HTML": 687,
+      "JavaScript": 522
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.61,
+    "S_code": 9.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.garage.react",
+    "full_name": "codex-team/hawk.garage.react",
+    "html_url": "https://github.com/codex-team/hawk.garage.react",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 24358,
+      "CSS": 10843,
+      "JavaScript": 760,
+      "HTML": 404
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 21.76,
+    "S_code": 35.51,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.registry",
+    "full_name": "codex-team/hawk.registry",
+    "html_url": "https://github.com/codex-team/hawk.registry",
+    "description": "Registry for handling workers",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "k8s-backup-mongodb",
+    "full_name": "codex-team/k8s-backup-mongodb",
+    "html_url": "https://github.com/codex-team/k8s-backup-mongodb",
+    "description": "Schedule MongoDB Backup to S3 using Kubernetes CronJob.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Smarty": 1892,
+      "Shell": 1082,
+      "Dockerfile": 488
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.69,
+    "S_code": 3.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.releases",
+    "full_name": "codex-team/hawk.releases",
+    "html_url": "https://github.com/codex-team/hawk.releases",
+    "description": "Useful scripts and guides for sending releases to Hawk",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 2565,
+      "JavaScript": 1332
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.9,
+    "S_code": 3.81,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.android",
+    "full_name": "codex-team/hawk.android",
+    "html_url": "https://github.com/codex-team/hawk.android",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Kotlin": 139737
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 72.23,
+    "S_code": 136.46,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "graphql-directive-default",
+    "full_name": "codex-team/graphql-directive-default",
+    "html_url": "https://github.com/codex-team/graphql-directive-default",
+    "description": "GraphQL directive for applying default values to nullable fields",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 15309
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.48,
+    "S_code": 14.95,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ansible-meetup",
+    "full_name": "codex-team/ansible-meetup",
+    "html_url": "https://github.com/codex-team/ansible-meetup",
+    "description": "Materials from CodeX Meetup: Ansible (July 2021)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 1257
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.61,
+    "S_code": 1.23,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "queues-monitor",
+    "full_name": "codex-team/queues-monitor",
+    "html_url": "https://github.com/codex-team/queues-monitor",
+    "description": "Tool for monitoring RabbitMQ queues with Prometheus",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 5509,
+      "Makefile": 27
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.7,
+    "S_code": 5.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "devops-toolbox-api",
+    "full_name": "codex-team/devops-toolbox-api",
+    "html_url": "https://github.com/codex-team/devops-toolbox-api",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 16114,
+      "JavaScript": 6668,
+      "Shell": 346
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.29,
+    "S_code": 22.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "devops-toolbox-app",
+    "full_name": "codex-team/devops-toolbox-app",
+    "html_url": "https://github.com/codex-team/devops-toolbox-app",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 23575,
+      "Vue": 8345,
+      "JavaScript": 3325,
+      "CSS": 474,
+      "HTML": 377,
+      "Shell": 110
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.68,
+    "S_code": 35.36,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "devops-toolbox-agent",
+    "full_name": "codex-team/devops-toolbox-agent",
+    "html_url": "https://github.com/codex-team/devops-toolbox-agent",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 7267,
+      "Shell": 104
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.6,
+    "S_code": 7.2,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "action-create-env",
+    "full_name": "codex-team/action-create-env",
+    "html_url": "https://github.com/codex-team/action-create-env",
+    "description": "Simple action for creating environment file",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1368
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.67,
+    "S_code": 1.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "go-disk-monitor",
+    "full_name": "codex-team/go-disk-monitor",
+    "html_url": "https://github.com/codex-team/go-disk-monitor",
+    "description": "Disk monitoring with Telegram alerts",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 3846,
+      "Makefile": 549
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.15,
+    "S_code": 4.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.cloud-manager",
+    "full_name": "codex-team/hawk.cloud-manager",
+    "html_url": "https://github.com/codex-team/hawk.cloud-manager",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 28672,
+      "Gherkin": 1197,
+      "Makefile": 768,
+      "Dockerfile": 74
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.0,
+    "S_code": 29.99,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.android.app",
+    "full_name": "codex-team/hawk.android.app",
+    "html_url": "https://github.com/codex-team/hawk.android.app",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Kotlin": 133309,
+      "Java": 3266
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 66.69,
+    "S_code": 133.37,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.chopper",
+    "full_name": "codex-team/hawk.chopper",
+    "html_url": "https://github.com/codex-team/hawk.chopper",
+    "description": "Simple tool that creates a slice of hawk_events database",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 9685
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.73,
+    "S_code": 9.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "worker-monitor",
+    "full_name": "codex-team/worker-monitor",
+    "html_url": "https://github.com/codex-team/worker-monitor",
+    "description": "Watching you, robot",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 476
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.23,
+    "S_code": 0.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.merchant.worker",
+    "full_name": "codex-team/hawk.merchant.worker",
+    "html_url": "https://github.com/codex-team/hawk.merchant.worker",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 14652,
+      "Dockerfile": 601,
+      "Makefile": 154
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.52,
+    "S_code": 15.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tinkoff.api.golang",
+    "full_name": "codex-team/tinkoff.api.golang",
+    "html_url": "https://github.com/codex-team/tinkoff.api.golang",
+    "description": "Golang SDK for Tinkoff Acquiring API",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 15795
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.71,
+    "S_code": 15.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "issue-comments-notify",
+    "full_name": "codex-team/issue-comments-notify",
+    "html_url": "https://github.com/codex-team/issue-comments-notify",
+    "description": "A tool for notifying about unanswered issue comments via CodeX.Bot",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4618
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.25,
+    "S_code": 4.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.api.php",
+    "full_name": "codex-team/hawk.api.php",
+    "html_url": "https://github.com/codex-team/hawk.api.php",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "PHP": 51948,
+      "HTML": 5000,
+      "Dockerfile": 1940,
+      "Shell": 186
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 32.84,
+    "S_code": 57.69,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "reactions.backend",
+    "full_name": "codex-team/reactions.backend",
+    "html_url": "https://github.com/codex-team/reactions.backend",
+    "description": "Backend for reactions module",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 20992
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.25,
+    "S_code": 20.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "version.controller",
+    "full_name": "codex-team/version.controller",
+    "html_url": "https://github.com/codex-team/version.controller",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 2622,
+      "Dockerfile": 356
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.45,
+    "S_code": 2.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.events.db",
+    "full_name": "codex-team/hawk.events.db",
+    "html_url": "https://github.com/codex-team/hawk.events.db",
+    "description": "Hawk events database stuff",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 1794
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.88,
+    "S_code": 1.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hawk.docs",
+    "full_name": "codex-team/hawk.docs",
+    "html_url": "https://github.com/codex-team/hawk.docs",
+    "description": "Documentation and build scripts for Hawk deployment and testing",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

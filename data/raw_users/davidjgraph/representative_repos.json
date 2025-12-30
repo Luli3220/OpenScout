@@ -1,0 +1,97 @@
+[
+  {
+    "name": "You-Dont-Know-JS",
+    "full_name": "davidjgraph/You-Dont-Know-JS",
+    "html_url": "https://github.com/davidjgraph/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter.",
+    "stars": 14,
+    "forks": 13,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 80.0,
+    "S_code": 0.0,
+    "S_social": 40,
+    "S_maint": 0
+  },
+  {
+    "name": "drawio",
+    "full_name": "davidjgraph/drawio",
+    "html_url": "https://github.com/davidjgraph/drawio",
+    "description": "Source to app.diagrams.net",
+    "stars": 10,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 12448789,
+      "Java": 131695,
+      "CSS": 67843,
+      "HTML": 35676
+    },
+    "contributions_by_user": 729,
+    "contribution_score": 13503.36,
+    "S_code": 12386.72,
+    "S_social": 10,
+    "S_maint": 729
+  },
+  {
+    "name": "test",
+    "full_name": "davidjgraph/test",
+    "html_url": "https://github.com/davidjgraph/test",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "sandbox",
+    "full_name": "davidjgraph/sandbox",
+    "html_url": "https://github.com/davidjgraph/sandbox",
+    "description": null,
+    "stars": 0,
+    "forks": 2,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 48.0,
+    "S_code": 0.0,
+    "S_social": 4,
+    "S_maint": 4
+  },
+  {
+    "name": "saveMacroTest",
+    "full_name": "davidjgraph/saveMacroTest",
+    "html_url": "https://github.com/davidjgraph/saveMacroTest",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 2743,
+      "JavaScript": 619
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 61.64,
+    "S_code": 3.28,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "orsonpdf",
+    "full_name": "davidjgraph/orsonpdf",
+    "html_url": "https://github.com/davidjgraph/orsonpdf",
+    "description": "PDF library for Java",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Java": 318283,
+      "HTML": 560
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 159.69,
+    "S_code": 311.37,
+    "S_social": 2,
+    "S_maint": 0
+  }
+]

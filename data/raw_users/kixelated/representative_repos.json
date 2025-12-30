@@ -1,0 +1,948 @@
+[
+  {
+    "name": "moq-js",
+    "full_name": "kixelated/moq-js",
+    "html_url": "https://github.com/kixelated/moq-js",
+    "description": "Typescript library for Media over QUIC",
+    "stars": 156,
+    "forks": 30,
+    "languages": {},
+    "contributions_by_user": 194,
+    "contribution_score": 2372.0,
+    "S_code": 0.0,
+    "S_social": 216,
+    "S_maint": 194
+  },
+  {
+    "name": "steamcache",
+    "full_name": "kixelated/steamcache",
+    "html_url": "https://github.com/kixelated/steamcache",
+    "description": "network HTTP cache for popular game clients",
+    "stars": 28,
+    "forks": 2,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 84.0,
+    "S_code": 0.0,
+    "S_social": 32,
+    "S_maint": 2
+  },
+  {
+    "name": "mp4-atom",
+    "full_name": "kixelated/mp4-atom",
+    "html_url": "https://github.com/kixelated/mp4-atom",
+    "description": "A Rust MP4/ISOBMFF encoder and decoder",
+    "stars": 23,
+    "forks": 13,
+    "languages": {
+      "Rust": 697186,
+      "Just": 816,
+      "RenderScript": 1
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 728.82,
+    "S_code": 681.64,
+    "S_social": 49,
+    "S_maint": 29
+  },
+  {
+    "name": "web-rs",
+    "full_name": "kixelated/web-rs",
+    "html_url": "https://github.com/kixelated/web-rs",
+    "description": "Rust bindings (WASM) for WebCodecs",
+    "stars": 18,
+    "forks": 2,
+    "languages": {
+      "Rust": 59725,
+      "Just": 1281
+    },
+    "contributions_by_user": 38,
+    "contribution_score": 453.79,
+    "S_code": 59.58,
+    "S_social": 22,
+    "S_maint": 38
+  },
+  {
+    "name": "tf2.pug.na-irc-bot",
+    "full_name": "kixelated/tf2.pug.na-irc-bot",
+    "html_url": "https://github.com/kixelated/tf2.pug.na-irc-bot",
+    "description": "IRC bot written in Ruby for coordinating TF2 pugs. Used in #tf2.pug.na on the Gamesurge irc network.",
+    "stars": 16,
+    "forks": 6,
+    "languages": {
+      "Ruby": 66031
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 88.24,
+    "S_code": 64.48,
+    "S_social": 28,
+    "S_maint": 0
+  },
+  {
+    "name": "invoker",
+    "full_name": "kixelated/invoker",
+    "html_url": "https://github.com/kixelated/invoker",
+    "description": "A safe and easy way to run goroutines",
+    "stars": 13,
+    "forks": 0,
+    "languages": {
+      "Go": 14281,
+      "Dockerfile": 602
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 123.27,
+    "S_code": 14.53,
+    "S_social": 13,
+    "S_maint": 9
+  },
+  {
+    "name": "tf2.pug.na-game-server",
+    "full_name": "kixelated/tf2.pug.na-game-server",
+    "html_url": "https://github.com/kixelated/tf2.pug.na-game-server",
+    "description": null,
+    "stars": 12,
+    "forks": 3,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 36.0,
+    "S_code": 0.0,
+    "S_social": 18,
+    "S_maint": 0
+  },
+  {
+    "name": "natf2",
+    "full_name": "kixelated/natf2",
+    "html_url": "https://github.com/kixelated/natf2",
+    "description": "El Dorado is a full-stack community web application written in Ruby/Rails.",
+    "stars": 8,
+    "forks": 4,
+    "languages": {
+      "Ruby": 250575,
+      "JavaScript": 65626
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 186.4,
+    "S_code": 308.79,
+    "S_social": 16,
+    "S_maint": 0
+  },
+  {
+    "name": "moq-web",
+    "full_name": "kixelated/moq-web",
+    "html_url": "https://github.com/kixelated/moq-web",
+    "description": "MoQ web support via moq-rs + WASM",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 4397,
+      "CSS": 3879,
+      "JavaScript": 1996,
+      "HTML": 732
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 29.37,
+    "S_code": 10.75,
+    "S_social": 7,
+    "S_maint": 1
+  },
+  {
+    "name": "mkcert",
+    "full_name": "kixelated/mkcert",
+    "html_url": "https://github.com/kixelated/mkcert",
+    "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "stars": 5,
+    "forks": 4,
+    "languages": {
+      "Go": 41583
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 56.3,
+    "S_code": 40.61,
+    "S_social": 13,
+    "S_maint": 1
+  },
+  {
+    "name": "steamcache-http",
+    "full_name": "kixelated/steamcache-http",
+    "html_url": "https://github.com/kixelated/steamcache-http",
+    "description": "Generic LAN Download Content Cache",
+    "stars": 5,
+    "forks": 3,
+    "languages": {
+      "Nginx": 438,
+      "Shell": 75
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 62.25,
+    "S_code": 0.5,
+    "S_social": 11,
+    "S_maint": 4
+  },
+  {
+    "name": "mechquiz",
+    "full_name": "kixelated/mechquiz",
+    "html_url": "https://github.com/kixelated/mechquiz",
+    "description": "Dota 2 Advanced Mechanics Quiz",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "CSS": 9399,
+      "JavaScript": 7542
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22.27,
+    "S_code": 16.54,
+    "S_social": 7,
+    "S_maint": 0
+  },
+  {
+    "name": "tauri-plugin-web-transport",
+    "full_name": "kixelated/tauri-plugin-web-transport",
+    "html_url": "https://github.com/kixelated/tauri-plugin-web-transport",
+    "description": "A Tauri plugin providing a WebTransport polyfill",
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "Rust": 13634,
+      "TypeScript": 8378
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 66.75,
+    "S_code": 21.5,
+    "S_social": 8,
+    "S_maint": 4
+  },
+  {
+    "name": "goog_cc",
+    "full_name": "kixelated/goog_cc",
+    "html_url": "https://github.com/kixelated/goog_cc",
+    "description": "Direct port of GCC from C++ to Rust",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Rust": 788856
+    },
+    "contributions_by_user": 45,
+    "contribution_score": 843.18,
+    "S_code": 770.37,
+    "S_social": 4,
+    "S_maint": 45
+  },
+  {
+    "name": "quiche-webtransport",
+    "full_name": "kixelated/quiche-webtransport",
+    "html_url": "https://github.com/kixelated/quiche-webtransport",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Rust": 2265420,
+      "C": 99902,
+      "Shell": 4921,
+      "JavaScript": 3984,
+      "Makefile": 2866,
+      "Dockerfile": 1549,
+      "HTML": 311
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1167.6,
+    "S_code": 2323.2,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "steam-condenser",
+    "full_name": "kixelated/steam-condenser",
+    "html_url": "https://github.com/kixelated/steam-condenser",
+    "description": "A multi-language library for querying the Steam Community, Source, GoldSrc servers and Steam master servers",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Java": 294606,
+      "PHP": 249403,
+      "Ruby": 165886
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 354.63,
+    "S_code": 693.26,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "moq-go",
+    "full_name": "kixelated/moq-go",
+    "html_url": "https://github.com/kixelated/moq-go",
+    "description": "Archive before switching to Rust",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 37648,
+      "Go": 24195,
+      "Shell": 1145,
+      "CSS": 973,
+      "HTML": 685,
+      "JavaScript": 234
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 243.68,
+    "S_code": 63.36,
+    "S_social": 1,
+    "S_maint": 21
+  },
+  {
+    "name": "test-trace",
+    "full_name": "kixelated/test-trace",
+    "html_url": "https://github.com/kixelated/test-trace",
+    "description": "A replacement of the #[test] attribute that initializes tracing before running tests.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Rust": 14103
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 18.89,
+    "S_code": 13.77,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "quic-go",
+    "full_name": "kixelated/quic-go",
+    "html_url": "https://github.com/kixelated/quic-go",
+    "description": "A QUIC implementation in pure go",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Go": 2316870,
+      "Shell": 2534,
+      "Dockerfile": 1238
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 1175.13,
+    "S_code": 2266.25,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "quic-transport-bugs",
+    "full_name": "kixelated/quic-transport-bugs",
+    "html_url": "https://github.com/kixelated/quic-transport-bugs",
+    "description": "QuicTransport bugs and steps to reproduce them",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 13848,
+      "HTML": 4266,
+      "Shell": 2896
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 92.26,
+    "S_code": 20.52,
+    "S_social": 1,
+    "S_maint": 8
+  },
+  {
+    "name": "artifact",
+    "full_name": "kixelated/artifact",
+    "html_url": "https://github.com/kixelated/artifact",
+    "description": "Brute force generate brackets",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Go": 5870
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 144.87,
+    "S_code": 5.73,
+    "S_social": 1,
+    "S_maint": 14
+  },
+  {
+    "name": "pokebot-crystal",
+    "full_name": "kixelated/pokebot-crystal",
+    "html_url": "https://github.com/kixelated/pokebot-crystal",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Rust": 8646
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 166.22,
+    "S_code": 8.44,
+    "S_social": 1,
+    "S_maint": 16
+  },
+  {
+    "name": "steamcache-sni",
+    "full_name": "kixelated/steamcache-sni",
+    "html_url": "https://github.com/kixelated/steamcache-sni",
+    "description": "SNI Proxy for HTTPS Pass-through",
+    "stars": 1,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 6,
+    "contribution_score": 66.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 6
+  },
+  {
+    "name": "bunny",
+    "full_name": "kixelated/bunny",
+    "html_url": "https://github.com/kixelated/bunny",
+    "description": "The most popular synchronous Ruby AMQP 0.9.1 client",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 127405
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 64.21,
+    "S_code": 124.42,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "bbcodeizer",
+    "full_name": "kixelated/bbcodeizer",
+    "html_url": "https://github.com/kixelated/bbcodeizer",
+    "description": null,
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "Ruby": 23344,
+      "JavaScript": 5783
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 24.22,
+    "S_code": 28.44,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "obs-moq",
+    "full_name": "kixelated/obs-moq",
+    "html_url": "https://github.com/kixelated/obs-moq",
+    "description": "OBS plugin for MoQ output",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 54364,
+      "C++": 14662,
+      "Shell": 9322,
+      "Just": 1554
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 219.01,
+    "S_code": 78.03,
+    "S_social": 0,
+    "S_maint": 18
+  },
+  {
+    "name": "libavjs-webcodecs-polyfill",
+    "full_name": "kixelated/libavjs-webcodecs-polyfill",
+    "html_url": "https://github.com/kixelated/libavjs-webcodecs-polyfill",
+    "description": "A polyfill for the WebCodecs API. No, really.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 194622,
+      "JavaScript": 777,
+      "Makefile": 191
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 95.5,
+    "S_code": 191.01,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "solid-transition-group",
+    "full_name": "kixelated/solid-transition-group",
+    "html_url": "https://github.com/kixelated/solid-transition-group",
+    "description": "SolidJS components for applying animations when children elements enter or leave the DOM.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 25651,
+      "CSS": 1551,
+      "Astro": 849,
+      "JavaScript": 179
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.78,
+    "S_code": 27.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cargo-shear",
+    "full_name": "kixelated/cargo-shear",
+    "html_url": "https://github.com/kixelated/cargo-shear",
+    "description": "Detect and remove unused dependencies from Cargo.toml",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 20526,
+      "Just": 403
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.22,
+    "S_code": 20.44,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "quinn",
+    "full_name": "kixelated/quinn",
+    "html_url": "https://github.com/kixelated/quinn",
+    "description": "Async-friendly QUIC implementation in Rust",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 1351517
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 659.92,
+    "S_code": 1319.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "baton",
+    "full_name": "kixelated/baton",
+    "html_url": "https://github.com/kixelated/baton",
+    "description": "A simple channel for receiving updates per field",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 8916
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 94.35,
+    "S_code": 8.71,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "vite",
+    "full_name": "kixelated/vite",
+    "html_url": "https://github.com/kixelated/vite",
+    "description": "Next generation frontend tooling. It's fast!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1326836,
+      "JavaScript": 174920,
+      "HTML": 96082,
+      "CSS": 28753,
+      "Vue": 3401,
+      "AppleScript": 2691,
+      "Svelte": 2500,
+      "SCSS": 1191,
+      "Less": 880,
+      "Stylus": 531,
+      "SugarSS": 274,
+      "Shell": 244,
+      "Pug": 165,
+      "Astro": 114,
+      "Sass": 75
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 800.13,
+    "S_code": 1600.25,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "DefinitelyTyped",
+    "full_name": "kixelated/DefinitelyTyped",
+    "html_url": "https://github.com/kixelated/DefinitelyTyped",
+    "description": "The repository for high quality TypeScript type definitions.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 37046208,
+      "JavaScript": 45832,
+      "Shell": 735
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 18111.71,
+    "S_code": 36223.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mp4-rust",
+    "full_name": "kixelated/mp4-rust",
+    "html_url": "https://github.com/kixelated/mp4-rust",
+    "description": ":movie_camera: MP4 reader and writer library in Rust! 🦀",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 306533
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 149.67,
+    "S_code": 299.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "kixelated/dotfiles",
+    "html_url": "https://github.com/kixelated/dotfiles",
+    "description": "Personal dotfiles",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vim Script": 15540,
+      "Shell": 536
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 17.85,
+    "S_code": 15.7,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "vbr-generation",
+    "full_name": "kixelated/vbr-generation",
+    "html_url": "https://github.com/kixelated/vbr-generation",
+    "description": "Simple script to generate some encodings",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 3087
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 21.51,
+    "S_code": 3.01,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "couple.cool",
+    "full_name": "kixelated/couple.cool",
+    "html_url": "https://github.com/kixelated/couple.cool",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 37506,
+      "HCL": 20437,
+      "CSS": 6365,
+      "HTML": 4824
+    },
+    "contributions_by_user": 74,
+    "contribution_score": 773.76,
+    "S_code": 67.51,
+    "S_social": 0,
+    "S_maint": 74
+  },
+  {
+    "name": "webtransport-go",
+    "full_name": "kixelated/webtransport-go",
+    "html_url": "https://github.com/kixelated/webtransport-go",
+    "description": "WebTransport implementation based on quic-go (https://datatracker.ietf.org/doc/draft-ietf-webtrans-http3/)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 70365,
+      "HTML": 1776,
+      "Python": 1707
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 36.06,
+    "S_code": 72.12,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "go",
+    "full_name": "kixelated/go",
+    "html_url": "https://github.com/kixelated/go",
+    "description": "The Go programming language",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 44264354,
+      "HTML": 2621340,
+      "Assembly": 2548000,
+      "C": 106315,
+      "Shell": 53983,
+      "Perl": 31365,
+      "JavaScript": 20486,
+      "Python": 15702,
+      "Batchfile": 8393,
+      "C++": 917,
+      "Makefile": 748,
+      "Dockerfile": 506,
+      "Awk": 450,
+      "Fortran": 394
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 24254.37,
+    "S_code": 48508.74,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "VenturePlanSoDMissions",
+    "full_name": "kixelated/VenturePlanSoDMissions",
+    "html_url": "https://github.com/kixelated/VenturePlanSoDMissions",
+    "description": "Addon to bring VenturePlan up to date with the 9.1 missions",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 6342
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.1,
+    "S_code": 6.19,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "wisp",
+    "full_name": "kixelated/wisp",
+    "html_url": "https://github.com/kixelated/wisp",
+    "description": "Rust experiment with io_uring",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 25891,
+      "Go": 2055,
+      "Shell": 286
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 153.79,
+    "S_code": 27.57,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "radix",
+    "full_name": "kixelated/radix",
+    "html_url": "https://github.com/kixelated/radix",
+    "description": "Redis client for Go",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 340435
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 176.23,
+    "S_code": 332.46,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "circbuf-rs",
+    "full_name": "kixelated/circbuf-rs",
+    "html_url": "https://github.com/kixelated/circbuf-rs",
+    "description": "A growable circular buffer for working with bytes",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 36442
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.79,
+    "S_code": 35.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "base-drafts",
+    "full_name": "kixelated/base-drafts",
+    "html_url": "https://github.com/kixelated/base-drafts",
+    "description": " Internet-Drafts that make up the base QUIC specification",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 12372,
+      "Python": 2026,
+      "Makefile": 608
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.33,
+    "S_code": 14.65,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "proto",
+    "full_name": "kixelated/proto",
+    "html_url": "https://github.com/kixelated/proto",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 71941
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 55.13,
+    "S_code": 70.25,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "gambatte",
+    "full_name": "kixelated/gambatte",
+    "html_url": "https://github.com/kixelated/gambatte",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Assembly": 3514336,
+      "C++": 1302362,
+      "C": 221121,
+      "Python": 11430,
+      "QMake": 7041,
+      "Shell": 891
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 2519.33,
+    "S_code": 4938.65,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "protohack",
+    "full_name": "kixelated/protohack",
+    "html_url": "https://github.com/kixelated/protohack",
+    "description": "Alternative golang protobuf generator (in development)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 134468,
+      "Protocol Buffer": 34766
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 242.63,
+    "S_code": 165.27,
+    "S_social": 0,
+    "S_maint": 16
+  },
+  {
+    "name": "steamcache-dns",
+    "full_name": "kixelated/steamcache-dns",
+    "html_url": "https://github.com/kixelated/steamcache-dns",
+    "description": "DNS Docker service for a steamcache.",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "Shell": 1366
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 238.67,
+    "S_code": 1.33,
+    "S_social": 4,
+    "S_maint": 23
+  },
+  {
+    "name": "radix.v2",
+    "full_name": "kixelated/radix.v2",
+    "html_url": "https://github.com/kixelated/radix.v2",
+    "description": "Redis client for Go",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 108997,
+      "Makefile": 2374
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 64.38,
+    "S_code": 108.76,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "sass.js",
+    "full_name": "kixelated/sass.js",
+    "html_url": "https://github.com/kixelated/sass.js",
+    "description": "Sass.js - API for emscripted libsass to run in the browser",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 63124,
+      "CSS": 9012,
+      "C++": 7079,
+      "HTML": 5910,
+      "Shell": 1232
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 42.17,
+    "S_code": 84.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "goamz",
+    "full_name": "kixelated/goamz",
+    "html_url": "https://github.com/kixelated/goamz",
+    "description": "Fork of the GOAMZ version developed within Canonical with additional functionality with DynamoDB",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 732398
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 357.62,
+    "S_code": 715.23,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "go2xunit",
+    "full_name": "kixelated/go2xunit",
+    "html_url": "https://github.com/kixelated/go2xunit",
+    "description": "Convert \"go test\" output to xunit compatible (used in Jenkins/Hudson)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 16289,
+      "Shell": 1005,
+      "Python": 154
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.52,
+    "S_code": 17.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sabre",
+    "full_name": "kixelated/sabre",
+    "html_url": "https://github.com/kixelated/sabre",
+    "description": "Deployment library. Provides a simple deployment DSL that is translated into bash and run on multiple machines.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 6718
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.28,
+    "S_code": 6.56,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "voke",
+    "full_name": "kixelated/voke",
+    "html_url": "https://github.com/kixelated/voke",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 15266
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.45,
+    "S_code": 14.91,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

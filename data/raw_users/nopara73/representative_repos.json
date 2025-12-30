@@ -1,0 +1,2233 @@
+[
+  {
+    "name": "ZeroLink",
+    "full_name": "nopara73/ZeroLink",
+    "html_url": "https://github.com/nopara73/ZeroLink",
+    "description": "The Bitcoin Fungibility Framework",
+    "stars": 348,
+    "forks": 83,
+    "languages": {},
+    "contributions_by_user": 161,
+    "contribution_score": 2638.0,
+    "S_code": 0.0,
+    "S_social": 514,
+    "S_maint": 161
+  },
+  {
+    "name": "ForeverAloneProgramming",
+    "full_name": "nopara73/ForeverAloneProgramming",
+    "html_url": "https://github.com/nopara73/ForeverAloneProgramming",
+    "description": "Software Development Methodology for Solo Developers and Small Teams",
+    "stars": 119,
+    "forks": 16,
+    "languages": {},
+    "contributions_by_user": 95,
+    "contribution_score": 1252.0,
+    "S_code": 0.0,
+    "S_social": 151,
+    "S_maint": 95
+  },
+  {
+    "name": "DotNetTor",
+    "full_name": "nopara73/DotNetTor",
+    "html_url": "https://github.com/nopara73/DotNetTor",
+    "description": "Library implementation of essential Tor features in .NET Core.",
+    "stars": 78,
+    "forks": 21,
+    "languages": {
+      "C#": 171195
+    },
+    "contributions_by_user": 275,
+    "contribution_score": 3073.59,
+    "S_code": 167.18,
+    "S_social": 120,
+    "S_maint": 275
+  },
+  {
+    "name": "DotNetWallet",
+    "full_name": "nopara73/DotNetWallet",
+    "html_url": "https://github.com/nopara73/DotNetWallet",
+    "description": "Bitcoin wallet implementation in .NET.",
+    "stars": 71,
+    "forks": 56,
+    "languages": {
+      "C#": 43641
+    },
+    "contributions_by_user": 55,
+    "contribution_score": 937.31,
+    "S_code": 42.62,
+    "S_social": 183,
+    "S_maint": 55
+  },
+  {
+    "name": "WasabiResearchExperience",
+    "full_name": "nopara73/WasabiResearchExperience",
+    "html_url": "https://github.com/nopara73/WasabiResearchExperience",
+    "description": "Wasabi Research Club",
+    "stars": 41,
+    "forks": 6,
+    "languages": {},
+    "contributions_by_user": 65,
+    "contribution_score": 756.0,
+    "S_code": 0.0,
+    "S_social": 53,
+    "S_maint": 65
+  },
+  {
+    "name": "Dumplings",
+    "full_name": "nopara73/Dumplings",
+    "html_url": "https://github.com/nopara73/Dumplings",
+    "description": "A cross platform and open source software to create reproducible CoinJoin statistics from Blockchain data.",
+    "stars": 29,
+    "forks": 14,
+    "languages": {
+      "C#": 210208
+    },
+    "contributions_by_user": 119,
+    "contribution_score": 1406.64,
+    "S_code": 205.28,
+    "S_social": 57,
+    "S_maint": 119
+  },
+  {
+    "name": "HBitcoin",
+    "full_name": "nopara73/HBitcoin",
+    "html_url": "https://github.com/nopara73/HBitcoin",
+    "description": "Privacy focused Bitcoin library on top of NBitcoin for .NET Core.",
+    "stars": 26,
+    "forks": 11,
+    "languages": {
+      "C#": 152059
+    },
+    "contributions_by_user": 120,
+    "contribution_score": 1370.25,
+    "S_code": 148.5,
+    "S_social": 48,
+    "S_maint": 120
+  },
+  {
+    "name": "HiddenBitcoin",
+    "full_name": "nopara73/HiddenBitcoin",
+    "html_url": "https://github.com/nopara73/HiddenBitcoin",
+    "description": "Privacy orineted Bitcoin wallet library in C#, an other abstraction layer on NBitcoin",
+    "stars": 18,
+    "forks": 14,
+    "languages": {
+      "C#": 148970,
+      "Smalltalk": 1902
+    },
+    "contributions_by_user": 69,
+    "contribution_score": 855.67,
+    "S_code": 147.34,
+    "S_social": 46,
+    "S_maint": 69
+  },
+  {
+    "name": "LongevityWorldCup",
+    "full_name": "nopara73/LongevityWorldCup",
+    "html_url": "https://github.com/nopara73/LongevityWorldCup",
+    "description": null,
+    "stars": 16,
+    "forks": 5,
+    "languages": {
+      "HTML": 576658,
+      "C#": 272037,
+      "JavaScript": 60460,
+      "Shell": 5689,
+      "CSS": 3642
+    },
+    "contributions_by_user": 1483,
+    "contribution_score": 15330.48,
+    "S_code": 896.96,
+    "S_social": 26,
+    "S_maint": 1483
+  },
+  {
+    "name": "WasabiVsSamourai",
+    "full_name": "nopara73/WasabiVsSamourai",
+    "html_url": "https://github.com/nopara73/WasabiVsSamourai",
+    "description": null,
+    "stars": 12,
+    "forks": 1,
+    "languages": {
+      "C#": 50430
+    },
+    "contributions_by_user": 42,
+    "contribution_score": 472.62,
+    "S_code": 49.25,
+    "S_social": 14,
+    "S_maint": 42
+  },
+  {
+    "name": "RatingBitcoinWallets",
+    "full_name": "nopara73/RatingBitcoinWallets",
+    "html_url": "https://github.com/nopara73/RatingBitcoinWallets",
+    "description": "Rating Bitcoin Wallets",
+    "stars": 11,
+    "forks": 6,
+    "languages": {},
+    "contributions_by_user": 13,
+    "contribution_score": 176.0,
+    "S_code": 0.0,
+    "S_social": 23,
+    "S_maint": 13
+  },
+  {
+    "name": "MagicalCryptoWallet",
+    "full_name": "nopara73/MagicalCryptoWallet",
+    "html_url": "https://github.com/nopara73/MagicalCryptoWallet",
+    "description": null,
+    "stars": 8,
+    "forks": 5,
+    "languages": {
+      "C#": 416465
+    },
+    "contributions_by_user": 305,
+    "contribution_score": 3289.35,
+    "S_code": 406.7,
+    "S_social": 18,
+    "S_maint": 305
+  },
+  {
+    "name": "EDD",
+    "full_name": "nopara73/EDD",
+    "html_url": "https://github.com/nopara73/EDD",
+    "description": "Emotion Driven Development (EDD)",
+    "stars": 8,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 6,
+    "contribution_score": 76.0,
+    "S_code": 0.0,
+    "S_social": 8,
+    "S_maint": 6
+  },
+  {
+    "name": "ScamouraiWallet",
+    "full_name": "nopara73/ScamouraiWallet",
+    "html_url": "https://github.com/nopara73/ScamouraiWallet",
+    "description": null,
+    "stars": 7,
+    "forks": 3,
+    "languages": {},
+    "contributions_by_user": 38,
+    "contribution_score": 406.0,
+    "S_code": 0.0,
+    "S_social": 13,
+    "S_maint": 38
+  },
+  {
+    "name": "ClipboardButler",
+    "full_name": "nopara73/ClipboardButler",
+    "html_url": "https://github.com/nopara73/ClipboardButler",
+    "description": "ClipboardButler is a non-invasive tool that cleans up your clipboard, mainly from tracking links",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "C#": 29663
+    },
+    "contributions_by_user": 34,
+    "contribution_score": 368.48,
+    "S_code": 28.97,
+    "S_social": 7,
+    "S_maint": 34
+  },
+  {
+    "name": "WasabiCjEfficiency",
+    "full_name": "nopara73/WasabiCjEfficiency",
+    "html_url": "https://github.com/nopara73/WasabiCjEfficiency",
+    "description": null,
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "C#": 54273
+    },
+    "contributions_by_user": 36,
+    "contribution_score": 402.5,
+    "S_code": 53.0,
+    "S_social": 8,
+    "S_maint": 36
+  },
+  {
+    "name": "Privacy",
+    "full_name": "nopara73/Privacy",
+    "html_url": "https://github.com/nopara73/Privacy",
+    "description": "Series of videos to explore privacy research literature.",
+    "stars": 4,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 18,
+    "contribution_score": 188.0,
+    "S_code": 0.0,
+    "S_social": 4,
+    "S_maint": 18
+  },
+  {
+    "name": "BitcoinGenie",
+    "full_name": "nopara73/BitcoinGenie",
+    "html_url": "https://github.com/nopara73/BitcoinGenie",
+    "description": "A little funny software that helps with some of my tutorials I created",
+    "stars": 4,
+    "forks": 5,
+    "languages": {
+      "C#": 2623
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 169.28,
+    "S_code": 2.56,
+    "S_social": 14,
+    "S_maint": 14
+  },
+  {
+    "name": "cypherpunk-research",
+    "full_name": "nopara73/cypherpunk-research",
+    "html_url": "https://github.com/nopara73/cypherpunk-research",
+    "description": "This repository is essentially for compiling information about Cypherpunks, the history of the movement, and the people/events of note.",
+    "stars": 4,
+    "forks": 5,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 28.0,
+    "S_code": 0.0,
+    "S_social": 14,
+    "S_maint": 0
+  },
+  {
+    "name": "CoinJoinAnalysis",
+    "full_name": "nopara73/CoinJoinAnalysis",
+    "html_url": "https://github.com/nopara73/CoinJoinAnalysis",
+    "description": "Analyzing CoinJoin Transactions",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "C#": 29099
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 210.21,
+    "S_code": 28.42,
+    "S_social": 3,
+    "S_maint": 19
+  },
+  {
+    "name": "PlayWithSpv",
+    "full_name": "nopara73/PlayWithSpv",
+    "html_url": "https://github.com/nopara73/PlayWithSpv",
+    "description": "Full-SPV proof of concept implementation.",
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "C#": 43066
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 325.03,
+    "S_code": 42.06,
+    "S_social": 7,
+    "S_maint": 29
+  },
+  {
+    "name": "Sake",
+    "full_name": "nopara73/Sake",
+    "html_url": "https://github.com/nopara73/Sake",
+    "description": null,
+    "stars": 2,
+    "forks": 7,
+    "languages": {
+      "C#": 64138
+    },
+    "contributions_by_user": 96,
+    "contribution_score": 1023.32,
+    "S_code": 62.63,
+    "S_social": 16,
+    "S_maint": 96
+  },
+  {
+    "name": "AddressFinder",
+    "full_name": "nopara73/AddressFinder",
+    "html_url": "https://github.com/nopara73/AddressFinder",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C#": 1685
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 34.82,
+    "S_code": 1.65,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "CoinJoinStatistics",
+    "full_name": "nopara73/CoinJoinStatistics",
+    "html_url": "https://github.com/nopara73/CoinJoinStatistics",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "C#": 4284
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 110.09,
+    "S_code": 4.18,
+    "S_social": 4,
+    "S_maint": 10
+  },
+  {
+    "name": "BitcoinPrivacyResearch",
+    "full_name": "nopara73/BitcoinPrivacyResearch",
+    "html_url": "https://github.com/nopara73/BitcoinPrivacyResearch",
+    "description": "Bitcoin Privacy Research Archive",
+    "stars": 2,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 14.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "CoinShuffleReview",
+    "full_name": "nopara73/CoinShuffleReview",
+    "html_url": "https://github.com/nopara73/CoinShuffleReview",
+    "description": "Review of CoinShuffle++",
+    "stars": 2,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 11,
+    "contribution_score": 114.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 11
+  },
+  {
+    "name": "TorOverTcp",
+    "full_name": "nopara73/TorOverTcp",
+    "html_url": "https://github.com/nopara73/TorOverTcp",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "C#": 69724
+    },
+    "contributions_by_user": 52,
+    "contribution_score": 562.04,
+    "S_code": 68.09,
+    "S_social": 4,
+    "S_maint": 52
+  },
+  {
+    "name": "JoinMarketTest",
+    "full_name": "nopara73/JoinMarketTest",
+    "html_url": "https://github.com/nopara73/JoinMarketTest",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Python": 7691890,
+      "C#": 5728,
+      "HTML": 3601,
+      "Shell": 105
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 3948.41,
+    "S_code": 7520.82,
+    "S_social": 4,
+    "S_maint": 18
+  },
+  {
+    "name": "LongevitySpecificTraining",
+    "full_name": "nopara73/LongevitySpecificTraining",
+    "html_url": "https://github.com/nopara73/LongevitySpecificTraining",
+    "description": "Longevity Specific Training (LST) is a biomedical approach to exercising that targets what reduces mortality, adverse health outcomes and functional decline.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 34,
+    "contribution_score": 342.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 34
+  },
+  {
+    "name": "FreeSO",
+    "full_name": "nopara73/FreeSO",
+    "html_url": "https://github.com/nopara73/FreeSO",
+    "description": "Re-implementation of The Sims Online. ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 13530296,
+      "C": 2490525,
+      "Shell": 698180,
+      "JavaScript": 243514,
+      "Roff": 232948,
+      "HTML": 175712,
+      "HLSL": 174361,
+      "Assembly": 137857,
+      "Makefile": 123057,
+      "C++": 113581,
+      "Ada": 89080,
+      "Pascal": 61168,
+      "DIGITAL Command Language": 35631,
+      "Awk": 30777,
+      "Objective-C": 21414,
+      "CMake": 17286,
+      "Batchfile": 9799,
+      "CLIPS": 6933,
+      "M4": 4064,
+      "Perl": 3895,
+      "Module Management System": 3620,
+      "CSS": 3161,
+      "SAS": 1847,
+      "SCSS": 1386,
+      "Smalltalk": 306,
+      "ASP.NET": 108
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8893.85,
+    "S_code": 17783.7,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ShutdownTest",
+    "full_name": "nopara73/ShutdownTest",
+    "html_url": "https://github.com/nopara73/ShutdownTest",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 2372
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 23.16,
+    "S_code": 2.32,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "SslStreamBugCore3",
+    "full_name": "nopara73/SslStreamBugCore3",
+    "html_url": "https://github.com/nopara73/SslStreamBugCore3",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 6508
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 25.18,
+    "S_code": 6.36,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "QBitNinja",
+    "full_name": "nopara73/QBitNinja",
+    "html_url": "https://github.com/nopara73/QBitNinja",
+    "description": "An Open Source and powerful blockchain API",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 2319208,
+      "PowerShell": 675,
+      "ASP": 104
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1134.81,
+    "S_code": 2265.61,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "NTumbleBit",
+    "full_name": "nopara73/NTumbleBit",
+    "html_url": "https://github.com/nopara73/NTumbleBit",
+    "description": "TumbleBit Implementation in .NET Core ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 1011163
+    },
+    "contributions_by_user": 88,
+    "contribution_score": 1375.73,
+    "S_code": 987.46,
+    "S_social": 1,
+    "S_maint": 88
+  },
+  {
+    "name": "CrytpoPals",
+    "full_name": "nopara73/CrytpoPals",
+    "html_url": "https://github.com/nopara73/CrytpoPals",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 3867
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.89,
+    "S_code": 3.78,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "NoparaFaq",
+    "full_name": "nopara73/NoparaFaq",
+    "html_url": "https://github.com/nopara73/NoparaFaq",
+    "description": "Frequently Asked Questions",
+    "stars": 1,
+    "forks": 3,
+    "languages": {},
+    "contributions_by_user": 5,
+    "contribution_score": 64.0,
+    "S_code": 0.0,
+    "S_social": 7,
+    "S_maint": 5
+  },
+  {
+    "name": "WasabiEncryptedSecretTester",
+    "full_name": "nopara73/WasabiEncryptedSecretTester",
+    "html_url": "https://github.com/nopara73/WasabiEncryptedSecretTester",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 919
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 42.45,
+    "S_code": 0.9,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "ConsoleApp14",
+    "full_name": "nopara73/ConsoleApp14",
+    "html_url": "https://github.com/nopara73/ConsoleApp14",
+    "description": "`dotnet run`",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 22245
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 52.86,
+    "S_code": 21.72,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "blex_crypto_seminar",
+    "full_name": "nopara73/blex_crypto_seminar",
+    "html_url": "https://github.com/nopara73/blex_crypto_seminar",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "CMake": 10537,
+      "C++": 9533
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.8,
+    "S_code": 19.6,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "BitcoinLifeImprovementProposal",
+    "full_name": "nopara73/BitcoinLifeImprovementProposal",
+    "html_url": "https://github.com/nopara73/BitcoinLifeImprovementProposal",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 6,
+    "contribution_score": 62.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 6
+  },
+  {
+    "name": "DotNetWallet.NetFramework",
+    "full_name": "nopara73/DotNetWallet.NetFramework",
+    "html_url": "https://github.com/nopara73/DotNetWallet.NetFramework",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 49487
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 56.16,
+    "S_code": 48.33,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "HttpProtocolTinkering",
+    "full_name": "nopara73/HttpProtocolTinkering",
+    "html_url": "https://github.com/nopara73/HttpProtocolTinkering",
+    "description": "HTTP/1.1 protocol implementation from scratch (for practice)",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 60193
+    },
+    "contributions_by_user": 34,
+    "contribution_score": 371.39,
+    "S_code": 58.78,
+    "S_social": 1,
+    "S_maint": 34
+  },
+  {
+    "name": "DevZH.UI",
+    "full_name": "nopara73/DevZH.UI",
+    "html_url": "https://github.com/nopara73/DevZH.UI",
+    "description": "A simple binding using .NET Core for https://github.com/andlabs/libui, which is an awesome native UI library for Unix, OSX and Windows",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 154293
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 177.34,
+    "S_code": 150.68,
+    "S_social": 1,
+    "S_maint": 10
+  },
+  {
+    "name": "BlockchainProofProofOfConcept",
+    "full_name": "nopara73/BlockchainProofProofOfConcept",
+    "html_url": "https://github.com/nopara73/BlockchainProofProofOfConcept",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C#": 8525
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 60.16,
+    "S_code": 8.33,
+    "S_social": 3,
+    "S_maint": 5
+  },
+  {
+    "name": "sci-hub-fy",
+    "full_name": "nopara73/sci-hub-fy",
+    "html_url": "https://github.com/nopara73/sci-hub-fy",
+    "description": "Chrome extension to append sci-hub.org to tab domain.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 3495,
+      "CSS": 3383,
+      "HTML": 890
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.79,
+    "S_code": 7.59,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "TheFirstRep",
+    "full_name": "nopara73/TheFirstRep",
+    "html_url": "https://github.com/nopara73/TheFirstRep",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 79644,
+      "JavaScript": 55432,
+      "C#": 574
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 226.24,
+    "S_code": 132.47,
+    "S_social": 0,
+    "S_maint": 16
+  },
+  {
+    "name": "PursuitOfValue",
+    "full_name": "nopara73/PursuitOfValue",
+    "html_url": "https://github.com/nopara73/PursuitOfValue",
+    "description": "MVP",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 47991
+    },
+    "contributions_by_user": 51,
+    "contribution_score": 533.43,
+    "S_code": 46.87,
+    "S_social": 0,
+    "S_maint": 51
+  },
+  {
+    "name": "Hosszueletesites",
+    "full_name": "nopara73/Hosszueletesites",
+    "html_url": "https://github.com/nopara73/Hosszueletesites",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 46,
+    "contribution_score": 460.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 46
+  },
+  {
+    "name": "lopp.net",
+    "full_name": "nopara73/lopp.net",
+    "html_url": "https://github.com/nopara73/lopp.net",
+    "description": "Personal web site of Jameson Lopp",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 143662,
+      "PHP": 13107,
+      "CSS": 3059
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 78.04,
+    "S_code": 156.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "WalletWasabi",
+    "full_name": "nopara73/WalletWasabi",
+    "html_url": "https://github.com/nopara73/WalletWasabi",
+    "description": "Privacy focused, ZeroLink compliant Bitcoin wallet.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 4798242,
+      "Nix": 30518,
+      "F#": 9709,
+      "PowerShell": 7443,
+      "Shell": 2578,
+      "Dockerfile": 761
+    },
+    "contributions_by_user": 8579,
+    "contribution_score": 88157.8,
+    "S_code": 4735.6,
+    "S_social": 0,
+    "S_maint": 8579
+  },
+  {
+    "name": "pgp",
+    "full_name": "nopara73/pgp",
+    "html_url": "https://github.com/nopara73/pgp",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "coinjoins",
+    "full_name": "nopara73/coinjoins",
+    "html_url": "https://github.com/nopara73/coinjoins",
+    "description": "Learn about collaborative bitcoin transactions. Reclaim your privacy.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 527962,
+      "JavaScript": 1371,
+      "CSS": 571,
+      "HTML": 329
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 258.9,
+    "S_code": 517.81,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "wcli",
+    "full_name": "nopara73/wcli",
+    "html_url": "https://github.com/nopara73/wcli",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 105546
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 61.54,
+    "S_code": 103.07,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "MoneyForStudy",
+    "full_name": "nopara73/MoneyForStudy",
+    "html_url": "https://github.com/nopara73/MoneyForStudy",
+    "description": "Pay or contribute",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Less": 203040,
+      "JavaScript": 97588,
+      "C#": 55591,
+      "HTML": 31272,
+      "CSS": 1176,
+      "PowerShell": 471,
+      "Ruby": 127
+    },
+    "contributions_by_user": 41,
+    "contribution_score": 600.07,
+    "S_code": 380.14,
+    "S_social": 0,
+    "S_maint": 41
+  },
+  {
+    "name": "lightning-privacy-research",
+    "full_name": "nopara73/lightning-privacy-research",
+    "html_url": "https://github.com/nopara73/lightning-privacy-research",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Astro": 23131,
+      "CSS": 14014,
+      "TypeScript": 8012,
+      "JavaScript": 478
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22.28,
+    "S_code": 44.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "NBitcoin",
+    "full_name": "nopara73/NBitcoin",
+    "html_url": "https://github.com/nopara73/NBitcoin",
+    "description": "Comprehensive Bitcoin library for the .NET framework.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 8148759,
+      "PowerShell": 1611,
+      "Shell": 516
+    },
+    "contributions_by_user": 40,
+    "contribution_score": 4379.92,
+    "S_code": 7959.85,
+    "S_social": 0,
+    "S_maint": 40
+  },
+  {
+    "name": "wasabiwallet-guide",
+    "full_name": "nopara73/wasabiwallet-guide",
+    "html_url": "https://github.com/nopara73/wasabiwallet-guide",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "WabiSabi",
+    "full_name": "nopara73/WabiSabi",
+    "html_url": "https://github.com/nopara73/WabiSabi",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 68591
+    },
+    "contributions_by_user": 111,
+    "contribution_score": 1143.49,
+    "S_code": 66.98,
+    "S_social": 0,
+    "S_maint": 111
+  },
+  {
+    "name": "lnbook",
+    "full_name": "nopara73/lnbook",
+    "html_url": "https://github.com/nopara73/lnbook",
+    "description": "Mastering the Lightning Network (LN)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Cm93",
+    "full_name": "nopara73/Cm93",
+    "html_url": "https://github.com/nopara73/Cm93",
+    "description": "Simple football manager app in the vein of the early Championship Manager games",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 320906
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 156.69,
+    "S_code": 313.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "WasabiDoc",
+    "full_name": "nopara73/WasabiDoc",
+    "html_url": "https://github.com/nopara73/WasabiDoc",
+    "description": "This is the Wasabi documentation, an archive of knowledge about the open-source, non-custodial and privacy-focused Bitcoin wallet for desktop.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 44,
+    "contribution_score": 440.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 44
+  },
+  {
+    "name": "SslStreamBug",
+    "full_name": "nopara73/SslStreamBug",
+    "html_url": "https://github.com/nopara73/SslStreamBug",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 6508
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 93.18,
+    "S_code": 6.36,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "Breeze",
+    "full_name": "nopara73/Breeze",
+    "html_url": "https://github.com/nopara73/Breeze",
+    "description": "Project Breeze Repository",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 364579,
+      "TypeScript": 89204,
+      "HTML": 63159,
+      "JavaScript": 14583,
+      "Shell": 2568
+    },
+    "contributions_by_user": 34,
+    "contribution_score": 600.79,
+    "S_code": 521.58,
+    "S_social": 0,
+    "S_maint": 34
+  },
+  {
+    "name": "NBXplorer",
+    "full_name": "nopara73/NBXplorer",
+    "html_url": "https://github.com/nopara73/NBXplorer",
+    "description": "NBitcoin Explorer",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 230763,
+      "PowerShell": 454,
+      "Batchfile": 122
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 112.96,
+    "S_code": 225.92,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bitcoin.org",
+    "full_name": "nopara73/bitcoin.org",
+    "html_url": "https://github.com/nopara73/bitcoin.org",
+    "description": "Bitcoin.org website",
+    "stars": 0,
+    "forks": 5,
+    "languages": {
+      "CSS": 299226,
+      "HTML": 269656,
+      "Ruby": 64919,
+      "JavaScript": 56411,
+      "Shell": 22379,
+      "Makefile": 12460,
+      "Gnuplot": 404
+    },
+    "contributions_by_user": 60,
+    "contribution_score": 974.23,
+    "S_code": 708.45,
+    "S_social": 10,
+    "S_maint": 60
+  },
+  {
+    "name": "Docs",
+    "full_name": "nopara73/Docs",
+    "html_url": "https://github.com/nopara73/Docs",
+    "description": "Documentation for ASP.NET and ASP.NET Core",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 3417421,
+      "ASP": 841724,
+      "Visual Basic": 342383,
+      "HTML": 162003,
+      "JavaScript": 81086,
+      "Batchfile": 54291,
+      "CSS": 39086,
+      "PowerShell": 29103,
+      "Smalltalk": 6542,
+      "SQLPL": 1782,
+      "Nginx": 1434,
+      "PLpgSQL": 348
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2430.27,
+    "S_code": 4860.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bitcoinops.github.io",
+    "full_name": "nopara73/bitcoinops.github.io",
+    "html_url": "https://github.com/nopara73/bitcoinops.github.io",
+    "description": "Bitcoin Optech website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 19044,
+      "Gnuplot": 9690,
+      "HTML": 8374,
+      "CSS": 5827,
+      "Ruby": 4927,
+      "Shell": 3751,
+      "Python": 2406,
+      "Makefile": 1699
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 27.21,
+    "S_code": 54.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "boltzmann-java",
+    "full_name": "nopara73/boltzmann-java",
+    "html_url": "https://github.com/nopara73/boltzmann-java",
+    "description": "Wallet efficiency score",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 179782
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 87.78,
+    "S_code": 175.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "spec",
+    "full_name": "nopara73/spec",
+    "html_url": "https://github.com/nopara73/spec",
+    "description": "Specs and documentation for CashShuffle",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "travis-ci-latex-pdf",
+    "full_name": "nopara73/travis-ci-latex-pdf",
+    "html_url": "https://github.com/nopara73/travis-ci-latex-pdf",
+    "description": "Overview of different methods to build LaTeX with Travis-CI (idea by @jackolney but completely rewritten by @PHPirates and contributors).",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 18055,
+      "Shell": 6059,
+      "R": 593,
+      "Batchfile": 68
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.1,
+    "S_code": 24.19,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "AvalonStudio.Shell",
+    "full_name": "nopara73/AvalonStudio.Shell",
+    "html_url": "https://github.com/nopara73/AvalonStudio.Shell",
+    "description": "Reusable Shell components from AvalonStudio.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 219896,
+      "PowerShell": 2714,
+      "Shell": 2316
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 179.83,
+    "S_code": 219.65,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "docs-1",
+    "full_name": "nopara73/docs-1",
+    "html_url": "https://github.com/nopara73/docs-1",
+    "description": "Documentation for the Nym privacy platform",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 74263,
+      "JavaScript": 42225,
+      "HTML": 41103
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 76.95,
+    "S_code": 153.9,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "boltzmann",
+    "full_name": "nopara73/boltzmann",
+    "html_url": "https://github.com/nopara73/boltzmann",
+    "description": "A python script computing the entropy of Bitcoin transactions and the linkability of their inputs and outputs.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 93739
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 45.77,
+    "S_code": 91.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bitcoin",
+    "full_name": "nopara73/bitcoin",
+    "html_url": "https://github.com/nopara73/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 7002180,
+      "Python": 1752798,
+      "C": 750065,
+      "M4": 208345,
+      "Shell": 138201,
+      "Makefile": 106934,
+      "Objective-C": 74733,
+      "Java": 30291,
+      "CMake": 28560,
+      "Assembly": 28453,
+      "HTML": 21833,
+      "Scheme": 6044,
+      "Objective-C++": 5497,
+      "QMake": 798
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4958.37,
+    "S_code": 9916.73,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bips",
+    "full_name": "nopara73/bips",
+    "html_url": "https://github.com/nopara73/bips",
+    "description": "Bitcoin Improvement Proposals",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 7828,
+      "Go": 7167,
+      "Perl": 6089,
+      "TeX": 4545,
+      "Shell": 221
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.62,
+    "S_code": 25.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "LinearProgramming",
+    "full_name": "nopara73/LinearProgramming",
+    "html_url": "https://github.com/nopara73/LinearProgramming",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 6779
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 53.31,
+    "S_code": 6.62,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "HWI",
+    "full_name": "nopara73/HWI",
+    "html_url": "https://github.com/nopara73/HWI",
+    "description": "Bitcoin Hardware Wallet Interface",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 486578,
+      "Shell": 11216,
+      "Dockerfile": 1288
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 263.69,
+    "S_code": 487.38,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "tor",
+    "full_name": "nopara73/tor",
+    "html_url": "https://github.com/nopara73/tor",
+    "description": "unofficial git repo -- report bugs/issues/pull requests on https://trac.torproject.org/ --",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 14228953,
+      "Objective-C": 2991480,
+      "C++": 266588,
+      "Python": 240039,
+      "Shell": 140157,
+      "M4": 121925,
+      "Rust": 119899,
+      "Makefile": 25625,
+      "Perl": 18265,
+      "HTML": 17555,
+      "q": 5584,
+      "SmPL": 5488,
+      "PHP": 5121,
+      "Lua": 3321,
+      "Ruby": 3216,
+      "Gnuplot": 940,
+      "Assembly": 59
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8883.89,
+    "S_code": 17767.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "HelloWorldCsAction",
+    "full_name": "nopara73/HelloWorldCsAction",
+    "html_url": "https://github.com/nopara73/HelloWorldCsAction",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 195
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.1,
+    "S_code": 0.19,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "CoinJoin-Research",
+    "full_name": "nopara73/CoinJoin-Research",
+    "html_url": "https://github.com/nopara73/CoinJoin-Research",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2516
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.23,
+    "S_code": 2.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "DiningCryptographerSimulation",
+    "full_name": "nopara73/DiningCryptographerSimulation",
+    "html_url": "https://github.com/nopara73/DiningCryptographerSimulation",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 3505
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 51.71,
+    "S_code": 3.42,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "CoinShuffleSimulation2",
+    "full_name": "nopara73/CoinShuffleSimulation2",
+    "html_url": "https://github.com/nopara73/CoinShuffleSimulation2",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 8018
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 53.92,
+    "S_code": 7.83,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "NHashCash2",
+    "full_name": "nopara73/NHashCash2",
+    "html_url": "https://github.com/nopara73/NHashCash2",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 17813
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 68.7,
+    "S_code": 17.4,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "Bech32LockTimeStat",
+    "full_name": "nopara73/Bech32LockTimeStat",
+    "html_url": "https://github.com/nopara73/Bech32LockTimeStat",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 1967
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 50.96,
+    "S_code": 1.92,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "CodeSceneTest",
+    "full_name": "nopara73/CodeSceneTest",
+    "html_url": "https://github.com/nopara73/CodeSceneTest",
+    "description": "Testing if Jenkins with CodeScene plugin on GitHub Actions can work.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 3129
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 61.53,
+    "S_code": 3.06,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "Notes",
+    "full_name": "nopara73/Notes",
+    "html_url": "https://github.com/nopara73/Notes",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 9,
+    "contribution_score": 90.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "website",
+    "full_name": "nopara73/website",
+    "html_url": "https://github.com/nopara73/website",
+    "description": "ReactiveUI documentation and guidelines website. PR's welcome! 💖",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 68844,
+      "CSS": 24712,
+      "JavaScript": 21423,
+      "C#": 4343,
+      "PowerShell": 4239,
+      "Shell": 1659,
+      "Batchfile": 78
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 61.18,
+    "S_code": 122.36,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "FAQ",
+    "full_name": "nopara73/FAQ",
+    "html_url": "https://github.com/nopara73/FAQ",
+    "description": "Frequently Asked Questions Compilation ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "default-configs",
+    "full_name": "nopara73/default-configs",
+    "html_url": "https://github.com/nopara73/default-configs",
+    "description": "Default configuration files for Open Source analysis tools used by CodeFactor",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "StratisBitcoinFullNode",
+    "full_name": "nopara73/StratisBitcoinFullNode",
+    "html_url": "https://github.com/nopara73/StratisBitcoinFullNode",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 12583622,
+      "PowerShell": 32768,
+      "Shell": 3446,
+      "HTML": 2444,
+      "CSS": 2127,
+      "Dockerfile": 1636,
+      "Batchfile": 216
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 6385.17,
+    "S_code": 12330.33,
+    "S_social": 0,
+    "S_maint": 22
+  },
+  {
+    "name": "junction",
+    "full_name": "nopara73/junction",
+    "html_url": "https://github.com/nopara73/junction",
+    "description": "UI For Hardware Wallet Multisig with Bitcoin Core",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 23123,
+      "HTML": 13917,
+      "Elixir": 129
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 18.15,
+    "S_code": 36.3,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "btcpayserver",
+    "full_name": "nopara73/btcpayserver",
+    "html_url": "https://github.com/nopara73/btcpayserver",
+    "description": "A cross platform, self-hosted server compatible with Bitpay API ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 1809900,
+      "HTML": 490552,
+      "CSS": 264073,
+      "JavaScript": 135839,
+      "Dockerfile": 3589,
+      "PowerShell": 1714,
+      "Shell": 1605
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1321.91,
+    "S_code": 2643.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Nopara74.HWI",
+    "full_name": "nopara73/Nopara74.HWI",
+    "html_url": "https://github.com/nopara73/Nopara74.HWI",
+    "description": ".NET Core Library for HWI",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 17894
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 168.74,
+    "S_code": 17.47,
+    "S_social": 0,
+    "S_maint": 16
+  },
+  {
+    "name": "firmware",
+    "full_name": "nopara73/firmware",
+    "html_url": "https://github.com/nopara73/firmware",
+    "description": "❄️ Firmware and simulator for Coldcard Hardware Wallet",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 873268,
+      "Python": 776589,
+      "C": 671690,
+      "Pawn": 75464,
+      "Makefile": 20355,
+      "Assembly": 3968,
+      "GDB": 696
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1182.63,
+    "S_code": 2365.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "wasabiwallet-website",
+    "full_name": "nopara73/wasabiwallet-website",
+    "html_url": "https://github.com/nopara73/wasabiwallet-website",
+    "description": "Website of Wasabi Wallet - An Unfairly Private Wallet for Bitcoin with built-in Tor, CoinJoin and coin control features. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bitcoinj",
+    "full_name": "nopara73/bitcoinj",
+    "html_url": "https://github.com/nopara73/bitcoinj",
+    "description": "A library for working with Bitcoin",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 4115472,
+      "CSS": 1838,
+      "Shell": 1334
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2011.06,
+    "S_code": 4022.11,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "WasabiRealFeeCalc",
+    "full_name": "nopara73/WasabiRealFeeCalc",
+    "html_url": "https://github.com/nopara73/WasabiRealFeeCalc",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 12364
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 26.04,
+    "S_code": 12.07,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "Avalonia",
+    "full_name": "nopara73/Avalonia",
+    "html_url": "https://github.com/nopara73/Avalonia",
+    "description": "A multi-platform .NET UI framework",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 5741468,
+      "Objective-C++": 69183,
+      "Smalltalk": 36214,
+      "C++": 32632,
+      "PowerShell": 6098,
+      "Shell": 3302,
+      "C": 2523,
+      "Objective-C": 2323
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2877.8,
+    "S_code": 5755.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "QrCode.Net",
+    "full_name": "nopara73/QrCode.Net",
+    "html_url": "https://github.com/nopara73/QrCode.Net",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 631719,
+      "HTML": 5621,
+      "Shell": 370,
+      "ASP": 112
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 311.44,
+    "S_code": 622.87,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "OSDescriptionToConsole",
+    "full_name": "nopara73/OSDescriptionToConsole",
+    "html_url": "https://github.com/nopara73/OSDescriptionToConsole",
+    "description": "Writes out OS description strings",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 806
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.39,
+    "S_code": 0.79,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "NBitcoinWitnessTest",
+    "full_name": "nopara73/NBitcoinWitnessTest",
+    "html_url": "https://github.com/nopara73/NBitcoinWitnessTest",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 1288
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.63,
+    "S_code": 1.26,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "EqualityProfiler",
+    "full_name": "nopara73/EqualityProfiler",
+    "html_url": "https://github.com/nopara73/EqualityProfiler",
+    "description": "NBitcoin uint256 and int equality performance measurements.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 3804
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 41.86,
+    "S_code": 3.71,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "dotnet-packaging",
+    "full_name": "nopara73/dotnet-packaging",
+    "html_url": "https://github.com/nopara73/dotnet-packaging",
+    "description": "Extensions for the .NET Core CLI which help packaging and publishing .NET Core applications",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 513807,
+      "Ruby": 2044,
+      "PowerShell": 251,
+      "Shell": 45
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 252.02,
+    "S_code": 504.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Handstand",
+    "full_name": "nopara73/Handstand",
+    "html_url": "https://github.com/nopara73/Handstand",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 24,
+    "contribution_score": 240.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 24
+  },
+  {
+    "name": "Pay2EndPoint",
+    "full_name": "nopara73/Pay2EndPoint",
+    "html_url": "https://github.com/nopara73/Pay2EndPoint",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "avaloniaui.net",
+    "full_name": "nopara73/avaloniaui.net",
+    "html_url": "https://github.com/nopara73/avaloniaui.net",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 11818,
+      "CSS": 612,
+      "Batchfile": 129
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.13,
+    "S_code": 12.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Dock",
+    "full_name": "nopara73/Dock",
+    "html_url": "https://github.com/nopara73/Dock",
+    "description": "A docking layout system.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 198452,
+      "PowerShell": 12277
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 102.9,
+    "S_code": 205.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "AvalonStudio",
+    "full_name": "nopara73/AvalonStudio",
+    "html_url": "https://github.com/nopara73/AvalonStudio",
+    "description": "Cross platform IDE written in C#",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 8491425,
+      "Shell": 12812,
+      "PowerShell": 12716,
+      "Batchfile": 527
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4158.93,
+    "S_code": 8317.85,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "WalletWasabi.IndexBuilder",
+    "full_name": "nopara73/WalletWasabi.IndexBuilder",
+    "html_url": "https://github.com/nopara73/WalletWasabi.IndexBuilder",
+    "description": "Building index files for Wasabi",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 3896
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 41.9,
+    "S_code": 3.8,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "AltcoverNBitcoin",
+    "full_name": "nopara73/AltcoverNBitcoin",
+    "html_url": "https://github.com/nopara73/AltcoverNBitcoin",
+    "description": "Testing altcover if NBitcoin is referenced.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 782
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.38,
+    "S_code": 0.76,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "coverlet",
+    "full_name": "nopara73/coverlet",
+    "html_url": "https://github.com/nopara73/coverlet",
+    "description": "Cross platform code coverage library for .NET Core",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 78980
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 38.56,
+    "S_code": 77.13,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "atari-ai",
+    "full_name": "nopara73/atari-ai",
+    "html_url": "https://github.com/nopara73/atari-ai",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 180576,
+      "C": 6360,
+      "Vim Script": 3902,
+      "PHP": 970,
+      "Java": 547,
+      "Makefile": 324,
+      "Shell": 280,
+      "Python": 264,
+      "JavaScript": 234,
+      "Emacs Lisp": 153
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 94.54,
+    "S_code": 189.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "libui",
+    "full_name": "nopara73/libui",
+    "html_url": "https://github.com/nopara73/libui",
+    "description": "Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 345553,
+      "C++": 309735,
+      "Objective-C": 222698,
+      "CMake": 13212,
+      "Go": 2100
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 436.18,
+    "S_code": 872.36,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "NBitcoinBitcoinP2pOsxBug",
+    "full_name": "nopara73/NBitcoinBitcoinP2pOsxBug",
+    "html_url": "https://github.com/nopara73/NBitcoinBitcoinP2pOsxBug",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 2175593
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 1286.3,
+    "S_code": 2124.6,
+    "S_social": 2,
+    "S_maint": 22
+  },
+  {
+    "name": "DotNetEssentials",
+    "full_name": "nopara73/DotNetEssentials",
+    "html_url": "https://github.com/nopara73/DotNetEssentials",
+    "description": null,
+    "stars": 0,
+    "forks": 3,
+    "languages": {
+      "C#": 43501
+    },
+    "contributions_by_user": 45,
+    "contribution_score": 483.24,
+    "S_code": 42.48,
+    "S_social": 6,
+    "S_maint": 45
+  },
+  {
+    "name": "gcs",
+    "full_name": "nopara73/gcs",
+    "html_url": "https://github.com/nopara73/gcs",
+    "description": "Golomb-coded set of filters for ClientSideFiltering Bitcoin light clients",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 23394,
+      "PowerShell": 284
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 31.56,
+    "S_code": 23.12,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "ClientSideFilteringMinusMinus",
+    "full_name": "nopara73/ClientSideFilteringMinusMinus",
+    "html_url": "https://github.com/nopara73/ClientSideFilteringMinusMinus",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "UTF8Problems",
+    "full_name": "nopara73/UTF8Problems",
+    "html_url": "https://github.com/nopara73/UTF8Problems",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 899
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 120.44,
+    "S_code": 0.88,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "Socks5ProtocolTinkering",
+    "full_name": "nopara73/Socks5ProtocolTinkering",
+    "html_url": "https://github.com/nopara73/Socks5ProtocolTinkering",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 59677
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 319.14,
+    "S_code": 58.28,
+    "S_social": 0,
+    "S_maint": 29
+  },
+  {
+    "name": "dicemix",
+    "full_name": "nopara73/dicemix",
+    "html_url": "https://github.com/nopara73/dicemix",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 35964,
+      "C++": 4634,
+      "Python": 1571,
+      "C": 985,
+      "Shell": 551,
+      "Makefile": 309
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 21.49,
+    "S_code": 42.98,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "NBitcoinTest",
+    "full_name": "nopara73/NBitcoinTest",
+    "html_url": "https://github.com/nopara73/NBitcoinTest",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 21114
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 20.31,
+    "S_code": 20.62,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "bitcoinbook",
+    "full_name": "nopara73/bitcoinbook",
+    "html_url": "https://github.com/nopara73/bitcoinbook",
+    "description": "Mastering Bitcoin 2nd Edition - Programming the Open Blockchain",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 14071,
+      "HTML": 12158,
+      "C++": 7100,
+      "Go": 4763,
+      "CSS": 2352,
+      "JavaScript": 487
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.99,
+    "S_code": 39.97,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ChaumianBlinding",
+    "full_name": "nopara73/ChaumianBlinding",
+    "html_url": "https://github.com/nopara73/ChaumianBlinding",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 13610
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 66.65,
+    "S_code": 13.29,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "BreezeServer",
+    "full_name": "nopara73/BreezeServer",
+    "html_url": "https://github.com/nopara73/BreezeServer",
+    "description": "Server host for the Breeze Privacy Protocol (based on NTumbleBit)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 31120
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.2,
+    "S_code": 30.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "TumbleBitTinkering",
+    "full_name": "nopara73/TumbleBitTinkering",
+    "html_url": "https://github.com/nopara73/TumbleBitTinkering",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 2889
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 41.41,
+    "S_code": 2.82,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "BlockDownloadSpeedTest",
+    "full_name": "nopara73/BlockDownloadSpeedTest",
+    "html_url": "https://github.com/nopara73/BlockDownloadSpeedTest",
+    "description": "Measuring Bitcoin block download speed.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 3061
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 51.49,
+    "S_code": 2.99,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "BitcoinerWisdom",
+    "full_name": "nopara73/BitcoinerWisdom",
+    "html_url": "https://github.com/nopara73/BitcoinerWisdom",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 13,
+    "contribution_score": 130.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "joinmarket",
+    "full_name": "nopara73/joinmarket",
+    "html_url": "https://github.com/nopara73/joinmarket",
+    "description": "CoinJoin implementation with incentive structure to convince people to take part",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 633672,
+      "HTML": 3601,
+      "Shell": 105
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 311.22,
+    "S_code": 622.44,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ProgrammingBlockchain",
+    "full_name": "nopara73/ProgrammingBlockchain",
+    "html_url": "https://github.com/nopara73/ProgrammingBlockchain",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 495,
+    "contribution_score": 4950.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 495
+  },
+  {
+    "name": "Android-Wallet-2-App",
+    "full_name": "nopara73/Android-Wallet-2-App",
+    "html_url": "https://github.com/nopara73/Android-Wallet-2-App",
+    "description": "My wallet Android App - Fork of Bitcoin Wallet for android ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 5173485,
+      "HTML": 77900
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2564.15,
+    "S_code": 5128.31,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

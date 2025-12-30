@@ -1,0 +1,3410 @@
+[
+  {
+    "name": "miniplex",
+    "full_name": "hmans/miniplex",
+    "html_url": "https://github.com/hmans/miniplex",
+    "description": "A 👩‍💻 developer-friendly entity management system for 🕹 games and similarly demanding applications, based on 🛠 ECS architecture.",
+    "stars": 970,
+    "forks": 40,
+    "languages": {
+      "TypeScript": 79343,
+      "HTML": 705,
+      "CSS": 392,
+      "JavaScript": 329
+    },
+    "contributions_by_user": 763,
+    "contribution_score": 9769.44,
+    "S_code": 78.88,
+    "S_social": 1050,
+    "S_maint": 763
+  },
+  {
+    "name": "composer-suite",
+    "full_name": "hmans/composer-suite",
+    "html_url": "https://github.com/hmans/composer-suite",
+    "description": "A suite of libraries for making game development with Three.js and React not only awesome, but so good, it would feel wrong to use anything else.",
+    "stars": 537,
+    "forks": 32,
+    "languages": {
+      "TypeScript": 417948,
+      "JavaScript": 4022,
+      "CSS": 3690,
+      "HTML": 3309
+    },
+    "contributions_by_user": 1194,
+    "contribution_score": 13351.46,
+    "S_code": 418.92,
+    "S_social": 601,
+    "S_maint": 1194
+  },
+  {
+    "name": "three-elements",
+    "full_name": "hmans/three-elements",
+    "html_url": "https://github.com/hmans/three-elements",
+    "description": "Web Components-powered custom HTML elements for building Three.js-powered games and interactive experiences. 🎉",
+    "stars": 399,
+    "forks": 14,
+    "languages": {
+      "TypeScript": 73467,
+      "HTML": 49348,
+      "JavaScript": 8109,
+      "Vue": 1206,
+      "CSS": 444,
+      "Stylus": 184
+    },
+    "contributions_by_user": 459,
+    "contribution_score": 5508.82,
+    "S_code": 129.65,
+    "S_social": 427,
+    "S_maint": 459
+  },
+  {
+    "name": "slodown",
+    "full_name": "hmans/slodown",
+    "html_url": "https://github.com/hmans/slodown",
+    "description": "Markdown + oEmbed + Sanitize + CodeRay = the ultimate user input rendering pipeline!",
+    "stars": 250,
+    "forks": 7,
+    "languages": {
+      "Ruby": 10968
+    },
+    "contributions_by_user": 69,
+    "contribution_score": 1223.36,
+    "S_code": 10.71,
+    "S_social": 264,
+    "S_maint": 69
+  },
+  {
+    "name": "beans",
+    "full_name": "hmans/beans",
+    "html_url": "https://github.com/hmans/beans",
+    "description": "A CLI-based, flat-file issue tracker for humans and robots. 🤖",
+    "stars": 127,
+    "forks": 7,
+    "languages": {
+      "Go": 464333,
+      "TypeScript": 1121
+    },
+    "contributions_by_user": 351,
+    "contribution_score": 4019.27,
+    "S_code": 454.54,
+    "S_social": 141,
+    "S_maint": 351
+  },
+  {
+    "name": "rbfu",
+    "full_name": "hmans/rbfu",
+    "html_url": "https://github.com/hmans/rbfu",
+    "description": "Minimal Ruby version management is minimal.",
+    "stars": 119,
+    "forks": 10,
+    "languages": {
+      "Shell": 4549,
+      "Ruby": 984
+    },
+    "contributions_by_user": 62,
+    "contribution_score": 900.7,
+    "S_code": 5.4,
+    "S_social": 139,
+    "S_maint": 62
+  },
+  {
+    "name": "shader-composer",
+    "full_name": "hmans/shader-composer",
+    "html_url": "https://github.com/hmans/shader-composer",
+    "description": null,
+    "stars": 82,
+    "forks": 6,
+    "languages": {},
+    "contributions_by_user": 380,
+    "contribution_score": 3988.0,
+    "S_code": 0.0,
+    "S_social": 94,
+    "S_maint": 380
+  },
+  {
+    "name": "homedir-legacy",
+    "full_name": "hmans/homedir-legacy",
+    "html_url": "https://github.com/hmans/homedir-legacy",
+    "description": "Public home directory files",
+    "stars": 79,
+    "forks": 9,
+    "languages": {
+      "Perl": 96845,
+      "Ruby": 22068,
+      "Shell": 7554,
+      "JavaScript": 4034,
+      "Vim Script": 2466
+    },
+    "contributions_by_user": 122,
+    "contribution_score": 1478.93,
+    "S_code": 129.85,
+    "S_social": 97,
+    "S_maint": 122
+  },
+  {
+    "name": "statery",
+    "full_name": "hmans/statery",
+    "html_url": "https://github.com/hmans/statery",
+    "description": "Surprise-Free State Management! Designed for React with functional components, but can also be used with other frameworks (or no framework at all.)",
+    "stars": 78,
+    "forks": 6,
+    "languages": {
+      "TypeScript": 19769,
+      "JavaScript": 390
+    },
+    "contributions_by_user": 163,
+    "contribution_score": 1819.84,
+    "S_code": 19.69,
+    "S_social": 90,
+    "S_maint": 163
+  },
+  {
+    "name": "schnitzelpress",
+    "full_name": "hmans/schnitzelpress",
+    "html_url": "https://github.com/hmans/schnitzelpress",
+    "description": "A lean, mean blogging machine for hackers and fools.",
+    "stars": 77,
+    "forks": 8,
+    "languages": {
+      "Ruby": 35304,
+      "HTML": 11887,
+      "CSS": 2883,
+      "JavaScript": 2498
+    },
+    "contributions_by_user": 363,
+    "contribution_score": 3841.67,
+    "S_code": 51.34,
+    "S_social": 93,
+    "S_maint": 363
+  },
+  {
+    "name": "happy",
+    "full_name": "hmans/happy",
+    "html_url": "https://github.com/hmans/happy",
+    "description": "A happy little toolkit for writing web applications.",
+    "stars": 65,
+    "forks": 4,
+    "languages": {
+      "Ruby": 49141,
+      "HTML": 41353
+    },
+    "contributions_by_user": 182,
+    "contribution_score": 2010.19,
+    "S_code": 88.37,
+    "S_social": 73,
+    "S_maint": 182
+  },
+  {
+    "name": "pants",
+    "full_name": "hmans/pants",
+    "html_url": "https://github.com/hmans/pants",
+    "description": "PANTS: Distributed Social Blogging.",
+    "stars": 65,
+    "forks": 10,
+    "languages": {
+      "Ruby": 112095,
+      "CSS": 19037,
+      "HTML": 17966,
+      "CoffeeScript": 1021,
+      "JavaScript": 664
+    },
+    "contributions_by_user": 465,
+    "contribution_score": 4893.62,
+    "S_code": 147.25,
+    "S_social": 85,
+    "S_maint": 465
+  },
+  {
+    "name": "controlfreak",
+    "full_name": "hmans/controlfreak",
+    "html_url": "https://github.com/hmans/controlfreak",
+    "description": "Composable Game Input.",
+    "stars": 61,
+    "forks": 2,
+    "languages": {
+      "TypeScript": 13589,
+      "CSS": 489,
+      "JavaScript": 420,
+      "HTML": 364
+    },
+    "contributions_by_user": 75,
+    "contribution_score": 887.26,
+    "S_code": 14.51,
+    "S_social": 65,
+    "S_maint": 75
+  },
+  {
+    "name": "flutterby",
+    "full_name": "hmans/flutterby",
+    "html_url": "https://github.com/hmans/flutterby",
+    "description": "A flexible, Ruby-powered static site generator.",
+    "stars": 56,
+    "forks": 2,
+    "languages": {
+      "Ruby": 75623,
+      "HTML": 1834,
+      "CSS": 921,
+      "Shell": 131,
+      "JavaScript": 66
+    },
+    "contributions_by_user": 390,
+    "contribution_score": 4058.37,
+    "S_code": 76.73,
+    "S_social": 60,
+    "S_maint": 390
+  },
+  {
+    "name": "eventery",
+    "full_name": "hmans/eventery",
+    "html_url": "https://github.com/hmans/eventery",
+    "description": "Super-lightweight event class implementation. 🚀",
+    "stars": 21,
+    "forks": 2,
+    "languages": {
+      "TypeScript": 6412,
+      "JavaScript": 198
+    },
+    "contributions_by_user": 30,
+    "contribution_score": 353.23,
+    "S_code": 6.46,
+    "S_social": 25,
+    "S_maint": 30
+  },
+  {
+    "name": "Godot-RigidBody-Auto-Scaler",
+    "full_name": "hmans/Godot-RigidBody-Auto-Scaler",
+    "html_url": "https://github.com/hmans/Godot-RigidBody-Auto-Scaler",
+    "description": "Want to scale rigidbodies in Godot? Now you can. 🚀",
+    "stars": 20,
+    "forks": 3,
+    "languages": {
+      "GDScript": 1774
+    },
+    "contributions_by_user": 34,
+    "contribution_score": 392.87,
+    "S_code": 1.73,
+    "S_social": 26,
+    "S_maint": 34
+  },
+  {
+    "name": "timeline-composer",
+    "full_name": "hmans/timeline-composer",
+    "html_url": "https://github.com/hmans/timeline-composer",
+    "description": "Compose React timelines from <Repeat>, <Delay> and <Lifetime>.",
+    "stars": 19,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 42,
+    "contribution_score": 462.0,
+    "S_code": 0.0,
+    "S_social": 21,
+    "S_maint": 42
+  },
+  {
+    "name": "allowance",
+    "full_name": "hmans/allowance",
+    "html_url": "https://github.com/hmans/allowance",
+    "description": "Allowance is a general-use permission management library for Ruby. It's decidedly simple, highly flexible, and has out-of-the-box support for ActiveModel-compliant classes.",
+    "stars": 16,
+    "forks": 0,
+    "languages": {
+      "Ruby": 6896
+    },
+    "contributions_by_user": 80,
+    "contribution_score": 835.37,
+    "S_code": 6.73,
+    "S_social": 16,
+    "S_maint": 80
+  },
+  {
+    "name": "space-scene-sandbox",
+    "full_name": "hmans/space-scene-sandbox",
+    "html_url": "https://github.com/hmans/space-scene-sandbox",
+    "description": null,
+    "stars": 15,
+    "forks": 2,
+    "languages": {
+      "TypeScript": 10885,
+      "HTML": 1721,
+      "CSS": 430
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 204.37,
+    "S_code": 12.73,
+    "S_social": 19,
+    "S_maint": 16
+  },
+  {
+    "name": "indiepants",
+    "full_name": "hmans/indiepants",
+    "html_url": "https://github.com/hmans/indiepants",
+    "description": "IndiePants, aka Pants Phase 2. A clean indieweb-like implementation.",
+    "stars": 13,
+    "forks": 1,
+    "languages": {
+      "Ruby": 90965,
+      "HTML": 9808,
+      "CSS": 4978,
+      "Shell": 716,
+      "JavaScript": 667,
+      "Nginx": 123
+    },
+    "contributions_by_user": 186,
+    "contribution_score": 1942.37,
+    "S_code": 104.74,
+    "S_social": 15,
+    "S_maint": 186
+  },
+  {
+    "name": "hamburg-io",
+    "full_name": "hmans/hamburg-io",
+    "html_url": "https://github.com/hmans/hamburg-io",
+    "description": "A hub for the Hamburg tech community.",
+    "stars": 10,
+    "forks": 4,
+    "languages": {
+      "Ruby": 6984,
+      "JavaScript": 10
+    },
+    "contributions_by_user": 187,
+    "contribution_score": 1909.42,
+    "S_code": 6.83,
+    "S_social": 18,
+    "S_maint": 187
+  },
+  {
+    "name": "godot-survival-guide",
+    "full_name": "hmans/godot-survival-guide",
+    "html_url": "https://github.com/hmans/godot-survival-guide",
+    "description": "Assorted Workarounds and Dirty Hacks for Stuff That's Missing, Broken, or Otherwise Weird in the Godot Engine",
+    "stars": 9,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 14,
+    "contribution_score": 158.0,
+    "S_code": 0.0,
+    "S_social": 9,
+    "S_maint": 14
+  },
+  {
+    "name": "trinity",
+    "full_name": "hmans/trinity",
+    "html_url": "https://github.com/hmans/trinity",
+    "description": null,
+    "stars": 9,
+    "forks": 2,
+    "languages": {
+      "TypeScript": 118451,
+      "CSS": 3149,
+      "HTML": 2347,
+      "JavaScript": 443
+    },
+    "contributions_by_user": 655,
+    "contribution_score": 6636.74,
+    "S_code": 121.47,
+    "S_social": 13,
+    "S_maint": 655
+  },
+  {
+    "name": "things",
+    "full_name": "hmans/things",
+    "html_url": "https://github.com/hmans/things",
+    "description": null,
+    "stars": 7,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 11023,
+      "JavaScript": 494
+    },
+    "contributions_by_user": 74,
+    "contribution_score": 759.62,
+    "S_code": 11.25,
+    "S_social": 7,
+    "S_maint": 74
+  },
+  {
+    "name": "create-react-game",
+    "full_name": "hmans/create-react-game",
+    "html_url": "https://github.com/hmans/create-react-game",
+    "description": null,
+    "stars": 7,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1561,
+      "CSS": 986,
+      "TypeScript": 753,
+      "HTML": 350
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 265.78,
+    "S_code": 3.56,
+    "S_social": 7,
+    "S_maint": 25
+  },
+  {
+    "name": "trinity-legacy",
+    "full_name": "hmans/trinity-legacy",
+    "html_url": "https://github.com/hmans/trinity-legacy",
+    "description": null,
+    "stars": 7,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 38342,
+      "JavaScript": 268
+    },
+    "contributions_by_user": 54,
+    "contribution_score": 572.85,
+    "S_code": 37.71,
+    "S_social": 7,
+    "S_maint": 54
+  },
+  {
+    "name": "signal",
+    "full_name": "hmans/signal",
+    "html_url": "https://github.com/hmans/signal",
+    "description": null,
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2330,
+      "JavaScript": 311
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 253.29,
+    "S_code": 2.58,
+    "S_social": 6,
+    "S_maint": 24
+  },
+  {
+    "name": "awesome-freelancing-germany",
+    "full_name": "hmans/awesome-freelancing-germany",
+    "html_url": "https://github.com/hmans/awesome-freelancing-germany",
+    "description": "Nützliche Ressourcen für Freelancer in Deutschland.",
+    "stars": 6,
+    "forks": 3,
+    "languages": {},
+    "contributions_by_user": 17,
+    "contribution_score": 194.0,
+    "S_code": 0.0,
+    "S_social": 12,
+    "S_maint": 17
+  },
+  {
+    "name": "bigby-legacy",
+    "full_name": "hmans/bigby-legacy",
+    "html_url": "https://github.com/hmans/bigby-legacy",
+    "description": null,
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 58945,
+      "HTML": 1064,
+      "CSS": 597,
+      "JavaScript": 224
+    },
+    "contributions_by_user": 272,
+    "contribution_score": 2759.7,
+    "S_code": 59.4,
+    "S_social": 5,
+    "S_maint": 272
+  },
+  {
+    "name": "react-game-starter",
+    "full_name": "hmans/react-game-starter",
+    "html_url": "https://github.com/hmans/react-game-starter",
+    "description": null,
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 33242,
+      "CSS": 986,
+      "HTML": 367
+    },
+    "contributions_by_user": 157,
+    "contribution_score": 1600.89,
+    "S_code": 33.78,
+    "S_social": 7,
+    "S_maint": 157
+  },
+  {
+    "name": "crankypants",
+    "full_name": "hmans/crankypants",
+    "html_url": "https://github.com/hmans/crankypants",
+    "description": "A thing that does things.",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "Crystal": 30971,
+      "CoffeeScript": 6489,
+      "CSS": 5070,
+      "Dockerfile": 4546,
+      "Vue": 4546,
+      "Ruby": 3202
+    },
+    "contributions_by_user": 224,
+    "contribution_score": 2280.77,
+    "S_code": 53.54,
+    "S_social": 7,
+    "S_maint": 224
+  },
+  {
+    "name": "Godot-ParticlesPortal",
+    "full_name": "hmans/Godot-ParticlesPortal",
+    "html_url": "https://github.com/hmans/Godot-ParticlesPortal",
+    "description": null,
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "GDScript": 61
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 22.03,
+    "S_code": 0.06,
+    "S_social": 6,
+    "S_maint": 1
+  },
+  {
+    "name": "supermutant",
+    "full_name": "hmans/supermutant",
+    "html_url": "https://github.com/hmans/supermutant",
+    "description": "EMBRACE THE MUTATION and turn any JavaScript object into a SUPERMUTANT REACTIVE STATE CONTAINER. UUUAAAAAHHHHHHHHHHHRRRRRR",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 5991,
+      "HTML": 366,
+      "JavaScript": 226
+    },
+    "contributions_by_user": 27,
+    "contribution_score": 281.21,
+    "S_code": 6.43,
+    "S_social": 4,
+    "S_maint": 27
+  },
+  {
+    "name": "material-composer",
+    "full_name": "hmans/material-composer",
+    "html_url": "https://github.com/hmans/material-composer",
+    "description": null,
+    "stars": 4,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 86,
+    "contribution_score": 868.0,
+    "S_code": 0.0,
+    "S_social": 4,
+    "S_maint": 86
+  },
+  {
+    "name": "three-vfx-starter",
+    "full_name": "hmans/three-vfx-starter",
+    "html_url": "https://github.com/hmans/three-vfx-starter",
+    "description": null,
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5723,
+      "HTML": 1729,
+      "CSS": 541
+    },
+    "contributions_by_user": 34,
+    "contribution_score": 351.9,
+    "S_code": 7.81,
+    "S_social": 4,
+    "S_maint": 34
+  },
+  {
+    "name": "spacerage.6dof",
+    "full_name": "hmans/spacerage.6dof",
+    "html_url": "https://github.com/hmans/spacerage.6dof",
+    "description": "Space pew pew using react-three-fiber.",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 52826,
+      "GLSL": 458,
+      "HTML": 383,
+      "CSS": 340
+    },
+    "contributions_by_user": 123,
+    "contribution_score": 1264.37,
+    "S_code": 52.74,
+    "S_social": 4,
+    "S_maint": 123
+  },
+  {
+    "name": "spacerage-one",
+    "full_name": "hmans/spacerage-one",
+    "html_url": "https://github.com/hmans/spacerage-one",
+    "description": "Dumb little web-based space shootybang. (Yes, that's an actual genre.)",
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "CoffeeScript": 21492,
+      "HTML": 642,
+      "JavaScript": 323,
+      "CSS": 154
+    },
+    "contributions_by_user": 130,
+    "contribution_score": 1327.04,
+    "S_code": 22.08,
+    "S_social": 8,
+    "S_maint": 130
+  },
+  {
+    "name": "solid-trinity",
+    "full_name": "hmans/solid-trinity",
+    "html_url": "https://github.com/hmans/solid-trinity",
+    "description": null,
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 13270,
+      "CSS": 690,
+      "HTML": 499,
+      "JavaScript": 120
+    },
+    "contributions_by_user": 52,
+    "contribution_score": 537.12,
+    "S_code": 14.24,
+    "S_social": 5,
+    "S_maint": 52
+  },
+  {
+    "name": "lit-shootybang",
+    "full_name": "hmans/lit-shootybang",
+    "html_url": "https://github.com/hmans/lit-shootybang",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 12165,
+      "HTML": 202,
+      "CSS": 89
+    },
+    "contributions_by_user": 42,
+    "contribution_score": 432.08,
+    "S_code": 12.16,
+    "S_social": 3,
+    "S_maint": 42
+  },
+  {
+    "name": "schnitzelpress-skeleton",
+    "full_name": "hmans/schnitzelpress-skeleton",
+    "html_url": "https://github.com/hmans/schnitzelpress-skeleton",
+    "description": "Schnitzelpress Skeleton App. Clone/fork/download this as a base for your own Schnitzelpress powered blog.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Ruby": 297
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 36.15,
+    "S_code": 0.29,
+    "S_social": 3,
+    "S_maint": 3
+  },
+  {
+    "name": "bevy-mrp-macos-performance",
+    "full_name": "hmans/bevy-mrp-macos-performance",
+    "html_url": "https://github.com/hmans/bevy-mrp-macos-performance",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Rust": 87
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 18.04,
+    "S_code": 0.08,
+    "S_social": 4,
+    "S_maint": 1
+  },
+  {
+    "name": "randomish",
+    "full_name": "hmans/randomish",
+    "html_url": "https://github.com/hmans/randomish",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 1517,
+      "JavaScript": 821
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 159.14,
+    "S_code": 2.28,
+    "S_social": 4,
+    "S_maint": 15
+  },
+  {
+    "name": "render-composer",
+    "full_name": "hmans/render-composer",
+    "html_url": "https://github.com/hmans/render-composer",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 50,
+    "contribution_score": 504.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 50
+  },
+  {
+    "name": "shadenfreude-planet",
+    "full_name": "hmans/shadenfreude-planet",
+    "html_url": "https://github.com/hmans/shadenfreude-planet",
+    "description": "Created with CodeSandbox",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 5417,
+      "HTML": 1544,
+      "CSS": 58
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 117.43,
+    "S_code": 6.85,
+    "S_social": 2,
+    "S_maint": 11
+  },
+  {
+    "name": "webmade.games",
+    "full_name": "hmans/webmade.games",
+    "html_url": "https://github.com/hmans/webmade.games",
+    "description": "https://webmade.games",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Astro": 5763,
+      "JavaScript": 252
+    },
+    "contributions_by_user": 41,
+    "contribution_score": 416.94,
+    "S_code": 5.87,
+    "S_social": 2,
+    "S_maint": 41
+  },
+  {
+    "name": "fantasy-js-physics-engine",
+    "full_name": "hmans/fantasy-js-physics-engine",
+    "html_url": "https://github.com/hmans/fantasy-js-physics-engine",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 7,
+    "contribution_score": 74.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 7
+  },
+  {
+    "name": "particulous",
+    "full_name": "hmans/particulous",
+    "html_url": "https://github.com/hmans/particulous",
+    "description": "A playground for exploring patterns around CPU-based particle systems.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 11344,
+      "GLSL": 441,
+      "HTML": 368,
+      "CSS": 306
+    },
+    "contributions_by_user": 48,
+    "contribution_score": 490.08,
+    "S_code": 12.17,
+    "S_social": 2,
+    "S_maint": 48
+  },
+  {
+    "name": "bumpy",
+    "full_name": "hmans/bumpy",
+    "html_url": "https://github.com/hmans/bumpy",
+    "description": "Bumpy bumps your gem's version number.",
+    "stars": 2,
+    "forks": 2,
+    "languages": {
+      "Ruby": 3180
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 223.55,
+    "S_code": 3.11,
+    "S_social": 6,
+    "S_maint": 21
+  },
+  {
+    "name": "ingrid",
+    "full_name": "hmans/ingrid",
+    "html_url": "https://github.com/hmans/ingrid",
+    "description": "Spatial Hash Grids and not much else.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 11215,
+      "JavaScript": 311
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 229.63,
+    "S_code": 11.26,
+    "S_social": 2,
+    "S_maint": 22
+  },
+  {
+    "name": "playground",
+    "full_name": "hmans/playground",
+    "html_url": "https://github.com/hmans/playground",
+    "description": "A collection of experimental react-three-fiber tools and toys that aren't quite ready to be released as their own packages.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 311,
+      "TypeScript": 25
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 34.16,
+    "S_code": 0.33,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "spacerage.liveview",
+    "full_name": "hmans/spacerage.liveview",
+    "html_url": "https://github.com/hmans/spacerage.liveview",
+    "description": "Phoenix + LiveView + three-elements = ?",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Elixir": 37865,
+      "CSS": 10310,
+      "HTML": 3335,
+      "JavaScript": 2848,
+      "SCSS": 1536
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 71.29,
+    "S_code": 54.58,
+    "S_social": 2,
+    "S_maint": 4
+  },
+  {
+    "name": "hmans_me",
+    "full_name": "hmans/hmans_me",
+    "html_url": "https://github.com/hmans/hmans_me",
+    "description": "My blog, as seen on http://hmans.io. Powered by Flutterby.",
+    "stars": 2,
+    "forks": 2,
+    "languages": {
+      "CSS": 13566,
+      "Ruby": 8152,
+      "HTML": 6451,
+      "CoffeeScript": 177
+    },
+    "contributions_by_user": 167,
+    "contribution_score": 1695.84,
+    "S_code": 27.68,
+    "S_social": 6,
+    "S_maint": 167
+  },
+  {
+    "name": "flutterby-website",
+    "full_name": "hmans/flutterby-website",
+    "html_url": "https://github.com/hmans/flutterby-website",
+    "description": "The official website for Flutterby.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Ruby": 3483,
+      "HTML": 3035,
+      "CSS": 2598,
+      "JavaScript": 150
+    },
+    "contributions_by_user": 32,
+    "contribution_score": 328.52,
+    "S_code": 9.05,
+    "S_social": 2,
+    "S_maint": 32
+  },
+  {
+    "name": "indiepants-docker",
+    "full_name": "hmans/indiepants-docker",
+    "html_url": "https://github.com/hmans/indiepants-docker",
+    "description": "Docker & Fig configuration for painless IndiePants deployment.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 14.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "happy-resources",
+    "full_name": "hmans/happy-resources",
+    "html_url": "https://github.com/hmans/happy-resources",
+    "description": "A collection of resource-focused controllers for the Happy Web Application Toolkit.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Ruby": 4345
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 66.12,
+    "S_code": 4.24,
+    "S_social": 2,
+    "S_maint": 6
+  },
+  {
+    "name": "hmansify",
+    "full_name": "hmans/hmansify",
+    "html_url": "https://github.com/hmans/hmansify",
+    "description": "Some stuff from my home directory.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Ruby": 22426,
+      "Shell": 1134
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 165.5,
+    "S_code": 23.01,
+    "S_social": 2,
+    "S_maint": 15
+  },
+  {
+    "name": "repro-layerchart-tailwind4-svelte5",
+    "full_name": "hmans/repro-layerchart-tailwind4-svelte5",
+    "html_url": "https://github.com/hmans/repro-layerchart-tailwind4-svelte5",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2253,
+      "JavaScript": 662,
+      "HTML": 346,
+      "CSS": 287,
+      "Svelte": 285
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 43.87,
+    "S_code": 3.74,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "learn-bevy-cube-of-cubes",
+    "full_name": "hmans/learn-bevy-cube-of-cubes",
+    "html_url": "https://github.com/hmans/learn-bevy-cube-of-cubes",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Rust": 3032
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 223.48,
+    "S_code": 2.96,
+    "S_social": 1,
+    "S_maint": 22
+  },
+  {
+    "name": "xml-muncher",
+    "full_name": "hmans/xml-muncher",
+    "html_url": "https://github.com/hmans/xml-muncher",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 8312
+    },
+    "contributions_by_user": 87,
+    "contribution_score": 876.06,
+    "S_code": 8.12,
+    "S_social": 1,
+    "S_maint": 87
+  },
+  {
+    "name": "Godot4-Node-Performance",
+    "full_name": "hmans/Godot4-Node-Performance",
+    "html_url": "https://github.com/hmans/Godot4-Node-Performance",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "GDScript": 3666
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 63.79,
+    "S_code": 3.58,
+    "S_social": 1,
+    "S_maint": 6
+  },
+  {
+    "name": "blocks-template",
+    "full_name": "hmans/blocks-template",
+    "html_url": "https://github.com/hmans/blocks-template",
+    "description": "A template for creating custom Blocks.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2401,
+      "JavaScript": 557,
+      "CSS": 34
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.46,
+    "S_code": 2.92,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ecs-benchmark",
+    "full_name": "hmans/ecs-benchmark",
+    "html_url": "https://github.com/hmans/ecs-benchmark",
+    "description": "ECS benchmark comparison",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 85586
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 53.79,
+    "S_code": 83.58,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "hello-worlds",
+    "full_name": "hmans/hello-worlds",
+    "html_url": "https://github.com/hmans/hello-worlds",
+    "description": "Virtual javascript worlds at planetary scales for your threejs or react-three-fiber scene 👋🌐",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 169415,
+      "GLSL": 21654,
+      "JavaScript": 6171,
+      "CSS": 1584,
+      "Dockerfile": 960
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 99.55,
+    "S_code": 195.1,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "spacerage",
+    "full_name": "hmans/spacerage",
+    "html_url": "https://github.com/hmans/spacerage",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 15501,
+      "HTML": 366,
+      "CSS": 196
+    },
+    "contributions_by_user": 54,
+    "contribution_score": 549.84,
+    "S_code": 15.69,
+    "S_social": 1,
+    "S_maint": 54
+  },
+  {
+    "name": "splodybox",
+    "full_name": "hmans/splodybox",
+    "html_url": "https://github.com/hmans/splodybox",
+    "description": "A VFX/R3F demo",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 15308,
+      "HTML": 1721,
+      "CSS": 340
+    },
+    "contributions_by_user": 53,
+    "contribution_score": 540.48,
+    "S_code": 16.96,
+    "S_social": 1,
+    "S_maint": 53
+  },
+  {
+    "name": "glowlayer",
+    "full_name": "hmans/glowlayer",
+    "html_url": "https://github.com/hmans/glowlayer",
+    "description": "Experimental Glow Layer for Three.js",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 3042,
+      "HTML": 1721,
+      "CSS": 139
+    },
+    "contributions_by_user": 36,
+    "contribution_score": 368.39,
+    "S_code": 4.79,
+    "S_social": 3,
+    "S_maint": 36
+  },
+  {
+    "name": "three-increments",
+    "full_name": "hmans/three-increments",
+    "html_url": "https://github.com/hmans/three-increments",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3993,
+      "JavaScript": 344
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 124.12,
+    "S_code": 4.24,
+    "S_social": 1,
+    "S_maint": 12
+  },
+  {
+    "name": "sprudel",
+    "full_name": "hmans/sprudel",
+    "html_url": "https://github.com/hmans/sprudel",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 26376,
+      "JavaScript": 7214
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 18.4,
+    "S_code": 32.8,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "trinity-examples",
+    "full_name": "hmans/trinity-examples",
+    "html_url": "https://github.com/hmans/trinity-examples",
+    "description": "A collection of examples for (and experiments with) the Trinity framework.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9339,
+      "TypeScript": 7421,
+      "SCSS": 2566,
+      "HTML": 1786
+    },
+    "contributions_by_user": 70,
+    "contribution_score": 712.31,
+    "S_code": 20.62,
+    "S_social": 1,
+    "S_maint": 70
+  },
+  {
+    "name": "twotter",
+    "full_name": "hmans/twotter",
+    "html_url": "https://github.com/hmans/twotter",
+    "description": "TWOTTER 🦆 - a little playground app for my Ruby on Rails trainings.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Ruby": 67744,
+      "HTML": 8446,
+      "CSS": 3253,
+      "JavaScript": 1175,
+      "CoffeeScript": 989
+    },
+    "contributions_by_user": 91,
+    "contribution_score": 955.85,
+    "S_code": 79.69,
+    "S_social": 3,
+    "S_maint": 91
+  },
+  {
+    "name": "ruby-oembed",
+    "full_name": "hmans/ruby-oembed",
+    "html_url": "https://github.com/hmans/ruby-oembed",
+    "description": "oEmbed for Ruby",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 113904
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 67.62,
+    "S_code": 111.23,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "awesome-android",
+    "full_name": "hmans/awesome-android",
+    "html_url": "https://github.com/hmans/awesome-android",
+    "description": "A curated list of awesome Android packages and resources.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 6.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "panties",
+    "full_name": "hmans/panties",
+    "html_url": "https://github.com/hmans/panties",
+    "description": "Command line client for #pants.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 3528
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 63.72,
+    "S_code": 3.45,
+    "S_social": 1,
+    "S_maint": 6
+  },
+  {
+    "name": "resourcery",
+    "full_name": "hmans/resourcery",
+    "html_url": "https://github.com/hmans/resourcery",
+    "description": "It's resource sorcery! Or something.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 23257,
+      "JavaScript": 641
+    },
+    "contributions_by_user": 47,
+    "contribution_score": 483.67,
+    "S_code": 23.34,
+    "S_social": 1,
+    "S_maint": 47
+  },
+  {
+    "name": "imaginary",
+    "full_name": "hmans/imaginary",
+    "html_url": "https://github.com/hmans/imaginary",
+    "description": "Client gem for Imaginary.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 5036
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 184.46,
+    "S_code": 4.92,
+    "S_social": 1,
+    "S_maint": 18
+  },
+  {
+    "name": "compass-naked",
+    "full_name": "hmans/compass-naked",
+    "html_url": "https://github.com/hmans/compass-naked",
+    "description": "An experimental Rack-only app I'm using to find the easiest way to integrate Compass with Tilt.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 742
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 22.36,
+    "S_code": 0.72,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "happy-helpers",
+    "full_name": "hmans/happy-helpers",
+    "html_url": "https://github.com/hmans/happy-helpers",
+    "description": "[Deprecated!] View helpers for your custom Rack app or framework.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 9129
+    },
+    "contributions_by_user": 49,
+    "contribution_score": 496.46,
+    "S_code": 8.92,
+    "S_social": 1,
+    "S_maint": 49
+  },
+  {
+    "name": "happy-cli",
+    "full_name": "hmans/happy-cli",
+    "html_url": "https://github.com/hmans/happy-cli",
+    "description": "Command line tool for the Happy web application toolkit.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 3083
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 143.51,
+    "S_code": 3.01,
+    "S_social": 1,
+    "S_maint": 14
+  },
+  {
+    "name": "schnitzelstyle",
+    "full_name": "hmans/schnitzelstyle",
+    "html_url": "https://github.com/hmans/schnitzelstyle",
+    "description": "A tiny, light-weight, hopefully sane CSS framework with a Schnitzel flavor.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 2174,
+      "JavaScript": 1602
+    },
+    "contributions_by_user": 152,
+    "contribution_score": 1523.84,
+    "S_code": 3.69,
+    "S_social": 1,
+    "S_maint": 152
+  },
+  {
+    "name": "schnitzelpress-org",
+    "full_name": "hmans/schnitzelpress-org",
+    "html_url": "https://github.com/hmans/schnitzelpress-org",
+    "description": "The source code for schnitzelpress.org.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 887
+    },
+    "contributions_by_user": 43,
+    "contribution_score": 432.43,
+    "S_code": 0.87,
+    "S_social": 1,
+    "S_maint": 43
+  },
+  {
+    "name": "hmans_net",
+    "full_name": "hmans/hmans_net",
+    "html_url": "https://github.com/hmans/hmans_net",
+    "description": "My personal weblog, powered by SchnitzelPress (www.schnitzelpress.org)",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 1124
+    },
+    "contributions_by_user": 213,
+    "contribution_score": 2132.55,
+    "S_code": 1.1,
+    "S_social": 1,
+    "S_maint": 213
+  },
+  {
+    "name": "schnitzel-rails-template",
+    "full_name": "hmans/schnitzel-rails-template",
+    "html_url": "https://github.com/hmans/schnitzel-rails-template",
+    "description": "The Team Schnitzel Rails application template. \\o/",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Ruby": 1674
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 196.82,
+    "S_code": 1.63,
+    "S_social": 3,
+    "S_maint": 19
+  },
+  {
+    "name": "document_mapper",
+    "full_name": "hmans/document_mapper",
+    "html_url": "https://github.com/hmans/document_mapper",
+    "description": "Simple model layer that let's you query text documents as if they were a database.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 24506
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 63.97,
+    "S_code": 23.93,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "publicbox",
+    "full_name": "hmans/publicbox",
+    "html_url": "https://github.com/hmans/publicbox",
+    "description": "Serves JSON indices of your favorite public Dropbox folders.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 786
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 92.38,
+    "S_code": 0.77,
+    "S_social": 1,
+    "S_maint": 9
+  },
+  {
+    "name": "homebrew",
+    "full_name": "hmans/homebrew",
+    "html_url": "https://github.com/hmans/homebrew",
+    "description": "The missing package manager for OS X.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 1727956,
+      "Shell": 12994,
+      "Python": 7810,
+      "JavaScript": 18
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 855.9,
+    "S_code": 1707.79,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "fun-with-kittehs-presentation",
+    "full_name": "hmans/fun-with-kittehs-presentation",
+    "html_url": "https://github.com/hmans/fun-with-kittehs-presentation",
+    "description": "Fun With Kittehs. Yeah.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 6,
+    "contribution_score": 62.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 6
+  },
+  {
+    "name": "dragonfly",
+    "full_name": "hmans/dragonfly",
+    "html_url": "https://github.com/hmans/dragonfly",
+    "description": "An on-the-fly processing/encoding framework written as a Rack application.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "heroku-rails",
+    "full_name": "hmans/heroku-rails",
+    "html_url": "https://github.com/hmans/heroku-rails",
+    "description": "easy configuration / multi-environment setup with heroku with deployment hooks",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "homebrew-beans",
+    "full_name": "hmans/homebrew-beans",
+    "html_url": "https://github.com/hmans/homebrew-beans",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 1291
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.63,
+    "S_code": 1.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bruin",
+    "full_name": "hmans/bruin",
+    "html_url": "https://github.com/hmans/bruin",
+    "description": "Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 8684611,
+      "Go": 1119418,
+      "Shell": 12152,
+      "Makefile": 2479
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4794.27,
+    "S_code": 9588.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lovr-docs",
+    "full_name": "hmans/lovr-docs",
+    "html_url": "https://github.com/hmans/lovr-docs",
+    "description": "Documentation for LÖVR",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 2888117
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1410.21,
+    "S_code": 2820.43,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "kit",
+    "full_name": "hmans/kit",
+    "html_url": "https://github.com/hmans/kit",
+    "description": "web development, streamlined",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 840860,
+      "TypeScript": 137198,
+      "Svelte": 59023,
+      "HTML": 4360,
+      "CSS": 2941,
+      "Shell": 1002
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 510.44,
+    "S_code": 1020.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "homedir",
+    "full_name": "hmans/homedir",
+    "html_url": "https://github.com/hmans/homedir",
+    "description": "Dotfiles et al from my home directory.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 24318,
+      "Lua": 6933,
+      "Shell": 6582,
+      "Vim Script": 2466
+    },
+    "contributions_by_user": 155,
+    "contribution_score": 1569.68,
+    "S_code": 39.35,
+    "S_social": 0,
+    "S_maint": 155
+  },
+  {
+    "name": "godot",
+    "full_name": "hmans/godot",
+    "html_url": "https://github.com/hmans/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 41667380,
+      "C#": 1756273,
+      "C": 1436010,
+      "GLSL": 888888,
+      "Java": 605788,
+      "Python": 478180,
+      "Objective-C++": 422574,
+      "JavaScript": 205904,
+      "GDScript": 130411,
+      "Kotlin": 95690,
+      "Shell": 35713,
+      "Objective-C": 24461,
+      "PowerShell": 2713,
+      "AppleScript": 2190,
+      "AIDL": 1633,
+      "CMake": 638,
+      "GAP": 62
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23317.63,
+    "S_code": 46635.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "godot-docs",
+    "full_name": "hmans/godot-docs",
+    "html_url": "https://github.com/hmans/godot-docs",
+    "description": "Godot Engine official documentation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "reStructuredText": 21235620,
+      "CSS": 53607,
+      "Python": 47779,
+      "JavaScript": 19628,
+      "Makefile": 7948,
+      "HTML": 6249,
+      "GDScript": 3328,
+      "Shell": 2261,
+      "Batchfile": 813
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10438.1,
+    "S_code": 20876.2,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "phanpy",
+    "full_name": "hmans/phanpy",
+    "html_url": "https://github.com/hmans/phanpy",
+    "description": "A minimalistic opinionated Mastodon web client",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 391778,
+      "CSS": 108450,
+      "HTML": 2223,
+      "Shell": 58
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 245.37,
+    "S_code": 490.73,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ShaderFunction-Extras",
+    "full_name": "hmans/ShaderFunction-Extras",
+    "html_url": "https://github.com/hmans/ShaderFunction-Extras",
+    "description": "An addon with a lot of helpful functions for Godot 4.0 to use in custom written shaders",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gitignore",
+    "full_name": "hmans/gitignore",
+    "html_url": "https://github.com/hmans/gitignore",
+    "description": "A collection of useful .gitignore templates",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "GodotVisualShaderExtension",
+    "full_name": "hmans/GodotVisualShaderExtension",
+    "html_url": "https://github.com/hmans/GodotVisualShaderExtension",
+    "description": "An Godot 4 GDExtension for experimental Visual Shader nodes to test out and possibly integrate into Godot core ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 2461,
+      "Python": 1007,
+      "C": 176,
+      "GDScript": 128
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.84,
+    "S_code": 3.68,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "monorepo-template",
+    "full_name": "hmans/monorepo-template",
+    "html_url": "https://github.com/hmans/monorepo-template",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 226,
+      "TypeScript": 198
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 120.21,
+    "S_code": 0.41,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "hmans",
+    "full_name": "hmans/hmans",
+    "html_url": "https://github.com/hmans/hmans",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 33,
+    "contribution_score": 330.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 33
+  },
+  {
+    "name": "com.unity.ide.vscode",
+    "full_name": "hmans/com.unity.ide.vscode",
+    "html_url": "https://github.com/hmans/com.unity.ide.vscode",
+    "description": "Code editor integration for VSCode.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 132417
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 64.66,
+    "S_code": 129.31,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "eleventyone-test",
+    "full_name": "hmans/eleventyone-test",
+    "html_url": "https://github.com/hmans/eleventyone-test",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 7705,
+      "HTML": 1891,
+      "CSS": 1869
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 35.6,
+    "S_code": 11.2,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "hylia-test",
+    "full_name": "hmans/hylia-test",
+    "html_url": "https://github.com/hmans/hylia-test",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 16696,
+      "CSS": 14408,
+      "JavaScript": 9838
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 79.99,
+    "S_code": 39.98,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "typescript-webpack-starter",
+    "full_name": "hmans/typescript-webpack-starter",
+    "html_url": "https://github.com/hmans/typescript-webpack-starter",
+    "description": "There are many TypeScript & WebPack starters. This one is mine.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1732,
+      "TypeScript": 235,
+      "HTML": 152,
+      "CSS": 26
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 151.05,
+    "S_code": 2.09,
+    "S_social": 0,
+    "S_maint": 15
+  },
+  {
+    "name": "blocks-playground",
+    "full_name": "hmans/blocks-playground",
+    "html_url": "https://github.com/hmans/blocks-playground",
+    "description": "🎵",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "geometry-survivors",
+    "full_name": "hmans/geometry-survivors",
+    "html_url": "https://github.com/hmans/geometry-survivors",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3965,
+      "HTML": 341,
+      "CSS": 131
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 252.17,
+    "S_code": 4.33,
+    "S_social": 0,
+    "S_maint": 25
+  },
+  {
+    "name": "hmans.co-solid-start",
+    "full_name": "hmans/hmans.co-solid-start",
+    "html_url": "https://github.com/hmans/hmans.co-solid-start",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 4924,
+      "SCSS": 1091,
+      "CSS": 499
+    },
+    "contributions_by_user": 36,
+    "contribution_score": 363.18,
+    "S_code": 6.36,
+    "S_social": 0,
+    "S_maint": 36
+  },
+  {
+    "name": "repro-link-escaping",
+    "full_name": "hmans/repro-link-escaping",
+    "html_url": "https://github.com/hmans/repro-link-escaping",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2002,
+      "CSS": 927
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 41.43,
+    "S_code": 2.86,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "react-three-rapier",
+    "full_name": "hmans/react-three-rapier",
+    "html_url": "https://github.com/hmans/react-three-rapier",
+    "description": "🤺 Rapier physics in React",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 77567,
+      "JavaScript": 530
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 98.13,
+    "S_code": 76.27,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "react-three-fiber",
+    "full_name": "hmans/react-three-fiber",
+    "html_url": "https://github.com/hmans/react-three-fiber",
+    "description": "🇨🇭 A React renderer for Three.js",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 303114,
+      "JavaScript": 1319,
+      "HTML": 377,
+      "Shell": 68
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 198.87,
+    "S_code": 297.73,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "r3f-stage",
+    "full_name": "hmans/r3f-stage",
+    "html_url": "https://github.com/hmans/r3f-stage",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 110,
+    "contribution_score": 1100.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 110
+  },
+  {
+    "name": "composertoy",
+    "full_name": "hmans/composertoy",
+    "html_url": "https://github.com/hmans/composertoy",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 7082,
+      "HTML": 457,
+      "CSS": 393
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 93.87,
+    "S_code": 7.75,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "ui-composer",
+    "full_name": "hmans/ui-composer",
+    "html_url": "https://github.com/hmans/ui-composer",
+    "description": "UI for React games.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3295,
+      "CSS": 2698,
+      "JavaScript": 631
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 43.23,
+    "S_code": 6.47,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "tunnel-rat-debug",
+    "full_name": "hmans/tunnel-rat-debug",
+    "html_url": "https://github.com/hmans/tunnel-rat-debug",
+    "description": "A quick Vite 3 app for debugging HMR issues around tunnel-rat.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2787,
+      "CSS": 1782,
+      "HTML": 366
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.41,
+    "S_code": 4.82,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "THREE-CustomShaderMaterial",
+    "full_name": "hmans/THREE-CustomShaderMaterial",
+    "html_url": "https://github.com/hmans/THREE-CustomShaderMaterial",
+    "description": "Extend Three.js standard materials with your own shaders!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 12945,
+      "JavaScript": 1955,
+      "Shell": 766
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.65,
+    "S_code": 15.3,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tunnel-rat",
+    "full_name": "hmans/tunnel-rat",
+    "html_url": "https://github.com/hmans/tunnel-rat",
+    "description": "🐀 Non gratum anus rodentum",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 5740,
+      "JavaScript": 1782
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 53.67,
+    "S_code": 7.35,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "camera-composer",
+    "full_name": "hmans/camera-composer",
+    "html_url": "https://github.com/hmans/camera-composer",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 582,
+      "JavaScript": 494,
+      "HTML": 366
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.7,
+    "S_code": 1.41,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "state-composer",
+    "full_name": "hmans/state-composer",
+    "html_url": "https://github.com/hmans/state-composer",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 582,
+      "JavaScript": 494,
+      "HTML": 366
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 40.7,
+    "S_code": 1.41,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "glNoise",
+    "full_name": "hmans/glNoise",
+    "html_url": "https://github.com/hmans/glNoise",
+    "description": "A collection of GLSL noise functions for use with WebGL with an easy to use API.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "GLSL": 27632,
+      "TypeScript": 9768,
+      "JavaScript": 8009,
+      "Shell": 2577,
+      "CSS": 106
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.48,
+    "S_code": 46.96,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "shadercraft",
+    "full_name": "hmans/shadercraft",
+    "html_url": "https://github.com/hmans/shadercraft",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 201,
+      "TypeScript": 25
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 40.11,
+    "S_code": 0.22,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "shadenfreude-sandbox",
+    "full_name": "hmans/shadenfreude-sandbox",
+    "html_url": "https://github.com/hmans/shadenfreude-sandbox",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8067,
+      "HTML": 1732,
+      "CSS": 541
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 245.05,
+    "S_code": 10.1,
+    "S_social": 0,
+    "S_maint": 24
+  },
+  {
+    "name": "things-1",
+    "full_name": "hmans/things-1",
+    "html_url": "https://github.com/hmans/things-1",
+    "description": "Loose collection of *things*",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 19228,
+      "JavaScript": 124,
+      "Shell": 58
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.48,
+    "S_code": 18.96,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "notes",
+    "full_name": "hmans/notes",
+    "html_url": "https://github.com/hmans/notes",
+    "description": "Assorted (learning) notes.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 22,
+    "contribution_score": 220.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 22
+  },
+  {
+    "name": "react-spring",
+    "full_name": "hmans/react-spring",
+    "html_url": "https://github.com/hmans/react-spring",
+    "description": "✌️ A spring physics based React animation library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 362316,
+      "JavaScript": 7886,
+      "CSS": 472,
+      "HTML": 364,
+      "Shell": 160
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 181.25,
+    "S_code": 362.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "drei",
+    "full_name": "hmans/drei",
+    "html_url": "https://github.com/hmans/drei",
+    "description": "🥉 useful helpers for react-three-fiber",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1456553,
+      "TypeScript": 403307,
+      "GLSL": 3172,
+      "CSS": 921,
+      "HTML": 381,
+      "Shell": 187
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 910.41,
+    "S_code": 1820.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "blog",
+    "full_name": "hmans/blog",
+    "html_url": "https://github.com/hmans/blog",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Astro": 2564,
+      "TypeScript": 383,
+      "JavaScript": 280
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 261.58,
+    "S_code": 3.15,
+    "S_social": 0,
+    "S_maint": 26
+  },
+  {
+    "name": "js-ecs-benchmarks",
+    "full_name": "hmans/js-ecs-benchmarks",
+    "html_url": "https://github.com/hmans/js-ecs-benchmarks",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 31324
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.29,
+    "S_code": 30.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rapier.js",
+    "full_name": "hmans/rapier.js",
+    "html_url": "https://github.com/hmans/rapier.js",
+    "description": "Official JavaScript bindings for the Rapier physics engine.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2928784,
+      "TypeScript": 232990,
+      "Rust": 144559,
+      "Shell": 3584,
+      "HTML": 506
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 1626.42,
+    "S_code": 3232.83,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "shadonkulous",
+    "full_name": "hmans/shadonkulous",
+    "html_url": "https://github.com/hmans/shadonkulous",
+    "description": "Experiments in shader-based particle systems",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 12110,
+      "HTML": 1721,
+      "CSS": 340
+    },
+    "contributions_by_user": 52,
+    "contribution_score": 526.92,
+    "S_code": 13.84,
+    "S_social": 0,
+    "S_maint": 52
+  },
+  {
+    "name": "games-with-react",
+    "full_name": "hmans/games-with-react",
+    "html_url": "https://github.com/hmans/games-with-react",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "react-toolbox",
+    "full_name": "hmans/react-toolbox",
+    "html_url": "https://github.com/hmans/react-toolbox",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 459
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 60.22,
+    "S_code": 0.45,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "revade",
+    "full_name": "hmans/revade",
+    "html_url": "https://github.com/hmans/revade",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 18286,
+      "CSS": 870,
+      "HTML": 364
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 209.53,
+    "S_code": 19.06,
+    "S_social": 0,
+    "S_maint": 20
+  },
+  {
+    "name": "instance-playground",
+    "full_name": "hmans/instance-playground",
+    "html_url": "https://github.com/hmans/instance-playground",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 14384,
+      "CSS": 870,
+      "HTML": 376
+    },
+    "contributions_by_user": 56,
+    "contribution_score": 567.63,
+    "S_code": 15.26,
+    "S_social": 0,
+    "S_maint": 56
+  },
+  {
+    "name": "maxiplex",
+    "full_name": "hmans/maxiplex",
+    "html_url": "https://github.com/hmans/maxiplex",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 311,
+      "TypeScript": 25
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.16,
+    "S_code": 0.33,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "orleans",
+    "full_name": "hmans/orleans",
+    "html_url": "https://github.com/hmans/orleans",
+    "description": "Orleans is a cross-platform framework for building distributed applications with .NET",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 9557850,
+      "TSQL": 24725,
+      "PLpgSQL": 22008,
+      "PLSQL": 21336,
+      "PowerShell": 6162,
+      "Shell": 2686,
+      "Batchfile": 2554,
+      "F#": 2546,
+      "Smalltalk": 1436,
+      "Dockerfile": 780
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4708.05,
+    "S_code": 9416.1,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Scaleroids",
+    "full_name": "hmans/Scaleroids",
+    "html_url": "https://github.com/hmans/Scaleroids",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "GDScript": 46
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.02,
+    "S_code": 0.04,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "nimraylib_now",
+    "full_name": "hmans/nimraylib_now",
+    "html_url": "https://github.com/hmans/nimraylib_now",
+    "description": "The Ultimate Raylib gaming library wrapper for Nim",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 2682255,
+      "Nim": 1667140,
+      "HTML": 13452,
+      "CMake": 3795
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2132.15,
+    "S_code": 4264.3,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "modernweb-dev-web",
+    "full_name": "hmans/modernweb-dev-web",
+    "html_url": "https://github.com/hmans/modernweb-dev-web",
+    "description": "Guides, tools and libraries for modern web development.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 920465,
+      "JavaScript": 732046,
+      "HTML": 32479,
+      "CSS": 48
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 822.77,
+    "S_code": 1645.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "three.js",
+    "full_name": "hmans/three.js",
+    "html_url": "https://github.com/hmans/three.js",
+    "description": "JavaScript 3D library.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5966095,
+      "CSS": 29896,
+      "HTML": 16329
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2935.7,
+    "S_code": 5871.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "atom",
+    "full_name": "hmans/atom",
+    "html_url": "https://github.com/hmans/atom",
+    "description": ":atom: The hackable text editor",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4467890,
+      "Less": 395145,
+      "CoffeeScript": 151539,
+      "Shell": 7420,
+      "Batchfile": 2431,
+      "HTML": 460,
+      "Dockerfile": 354
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2453.73,
+    "S_code": 4907.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "next-netlify-starter",
+    "full_name": "hmans/next-netlify-starter",
+    "html_url": "https://github.com/hmans/next-netlify-starter",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1022,
+      "CSS": 814
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.9,
+    "S_code": 1.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "valtio",
+    "full_name": "hmans/valtio",
+    "html_url": "https://github.com/hmans/valtio",
+    "description": "💊 Valtio makes proxy-state simple  for React and Vanilla",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 31916,
+      "JavaScript": 2758
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.93,
+    "S_code": 33.86,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "three-nebula",
+    "full_name": "hmans/three-nebula",
+    "html_url": "https://github.com/hmans/three-nebula",
+    "description": "WebGL based particle system engine for three.js",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 501834,
+      "SCSS": 17146,
+      "HTML": 8036,
+      "CSS": 1632,
+      "Shell": 742
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 258.49,
+    "S_code": 516.98,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "zustand",
+    "full_name": "hmans/zustand",
+    "html_url": "https://github.com/hmans/zustand",
+    "description": "🐻 Bear necessities for state management in React",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 31564,
+      "JavaScript": 3055
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.9,
+    "S_code": 33.81,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vuepress-theme-casper",
+    "full_name": "hmans/vuepress-theme-casper",
+    "html_url": "https://github.com/hmans/vuepress-theme-casper",
+    "description": "Ghost default theme ported to vuepress",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vue": 17575,
+      "JavaScript": 7269,
+      "Shell": 1483
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.85,
+    "S_code": 25.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cannon-es",
+    "full_name": "hmans/cannon-es",
+    "html_url": "https://github.com/hmans/cannon-es",
+    "description": "💣 A lightweight 3D physics engine written in JavaScript.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 399788,
+      "HTML": 24309,
+      "JavaScript": 1311
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 207.72,
+    "S_code": 415.44,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "threejs-lightmap-baker",
+    "full_name": "hmans/threejs-lightmap-baker",
+    "html_url": "https://github.com/hmans/threejs-lightmap-baker",
+    "description": "Experimental in-browser lightmap baker (ThreeJS, react-three-fiber)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 61370,
+      "HTML": 1721,
+      "CSS": 435
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 31.02,
+    "S_code": 62.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "engine",
+    "full_name": "hmans/engine",
+    "html_url": "https://github.com/hmans/engine",
+    "description": "Fast and lightweight JavaScript game engine built on WebGL and glTF",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3994131,
+      "GLSL": 103473
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2000.78,
+    "S_code": 4001.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "r3f-flat-terrain",
+    "full_name": "hmans/r3f-flat-terrain",
+    "html_url": "https://github.com/hmans/r3f-flat-terrain",
+    "description": "Created with CodeSandbox",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1876,
+      "HTML": 1586,
+      "CSS": 113
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 21.75,
+    "S_code": 3.49,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "com.unity.vscode_editor",
+    "full_name": "hmans/com.unity.vscode_editor",
+    "html_url": "https://github.com/hmans/com.unity.vscode_editor",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 42945
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.97,
+    "S_code": 41.94,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pixi.js",
+    "full_name": "hmans/pixi.js",
+    "html_url": "https://github.com/hmans/pixi.js",
+    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1183547,
+      "JavaScript": 672236,
+      "GLSL": 14550,
+      "PLSQL": 9152
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 917.72,
+    "S_code": 1835.43,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ts-loader",
+    "full_name": "hmans/ts-loader",
+    "html_url": "https://github.com/hmans/ts-loader",
+    "description": "TypeScript loader for webpack",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9672744,
+      "TypeScript": 295402,
+      "HTML": 4130,
+      "Dockerfile": 2416,
+      "Vue": 407
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4870.65,
+    "S_code": 9741.31,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "keep-a-changelog",
+    "full_name": "hmans/keep-a-changelog",
+    "html_url": "https://github.com/hmans/keep-a-changelog",
+    "description": "If you build software, keep a changelog.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 431192,
+      "Ruby": 11082,
+      "CSS": 8717,
+      "JavaScript": 1108
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 220.75,
+    "S_code": 441.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ecsy",
+    "full_name": "hmans/ecsy",
+    "html_url": "https://github.com/hmans/ecsy",
+    "description": "Highly experimental Entity Component System for javascript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 152184,
+      "HTML": 2255
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 75.41,
+    "S_code": 150.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "caxlsx",
+    "full_name": "hmans/caxlsx",
+    "html_url": "https://github.com/hmans/caxlsx",
+    "description": "    xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 795757
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 388.55,
+    "S_code": 777.11,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fengari",
+    "full_name": "hmans/fengari",
+    "html_url": "https://github.com/hmans/fengari",
+    "description": "🐺 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1152614,
+      "Lua": 1423,
+      "AMPL": 170
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 563.58,
+    "S_code": 1127.16,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hmans.io",
+    "full_name": "hmans/hmans.io",
+    "html_url": "https://github.com/hmans/hmans.io",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 6672,
+      "HTML": 871
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 53.68,
+    "S_code": 7.37,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "crystal",
+    "full_name": "hmans/crystal",
+    "html_url": "https://github.com/hmans/crystal",
+    "description": "The Crystal Programming Language",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Crystal": 6916902,
+      "JavaScript": 55572,
+      "HTML": 25078,
+      "C++": 17042,
+      "Shell": 16653,
+      "CSS": 13513,
+      "Makefile": 5220,
+      "C": 652
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3442.69,
+    "S_code": 6885.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "taxi",
+    "full_name": "hmans/taxi",
+    "html_url": "https://github.com/hmans/taxi",
+    "description": "Compact hypertext generation DSL for Crystal.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Crystal": 1238
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 70.6,
+    "S_code": 1.21,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "expresspants",
+    "full_name": "hmans/expresspants",
+    "html_url": "https://github.com/hmans/expresspants",
+    "description": "Just a quick experiment with Node, Express, and CoffeeScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CoffeeScript": 1457,
+      "HTML": 129
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 140.77,
+    "S_code": 1.55,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "sentry",
+    "full_name": "hmans/sentry",
+    "html_url": "https://github.com/hmans/sentry",
+    "description": "Build/Runs your crystal application, watches files, and rebuilds/restarts app on file changes",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Crystal": 10419,
+      "Ruby": 1324
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.73,
+    "S_code": 11.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fengari-interop",
+    "full_name": "hmans/fengari-interop",
+    "html_url": "https://github.com/hmans/fengari-interop",
+    "description": "Fengari <=> JS Interop",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 46707
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22.81,
+    "S_code": 45.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "autolink.cr",
+    "full_name": "hmans/autolink.cr",
+    "html_url": "https://github.com/hmans/autolink.cr",
+    "description": ":link: Auto link for Crystal",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Crystal": 6878
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.36,
+    "S_code": 6.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "markd",
+    "full_name": "hmans/markd",
+    "html_url": "https://github.com/hmans/markd",
+    "description": "Yet another markdown parser, Compliant to CommonMark specification, written in Crystal.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Crystal": 181768,
+      "JavaScript": 267
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 88.88,
+    "S_code": 177.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "docker-capybara-chrome-headless",
+    "full_name": "hmans/docker-capybara-chrome-headless",
+    "html_url": "https://github.com/hmans/docker-capybara-chrome-headless",
+    "description": "Docker container running the capybara acceptance test framework with the selenium driver and chrome browser in headless mode",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "poopfilter",
+    "full_name": "hmans/poopfilter",
+    "html_url": "https://github.com/hmans/poopfilter",
+    "description": "Don't ask. Just 💩.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 21146,
+      "HTML": 817
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 50.72,
+    "S_code": 21.45,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "can_render_markdown",
+    "full_name": "hmans/can_render_markdown",
+    "html_url": "https://github.com/hmans/can_render_markdown",
+    "description": "Training gem",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 4388,
+      "Shell": 131
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 22.21,
+    "S_code": 4.41,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "poopychat-firestore-experiment",
+    "full_name": "hmans/poopychat-firestore-experiment",
+    "html_url": "https://github.com/hmans/poopychat-firestore-experiment",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 20492,
+      "Vue": 1036,
+      "HTML": 270
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 90.64,
+    "S_code": 21.29,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "byo",
+    "full_name": "hmans/byo",
+    "html_url": "https://github.com/hmans/byo",
+    "description": "It's pronounced like \"Beeyo\" would be in English. Because why the f not.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 5432007,
+      "C++": 1985892,
+      "C": 370387,
+      "HTML": 163390,
+      "POV-Ray SDL": 88241,
+      "Python": 82408,
+      "DTrace": 37428,
+      "Makefile": 31614,
+      "Batchfile": 22853,
+      "Roff": 15312,
+      "R": 5359,
+      "Shell": 1944
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4025.89,
+    "S_code": 8043.78,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "vuex",
+    "full_name": "hmans/vuex",
+    "html_url": "https://github.com/hmans/vuex",
+    "description": "Centralized State Management for Vue.js.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 73311,
+      "TypeScript": 6407,
+      "Shell": 489
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 39.16,
+    "S_code": 78.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ecto",
+    "full_name": "hmans/ecto",
+    "html_url": "https://github.com/hmans/ecto",
+    "description": "A database wrapper and language integrated query for Elixir",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 1553024
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 758.31,
+    "S_code": 1516.62,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "flutterby-coffeescript",
+    "full_name": "hmans/flutterby-coffeescript",
+    "html_url": "https://github.com/hmans/flutterby-coffeescript",
+    "description": "Experimental Flutterby plugin",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 2246,
+      "Shell": 131
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 91.16,
+    "S_code": 2.32,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "flexiby",
+    "full_name": "hmans/flexiby",
+    "html_url": "https://github.com/hmans/flexiby",
+    "description": "?!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 6973,
+      "HTML": 329,
+      "CSS": 86
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 243.61,
+    "S_code": 7.21,
+    "S_social": 0,
+    "S_maint": 24
+  },
+  {
+    "name": "hmans.github.io-jekyll",
+    "full_name": "hmans/hmans.github.io-jekyll",
+    "html_url": "https://github.com/hmans/hmans.github.io-jekyll",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 2456,
+      "CSS": 2273,
+      "Ruby": 1801
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 103.19,
+    "S_code": 6.38,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "oldskool",
+    "full_name": "hmans/oldskool",
+    "html_url": "https://github.com/hmans/oldskool",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 40409,
+      "JavaScript": 4647,
+      "HTML": 2403,
+      "CSS": 2131
+    },
+    "contributions_by_user": 58,
+    "contribution_score": 604.21,
+    "S_code": 48.43,
+    "S_social": 0,
+    "S_maint": 58
+  },
+  {
+    "name": "pages-test",
+    "full_name": "hmans/pages-test",
+    "html_url": "https://github.com/hmans/pages-test",
+    "description": "This is a test.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "docs",
+    "full_name": "hmans/docs",
+    "html_url": "https://github.com/hmans/docs",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "learnjs",
+    "full_name": "hmans/learnjs",
+    "html_url": "https://github.com/hmans/learnjs",
+    "description": "Prepared Workspace for \"Serverless Single Page Apps\" @ Pragprog",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 114112,
+      "Shell": 10118,
+      "HTML": 1868,
+      "Makefile": 603,
+      "Python": 285
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 62.0,
+    "S_code": 124.01,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "love2d_starter_kit",
+    "full_name": "hmans/love2d_starter_kit",
+    "html_url": "https://github.com/hmans/love2d_starter_kit",
+    "description": "A starter kit for making games with LÖVE aka Love2D.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "restytesty",
+    "full_name": "hmans/restytesty",
+    "html_url": "https://github.com/hmans/restytesty",
+    "description": "Mucking around with OpenResty and Lua.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 340,
+      "Shell": 89
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.21,
+    "S_code": 0.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "microformats2",
+    "full_name": "hmans/microformats2",
+    "html_url": "https://github.com/hmans/microformats2",
+    "description": "A Ruby gem to parse HTML containing one or more microformats2 and return a collection of Ruby objects.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 56451,
+      "Ruby": 37906
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 46.07,
+    "S_code": 92.15,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cut-line",
+    "full_name": "hmans/cut-line",
+    "html_url": "https://github.com/hmans/cut-line",
+    "description": "Atom package - cut the current line when no text is selected",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "CoffeeScript": 1603
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 24.78,
+    "S_code": 1.57,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "atom-light-ui",
+    "full_name": "hmans/atom-light-ui",
+    "html_url": "https://github.com/hmans/atom-light-ui",
+    "description": "Atom Light UI theme",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 19197
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 39.37,
+    "S_code": 18.75,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "ashton",
+    "full_name": "hmans/ashton",
+    "html_url": "https://github.com/hmans/ashton",
+    "description": "Special graphical effects and other extensions for the Ruby/Gosu game library.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 2086603,
+      "Ruby": 120190,
+      "C++": 207
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1077.64,
+    "S_code": 2155.27,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gamebox",
+    "full_name": "hmans/gamebox",
+    "html_url": "https://github.com/hmans/gamebox",
+    "description": "A game template for building and distributing Gosu apps.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 371492,
+      "Shell": 46
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 181.42,
+    "S_code": 362.83,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "schnitzel",
+    "full_name": "hmans/schnitzel",
+    "html_url": "https://github.com/hmans/schnitzel",
+    "description": "Eh.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 4621
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 252.26,
+    "S_code": 4.51,
+    "S_social": 0,
+    "S_maint": 25
+  },
+  {
+    "name": "gosu",
+    "full_name": "hmans/gosu",
+    "html_url": "https://github.com/hmans/gosu",
+    "description": "2D game development library for the desktop (Ruby and C++) and iOS (C++ only), MIT licensed.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 2363476,
+      "C++": 844378,
+      "Ruby": 174130,
+      "Objective-C": 85821,
+      "Shell": 557
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1693.54,
+    "S_code": 3387.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "omniauth-flattr",
+    "full_name": "hmans/omniauth-flattr",
+    "html_url": "https://github.com/hmans/omniauth-flattr",
+    "description": "A OmniAuth strategy for Flattr",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 3393
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.66,
+    "S_code": 3.31,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "imaginary-server",
+    "full_name": "hmans/imaginary-server",
+    "html_url": "https://github.com/hmans/imaginary-server",
+    "description": "Imaginary: a server that deals with images.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 28040,
+      "JavaScript": 641
+    },
+    "contributions_by_user": 80,
+    "contribution_score": 814.0,
+    "S_code": 28.01,
+    "S_social": 0,
+    "S_maint": 80
+  },
+  {
+    "name": "dragonfly-imaginary",
+    "full_name": "hmans/dragonfly-imaginary",
+    "html_url": "https://github.com/hmans/dragonfly-imaginary",
+    "description": "Imaginary data store plugin for Dragonfly.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 2049
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 41.0,
+    "S_code": 2.0,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "ffaker",
+    "full_name": "hmans/ffaker",
+    "html_url": "https://github.com/hmans/ffaker",
+    "description": "Faker refactored. Cleaner. Faster.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 264415,
+      "Shell": 60
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 129.14,
+    "S_code": 258.28,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bash-it",
+    "full_name": "hmans/bash-it",
+    "html_url": "https://github.com/hmans/bash-it",
+    "description": "A community bash framework.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 279145
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 166.3,
+    "S_code": 272.6,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "alchemy_crm",
+    "full_name": "hmans/alchemy_crm",
+    "html_url": "https://github.com/hmans/alchemy_crm",
+    "description": "A CRM and Newsletter Module for Alchemy CMS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 156082,
+      "JavaScript": 1783
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 77.08,
+    "S_code": 154.17,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "customers",
+    "full_name": "hmans/customers",
+    "html_url": "https://github.com/hmans/customers",
+    "description": "A small Rails 3 example app I like to use in my workshops.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 26963,
+      "JavaScript": 641,
+      "CoffeeScript": 229
+    },
+    "contributions_by_user": 31,
+    "contribution_score": 323.59,
+    "S_code": 27.18,
+    "S_social": 0,
+    "S_maint": 31
+  }
+]

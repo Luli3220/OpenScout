@@ -1,0 +1,2484 @@
+[
+  {
+    "name": "LocationManager",
+    "full_name": "intuit/LocationManager",
+    "html_url": "https://github.com/intuit/LocationManager",
+    "description": "Easily get the device's current location on iOS.",
+    "stars": 2559,
+    "forks": 386,
+    "languages": {
+      "Objective-C": 158987,
+      "Ruby": 2907
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6741.05,
+    "S_code": 158.1,
+    "S_social": 3331,
+    "S_maint": 0
+  },
+  {
+    "name": "CardParts",
+    "full_name": "intuit/CardParts",
+    "html_url": "https://github.com/intuit/CardParts",
+    "description": "A reactive, card-based UI framework built on UIKit for iOS developers.",
+    "stars": 2526,
+    "forks": 222,
+    "languages": {
+      "Swift": 405455,
+      "Ruby": 1585
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6138.75,
+    "S_code": 397.5,
+    "S_social": 2970,
+    "S_maint": 0
+  },
+  {
+    "name": "auto",
+    "full_name": "intuit/auto",
+    "html_url": "https://github.com/intuit/auto",
+    "description": "Generate releases based on semantic version labels on pull requests.",
+    "stars": 2384,
+    "forks": 214,
+    "languages": {
+      "TypeScript": 1072008,
+      "JavaScript": 10951,
+      "Ruby": 932
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6153.24,
+    "S_code": 1058.49,
+    "S_social": 2812,
+    "S_maint": 0
+  },
+  {
+    "name": "sdp",
+    "full_name": "intuit/sdp",
+    "html_url": "https://github.com/intuit/sdp",
+    "description": "An Android lib that provides a new size unit - sdp (scalable dp). This size unit scales with the screen size.",
+    "stars": 2320,
+    "forks": 483,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 6572.0,
+    "S_code": 0.0,
+    "S_social": 3286,
+    "S_maint": 0
+  },
+  {
+    "name": "wasabi",
+    "full_name": "intuit/wasabi",
+    "html_url": "https://github.com/intuit/wasabi",
+    "description": "Wasabi A/B Testing service is an open source project that is no longer under active development or being supported",
+    "stars": 1138,
+    "forks": 235,
+    "languages": {
+      "Java": 4608959,
+      "JavaScript": 2837988,
+      "HTML": 264645,
+      "CSS": 207917,
+      "Shell": 97283,
+      "Python": 8207,
+      "HCL": 4204,
+      "TSQL": 2031,
+      "Ruby": 776,
+      "PLpgSQL": 410
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7138.08,
+    "S_code": 7844.16,
+    "S_social": 1608,
+    "S_maint": 0
+  },
+  {
+    "name": "AnimationEngine",
+    "full_name": "intuit/AnimationEngine",
+    "html_url": "https://github.com/intuit/AnimationEngine",
+    "description": "Easily build advanced custom animations on iOS.",
+    "stars": 1059,
+    "forks": 76,
+    "languages": {
+      "Objective-C": 77954,
+      "C": 26637,
+      "Ruby": 2167
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2474.13,
+    "S_code": 104.26,
+    "S_social": 1211,
+    "S_maint": 0
+  },
+  {
+    "name": "ssp",
+    "full_name": "intuit/ssp",
+    "html_url": "https://github.com/intuit/ssp",
+    "description": "Variant of sdp project based on the sp size unit.",
+    "stars": 575,
+    "forks": 105,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 1570.0,
+    "S_code": 0.0,
+    "S_social": 785,
+    "S_maint": 0
+  },
+  {
+    "name": "design-systems-cli",
+    "full_name": "intuit/design-systems-cli",
+    "html_url": "https://github.com/intuit/design-systems-cli",
+    "description": "A CLI toolbox for creating design systems.",
+    "stars": 408,
+    "forks": 88,
+    "languages": {
+      "TypeScript": 262299,
+      "JavaScript": 43470,
+      "HTML": 3923
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1319.22,
+    "S_code": 302.43,
+    "S_social": 584,
+    "S_maint": 0
+  },
+  {
+    "name": "devtools-ds",
+    "full_name": "intuit/devtools-ds",
+    "html_url": "https://github.com/intuit/devtools-ds",
+    "description": "UI components, libraries, and templates for building robust devtools experiences.",
+    "stars": 271,
+    "forks": 16,
+    "languages": {
+      "TypeScript": 216650,
+      "MDX": 18943,
+      "JavaScript": 17643,
+      "CSS": 8946,
+      "HTML": 1700
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 734.85,
+    "S_code": 257.7,
+    "S_social": 303,
+    "S_maint": 0
+  },
+  {
+    "name": "QuickBooks-V3-PHP-SDK",
+    "full_name": "intuit/QuickBooks-V3-PHP-SDK",
+    "html_url": "https://github.com/intuit/QuickBooks-V3-PHP-SDK",
+    "description": "Official PHP SDK for QuickBooks REST API v3.0: https://developer.intuit.com/",
+    "stars": 270,
+    "forks": 273,
+    "languages": {
+      "PHP": 6216685,
+      "HTML": 586385,
+      "XSLT": 12092,
+      "CSS": 9685,
+      "Shell": 99
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4964.49,
+    "S_code": 6664.99,
+    "S_social": 816,
+    "S_maint": 0
+  },
+  {
+    "name": "fuzzy-matcher",
+    "full_name": "intuit/fuzzy-matcher",
+    "html_url": "https://github.com/intuit/fuzzy-matcher",
+    "description": "A Java library to determine probability of objects being similar.",
+    "stars": 256,
+    "forks": 77,
+    "languages": {
+      "Java": 149798
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 893.14,
+    "S_code": 146.29,
+    "S_social": 410,
+    "S_maint": 0
+  },
+  {
+    "name": "GroupedArray",
+    "full_name": "intuit/GroupedArray",
+    "html_url": "https://github.com/intuit/GroupedArray",
+    "description": "An Objective-C and Swift collection for iOS and OS X that stores objects grouped into sections.",
+    "stars": 215,
+    "forks": 25,
+    "languages": {
+      "Objective-C": 350459,
+      "Swift": 29774,
+      "C": 2033,
+      "Ruby": 1759
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 717.51,
+    "S_code": 375.02,
+    "S_social": 265,
+    "S_maint": 0
+  },
+  {
+    "name": "katlas",
+    "full_name": "intuit/katlas",
+    "html_url": "https://github.com/intuit/katlas",
+    "description": "A distributed graph-based platform to automatically collect, discover, explore and relate multi-cluster Kubernetes resources and metadata.",
+    "stars": 213,
+    "forks": 28,
+    "languages": {
+      "Go": 263760,
+      "JavaScript": 132719,
+      "HTML": 19694,
+      "CSS": 15327,
+      "Makefile": 14694,
+      "Ruby": 7324,
+      "Dockerfile": 1206,
+      "Shell": 732
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 760.39,
+    "S_code": 444.78,
+    "S_social": 269,
+    "S_maint": 0
+  },
+  {
+    "name": "superglue",
+    "full_name": "intuit/superglue",
+    "html_url": "https://github.com/intuit/superglue",
+    "description": "Superglue is a lineage-tracking tool built to help visualize the propagation of data through complex pipelines composed of  tables, jobs and reports.",
+    "stars": 159,
+    "forks": 38,
+    "languages": {
+      "Scala": 223635,
+      "JavaScript": 56553,
+      "SCSS": 13517,
+      "HTML": 332,
+      "Dockerfile": 119,
+      "Shell": 116
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 613.69,
+    "S_code": 287.38,
+    "S_social": 235,
+    "S_maint": 0
+  },
+  {
+    "name": "maven-build-scanner",
+    "full_name": "intuit/maven-build-scanner",
+    "html_url": "https://github.com/intuit/maven-build-scanner",
+    "description": " Know your build - so you can make it faster",
+    "stars": 155,
+    "forks": 25,
+    "languages": {
+      "Java": 27374,
+      "HTML": 14990,
+      "Dockerfile": 140
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 430.75,
+    "S_code": 41.51,
+    "S_social": 205,
+    "S_maint": 0
+  },
+  {
+    "name": "truffle-shuffle",
+    "full_name": "intuit/truffle-shuffle",
+    "html_url": "https://github.com/intuit/truffle-shuffle",
+    "description": "An Android data-driven, percentage-based UI Card Gallery Library",
+    "stars": 151,
+    "forks": 45,
+    "languages": {
+      "Kotlin": 33912
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 498.56,
+    "S_code": 33.12,
+    "S_social": 241,
+    "S_maint": 0
+  },
+  {
+    "name": "oauth-jsclient",
+    "full_name": "intuit/oauth-jsclient",
+    "html_url": "https://github.com/intuit/oauth-jsclient",
+    "description": "Intuit's NodeJS OAuth client provides a set of methods to make it easier to work with OAuth2.0 and Open ID",
+    "stars": 136,
+    "forks": 165,
+    "languages": {
+      "JavaScript": 114674,
+      "Makefile": 562
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 988.27,
+    "S_code": 112.54,
+    "S_social": 466,
+    "S_maint": 0
+  },
+  {
+    "name": "benten",
+    "full_name": "intuit/benten",
+    "html_url": "https://github.com/intuit/benten",
+    "description": "Chatbot Development Framework (with Slack integration for Jira and Jenkins)",
+    "stars": 135,
+    "forks": 59,
+    "languages": {
+      "Java": 427854,
+      "Gherkin": 27608,
+      "JavaScript": 940,
+      "Dockerfile": 203
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 728.95,
+    "S_code": 445.9,
+    "S_social": 253,
+    "S_maint": 0
+  },
+  {
+    "name": "foremast",
+    "full_name": "intuit/foremast",
+    "html_url": "https://github.com/intuit/foremast",
+    "description": "Foremast adds application resiliency to Kubernetes by leveraging machine learnt patterns of application health to keep applications healthy and stable",
+    "stars": 133,
+    "forks": 37,
+    "languages": {
+      "Java": 275156,
+      "Go": 178367,
+      "JavaScript": 37286,
+      "HTML": 3193,
+      "Shell": 2852,
+      "Dockerfile": 2364,
+      "Makefile": 1416,
+      "CSS": 1199
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 659.04,
+    "S_code": 490.07,
+    "S_social": 207,
+    "S_maint": 0
+  },
+  {
+    "name": "QuickBooks-V3-DotNET-SDK",
+    "full_name": "intuit/QuickBooks-V3-DotNET-SDK",
+    "html_url": "https://github.com/intuit/QuickBooks-V3-DotNET-SDK",
+    "description": ".Net SDK for QuickBooks REST API v3 services",
+    "stars": 119,
+    "forks": 150,
+    "languages": {
+      "C#": 5336566,
+      "ASP.NET": 23195,
+      "HTML": 17089,
+      "CSS": 10017
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3468.31,
+    "S_code": 5260.61,
+    "S_social": 419,
+    "S_maint": 0
+  },
+  {
+    "name": "costBuddy",
+    "full_name": "intuit/costBuddy",
+    "html_url": "https://github.com/intuit/costBuddy",
+    "description": "costBuddy will gather cost information from multiple AWS accounts and generate a  nice Grafana dashboard with alerting in place.",
+    "stars": 119,
+    "forks": 31,
+    "languages": {
+      "Python": 54945,
+      "HCL": 42034,
+      "Shell": 2014,
+      "Smarty": 1258
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 410.95,
+    "S_code": 97.9,
+    "S_social": 181,
+    "S_maint": 0
+  },
+  {
+    "name": "Trapheus",
+    "full_name": "intuit/Trapheus",
+    "html_url": "https://github.com/intuit/Trapheus",
+    "description": "This tool automates restoration of RDS database instances from snapshots into any dev, staging or production environments. It supports individual RDS Snapshot as well as cluster snapshot restore operations.",
+    "stars": 114,
+    "forks": 54,
+    "languages": {
+      "Python": 123044,
+      "Jupyter Notebook": 11113
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 509.51,
+    "S_code": 131.01,
+    "S_social": 222,
+    "S_maint": 0
+  },
+  {
+    "name": "accessibility-snippets",
+    "full_name": "intuit/accessibility-snippets",
+    "html_url": "https://github.com/intuit/accessibility-snippets",
+    "description": "VSCode Snippets created to help developers write accessible code.",
+    "stars": 105,
+    "forks": 34,
+    "languages": {
+      "JavaScript": 1585
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 346.77,
+    "S_code": 1.55,
+    "S_social": 173,
+    "S_maint": 0
+  },
+  {
+    "name": "Ignite",
+    "full_name": "intuit/Ignite",
+    "html_url": "https://github.com/intuit/Ignite",
+    "description": "Modern markdown documentation generator",
+    "stars": 100,
+    "forks": 28,
+    "languages": {
+      "JavaScript": 157505,
+      "CSS": 10350,
+      "HTML": 4825,
+      "AppleScript": 2213
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 397.4,
+    "S_code": 170.79,
+    "S_social": 156,
+    "S_maint": 0
+  },
+  {
+    "name": "fawkes",
+    "full_name": "intuit/fawkes",
+    "html_url": "https://github.com/intuit/fawkes",
+    "description": "🚀🚀  Fetch, parse, categorize, summarize user reviews 🚀🚀",
+    "stars": 94,
+    "forks": 33,
+    "languages": {
+      "Python": 174568,
+      "HTML": 92623,
+      "Shell": 414
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 450.67,
+    "S_code": 261.33,
+    "S_social": 160,
+    "S_maint": 0
+  },
+  {
+    "name": "Tank",
+    "full_name": "intuit/Tank",
+    "html_url": "https://github.com/intuit/Tank",
+    "description": "Tank is a downloadable application that can be used to load test websites",
+    "stars": 86,
+    "forks": 61,
+    "languages": {
+      "Java": 9024600,
+      "Lex": 841861,
+      "JavaScript": 418091,
+      "HTML": 379043,
+      "CSS": 36956,
+      "Shell": 5926,
+      "Batchfile": 176
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5643.86,
+    "S_code": 10455.72,
+    "S_social": 208,
+    "S_maint": 0
+  },
+  {
+    "name": "proof",
+    "full_name": "intuit/proof",
+    "html_url": "https://github.com/intuit/proof",
+    "description": "A  tapable integration testing library for your Storybook stories",
+    "stars": 85,
+    "forks": 30,
+    "languages": {
+      "TypeScript": 67723,
+      "JavaScript": 2849,
+      "HTML": 789
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 324.84,
+    "S_code": 69.69,
+    "S_social": 145,
+    "S_maint": 0
+  },
+  {
+    "name": "oauth-pythonclient",
+    "full_name": "intuit/oauth-pythonclient",
+    "html_url": "https://github.com/intuit/oauth-pythonclient",
+    "description": "The Python OAuth client provides a set of methods that make it easier to work with Intuit's OAuth and OpenID Connect implementation.",
+    "stars": 83,
+    "forks": 59,
+    "languages": {
+      "Python": 38339
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 420.72,
+    "S_code": 37.44,
+    "S_social": 201,
+    "S_maint": 0
+  },
+  {
+    "name": "QuickBooks-V3-Java-SDK",
+    "full_name": "intuit/QuickBooks-V3-Java-SDK",
+    "html_url": "https://github.com/intuit/QuickBooks-V3-Java-SDK",
+    "description": "Java SDK for QuickBooks REST API v3 services",
+    "stars": 82,
+    "forks": 150,
+    "languages": {
+      "Java": 4811453
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3113.34,
+    "S_code": 4698.68,
+    "S_social": 382,
+    "S_maint": 0
+  },
+  {
+    "name": "aws_account_utils",
+    "full_name": "intuit/aws_account_utils",
+    "html_url": "https://github.com/intuit/aws_account_utils",
+    "description": "Deprecated - Utility to help create and modify your AWS account",
+    "stars": 81,
+    "forks": 19,
+    "languages": {
+      "Ruby": 89307,
+      "Shell": 115
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 281.66,
+    "S_code": 87.33,
+    "S_social": 119,
+    "S_maint": 0
+  },
+  {
+    "name": "graphql-filter-java",
+    "full_name": "intuit/graphql-filter-java",
+    "html_url": "https://github.com/intuit/graphql-filter-java",
+    "description": "This project is developed to help developers add filtering support to their graphql-java services",
+    "stars": 72,
+    "forks": 34,
+    "languages": {
+      "Java": 140461
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 348.58,
+    "S_code": 137.17,
+    "S_social": 140,
+    "S_maint": 0
+  },
+  {
+    "name": "automation-for-humans",
+    "full_name": "intuit/automation-for-humans",
+    "html_url": "https://github.com/intuit/automation-for-humans",
+    "description": "Converts English statements to automation.",
+    "stars": 68,
+    "forks": 22,
+    "languages": {
+      "Python": 31403,
+      "Shell": 1399,
+      "Batchfile": 575
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 240.3,
+    "S_code": 32.59,
+    "S_social": 112,
+    "S_maint": 0
+  },
+  {
+    "name": "simple_deploy",
+    "full_name": "intuit/simple_deploy",
+    "html_url": "https://github.com/intuit/simple_deploy",
+    "description": "Maintenance Mode - Simple Deploy is an opinionated CLI tool for managing AWS Cloud Formation Stacks.",
+    "stars": 64,
+    "forks": 20,
+    "languages": {
+      "Ruby": 232830
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 321.69,
+    "S_code": 227.37,
+    "S_social": 104,
+    "S_maint": 0
+  },
+  {
+    "name": "judo",
+    "full_name": "intuit/judo",
+    "html_url": "https://github.com/intuit/judo",
+    "description": "Judo is an easy-to-use Command Line Interface (CLI) Integration Testing Framework, driven from a simple yaml file that also contains assertions.",
+    "stars": 62,
+    "forks": 21,
+    "languages": {
+      "JavaScript": 54190,
+      "Shell": 117
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 234.52,
+    "S_code": 53.03,
+    "S_social": 104,
+    "S_maint": 0
+  },
+  {
+    "name": "postcss-themed",
+    "full_name": "intuit/postcss-themed",
+    "html_url": "https://github.com/intuit/postcss-themed",
+    "description": "A PostCSS plugin for generating themes.",
+    "stars": 61,
+    "forks": 30,
+    "languages": {
+      "TypeScript": 69866,
+      "JavaScript": 72
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 276.15,
+    "S_code": 68.3,
+    "S_social": 121,
+    "S_maint": 0
+  },
+  {
+    "name": "autometer",
+    "full_name": "intuit/autometer",
+    "html_url": "https://github.com/intuit/autometer",
+    "description": "Distributed load testing made simple",
+    "stars": 60,
+    "forks": 17,
+    "languages": {
+      "Shell": 23014,
+      "JavaScript": 13254,
+      "Dockerfile": 606
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 206.0,
+    "S_code": 36.01,
+    "S_social": 94,
+    "S_maint": 0
+  },
+  {
+    "name": "Traverser",
+    "full_name": "intuit/Traverser",
+    "html_url": "https://github.com/intuit/Traverser",
+    "description": "Traverser is a Java library that helps software engineers implement advanced iteration of a data structure.",
+    "stars": 58,
+    "forks": 20,
+    "languages": {
+      "Java": 95405
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 242.58,
+    "S_code": 93.17,
+    "S_social": 98,
+    "S_maint": 0
+  },
+  {
+    "name": "commently",
+    "full_name": "intuit/commently",
+    "html_url": "https://github.com/intuit/commently",
+    "description": "😀💬 Easily comment and update comments on GitHub PRs",
+    "stars": 57,
+    "forks": 13,
+    "languages": {
+      "TypeScript": 10308,
+      "JavaScript": 2049
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 172.03,
+    "S_code": 12.07,
+    "S_social": 83,
+    "S_maint": 0
+  },
+  {
+    "name": "AnimatedFormFieldTableViewCell",
+    "full_name": "intuit/AnimatedFormFieldTableViewCell",
+    "html_url": "https://github.com/intuit/AnimatedFormFieldTableViewCell",
+    "description": "UITextField for iOS that enables the user to see both the Input Text and the Placeholder",
+    "stars": 57,
+    "forks": 12,
+    "languages": {
+      "Swift": 9304,
+      "Ruby": 1184,
+      "Objective-C": 650
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 167.44,
+    "S_code": 10.88,
+    "S_social": 81,
+    "S_maint": 0
+  },
+  {
+    "name": "react-json-reconciler",
+    "full_name": "intuit/react-json-reconciler",
+    "html_url": "https://github.com/intuit/react-json-reconciler",
+    "description": "This project leverages the react-reconciler to allow users to serialize JSX trees into JSON objects.",
+    "stars": 52,
+    "forks": 5,
+    "languages": {
+      "TypeScript": 26781,
+      "JavaScript": 251,
+      "Shell": 58
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 137.23,
+    "S_code": 26.46,
+    "S_social": 62,
+    "S_maint": 0
+  },
+  {
+    "name": "AutoRemoveObserver",
+    "full_name": "intuit/AutoRemoveObserver",
+    "html_url": "https://github.com/intuit/AutoRemoveObserver",
+    "description": "iOS Auto-removing NSNotifications",
+    "stars": 52,
+    "forks": 14,
+    "languages": {
+      "Objective-C": 18989
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 169.27,
+    "S_code": 18.54,
+    "S_social": 80,
+    "S_maint": 0
+  },
+  {
+    "name": "intuit-developer-nodejs",
+    "full_name": "intuit/intuit-developer-nodejs",
+    "html_url": "https://github.com/intuit/intuit-developer-nodejs",
+    "description": "A starting point for anyone looking to quickly jump onto the Intuit Developer Platform, Intuit-developer-nodejs ties together OAuth, OpenID, NodeJS, QuickBooks APIs and SDK.",
+    "stars": 48,
+    "forks": 15,
+    "languages": {
+      "JavaScript": 97900,
+      "HTML": 2095,
+      "CSS": 110
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 204.88,
+    "S_code": 97.76,
+    "S_social": 78,
+    "S_maint": 0
+  },
+  {
+    "name": "DockDockBuild",
+    "full_name": "intuit/DockDockBuild",
+    "html_url": "https://github.com/intuit/DockDockBuild",
+    "description": "Support for running UNIX Makefiles on a Docker container",
+    "stars": 46,
+    "forks": 21,
+    "languages": {
+      "Kotlin": 71691,
+      "Java": 18312,
+      "Lex": 7701,
+      "Dockerfile": 1036
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 224.21,
+    "S_code": 96.43,
+    "S_social": 88,
+    "S_maint": 0
+  },
+  {
+    "name": "bias-detector",
+    "full_name": "intuit/bias-detector",
+    "html_url": "https://github.com/intuit/bias-detector",
+    "description": null,
+    "stars": 45,
+    "forks": 11,
+    "languages": {
+      "Python": 71614,
+      "Makefile": 561
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 169.24,
+    "S_code": 70.48,
+    "S_social": 67,
+    "S_maint": 0
+  },
+  {
+    "name": "user-data-for-fraud-prevention",
+    "full_name": "intuit/user-data-for-fraud-prevention",
+    "html_url": "https://github.com/intuit/user-data-for-fraud-prevention",
+    "description": "Simple npm package with a utility to collect data from the browser required for compliance with fraud prevention APIs.",
+    "stars": 44,
+    "forks": 70,
+    "languages": {
+      "TypeScript": 26730,
+      "JavaScript": 22967
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 392.27,
+    "S_code": 48.53,
+    "S_social": 184,
+    "S_maint": 0
+  },
+  {
+    "name": "hooks",
+    "full_name": "intuit/hooks",
+    "html_url": "https://github.com/intuit/hooks",
+    "description": "Hooks is a little module for plugins, in Kotlin",
+    "stars": 41,
+    "forks": 5,
+    "languages": {
+      "Kotlin": 98428
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 150.06,
+    "S_code": 96.12,
+    "S_social": 51,
+    "S_maint": 0
+  },
+  {
+    "name": "xhr-xdr-adapter",
+    "full_name": "intuit/xhr-xdr-adapter",
+    "html_url": "https://github.com/intuit/xhr-xdr-adapter",
+    "description": "Enables (to the extent possible) support for Cross Origin Resource Sharing (CORS) on IE versions 8 and 9 ",
+    "stars": 40,
+    "forks": 18,
+    "languages": {
+      "JavaScript": 10837
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 157.29,
+    "S_code": 10.58,
+    "S_social": 76,
+    "S_maint": 0
+  },
+  {
+    "name": "ami-query",
+    "full_name": "intuit/ami-query",
+    "html_url": "https://github.com/intuit/ami-query",
+    "description": "Provide a REST interface to your organization's AMIs",
+    "stars": 39,
+    "forks": 16,
+    "languages": {
+      "Go": 63404,
+      "Makefile": 1806
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 173.84,
+    "S_code": 63.68,
+    "S_social": 71,
+    "S_maint": 0
+  },
+  {
+    "name": "sac3",
+    "full_name": "intuit/sac3",
+    "html_url": "https://github.com/intuit/sac3",
+    "description": "Official repo for SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency",
+    "stars": 38,
+    "forks": 7,
+    "languages": {
+      "Jupyter Notebook": 40950,
+      "Python": 31126
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 139.19,
+    "S_code": 70.39,
+    "S_social": 52,
+    "S_maint": 0
+  },
+  {
+    "name": "qb-animation-library",
+    "full_name": "intuit/qb-animation-library",
+    "html_url": "https://github.com/intuit/qb-animation-library",
+    "description": "CSS and SCSS for adding QuickBooks animation to your project.",
+    "stars": 38,
+    "forks": 7,
+    "languages": {
+      "CSS": 45829,
+      "JavaScript": 31723
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 141.87,
+    "S_code": 75.73,
+    "S_social": 52,
+    "S_maint": 0
+  },
+  {
+    "name": "quickbooks-online-mcp-server",
+    "full_name": "intuit/quickbooks-online-mcp-server",
+    "html_url": "https://github.com/intuit/quickbooks-online-mcp-server",
+    "description": "The QuickBooks MCP Server lets AI assistants access QuickBooks data via a standard interface. It uses the Model Context Protocol to expose QBO features as callable tools, enabling developers to build AI apps that fetch real-time QBO data through MCP.",
+    "stars": 35,
+    "forks": 12,
+    "languages": {
+      "TypeScript": 150886,
+      "JavaScript": 7246
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 195.21,
+    "S_code": 154.43,
+    "S_social": 59,
+    "S_maint": 0
+  },
+  {
+    "name": "QuickFabric",
+    "full_name": "intuit/QuickFabric",
+    "html_url": "https://github.com/intuit/QuickFabric",
+    "description": "A one-stop shop for all management and monitoring of Amazon Elastic Map Reduce (EMR) clusters across different AWS accounts and purposes.",
+    "stars": 35,
+    "forks": 19,
+    "languages": {
+      "JavaScript": 842292,
+      "Java": 804627,
+      "Python": 165035,
+      "HCL": 41226,
+      "SCSS": 29903,
+      "CSS": 29699,
+      "Shell": 20871,
+      "HTML": 1689,
+      "Dockerfile": 1512,
+      "Smarty": 830
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1092.13,
+    "S_code": 1892.27,
+    "S_social": 73,
+    "S_maint": 0
+  },
+  {
+    "name": "cyphfell",
+    "full_name": "intuit/cyphfell",
+    "html_url": "https://github.com/intuit/cyphfell",
+    "description": "Converts WDIO to Cypress ",
+    "stars": 34,
+    "forks": 7,
+    "languages": {
+      "JavaScript": 367870,
+      "HTML": 13713,
+      "Shell": 1307,
+      "CSS": 440
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 283.17,
+    "S_code": 374.35,
+    "S_social": 48,
+    "S_maint": 0
+  },
+  {
+    "name": "identity-authz-apl",
+    "full_name": "intuit/identity-authz-apl",
+    "html_url": "https://github.com/intuit/identity-authz-apl",
+    "description": "Attribute-based access control (ABAC), also known as policy-based access control, defines an access control paradigm whereby access rights are granted to users through the use of policies which reason over data in attributes. The policies can use any type of attributes (user attributes, resource attributes, object, environment attributes etc.). Read more here - https://en.wikipedia.org/wiki/Attribute-based_access_control  ABAC Policy Language is used by ABAC to author policies. A policy consists of rules, which have \"when\" conditions and \"then\" actions. Policies are executed in a bounded time, goaled to reach a decision as quickly as possible in deterministic, fast and reliable way. Further light-weight execution consumes minimal resources.",
+    "stars": 33,
+    "forks": 11,
+    "languages": {
+      "Java": 214985,
+      "APL": 67605
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 247.98,
+    "S_code": 275.97,
+    "S_social": 55,
+    "S_maint": 0
+  },
+  {
+    "name": "oauth-rubyclient",
+    "full_name": "intuit/oauth-rubyclient",
+    "html_url": "https://github.com/intuit/oauth-rubyclient",
+    "description": "Ruby OAuth 2.0 client for QuickBooks Online ",
+    "stars": 32,
+    "forks": 33,
+    "languages": {
+      "Ruby": 26803
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 209.09,
+    "S_code": 26.17,
+    "S_social": 98,
+    "S_maint": 0
+  },
+  {
+    "name": "CloudRaider",
+    "full_name": "intuit/CloudRaider",
+    "html_url": "https://github.com/intuit/CloudRaider",
+    "description": "A resiliency tool that automates Failure mode effect analysis tests, simplifying complex testing with a behavior-driven development and testing approach. Provides a programmatic way to execute controlled failures in AWS and a BDD way to write test cases, allowing test plans themselves to become test cases that can be executed as is.",
+    "stars": 32,
+    "forks": 20,
+    "languages": {
+      "Java": 930014,
+      "Gherkin": 26851,
+      "Shell": 8590
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 615.41,
+    "S_code": 942.83,
+    "S_social": 72,
+    "S_maint": 0
+  },
+  {
+    "name": "storybook-addon-sketch",
+    "full_name": "intuit/storybook-addon-sketch",
+    "html_url": "https://github.com/intuit/storybook-addon-sketch",
+    "description": "A Storybook add-on to get the contents of the current story as a Sketch file",
+    "stars": 30,
+    "forks": 5,
+    "languages": {
+      "TypeScript": 3930,
+      "JavaScript": 159
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 82.0,
+    "S_code": 3.99,
+    "S_social": 40,
+    "S_maint": 0
+  },
+  {
+    "name": "saloon",
+    "full_name": "intuit/saloon",
+    "html_url": "https://github.com/intuit/saloon",
+    "description": "An E2E test seeder for enterprise web applications",
+    "stars": 29,
+    "forks": 7,
+    "languages": {
+      "JavaScript": 34071
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 102.64,
+    "S_code": 33.27,
+    "S_social": 43,
+    "S_maint": 0
+  },
+  {
+    "name": "Decision-Trees-over-FHE",
+    "full_name": "intuit/Decision-Trees-over-FHE",
+    "html_url": "https://github.com/intuit/Decision-Trees-over-FHE",
+    "description": "Decision trees training and prediction over encrypted data using Fully Homomorphic Encryption ",
+    "stars": 29,
+    "forks": 4,
+    "languages": {
+      "C++": 101185,
+      "Python": 3520,
+      "CMake": 1822,
+      "Dockerfile": 529
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 126.27,
+    "S_code": 104.55,
+    "S_social": 37,
+    "S_maint": 0
+  },
+  {
+    "name": "ts-readme",
+    "full_name": "intuit/ts-readme",
+    "html_url": "https://github.com/intuit/ts-readme",
+    "description": "Generate docs from typescript and put it in a README",
+    "stars": 27,
+    "forks": 5,
+    "languages": {
+      "TypeScript": 11770,
+      "JavaScript": 321
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 79.9,
+    "S_code": 11.81,
+    "S_social": 37,
+    "S_maint": 0
+  },
+  {
+    "name": "PHP-Payments-SDK",
+    "full_name": "intuit/PHP-Payments-SDK",
+    "html_url": "https://github.com/intuit/PHP-Payments-SDK",
+    "description": "QuickBooks Online Payments SDK",
+    "stars": 27,
+    "forks": 41,
+    "languages": {
+      "PHP": 157925
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 295.11,
+    "S_code": 154.22,
+    "S_social": 109,
+    "S_maint": 0
+  },
+  {
+    "name": "intuit-spring-cloud-config-inspector",
+    "full_name": "intuit/intuit-spring-cloud-config-inspector",
+    "html_url": "https://github.com/intuit/intuit-spring-cloud-config-inspector",
+    "description": "Inspection of Spring Cloud Config properties made easy using React",
+    "stars": 27,
+    "forks": 13,
+    "languages": {
+      "JavaScript": 75250,
+      "CSS": 3222,
+      "HTML": 199,
+      "Dockerfile": 195
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 144.51,
+    "S_code": 77.02,
+    "S_social": 53,
+    "S_maint": 0
+  },
+  {
+    "name": "graphql-java",
+    "full_name": "intuit/graphql-java",
+    "html_url": "https://github.com/intuit/graphql-java",
+    "description": "GraphQL Java implementation",
+    "stars": 26,
+    "forks": 3,
+    "languages": {
+      "Java": 3526808,
+      "Groovy": 2654029,
+      "ANTLR": 8545,
+      "HTML": 4949
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3088.58,
+    "S_code": 6049.15,
+    "S_social": 32,
+    "S_maint": 0
+  },
+  {
+    "name": "RBHC",
+    "full_name": "intuit/RBHC",
+    "html_url": "https://github.com/intuit/RBHC",
+    "description": "This project implements machine learning to accomplish recursive binary hierarchical clustering of data primarily useful for any clickstream data along with providing cluster statistics for each cluster and visualization using d3js ",
+    "stars": 26,
+    "forks": 3,
+    "languages": {
+      "Python": 265196,
+      "JavaScript": 4905,
+      "HTML": 434,
+      "CSS": 206
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 196.2,
+    "S_code": 264.4,
+    "S_social": 32,
+    "S_maint": 0
+  },
+  {
+    "name": "mlctl",
+    "full_name": "intuit/mlctl",
+    "html_url": "https://github.com/intuit/mlctl",
+    "description": "mlctl is the control plane for MLOps. It provides a CLI and a Python SDK for supporting key operations related to MLOps, such as \"model training\", \"model hosting\" etc.",
+    "stars": 25,
+    "forks": 5,
+    "languages": {
+      "Python": 68038
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 103.22,
+    "S_code": 66.44,
+    "S_social": 35,
+    "S_maint": 0
+  },
+  {
+    "name": "metriks",
+    "full_name": "intuit/metriks",
+    "html_url": "https://github.com/intuit/metriks",
+    "description": "Python package of commonly used metrics for evaluating information retrieval models.",
+    "stars": 25,
+    "forks": 25,
+    "languages": {
+      "Python": 43804
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 171.39,
+    "S_code": 42.78,
+    "S_social": 75,
+    "S_maint": 0
+  },
+  {
+    "name": "eslint-plugin-no-explicit-type-exports",
+    "full_name": "intuit/eslint-plugin-no-explicit-type-exports",
+    "html_url": "https://github.com/intuit/eslint-plugin-no-explicit-type-exports",
+    "description": "A plugin to guard against exporting imported types.",
+    "stars": 24,
+    "forks": 8,
+    "languages": {
+      "TypeScript": 22169,
+      "JavaScript": 354
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 91.0,
+    "S_code": 22.0,
+    "S_social": 40,
+    "S_maint": 0
+  },
+  {
+    "name": "istanbul-cobertura-badger",
+    "full_name": "intuit/istanbul-cobertura-badger",
+    "html_url": "https://github.com/intuit/istanbul-cobertura-badger",
+    "description": "Create a Code Coverage badge for Node.js Apps running node-istanbul.",
+    "stars": 24,
+    "forks": 32,
+    "languages": {
+      "JavaScript": 24396
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 187.91,
+    "S_code": 23.82,
+    "S_social": 88,
+    "S_maint": 0
+  },
+  {
+    "name": "doc-blocks",
+    "full_name": "intuit/doc-blocks",
+    "html_url": "https://github.com/intuit/doc-blocks",
+    "description": "A design system for doc-blocks UI components, built on @design-systems/cli.",
+    "stars": 23,
+    "forks": 13,
+    "languages": {
+      "TypeScript": 62406,
+      "JavaScript": 3495,
+      "CSS": 3177,
+      "MDX": 2343
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 132.87,
+    "S_code": 69.75,
+    "S_social": 49,
+    "S_maint": 0
+  },
+  {
+    "name": "text-provider",
+    "full_name": "intuit/text-provider",
+    "html_url": "https://github.com/intuit/text-provider",
+    "description": "A react component which provides all the string constants using provider pattern",
+    "stars": 23,
+    "forks": 17,
+    "languages": {
+      "JavaScript": 9174
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 118.48,
+    "S_code": 8.96,
+    "S_social": 57,
+    "S_maint": 0
+  },
+  {
+    "name": "LD-React-Components",
+    "full_name": "intuit/LD-React-Components",
+    "html_url": "https://github.com/intuit/LD-React-Components",
+    "description": "Semantic component helpers to support LaunchDarkly feature flags in your React app.",
+    "stars": 23,
+    "forks": 33,
+    "languages": {
+      "JavaScript": 5423461,
+      "TypeScript": 11562,
+      "HTML": 397
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2832.01,
+    "S_code": 5308.03,
+    "S_social": 89,
+    "S_maint": 0
+  },
+  {
+    "name": "WeakForwarder",
+    "full_name": "intuit/WeakForwarder",
+    "html_url": "https://github.com/intuit/WeakForwarder",
+    "description": "Objective-C NSProxy class for iOS and OS X to allow for real weak delegates.",
+    "stars": 22,
+    "forks": 5,
+    "languages": {
+      "Objective-C": 16642,
+      "C++": 3918
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 74.04,
+    "S_code": 20.08,
+    "S_social": 32,
+    "S_maint": 0
+  },
+  {
+    "name": "node-pom-parser",
+    "full_name": "intuit/node-pom-parser",
+    "html_url": "https://github.com/intuit/node-pom-parser",
+    "description": "Parsing Java's pom.xml and properly returning the json object, including attributes and values.",
+    "stars": 21,
+    "forks": 25,
+    "languages": {
+      "TypeScript": 9802
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 146.79,
+    "S_code": 9.57,
+    "S_social": 71,
+    "S_maint": 0
+  },
+  {
+    "name": "innersource-scanner",
+    "full_name": "intuit/innersource-scanner",
+    "html_url": "https://github.com/intuit/innersource-scanner",
+    "description": "A java api and command line tool for scanning, reporting and fixing a git repository's InnerSource Readiness based on a supplied specification which defines the files and file contents necessary for a repository to be considered ready for InnerSource contribution.",
+    "stars": 20,
+    "forks": 3,
+    "languages": {
+      "Java": 479164
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 285.97,
+    "S_code": 467.93,
+    "S_social": 26,
+    "S_maint": 0
+  },
+  {
+    "name": "rego",
+    "full_name": "intuit/rego",
+    "html_url": "https://github.com/intuit/rego",
+    "description": "A command-line batch interface to the RuleFit statistical model building program.",
+    "stars": 20,
+    "forks": 17,
+    "languages": {
+      "R": 300520,
+      "Shell": 14796,
+      "Batchfile": 629
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 262.27,
+    "S_code": 308.54,
+    "S_social": 54,
+    "S_maint": 0
+  },
+  {
+    "name": "universal-graph-client",
+    "full_name": "intuit/universal-graph-client",
+    "html_url": "https://github.com/intuit/universal-graph-client",
+    "description": "A Java library that provides single API and a CLI to connect to all varieties of graph databases.",
+    "stars": 19,
+    "forks": 8,
+    "languages": {
+      "Java": 380096,
+      "Groovy": 10936
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 260.93,
+    "S_code": 381.87,
+    "S_social": 35,
+    "S_maint": 0
+  },
+  {
+    "name": "intuit-spring-cloud-config-validator",
+    "full_name": "intuit/intuit-spring-cloud-config-validator",
+    "html_url": "https://github.com/intuit/intuit-spring-cloud-config-validator",
+    "description": "Validation tools for Spring Cloud Config repos: .json, .yam|, .yml and .properties, verified through script or GitHub Pre-receive Hook!",
+    "stars": 18,
+    "forks": 9,
+    "languages": {
+      "Python": 26765,
+      "Shell": 6291,
+      "Dockerfile": 775
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 88.52,
+    "S_code": 33.04,
+    "S_social": 36,
+    "S_maint": 0
+  },
+  {
+    "name": "funnel",
+    "full_name": "intuit/funnel",
+    "html_url": "https://github.com/intuit/funnel",
+    "description": "A Go library that provides unification of identical operations (e.g. API requests).",
+    "stars": 18,
+    "forks": 15,
+    "languages": {
+      "Go": 19251
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 105.4,
+    "S_code": 18.8,
+    "S_social": 48,
+    "S_maint": 0
+  },
+  {
+    "name": "semantic-release-slack",
+    "full_name": "intuit/semantic-release-slack",
+    "html_url": "https://github.com/intuit/semantic-release-slack",
+    "description": "A plugin for semantic-release that takes a Slack web hook and posts a message when a release is successful",
+    "stars": 17,
+    "forks": 9,
+    "languages": {
+      "JavaScript": 11560
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 75.64,
+    "S_code": 11.29,
+    "S_social": 35,
+    "S_maint": 0
+  },
+  {
+    "name": "naavik",
+    "full_name": "intuit/naavik",
+    "html_url": "https://github.com/intuit/naavik",
+    "description": "Naavik assists in unification of configurations across services deployed with in Service Mesh",
+    "stars": 17,
+    "forks": 3,
+    "languages": {
+      "Go": 320309,
+      "Shell": 3577,
+      "Makefile": 3255
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 205.74,
+    "S_code": 319.47,
+    "S_social": 23,
+    "S_maint": 0
+  },
+  {
+    "name": "ReplayWeb",
+    "full_name": "intuit/ReplayWeb",
+    "html_url": "https://github.com/intuit/ReplayWeb",
+    "description": "ReplayWeb is a collection of tools to accelerate building and maintaining functional tests for user interfaces.",
+    "stars": 17,
+    "forks": 35,
+    "languages": {
+      "JavaScript": 932896,
+      "CSS": 9021,
+      "HTML": 3331,
+      "Shell": 1430
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 636.25,
+    "S_code": 924.49,
+    "S_social": 87,
+    "S_maint": 0
+  },
+  {
+    "name": "foremast-brain",
+    "full_name": "intuit/foremast-brain",
+    "html_url": "https://github.com/intuit/foremast-brain",
+    "description": "Foremast-brain is a component of Foremast project.",
+    "stars": 17,
+    "forks": 22,
+    "languages": {
+      "Jupyter Notebook": 586100,
+      "Python": 273793,
+      "Dockerfile": 407,
+      "Shell": 43
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 542.09,
+    "S_code": 840.18,
+    "S_social": 61,
+    "S_maint": 0
+  },
+  {
+    "name": "gitdetect",
+    "full_name": "intuit/gitdetect",
+    "html_url": "https://github.com/intuit/gitdetect",
+    "description": "A GitHub scanning tool to help you find misplaced secrets in your source code repository files",
+    "stars": 17,
+    "forks": 4,
+    "languages": {
+      "Go": 45353
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 72.15,
+    "S_code": 44.29,
+    "S_social": 25,
+    "S_maint": 0
+  },
+  {
+    "name": "cfn-deploy",
+    "full_name": "intuit/cfn-deploy",
+    "html_url": "https://github.com/intuit/cfn-deploy",
+    "description": "A useful GitHub Action to help you deploy cloudformation templates",
+    "stars": 15,
+    "forks": 23,
+    "languages": {
+      "Shell": 5042,
+      "Dockerfile": 601
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 124.76,
+    "S_code": 5.51,
+    "S_social": 61,
+    "S_maint": 0
+  },
+  {
+    "name": "heirloom",
+    "full_name": "intuit/heirloom",
+    "html_url": "https://github.com/intuit/heirloom",
+    "description": "Maintenance Mode - Build, deploy and manage archives and their metadata in S3 and SimpleDB.",
+    "stars": 15,
+    "forks": 11,
+    "languages": {
+      "Ruby": 246909
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 194.56,
+    "S_code": 241.12,
+    "S_social": 37,
+    "S_maint": 0
+  },
+  {
+    "name": "go-loadgen",
+    "full_name": "intuit/go-loadgen",
+    "html_url": "https://github.com/intuit/go-loadgen",
+    "description": "go-loadgen is a log infrastructure testing tool. Also suitable for load testing big data pipelines",
+    "stars": 14,
+    "forks": 6,
+    "languages": {
+      "Go": 37852,
+      "Dockerfile": 366
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 70.66,
+    "S_code": 37.32,
+    "S_social": 26,
+    "S_maint": 0
+  },
+  {
+    "name": "scss-cleanup-scripts",
+    "full_name": "intuit/scss-cleanup-scripts",
+    "html_url": "https://github.com/intuit/scss-cleanup-scripts",
+    "description": "Shell scripts for removing redundant Sass files, variables, mixins and deleting unused  images",
+    "stars": 14,
+    "forks": 3,
+    "languages": {
+      "Shell": 6392
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 43.12,
+    "S_code": 6.24,
+    "S_social": 20,
+    "S_maint": 0
+  },
+  {
+    "name": "dse-pronto",
+    "full_name": "intuit/dse-pronto",
+    "html_url": "https://github.com/intuit/dse-pronto",
+    "description": "Pronto is an automation suite for deploying and managing DataStax Cassandra clusters in AWS.",
+    "stars": 14,
+    "forks": 3,
+    "languages": {
+      "Shell": 159575,
+      "HCL": 73901,
+      "Python": 53586,
+      "Smarty": 1124,
+      "Dockerfile": 884,
+      "Ruby": 215
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 181.25,
+    "S_code": 282.5,
+    "S_social": 20,
+    "S_maint": 0
+  },
+  {
+    "name": "apollo-mock-http",
+    "full_name": "intuit/apollo-mock-http",
+    "html_url": "https://github.com/intuit/apollo-mock-http",
+    "description": "An easy and maintainable way of injecting mock data into Apollo GraphQL Client for fast feature development decoupled from API/Backend.",
+    "stars": 13,
+    "forks": 5,
+    "languages": {
+      "JavaScript": 11439
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 51.59,
+    "S_code": 11.17,
+    "S_social": 23,
+    "S_maint": 0
+  },
+  {
+    "name": "spring-pulsar",
+    "full_name": "intuit/spring-pulsar",
+    "html_url": "https://github.com/intuit/spring-pulsar",
+    "description": "Spring client library for apache pulsar allows consuming applications to integrate easily with apache pulsar.",
+    "stars": 13,
+    "forks": 7,
+    "languages": {
+      "Kotlin": 261237,
+      "Java": 11918
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 187.38,
+    "S_code": 266.75,
+    "S_social": 27,
+    "S_maint": 0
+  },
+  {
+    "name": "standardly",
+    "full_name": "intuit/standardly",
+    "html_url": "https://github.com/intuit/standardly",
+    "description": "Standardly allows you to check for compliance against standards. Once you code your standards into a 'rules' json object, you can scan a directory on your filesystem or a GitHub repo to check for its compliance against the standard.",
+    "stars": 12,
+    "forks": 15,
+    "languages": {
+      "JavaScript": 79092,
+      "Shell": 218
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 122.73,
+    "S_code": 77.45,
+    "S_social": 42,
+    "S_maint": 0
+  },
+  {
+    "name": "unmazedboot",
+    "full_name": "intuit/unmazedboot",
+    "html_url": "https://github.com/intuit/unmazedboot",
+    "description": "🐳 Generic SpringBoot Docker files and image management 🍃",
+    "stars": 12,
+    "forks": 12,
+    "languages": {
+      "Dockerfile": 20482,
+      "Shell": 7403
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 85.62,
+    "S_code": 27.23,
+    "S_social": 36,
+    "S_maint": 0
+  },
+  {
+    "name": "Autumn",
+    "full_name": "intuit/Autumn",
+    "html_url": "https://github.com/intuit/Autumn",
+    "description": "Micro-services injectable infrastructure project. Autumn enables rapid development of mico-service applications.",
+    "stars": 12,
+    "forks": 14,
+    "languages": {
+      "Java": 311188,
+      "Shell": 17583,
+      "JavaScript": 4491
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 242.73,
+    "S_code": 325.45,
+    "S_social": 40,
+    "S_maint": 0
+  },
+  {
+    "name": "postgres-perfstats",
+    "full_name": "intuit/postgres-perfstats",
+    "html_url": "https://github.com/intuit/postgres-perfstats",
+    "description": null,
+    "stars": 11,
+    "forks": 4,
+    "languages": {
+      "Python": 600355,
+      "HTML": 231768,
+      "PLpgSQL": 17527,
+      "Shell": 9453
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 457.48,
+    "S_code": 838.97,
+    "S_social": 19,
+    "S_maint": 0
+  },
+  {
+    "name": "lean-schema",
+    "full_name": "intuit/lean-schema",
+    "html_url": "https://github.com/intuit/lean-schema",
+    "description": "Shrink your large GraphQL Schema to only what you need with Intuit LeanSchema!",
+    "stars": 11,
+    "forks": 3,
+    "languages": {
+      "Python": 41189,
+      "JavaScript": 5748,
+      "Makefile": 2155,
+      "Shell": 302
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 58.12,
+    "S_code": 48.24,
+    "S_social": 17,
+    "S_maint": 0
+  },
+  {
+    "name": "spring-config-client-fallback",
+    "full_name": "intuit/spring-config-client-fallback",
+    "html_url": "https://github.com/intuit/spring-config-client-fallback",
+    "description": "Spring Cloud Config Client with Fallback implementation for cases when the the config server is down",
+    "stars": 11,
+    "forks": 13,
+    "languages": {
+      "Java": 5198
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 76.54,
+    "S_code": 5.08,
+    "S_social": 37,
+    "S_maint": 0
+  },
+  {
+    "name": "sdbport",
+    "full_name": "intuit/sdbport",
+    "html_url": "https://github.com/intuit/sdbport",
+    "description": "Maintenance Mode - Import / Export SimpleDB Domains.",
+    "stars": 11,
+    "forks": 8,
+    "languages": {
+      "Ruby": 39458
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 73.27,
+    "S_code": 38.53,
+    "S_social": 27,
+    "S_maint": 0
+  },
+  {
+    "name": "text-provider-react-native",
+    "full_name": "intuit/text-provider-react-native",
+    "html_url": "https://github.com/intuit/text-provider-react-native",
+    "description": "A React-native component which provides all the string constants using provider pattern",
+    "stars": 10,
+    "forks": 10,
+    "languages": {
+      "JavaScript": 1361
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 60.66,
+    "S_code": 1.33,
+    "S_social": 30,
+    "S_maint": 0
+  },
+  {
+    "name": "swift-hooks",
+    "full_name": "intuit/swift-hooks",
+    "html_url": "https://github.com/intuit/swift-hooks",
+    "description": "A little module for plugins, in swift. ",
+    "stars": 10,
+    "forks": 0,
+    "languages": {
+      "Swift": 64089,
+      "Shell": 1582,
+      "Ruby": 923
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 52.52,
+    "S_code": 65.03,
+    "S_social": 10,
+    "S_maint": 0
+  },
+  {
+    "name": "mastko",
+    "full_name": "intuit/mastko",
+    "html_url": "https://github.com/intuit/mastko",
+    "description": "MasTKO is a security tool which detects DNS entries associated with AWS’s EC2 servers susceptible to takeover attack and attempts a takeover. ",
+    "stars": 10,
+    "forks": 4,
+    "languages": {
+      "Python": 63985,
+      "Shell": 975
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 67.72,
+    "S_code": 63.44,
+    "S_social": 18,
+    "S_maint": 0
+  },
+  {
+    "name": "baklava",
+    "full_name": "intuit/baklava",
+    "html_url": "https://github.com/intuit/baklava",
+    "description": "Baklava is the build and packaging system for ML models. Baklava leverages the python standard \"setuptools\" packaging system, and extends it to build docker containers that run Machine learning models. These containers are compatible with SageMaker, and in future, they will be compatible with Kubeflow.",
+    "stars": 10,
+    "forks": 6,
+    "languages": {
+      "Python": 59413,
+      "Dockerfile": 2105
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 74.04,
+    "S_code": 60.08,
+    "S_social": 22,
+    "S_maint": 0
+  },
+  {
+    "name": "thrive",
+    "full_name": "intuit/thrive",
+    "html_url": "https://github.com/intuit/thrive",
+    "description": "Thrive is an ETL framework that runs single-row transformations on HDFS data and makes the data available in relational databases (Hive and Vertica).",
+    "stars": 10,
+    "forks": 9,
+    "languages": {
+      "Python": 350866,
+      "Shell": 4286
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 229.41,
+    "S_code": 346.83,
+    "S_social": 28,
+    "S_maint": 0
+  },
+  {
+    "name": "cfn-clone",
+    "full_name": "intuit/cfn-clone",
+    "html_url": "https://github.com/intuit/cfn-clone",
+    "description": "CLI to clone cloud formation stacks",
+    "stars": 10,
+    "forks": 9,
+    "languages": {
+      "Go": 12854,
+      "Shell": 822
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 62.68,
+    "S_code": 13.36,
+    "S_social": 28,
+    "S_maint": 0
+  },
+  {
+    "name": "email-decomposer",
+    "full_name": "intuit/email-decomposer",
+    "html_url": "https://github.com/intuit/email-decomposer",
+    "description": "Decomposition of email address to first name, last name, and host.",
+    "stars": 9,
+    "forks": 3,
+    "languages": {
+      "Python": 15391,
+      "Makefile": 561
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 37.79,
+    "S_code": 15.58,
+    "S_social": 15,
+    "S_maint": 0
+  },
+  {
+    "name": "TSheets-V1-DotNET-SDK",
+    "full_name": "intuit/TSheets-V1-DotNET-SDK",
+    "html_url": "https://github.com/intuit/TSheets-V1-DotNET-SDK",
+    "description": "TSheets is time tracking software that simplifies your business.  This SDK provides programmatic access to the managing, tracking, scheduling and reporting features of our product to build integrations, to your favorite accounting or payroll software, for example.",
+    "stars": 9,
+    "forks": 12,
+    "languages": {
+      "C#": 2151918
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1116.74,
+    "S_code": 2101.48,
+    "S_social": 33,
+    "S_maint": 0
+  },
+  {
+    "name": "cfn_lambda_extractor",
+    "full_name": "intuit/cfn_lambda_extractor",
+    "html_url": "https://github.com/intuit/cfn_lambda_extractor",
+    "description": "Cloud Formation Lambda Extractor (cfn_lambda_extractor) extracts inline Python code from Lambda resources in a Cloudformation template, allowing the code to be tested.",
+    "stars": 9,
+    "forks": 7,
+    "languages": {
+      "Python": 13789,
+      "Shell": 216,
+      "Makefile": 117
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 52.9,
+    "S_code": 13.79,
+    "S_social": 23,
+    "S_maint": 0
+  },
+  {
+    "name": "CICDScore",
+    "full_name": "intuit/CICDScore",
+    "html_url": "https://github.com/intuit/CICDScore",
+    "description": "This framework allows us to evaluate our maturity level in CI/CD for any application, and also projects the scores in a journey line graph along with some nice and fun badges!",
+    "stars": 9,
+    "forks": 8,
+    "languages": {
+      "CSS": 153314,
+      "PHP": 40148,
+      "JavaScript": 11225,
+      "HTML": 10084
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 154.87,
+    "S_code": 209.74,
+    "S_social": 25,
+    "S_maint": 0
+  },
+  {
+    "name": "datum-ipsum",
+    "full_name": "intuit/datum-ipsum",
+    "html_url": "https://github.com/intuit/datum-ipsum",
+    "description": "Java-based library to statistically characterize and randomly generate strings.",
+    "stars": 9,
+    "forks": 3,
+    "languages": {
+      "Java": 109579
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 83.51,
+    "S_code": 107.01,
+    "S_social": 15,
+    "S_maint": 0
+  },
+  {
+    "name": "perfsizesagemaker",
+    "full_name": "intuit/perfsizesagemaker",
+    "html_url": "https://github.com/intuit/perfsizesagemaker",
+    "description": "perfsizesagemaker is a tool that uses automated performance testing to determine the right size of infrastructure for hosting models on AWS SageMaker.",
+    "stars": 8,
+    "forks": 1,
+    "languages": {
+      "HTML": 2228415,
+      "JavaScript": 317090,
+      "CSS": 225874,
+      "Python": 180170,
+      "Makefile": 718
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1461.54,
+    "S_code": 2883.07,
+    "S_social": 10,
+    "S_maint": 0
+  },
+  {
+    "name": "common-xtext-expression-language",
+    "full_name": "intuit/common-xtext-expression-language",
+    "html_url": "https://github.com/intuit/common-xtext-expression-language",
+    "description": "common-xtext-expression-language (CXEL) is an Xtext based DSL and a java runtime engine for expressions and commonly used functions for data transformations",
+    "stars": 8,
+    "forks": 6,
+    "languages": {
+      "Java": 144730,
+      "Groovy": 41949,
+      "CSS": 1572,
+      "Xtend": 1561,
+      "HTML": 1265
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 133.3,
+    "S_code": 186.6,
+    "S_social": 20,
+    "S_maint": 0
+  },
+  {
+    "name": "gqlex",
+    "full_name": "intuit/gqlex",
+    "html_url": "https://github.com/intuit/gqlex",
+    "description": "eXtendGql is a powerful library that offers a unique path selection solution for GraphQL document, called gqlXPath; With advanced transformation abilities.",
+    "stars": 7,
+    "forks": 3,
+    "languages": {
+      "Java": 399276
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 220.96,
+    "S_code": 389.92,
+    "S_social": 13,
+    "S_maint": 0
+  },
+  {
+    "name": "filemerge",
+    "full_name": "intuit/filemerge",
+    "html_url": "https://github.com/intuit/filemerge",
+    "description": "Filemerge is a utility for merging a large number of small HDFS files into smaller number of large files. Filemerge is intended for use by Hadoop operations engineers and map-reduce application developers.",
+    "stars": 7,
+    "forks": 9,
+    "languages": {
+      "Python": 34246,
+      "Shell": 130
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 66.79,
+    "S_code": 33.57,
+    "S_social": 25,
+    "S_maint": 0
+  },
+  {
+    "name": "esm-unit",
+    "full_name": "intuit/esm-unit",
+    "html_url": "https://github.com/intuit/esm-unit",
+    "description": null,
+    "stars": 6,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 93079,
+      "HTML": 1807,
+      "Shell": 384
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 66.52,
+    "S_code": 93.04,
+    "S_social": 10,
+    "S_maint": 0
+  },
+  {
+    "name": "octoductor",
+    "full_name": "intuit/octoductor",
+    "html_url": "https://github.com/intuit/octoductor",
+    "description": "Helps orchestrate evaluation workflows to assess engineering excellence across repositories of code / software products",
+    "stars": 6,
+    "forks": 6,
+    "languages": {
+      "Python": 54523,
+      "TypeScript": 41402,
+      "Makefile": 869,
+      "JavaScript": 503
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 83.51,
+    "S_code": 95.02,
+    "S_social": 18,
+    "S_maint": 0
+  },
+  {
+    "name": "isl",
+    "full_name": "intuit/isl",
+    "html_url": "https://github.com/intuit/isl",
+    "description": "ISL a low-code, Intuitive Scripting Language designed for JSON-to-JSON transformations.",
+    "stars": 5,
+    "forks": 2,
+    "languages": {
+      "Kotlin": 932763,
+      "Java": 370497,
+      "Inno Setup": 36419,
+      "TypeScript": 19943,
+      "ANTLR": 14451,
+      "HTML": 10556,
+      "Python": 9641,
+      "CSS": 6299,
+      "Shell": 2364,
+      "Batchfile": 2243,
+      "Dockerfile": 1440,
+      "JavaScript": 616,
+      "Procfile": 52
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 705.15,
+    "S_code": 1374.3,
+    "S_social": 9,
+    "S_maint": 0
+  },
+  {
+    "name": "TreeifyTask",
+    "full_name": "intuit/TreeifyTask",
+    "html_url": "https://github.com/intuit/TreeifyTask",
+    "description": " Dotnet component that enables us to structure asynchronous tasks in a Hierarchy. That calculates overall progress, allows caller to start the execution of child tasks in concurrent or serial fashion.",
+    "stars": 5,
+    "forks": 2,
+    "languages": {
+      "C#": 35774,
+      "HTML": 21075,
+      "CSS": 3073
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 47.26,
+    "S_code": 58.52,
+    "S_social": 9,
+    "S_maint": 0
+  },
+  {
+    "name": "wMLM",
+    "full_name": "intuit/wMLM",
+    "html_url": "https://github.com/intuit/wMLM",
+    "description": null,
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "Python": 27021,
+      "Cython": 1227
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 27.79,
+    "S_code": 27.59,
+    "S_social": 7,
+    "S_maint": 0
+  },
+  {
+    "name": "renovate-config",
+    "full_name": "intuit/renovate-config",
+    "html_url": "https://github.com/intuit/renovate-config",
+    "description": "The config for Renovate that Intuit uses",
+    "stars": 4,
+    "forks": 2,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 16.0,
+    "S_code": 0.0,
+    "S_social": 8,
+    "S_maint": 0
+  },
+  {
+    "name": "hbm-to-jpa-converter",
+    "full_name": "intuit/hbm-to-jpa-converter",
+    "html_url": "https://github.com/intuit/hbm-to-jpa-converter",
+    "description": "hbm-to-jpa-converter tool is to automate the conversion of legacy HBM XML files to JPA Standard ORM files to eliminate manual and error-prone conversion.",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "Java": 66161,
+      "StringTemplate": 1022
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 44.8,
+    "S_code": 65.61,
+    "S_social": 6,
+    "S_maint": 0
+  },
+  {
+    "name": "chain-z",
+    "full_name": "intuit/chain-z",
+    "html_url": "https://github.com/intuit/chain-z",
+    "description": "Asynchronous execution made simple",
+    "stars": 4,
+    "forks": 10,
+    "languages": {
+      "Java": 72845
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 83.57,
+    "S_code": 71.14,
+    "S_social": 24,
+    "S_maint": 0
+  },
+  {
+    "name": "multi-lighthouse-run",
+    "full_name": "intuit/multi-lighthouse-run",
+    "html_url": "https://github.com/intuit/multi-lighthouse-run",
+    "description": "Lighthouse Script",
+    "stars": 4,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 7932,
+      "Shell": 111
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.93,
+    "S_code": 7.85,
+    "S_social": 10,
+    "S_maint": 0
+  },
+  {
+    "name": "perfsize",
+    "full_name": "intuit/perfsize",
+    "html_url": "https://github.com/intuit/perfsize",
+    "description": "perfsize is a tool that uses automated performance testing to determine the right size of infrastructure that can meet a given set of requirements. This repo is for common interfaces and shared components that can be imported into technology specific implementations.",
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "Python": 33520,
+      "Makefile": 700
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 32.71,
+    "S_code": 33.42,
+    "S_social": 8,
+    "S_maint": 0
+  },
+  {
+    "name": "graphql-wg",
+    "full_name": "intuit/graphql-wg",
+    "html_url": "https://github.com/intuit/graphql-wg",
+    "description": "Working group notes for GraphQL",
+    "stars": 4,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 12.0,
+    "S_code": 0.0,
+    "S_social": 6,
+    "S_maint": 0
+  },
+  {
+    "name": "java-dataloader",
+    "full_name": "intuit/java-dataloader",
+    "html_url": "https://github.com/intuit/java-dataloader",
+    "description": "A Java 8 port of Facebook DataLoader",
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "Java": 219478
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 123.17,
+    "S_code": 214.33,
+    "S_social": 8,
+    "S_maint": 0
+  },
+  {
+    "name": "reactor",
+    "full_name": "intuit/reactor",
+    "html_url": "https://github.com/intuit/reactor",
+    "description": "state-machine driven navigation variability system",
+    "stars": 4,
+    "forks": 4,
+    "languages": {
+      "JavaScript": 30192
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 38.74,
+    "S_code": 29.48,
+    "S_social": 12,
+    "S_maint": 0
+  },
+  {
+    "name": "destructive_socks5_proxy",
+    "full_name": "intuit/destructive_socks5_proxy",
+    "html_url": "https://github.com/intuit/destructive_socks5_proxy",
+    "description": "Destructive Proxy built on top of the SOCKS5 protocol",
+    "stars": 3,
+    "forks": 9,
+    "languages": {
+      "Go": 25033,
+      "Shell": 152
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 54.3,
+    "S_code": 24.59,
+    "S_social": 21,
+    "S_maint": 0
+  },
+  {
+    "name": "model-simulator",
+    "full_name": "intuit/model-simulator",
+    "html_url": "https://github.com/intuit/model-simulator",
+    "description": "Test model for simulating response times, error codes, reading artifacts, logging, and other model behaviors.",
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "Python": 5747,
+      "Dockerfile": 1123
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.35,
+    "S_code": 6.71,
+    "S_social": 7,
+    "S_maint": 0
+  },
+  {
+    "name": "sagemaker-gatling",
+    "full_name": "intuit/sagemaker-gatling",
+    "html_url": "https://github.com/intuit/sagemaker-gatling",
+    "description": "sagemaker-gatling can run performance tests on your deployed AWS SageMaker endpoint",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Scala": 13830
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.75,
+    "S_code": 13.51,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "graphql-client-sdk",
+    "full_name": "intuit/graphql-client-sdk",
+    "html_url": "https://github.com/intuit/graphql-client-sdk",
+    "description": null,
+    "stars": 2,
+    "forks": 2,
+    "languages": {
+      "Java": 184243
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 101.96,
+    "S_code": 179.92,
+    "S_social": 6,
+    "S_maint": 0
+  },
+  {
+    "name": "RWebPulse",
+    "full_name": "intuit/RWebPulse",
+    "html_url": "https://github.com/intuit/RWebPulse",
+    "description": "Integrate your springboot project with the latest reactive web-client offered by the spring.",
+    "stars": 2,
+    "forks": 8,
+    "languages": {
+      "Java": 41497
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 56.26,
+    "S_code": 40.52,
+    "S_social": 18,
+    "S_maint": 0
+  },
+  {
+    "name": ".github",
+    "full_name": "intuit/.github",
+    "html_url": "https://github.com/intuit/.github",
+    "description": null,
+    "stars": 1,
+    "forks": 3,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 14.0,
+    "S_code": 0.0,
+    "S_social": 7,
+    "S_maint": 0
+  },
+  {
+    "name": "pytorch-forecasting",
+    "full_name": "intuit/pytorch-forecasting",
+    "html_url": "https://github.com/intuit/pytorch-forecasting",
+    "description": "Time series forecasting with PyTorch",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 637603
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 313.33,
+    "S_code": 622.66,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "db-telemetry",
+    "full_name": "intuit/db-telemetry",
+    "html_url": "https://github.com/intuit/db-telemetry",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Java": 76830
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 43.51,
+    "S_code": 75.03,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "ChartsSwiftUI",
+    "full_name": "intuit/ChartsSwiftUI",
+    "html_url": "https://github.com/intuit/ChartsSwiftUI",
+    "description": "Customisable bar chart library developed in Apple's SwiftUI, providing iOS and macOS app developers with an easy way to integrate data visualisation features.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Swift": 77079,
+      "Ruby": 4272,
+      "Shell": 1523
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 42.47,
+    "S_code": 80.93,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "plugin-update",
+    "full_name": "intuit/plugin-update",
+    "html_url": "https://github.com/intuit/plugin-update",
+    "description": "add autoupdate to your oclif CLI",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 52261,
+      "JavaScript": 7430,
+      "Batchfile": 31
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.16,
+    "S_code": 58.32,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "presto",
+    "full_name": "intuit/presto",
+    "html_url": "https://github.com/intuit/presto",
+    "description": "The official home of the Presto distributed SQL query engine for big data",
+    "stars": 1,
+    "forks": 3,
+    "languages": {
+      "Java": 48366526,
+      "JavaScript": 220797,
+      "Shell": 31645,
+      "ANTLR": 30793,
+      "HTML": 27777,
+      "CSS": 15299,
+      "Thrift": 12631,
+      "Python": 12239,
+      "Makefile": 6626,
+      "PLSQL": 85
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23805.22,
+    "S_code": 47582.44,
+    "S_social": 7,
+    "S_maint": 0
+  },
+  {
+    "name": "secrets-mask-plugin",
+    "full_name": "intuit/secrets-mask-plugin",
+    "html_url": "https://github.com/intuit/secrets-mask-plugin",
+    "description": null,
+    "stars": 0,
+    "forks": 3,
+    "languages": {
+      "Java": 32740,
+      "Groovy": 1766
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 28.85,
+    "S_code": 33.7,
+    "S_social": 6,
+    "S_maint": 0
+  },
+  {
+    "name": "Charts",
+    "full_name": "intuit/Charts",
+    "html_url": "https://github.com/intuit/Charts",
+    "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "Swift": 1066596,
+      "Objective-C": 197912,
+      "Ruby": 776,
+      "Shell": 739,
+      "C": 104
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 626.23,
+    "S_code": 1236.45,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "postgres-operator-examples",
+    "full_name": "intuit/postgres-operator-examples",
+    "html_url": "https://github.com/intuit/postgres-operator-examples",
+    "description": "Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Smarty": 2713
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.32,
+    "S_code": 2.65,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "calcite",
+    "full_name": "intuit/calcite",
+    "html_url": "https://github.com/intuit/calcite",
+    "description": "Apache Calcite",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "Java": 20081311,
+      "Kotlin": 137611,
+      "SCSS": 36583,
+      "HTML": 28321,
+      "FreeMarker": 19741,
+      "Shell": 8012,
+      "Batchfile": 4392,
+      "Ruby": 1807,
+      "Python": 1610,
+      "PigLatin": 1419
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9930.27,
+    "S_code": 19844.54,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "homebrew-cfn-clone",
+    "full_name": "intuit/homebrew-cfn-clone",
+    "html_url": "https://github.com/intuit/homebrew-cfn-clone",
+    "description": "hombrew formula for cfn-clone",
+    "stars": 0,
+    "forks": 5,
+    "languages": {
+      "Ruby": 422
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.21,
+    "S_code": 0.41,
+    "S_social": 10,
+    "S_maint": 0
+  }
+]

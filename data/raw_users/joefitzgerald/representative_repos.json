@@ -1,0 +1,979 @@
+[
+  {
+    "name": "packer-windows",
+    "full_name": "joefitzgerald/packer-windows",
+    "html_url": "https://github.com/joefitzgerald/packer-windows",
+    "description": "Windows Packer Templates",
+    "stars": 1645,
+    "forks": 1110,
+    "languages": {
+      "PowerShell": 16246,
+      "Ruby": 11081,
+      "Batchfile": 9610
+    },
+    "contributions_by_user": 158,
+    "contribution_score": 9328.04,
+    "S_code": 36.07,
+    "S_social": 3865,
+    "S_maint": 158
+  },
+  {
+    "name": "go-plus",
+    "full_name": "joefitzgerald/go-plus",
+    "html_url": "https://github.com/joefitzgerald/go-plus",
+    "description": "An Enhanced Go Experience For The Atom Editor",
+    "stars": 1500,
+    "forks": 128,
+    "languages": {
+      "JavaScript": 349721,
+      "CSS": 9820,
+      "Go": 4513
+    },
+    "contributions_by_user": 698,
+    "contribution_score": 10669.76,
+    "S_code": 355.52,
+    "S_social": 1756,
+    "S_maint": 698
+  },
+  {
+    "name": "slack-dump",
+    "full_name": "joefitzgerald/slack-dump",
+    "html_url": "https://github.com/joefitzgerald/slack-dump",
+    "description": "Export History For Private Groups From Slack",
+    "stars": 63,
+    "forks": 64,
+    "languages": {
+      "Go": 8298
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 416.05,
+    "S_code": 8.1,
+    "S_social": 191,
+    "S_maint": 3
+  },
+  {
+    "name": "inductor",
+    "full_name": "joefitzgerald/inductor",
+    "html_url": "https://github.com/joefitzgerald/inductor",
+    "description": "Inductor Generates Packer (http://packer.io) Templates Using Inductor Templates",
+    "stars": 43,
+    "forks": 2,
+    "languages": {
+      "Go": 42910,
+      "Ruby": 2998
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 316.42,
+    "S_code": 44.83,
+    "S_social": 47,
+    "S_maint": 20
+  },
+  {
+    "name": "autocomplete-go",
+    "full_name": "joefitzgerald/autocomplete-go",
+    "html_url": "https://github.com/joefitzgerald/autocomplete-go",
+    "description": "An Atom autocomplete-plus provider for the Go language that uses gocode to provide suggestions.",
+    "stars": 29,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 57618
+    },
+    "contributions_by_user": 62,
+    "contribution_score": 718.13,
+    "S_code": 56.27,
+    "S_social": 35,
+    "S_maint": 62
+  },
+  {
+    "name": "gometalinter-linter",
+    "full_name": "joefitzgerald/gometalinter-linter",
+    "html_url": "https://github.com/joefitzgerald/gometalinter-linter",
+    "description": "A Linter For Atom That Runs gometalinter",
+    "stars": 18,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 9412
+    },
+    "contributions_by_user": 53,
+    "contribution_score": 582.6,
+    "S_code": 9.19,
+    "S_social": 24,
+    "S_maint": 53
+  },
+  {
+    "name": "forecast",
+    "full_name": "joefitzgerald/forecast",
+    "html_url": "https://github.com/joefitzgerald/forecast",
+    "description": "A Forecast (forecastapp.com) API Client For Go",
+    "stars": 15,
+    "forks": 6,
+    "languages": {
+      "Go": 50653
+    },
+    "contributions_by_user": 30,
+    "contribution_score": 378.73,
+    "S_code": 49.47,
+    "S_social": 27,
+    "S_maint": 30
+  },
+  {
+    "name": "navigator-go",
+    "full_name": "joefitzgerald/navigator-go",
+    "html_url": "https://github.com/joefitzgerald/navigator-go",
+    "description": "Atom Package For Navigating To The Symbol Under The Cursor Using godef",
+    "stars": 7,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 24656
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 268.04,
+    "S_code": 24.08,
+    "S_social": 13,
+    "S_maint": 23
+  },
+  {
+    "name": "go-config",
+    "full_name": "joefitzgerald/go-config",
+    "html_url": "https://github.com/joefitzgerald/go-config",
+    "description": "Atom Package For Detecting And Configuring Installed Go Runtime(s)",
+    "stars": 7,
+    "forks": 5,
+    "languages": {
+      "JavaScript": 52396,
+      "Go": 2771
+    },
+    "contributions_by_user": 186,
+    "contribution_score": 1920.94,
+    "S_code": 53.87,
+    "S_social": 17,
+    "S_maint": 186
+  },
+  {
+    "name": "standardlog",
+    "full_name": "joefitzgerald/standardlog",
+    "html_url": "https://github.com/joefitzgerald/standardlog",
+    "description": "A Go (golang) Interface For The Standard Library's log.Logger",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "Go": 854
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 52.42,
+    "S_code": 0.83,
+    "S_social": 6,
+    "S_maint": 4
+  },
+  {
+    "name": "builder-go",
+    "full_name": "joefitzgerald/builder-go",
+    "html_url": "https://github.com/joefitzgerald/builder-go",
+    "description": "Builds Go Source Code In Atom",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 9013
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 88.4,
+    "S_code": 8.8,
+    "S_social": 7,
+    "S_maint": 7
+  },
+  {
+    "name": "go-get",
+    "full_name": "joefitzgerald/go-get",
+    "html_url": "https://github.com/joefitzgerald/go-get",
+    "description": "An Atom Package For Managing Go Libraries And Executables",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 19890
+    },
+    "contributions_by_user": 36,
+    "contribution_score": 379.71,
+    "S_code": 19.42,
+    "S_social": 5,
+    "S_maint": 36
+  },
+  {
+    "name": "gofmt",
+    "full_name": "joefitzgerald/gofmt",
+    "html_url": "https://github.com/joefitzgerald/gofmt",
+    "description": "Atom Package For Running gofmt / goimports / goreturns",
+    "stars": 4,
+    "forks": 4,
+    "languages": {
+      "JavaScript": 21978
+    },
+    "contributions_by_user": 42,
+    "contribution_score": 454.73,
+    "S_code": 21.46,
+    "S_social": 12,
+    "S_maint": 42
+  },
+  {
+    "name": "passwordcredentials",
+    "full_name": "joefitzgerald/passwordcredentials",
+    "html_url": "https://github.com/joefitzgerald/passwordcredentials",
+    "description": "A golang.org/x/oauth2 client for the passwordcredentials OAuth 2.0 flow.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Go": 10451
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 231.1,
+    "S_code": 10.21,
+    "S_social": 3,
+    "S_maint": 22
+  },
+  {
+    "name": "rainbow-reporter",
+    "full_name": "joefitzgerald/rainbow-reporter",
+    "html_url": "https://github.com/joefitzgerald/rainbow-reporter",
+    "description": "A spec (https://github.com/sclevine/spec) reporter that is colorized 🌈!",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Go": 1947
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 26.95,
+    "S_code": 1.9,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "graphql",
+    "full_name": "joefitzgerald/graphql",
+    "html_url": "https://github.com/joefitzgerald/graphql",
+    "description": "A Go GraphQL Client",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Go": 8074
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 43.94,
+    "S_code": 7.88,
+    "S_social": 5,
+    "S_maint": 3
+  },
+  {
+    "name": "openair",
+    "full_name": "joefitzgerald/openair",
+    "html_url": "https://github.com/joefitzgerald/openair",
+    "description": "A go generator for the OpenAir XML API",
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "Go": 25305
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 126.36,
+    "S_code": 24.71,
+    "S_social": 7,
+    "S_maint": 10
+  },
+  {
+    "name": "tester-go",
+    "full_name": "joefitzgerald/tester-go",
+    "html_url": "https://github.com/joefitzgerald/tester-go",
+    "description": "Atom Package To Run Your Go Tests And Display Test Coverage",
+    "stars": 3,
+    "forks": 6,
+    "languages": {
+      "JavaScript": 28785,
+      "CSS": 294
+    },
+    "contributions_by_user": 37,
+    "contribution_score": 414.2,
+    "S_code": 28.4,
+    "S_social": 15,
+    "S_maint": 37
+  },
+  {
+    "name": "prettier-plugin-tailwindcss-extra-plus",
+    "full_name": "joefitzgerald/prettier-plugin-tailwindcss-extra-plus",
+    "html_url": "https://github.com/joefitzgerald/prettier-plugin-tailwindcss-extra-plus",
+    "description": "Adds Tailwind class sorting to a set of languages that are not yet supported by prettier",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 4609,
+      "templ": 2436
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 57.44,
+    "S_code": 6.88,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "etch-octicon",
+    "full_name": "joefitzgerald/etch-octicon",
+    "html_url": "https://github.com/joefitzgerald/etch-octicon",
+    "description": "A GitHub Octicons icon Etch component",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2721,
+      "CSS": 191
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 165.42,
+    "S_code": 2.84,
+    "S_social": 2,
+    "S_maint": 16
+  },
+  {
+    "name": "buildpack",
+    "full_name": "joefitzgerald/buildpack",
+    "html_url": "https://github.com/joefitzgerald/buildpack",
+    "description": "A Collection Of Go (golang) Interfaces Representing The Contracts Required For A Buildpack",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Go": 3080
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 25.5,
+    "S_code": 3.01,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "streamlog",
+    "full_name": "joefitzgerald/streamlog",
+    "html_url": "https://github.com/joefitzgerald/streamlog",
+    "description": "A Go (golang) Logger For Standard Output Streams",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Go": 13134
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 160.41,
+    "S_code": 12.83,
+    "S_social": 2,
+    "S_maint": 15
+  },
+  {
+    "name": "quickbooks-go",
+    "full_name": "joefitzgerald/quickbooks-go",
+    "html_url": "https://github.com/joefitzgerald/quickbooks-go",
+    "description": "A Go library for Intuit's QuickBooks Online API",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Go": 87114
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 114.54,
+    "S_code": 85.07,
+    "S_social": 1,
+    "S_maint": 7
+  },
+  {
+    "name": "gabby",
+    "full_name": "joefitzgerald/gabby",
+    "html_url": "https://github.com/joefitzgerald/gabby",
+    "description": "Tame the calendar beast!",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Go": 22949,
+      "Dockerfile": 457
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 53.43,
+    "S_code": 22.86,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "gomega",
+    "full_name": "joefitzgerald/gomega",
+    "html_url": "https://github.com/joefitzgerald/gomega",
+    "description": "Ginkgo's Preferred Matcher Library",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Go": 385088
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 190.03,
+    "S_code": 376.06,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "sqlce",
+    "full_name": "joefitzgerald/sqlce",
+    "html_url": "https://github.com/joefitzgerald/sqlce",
+    "description": "Microsoft SQL Server (Compact Edition) Cookbook",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Ruby": 7540
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 159.68,
+    "S_code": 7.36,
+    "S_social": 3,
+    "S_maint": 15
+  },
+  {
+    "name": "go-guru",
+    "full_name": "joefitzgerald/go-guru",
+    "html_url": "https://github.com/joefitzgerald/go-guru",
+    "description": "Atom package for the guru tool",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 13651,
+      "CSS": 352
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.84,
+    "S_code": 13.67,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "postgres-context-server",
+    "full_name": "joefitzgerald/postgres-context-server",
+    "html_url": "https://github.com/joefitzgerald/postgres-context-server",
+    "description": "A Model Context Protocol server for Postgres",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9072
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 14.43,
+    "S_code": 8.86,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "sfdc",
+    "full_name": "joefitzgerald/sfdc",
+    "html_url": "https://github.com/joefitzgerald/sfdc",
+    "description": "Go client for the Salesforce / SFDC REST API",
+    "stars": 0,
+    "forks": 3,
+    "languages": {
+      "Go": 30786
+    },
+    "contributions_by_user": 48,
+    "contribution_score": 507.03,
+    "S_code": 30.06,
+    "S_social": 6,
+    "S_maint": 48
+  },
+  {
+    "name": "harvest",
+    "full_name": "joefitzgerald/harvest",
+    "html_url": "https://github.com/joefitzgerald/harvest",
+    "description": "A Go client for the Harvest API",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 117134
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 117.19,
+    "S_code": 114.39,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "tmp-hugo",
+    "full_name": "joefitzgerald/tmp-hugo",
+    "html_url": "https://github.com/joefitzgerald/tmp-hugo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "zed-templ",
+    "full_name": "joefitzgerald/zed-templ",
+    "html_url": "https://github.com/joefitzgerald/zed-templ",
+    "description": "Extension for Zed to support Templ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Scheme": 4007
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.96,
+    "S_code": 3.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "casbin-pgx-adapter",
+    "full_name": "joefitzgerald/casbin-pgx-adapter",
+    "html_url": "https://github.com/joefitzgerald/casbin-pgx-adapter",
+    "description": "Casbin PGX Adapter",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 29747
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 44.52,
+    "S_code": 29.05,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "templ",
+    "full_name": "joefitzgerald/templ",
+    "html_url": "https://github.com/joefitzgerald/templ",
+    "description": "A language for writing HTML user interfaces in Go.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 774496,
+      "HTML": 7703,
+      "Nix": 3012,
+      "JavaScript": 1262,
+      "Shell": 1031,
+      "Dockerfile": 237
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 384.64,
+    "S_code": 769.28,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cloudfoundry-community",
+    "full_name": "joefitzgerald/cloudfoundry-community",
+    "html_url": "https://github.com/joefitzgerald/cloudfoundry-community",
+    "description": "Governance and contact information for Cloud Foundry",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 48847,
+      "Shell": 10810,
+      "HTML": 8192,
+      "Dockerfile": 138
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 33.2,
+    "S_code": 66.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "homebrew-tap",
+    "full_name": "joefitzgerald/homebrew-tap",
+    "html_url": "https://github.com/joefitzgerald/homebrew-tap",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 3188
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 31.56,
+    "S_code": 3.11,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "traverse",
+    "full_name": "joefitzgerald/traverse",
+    "html_url": "https://github.com/joefitzgerald/traverse",
+    "description": "Build and maintain groups on the basis of reporting hierarchy.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 10091,
+      "Dockerfile": 478
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 75.16,
+    "S_code": 10.32,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "joefitzgerald/dotfiles",
+    "html_url": "https://github.com/joefitzgerald/dotfiles",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 8155,
+      "Vim Script": 6269
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 197.04,
+    "S_code": 14.09,
+    "S_social": 0,
+    "S_maint": 19
+  },
+  {
+    "name": "ws1-finder",
+    "full_name": "joefitzgerald/ws1-finder",
+    "html_url": "https://github.com/joefitzgerald/ws1-finder",
+    "description": "Launch applications to which you are entitled on Workspace ONE, right from your browser! Available for Firefox, Chrome and Microsoft Edge",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 14612,
+      "CSS": 1448,
+      "HTML": 1040
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.35,
+    "S_code": 16.7,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "community-edition",
+    "full_name": "joefitzgerald/community-edition",
+    "html_url": "https://github.com/joefitzgerald/community-edition",
+    "description": "VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 128989,
+      "Shell": 114569,
+      "Makefile": 31891,
+      "PowerShell": 7166,
+      "Batchfile": 3862,
+      "Dockerfile": 225
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 139.99,
+    "S_code": 279.98,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "website",
+    "full_name": "joefitzgerald/website",
+    "html_url": "https://github.com/joefitzgerald/website",
+    "description": "Kubernetes website and documentation repo: ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 20845702,
+      "CSS": 304561,
+      "JavaScript": 166837,
+      "Go": 76639,
+      "Python": 68404,
+      "Sass": 46067,
+      "SCSS": 34871,
+      "Shell": 11940,
+      "Makefile": 5845,
+      "Dockerfile": 3127
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10529.29,
+    "S_code": 21058.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tanzu-framework",
+    "full_name": "joefitzgerald/tanzu-framework",
+    "html_url": "https://github.com/joefitzgerald/tanzu-framework",
+    "description": "Tanzu Framework provides a set of building blocks to build atop of the Tanzu platform and leverages Carvel packaging and plugins to provide users with a much stronger, more integrated experience than the loose coupling and stand-alone commands of the previous generation of tools.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 3206390,
+      "TypeScript": 569162,
+      "HTML": 298637,
+      "JavaScript": 69282,
+      "Makefile": 39820,
+      "Shell": 35588,
+      "SCSS": 26855,
+      "Dockerfile": 6570,
+      "Python": 6036,
+      "CSS": 430
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2079.48,
+    "S_code": 4158.96,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "carvel-kbld",
+    "full_name": "joefitzgerald/carvel-kbld",
+    "html_url": "https://github.com/joefitzgerald/carvel-kbld",
+    "description": "kbld seamlessly incorporates image building and image pushing into your development and deployment workflows",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 246584,
+      "Shell": 2802,
+      "Dockerfile": 250
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 121.89,
+    "S_code": 243.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "carvel-imgpkg",
+    "full_name": "joefitzgerald/carvel-imgpkg",
+    "html_url": "https://github.com/joefitzgerald/carvel-imgpkg",
+    "description": "Store application configuration files in Docker/OCI registries",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 508068,
+      "Shell": 3052
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 249.57,
+    "S_code": 499.14,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "carvel-kapp",
+    "full_name": "joefitzgerald/carvel-kapp",
+    "html_url": "https://github.com/joefitzgerald/carvel-kapp",
+    "description": "kapp is a simple deployment tool focused on the concept of \"Kubernetes application\" — a set of resources with the same label",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 764756,
+      "Shell": 2192
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 374.49,
+    "S_code": 748.97,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vimfiles",
+    "full_name": "joefitzgerald/vimfiles",
+    "html_url": "https://github.com/joefitzgerald/vimfiles",
+    "description": ".vim directory",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vim Script": 1975,
+      "Shell": 177
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 71.05,
+    "S_code": 2.1,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "Metropolis",
+    "full_name": "joefitzgerald/Metropolis",
+    "html_url": "https://github.com/joefitzgerald/Metropolis",
+    "description": "A modern, geometric typeface",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4780
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.33,
+    "S_code": 4.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "safeway-offers",
+    "full_name": "joefitzgerald/safeway-offers",
+    "html_url": "https://github.com/joefitzgerald/safeway-offers",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 6504
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.18,
+    "S_code": 6.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "uaa-cli",
+    "full_name": "joefitzgerald/uaa-cli",
+    "html_url": "https://github.com/joefitzgerald/uaa-cli",
+    "description": "Experimental CLI for UAA written in Go.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 423929,
+      "Makefile": 876,
+      "Shell": 75
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 207.46,
+    "S_code": 414.92,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pgx",
+    "full_name": "joefitzgerald/pgx",
+    "html_url": "https://github.com/joefitzgerald/pgx",
+    "description": "PostgreSQL driver and toolkit for Go",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 327614,
+      "Shell": 2642
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 161.26,
+    "S_code": 322.52,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "veesixissue",
+    "full_name": "joefitzgerald/veesixissue",
+    "html_url": "https://github.com/joefitzgerald/veesixissue",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 433
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.21,
+    "S_code": 0.42,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "graphql-go",
+    "full_name": "joefitzgerald/graphql-go",
+    "html_url": "https://github.com/joefitzgerald/graphql-go",
+    "description": "GraphQL server with a focus on ease of use",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 210846,
+      "JavaScript": 4101
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 104.95,
+    "S_code": 209.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "slack",
+    "full_name": "joefitzgerald/slack",
+    "html_url": "https://github.com/joefitzgerald/slack",
+    "description": "Slack API in Go",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Go": 313678
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 367.16,
+    "S_code": 306.33,
+    "S_social": 2,
+    "S_maint": 21
+  },
+  {
+    "name": "SmartThingsPublic",
+    "full_name": "joefitzgerald/SmartThingsPublic",
+    "html_url": "https://github.com/joefitzgerald/SmartThingsPublic",
+    "description": "SmartThings open-source DeviceTypeHandlers and SmartApps code",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Groovy": 3258976
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1591.3,
+    "S_code": 3182.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "go-hyperclick",
+    "full_name": "joefitzgerald/go-hyperclick",
+    "html_url": "https://github.com/joefitzgerald/go-hyperclick",
+    "description": "A hyperclick provider that lets you jump to where variables are defined.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2124
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.04,
+    "S_code": 2.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "joefitzgerald.github.io",
+    "full_name": "joefitzgerald/joefitzgerald.github.io",
+    "html_url": "https://github.com/joefitzgerald/joefitzgerald.github.io",
+    "description": "joefitzgerald.io Content",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "presentations",
+    "full_name": "joefitzgerald/presentations",
+    "html_url": "https://github.com/joefitzgerald/presentations",
+    "description": "Joe's Presentations",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "Erlang.NET",
+    "full_name": "joefitzgerald/Erlang.NET",
+    "html_url": "https://github.com/joefitzgerald/Erlang.NET",
+    "description": "Erlang.NET is an implementation of an Erlang node in C#",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 600827
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 293.37,
+    "S_code": 586.75,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

@@ -1,0 +1,1965 @@
+[
+  {
+    "name": "js-spark-md5",
+    "full_name": "satazor/js-spark-md5",
+    "html_url": "https://github.com/satazor/js-spark-md5",
+    "description": "Lightning fast normal and incremental md5 for javascript",
+    "stars": 2598,
+    "forks": 467,
+    "languages": {
+      "JavaScript": 125643,
+      "HTML": 20239,
+      "CSS": 5097
+    },
+    "contributions_by_user": 111,
+    "contribution_score": 8247.72,
+    "S_code": 147.44,
+    "S_social": 3532,
+    "S_maint": 111
+  },
+  {
+    "name": "redux-boilerplate",
+    "full_name": "satazor/redux-boilerplate",
+    "html_url": "https://github.com/satazor/redux-boilerplate",
+    "description": "A boilerplate for starting a large redux based app",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 32692,
+      "CSS": 2581,
+      "HTML": 1270
+    },
+    "contributions_by_user": 67,
+    "contribution_score": 697.84,
+    "S_code": 35.69,
+    "S_social": 5,
+    "S_maint": 67
+  },
+  {
+    "name": "eslint-config",
+    "full_name": "satazor/eslint-config",
+    "html_url": "https://github.com/satazor/eslint-config",
+    "description": "My own eslint configurations",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 23391
+    },
+    "contributions_by_user": 96,
+    "contribution_score": 983.42,
+    "S_code": 22.84,
+    "S_social": 6,
+    "S_maint": 96
+  },
+  {
+    "name": "eslint-plugin-import-esm",
+    "full_name": "satazor/eslint-plugin-import-esm",
+    "html_url": "https://github.com/satazor/eslint-plugin-import-esm",
+    "description": "ESLint plugin that enforces imports to follow native ESM resolution.",
+    "stars": 3,
+    "forks": 5,
+    "languages": {
+      "JavaScript": 7868
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 249.84,
+    "S_code": 7.68,
+    "S_social": 13,
+    "S_maint": 22
+  },
+  {
+    "name": "zod-bignumber",
+    "full_name": "satazor/zod-bignumber",
+    "html_url": "https://github.com/satazor/zod-bignumber",
+    "description": "BigNumber type for Zod",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 26982
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 157.17,
+    "S_code": 26.35,
+    "S_social": 2,
+    "S_maint": 14
+  },
+  {
+    "name": "stylelint-config",
+    "full_name": "satazor/stylelint-config",
+    "html_url": "https://github.com/satazor/stylelint-config",
+    "description": "My own stylelint configurations",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 5489
+    },
+    "contributions_by_user": 39,
+    "contribution_score": 400.68,
+    "S_code": 5.36,
+    "S_social": 4,
+    "S_maint": 39
+  },
+  {
+    "name": "webpack-sort-chunks",
+    "full_name": "satazor/webpack-sort-chunks",
+    "html_url": "https://github.com/satazor/webpack-sort-chunks",
+    "description": "Sorts webpack chunks by dependency",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3675
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 15.79,
+    "S_code": 3.59,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "univ-museum-assault",
+    "full_name": "satazor/univ-museum-assault",
+    "html_url": "https://github.com/satazor/univ-museum-assault",
+    "description": "A university evaluation exercise using threads",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Java": 62375
+    },
+    "contributions_by_user": 55,
+    "contribution_score": 588.46,
+    "S_code": 60.91,
+    "S_social": 4,
+    "S_maint": 55
+  },
+  {
+    "name": "univ-aca-mips",
+    "full_name": "satazor/univ-aca-mips",
+    "html_url": "https://github.com/satazor/univ-aca-mips",
+    "description": "Assignment 1 for ACA class",
+    "stars": 2,
+    "forks": 5,
+    "languages": {
+      "C++": 28667643,
+      "Makefile": 3183590,
+      "TypeScript": 1673422,
+      "C": 676603,
+      "QMake": 139750,
+      "Assembly": 110706,
+      "Yacc": 100961,
+      "Shell": 35898,
+      "HTML": 26078,
+      "Perl": 19534,
+      "PostScript": 18841,
+      "Lex": 14639,
+      "Groff": 10418,
+      "Objective-C": 3047,
+      "Emacs Lisp": 500,
+      "IDL": 227,
+      "Prolog": 111
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 17118.55,
+    "S_code": 33869.11,
+    "S_social": 12,
+    "S_maint": 16
+  },
+  {
+    "name": "file-type",
+    "full_name": "satazor/file-type",
+    "html_url": "https://github.com/satazor/file-type",
+    "description": "Detect the file type of a file, stream, or data",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 74577,
+      "PostScript": 23811,
+      "TypeScript": 1825,
+      "Rich Text Format": 340
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 55.1,
+    "S_code": 98.2,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "opentelemetry-js-contrib",
+    "full_name": "satazor/opentelemetry-js-contrib",
+    "html_url": "https://github.com/satazor/opentelemetry-js-contrib",
+    "description": "OpenTelemetry instrumentation for JavaScript modules",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2278477,
+      "JavaScript": 42673,
+      "Shell": 1873,
+      "HTML": 188
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1136.38,
+    "S_code": 2268.76,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "eslint-plugin-css-modules",
+    "full_name": "satazor/eslint-plugin-css-modules",
+    "html_url": "https://github.com/satazor/eslint-plugin-css-modules",
+    "description": "Checks that you are using the existent css/scss classes, no more no less",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 474160,
+      "CSS": 1867
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 234.44,
+    "S_code": 464.87,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "router5",
+    "full_name": "satazor/router5",
+    "html_url": "https://github.com/satazor/router5",
+    "description": "Flexible and powerful universal routing solution",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 87088
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 44.52,
+    "S_code": 85.05,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "vitest-when",
+    "full_name": "satazor/vitest-when",
+    "html_url": "https://github.com/satazor/vitest-when",
+    "description": "Stub behaviors of Vitest mock functions based on how they are called",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 41392,
+      "JavaScript": 668
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.54,
+    "S_code": 41.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "logging",
+    "full_name": "satazor/logging",
+    "html_url": "https://github.com/satazor/logging",
+    "description": "Logging integrations for Go's log/slog package.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 29882,
+      "Shell": 77
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.63,
+    "S_code": 29.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "prettylog",
+    "full_name": "satazor/prettylog",
+    "html_url": "https://github.com/satazor/prettylog",
+    "description": "A really nice golang slog handler I found",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 6932
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.38,
+    "S_code": 6.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fastify-otel",
+    "full_name": "satazor/fastify-otel",
+    "html_url": "https://github.com/satazor/fastify-otel",
+    "description": "OpenTelemetry instrumentation library ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 68919,
+      "TypeScript": 2258
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 34.75,
+    "S_code": 69.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mintlify-docs",
+    "full_name": "satazor/mintlify-docs",
+    "html_url": "https://github.com/satazor/mintlify-docs",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "MDX": 30293
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 24.79,
+    "S_code": 29.58,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "npm-bug-workspaces-git-deps",
+    "full_name": "satazor/npm-bug-workspaces-git-deps",
+    "html_url": "https://github.com/satazor/npm-bug-workspaces-git-deps",
+    "description": "Demonstration of npm bug when git dependencies are used with workspaces",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 27
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.01,
+    "S_code": 0.03,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "jwt-with-grpc-performance-tests",
+    "full_name": "satazor/jwt-with-grpc-performance-tests",
+    "html_url": "https://github.com/satazor/jwt-with-grpc-performance-tests",
+    "description": "Micro-benchmark on GRPC + JWT signing and verification on Node.js and Go.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6050,
+      "Go": 3246
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 14.54,
+    "S_code": 9.08,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "jwt-performance-tests",
+    "full_name": "satazor/jwt-performance-tests",
+    "html_url": "https://github.com/satazor/jwt-performance-tests",
+    "description": "Micro-benchmark on JWT signing and verification on Node.js and Go",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5729,
+      "Go": 3229
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 34.37,
+    "S_code": 8.75,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "opentelemetry-instrumentation-fetch-node",
+    "full_name": "satazor/opentelemetry-instrumentation-fetch-node",
+    "html_url": "https://github.com/satazor/opentelemetry-instrumentation-fetch-node",
+    "description": "OpenTelemetry Node 18+ native fetch automatic instrumentation package",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 10227,
+      "Shell": 69
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.03,
+    "S_code": 10.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bodyparser",
+    "full_name": "satazor/bodyparser",
+    "html_url": "https://github.com/satazor/bodyparser",
+    "description": "Koa body parsing middleware",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 25551
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.48,
+    "S_code": 24.95,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "protobuf-fieldmask",
+    "full_name": "satazor/protobuf-fieldmask",
+    "html_url": "https://github.com/satazor/protobuf-fieldmask",
+    "description": "Library for generating and applying FieldMask",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 10235
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.0,
+    "S_code": 10.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "grpc-node",
+    "full_name": "satazor/grpc-node",
+    "html_url": "https://github.com/satazor/grpc-node",
+    "description": "gRPC for Node.js",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1585227,
+      "JavaScript": 253519,
+      "C++": 30527,
+      "Shell": 30340,
+      "CMake": 2907,
+      "Batchfile": 2711,
+      "Dockerfile": 2548,
+      "PowerShell": 2270
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 932.64,
+    "S_code": 1865.28,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jest-issue-14741",
+    "full_name": "satazor/jest-issue-14741",
+    "html_url": "https://github.com/satazor/jest-issue-14741",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 149
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.07,
+    "S_code": 0.15,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "opentelemetry-js",
+    "full_name": "satazor/opentelemetry-js",
+    "html_url": "https://github.com/satazor/opentelemetry-js",
+    "description": "OpenTelemetry JavaScript Client",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3091172,
+      "JavaScript": 101664,
+      "Shell": 6683,
+      "Jinja": 2242,
+      "HTML": 778
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1563.74,
+    "S_code": 3127.48,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-turnstile",
+    "full_name": "satazor/react-turnstile",
+    "html_url": "https://github.com/satazor/react-turnstile",
+    "description": "A very simple React library for Cloudflare Turnstile.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 7538
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.68,
+    "S_code": 7.36,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sdk-typescript",
+    "full_name": "satazor/sdk-typescript",
+    "html_url": "https://github.com/satazor/sdk-typescript",
+    "description": "Temporal TypeScript SDK",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1244344,
+      "Rust": 71207,
+      "JavaScript": 33972,
+      "CSS": 2934,
+      "Makefile": 2854
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 661.77,
+    "S_code": 1323.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fastify-swagger-ui",
+    "full_name": "satazor/fastify-swagger-ui",
+    "html_url": "https://github.com/satazor/fastify-swagger-ui",
+    "description": "Serve Swagger-UI for Fastify",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 72365,
+      "TypeScript": 7765
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 39.13,
+    "S_code": 78.25,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "clean-deep",
+    "full_name": "satazor/clean-deep",
+    "html_url": "https://github.com/satazor/clean-deep",
+    "description": "Remove falsy, empty or nullable values from objects",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5848
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.86,
+    "S_code": 5.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "release-action",
+    "full_name": "satazor/release-action",
+    "html_url": "https://github.com/satazor/release-action",
+    "description": "A GitHub action that takes care of releases based on semantic pull-request labels",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "toolkit",
+    "full_name": "satazor/toolkit",
+    "html_url": "https://github.com/satazor/toolkit",
+    "description": "The GitHub ToolKit for developing GitHub Actions.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 612962,
+      "JavaScript": 5840,
+      "PowerShell": 2276,
+      "Shell": 1052,
+      "Batchfile": 393,
+      "C#": 296
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 304.11,
+    "S_code": 608.22,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "protobuf.js",
+    "full_name": "satazor/protobuf.js",
+    "html_url": "https://github.com/satazor/protobuf.js",
+    "description": "Protocol Buffers for JavaScript (& TypeScript).",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1679328,
+      "TypeScript": 2944
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 821.42,
+    "S_code": 1642.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "eslint-plugin-react",
+    "full_name": "satazor/eslint-plugin-react",
+    "html_url": "https://github.com/satazor/eslint-plugin-react",
+    "description": "React specific linting rules for ESLint",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2402303
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1173.0,
+    "S_code": 2346.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "protobuf",
+    "full_name": "satazor/protobuf",
+    "html_url": "https://github.com/satazor/protobuf",
+    "description": "C# code generator for reading and writing the protocol buffers format",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 1404516
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 685.8,
+    "S_code": 1371.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "codrops-kinetic-typo",
+    "full_name": "satazor/codrops-kinetic-typo",
+    "html_url": "https://github.com/satazor/codrops-kinetic-typo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 15417,
+      "CSS": 3193,
+      "HTML": 1401
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.77,
+    "S_code": 19.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "terraform-aws-eks",
+    "full_name": "satazor/terraform-aws-eks",
+    "html_url": "https://github.com/satazor/terraform-aws-eks",
+    "description": "Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HCL": 99089,
+      "Shell": 17801,
+      "Smarty": 1258,
+      "Makefile": 326
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 57.85,
+    "S_code": 115.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "blog",
+    "full_name": "satazor/blog",
+    "html_url": "https://github.com/satazor/blog",
+    "description": "Source for the IPFS Blog",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "CSS": 62644,
+      "Less": 43014,
+      "HTML": 23189,
+      "Makefile": 2018,
+      "JavaScript": 279
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 108.04,
+    "S_code": 128.07,
+    "S_social": 2,
+    "S_maint": 4
+  },
+  {
+    "name": "docsify",
+    "full_name": "satazor/docsify",
+    "html_url": "https://github.com/satazor/docsify",
+    "description": "🃏 A magical documentation site generator.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 208917,
+      "CSS": 26138,
+      "HTML": 7475,
+      "Shell": 1069
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 118.94,
+    "S_code": 237.89,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nats.js",
+    "full_name": "satazor/nats.js",
+    "html_url": "https://github.com/satazor/nats.js",
+    "description": "Node.js client for NATS, the cloud native messaging system.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 236744,
+      "TypeScript": 4513
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 117.8,
+    "S_code": 235.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "module-exists",
+    "full_name": "satazor/module-exists",
+    "html_url": "https://github.com/satazor/module-exists",
+    "description": ":honeybee: [STABLE] Simply checks if a node module or file exists or not",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 921
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.45,
+    "S_code": 0.9,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "docs",
+    "full_name": "satazor/docs",
+    "html_url": "https://github.com/satazor/docs",
+    "description": "User documentation for Dapr",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fluent-schema",
+    "full_name": "satazor/fluent-schema",
+    "html_url": "https://github.com/satazor/fluent-schema",
+    "description": "A fluent API to generate JSON schemas",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 157997,
+      "TypeScript": 2092
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 78.17,
+    "S_code": 156.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "restful-next-api",
+    "full_name": "satazor/restful-next-api",
+    "html_url": "https://github.com/satazor/restful-next-api",
+    "description": "Build restful API methods for Next.js > 9 and validate the incoming requests with yup",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6266
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.06,
+    "S_code": 6.12,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rfcs",
+    "full_name": "satazor/rfcs",
+    "html_url": "https://github.com/satazor/rfcs",
+    "description": "RFCs for substantial changes / feature additions to Vue core",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "babel-eslint",
+    "full_name": "satazor/babel-eslint",
+    "html_url": "https://github.com/satazor/babel-eslint",
+    "description": ":tokyo_tower: A wrapper for Babel's parser used for ESLint",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 87460,
+      "Makefile": 121
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 42.76,
+    "S_code": 85.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ky",
+    "full_name": "satazor/ky",
+    "html_url": "https://github.com/satazor/ky",
+    "description": "🌳 Tiny & elegant HTTP client based on window.fetch",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 48347,
+      "TypeScript": 3010
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 25.08,
+    "S_code": 50.15,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "next-compile-node-modules",
+    "full_name": "satazor/next-compile-node-modules",
+    "html_url": "https://github.com/satazor/next-compile-node-modules",
+    "description": "Next.js plugin to compile all node_modules using Babel",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5144
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 52.51,
+    "S_code": 5.02,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "connect-deps",
+    "full_name": "satazor/connect-deps",
+    "html_url": "https://github.com/satazor/connect-deps",
+    "description": "This is a CLI tool that intends to be a better yarn link",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8941
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.37,
+    "S_code": 8.73,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "js-ipfs",
+    "full_name": "satazor/js-ipfs",
+    "html_url": "https://github.com/satazor/js-ipfs",
+    "description": "IPFS implementation in JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 775512,
+      "Shell": 22214,
+      "Makefile": 1715,
+      "Dockerfile": 724,
+      "HTML": 276
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 390.84,
+    "S_code": 781.68,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "js-ipfs-bitswap",
+    "full_name": "satazor/js-ipfs-bitswap",
+    "html_url": "https://github.com/satazor/js-ipfs-bitswap",
+    "description": "JavaScript implementation of Bitswap 'data exchange' protocol used by IPFS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 133625
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 65.25,
+    "S_code": 130.49,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "did-resolver",
+    "full_name": "satazor/did-resolver",
+    "html_url": "https://github.com/satazor/did-resolver",
+    "description": "Generic did-resolver",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 6095
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.98,
+    "S_code": 5.95,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "webpack-isomorphic-compiler-notifier",
+    "full_name": "satazor/webpack-isomorphic-compiler-notifier",
+    "html_url": "https://github.com/satazor/webpack-isomorphic-compiler-notifier",
+    "description": "Notify webpack compilation status to your operating system when using webpack-isomorphic-compiler",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4589
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 172.24,
+    "S_code": 4.48,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "yargs-promise-handler",
+    "full_name": "satazor/yargs-promise-handler",
+    "html_url": "https://github.com/satazor/yargs-promise-handler",
+    "description": "Adds support for promises to yargs handlers and allows them to be composable",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4300
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 192.1,
+    "S_code": 4.2,
+    "S_social": 0,
+    "S_maint": 19
+  },
+  {
+    "name": "js-libp2p-crypto",
+    "full_name": "satazor/js-libp2p-crypto",
+    "html_url": "https://github.com/satazor/js-libp2p-crypto",
+    "description": "The libp2p crypto primitives, for Node.js and the Browser!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 76083
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 37.15,
+    "S_code": 74.3,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rwot8-barcelona",
+    "full_name": "satazor/rwot8-barcelona",
+    "html_url": "https://github.com/satazor/rwot8-barcelona",
+    "description": "RWOT8 in Barcelona, Spain (March 2019)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ipfs-log",
+    "full_name": "satazor/ipfs-log",
+    "html_url": "https://github.com/satazor/ipfs-log",
+    "description": "Append-only log CRDT on IPFS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 254648,
+      "HTML": 7940,
+      "Makefile": 431
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 128.43,
+    "S_code": 256.85,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "js-multihashing-async",
+    "full_name": "satazor/js-multihashing-async",
+    "html_url": "https://github.com/satazor/js-multihashing-async",
+    "description": "The fast version of js-multihashing",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 10715,
+      "Groovy": 190
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.32,
+    "S_code": 10.65,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "js-ipfsd-ctl",
+    "full_name": "satazor/js-ipfsd-ctl",
+    "html_url": "https://github.com/satazor/js-ipfsd-ctl",
+    "description": "Control an IPFS daemon (go-ipfs or js-ipfs) using JavaScript!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 115252,
+      "Groovy": 190,
+      "Shell": 96
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 56.42,
+    "S_code": 112.83,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ipld-explorer-components",
+    "full_name": "satazor/ipld-explorer-components",
+    "html_url": "https://github.com/satazor/ipld-explorer-components",
+    "description": "React components for https://explore.ipld.io",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 59941,
+      "CSS": 11435,
+      "Makefile": 290,
+      "Groovy": 124
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.05,
+    "S_code": 70.11,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cid",
+    "full_name": "satazor/cid",
+    "html_url": "https://github.com/satazor/cid",
+    "description": "Self-describing content-addressed identifiers for distributed systems",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "external-svg-sprite-loader",
+    "full_name": "satazor/external-svg-sprite-loader",
+    "html_url": "https://github.com/satazor/external-svg-sprite-loader",
+    "description": "A webpack loader and plugin that generate SVG sprites out of a collection of SVG files used in your JS and CSS files",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 24539
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 31.98,
+    "S_code": 23.96,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "react-prop-types-element-of-type",
+    "full_name": "satazor/react-prop-types-element-of-type",
+    "html_url": "https://github.com/satazor/react-prop-types-element-of-type",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 15565
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.6,
+    "S_code": 15.2,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "browser-extension",
+    "full_name": "satazor/browser-extension",
+    "html_url": "https://github.com/satazor/browser-extension",
+    "description": "The Hypothesis browser extensions.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 553085,
+      "JavaScript": 143665,
+      "CSS": 46022,
+      "HTML": 27923,
+      "Shell": 4459,
+      "Makefile": 2671
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 379.8,
+    "S_code": 759.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "webpack.js.org",
+    "full_name": "satazor/webpack.js.org",
+    "html_url": "https://github.com/satazor/webpack.js.org",
+    "description": "New repository for webpack documentation and more!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 96098,
+      "CSS": 31908,
+      "Shell": 2905,
+      "HTML": 1605
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 64.71,
+    "S_code": 129.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "contributors",
+    "full_name": "satazor/contributors",
+    "html_url": "https://github.com/satazor/contributors",
+    "description": "Create a page that can be embedded on a website that lists project contributors.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 45037,
+      "Makefile": 3435,
+      "HTML": 2396,
+      "CSS": 1354
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 25.5,
+    "S_code": 51.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "awesome-ipfs",
+    "full_name": "satazor/awesome-ipfs",
+    "html_url": "https://github.com/satazor/awesome-ipfs",
+    "description": "Useful resources for using IPFS and building things on top of it",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8783,
+      "HTML": 6003,
+      "CSS": 661,
+      "Makefile": 79,
+      "Groovy": 64
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.61,
+    "S_code": 15.22,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "js-ipfs-http-response",
+    "full_name": "satazor/js-ipfs-http-response",
+    "html_url": "https://github.com/satazor/js-ipfs-http-response",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 19075,
+      "Groovy": 190
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.41,
+    "S_code": 18.81,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "js.ipfs.io",
+    "full_name": "satazor/js.ipfs.io",
+    "html_url": "https://github.com/satazor/js.ipfs.io",
+    "description": "(WIP) js-ipfs Website with demos, docs and tutorials",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "preprocess-loader",
+    "full_name": "satazor/preprocess-loader",
+    "html_url": "https://github.com/satazor/preprocess-loader",
+    "description": "preprocess loader module for webpack",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CoffeeScript": 3297,
+      "PHP": 384,
+      "JavaScript": 325,
+      "HTML": 320
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.11,
+    "S_code": 4.22,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "react-escape-outside",
+    "full_name": "satazor/react-escape-outside",
+    "html_url": "https://github.com/satazor/react-escape-outside",
+    "description": "Close React component by pressing Escape or clicking outside",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1197
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.58,
+    "S_code": 1.17,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-app-rewired",
+    "full_name": "satazor/react-app-rewired",
+    "html_url": "https://github.com/satazor/react-app-rewired",
+    "description": "Override create-react-app webpack configs without ejecting",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 791
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.39,
+    "S_code": 0.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "postcss-css-variables",
+    "full_name": "satazor/postcss-css-variables",
+    "html_url": "https://github.com/satazor/postcss-css-variables",
+    "description": "PostCSS plugin to transform CSS Custom Properties(CSS variables) syntax into a static representation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1601910,
+      "CSS": 8918,
+      "HTML": 1269
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 787.16,
+    "S_code": 1574.31,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "developer-meetings",
+    "full_name": "satazor/developer-meetings",
+    "html_url": "https://github.com/satazor/developer-meetings",
+    "description": "2018 IPFS Developers Meeting in Berlin",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-app-rewire-contrib",
+    "full_name": "satazor/react-app-rewire-contrib",
+    "html_url": "https://github.com/satazor/react-app-rewire-contrib",
+    "description": "A collection of rewires for react-app-rewired",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "redux-polyglot",
+    "full_name": "satazor/redux-polyglot",
+    "html_url": "https://github.com/satazor/redux-polyglot",
+    "description": "Tool for using Polyglot.js with Redux",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 19913
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.72,
+    "S_code": 19.45,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "stylelint-suitcss",
+    "full_name": "satazor/stylelint-suitcss",
+    "html_url": "https://github.com/satazor/stylelint-suitcss",
+    "description": "A collection of stylelint plugins for SUIT CSS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 12247
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.98,
+    "S_code": 11.96,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "stylelint-config-suitcss",
+    "full_name": "satazor/stylelint-config-suitcss",
+    "html_url": "https://github.com/satazor/stylelint-config-suitcss",
+    "description": "SUIT CSS config for stylelint",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5567
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.72,
+    "S_code": 5.44,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "webpack-pwa-manifest",
+    "full_name": "satazor/webpack-pwa-manifest",
+    "html_url": "https://github.com/satazor/webpack-pwa-manifest",
+    "description": "Progressive Web App Manifest Generator for Webpack, with auto icon resizing and fingerprinting support.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 12416
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.06,
+    "S_code": 12.12,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jest-process-env-spawn-bug",
+    "full_name": "satazor/jest-process-env-spawn-bug",
+    "html_url": "https://github.com/satazor/jest-process-env-spawn-bug",
+    "description": "A repository to demonstrate that jest is messing with the process.env when spawning commands",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1079,
+      "Shell": 24
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.54,
+    "S_code": 1.08,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "execa",
+    "full_name": "satazor/execa",
+    "html_url": "https://github.com/satazor/execa",
+    "description": "A better `child_process`",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 28142,
+      "Batchfile": 17
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.75,
+    "S_code": 27.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "path-key",
+    "full_name": "satazor/path-key",
+    "html_url": "https://github.com/satazor/path-key",
+    "description": "Get the PATH environment variable key cross-platform",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1152
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.56,
+    "S_code": 1.12,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "cmd-shim",
+    "full_name": "satazor/cmd-shim",
+    "html_url": "https://github.com/satazor/cmd-shim",
+    "description": "The cmd-shim used in npm",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 11764
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.74,
+    "S_code": 11.49,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "commitlint",
+    "full_name": "satazor/commitlint",
+    "html_url": "https://github.com/satazor/commitlint",
+    "description": "📓 Lint commit messages",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 173754
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 84.84,
+    "S_code": 169.68,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "standard-version",
+    "full_name": "satazor/standard-version",
+    "html_url": "https://github.com/satazor/standard-version",
+    "description": ":trophy: Replacement for `npm version` with automatic CHANGELOG generation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 41414
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.22,
+    "S_code": 40.44,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "stylelint",
+    "full_name": "satazor/stylelint",
+    "html_url": "https://github.com/satazor/stylelint",
+    "description": "A mighty, modern CSS linter",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2003117,
+      "CSS": 152132,
+      "HTML": 357,
+      "Shell": 208
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1052.64,
+    "S_code": 2105.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "storybook",
+    "full_name": "satazor/storybook",
+    "html_url": "https://github.com/satazor/storybook",
+    "description": "📓 Interactive development & testing environment for React, React-Native, Vue UI components",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 517364,
+      "Vue": 5054,
+      "TypeScript": 2929,
+      "Shell": 1673,
+      "HTML": 503,
+      "CSS": 22
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 257.59,
+    "S_code": 515.18,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "create-react-app",
+    "full_name": "satazor/create-react-app",
+    "html_url": "https://github.com/satazor/create-react-app",
+    "description": "Create React apps with no build configuration.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 92066,
+      "Shell": 34185,
+      "AppleScript": 2337,
+      "HTML": 1887,
+      "CSS": 638
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 64.02,
+    "S_code": 128.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mock-res",
+    "full_name": "satazor/mock-res",
+    "html_url": "https://github.com/satazor/mock-res",
+    "description": "Mocks node.js http.ServerResponse. See also `mock-req`.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6406
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 13.13,
+    "S_code": 6.26,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "lerna-test",
+    "full_name": "satazor/lerna-test",
+    "html_url": "https://github.com/satazor/lerna-test",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 283
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 120.14,
+    "S_code": 0.28,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "anser",
+    "full_name": "satazor/anser",
+    "html_url": "https://github.com/satazor/anser",
+    "description": ":tv: A low level parser for ANSI sequences.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 49624
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 24.23,
+    "S_code": 48.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-close-on-escape",
+    "full_name": "satazor/react-close-on-escape",
+    "html_url": "https://github.com/satazor/react-close-on-escape",
+    "description": "higher order component to close other react component on press of escape key (or fire whatever function you want but probably it should close)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 632
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.31,
+    "S_code": 0.62,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "extract-css-chunks-webpack-plugin",
+    "full_name": "satazor/extract-css-chunks-webpack-plugin",
+    "html_url": "https://github.com/satazor/extract-css-chunks-webpack-plugin",
+    "description": "Extract CSS from chunks into multiple stylesheets + HMR",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 37374,
+      "CSS": 1243,
+      "HTML": 350
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.03,
+    "S_code": 38.05,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "webpack",
+    "full_name": "satazor/webpack",
+    "html_url": "https://github.com/satazor/webpack",
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through \"loaders,\" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1315137,
+      "CSS": 3806,
+      "CoffeeScript": 1466,
+      "HTML": 1296,
+      "Shell": 62
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 645.39,
+    "S_code": 1290.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "chokidar",
+    "full_name": "satazor/chokidar",
+    "html_url": "https://github.com/satazor/chokidar",
+    "description": "A neat wrapper around node.js fs.watch / fs.watchFile / fsevents.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 130940
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 93.94,
+    "S_code": 127.87,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "webpack-dev-middleware",
+    "full_name": "satazor/webpack-dev-middleware",
+    "html_url": "https://github.com/satazor/webpack-dev-middleware",
+    "description": "Offers a dev middleware for webpack, which arguments a live bundle to a directory",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 32199
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.72,
+    "S_code": 31.44,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-autosuggest",
+    "full_name": "satazor/react-autosuggest",
+    "html_url": "https://github.com/satazor/react-autosuggest",
+    "description": "WAI-ARIA compliant React autosuggest component",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 101216,
+      "Shell": 272
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 49.55,
+    "S_code": 99.11,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "get-port",
+    "full_name": "satazor/get-port",
+    "html_url": "https://github.com/satazor/get-port",
+    "description": "Get an available port",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 445
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.22,
+    "S_code": 0.43,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "atom-shebang-set-grammar",
+    "full_name": "satazor/atom-shebang-set-grammar",
+    "html_url": "https://github.com/satazor/atom-shebang-set-grammar",
+    "description": "Atom package: detect grammar from file's first line when looks like shebang (#! /bin/...)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2347
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.15,
+    "S_code": 2.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "search-query-parser",
+    "full_name": "satazor/search-query-parser",
+    "html_url": "https://github.com/satazor/search-query-parser",
+    "description": "A simple parser for advanced search query syntax",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 142033,
+      "CSS": 4242,
+      "HTML": 475,
+      "Makefile": 97
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 71.7,
+    "S_code": 143.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ghtorrent.org",
+    "full_name": "satazor/ghtorrent.org",
+    "html_url": "https://github.com/satazor/ghtorrent.org",
+    "description": "The GHtorrent project website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 17793,
+      "Ruby": 14139,
+      "TeX": 7727,
+      "R": 5808,
+      "CSS": 5108,
+      "Shell": 4863
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 27.07,
+    "S_code": 54.14,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-gravatar",
+    "full_name": "satazor/react-gravatar",
+    "html_url": "https://github.com/satazor/react-gravatar",
+    "description": "React component for rendering a gravatar profile image",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 7887,
+      "Makefile": 323
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.01,
+    "S_code": 8.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cli-progress-bar",
+    "full_name": "satazor/cli-progress-bar",
+    "html_url": "https://github.com/satazor/cli-progress-bar",
+    "description": ":clock9: A simple CLI progress bar, inspired by Gauge",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3109
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.52,
+    "S_code": 3.04,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "fluidxml",
+    "full_name": "satazor/fluidxml",
+    "html_url": "https://github.com/satazor/fluidxml",
+    "description": "FluidXML, the PHP library for manipulating XML with a concise and fluent API.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PHP": 205313,
+      "Shell": 6176,
+      "Vim Script": 148
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 103.34,
+    "S_code": 206.68,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "got",
+    "full_name": "satazor/got",
+    "html_url": "https://github.com/satazor/got",
+    "description": "Simplified HTTP/HTTPS requests",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 31807
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 25.53,
+    "S_code": 31.06,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "alfred-npms",
+    "full_name": "satazor/alfred-npms",
+    "html_url": "https://github.com/satazor/alfred-npms",
+    "description": "Alfred 3 workflow to search for npm packages with npms.io",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 766
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.37,
+    "S_code": 0.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pino",
+    "full_name": "satazor/pino",
+    "html_url": "https://github.com/satazor/pino",
+    "description": "fast and simple node.js logger",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 40804
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.92,
+    "S_code": 39.85,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "badges",
+    "full_name": "satazor/badges",
+    "html_url": "https://github.com/satazor/badges",
+    "description": "Package which will receive many nice badges",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PHP": 520
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.25,
+    "S_code": 0.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-scroll-up",
+    "full_name": "satazor/react-scroll-up",
+    "html_url": "https://github.com/satazor/react-scroll-up",
+    "description": "React component to add custom buttons for scrolling to top of page",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8508
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.15,
+    "S_code": 8.31,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "node-which",
+    "full_name": "satazor/node-which",
+    "html_url": "https://github.com/satazor/node-which",
+    "description": "Like which(1) unix command. Find the first instance of an executable in the PATH.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 11563,
+      "Shell": 238
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.76,
+    "S_code": 11.52,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nano",
+    "full_name": "satazor/nano",
+    "html_url": "https://github.com/satazor/nano",
+    "description": "Nano is a minimalistic client for CouchDB",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 123491
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 60.3,
+    "S_code": 120.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nock",
+    "full_name": "satazor/nock",
+    "html_url": "https://github.com/satazor/nock",
+    "description": "HTTP mocking and expectations library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1177288,
+      "HTML": 69
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 574.88,
+    "S_code": 1149.76,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "node-config",
+    "full_name": "satazor/node-config",
+    "html_url": "https://github.com/satazor/node-config",
+    "description": "Node.js Application Configuration",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 103425,
+      "CoffeeScript": 389
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 50.69,
+    "S_code": 101.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "follow-lists",
+    "full_name": "satazor/follow-lists",
+    "html_url": "https://github.com/satazor/follow-lists",
+    "description": "Community curated Twitter Lists",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5068
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.47,
+    "S_code": 4.95,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

@@ -1,0 +1,601 @@
+[
+  {
+    "name": "php-docker",
+    "full_name": "jtreminio/php-docker",
+    "html_url": "https://github.com/jtreminio/php-docker",
+    "description": "Docker PHP CLI + FPM built from Ondřej Surý's PPA.",
+    "stars": 83,
+    "forks": 17,
+    "languages": {
+      "Shell": 24476,
+      "PHP": 277
+    },
+    "contributions_by_user": 108,
+    "contribution_score": 1326.09,
+    "S_code": 24.17,
+    "S_social": 117,
+    "S_maint": 108
+  },
+  {
+    "name": "dashtainer",
+    "full_name": "jtreminio/dashtainer",
+    "html_url": "https://github.com/jtreminio/dashtainer",
+    "description": null,
+    "stars": 47,
+    "forks": 3,
+    "languages": {
+      "PHP": 580093,
+      "HTML": 258888,
+      "CSS": 92036,
+      "JavaScript": 19581,
+      "Shell": 2014,
+      "Dockerfile": 626
+    },
+    "contributions_by_user": 439,
+    "contribution_score": 4961.45,
+    "S_code": 930.9,
+    "S_social": 53,
+    "S_maint": 439
+  },
+  {
+    "name": "Zimple",
+    "full_name": "jtreminio/Zimple",
+    "html_url": "https://github.com/jtreminio/Zimple",
+    "description": "Provides useful tools to Pimple Container",
+    "stars": 10,
+    "forks": 0,
+    "languages": {
+      "PHP": 11819
+    },
+    "contributions_by_user": 42,
+    "contribution_score": 445.77,
+    "S_code": 11.54,
+    "S_social": 10,
+    "S_maint": 42
+  },
+  {
+    "name": "volsync",
+    "full_name": "jtreminio/volsync",
+    "html_url": "https://github.com/jtreminio/volsync",
+    "description": null,
+    "stars": 8,
+    "forks": 0,
+    "languages": {
+      "Shell": 1449,
+      "Dockerfile": 190
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 56.8,
+    "S_code": 1.6,
+    "S_social": 8,
+    "S_maint": 4
+  },
+  {
+    "name": "jtreminio.github.io",
+    "full_name": "jtreminio/jtreminio.github.io",
+    "html_url": "https://github.com/jtreminio/jtreminio.github.io",
+    "description": null,
+    "stars": 7,
+    "forks": 4,
+    "languages": {
+      "CSS": 11294,
+      "HTML": 9600,
+      "JavaScript": 4381,
+      "Shell": 415,
+      "Ruby": 191
+    },
+    "contributions_by_user": 27,
+    "contribution_score": 312.64,
+    "S_code": 25.27,
+    "S_social": 15,
+    "S_maint": 27
+  },
+  {
+    "name": "Kohana-3-Tutorial",
+    "full_name": "jtreminio/Kohana-3-Tutorial",
+    "html_url": "https://github.com/jtreminio/Kohana-3-Tutorial",
+    "description": "This is my beginner's tutorial for Kohana 3",
+    "stars": 6,
+    "forks": 4,
+    "languages": {
+      "PHP": 1175023,
+      "JavaScript": 38426
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 910.5,
+    "S_code": 1185.01,
+    "S_social": 14,
+    "S_maint": 29
+  },
+  {
+    "name": "docker-bootstrap",
+    "full_name": "jtreminio/docker-bootstrap",
+    "html_url": "https://github.com/jtreminio/docker-bootstrap",
+    "description": null,
+    "stars": 4,
+    "forks": 4,
+    "languages": {
+      "Shell": 14621
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 51.14,
+    "S_code": 14.28,
+    "S_social": 12,
+    "S_maint": 2
+  },
+  {
+    "name": "swarmui_exif_to_civitai",
+    "full_name": "jtreminio/swarmui_exif_to_civitai",
+    "html_url": "https://github.com/jtreminio/swarmui_exif_to_civitai",
+    "description": null,
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Python": 10609
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 55.18,
+    "S_code": 10.36,
+    "S_social": 5,
+    "S_maint": 4
+  },
+  {
+    "name": "SwarmUI-PromptBuilderExtension",
+    "full_name": "jtreminio/SwarmUI-PromptBuilderExtension",
+    "html_url": "https://github.com/jtreminio/SwarmUI-PromptBuilderExtension",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 41817,
+      "CSS": 7602,
+      "HTML": 5563,
+      "C#": 4018,
+      "JavaScript": 2332
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 203.95,
+    "S_code": 59.89,
+    "S_social": 2,
+    "S_maint": 17
+  },
+  {
+    "name": "hugoBasicExample",
+    "full_name": "jtreminio/hugoBasicExample",
+    "html_url": "https://github.com/jtreminio/hugoBasicExample",
+    "description": null,
+    "stars": 2,
+    "forks": 2,
+    "languages": {
+      "HTML": 2108,
+      "Shell": 1980,
+      "Dockerfile": 781,
+      "JavaScript": 65
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 34.41,
+    "S_code": 4.82,
+    "S_social": 6,
+    "S_maint": 2
+  },
+  {
+    "name": "intellij-platform-solarized",
+    "full_name": "jtreminio/intellij-platform-solarized",
+    "html_url": "https://github.com/jtreminio/intellij-platform-solarized",
+    "description": "forked from 4lex4/intellij-platform-solarized",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 12.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "openapi-tutorial",
+    "full_name": "jtreminio/openapi-tutorial",
+    "html_url": "https://github.com/jtreminio/openapi-tutorial",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "PHP": 22415,
+      "Shell": 167
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 43.03,
+    "S_code": 22.05,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "apptainer",
+    "full_name": "jtreminio/apptainer",
+    "html_url": "https://github.com/jtreminio/apptainer",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 259951,
+      "CSS": 8826,
+      "JavaScript": 3290,
+      "HTML": 1607
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 295.63,
+    "S_code": 267.26,
+    "S_social": 1,
+    "S_maint": 16
+  },
+  {
+    "name": "Bash-Aliases",
+    "full_name": "jtreminio/Bash-Aliases",
+    "html_url": "https://github.com/jtreminio/Bash-Aliases",
+    "description": "My .bash_aliases file",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "Perl": 29240,
+      "Shell": 2765,
+      "Vim Script": 73
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 205.66,
+    "S_code": 31.33,
+    "S_social": 5,
+    "S_maint": 18
+  },
+  {
+    "name": "blog",
+    "full_name": "jtreminio/blog",
+    "html_url": "https://github.com/jtreminio/blog",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Dockerfile": 1131,
+      "Shell": 836,
+      "PHP": 67
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 36.99,
+    "S_code": 1.99,
+    "S_social": 3,
+    "S_maint": 3
+  },
+  {
+    "name": "SwarmUI-SeedVR2Upscaler",
+    "full_name": "jtreminio/SwarmUI-SeedVR2Upscaler",
+    "html_url": "https://github.com/jtreminio/SwarmUI-SeedVR2Upscaler",
+    "description": "Adds SeedVR2 AI upscaler integration with auto VRAM detection, quality presets, and 2-step upscaling",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 21522,
+      "JavaScript": 443
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.73,
+    "S_code": 21.45,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "SwarmUI",
+    "full_name": "jtreminio/SwarmUI",
+    "html_url": "https://github.com/jtreminio/SwarmUI",
+    "description": "SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 1749459,
+      "JavaScript": 978896,
+      "HTML": 147859,
+      "Python": 135836,
+      "CSS": 127587,
+      "Shell": 12370,
+      "Batchfile": 4390,
+      "Jupyter Notebook": 3021,
+      "PowerShell": 930
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 1693.14,
+    "S_code": 3086.28,
+    "S_social": 0,
+    "S_maint": 15
+  },
+  {
+    "name": "luts-comparison",
+    "full_name": "jtreminio/luts-comparison",
+    "html_url": "https://github.com/jtreminio/luts-comparison",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 715990,
+      "HTML": 107135,
+      "CSS": 3105
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 433.43,
+    "S_code": 806.87,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "joycaption-chrome",
+    "full_name": "jtreminio/joycaption-chrome",
+    "html_url": "https://github.com/jtreminio/joycaption-chrome",
+    "description": "JoyCaption Chrome extension",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 37596,
+      "HTML": 9134
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 62.82,
+    "S_code": 45.63,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "illustrious-artists",
+    "full_name": "jtreminio/illustrious-artists",
+    "html_url": "https://github.com/jtreminio/illustrious-artists",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 10002,
+      "CSS": 8806,
+      "Python": 8513,
+      "HTML": 2582
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 34.6,
+    "S_code": 29.2,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "Illustruous-Artists-2",
+    "full_name": "jtreminio/Illustruous-Artists-2",
+    "html_url": "https://github.com/jtreminio/Illustruous-Artists-2",
+    "description": "This repository contains a collection of images showcasing different artistic styles generated using the Illustruous model. Each image is named after the artist's style it represents.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 137314,
+      "Python": 18332
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 106.0,
+    "S_code": 152.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "civitai",
+    "full_name": "jtreminio/civitai",
+    "html_url": "https://github.com/jtreminio/civitai",
+    "description": "A repository of models, textual inversions, and more",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 11679699,
+      "PLpgSQL": 916848,
+      "SCSS": 179553,
+      "Shell": 59200,
+      "CSS": 44303,
+      "JavaScript": 30513,
+      "Dockerfile": 2779,
+      "Makefile": 1675,
+      "HTML": 1566
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6306.71,
+    "S_code": 12613.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "SwarmUI-MagicPromptExtension",
+    "full_name": "jtreminio/SwarmUI-MagicPromptExtension",
+    "html_url": "https://github.com/jtreminio/SwarmUI-MagicPromptExtension",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 148958,
+      "JavaScript": 136035,
+      "CSS": 38505,
+      "HTML": 35021
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 365.06,
+    "S_code": 350.12,
+    "S_social": 0,
+    "S_maint": 19
+  },
+  {
+    "name": "WAI-NSFW-illustrious-character-select",
+    "full_name": "jtreminio/WAI-NSFW-illustrious-character-select",
+    "html_url": "https://github.com/jtreminio/WAI-NSFW-illustrious-character-select",
+    "description": "WAI-NSFW-illustrious 角色選擇器",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 43386
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 21.18,
+    "S_code": 42.37,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "SwarmUI-WildcardImporter",
+    "full_name": "jtreminio/SwarmUI-WildcardImporter",
+    "html_url": "https://github.com/jtreminio/SwarmUI-WildcardImporter",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 390375,
+      "Python": 47653,
+      "JavaScript": 33146,
+      "HTML": 28085,
+      "CSS": 7295
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 247.34,
+    "S_code": 494.68,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "chroma-comparison.github.io",
+    "full_name": "jtreminio/chroma-comparison.github.io",
+    "html_url": "https://github.com/jtreminio/chroma-comparison.github.io",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 147064,
+      "HTML": 19210,
+      "CSS": 2969
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 112.64,
+    "S_code": 165.28,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "vscode-cursor-variable-inspect",
+    "full_name": "jtreminio/vscode-cursor-variable-inspect",
+    "html_url": "https://github.com/jtreminio/vscode-cursor-variable-inspect",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 26363,
+      "JavaScript": 3773,
+      "CSS": 3458,
+      "HTML": 1515
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 37.14,
+    "S_code": 34.29,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "openapi-generator",
+    "full_name": "jtreminio/openapi-generator",
+    "html_url": "https://github.com/jtreminio/openapi-generator",
+    "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 9544405,
+      "TypeScript": 217666,
+      "Kotlin": 133614,
+      "Shell": 109401,
+      "Handlebars": 51801,
+      "JavaScript": 34202,
+      "Ruby": 31001,
+      "Python": 28304,
+      "Apex": 26879,
+      "Haskell": 11667,
+      "CSS": 10495,
+      "Rust": 8759,
+      "Groovy": 6245,
+      "Dockerfile": 6131,
+      "HTML": 5382,
+      "PHP": 5270,
+      "Scala": 5132,
+      "Nix": 508,
+      "CMake": 436,
+      "Dart": 313,
+      "Emacs Lisp": 191,
+      "Elixir": 74
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4998.96,
+    "S_code": 9997.93,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "swagger-php",
+    "full_name": "jtreminio/swagger-php",
+    "html_url": "https://github.com/jtreminio/swagger-php",
+    "description": "A php swagger annotation and parsing library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PHP": 596979
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 291.49,
+    "S_code": 582.99,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "utterances",
+    "full_name": "jtreminio/utterances",
+    "html_url": "https://github.com/jtreminio/utterances",
+    "description": ":crystal_ball: A lightweight comments widget built on GitHub issues",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 44602,
+      "CSS": 7682,
+      "HTML": 6010,
+      "JavaScript": 761,
+      "Shell": 257,
+      "Dockerfile": 71
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 49.0,
+    "S_code": 57.99,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "utterances-oauth",
+    "full_name": "jtreminio/utterances-oauth",
+    "html_url": "https://github.com/jtreminio/utterances-oauth",
+    "description": ":lock: OAuth flow for utterances, utterance-bot APIs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 12593,
+      "Dockerfile": 374,
+      "Shell": 287
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 86.47,
+    "S_code": 12.94,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "phpunit",
+    "full_name": "jtreminio/phpunit",
+    "html_url": "https://github.com/jtreminio/phpunit",
+    "description": "The PHP Unit Testing framework.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

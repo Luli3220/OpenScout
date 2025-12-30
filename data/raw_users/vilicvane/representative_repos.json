@@ -1,0 +1,3070 @@
+[
+  {
+    "name": "typescript-guide",
+    "full_name": "vilicvane/typescript-guide",
+    "html_url": "https://github.com/vilicvane/typescript-guide",
+    "description": "TypeScript 中文指南",
+    "stars": 273,
+    "forks": 43,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 718.0,
+    "S_code": 0.0,
+    "S_social": 359,
+    "S_maint": 0
+  },
+  {
+    "name": "clime",
+    "full_name": "vilicvane/clime",
+    "html_url": "https://github.com/vilicvane/clime",
+    "description": "⌨ The command-line interface framework for TypeScript.",
+    "stars": 253,
+    "forks": 10,
+    "languages": {
+      "TypeScript": 119352,
+      "JavaScript": 7679
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 668.03,
+    "S_code": 124.05,
+    "S_social": 273,
+    "S_maint": 6
+  },
+  {
+    "name": "cordova-plugin-tts",
+    "full_name": "vilicvane/cordova-plugin-tts",
+    "html_url": "https://github.com/vilicvane/cordova-plugin-tts",
+    "description": "Cordova Text-to-Speech Plugin (Maintainer WANTED!)",
+    "stars": 178,
+    "forks": 138,
+    "languages": {
+      "Java": 6849,
+      "Objective-C": 4739,
+      "C#": 2519,
+      "JavaScript": 1005
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 915.38,
+    "S_code": 14.76,
+    "S_social": 454,
+    "S_maint": 0
+  },
+  {
+    "name": "cordova-plugin-wechat",
+    "full_name": "vilicvane/cordova-plugin-wechat",
+    "html_url": "https://github.com/vilicvane/cordova-plugin-wechat",
+    "description": "Cordova 微信分享插件",
+    "stars": 172,
+    "forks": 53,
+    "languages": {
+      "Objective-C": 33659,
+      "Java": 9953,
+      "C#": 9027,
+      "JavaScript": 4574
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 583.94,
+    "S_code": 55.87,
+    "S_social": 278,
+    "S_maint": 0
+  },
+  {
+    "name": "wordsbaking-plus-chrome",
+    "full_name": "vilicvane/wordsbaking-plus-chrome",
+    "html_url": "https://github.com/vilicvane/wordsbaking-plus-chrome",
+    "description": "词焙+ (WordsBaking+) 是词焙的重要组件, 方便用户把平时浏览网页时遇到的生词收集起来放进词焙生词本. 同时也是一个好用的划词翻译插件. http://wordsbaking.com",
+    "stars": 72,
+    "forks": 12,
+    "languages": {
+      "JavaScript": 61673,
+      "CSS": 20429,
+      "HTML": 9980
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 236.96,
+    "S_code": 89.92,
+    "S_social": 96,
+    "S_maint": 0
+  },
+  {
+    "name": "a-plus-dictionary",
+    "full_name": "vilicvane/a-plus-dictionary",
+    "html_url": "https://github.com/vilicvane/a-plus-dictionary",
+    "description": "A Chrome extension based on Google Dictionary, provides better UI and shows the meanings in both your language and English.",
+    "stars": 62,
+    "forks": 23,
+    "languages": {
+      "JavaScript": 53480,
+      "CSS": 15692
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 249.78,
+    "S_code": 67.55,
+    "S_social": 108,
+    "S_maint": 0
+  },
+  {
+    "name": "thenfail",
+    "full_name": "vilicvane/thenfail",
+    "html_url": "https://github.com/vilicvane/thenfail",
+    "description": "🏳 Just another Promises/A+ implementation written in TypeScript.",
+    "stars": 48,
+    "forks": 2,
+    "languages": {
+      "TypeScript": 124467,
+      "JavaScript": 752
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 165.14,
+    "S_code": 122.28,
+    "S_social": 52,
+    "S_maint": 0
+  },
+  {
+    "name": "vs-force-utf8",
+    "full_name": "vilicvane/vs-force-utf8",
+    "html_url": "https://github.com/vilicvane/vs-force-utf8",
+    "description": "Force UTF8 Extension for Visual Studio",
+    "stars": 45,
+    "forks": 29,
+    "languages": {
+      "C#": 6553
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 209.2,
+    "S_code": 6.4,
+    "S_social": 103,
+    "S_maint": 0
+  },
+  {
+    "name": "drop",
+    "full_name": "vilicvane/drop",
+    "html_url": "https://github.com/vilicvane/drop",
+    "description": "Just another MV* framework",
+    "stars": 35,
+    "forks": 2,
+    "languages": {
+      "TypeScript": 99926,
+      "HTML": 6003
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 129.72,
+    "S_code": 103.45,
+    "S_social": 39,
+    "S_maint": 0
+  },
+  {
+    "name": "deprecated-decorator",
+    "full_name": "vilicvane/deprecated-decorator",
+    "html_url": "https://github.com/vilicvane/deprecated-decorator",
+    "description": "A simple decorator for deprecated methods and properties.",
+    "stars": 33,
+    "forks": 6,
+    "languages": {
+      "TypeScript": 11734,
+      "JavaScript": 68
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 95.76,
+    "S_code": 11.53,
+    "S_social": 45,
+    "S_maint": 0
+  },
+  {
+    "name": "magicspace",
+    "full_name": "vilicvane/magicspace",
+    "html_url": "https://github.com/vilicvane/magicspace",
+    "description": "Toolkit for living boilerplate.",
+    "stars": 32,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 79394,
+      "JavaScript": 1441
+    },
+    "contributions_by_user": 102,
+    "contribution_score": 1127.47,
+    "S_code": 78.94,
+    "S_social": 34,
+    "S_maint": 102
+  },
+  {
+    "name": "vio",
+    "full_name": "vilicvane/vio",
+    "html_url": "https://github.com/vilicvane/vio",
+    "description": "📨 An express \"endware\" that takes your feelings into consideration.",
+    "stars": 28,
+    "forks": 5,
+    "languages": {
+      "TypeScript": 43203,
+      "JavaScript": 141,
+      "HTML": 92
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 97.21,
+    "S_code": 42.42,
+    "S_social": 38,
+    "S_maint": 0
+  },
+  {
+    "name": "ruff-home",
+    "full_name": "vilicvane/ruff-home",
+    "html_url": "https://github.com/vilicvane/ruff-home",
+    "description": "Home (Web Framework) for Ruff.",
+    "stars": 27,
+    "forks": 3,
+    "languages": {
+      "TypeScript": 14067,
+      "JavaScript": 141,
+      "HTML": 16
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 72.95,
+    "S_code": 13.89,
+    "S_social": 33,
+    "S_maint": 0
+  },
+  {
+    "name": "vscode-es-quotes",
+    "full_name": "vilicvane/vscode-es-quotes",
+    "html_url": "https://github.com/vilicvane/vscode-es-quotes",
+    "description": "ES Quotes Extension for Visual Studio Code.",
+    "stars": 26,
+    "forks": 11,
+    "languages": {
+      "TypeScript": 25710,
+      "JavaScript": 4237
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 110.62,
+    "S_code": 29.25,
+    "S_social": 48,
+    "S_maint": 0
+  },
+  {
+    "name": "entrance-decorator",
+    "full_name": "vilicvane/entrance-decorator",
+    "html_url": "https://github.com/vilicvane/entrance-decorator",
+    "description": "A minimal solution of dependency injection for projects that scale.",
+    "stars": 24,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 12124,
+      "JavaScript": 94
+    },
+    "contributions_by_user": 35,
+    "contribution_score": 403.97,
+    "S_code": 11.93,
+    "S_social": 24,
+    "S_maint": 35
+  },
+  {
+    "name": "plug2proxy",
+    "full_name": "vilicvane/plug2proxy",
+    "html_url": "https://github.com/vilicvane/plug2proxy",
+    "description": "Transparent Proxy over HTTP2 or QUIC.",
+    "stars": 22,
+    "forks": 3,
+    "languages": {
+      "Rust": 207583,
+      "Shell": 1695
+    },
+    "contributions_by_user": 129,
+    "contribution_score": 1448.19,
+    "S_code": 204.37,
+    "S_social": 28,
+    "S_maint": 129
+  },
+  {
+    "name": "nodemand",
+    "full_name": "vilicvane/nodemand",
+    "html_url": "https://github.com/vilicvane/nodemand",
+    "description": "Restart Node.js process on required modules change.",
+    "stars": 21,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 12337
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 306.02,
+    "S_code": 12.05,
+    "S_social": 25,
+    "S_maint": 25
+  },
+  {
+    "name": "villa",
+    "full_name": "vilicvane/villa",
+    "html_url": "https://github.com/vilicvane/villa",
+    "description": "🏡 Villa is a set of promise utilities for async-await-ready environment.",
+    "stars": 19,
+    "forks": 3,
+    "languages": {
+      "TypeScript": 55783,
+      "JavaScript": 213
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 77.34,
+    "S_code": 54.68,
+    "S_social": 25,
+    "S_maint": 0
+  },
+  {
+    "name": "memorize-decorator",
+    "full_name": "vilicvane/memorize-decorator",
+    "html_url": "https://github.com/vilicvane/memorize-decorator",
+    "description": null,
+    "stars": 18,
+    "forks": 2,
+    "languages": {
+      "TypeScript": 7318,
+      "JavaScript": 121
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 147.63,
+    "S_code": 7.26,
+    "S_social": 22,
+    "S_maint": 10
+  },
+  {
+    "name": "regex-tools",
+    "full_name": "vilicvane/regex-tools",
+    "html_url": "https://github.com/vilicvane/regex-tools",
+    "description": "A simple tool for managing long regular expressions.",
+    "stars": 18,
+    "forks": 2,
+    "languages": {
+      "TypeScript": 21546,
+      "JavaScript": 124
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 54.58,
+    "S_code": 21.16,
+    "S_social": 22,
+    "S_maint": 0
+  },
+  {
+    "name": "promise-pool",
+    "full_name": "vilicvane/promise-pool",
+    "html_url": "https://github.com/vilicvane/promise-pool",
+    "description": "A task pool based on Promise (Q).",
+    "stars": 14,
+    "forks": 2,
+    "languages": {
+      "TypeScript": 11489,
+      "JavaScript": 10069
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 46.53,
+    "S_code": 21.05,
+    "S_social": 18,
+    "S_maint": 0
+  },
+  {
+    "name": "x-value",
+    "full_name": "vilicvane/x-value",
+    "html_url": "https://github.com/vilicvane/x-value",
+    "description": "A medium-neutral runtime type validation library.",
+    "stars": 10,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 218886,
+      "JavaScript": 332
+    },
+    "contributions_by_user": 292,
+    "contribution_score": 3051.04,
+    "S_code": 214.08,
+    "S_social": 12,
+    "S_maint": 292
+  },
+  {
+    "name": "turning",
+    "full_name": "vilicvane/turning",
+    "html_url": "https://github.com/vilicvane/turning",
+    "description": "Automated state transition testing.",
+    "stars": 10,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 60009,
+      "JavaScript": 58
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 49.33,
+    "S_code": 58.66,
+    "S_social": 10,
+    "S_maint": 0
+  },
+  {
+    "name": "extendable-error",
+    "full_name": "vilicvane/extendable-error",
+    "html_url": "https://github.com/vilicvane/extendable-error",
+    "description": "A simple extendable error class that extends Error.",
+    "stars": 8,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 4389,
+      "JavaScript": 26
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 32.16,
+    "S_code": 4.31,
+    "S_social": 10,
+    "S_maint": 1
+  },
+  {
+    "name": "vscode-console",
+    "full_name": "vilicvane/vscode-console",
+    "html_url": "https://github.com/vilicvane/vscode-console",
+    "description": "Visual Studio Code Extension: Open Console in User-defined Console.",
+    "stars": 8,
+    "forks": 4,
+    "languages": {
+      "TypeScript": 2473
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 33.21,
+    "S_code": 2.42,
+    "S_social": 16,
+    "S_maint": 0
+  },
+  {
+    "name": "vejis",
+    "full_name": "vilicvane/vejis",
+    "html_url": "https://github.com/vilicvane/vejis",
+    "description": "A \"grammer level\" framework for JavaScript",
+    "stars": 8,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 64920
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 55.7,
+    "S_code": 63.4,
+    "S_social": 12,
+    "S_maint": 0
+  },
+  {
+    "name": "ruff-menu",
+    "full_name": "vilicvane/ruff-menu",
+    "html_url": "https://github.com/vilicvane/ruff-menu",
+    "description": "Awesome Menu for Ruff LCD (lcd1602).",
+    "stars": 8,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 7622
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.72,
+    "S_code": 7.44,
+    "S_social": 10,
+    "S_maint": 0
+  },
+  {
+    "name": "rateman",
+    "full_name": "vilicvane/rateman",
+    "html_url": "https://github.com/vilicvane/rateman",
+    "description": "Rateman is a redis-based rate limiter with multi-window support.",
+    "stars": 7,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 18639,
+      "JavaScript": 572
+    },
+    "contributions_by_user": 41,
+    "contribution_score": 433.38,
+    "S_code": 18.76,
+    "S_social": 7,
+    "S_maint": 41
+  },
+  {
+    "name": "vscode-sensitive-replace",
+    "full_name": "vilicvane/vscode-sensitive-replace",
+    "html_url": "https://github.com/vilicvane/vscode-sensitive-replace",
+    "description": "Replace selections while preserving cases.",
+    "stars": 7,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 3130
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.53,
+    "S_code": 3.06,
+    "S_social": 9,
+    "S_maint": 0
+  },
+  {
+    "name": "ruff-promise",
+    "full_name": "vilicvane/ruff-promise",
+    "html_url": "https://github.com/vilicvane/ruff-promise",
+    "description": "ES6 Promise for Ruff (https://ruff.io) based on ThenFail v0.4 (https://github.com/vilic/thenfail).",
+    "stars": 7,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 27692,
+      "JavaScript": 793
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 27.91,
+    "S_code": 27.82,
+    "S_social": 7,
+    "S_maint": 0
+  },
+  {
+    "name": "touch-delegate",
+    "full_name": "vilicvane/touch-delegate",
+    "html_url": "https://github.com/vilicvane/touch-delegate",
+    "description": "A gesture library based on extendable identifiers.",
+    "stars": 7,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 31299,
+      "TypeScript": 28745
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 51.32,
+    "S_code": 58.64,
+    "S_social": 11,
+    "S_maint": 0
+  },
+  {
+    "name": "megnat",
+    "full_name": "vilicvane/megnat",
+    "html_url": "https://github.com/vilicvane/megnat",
+    "description": "Megnat is a third-party / non-official wallet app for Tangem cards.",
+    "stars": 6,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 179996,
+      "Kotlin": 27903,
+      "JavaScript": 1662
+    },
+    "contributions_by_user": 148,
+    "contribution_score": 1598.32,
+    "S_code": 204.65,
+    "S_social": 8,
+    "S_maint": 148
+  },
+  {
+    "name": "inplate",
+    "full_name": "vilicvane/inplate",
+    "html_url": "https://github.com/vilicvane/inplate",
+    "description": "A command-line tool processing files with in-place template.",
+    "stars": 6,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 17673,
+      "JavaScript": 9064
+    },
+    "contributions_by_user": 40,
+    "contribution_score": 429.06,
+    "S_code": 26.11,
+    "S_social": 8,
+    "S_maint": 40
+  },
+  {
+    "name": "backpage",
+    "full_name": "vilicvane/backpage",
+    "html_url": "https://github.com/vilicvane/backpage",
+    "description": "Naive static HTML streaming based on React for Node.js CLI applications.",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 50622,
+      "HTML": 4897,
+      "JavaScript": 515
+    },
+    "contributions_by_user": 144,
+    "contribution_score": 1479.36,
+    "S_code": 54.72,
+    "S_social": 6,
+    "S_maint": 144
+  },
+  {
+    "name": "npm-fork",
+    "full_name": "vilicvane/npm-fork",
+    "html_url": "https://github.com/vilicvane/npm-fork",
+    "description": "Publish forks of npm packages with ease.",
+    "stars": 6,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 12245,
+      "JavaScript": 154
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 282.05,
+    "S_code": 12.11,
+    "S_social": 8,
+    "S_maint": 26
+  },
+  {
+    "name": "auto-loopback-exempt",
+    "full_name": "vilicvane/auto-loopback-exempt",
+    "html_url": "https://github.com/vilicvane/auto-loopback-exempt",
+    "description": "Automatically exempt loopback for all and newly added applications.",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 4728
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.31,
+    "S_code": 4.62,
+    "S_social": 7,
+    "S_maint": 0
+  },
+  {
+    "name": "henge",
+    "full_name": "vilicvane/henge",
+    "html_url": "https://github.com/vilicvane/henge",
+    "description": "🗃 Henge generates artifacts for upstream projects and makes them configurable dependencies for downstream projects.",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 43388,
+      "JavaScript": 265
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 31.31,
+    "S_code": 42.63,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "vio-demos",
+    "full_name": "vilicvane/vio-demos",
+    "html_url": "https://github.com/vilicvane/vio-demos",
+    "description": "Demos for VIO",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 6739,
+      "HTML": 1290
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.92,
+    "S_code": 7.84,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "prever-start",
+    "full_name": "vilicvane/prever-start",
+    "html_url": "https://github.com/vilicvane/prever-start",
+    "description": null,
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 268625,
+      "C#": 98877,
+      "ASP": 35978,
+      "CSS": 24937
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 223.19,
+    "S_code": 418.38,
+    "S_social": 7,
+    "S_maint": 0
+  },
+  {
+    "name": "vlight",
+    "full_name": "vilicvane/vlight",
+    "html_url": "https://github.com/vilicvane/vlight",
+    "description": "A lightweight syntax highlighter for JavaScript/HTML/CSS",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 13710
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.69,
+    "S_code": 13.39,
+    "S_social": 7,
+    "S_maint": 0
+  },
+  {
+    "name": "unmount-animation-clone",
+    "full_name": "vilicvane/unmount-animation-clone",
+    "html_url": "https://github.com/vilicvane/unmount-animation-clone",
+    "description": "A simple utility component that clones the DOM element for animation before it unmounts.",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3287
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 219.6,
+    "S_code": 3.21,
+    "S_social": 4,
+    "S_maint": 21
+  },
+  {
+    "name": "baseman",
+    "full_name": "vilicvane/baseman",
+    "html_url": "https://github.com/vilicvane/baseman",
+    "description": "Integration test framework for Node.js",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 21299,
+      "JavaScript": 246
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 28.52,
+    "S_code": 21.04,
+    "S_social": 4,
+    "S_maint": 1
+  },
+  {
+    "name": "ruff-fetch",
+    "full_name": "vilicvane/ruff-fetch",
+    "html_url": "https://github.com/vilicvane/ruff-fetch",
+    "description": "A simplified version of `window.fetch` written for Ruff.",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3264,
+      "JavaScript": 131
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.66,
+    "S_code": 3.32,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "biu-link",
+    "full_name": "vilicvane/biu-link",
+    "html_url": "https://github.com/vilicvane/biu-link",
+    "description": "A simple URL shorter.",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "HTML": 13185,
+      "TypeScript": 7103,
+      "JavaScript": 6793
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 25.22,
+    "S_code": 26.45,
+    "S_social": 6,
+    "S_maint": 0
+  },
+  {
+    "name": "monoid-javacard",
+    "full_name": "vilicvane/monoid-javacard",
+    "html_url": "https://github.com/vilicvane/monoid-javacard",
+    "description": "Not only an open-source hardware wallet.",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Java": 131891,
+      "JavaScript": 2842,
+      "PowerShell": 982
+    },
+    "contributions_by_user": 86,
+    "contribution_score": 936.27,
+    "S_code": 132.53,
+    "S_social": 5,
+    "S_maint": 86
+  },
+  {
+    "name": "typesafe-mongo",
+    "full_name": "vilicvane/typesafe-mongo",
+    "html_url": "https://github.com/vilicvane/typesafe-mongo",
+    "description": "TypeSafe utilities for official MongoDB Node.js driver",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 26624,
+      "JavaScript": 344
+    },
+    "contributions_by_user": 53,
+    "contribution_score": 549.17,
+    "S_code": 26.34,
+    "S_social": 3,
+    "S_maint": 53
+  },
+  {
+    "name": "black-object",
+    "full_name": "vilicvane/black-object",
+    "html_url": "https://github.com/vilicvane/black-object",
+    "description": "Blackbox mock with predefined interaction scripts.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 16491,
+      "JavaScript": 289
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 174.19,
+    "S_code": 16.39,
+    "S_social": 3,
+    "S_maint": 16
+  },
+  {
+    "name": "typescript-techniques",
+    "full_name": "vilicvane/typescript-techniques",
+    "html_url": "https://github.com/vilicvane/typescript-techniques",
+    "description": "Hopefully useful techniques for TypeScript in practice.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 6.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "docheat",
+    "full_name": "vilicvane/docheat",
+    "html_url": "https://github.com/vilicvane/docheat",
+    "description": "A \"cheating\" tool that generates brief API references for TypeScript libraries with links to source code.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 11157,
+      "JavaScript": 357
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.62,
+    "S_code": 11.24,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "clime-slack",
+    "full_name": "vilicvane/clime-slack",
+    "html_url": "https://github.com/vilicvane/clime-slack",
+    "description": "Shim and utilities for Slack slash commands building upon Clime.",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 10163,
+      "JavaScript": 42
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.98,
+    "S_code": 9.97,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "gcvs",
+    "full_name": "vilicvane/gcvs",
+    "html_url": "https://github.com/vilicvane/gcvs",
+    "description": "Git-CVS Workflow Utilities.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Shell": 7238
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.53,
+    "S_code": 7.07,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "js-operator-overloading",
+    "full_name": "vilicvane/js-operator-overloading",
+    "html_url": "https://github.com/vilicvane/js-operator-overloading",
+    "description": "Overload operators in JavaScript (for fun).",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 4129
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.02,
+    "S_code": 4.03,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "ClassScheduleProxy",
+    "full_name": "vilicvane/ClassScheduleProxy",
+    "html_url": "https://github.com/vilicvane/ClassScheduleProxy",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "C#": 21937,
+      "ASP": 81
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.75,
+    "S_code": 21.5,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "multikey-map",
+    "full_name": "vilicvane/multikey-map",
+    "html_url": "https://github.com/vilicvane/multikey-map",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 5140,
+      "JavaScript": 121
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 76.57,
+    "S_code": 5.14,
+    "S_social": 2,
+    "S_maint": 7
+  },
+  {
+    "name": "is-typeof-property",
+    "full_name": "vilicvane/is-typeof-property",
+    "html_url": "https://github.com/vilicvane/is-typeof-property",
+    "description": "Simple utilities for tuple type narrowing...",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1660
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 184.81,
+    "S_code": 1.62,
+    "S_social": 2,
+    "S_maint": 18
+  },
+  {
+    "name": "main-function",
+    "full_name": "vilicvane/main-function",
+    "html_url": "https://github.com/vilicvane/main-function",
+    "description": "A simple wrapper that handles error and return code.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 6235,
+      "JavaScript": 103
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 247.09,
+    "S_code": 6.19,
+    "S_social": 2,
+    "S_maint": 24
+  },
+  {
+    "name": "vts",
+    "full_name": "vilicvane/vts",
+    "html_url": "https://github.com/vilicvane/vts",
+    "description": "V-branded TypeScript coding standard",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 7873
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.84,
+    "S_code": 7.69,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "handlebars-layout",
+    "full_name": "vilicvane/handlebars-layout",
+    "html_url": "https://github.com/vilicvane/handlebars-layout",
+    "description": "Handlebars helpers which implement layout blocks similar to Jade, Jinja, Swig, and Twig.",
+    "stars": 2,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 6194
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.02,
+    "S_code": 6.05,
+    "S_social": 6,
+    "S_maint": 0
+  },
+  {
+    "name": "lucky-dns",
+    "full_name": "vilicvane/lucky-dns",
+    "html_url": "https://github.com/vilicvane/lucky-dns",
+    "description": "Lucky DNS, heavily inspired by SinoDNS and ChinaDNS.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 12560,
+      "JavaScript": 203
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.23,
+    "S_code": 12.46,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "tag-contacts",
+    "full_name": "vilicvane/tag-contacts",
+    "html_url": "https://github.com/vilicvane/tag-contacts",
+    "description": "Just another simple UI widget for entering emails as contacts (2013).",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 19649,
+      "CSS": 6923
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.97,
+    "S_code": 25.95,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "ClassSchedule",
+    "full_name": "vilicvane/ClassSchedule",
+    "html_url": "https://github.com/vilicvane/ClassSchedule",
+    "description": "Class Schedule for CQU",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C#": 50943
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 28.87,
+    "S_code": 49.75,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "unipipe",
+    "full_name": "vilicvane/unipipe",
+    "html_url": "https://github.com/vilicvane/unipipe",
+    "description": "A simple Rust pipe abstraction that extends to iterator and stream.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Rust": 59796,
+      "JavaScript": 244
+    },
+    "contributions_by_user": 54,
+    "contribution_score": 575.32,
+    "S_code": 58.63,
+    "S_social": 3,
+    "S_maint": 54
+  },
+  {
+    "name": "rust-lits",
+    "full_name": "vilicvane/rust-lits",
+    "html_url": "https://github.com/vilicvane/rust-lits",
+    "description": "A proc-macro collection that parses human-readable strings at compile time.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Rust": 5833
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 294.85,
+    "S_code": 5.7,
+    "S_social": 1,
+    "S_maint": 29
+  },
+  {
+    "name": "desktop-matters",
+    "full_name": "vilicvane/desktop-matters",
+    "html_url": "https://github.com/vilicvane/desktop-matters",
+    "description": "Add your desktop computer as Matter devices.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 5631,
+      "JavaScript": 2266
+    },
+    "contributions_by_user": 42,
+    "contribution_score": 425.86,
+    "S_code": 7.71,
+    "S_social": 1,
+    "S_maint": 42
+  },
+  {
+    "name": "cross-pm",
+    "full_name": "vilicvane/cross-pm",
+    "html_url": "https://github.com/vilicvane/cross-pm",
+    "description": "Spawn npm/yarn/pnpm accordingly based on different lock files found in the context.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2486,
+      "TypeScript": 1105
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 143.75,
+    "S_code": 3.51,
+    "S_social": 1,
+    "S_maint": 14
+  },
+  {
+    "name": "socket-jet",
+    "full_name": "vilicvane/socket-jet",
+    "html_url": "https://github.com/vilicvane/socket-jet",
+    "description": "Minimalist package for data packets over socket connections.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 25311,
+      "JavaScript": 910
+    },
+    "contributions_by_user": 40,
+    "contribution_score": 414.8,
+    "S_code": 25.61,
+    "S_social": 1,
+    "S_maint": 40
+  },
+  {
+    "name": "boring-cache",
+    "full_name": "vilicvane/boring-cache",
+    "html_url": "https://github.com/vilicvane/boring-cache",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 4282,
+      "JavaScript": 58
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.12,
+    "S_code": 4.24,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "super-heavy-launching",
+    "full_name": "vilicvane/super-heavy-launching",
+    "html_url": "https://github.com/vilicvane/super-heavy-launching",
+    "description": "Super Heavy Launching Animation",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 13732
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 78.71,
+    "S_code": 13.41,
+    "S_social": 1,
+    "S_maint": 7
+  },
+  {
+    "name": "tracked-history",
+    "full_name": "vilicvane/tracked-history",
+    "html_url": "https://github.com/vilicvane/tracked-history",
+    "description": "It tracks browser history so that we can restore history stack with snapshots.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 18059
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 60.82,
+    "S_code": 17.64,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "get-or-create",
+    "full_name": "vilicvane/get-or-create",
+    "html_url": "https://github.com/vilicvane/get-or-create",
+    "description": "A simple utility to get or create nested property and element in place.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 6815,
+      "JavaScript": 286
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.47,
+    "S_code": 6.93,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "vilic",
+    "full_name": "vilicvane/vilic",
+    "html_url": "https://github.com/vilicvane/vilic",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 22.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "qform",
+    "full_name": "vilicvane/qform",
+    "html_url": "https://github.com/vilicvane/qform",
+    "description": "一段黑历史",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 8464,
+      "CSS": 1271,
+      "ASP": 967,
+      "HTML": 842
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.64,
+    "S_code": 11.27,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "lucky-vpn",
+    "full_name": "vilicvane/lucky-vpn",
+    "html_url": "https://github.com/vilicvane/lucky-vpn",
+    "description": "Windows-friendly utilities that generate automation scripts for VPN connection.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 15477,
+      "JavaScript": 6277,
+      "Batchfile": 1266
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.24,
+    "S_code": 22.48,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "hola-code",
+    "full_name": "vilicvane/hola-code",
+    "html_url": "https://github.com/vilicvane/hola-code",
+    "description": "VS Code utilities for workflow at Hola.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2950
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.44,
+    "S_code": 2.88,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ruff-t",
+    "full_name": "vilicvane/ruff-t",
+    "html_url": "https://github.com/vilicvane/ruff-t",
+    "description": "T (Testing Framework) for Ruff.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 14048,
+      "JavaScript": 285
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.0,
+    "S_code": 14.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ruff-standard",
+    "full_name": "vilicvane/ruff-standard",
+    "html_url": "https://github.com/vilicvane/ruff-standard",
+    "description": "Ruff Coding Standard",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "semver-match",
+    "full_name": "vilicvane/semver-match",
+    "html_url": "https://github.com/vilicvane/semver-match",
+    "description": "A simple function that conforms npm package version matching behavior.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2346,
+      "JavaScript": 26
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.16,
+    "S_code": 2.32,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "vilic.github.io",
+    "full_name": "vilicvane/vilic.github.io",
+    "html_url": "https://github.com/vilicvane/vilic.github.io",
+    "description": "Project index of mine",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 2222,
+      "CSS": 1621
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.88,
+    "S_code": 3.75,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "thenfail-core",
+    "full_name": "vilicvane/thenfail-core",
+    "html_url": "https://github.com/vilicvane/thenfail-core",
+    "description": "Core of ThenFail (https://github.com/vilic/thenfail).",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 10621,
+      "JavaScript": 10196
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.16,
+    "S_code": 20.33,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "cordova-plugin-fix-wp-bouncing",
+    "full_name": "vilicvane/cordova-plugin-fix-wp-bouncing",
+    "html_url": "https://github.com/vilicvane/cordova-plugin-fix-wp-bouncing",
+    "description": "An acceptable solution for Windows Phone bouncing issue",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C#": 16019,
+      "JavaScript": 1091
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.35,
+    "S_code": 16.71,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "q-retry",
+    "full_name": "vilicvane/q-retry",
+    "html_url": "https://github.com/vilicvane/q-retry",
+    "description": "A shell for Q to enable retries.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2614
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.28,
+    "S_code": 2.55,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "air-proxy-enabled-http-request-for-js",
+    "full_name": "vilicvane/air-proxy-enabled-http-request-for-js",
+    "html_url": "https://github.com/vilicvane/air-proxy-enabled-http-request-for-js",
+    "description": "A HTTP request implementation based on air.Socket, support HTTP only.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 23219
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.34,
+    "S_code": 22.67,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ViT",
+    "full_name": "vilicvane/ViT",
+    "html_url": "https://github.com/vilicvane/ViT",
+    "description": "A mobile twitter client",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "Analyzer",
+    "full_name": "vilicvane/Analyzer",
+    "html_url": "https://github.com/vilicvane/Analyzer",
+    "description": "AIESEC Form Analyzer",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 51420
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 27.11,
+    "S_code": 50.21,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "v-query",
+    "full_name": "vilicvane/v-query",
+    "html_url": "https://github.com/vilicvane/v-query",
+    "description": "A simple selector.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5246
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.56,
+    "S_code": 5.12,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "h2",
+    "full_name": "vilicvane/h2",
+    "html_url": "https://github.com/vilicvane/h2",
+    "description": "HTTP 2.0 client & server implementation for Rust.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 1164979,
+      "Python": 7530,
+      "Shell": 1368
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 573.18,
+    "S_code": 1146.36,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rust-tasking",
+    "full_name": "vilicvane/rust-tasking",
+    "html_url": "https://github.com/vilicvane/rust-tasking",
+    "description": "Simple tasking utility that automatically replaces tasks based on descriptors.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 20413
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 269.97,
+    "S_code": 19.93,
+    "S_social": 0,
+    "S_maint": 26
+  },
+  {
+    "name": "rxRust",
+    "full_name": "vilicvane/rxRust",
+    "html_url": "https://github.com/vilicvane/rxRust",
+    "description": "Rust implementation of Reactive Extensions. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 340654
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 166.33,
+    "S_code": 332.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "routra",
+    "full_name": "vilicvane/routra",
+    "html_url": "https://github.com/vilicvane/routra",
+    "description": "Just another state router with transition support.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 102288,
+      "JavaScript": 233
+    },
+    "contributions_by_user": 163,
+    "contribution_score": 1680.06,
+    "S_code": 100.12,
+    "S_social": 0,
+    "S_maint": 163
+  },
+  {
+    "name": "profanity-scripts",
+    "full_name": "vilicvane/profanity-scripts",
+    "html_url": "https://github.com/vilicvane/profanity-scripts",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 665
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.32,
+    "S_code": 0.65,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "RDPHotkeyHelper",
+    "full_name": "vilicvane/RDPHotkeyHelper",
+    "html_url": "https://github.com/vilicvane/RDPHotkeyHelper",
+    "description": "Listens for media keys when working within a remote desktop session",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "AutoHotkey": 2183
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.07,
+    "S_code": 2.13,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "active-mouse",
+    "full_name": "vilicvane/active-mouse",
+    "html_url": "https://github.com/vilicvane/active-mouse",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 7032,
+      "JavaScript": 668
+    },
+    "contributions_by_user": 27,
+    "contribution_score": 273.76,
+    "S_code": 7.52,
+    "S_social": 0,
+    "S_maint": 27
+  },
+  {
+    "name": "plain-dom",
+    "full_name": "vilicvane/plain-dom",
+    "html_url": "https://github.com/vilicvane/plain-dom",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 4306,
+      "JavaScript": 143
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 102.17,
+    "S_code": 4.34,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "rxjs-branch",
+    "full_name": "vilicvane/rxjs-branch",
+    "html_url": "https://github.com/vilicvane/rxjs-branch",
+    "description": "Branch operator for RxJS.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3807,
+      "JavaScript": 146
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 191.93,
+    "S_code": 3.86,
+    "S_social": 0,
+    "S_maint": 19
+  },
+  {
+    "name": "segmented",
+    "full_name": "vilicvane/segmented",
+    "html_url": "https://github.com/vilicvane/segmented",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3863,
+      "JavaScript": 121
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 111.95,
+    "S_code": 3.89,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "startup-run",
+    "full_name": "vilicvane/startup-run",
+    "html_url": "https://github.com/vilicvane/startup-run",
+    "description": "Run scripts at startup with ease.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 9607,
+      "JavaScript": 3612
+    },
+    "contributions_by_user": 48,
+    "contribution_score": 486.45,
+    "S_code": 12.91,
+    "S_social": 0,
+    "S_maint": 48
+  },
+  {
+    "name": "rxjs-snippets",
+    "full_name": "vilicvane/rxjs-snippets",
+    "html_url": "https://github.com/vilicvane/rxjs-snippets",
+    "description": "A collection of RxJS snippets that took me some time to write and might be useful in the future.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 899
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 50.44,
+    "S_code": 0.88,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "http2-auto-window-size",
+    "full_name": "vilicvane/http2-auto-window-size",
+    "html_url": "https://github.com/vilicvane/http2-auto-window-size",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 4900
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 102.39,
+    "S_code": 4.79,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "forge",
+    "full_name": "vilicvane/forge",
+    "html_url": "https://github.com/vilicvane/forge",
+    "description": "A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1643081,
+      "HTML": 73308,
+      "ActionScript": 25864,
+      "C": 13441,
+      "Python": 3547,
+      "CSS": 1244
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 899.61,
+    "S_code": 1719.22,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "react-context-decorators",
+    "full_name": "vilicvane/react-context-decorators",
+    "html_url": "https://github.com/vilicvane/react-context-decorators",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 4258,
+      "JavaScript": 121
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 162.14,
+    "S_code": 4.28,
+    "S_social": 0,
+    "S_maint": 16
+  },
+  {
+    "name": "typescript-eslint",
+    "full_name": "vilicvane/typescript-eslint",
+    "html_url": "https://github.com/vilicvane/typescript-eslint",
+    "description": ":sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 5529428,
+      "JavaScript": 165529,
+      "CSS": 31412,
+      "Vue": 2588,
+      "Shell": 99
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2797.39,
+    "S_code": 5594.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "matter.js",
+    "full_name": "vilicvane/matter.js",
+    "html_url": "https://github.com/vilicvane/matter.js",
+    "description": "A complete typescript implementation of the Matter protocol specification (https://buildwithmatter.com). Includes full support for controller, device, commissioning, secure communications, device types, and cluster definitions.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2654740,
+      "JavaScript": 63171,
+      "HTML": 340,
+      "Shell": 132
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 1337.34,
+    "S_code": 2654.67,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "replace-object",
+    "full_name": "vilicvane/replace-object",
+    "html_url": "https://github.com/vilicvane/replace-object",
+    "description": "A simple utility for in-place object replacing.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 5400,
+      "JavaScript": 121
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 92.7,
+    "S_code": 5.39,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "remote-object",
+    "full_name": "vilicvane/remote-object",
+    "html_url": "https://github.com/vilicvane/remote-object",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 7106,
+      "JavaScript": 238
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 103.59,
+    "S_code": 7.17,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "mixed-map",
+    "full_name": "vilicvane/mixed-map",
+    "html_url": "https://github.com/vilicvane/mixed-map",
+    "description": "A simple map implementation that prefers `WeakMap` but uses `Map` as backup for primitive keys.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 833
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.41,
+    "S_code": 0.81,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "read-tls-client-hello",
+    "full_name": "vilicvane/read-tls-client-hello",
+    "html_url": "https://github.com/vilicvane/read-tls-client-hello",
+    "description": "A pure-JS module to read TLS client hello data and calculate TLS fingerprints from an incoming socket connection.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 27855,
+      "JavaScript": 797
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.99,
+    "S_code": 27.98,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vite-plugin-top-level-await",
+    "full_name": "vilicvane/vite-plugin-top-level-await",
+    "html_url": "https://github.com/vilicvane/vite-plugin-top-level-await",
+    "description": "Transform code to support top-level await in normal browsers for Vite.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 48787,
+      "JavaScript": 371
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 24.0,
+    "S_code": 48.01,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "twoslash",
+    "full_name": "vilicvane/twoslash",
+    "html_url": "https://github.com/vilicvane/twoslash",
+    "description": "You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 259728,
+      "HTML": 94008,
+      "JavaScript": 29208,
+      "SCSS": 15716,
+      "CSS": 13620
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 211.31,
+    "S_code": 402.62,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "capacitor",
+    "full_name": "vilicvane/capacitor",
+    "html_url": "https://github.com/vilicvane/capacitor",
+    "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 385470,
+      "Java": 363192,
+      "Swift": 207197,
+      "Objective-C": 100609,
+      "JavaScript": 90378,
+      "Ruby": 3561,
+      "C": 3497,
+      "Shell": 2161
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 564.48,
+    "S_code": 1128.97,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "chokidar",
+    "full_name": "vilicvane/chokidar",
+    "html_url": "https://github.com/vilicvane/chokidar",
+    "description": "Minimal and efficient cross-platform file watching library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 163112,
+      "TypeScript": 2153
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 80.7,
+    "S_code": 161.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vite-plugin-static-copy",
+    "full_name": "vilicvane/vite-plugin-static-copy",
+    "html_url": "https://github.com/vilicvane/vite-plugin-static-copy",
+    "description": "rollup-plugin-copy with dev server support.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 26794,
+      "JavaScript": 536
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.34,
+    "S_code": 26.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "capacitor-docs",
+    "full_name": "vilicvane/capacitor-docs",
+    "html_url": "https://github.com/vilicvane/capacitor-docs",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 58191,
+      "SCSS": 54482,
+      "JavaScript": 22050,
+      "CSS": 14674
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 72.95,
+    "S_code": 145.9,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "node-mongodb-native",
+    "full_name": "vilicvane/node-mongodb-native",
+    "html_url": "https://github.com/vilicvane/node-mongodb-native",
+    "description": "The Official MongoDB Node.js Driver",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1939410,
+      "JavaScript": 1702104,
+      "Shell": 29513,
+      "Python": 15715,
+      "Makefile": 1590
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1800.94,
+    "S_code": 3601.89,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "node-apn",
+    "full_name": "vilicvane/node-apn",
+    "html_url": "https://github.com/vilicvane/node-apn",
+    "description": "Apple Push Notification module for Node.js",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 228758,
+      "Handlebars": 2113
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 112.73,
+    "S_code": 225.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "across",
+    "full_name": "vilicvane/across",
+    "html_url": "https://github.com/vilicvane/across",
+    "description": "Across the Great Wall we can reach every corner in the world",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 183204,
+      "HTML": 12225,
+      "Dockerfile": 6878
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 98.78,
+    "S_code": 197.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bug-repros",
+    "full_name": "vilicvane/bug-repros",
+    "html_url": "https://github.com/vilicvane/bug-repros",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 7783,
+      "JavaScript": 1646,
+      "HTML": 358,
+      "CSS": 80
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.82,
+    "S_code": 9.64,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hyphenate",
+    "full_name": "vilicvane/hyphenate",
+    "html_url": "https://github.com/vilicvane/hyphenate",
+    "description": "A simple helper function that hyphenates phrases.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3873,
+      "JavaScript": 84
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.93,
+    "S_code": 3.86,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "domains",
+    "full_name": "vilicvane/domains",
+    "html_url": "https://github.com/vilicvane/domains",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 27922,
+      "Handlebars": 6494,
+      "JavaScript": 2346,
+      "Shell": 941
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 138.41,
+    "S_code": 36.82,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "js-bson",
+    "full_name": "vilicvane/js-bson",
+    "html_url": "https://github.com/vilicvane/js-bson",
+    "description": "BSON Parser for node and browser",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 262891,
+      "TypeScript": 219058,
+      "Perl": 9647,
+      "Shell": 3653,
+      "Batchfile": 509
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 242.07,
+    "S_code": 484.14,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "detect-browser",
+    "full_name": "vilicvane/detect-browser",
+    "html_url": "https://github.com/vilicvane/detect-browser",
+    "description": "Unpack a browser type and version from the useragent string",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 16208,
+      "TypeScript": 8541
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.08,
+    "S_code": 24.17,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "webcodecs",
+    "full_name": "vilicvane/webcodecs",
+    "html_url": "https://github.com/vilicvane/webcodecs",
+    "description": "WebCodecs is a flexible web API for encoding and decoding audio and video.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 162052,
+      "Makefile": 2334
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 80.27,
+    "S_code": 160.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "proposal-operator-overloading",
+    "full_name": "vilicvane/proposal-operator-overloading",
+    "html_url": "https://github.com/vilicvane/proposal-operator-overloading",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 41355
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.19,
+    "S_code": 40.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "yuyan",
+    "full_name": "vilicvane/yuyan",
+    "html_url": "https://github.com/vilicvane/yuyan",
+    "description": "用于 YY 一个高带宽、（字面）无歧义的思维语言的仓库",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "docz",
+    "full_name": "vilicvane/docz",
+    "html_url": "https://github.com/vilicvane/docz",
+    "description": "✍ It has never been so easy to document your things!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 133427,
+      "JavaScript": 88263,
+      "AppleScript": 2043,
+      "HTML": 394,
+      "CSS": 166
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 109.52,
+    "S_code": 219.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "customize-cra",
+    "full_name": "vilicvane/customize-cra",
+    "html_url": "https://github.com/vilicvane/customize-cra",
+    "description": "Override webpack configurations for create-react-app 2.0",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 35101
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.14,
+    "S_code": 34.28,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dot-template",
+    "full_name": "vilicvane/dot-template",
+    "html_url": "https://github.com/vilicvane/dot-template",
+    "description": "create new files according to pre-defined templates",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 110253,
+      "JavaScript": 16991,
+      "HTML": 9130,
+      "CSS": 690
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 66.93,
+    "S_code": 133.85,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "teachable-machine-v1",
+    "full_name": "vilicvane/teachable-machine-v1",
+    "html_url": "https://github.com/vilicvane/teachable-machine-v1",
+    "description": " Explore how machine learning works, live in the browser. No coding required.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 176603,
+      "CSS": 41995,
+      "HTML": 30023,
+      "Python": 2621
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 122.68,
+    "S_code": 245.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mobx",
+    "full_name": "vilicvane/mobx",
+    "html_url": "https://github.com/vilicvane/mobx",
+    "description": "Simple, scalable state management.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 300088,
+      "TypeScript": 230236
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 258.95,
+    "S_code": 517.89,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "utility-types",
+    "full_name": "vilicvane/utility-types",
+    "html_url": "https://github.com/vilicvane/utility-types",
+    "description": "Utility Types for TypeScript (provide migration from Flow's Utility Types)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 13027
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.36,
+    "S_code": 12.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "DefinitelyTyped",
+    "full_name": "vilicvane/DefinitelyTyped",
+    "html_url": "https://github.com/vilicvane/DefinitelyTyped",
+    "description": "The repository for high quality TypeScript type definitions.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 3595048
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1759.39,
+    "S_code": 3510.79,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "webpack-serve",
+    "full_name": "vilicvane/webpack-serve",
+    "html_url": "https://github.com/vilicvane/webpack-serve",
+    "description": "A lean, modern, and flexible webpack development server",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 40024
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.54,
+    "S_code": 39.09,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "slate",
+    "full_name": "vilicvane/slate",
+    "html_url": "https://github.com/vilicvane/slate",
+    "description": "A completely customizable framework for building rich text editors.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 714896
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 349.07,
+    "S_code": 698.14,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "binance-api-node",
+    "full_name": "vilicvane/binance-api-node",
+    "html_url": "https://github.com/vilicvane/binance-api-node",
+    "description": ":chart: A complete and heavily tested API wrapper for the Binance API.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 20025
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.78,
+    "S_code": 19.56,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "clime-glob",
+    "full_name": "vilicvane/clime-glob",
+    "html_url": "https://github.com/vilicvane/clime-glob",
+    "description": "Clime string-castable objects that expand glob patterns to paths.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 490,
+      "JavaScript": 42
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.26,
+    "S_code": 0.52,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "zk-lock",
+    "full_name": "vilicvane/zk-lock",
+    "html_url": "https://github.com/vilicvane/zk-lock",
+    "description": "distributed lock using zookeeper",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 34701,
+      "JavaScript": 12913,
+      "Shell": 135
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.31,
+    "S_code": 46.63,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tslint",
+    "full_name": "vilicvane/tslint",
+    "html_url": "https://github.com/vilicvane/tslint",
+    "description": ":vertical_traffic_light: An extensible linter for the TypeScript language",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 988516,
+      "JavaScript": 3510,
+      "Shell": 437,
+      "Batchfile": 168
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 484.68,
+    "S_code": 969.37,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "typescript-tricks",
+    "full_name": "vilicvane/typescript-tricks",
+    "html_url": "https://github.com/vilicvane/typescript-tricks",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "angular-hmr",
+    "full_name": "vilicvane/angular-hmr",
+    "html_url": "https://github.com/vilicvane/angular-hmr",
+    "description": ":fire: Angular Hot Module Replacement for Hot Module Reloading via @AngularClass",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 10863
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.3,
+    "S_code": 10.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rvm",
+    "full_name": "vilicvane/rvm",
+    "html_url": "https://github.com/vilicvane/rvm",
+    "description": "Ruff Version Manager",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 9011,
+      "JavaScript": 241
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.52,
+    "S_code": 9.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "atom-typescript-tools",
+    "full_name": "vilicvane/atom-typescript-tools",
+    "html_url": "https://github.com/vilicvane/atom-typescript-tools",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CoffeeScript": 5310,
+      "CSS": 244
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.71,
+    "S_code": 5.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "TypeScript",
+    "full_name": "vilicvane/TypeScript",
+    "html_url": "https://github.com/vilicvane/TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 34645114,
+      "HTML": 4887,
+      "PowerShell": 2855,
+      "Batchfile": 945,
+      "JavaScript": 175,
+      "Shell": 47
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16920.91,
+    "S_code": 33841.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "exec-cli",
+    "full_name": "vilicvane/exec-cli",
+    "html_url": "https://github.com/vilicvane/exec-cli",
+    "description": "Execute an excutable by given path.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 239
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.12,
+    "S_code": 0.23,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "element",
+    "full_name": "vilicvane/element",
+    "html_url": "https://github.com/vilicvane/element",
+    "description": "Desktop UI elements for Vue.js 2.0",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vue": 224011,
+      "JavaScript": 168183,
+      "CSS": 131680,
+      "Makefile": 1271,
+      "Shell": 461
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 256.64,
+    "S_code": 513.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "extract-zip",
+    "full_name": "vilicvane/extract-zip",
+    "html_url": "https://github.com/vilicvane/extract-zip",
+    "description": "Zip extraction written in pure JavaScript. Extracts a zip into a directory. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8826
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.31,
+    "S_code": 8.62,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "yauzl",
+    "full_name": "vilicvane/yauzl",
+    "html_url": "https://github.com/vilicvane/yauzl",
+    "description": "yet another unzip library for node",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 59892
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 29.24,
+    "S_code": 58.49,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "commander.js",
+    "full_name": "vilicvane/commander.js",
+    "html_url": "https://github.com/vilicvane/commander.js",
+    "description": "node.js command-line interfaces made easy",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 47677,
+      "Shell": 279,
+      "Makefile": 80
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.46,
+    "S_code": 46.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nexe",
+    "full_name": "vilicvane/nexe",
+    "html_url": "https://github.com/vilicvane/nexe",
+    "description": "create a single executable out of your [node/io].js app",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 52583,
+      "HTML": 275,
+      "CSS": 111
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 25.86,
+    "S_code": 51.73,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pty.js",
+    "full_name": "vilicvane/pty.js",
+    "html_url": "https://github.com/vilicvane/pty.js",
+    "description": "Bindings to forkpty(3) for node.js.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 23845,
+      "JavaScript": 20718,
+      "Python": 1502,
+      "Makefile": 344
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22.66,
+    "S_code": 45.32,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vue",
+    "full_name": "vilicvane/vue",
+    "html_url": "https://github.com/vilicvane/vue",
+    "description": "Simple yet powerful library for building modern web interfaces.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1253185,
+      "Shell": 1611,
+      "HTML": 420
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 612.9,
+    "S_code": 1225.8,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dotgit",
+    "full_name": "vilicvane/dotgit",
+    "html_url": "https://github.com/vilicvane/dotgit",
+    "description": "A simple git repository utility.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 591
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.29,
+    "S_code": 0.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "node-unzip",
+    "full_name": "vilicvane/node-unzip",
+    "html_url": "https://github.com/vilicvane/node-unzip",
+    "description": "node.js cross-platform unzip using streams",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 16335
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.98,
+    "S_code": 15.95,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "TypeScript-1",
+    "full_name": "vilicvane/TypeScript-1",
+    "html_url": "https://github.com/vilicvane/TypeScript-1",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  http://www.typescriptlang.org",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 12435,
+      "JavaScript": 4710
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.37,
+    "S_code": 16.74,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gulp-zip",
+    "full_name": "vilicvane/gulp-zip",
+    "html_url": "https://github.com/vilicvane/gulp-zip",
+    "description": "ZIP compress files",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4994
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.44,
+    "S_code": 4.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ip-helpers",
+    "full_name": "vilicvane/ip-helpers",
+    "html_url": "https://github.com/vilicvane/ip-helpers",
+    "description": "Just another simple IP helpers package.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 4115,
+      "JavaScript": 27
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.02,
+    "S_code": 4.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "archiver-utils",
+    "full_name": "vilicvane/archiver-utils",
+    "html_url": "https://github.com/vilicvane/archiver-utils",
+    "description": "utility functions for archiver",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 16653
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.13,
+    "S_code": 16.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Inquirer.js",
+    "full_name": "vilicvane/Inquirer.js",
+    "html_url": "https://github.com/vilicvane/Inquirer.js",
+    "description": "A collection of common interactive command line user interfaces.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 101534
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 49.58,
+    "S_code": 99.15,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "watermelon-kongfu",
+    "full_name": "vilicvane/watermelon-kongfu",
+    "html_url": "https://github.com/vilicvane/watermelon-kongfu",
+    "description": "One of the 6 outsourcing games I made (code part) in 2010.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 20417,
+      "CSS": 9600,
+      "HTML": 4919
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.06,
+    "S_code": 34.12,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fis3-parser-typescript",
+    "full_name": "vilicvane/fis3-parser-typescript",
+    "html_url": "https://github.com/vilicvane/fis3-parser-typescript",
+    "description": "typescript parser for fis/fis3.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4402
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.15,
+    "S_code": 4.3,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "node-resolve",
+    "full_name": "vilicvane/node-resolve",
+    "html_url": "https://github.com/vilicvane/node-resolve",
+    "description": "Implements the node.js require.resolve() algorithm",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 37109,
+      "CoffeeScript": 1
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 18.12,
+    "S_code": 36.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "promises-spec",
+    "full_name": "vilicvane/promises-spec",
+    "html_url": "https://github.com/vilicvane/promises-spec",
+    "description": "An open standard for sound, interoperable JavaScript promises—by implementers, for implementers.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ghost",
+    "full_name": "vilicvane/ghost",
+    "html_url": "https://github.com/vilicvane/ghost",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6096037,
+      "CSS": 186836,
+      "HTML": 33436,
+      "Handlebars": 21889,
+      "XSLT": 7177
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3098.33,
+    "S_code": 6196.66,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "shadowsocks-windows",
+    "full_name": "vilicvane/shadowsocks-windows",
+    "html_url": "https://github.com/vilicvane/shadowsocks-windows",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Ghost-Azure",
+    "full_name": "vilicvane/Ghost-Azure",
+    "html_url": "https://github.com/vilicvane/Ghost-Azure",
+    "description": "Install Ghost on Azure with a simple click",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5763293,
+      "CSS": 214393,
+      "HTML": 33436,
+      "Handlebars": 22426,
+      "XSLT": 7177
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2949.57,
+    "S_code": 5899.15,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "life",
+    "full_name": "vilicvane/life",
+    "html_url": "https://github.com/vilicvane/life",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "XWall",
+    "full_name": "vilicvane/XWall",
+    "html_url": "https://github.com/vilicvane/XWall",
+    "description": "XWall is a small tool wraps together Privoxy,Shadowsocks and Plink, as well as GoAgent in version 1.3, to provide people an easier way to cross the Great Firewall of China.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 159854,
+      "JavaScript": 17258,
+      "CSS": 8431
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 90.6,
+    "S_code": 181.19,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "buildmail",
+    "full_name": "vilicvane/buildmail",
+    "html_url": "https://github.com/vilicvane/buildmail",
+    "description": "Build and stream mime messages",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 62195
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 30.37,
+    "S_code": 60.74,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "atom-typescript",
+    "full_name": "vilicvane/atom-typescript",
+    "html_url": "https://github.com/vilicvane/atom-typescript",
+    "description": "Customized atom-typescript (actually git pull is much faster than apm update).",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2761877,
+      "JavaScript": 1928590,
+      "CSS": 10541,
+      "CoffeeScript": 4566
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2297.64,
+    "S_code": 4595.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sequelize",
+    "full_name": "vilicvane/sequelize",
+    "html_url": "https://github.com/vilicvane/sequelize",
+    "description": "Sequelize is an easy-to-use multi sql dialect ORM for Node.js & io.js. It currently supports MySQL, MariaDB, SQLite, PostgreSQL and MSSQL.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2110113,
+      "Makefile": 3944
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1032.25,
+    "S_code": 2064.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sweater",
+    "full_name": "vilicvane/sweater",
+    "html_url": "https://github.com/vilicvane/sweater",
+    "description": "Node process watcher for debugging.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "duplicate",
+    "full_name": "vilicvane/duplicate",
+    "html_url": "https://github.com/vilicvane/duplicate",
+    "description": "Keep two directories synchronized.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 6241
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.05,
+    "S_code": 6.09,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "cordova-plugin-camera",
+    "full_name": "vilicvane/cordova-plugin-camera",
+    "html_url": "https://github.com/vilicvane/cordova-plugin-camera",
+    "description": "Mirror of Apache Cordova Plugin camera",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Objective-C": 88398,
+      "JavaScript": 69651,
+      "Java": 52817,
+      "C#": 19418,
+      "C++": 8972
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 116.82,
+    "S_code": 233.65,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "anyon",
+    "full_name": "vilicvane/anyon",
+    "html_url": "https://github.com/vilicvane/anyon",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cordova-plugin-splashscreen",
+    "full_name": "vilicvane/cordova-plugin-splashscreen",
+    "html_url": "https://github.com/vilicvane/cordova-plugin-splashscreen",
+    "description": "Mirror of Apache Cordova Plugin splashscreen",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Objective-C": 63969,
+      "Java": 10639,
+      "JavaScript": 8909,
+      "C#": 5596,
+      "C++": 2709
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 44.83,
+    "S_code": 89.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "brackets-automatch-pairs",
+    "full_name": "vilicvane/brackets-automatch-pairs",
+    "html_url": "https://github.com/vilicvane/brackets-automatch-pairs",
+    "description": "Brackets extensions to enable automatic pairs matching.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6539
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.19,
+    "S_code": 6.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "regex-combiner",
+    "full_name": "vilicvane/regex-combiner",
+    "html_url": "https://github.com/vilicvane/regex-combiner",
+    "description": "Deprecated, use https://github.com/vilic/regex-tools",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 31147,
+      "TypeScript": 6333,
+      "CSS": 2589
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.56,
+    "S_code": 39.13,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nodee",
+    "full_name": "vilicvane/nodee",
+    "html_url": "https://github.com/vilicvane/nodee",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "q",
+    "full_name": "vilicvane/q",
+    "html_url": "https://github.com/vilicvane/q",
+    "description": "A tool for making and composing asynchronous promises in JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 277048,
+      "CSS": 6444
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 138.42,
+    "S_code": 276.85,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "passport-localapikey",
+    "full_name": "vilicvane/passport-localapikey",
+    "html_url": "https://github.com/vilicvane/passport-localapikey",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 17855,
+      "Makefile": 441
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.93,
+    "S_code": 17.87,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "outlook.com-yahei-patch",
+    "full_name": "vilicvane/outlook.com-yahei-patch",
+    "html_url": "https://github.com/vilicvane/outlook.com-yahei-patch",
+    "description": "Use Microsoft Yahei for your Outlook.com in English",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 53
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.03,
+    "S_code": 0.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pybuild",
+    "full_name": "vilicvane/pybuild",
+    "html_url": "https://github.com/vilicvane/pybuild",
+    "description": "some python build script",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "complenote",
+    "full_name": "vilicvane/complenote",
+    "html_url": "https://github.com/vilicvane/complenote",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

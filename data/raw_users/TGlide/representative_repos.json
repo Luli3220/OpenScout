@@ -1,0 +1,3613 @@
+[
+  {
+    "name": "novel-svelte",
+    "full_name": "TGlide/novel-svelte",
+    "html_url": "https://github.com/TGlide/novel-svelte",
+    "description": "Notion-style WYSIWYG editor with AI-powered autocompletion. ",
+    "stars": 267,
+    "forks": 38,
+    "languages": {
+      "CSS": 35204,
+      "Svelte": 34140,
+      "TypeScript": 27972,
+      "JavaScript": 2331,
+      "HTML": 1012
+    },
+    "contributions_by_user": 33,
+    "contribution_score": 1065.15,
+    "S_code": 98.3,
+    "S_social": 343,
+    "S_maint": 33
+  },
+  {
+    "name": "codeverter",
+    "full_name": "TGlide/codeverter",
+    "html_url": "https://github.com/TGlide/codeverter",
+    "description": "Convert code to your programming language of choice",
+    "stars": 150,
+    "forks": 20,
+    "languages": {
+      "Svelte": 34770,
+      "TypeScript": 14396,
+      "JavaScript": 1775,
+      "CSS": 1581,
+      "HTML": 329
+    },
+    "contributions_by_user": 57,
+    "contribution_score": 975.81,
+    "S_code": 51.61,
+    "S_social": 190,
+    "S_maint": 57
+  },
+  {
+    "name": "svelte-radial-menu",
+    "full_name": "TGlide/svelte-radial-menu",
+    "html_url": "https://github.com/TGlide/svelte-radial-menu",
+    "description": "Radial Menu Experiment. Based on Rauno's Work",
+    "stars": 142,
+    "forks": 2,
+    "languages": {
+      "CSS": 13503,
+      "Svelte": 9109,
+      "JavaScript": 7281,
+      "TypeScript": 1368,
+      "SCSS": 953,
+      "HTML": 376
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 597.91,
+    "S_code": 31.83,
+    "S_social": 146,
+    "S_maint": 29
+  },
+  {
+    "name": "thom-chat",
+    "full_name": "TGlide/thom-chat",
+    "html_url": "https://github.com/TGlide/thom-chat",
+    "description": "Open-source T3 chat alternative",
+    "stars": 95,
+    "forks": 15,
+    "languages": {
+      "TypeScript": 177733,
+      "Svelte": 165087,
+      "CSS": 20980,
+      "JavaScript": 1578,
+      "HTML": 373
+    },
+    "contributions_by_user": 134,
+    "contribution_score": 1768.59,
+    "S_code": 357.18,
+    "S_social": 125,
+    "S_maint": 134
+  },
+  {
+    "name": "movie-web",
+    "full_name": "TGlide/movie-web",
+    "html_url": "https://github.com/TGlide/movie-web",
+    "description": "A small web app for watching movies and shows easily. Based on movie-cli by @JipFr.",
+    "stars": 52,
+    "forks": 2388,
+    "languages": {
+      "JavaScript": 27234,
+      "CSS": 9079,
+      "HTML": 964
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9674.2,
+    "S_code": 36.4,
+    "S_social": 4828,
+    "S_maint": 0
+  },
+  {
+    "name": "zats-reddit",
+    "full_name": "TGlide/zats-reddit",
+    "html_url": "https://github.com/TGlide/zats-reddit",
+    "description": "Reddit clone built with Zod, Appwrite, Tailwind, and SvelteKit",
+    "stars": 35,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 25920,
+      "Svelte": 14404,
+      "JavaScript": 12229,
+      "CSS": 1361,
+      "HTML": 284
+    },
+    "contributions_by_user": 46,
+    "contribution_score": 560.46,
+    "S_code": 52.93,
+    "S_social": 37,
+    "S_maint": 46
+  },
+  {
+    "name": "TGlide",
+    "full_name": "TGlide/TGlide",
+    "html_url": "https://github.com/TGlide/TGlide",
+    "description": null,
+    "stars": 7,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 33,
+    "contribution_score": 344.0,
+    "S_code": 0.0,
+    "S_social": 7,
+    "S_maint": 33
+  },
+  {
+    "name": "hello-zero-svelte",
+    "full_name": "TGlide/hello-zero-svelte",
+    "html_url": "https://github.com/TGlide/hello-zero-svelte",
+    "description": null,
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 12841,
+      "Svelte": 5839,
+      "JavaScript": 1637,
+      "CSS": 1362,
+      "HTML": 408,
+      "Shell": 279
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 80.92,
+    "S_code": 21.84,
+    "S_social": 5,
+    "S_maint": 6
+  },
+  {
+    "name": "sveltekit-ai-chatbot",
+    "full_name": "TGlide/sveltekit-ai-chatbot",
+    "html_url": "https://github.com/TGlide/sveltekit-ai-chatbot",
+    "description": "A full-featured, hackable SvelteKit AI chatbot",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Svelte": 55770,
+      "TypeScript": 11371,
+      "JavaScript": 4022,
+      "CSS": 1476,
+      "HTML": 368
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 45.65,
+    "S_code": 71.3,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "wordex",
+    "full_name": "TGlide/wordex",
+    "html_url": "https://github.com/TGlide/wordex",
+    "description": "Wordle clone built with Svelte",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 29056,
+      "Svelte": 26379,
+      "CSS": 14131,
+      "JavaScript": 4655,
+      "HTML": 1336
+    },
+    "contributions_by_user": 86,
+    "contribution_score": 906.89,
+    "S_code": 73.79,
+    "S_social": 5,
+    "S_maint": 86
+  },
+  {
+    "name": "personal-website",
+    "full_name": "TGlide/personal-website",
+    "html_url": "https://github.com/TGlide/personal-website",
+    "description": null,
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Astro": 15534,
+      "MDX": 13556,
+      "TypeScript": 6330,
+      "Svelte": 4818,
+      "JavaScript": 3183,
+      "CSS": 2368
+    },
+    "contributions_by_user": 71,
+    "contribution_score": 740.36,
+    "S_code": 44.72,
+    "S_social": 4,
+    "S_maint": 71
+  },
+  {
+    "name": "runes-tabs-ssr",
+    "full_name": "TGlide/runes-tabs-ssr",
+    "html_url": "https://github.com/TGlide/runes-tabs-ssr",
+    "description": null,
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Svelte": 2911,
+      "JavaScript": 1318,
+      "HTML": 346,
+      "TypeScript": 270
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 20.37,
+    "S_code": 4.73,
+    "S_social": 4,
+    "S_maint": 1
+  },
+  {
+    "name": "uno-pollen",
+    "full_name": "TGlide/uno-pollen",
+    "html_url": "https://github.com/TGlide/uno-pollen",
+    "description": null,
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 14020,
+      "CSS": 12480,
+      "JavaScript": 7106,
+      "SCSS": 701
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 84.75,
+    "S_code": 33.5,
+    "S_social": 4,
+    "S_maint": 6
+  },
+  {
+    "name": "portfolio",
+    "full_name": "TGlide/portfolio",
+    "html_url": "https://github.com/TGlide/portfolio",
+    "description": "My minimalist portfolio",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Svelte": 18550,
+      "TypeScript": 6526,
+      "CSS": 3989,
+      "JavaScript": 1306,
+      "HTML": 585
+    },
+    "contributions_by_user": 62,
+    "contribution_score": 641.12,
+    "S_code": 30.23,
+    "S_social": 3,
+    "S_maint": 62
+  },
+  {
+    "name": "melt-dialog-registry",
+    "full_name": "TGlide/melt-dialog-registry",
+    "html_url": "https://github.com/TGlide/melt-dialog-registry",
+    "description": "Example of how to create a Dialog Registry with Melt UI",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Svelte": 3019,
+      "JavaScript": 1849,
+      "TypeScript": 1255,
+      "HTML": 346,
+      "CSS": 114
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 29.21,
+    "S_code": 6.43,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "vue-electron-screen-recorder",
+    "full_name": "TGlide/vue-electron-screen-recorder",
+    "html_url": "https://github.com/TGlide/vue-electron-screen-recorder",
+    "description": "Screen Recorder built with Electron and Vue - based on Fireship's tutorial",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Vue": 4887,
+      "JavaScript": 4704,
+      "CSS": 890,
+      "HTML": 613
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.42,
+    "S_code": 10.83,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "perguntai",
+    "full_name": "TGlide/perguntai",
+    "html_url": "https://github.com/TGlide/perguntai",
+    "description": "Kahoot clone built with flutter for Laboratório de Dispositivos Móveis @ UFF",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Dart": 51085,
+      "Swift": 404,
+      "Kotlin": 129,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 31.22,
+    "S_code": 50.45,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "shadcn-svelte",
+    "full_name": "TGlide/shadcn-svelte",
+    "html_url": "https://github.com/TGlide/shadcn-svelte",
+    "description": "shadcn/ui, but for Svelte.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Svelte": 152528,
+      "TypeScript": 63749,
+      "JavaScript": 33428,
+      "CSS": 4360,
+      "HTML": 435
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 128.27,
+    "S_code": 248.54,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "bits",
+    "full_name": "TGlide/bits",
+    "html_url": "https://github.com/TGlide/bits",
+    "description": "Headless Svelte components built on top of Melt UI. 🚀",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Svelte": 169260,
+      "TypeScript": 105958,
+      "JavaScript": 5459,
+      "CSS": 4479,
+      "HTML": 362
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 153.41,
+    "S_code": 278.83,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "requests-test",
+    "full_name": "TGlide/requests-test",
+    "html_url": "https://github.com/TGlide/requests-test",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 12346,
+      "CSS": 7313,
+      "JavaScript": 3269,
+      "Astro": 330,
+      "HTML": 329,
+      "Vue": 48,
+      "Svelte": 25
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 35.55,
+    "S_code": 23.11,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "pluck-svelte",
+    "full_name": "TGlide/pluck-svelte",
+    "html_url": "https://github.com/TGlide/pluck-svelte",
+    "description": "Photo sharing app built with Appwrite & SvelteKit",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Svelte": 10451,
+      "TypeScript": 8493,
+      "JavaScript": 3093,
+      "CSS": 1011,
+      "HTML": 329
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 165.41,
+    "S_code": 22.83,
+    "S_social": 2,
+    "S_maint": 15
+  },
+  {
+    "name": "doggies",
+    "full_name": "TGlide/doggies",
+    "html_url": "https://github.com/TGlide/doggies",
+    "description": "A progressively-enhanced comparison between SvelteKit and React RSC",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 9619,
+      "Svelte": 4201,
+      "JavaScript": 2575,
+      "CSS": 593,
+      "HTML": 329
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 22.46,
+    "S_code": 16.91,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "chart-plot-ts",
+    "full_name": "TGlide/chart-plot-ts",
+    "html_url": "https://github.com/TGlide/chart-plot-ts",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 22922,
+      "JavaScript": 5050,
+      "SCSS": 4443,
+      "HTML": 1721
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 30.67,
+    "S_code": 33.34,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "appwrite-trpc-next",
+    "full_name": "TGlide/appwrite-trpc-next",
+    "html_url": "https://github.com/TGlide/appwrite-trpc-next",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 21438,
+      "JavaScript": 3830
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 46.34,
+    "S_code": 24.68,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "to-you",
+    "full_name": "TGlide/to-you",
+    "html_url": "https://github.com/TGlide/to-you",
+    "description": " Another to-do app for you, where completing tasks lead to great rewards. Built with Svelte and Appwrite.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "CSS": 19902,
+      "TypeScript": 11970,
+      "Svelte": 9330,
+      "JavaScript": 2713,
+      "HTML": 291
+    },
+    "contributions_by_user": 55,
+    "contribution_score": 575.58,
+    "S_code": 43.17,
+    "S_social": 2,
+    "S_maint": 55
+  },
+  {
+    "name": "advent-of-code-2021",
+    "full_name": "TGlide/advent-of-code-2021",
+    "html_url": "https://github.com/TGlide/advent-of-code-2021",
+    "description": "Solutions for Advent of Code 2021",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 11610
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 49.67,
+    "S_code": 11.34,
+    "S_social": 2,
+    "S_maint": 4
+  },
+  {
+    "name": "Awesome-Python-Scripts",
+    "full_name": "TGlide/Awesome-Python-Scripts",
+    "html_url": "https://github.com/TGlide/Awesome-Python-Scripts",
+    "description": "A Curated list of Awesome Python Scripts that Automates Stuffs. ",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 16076
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.85,
+    "S_code": 15.7,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "perfection-talk",
+    "full_name": "TGlide/perfection-talk",
+    "html_url": "https://github.com/TGlide/perfection-talk",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Svelte": 81083,
+      "TypeScript": 11021,
+      "JavaScript": 2305,
+      "CSS": 2061,
+      "HTML": 346
+    },
+    "contributions_by_user": 71,
+    "contribution_score": 759.27,
+    "S_code": 94.55,
+    "S_social": 1,
+    "S_maint": 71
+  },
+  {
+    "name": "nvim-config",
+    "full_name": "TGlide/nvim-config",
+    "html_url": "https://github.com/TGlide/nvim-config",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Lua": 69909,
+      "Vim Script": 1456
+    },
+    "contributions_by_user": 63,
+    "contribution_score": 666.85,
+    "S_code": 69.69,
+    "S_social": 1,
+    "S_maint": 63
+  },
+  {
+    "name": "society-demos",
+    "full_name": "TGlide/society-demos",
+    "html_url": "https://github.com/TGlide/society-demos",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Svelte": 4046,
+      "JavaScript": 1402,
+      "TypeScript": 1304,
+      "HTML": 346,
+      "CSS": 59
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 185.49,
+    "S_code": 6.99,
+    "S_social": 1,
+    "S_maint": 18
+  },
+  {
+    "name": "website",
+    "full_name": "TGlide/website",
+    "html_url": "https://github.com/TGlide/website",
+    "description": "Website and documentation for Radix.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "MDX": 2655120,
+      "TypeScript": 1040454,
+      "JavaScript": 269336,
+      "CSS": 96290
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1985.01,
+    "S_code": 3966.02,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "animotion",
+    "full_name": "TGlide/animotion",
+    "html_url": "https://github.com/TGlide/animotion",
+    "description": "🪄 Create beautiful presentations with Svelte",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Svelte": 63479,
+      "TypeScript": 33782,
+      "CSS": 14340,
+      "JavaScript": 4853,
+      "HTML": 1096
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 59.4,
+    "S_code": 114.79,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "essence-ui",
+    "full_name": "TGlide/essence-ui",
+    "html_url": "https://github.com/TGlide/essence-ui",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Svelte": 54492,
+      "TypeScript": 14281,
+      "CSS": 8642,
+      "JavaScript": 2428,
+      "HTML": 396
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 61.18,
+    "S_code": 78.36,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "tailwind-benchmark",
+    "full_name": "TGlide/tailwind-benchmark",
+    "html_url": "https://github.com/TGlide/tailwind-benchmark",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "CSS": 121489,
+      "JavaScript": 1381
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 76.0,
+    "S_code": 119.99,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "svelte-patterns",
+    "full_name": "TGlide/svelte-patterns",
+    "html_url": "https://github.com/TGlide/svelte-patterns",
+    "description": "Collection of common patterns used in the Svelte ecosytem",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Svelte": 2479,
+      "TypeScript": 2474,
+      "JavaScript": 2049,
+      "HTML": 329,
+      "CSS": 114
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 55.64,
+    "S_code": 7.27,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "smooth-tabs",
+    "full_name": "TGlide/smooth-tabs",
+    "html_url": "https://github.com/TGlide/smooth-tabs",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5733,
+      "Svelte": 1637,
+      "CSS": 385,
+      "HTML": 358,
+      "TypeScript": 323
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 26.12,
+    "S_code": 8.24,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "chatwrite",
+    "full_name": "TGlide/chatwrite",
+    "html_url": "https://github.com/TGlide/chatwrite",
+    "description": "A chatroom build with Appwrite, a follow up to TessaTalk.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 45311,
+      "HTML": 366,
+      "SCSS": 75
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 34.34,
+    "S_code": 44.68,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "svelte-cookie-store-poc",
+    "full_name": "TGlide/svelte-cookie-store-poc",
+    "html_url": "https://github.com/TGlide/svelte-cookie-store-poc",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3724,
+      "JavaScript": 1786,
+      "Svelte": 1517,
+      "CSS": 648,
+      "HTML": 329
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 55.91,
+    "S_code": 7.82,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "svelte-cookies-demo",
+    "full_name": "TGlide/svelte-cookies-demo",
+    "html_url": "https://github.com/TGlide/svelte-cookies-demo",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2380,
+      "JavaScript": 1786,
+      "Svelte": 1647,
+      "CSS": 648,
+      "HTML": 329
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 25.32,
+    "S_code": 6.63,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "appwrite-login-svelte",
+    "full_name": "TGlide/appwrite-login-svelte",
+    "html_url": "https://github.com/TGlide/appwrite-login-svelte",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 6468,
+      "Svelte": 2485,
+      "JavaScript": 860,
+      "HTML": 284
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 26.93,
+    "S_code": 9.86,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "pink-repro",
+    "full_name": "TGlide/pink-repro",
+    "html_url": "https://github.com/TGlide/pink-repro",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 860,
+      "TypeScript": 801,
+      "Svelte": 612,
+      "HTML": 329
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.27,
+    "S_code": 2.54,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "my-unsplash-api",
+    "full_name": "TGlide/my-unsplash-api",
+    "html_url": "https://github.com/TGlide/my-unsplash-api",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 7281,
+      "JavaScript": 1277
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.18,
+    "S_code": 8.36,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ts-utils",
+    "full_name": "TGlide/ts-utils",
+    "html_url": "https://github.com/TGlide/ts-utils",
+    "description": "Nifty TS utils for your purposes",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 15188,
+      "JavaScript": 2728
+    },
+    "contributions_by_user": 32,
+    "contribution_score": 330.75,
+    "S_code": 17.5,
+    "S_social": 1,
+    "S_maint": 32
+  },
+  {
+    "name": "utils",
+    "full_name": "TGlide/utils",
+    "html_url": "https://github.com/TGlide/utils",
+    "description": "Collection of common JavaScript / TypeScript utils",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 27873,
+      "JavaScript": 1080
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 36.14,
+    "S_code": 28.27,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "habitor",
+    "full_name": "TGlide/habitor",
+    "html_url": "https://github.com/TGlide/habitor",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 19123,
+      "CSS": 15147,
+      "JavaScript": 7726,
+      "Svelte": 3668,
+      "SCSS": 3049,
+      "HTML": 393
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 175.98,
+    "S_code": 47.96,
+    "S_social": 1,
+    "S_maint": 15
+  },
+  {
+    "name": "advent-of-code-2022",
+    "full_name": "TGlide/advent-of-code-2022",
+    "html_url": "https://github.com/TGlide/advent-of-code-2022",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 24181
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 103.81,
+    "S_code": 23.61,
+    "S_social": 1,
+    "S_maint": 9
+  },
+  {
+    "name": "giphy-clone",
+    "full_name": "TGlide/giphy-clone",
+    "html_url": "https://github.com/TGlide/giphy-clone",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5541,
+      "Vue": 4362,
+      "CSS": 942,
+      "HTML": 613
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.59,
+    "S_code": 11.19,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "show-and-tell",
+    "full_name": "TGlide/show-and-tell",
+    "html_url": "https://github.com/TGlide/show-and-tell",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Svelte": 28844,
+      "CSS": 8194,
+      "JavaScript": 1147,
+      "TypeScript": 655,
+      "HTML": 295,
+      "SCSS": 227
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 201.22,
+    "S_code": 38.44,
+    "S_social": 1,
+    "S_maint": 18
+  },
+  {
+    "name": "postcss-template",
+    "full_name": "TGlide/postcss-template",
+    "html_url": "https://github.com/TGlide/postcss-template",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "CSS": 8471,
+      "JavaScript": 297
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 56.28,
+    "S_code": 8.56,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "awesome-appwrite",
+    "full_name": "TGlide/awesome-appwrite",
+    "html_url": "https://github.com/TGlide/awesome-appwrite",
+    "description": "Carefully curated list of awesome Appwrite resources 💪",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "color-generator",
+    "full_name": "TGlide/color-generator",
+    "html_url": "https://github.com/TGlide/color-generator",
+    "description": "Color generator util for HSL CSS vars",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Svelte": 16241,
+      "CSS": 6122,
+      "TypeScript": 3313,
+      "JavaScript": 941,
+      "HTML": 633
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 205.31,
+    "S_code": 26.61,
+    "S_social": 1,
+    "S_maint": 19
+  },
+  {
+    "name": "codeimage",
+    "full_name": "TGlide/codeimage",
+    "html_url": "https://github.com/TGlide/codeimage",
+    "description": "Create elegant screenshots of your source code. Built with SolidJS",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 704925,
+      "JavaScript": 15684,
+      "SCSS": 11863,
+      "HTML": 6969,
+      "Shell": 77
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 363.09,
+    "S_code": 722.19,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "developertools.tech",
+    "full_name": "TGlide/developertools.tech",
+    "html_url": "https://github.com/TGlide/developertools.tech",
+    "description": "A collection of tools for developers served as a PWA",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 110364,
+      "JavaScript": 1493,
+      "CSS": 205
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 56.72,
+    "S_code": 109.44,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "car-gallery-webapp",
+    "full_name": "TGlide/car-gallery-webapp",
+    "html_url": "https://github.com/TGlide/car-gallery-webapp",
+    "description": " A Next.js Web App to view a collection of vintage cars ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 23081,
+      "JavaScript": 5661
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 26.03,
+    "S_code": 28.07,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "cva",
+    "full_name": "TGlide/cva",
+    "html_url": "https://github.com/TGlide/cva",
+    "description": "Class Variance Authority",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 34702,
+      "JavaScript": 243,
+      "Shell": 61
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.09,
+    "S_code": 34.19,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "sveltekit-template",
+    "full_name": "TGlide/sveltekit-template",
+    "html_url": "https://github.com/TGlide/sveltekit-template",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "CSS": 11552,
+      "JavaScript": 838,
+      "Svelte": 773,
+      "TypeScript": 677,
+      "HTML": 570
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 59.04,
+    "S_code": 14.07,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "another-prototype",
+    "full_name": "TGlide/another-prototype",
+    "html_url": "https://github.com/TGlide/another-prototype",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 8859,
+      "CSS": 8044,
+      "Svelte": 6843,
+      "JavaScript": 941,
+      "HTML": 633
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 54.36,
+    "S_code": 24.73,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "svelte-stitches-prototype",
+    "full_name": "TGlide/svelte-stitches-prototype",
+    "html_url": "https://github.com/TGlide/svelte-stitches-prototype",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Svelte": 8752,
+      "TypeScript": 8121,
+      "CSS": 1582,
+      "HTML": 881,
+      "JavaScript": 447
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 61.66,
+    "S_code": 19.32,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "car-gallery-server",
+    "full_name": "TGlide/car-gallery-server",
+    "html_url": "https://github.com/TGlide/car-gallery-server",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 5564,
+      "Shell": 69
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.75,
+    "S_code": 5.5,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "antd-chart",
+    "full_name": "TGlide/antd-chart",
+    "html_url": "https://github.com/TGlide/antd-chart",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 24304,
+      "CSS": 2606,
+      "HTML": 1721,
+      "SCSS": 221
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.09,
+    "S_code": 28.18,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "chuck-norris-facts-nextjs",
+    "full_name": "TGlide/chuck-norris-facts-nextjs",
+    "html_url": "https://github.com/TGlide/chuck-norris-facts-nextjs",
+    "description": "A Next.js Web App to search for facts on the most badass man alive.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 13279,
+      "JavaScript": 5525,
+      "CSS": 103
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.23,
+    "S_code": 18.46,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "30-seconds-of-css",
+    "full_name": "TGlide/30-seconds-of-css",
+    "html_url": "https://github.com/TGlide/30-seconds-of-css",
+    "description": "Short CSS code snippets for all your development needs",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "CSS": 106
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.05,
+    "S_code": 0.1,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "Dictu",
+    "full_name": "TGlide/Dictu",
+    "html_url": "https://github.com/TGlide/Dictu",
+    "description": "Dictu is a simple dynamically typed programming language built upon the craftinginterpreters tutorial.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 456272,
+      "C++": 7281,
+      "Makefile": 3114,
+      "Python": 2990,
+      "CMake": 1457,
+      "Objective-C": 941
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 232.5,
+    "S_code": 460.99,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "bedav",
+    "full_name": "TGlide/bedav",
+    "html_url": "https://github.com/TGlide/bedav",
+    "description": "Tracking the number of available beds in hospitals",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 89486,
+      "Python": 56003,
+      "HTML": 1197,
+      "Dockerfile": 999
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 74.11,
+    "S_code": 144.22,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "YouTube-Downloader",
+    "full_name": "TGlide/YouTube-Downloader",
+    "html_url": "https://github.com/TGlide/YouTube-Downloader",
+    "description": "Django YouTube Downloader Using youtube-dl",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 13125,
+      "CSS": 9261,
+      "Python": 8171,
+      "Dockerfile": 168
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.0,
+    "S_code": 30.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "30-seconds-of-code",
+    "full_name": "TGlide/30-seconds-of-code",
+    "html_url": "https://github.com/TGlide/30-seconds-of-code",
+    "description": "Short JavaScript code snippets for all your development needs",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 94
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.05,
+    "S_code": 0.09,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "example-portfolio",
+    "full_name": "TGlide/example-portfolio",
+    "html_url": "https://github.com/TGlide/example-portfolio",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1815,
+      "CSS": 485,
+      "JavaScript": 264
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.25,
+    "S_code": 2.5,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "counter-next-anoninit",
+    "full_name": "TGlide/counter-next-anoninit",
+    "html_url": "https://github.com/TGlide/counter-next-anoninit",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1398,
+      "CSS": 136
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.75,
+    "S_code": 1.5,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "coin-price",
+    "full_name": "TGlide/coin-price",
+    "html_url": "https://github.com/TGlide/coin-price",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 2511
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.23,
+    "S_code": 2.45,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "Best-README-Template",
+    "full_name": "TGlide/Best-README-Template",
+    "html_url": "https://github.com/TGlide/Best-README-Template",
+    "description": "An awesome README template to jumpstart your projects! ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "darcy_movies_api",
+    "full_name": "TGlide/darcy_movies_api",
+    "html_url": "https://github.com/TGlide/darcy_movies_api",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 32236,
+      "Mako": 494
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.98,
+    "S_code": 31.96,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "BrickBreaker",
+    "full_name": "TGlide/BrickBreaker",
+    "html_url": "https://github.com/TGlide/BrickBreaker",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 3638
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.78,
+    "S_code": 3.55,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "color-themes",
+    "full_name": "TGlide/color-themes",
+    "html_url": "https://github.com/TGlide/color-themes",
+    "description": "Vue.js App which allows for sampling color themes.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Vue": 22118,
+      "CSS": 7739,
+      "HTML": 1063,
+      "JavaScript": 808
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.49,
+    "S_code": 30.98,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "Reddit-WallLoad",
+    "full_name": "TGlide/Reddit-WallLoad",
+    "html_url": "https://github.com/TGlide/Reddit-WallLoad",
+    "description": "This is a simple tool I've created for day to day use to fetch wallpapers from https://www.reddit.com/r/wallpapers/.",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "Python": 19987
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.76,
+    "S_code": 19.52,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "Arduino-Sketches",
+    "full_name": "TGlide/Arduino-Sketches",
+    "html_url": "https://github.com/TGlide/Arduino-Sketches",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 1192061,
+      "C": 195360,
+      "Assembly": 9918
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 684.29,
+    "S_code": 1364.59,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ED-UFF-2019.1",
+    "full_name": "TGlide/ED-UFF-2019.1",
+    "html_url": "https://github.com/TGlide/ED-UFF-2019.1",
+    "description": "Repositório contendo exercícios feitos e material de estudo para ED",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 9295
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.54,
+    "S_code": 9.08,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "Chimera",
+    "full_name": "TGlide/Chimera",
+    "html_url": "https://github.com/TGlide/Chimera",
+    "description": "System Remote Control Discord Bot written in Python discord.py",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 22280,
+      "Batchfile": 784,
+      "Shell": 677
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.59,
+    "S_code": 23.18,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "100-days-of-code",
+    "full_name": "TGlide/100-days-of-code",
+    "html_url": "https://github.com/TGlide/100-days-of-code",
+    "description": "Fork this template for the 100 days journal - to keep yourself accountable",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "Coursera-Web-Development-JHU",
+    "full_name": "TGlide/Coursera-Web-Development-JHU",
+    "html_url": "https://github.com/TGlide/Coursera-Web-Development-JHU",
+    "description": "Repo for JHU Coursera class on Web Development",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 195760,
+      "CSS": 7440,
+      "HTML": 6380
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 104.33,
+    "S_code": 204.67,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "TGlide/dotfiles",
+    "html_url": "https://github.com/TGlide/dotfiles",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "GLSL": 229511,
+      "Lua": 104688,
+      "Shell": 44167,
+      "CSS": 17889,
+      "Python": 4849,
+      "Perl": 4777,
+      "Vim Script": 1456
+    },
+    "contributions_by_user": 105,
+    "contribution_score": 1248.9,
+    "S_code": 397.79,
+    "S_social": 0,
+    "S_maint": 105
+  },
+  {
+    "name": "wallpapers",
+    "full_name": "TGlide/wallpapers",
+    "html_url": "https://github.com/TGlide/wallpapers",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 8,
+    "contribution_score": 80.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "aoc-2025",
+    "full_name": "TGlide/aoc-2025",
+    "html_url": "https://github.com/TGlide/aoc-2025",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 102473
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 290.04,
+    "S_code": 100.07,
+    "S_social": 0,
+    "S_maint": 24
+  },
+  {
+    "name": "inference-playground",
+    "full_name": "TGlide/inference-playground",
+    "html_url": "https://github.com/TGlide/inference-playground",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 246246,
+      "TypeScript": 179498,
+      "JavaScript": 6273,
+      "CSS": 3817,
+      "HTML": 1390,
+      "Shell": 1077,
+      "Dockerfile": 591
+    },
+    "contributions_by_user": 261,
+    "contribution_score": 2824.3,
+    "S_code": 428.61,
+    "S_social": 0,
+    "S_maint": 261
+  },
+  {
+    "name": "musicbox",
+    "full_name": "TGlide/musicbox",
+    "html_url": "https://github.com/TGlide/musicbox",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 6113,
+      "Svelte": 2450,
+      "JavaScript": 1473,
+      "Rust": 712,
+      "HTML": 388
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 45.44,
+    "S_code": 10.88,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "rmpc-navi",
+    "full_name": "TGlide/rmpc-navi",
+    "html_url": "https://github.com/TGlide/rmpc-navi",
+    "description": "A configurable, terminal based Navidrome Client with album art support via various terminal image protocols",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 1593049
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 777.86,
+    "S_code": 1555.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "breaking",
+    "full_name": "TGlide/breaking",
+    "html_url": "https://github.com/TGlide/breaking",
+    "description": "Breaking Out's cooler brother",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "GDScript": 216514,
+      "GDShader": 4886
+    },
+    "contributions_by_user": 86,
+    "contribution_score": 968.11,
+    "S_code": 216.21,
+    "S_social": 0,
+    "S_maint": 86
+  },
+  {
+    "name": "the-bird-that-flaps",
+    "full_name": "TGlide/the-bird-that-flaps",
+    "html_url": "https://github.com/TGlide/the-bird-that-flaps",
+    "description": "Flappy bird clone, with a twist",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "GDScript": 193011,
+      "GDShader": 4586
+    },
+    "contributions_by_user": 37,
+    "contribution_score": 466.48,
+    "S_code": 192.97,
+    "S_social": 0,
+    "S_maint": 37
+  },
+  {
+    "name": "remote-function-query-redirect-repro",
+    "full_name": "TGlide/remote-function-query-redirect-repro",
+    "html_url": "https://github.com/TGlide/remote-function-query-redirect-repro",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1997,
+      "Svelte": 503,
+      "TypeScript": 376,
+      "HTML": 286
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 21.54,
+    "S_code": 3.09,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "Roo-Code",
+    "full_name": "TGlide/Roo-Code",
+    "html_url": "https://github.com/TGlide/Roo-Code",
+    "description": "Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 6746626,
+      "CSS": 58549,
+      "JavaScript": 46685,
+      "Shell": 14961,
+      "HTML": 282
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3353.08,
+    "S_code": 6706.16,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sponsors",
+    "full_name": "TGlide/sponsors",
+    "html_url": "https://github.com/TGlide/sponsors",
+    "description": "Info about my sponsors to display on my projects.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 876,
+      "Shell": 219
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 260.53,
+    "S_code": 1.07,
+    "S_social": 0,
+    "S_maint": 26
+  },
+  {
+    "name": "vaul-svelte",
+    "full_name": "TGlide/vaul-svelte",
+    "html_url": "https://github.com/TGlide/vaul-svelte",
+    "description": "An unstyled drawer component for Svelte.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 72233,
+      "Svelte": 41141,
+      "JavaScript": 2454,
+      "CSS": 569,
+      "HTML": 386
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 57.02,
+    "S_code": 114.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "providers-inference-metrics",
+    "full_name": "TGlide/providers-inference-metrics",
+    "html_url": "https://github.com/TGlide/providers-inference-metrics",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 30374,
+      "Makefile": 2661,
+      "Shell": 2145,
+      "Dockerfile": 1588
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 57.95,
+    "S_code": 35.91,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "huggingface.js",
+    "full_name": "TGlide/huggingface.js",
+    "html_url": "https://github.com/TGlide/huggingface.js",
+    "description": "Utilities to use the Hugging Face Hub API",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2006640,
+      "JavaScript": 248100,
+      "Python": 34871,
+      "Jinja": 18797,
+      "Shell": 8641,
+      "Svelte": 820,
+      "HTML": 329
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1131.93,
+    "S_code": 2263.87,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "palette-generator",
+    "full_name": "TGlide/palette-generator",
+    "html_url": "https://github.com/TGlide/palette-generator",
+    "description": "Svelte monochromatic palette generator",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 49555,
+      "TypeScript": 11848,
+      "JavaScript": 3378,
+      "HTML": 1005,
+      "CSS": 59
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 92.15,
+    "S_code": 64.3,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "remult",
+    "full_name": "TGlide/remult",
+    "html_url": "https://github.com/TGlide/remult",
+    "description": "Full-stack CRUD, simplified, with SSOT TypeScript entities",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3186498,
+      "Svelte": 88860,
+      "CSS": 73158,
+      "HTML": 25143,
+      "JavaScript": 20389,
+      "Vue": 11342,
+      "Shell": 1711
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 1683.62,
+    "S_code": 3327.25,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "nixos-config",
+    "full_name": "TGlide/nixos-config",
+    "html_url": "https://github.com/TGlide/nixos-config",
+    "description": "My config for NixOS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Nix": 45315,
+      "TypeScript": 9165,
+      "Shell": 6326,
+      "SCSS": 4854
+    },
+    "contributions_by_user": 169,
+    "contribution_score": 1722.06,
+    "S_code": 64.12,
+    "S_social": 0,
+    "S_maint": 169
+  },
+  {
+    "name": "arch-custom-packages",
+    "full_name": "TGlide/arch-custom-packages",
+    "html_url": "https://github.com/TGlide/arch-custom-packages",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 1074
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.52,
+    "S_code": 1.05,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "gabi-parabens",
+    "full_name": "TGlide/gabi-parabens",
+    "html_url": "https://github.com/TGlide/gabi-parabens",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1597,
+      "Svelte": 841,
+      "HTML": 346,
+      "TypeScript": 279,
+      "CSS": 23
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.51,
+    "S_code": 3.01,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "svelte.dev",
+    "full_name": "TGlide/svelte.dev",
+    "html_url": "https://github.com/TGlide/svelte.dev",
+    "description": "The Svelte omnisite",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 507575,
+      "TypeScript": 182970,
+      "JavaScript": 110334,
+      "CSS": 31585,
+      "HTML": 18100
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 415.31,
+    "S_code": 830.63,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "svelte-changelog",
+    "full_name": "TGlide/svelte-changelog",
+    "html_url": "https://github.com/TGlide/svelte-changelog",
+    "description": "A nice UI to stay up-to-date with Svelte releases",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 93751,
+      "TypeScript": 19533,
+      "CSS": 4017,
+      "JavaScript": 964,
+      "HTML": 398
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 57.94,
+    "S_code": 115.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "svelte-files-repro",
+    "full_name": "TGlide/svelte-files-repro",
+    "html_url": "https://github.com/TGlide/svelte-files-repro",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1427,
+      "HTML": 346,
+      "TypeScript": 219,
+      "Svelte": 135
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.04,
+    "S_code": 2.08,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "aoc-2024",
+    "full_name": "TGlide/aoc-2024",
+    "html_url": "https://github.com/TGlide/aoc-2024",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 79231
+    },
+    "contributions_by_user": 40,
+    "contribution_score": 438.69,
+    "S_code": 77.37,
+    "S_social": 0,
+    "S_maint": 40
+  },
+  {
+    "name": "aoc-2024-web",
+    "full_name": "TGlide/aoc-2024-web",
+    "html_url": "https://github.com/TGlide/aoc-2024-web",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 14796,
+      "TypeScript": 5676,
+      "JavaScript": 1399,
+      "HTML": 470,
+      "CSS": 200
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 111.01,
+    "S_code": 22.01,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "torrust-website",
+    "full_name": "TGlide/torrust-website",
+    "html_url": "https://github.com/TGlide/torrust-website",
+    "description": "Public Website for Torrust Organisation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 233345,
+      "TypeScript": 29234,
+      "SCSS": 13601,
+      "JavaScript": 3548,
+      "HTML": 2091,
+      "CSS": 172
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 137.69,
+    "S_code": 275.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "logger",
+    "full_name": "TGlide/logger",
+    "html_url": "https://github.com/TGlide/logger",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1360,
+      "TypeScript": 830,
+      "HTML": 346,
+      "Svelte": 204,
+      "CSS": 95
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.38,
+    "S_code": 2.77,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "glove80-keymaps",
+    "full_name": "TGlide/glove80-keymaps",
+    "html_url": "https://github.com/TGlide/glove80-keymaps",
+    "description": "\"Glorious Engrammer\" keymap for Glove80 keyboard",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 60928,
+      "Ruby": 1815,
+      "Shell": 518,
+      "Dockerfile": 274
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 31.02,
+    "S_code": 62.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "amie-tw-test",
+    "full_name": "TGlide/amie-tw-test",
+    "html_url": "https://github.com/TGlide/amie-tw-test",
+    "description": "Test Repo for Amie",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Astro": 14661,
+      "JavaScript": 1367,
+      "CSS": 1327,
+      "TypeScript": 863
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.9,
+    "S_code": 17.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "appwrite-website",
+    "full_name": "TGlide/appwrite-website",
+    "html_url": "https://github.com/TGlide/appwrite-website",
+    "description": "The Appwrite website, docs and blog 🏠",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 853888,
+      "TypeScript": 169688,
+      "SCSS": 160137,
+      "JavaScript": 8692,
+      "CSS": 5398,
+      "HTML": 2197,
+      "Dockerfile": 1434
+    },
+    "contributions_by_user": 552,
+    "contribution_score": 6106.64,
+    "S_code": 1173.28,
+    "S_social": 0,
+    "S_maint": 552
+  },
+  {
+    "name": "console",
+    "full_name": "TGlide/console",
+    "html_url": "https://github.com/TGlide/console",
+    "description": "The Console that makes Appwrite tick from the browser  🖥",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 1858713,
+      "TypeScript": 401518,
+      "HTML": 4587,
+      "CSS": 4081,
+      "JavaScript": 3124
+    },
+    "contributions_by_user": 519,
+    "contribution_score": 6299.39,
+    "S_code": 2218.77,
+    "S_social": 0,
+    "S_maint": 519
+  },
+  {
+    "name": "key-7",
+    "full_name": "TGlide/key-7",
+    "html_url": "https://github.com/TGlide/key-7",
+    "description": "Command Center for V7",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vue": 19585,
+      "TypeScript": 16630,
+      "SCSS": 6052,
+      "HTML": 367
+    },
+    "contributions_by_user": 54,
+    "contribution_score": 560.82,
+    "S_code": 41.63,
+    "S_social": 0,
+    "S_maint": 54
+  },
+  {
+    "name": "hbyte",
+    "full_name": "TGlide/hbyte",
+    "html_url": "https://github.com/TGlide/hbyte",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 4760
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 52.32,
+    "S_code": 4.65,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "ol-reliable",
+    "full_name": "TGlide/ol-reliable",
+    "html_url": "https://github.com/TGlide/ol-reliable",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "advent-of-code-2023",
+    "full_name": "TGlide/advent-of-code-2023",
+    "html_url": "https://github.com/TGlide/advent-of-code-2023",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 19944,
+      "Python": 6297,
+      "Crystal": 1648
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 213.62,
+    "S_code": 27.24,
+    "S_social": 0,
+    "S_maint": 20
+  },
+  {
+    "name": "advent-of-svelte-2023",
+    "full_name": "TGlide/advent-of-svelte-2023",
+    "html_url": "https://github.com/TGlide/advent-of-svelte-2023",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 7278,
+      "TypeScript": 7148,
+      "JavaScript": 6922,
+      "CSS": 6235,
+      "HTML": 346
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 93.64,
+    "S_code": 27.27,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "advent-2023",
+    "full_name": "TGlide/advent-2023",
+    "html_url": "https://github.com/TGlide/advent-2023",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 6176,
+      "JavaScript": 6062,
+      "Astro": 2759,
+      "TypeScript": 2533,
+      "Svelte": 41
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 108.58,
+    "S_code": 17.16,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "agnostic-tree",
+    "full_name": "TGlide/agnostic-tree",
+    "html_url": "https://github.com/TGlide/agnostic-tree",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 47090,
+      "Astro": 6497,
+      "JavaScript": 6329,
+      "CSS": 6176,
+      "Svelte": 4920
+    },
+    "contributions_by_user": 27,
+    "contribution_score": 304.67,
+    "S_code": 69.35,
+    "S_social": 0,
+    "S_maint": 27
+  },
+  {
+    "name": "unocss",
+    "full_name": "TGlide/unocss",
+    "html_url": "https://github.com/TGlide/unocss",
+    "description": "The instant on-demand atomic CSS engine.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 944095,
+      "CSS": 137233,
+      "Vue": 75807,
+      "Svelte": 44937,
+      "JavaScript": 10783,
+      "HTML": 9228
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 596.72,
+    "S_code": 1193.44,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "posts",
+    "full_name": "TGlide/posts",
+    "html_url": "https://github.com/TGlide/posts",
+    "description": "Public drafts for my posts",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "melt-ui-playing-grounds",
+    "full_name": "TGlide/melt-ui-playing-grounds",
+    "html_url": "https://github.com/TGlide/melt-ui-playing-grounds",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1979,
+      "HTML": 329,
+      "TypeScript": 144,
+      "Svelte": 124,
+      "CSS": 114
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 41.31,
+    "S_code": 2.63,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "svelte-markdoc-preprocess",
+    "full_name": "TGlide/svelte-markdoc-preprocess",
+    "html_url": "https://github.com/TGlide/svelte-markdoc-preprocess",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 8014,
+      "JavaScript": 5494,
+      "Svelte": 1269,
+      "HTML": 591
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 17.5,
+    "S_code": 15.01,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "kit",
+    "full_name": "TGlide/kit",
+    "html_url": "https://github.com/TGlide/kit",
+    "description": "web development, streamlined",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 831468,
+      "TypeScript": 137383,
+      "Svelte": 66291,
+      "HTML": 3884,
+      "CSS": 2941,
+      "Shell": 1002
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 509.26,
+    "S_code": 1018.52,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "awesome-svelte",
+    "full_name": "TGlide/awesome-svelte",
+    "html_url": "https://github.com/TGlide/awesome-svelte",
+    "description": "⚡ A curated list of awesome Svelte resources",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "stargazer",
+    "full_name": "TGlide/stargazer",
+    "html_url": "https://github.com/TGlide/stargazer",
+    "description": "Your repo reached a stars milestone? Celebrate with a video of your stargazers!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 15637,
+      "CSS": 4813
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.99,
+    "S_code": 19.97,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nanoid",
+    "full_name": "TGlide/nanoid",
+    "html_url": "https://github.com/TGlide/nanoid",
+    "description": "A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 35235,
+      "HTML": 920
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.65,
+    "S_code": 35.31,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rs-playing-grounds",
+    "full_name": "TGlide/rs-playing-grounds",
+    "html_url": "https://github.com/TGlide/rs-playing-grounds",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1693,
+      "Svelte": 1510,
+      "HTML": 329,
+      "TypeScript": 144,
+      "CSS": 114
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 31.85,
+    "S_code": 3.7,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "crossfade-bug-svelte-repro",
+    "full_name": "TGlide/crossfade-bug-svelte-repro",
+    "html_url": "https://github.com/TGlide/crossfade-bug-svelte-repro",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 6085,
+      "Svelte": 2528,
+      "JavaScript": 1159,
+      "HTML": 329
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 14.93,
+    "S_code": 9.86,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "type-challenges",
+    "full_name": "TGlide/type-challenges",
+    "html_url": "https://github.com/TGlide/type-challenges",
+    "description": "Collection of TypeScript type challenges with online judge",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 149716,
+      "HTML": 2052,
+      "CSS": 1128,
+      "JavaScript": 820,
+      "Shell": 98
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 75.1,
+    "S_code": 150.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "appwrite-card-snippets",
+    "full_name": "TGlide/appwrite-card-snippets",
+    "html_url": "https://github.com/TGlide/appwrite-card-snippets",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 8927,
+      "JavaScript": 2142,
+      "TypeScript": 1442,
+      "HTML": 329,
+      "CSS": 153
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 56.34,
+    "S_code": 12.69,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "codingcat.dev",
+    "full_name": "TGlide/codingcat.dev",
+    "html_url": "https://github.com/TGlide/codingcat.dev",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 256786,
+      "TypeScript": 167987,
+      "CSS": 7435,
+      "JavaScript": 3974,
+      "HTML": 2451
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 214.18,
+    "S_code": 428.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sst",
+    "full_name": "TGlide/sst",
+    "html_url": "https://github.com/TGlide/sst",
+    "description": "💥 SST makes it easy to build full-stack serverless apps.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2719433,
+      "TypeScript": 2002785,
+      "CSS": 53452,
+      "HTML": 52296,
+      "Python": 22709,
+      "C#": 4897,
+      "Astro": 3741,
+      "Go": 2728,
+      "Dart": 2710,
+      "Shell": 1743,
+      "Svelte": 1172,
+      "Swift": 1158,
+      "Java": 769,
+      "F#": 697,
+      "Vue": 691,
+      "Dockerfile": 336,
+      "EJS": 264,
+      "Kotlin": 128,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2378.78,
+    "S_code": 4757.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "docs",
+    "full_name": "TGlide/docs",
+    "html_url": "https://github.com/TGlide/docs",
+    "description": "Astro documentation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 446190,
+      "Astro": 176315,
+      "JavaScript": 35454,
+      "CSS": 29512,
+      "HTML": 6731
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 338.97,
+    "S_code": 677.93,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "skeleton",
+    "full_name": "TGlide/skeleton",
+    "html_url": "https://github.com/TGlide/skeleton",
+    "description": "The UI toolkit for Svelte and Tailwind.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 662346,
+      "TypeScript": 135266,
+      "CSS": 92003,
+      "JavaScript": 22402,
+      "HTML": 738
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 445.68,
+    "S_code": 891.36,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pkg-dep-ts",
+    "full_name": "TGlide/pkg-dep-ts",
+    "html_url": "https://github.com/TGlide/pkg-dep-ts",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 5926
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 22.89,
+    "S_code": 5.79,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "sveltekit-typescript-showcase",
+    "full_name": "TGlide/sveltekit-typescript-showcase",
+    "html_url": "https://github.com/TGlide/sveltekit-typescript-showcase",
+    "description": "This repository shows how Svelte and SvelteKit work together with TypeScript.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 22709,
+      "TypeScript": 9901,
+      "JavaScript": 560,
+      "HTML": 325
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.35,
+    "S_code": 32.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "status-feed-html",
+    "full_name": "TGlide/status-feed-html",
+    "html_url": "https://github.com/TGlide/status-feed-html",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 662,
+      "TypeScript": 270
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.46,
+    "S_code": 0.91,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "status-feed-svelte",
+    "full_name": "TGlide/status-feed-svelte",
+    "html_url": "https://github.com/TGlide/status-feed-svelte",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 4442,
+      "JavaScript": 911,
+      "HTML": 348,
+      "TypeScript": 169
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 92.87,
+    "S_code": 5.73,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "svelte-uno-pollen",
+    "full_name": "TGlide/svelte-uno-pollen",
+    "html_url": "https://github.com/TGlide/svelte-uno-pollen",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 144806,
+      "Svelte": 17858,
+      "CSS": 11797,
+      "JavaScript": 5112,
+      "HTML": 329
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 157.84,
+    "S_code": 175.69,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "nlw-02-proffy",
+    "full_name": "TGlide/nlw-02-proffy",
+    "html_url": "https://github.com/TGlide/nlw-02-proffy",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 7510,
+      "TypeScript": 5291,
+      "HTML": 359
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.43,
+    "S_code": 12.85,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-learn-sf",
+    "full_name": "TGlide/react-learn-sf",
+    "html_url": "https://github.com/TGlide/react-learn-sf",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8464,
+      "HTML": 1708,
+      "CSS": 1133
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.52,
+    "S_code": 11.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "React-Learning",
+    "full_name": "TGlide/React-Learning",
+    "html_url": "https://github.com/TGlide/React-Learning",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 14181,
+      "CSS": 1778,
+      "HTML": 1717
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.63,
+    "S_code": 17.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "to-you-solid",
+    "full_name": "TGlide/to-you-solid",
+    "html_url": "https://github.com/TGlide/to-you-solid",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "SCSS": 21434,
+      "TypeScript": 17849,
+      "JavaScript": 1439
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 109.88,
+    "S_code": 39.77,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "vue-ts-weather",
+    "full_name": "TGlide/vue-ts-weather",
+    "html_url": "https://github.com/TGlide/vue-ts-weather",
+    "description": "Sample Vue weather app using Typescript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vue": 7660,
+      "TypeScript": 2030,
+      "CSS": 1222,
+      "HTML": 613,
+      "JavaScript": 507
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.88,
+    "S_code": 11.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ur-painel-covid",
+    "full_name": "TGlide/ur-painel-covid",
+    "html_url": "https://github.com/TGlide/ur-painel-covid",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vue": 23434,
+      "JavaScript": 16293,
+      "CSS": 2370,
+      "HTML": 640
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.87,
+    "S_code": 41.74,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "letterboxd-streaming-search",
+    "full_name": "TGlide/letterboxd-streaming-search",
+    "html_url": "https://github.com/TGlide/letterboxd-streaming-search",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vue": 12135,
+      "JavaScript": 8350,
+      "CSS": 1326,
+      "HTML": 613
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.95,
+    "S_code": 21.9,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vue-bulma-boilerplate",
+    "full_name": "TGlide/vue-bulma-boilerplate",
+    "html_url": "https://github.com/TGlide/vue-bulma-boilerplate",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5541,
+      "Vue": 4362,
+      "CSS": 942,
+      "HTML": 613
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.59,
+    "S_code": 11.19,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "old-tglidePortfolio",
+    "full_name": "TGlide/old-tglidePortfolio",
+    "html_url": "https://github.com/TGlide/old-tglidePortfolio",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vue": 15320,
+      "JavaScript": 2112,
+      "CSS": 1777,
+      "HTML": 549
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.65,
+    "S_code": 19.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ur-api-revamped",
+    "full_name": "TGlide/ur-api-revamped",
+    "html_url": "https://github.com/TGlide/ur-api-revamped",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 33768,
+      "Mako": 494
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.73,
+    "S_code": 33.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "netflix-letterboxd-api",
+    "full_name": "TGlide/netflix-letterboxd-api",
+    "html_url": "https://github.com/TGlide/netflix-letterboxd-api",
+    "description": "API for storing Netflix movies catalogue and viewing letterboxd info",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 28911
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.12,
+    "S_code": 28.23,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "StonePagamentos-DesafioInterface",
+    "full_name": "TGlide/StonePagamentos-DesafioInterface",
+    "html_url": "https://github.com/TGlide/StonePagamentos-DesafioInterface",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vue": 9163,
+      "HTML": 957,
+      "JavaScript": 792
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.33,
+    "S_code": 10.66,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "postcss-extend-rule",
+    "full_name": "TGlide/postcss-extend-rule",
+    "html_url": "https://github.com/TGlide/postcss-extend-rule",
+    "description": "Use the @extend at-rule and functional selectors in CSS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8571,
+      "CSS": 3777
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 16.03,
+    "S_code": 12.06,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "twitch-cards",
+    "full_name": "TGlide/twitch-cards",
+    "html_url": "https://github.com/TGlide/twitch-cards",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 7683,
+      "Svelte": 5612,
+      "JavaScript": 945,
+      "HTML": 267
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 57.08,
+    "S_code": 14.17,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "git-o-get",
+    "full_name": "TGlide/git-o-get",
+    "html_url": "https://github.com/TGlide/git-o-get",
+    "description": "Git O Get - Github Profile Stats, Language Graph, Social Card, Contribution Graph, Repository Stats, Graphs and more",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 48211,
+      "CSS": 343
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.71,
+    "S_code": 47.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ui-kit",
+    "full_name": "TGlide/ui-kit",
+    "html_url": "https://github.com/TGlide/ui-kit",
+    "description": "D2iQ UI Kit",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 862245,
+      "JavaScript": 23863,
+      "Dockerfile": 417,
+      "Shell": 307
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 433.02,
+    "S_code": 866.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "silk-cards",
+    "full_name": "TGlide/silk-cards",
+    "html_url": "https://github.com/TGlide/silk-cards",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 3827,
+      "TypeScript": 1949,
+      "CSS": 1725,
+      "JavaScript": 907,
+      "HTML": 267
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 24.24,
+    "S_code": 8.47,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "pathfinder",
+    "full_name": "TGlide/pathfinder",
+    "html_url": "https://github.com/TGlide/pathfinder",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 2711,
+      "TypeScript": 1838,
+      "CSS": 1725,
+      "JavaScript": 907,
+      "HTML": 267
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 23.64,
+    "S_code": 7.27,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "storyblok-rich-text-react-renderer",
+    "full_name": "TGlide/storyblok-rich-text-react-renderer",
+    "html_url": "https://github.com/TGlide/storyblok-rich-text-react-renderer",
+    "description": "A React renderer for Storyblok rich text content",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5650
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.76,
+    "S_code": 5.52,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "glides-app",
+    "full_name": "TGlide/glides-app",
+    "html_url": "https://github.com/TGlide/glides-app",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 60459,
+      "JavaScript": 1307
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 320.16,
+    "S_code": 60.32,
+    "S_social": 0,
+    "S_maint": 29
+  },
+  {
+    "name": "svelte-preprocess",
+    "full_name": "TGlide/svelte-preprocess",
+    "html_url": "https://github.com/TGlide/svelte-preprocess",
+    "description": "A ✨ magical ✨ Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 130003,
+      "JavaScript": 361
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 63.65,
+    "S_code": 127.31,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "weather-app",
+    "full_name": "TGlide/weather-app",
+    "html_url": "https://github.com/TGlide/weather-app",
+    "description": "A Progressive Web App for displaying weather information",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 56065,
+      "SCSS": 11220,
+      "HTML": 1723,
+      "CSS": 366
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 43.87,
+    "S_code": 67.75,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "svelte-kzero-speech-bubble",
+    "full_name": "TGlide/svelte-kzero-speech-bubble",
+    "html_url": "https://github.com/TGlide/svelte-kzero-speech-bubble",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 12088,
+      "Svelte": 7982,
+      "JavaScript": 1138,
+      "SCSS": 311,
+      "HTML": 284
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 140.65,
+    "S_code": 21.29,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "Warrior-s-Tenacity",
+    "full_name": "TGlide/Warrior-s-Tenacity",
+    "html_url": "https://github.com/TGlide/Warrior-s-Tenacity",
+    "description": "Arcade Game",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 78019
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 58.1,
+    "S_code": 76.19,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "scrolling-animation-prototype",
+    "full_name": "TGlide/scrolling-animation-prototype",
+    "html_url": "https://github.com/TGlide/scrolling-animation-prototype",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 11746,
+      "Svelte": 6705,
+      "TypeScript": 907,
+      "JavaScript": 838,
+      "HTML": 570
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 60.14,
+    "S_code": 20.28,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "svelte-css-ui-prototype",
+    "full_name": "TGlide/svelte-css-ui-prototype",
+    "html_url": "https://github.com/TGlide/svelte-css-ui-prototype",
+    "description": "Prototype of a UI library in svelte",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Svelte": 17266,
+      "CSS": 6122,
+      "TypeScript": 3313,
+      "JavaScript": 941,
+      "HTML": 633
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 173.81,
+    "S_code": 27.61,
+    "S_social": 0,
+    "S_maint": 16
+  },
+  {
+    "name": "storyblok-integration-example",
+    "full_name": "TGlide/storyblok-integration-example",
+    "html_url": "https://github.com/TGlide/storyblok-integration-example",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vue": 10062,
+      "HTML": 924,
+      "JavaScript": 699
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 15.71,
+    "S_code": 11.41,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "react-native-timezones",
+    "full_name": "TGlide/react-native-timezones",
+    "html_url": "https://github.com/TGlide/react-native-timezones",
+    "description": "A Simple react native module to get Timezone of the mobile",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 1889,
+      "Ruby": 1208,
+      "Objective-C": 972,
+      "JavaScript": 136
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.05,
+    "S_code": 4.11,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "Project-Netflix",
+    "full_name": "TGlide/Project-Netflix",
+    "html_url": "https://github.com/TGlide/Project-Netflix",
+    "description": "Copy of Netflix home page",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8983,
+      "CSS": 3659,
+      "HTML": 1721
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.01,
+    "S_code": 14.03,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "README-TEMPLATE",
+    "full_name": "TGlide/README-TEMPLATE",
+    "html_url": "https://github.com/TGlide/README-TEMPLATE",
+    "description": "My go-to readme template for Github repositories",
+    "stars": 0,
+    "forks": 2,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 8.0,
+    "S_code": 0.0,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "react-native-wheel-scrollview-picker",
+    "full_name": "TGlide/react-native-wheel-scrollview-picker",
+    "html_url": "https://github.com/TGlide/react-native-wheel-scrollview-picker",
+    "description": "A pure js picker for React Native",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 6419,
+      "JavaScript": 5758
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.95,
+    "S_code": 11.89,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "theme-ui-study",
+    "full_name": "TGlide/theme-ui-study",
+    "html_url": "https://github.com/TGlide/theme-ui-study",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 9739
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.76,
+    "S_code": 9.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "wunder.css",
+    "full_name": "TGlide/wunder.css",
+    "html_url": "https://github.com/TGlide/wunder.css",
+    "description": "A showcase of pure CSS projects (college assignment)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 21232
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.37,
+    "S_code": 20.73,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "kahoot-clone",
+    "full_name": "TGlide/kahoot-clone",
+    "html_url": "https://github.com/TGlide/kahoot-clone",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2839
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.39,
+    "S_code": 2.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "movie-search",
+    "full_name": "TGlide/movie-search",
+    "html_url": "https://github.com/TGlide/movie-search",
+    "description": "A Next.js web app to check if your Letterboxd list movies are on Netflix",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 17650
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.62,
+    "S_code": 17.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "next-chakra-template",
+    "full_name": "TGlide/next-chakra-template",
+    "html_url": "https://github.com/TGlide/next-chakra-template",
+    "description": "A Next.js template using Chakra UI and typescript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2847
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.39,
+    "S_code": 2.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "movie",
+    "full_name": "TGlide/movie",
+    "html_url": "https://github.com/TGlide/movie",
+    "description": "A CLI for getting information about movies and comparing two movies",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2817
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.38,
+    "S_code": 2.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "simresolvemos-frontend",
+    "full_name": "TGlide/simresolvemos-frontend",
+    "html_url": "https://github.com/TGlide/simresolvemos-frontend",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 96748,
+      "CSS": 18048,
+      "JavaScript": 4485
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 58.24,
+    "S_code": 116.49,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ferdi",
+    "full_name": "TGlide/ferdi",
+    "html_url": "https://github.com/TGlide/ferdi",
+    "description": "🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 843949,
+      "TypeScript": 84249,
+      "SCSS": 59922,
+      "HTML": 2529,
+      "Shell": 644
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 484.03,
+    "S_code": 968.06,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sawit-server",
+    "full_name": "TGlide/sawit-server",
+    "html_url": "https://github.com/TGlide/sawit-server",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 51788
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 25.29,
+    "S_code": 50.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sawit-web",
+    "full_name": "TGlide/sawit-web",
+    "html_url": "https://github.com/TGlide/sawit-web",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 32151
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.7,
+    "S_code": 31.4,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "TGlide.github.io",
+    "full_name": "TGlide/TGlide.github.io",
+    "html_url": "https://github.com/TGlide/TGlide.github.io",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 28050,
+      "HTML": 1726
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.54,
+    "S_code": 29.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "violent-python3",
+    "full_name": "TGlide/violent-python3",
+    "html_url": "https://github.com/TGlide/violent-python3",
+    "description": "Source code for the book \"Violent Python\" by TJ O'Connor. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involving the implementation of deprecated libraries.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 96135
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 46.94,
+    "S_code": 93.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "PizzaMenu",
+    "full_name": "TGlide/PizzaMenu",
+    "html_url": "https://github.com/TGlide/PizzaMenu",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 22269
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.87,
+    "S_code": 21.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "PE",
+    "full_name": "TGlide/PE",
+    "html_url": "https://github.com/TGlide/PE",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 15400
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.52,
+    "S_code": 15.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tmp_poo",
+    "full_name": "TGlide/tmp_poo",
+    "html_url": "https://github.com/TGlide/tmp_poo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 13693
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.69,
+    "S_code": 13.37,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "eyePlant",
+    "full_name": "TGlide/eyePlant",
+    "html_url": "https://github.com/TGlide/eyePlant",
+    "description": "Plant monitoring system",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Project-Health-WebApp",
+    "full_name": "TGlide/Project-Health-WebApp",
+    "html_url": "https://github.com/TGlide/Project-Health-WebApp",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 60996,
+      "Python": 33777,
+      "JavaScript": 10953,
+      "CSS": 1459
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 52.34,
+    "S_code": 104.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "StonePagamentos-DesafioAPI",
+    "full_name": "TGlide/StonePagamentos-DesafioAPI",
+    "html_url": "https://github.com/TGlide/StonePagamentos-DesafioAPI",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 8748
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.27,
+    "S_code": 8.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "POO-UFF-2019.1",
+    "full_name": "TGlide/POO-UFF-2019.1",
+    "html_url": "https://github.com/TGlide/POO-UFF-2019.1",
+    "description": "Repositório contendo programas criados durante o estudo de POO na UFF em 2019.1",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 18746,
+      "HTML": 97
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.2,
+    "S_code": 18.4,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Space-Invaders-PyClone",
+    "full_name": "TGlide/Space-Invaders-PyClone",
+    "html_url": "https://github.com/TGlide/Space-Invaders-PyClone",
+    "description": "Space Invaders Clone made with Pygame",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 42547
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.77,
+    "S_code": 41.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "HahOrNahBot",
+    "full_name": "TGlide/HahOrNahBot",
+    "html_url": "https://github.com/TGlide/HahOrNahBot",
+    "description": "Telegram bot to display random jokes submitted by users",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 49822,
+      "Mako": 494
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 24.57,
+    "S_code": 49.14,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Scripts",
+    "full_name": "TGlide/Scripts",
+    "html_url": "https://github.com/TGlide/Scripts",
+    "description": "Useful Python/Perl Scripts",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 26683,
+      "Shell": 1017,
+      "JavaScript": 421
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.73,
+    "S_code": 27.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "SuperMario",
+    "full_name": "TGlide/SuperMario",
+    "html_url": "https://github.com/TGlide/SuperMario",
+    "description": "An implementation of iconic SuperMario Game for Terminal",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 26723
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.05,
+    "S_code": 26.1,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "search-deals-playstation-telegram-bot",
+    "full_name": "TGlide/search-deals-playstation-telegram-bot",
+    "html_url": "https://github.com/TGlide/search-deals-playstation-telegram-bot",
+    "description": "Bot do Telegram para a Playstation Store em português (PlaystationStore)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 6165
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.01,
+    "S_code": 6.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "markov-bot",
+    "full_name": "TGlide/markov-bot",
+    "html_url": "https://github.com/TGlide/markov-bot",
+    "description": "a bot that writes like you do",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4453,
+      "Makefile": 43
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.2,
+    "S_code": 4.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Pong-PyClone",
+    "full_name": "TGlide/Pong-PyClone",
+    "html_url": "https://github.com/TGlide/Pong-PyClone",
+    "description": "Pong clone made with PPlay",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 40500
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.78,
+    "S_code": 39.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Youtube-MP3-Playlist-Downloader",
+    "full_name": "TGlide/Youtube-MP3-Playlist-Downloader",
+    "html_url": "https://github.com/TGlide/Youtube-MP3-Playlist-Downloader",
+    "description": "Simple GUI interface which downloads all videos from a given playlist as MP3 files",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Snake-JS-Port",
+    "full_name": "TGlide/Snake-JS-Port",
+    "html_url": "https://github.com/TGlide/Snake-JS-Port",
+    "description": "A port of snake written in HTML5 and JS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 9257
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.52,
+    "S_code": 9.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "InstaPy",
+    "full_name": "TGlide/InstaPy",
+    "html_url": "https://github.com/TGlide/InstaPy",
+    "description": "📷 Instagram Bot - Like/Comment/Follow Automation Script",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 97341,
+      "Shell": 1840,
+      "PowerShell": 1267
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 49.05,
+    "S_code": 98.09,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

@@ -1,0 +1,4639 @@
+[
+  {
+    "name": "Nashpy",
+    "full_name": "drvinceknight/Nashpy",
+    "html_url": "https://github.com/drvinceknight/Nashpy",
+    "description": "A python library for 2 player games.",
+    "stars": 362,
+    "forks": 71,
+    "languages": {
+      "Python": 287715,
+      "TeX": 1714
+    },
+    "contributions_by_user": 287,
+    "contribution_score": 4019.32,
+    "S_code": 282.65,
+    "S_social": 504,
+    "S_maint": 287
+  },
+  {
+    "name": "Python-Mathematics-Handbook",
+    "full_name": "drvinceknight/Python-Mathematics-Handbook",
+    "html_url": "https://github.com/drvinceknight/Python-Mathematics-Handbook",
+    "description": "A set of notebooks for an introduction to Python for Mathematicians.",
+    "stars": 175,
+    "forks": 89,
+    "languages": {
+      "Jupyter Notebook": 183314,
+      "Python": 796
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 1035.9,
+    "S_code": 179.79,
+    "S_social": 353,
+    "S_maint": 24
+  },
+  {
+    "name": "amwoss",
+    "full_name": "drvinceknight/amwoss",
+    "html_url": "https://github.com/drvinceknight/amwoss",
+    "description": "Applied mathematics problems with Open Source Software: Operational Research with Python and R.",
+    "stars": 120,
+    "forks": 10,
+    "languages": {
+      "TeX": 257693,
+      "Python": 22898
+    },
+    "contributions_by_user": 45,
+    "contribution_score": 867.01,
+    "S_code": 274.01,
+    "S_social": 140,
+    "S_maint": 45
+  },
+  {
+    "name": "Simulating_Queues",
+    "full_name": "drvinceknight/Simulating_Queues",
+    "html_url": "https://github.com/drvinceknight/Simulating_Queues",
+    "description": "This is some old legacy code: you should use ciw: https://github.com/ciwpython/ciw",
+    "stars": 43,
+    "forks": 39,
+    "languages": {
+      "Python": 34459
+    },
+    "contributions_by_user": 57,
+    "contribution_score": 828.83,
+    "S_code": 33.65,
+    "S_social": 121,
+    "S_maint": 57
+  },
+  {
+    "name": "gt",
+    "full_name": "drvinceknight/gt",
+    "html_url": "https://github.com/drvinceknight/gt",
+    "description": "Source files for my course on Game Theory.",
+    "stars": 35,
+    "forks": 13,
+    "languages": {
+      "Jupyter Notebook": 1994826,
+      "HTML": 1295027,
+      "TeX": 146273,
+      "Python": 18022,
+      "Ruby": 1043
+    },
+    "contributions_by_user": 455,
+    "contribution_score": 6359.1,
+    "S_code": 3374.21,
+    "S_social": 61,
+    "S_maint": 455
+  },
+  {
+    "name": "pfm",
+    "full_name": "drvinceknight/pfm",
+    "html_url": "https://github.com/drvinceknight/pfm",
+    "description": "Python for Mathematics: A book aimed at undergraduate mathematicians learning python",
+    "stars": 25,
+    "forks": 6,
+    "languages": {
+      "TeX": 329937,
+      "Python": 27421,
+      "Makefile": 479
+    },
+    "contributions_by_user": 163,
+    "contribution_score": 1878.73,
+    "S_code": 349.45,
+    "S_social": 37,
+    "S_maint": 163
+  },
+  {
+    "name": "Gamepy",
+    "full_name": "drvinceknight/Gamepy",
+    "html_url": "https://github.com/drvinceknight/Gamepy",
+    "description": "PLEASE DO NOT USE THIS REPOSITORY - IT IS OUTDATED AND NOT VERY GOOD",
+    "stars": 23,
+    "forks": 9,
+    "languages": {
+      "HTML": 10511,
+      "Python": 9706
+    },
+    "contributions_by_user": 72,
+    "contribution_score": 811.87,
+    "S_code": 19.74,
+    "S_social": 41,
+    "S_maint": 72
+  },
+  {
+    "name": "Year_3_game_theory_course",
+    "full_name": "drvinceknight/Year_3_game_theory_course",
+    "html_url": "https://github.com/drvinceknight/Year_3_game_theory_course",
+    "description": "This repository contains source code for a game theory course.",
+    "stars": 18,
+    "forks": 13,
+    "languages": {
+      "TeX": 386885,
+      "HTML": 216147,
+      "Python": 28534,
+      "Jupyter Notebook": 27642,
+      "Makefile": 938,
+      "Ruby": 73
+    },
+    "contributions_by_user": 628,
+    "contribution_score": 6690.37,
+    "S_code": 644.75,
+    "S_social": 44,
+    "S_maint": 628
+  },
+  {
+    "name": "EdinburghFringeJokes",
+    "full_name": "drvinceknight/EdinburghFringeJokes",
+    "html_url": "https://github.com/drvinceknight/EdinburghFringeJokes",
+    "description": "A repo for a blog post looking at the Edinburgh Fringe Festival jokes",
+    "stars": 17,
+    "forks": 14,
+    "languages": {},
+    "contributions_by_user": 14,
+    "contribution_score": 230.0,
+    "S_code": 0.0,
+    "S_social": 45,
+    "S_maint": 14
+  },
+  {
+    "name": "Axelrod",
+    "full_name": "drvinceknight/Axelrod",
+    "html_url": "https://github.com/drvinceknight/Axelrod",
+    "description": "A repository used to reproduce Axelrod's tournament",
+    "stars": 16,
+    "forks": 20,
+    "languages": {
+      "Python": 171077
+    },
+    "contributions_by_user": 312,
+    "contribution_score": 3315.53,
+    "S_code": 167.07,
+    "S_social": 56,
+    "S_maint": 312
+  },
+  {
+    "name": "md2reveal",
+    "full_name": "drvinceknight/md2reveal",
+    "html_url": "https://github.com/drvinceknight/md2reveal",
+    "description": "A script to easily convert (simple) markdown to reveal html.",
+    "stars": 16,
+    "forks": 6,
+    "languages": {
+      "Python": 4561
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 88.23,
+    "S_code": 4.45,
+    "S_social": 28,
+    "S_maint": 3
+  },
+  {
+    "name": "Monte_Carlo_Simulation_for_Estimating_pi",
+    "full_name": "drvinceknight/Monte_Carlo_Simulation_for_Estimating_pi",
+    "html_url": "https://github.com/drvinceknight/Monte_Carlo_Simulation_for_Estimating_pi",
+    "description": "Repo for a script to make rain drops in a field so as to estimate pi.",
+    "stars": 13,
+    "forks": 15,
+    "languages": {
+      "Python": 4475
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 158.19,
+    "S_code": 4.37,
+    "S_social": 43,
+    "S_maint": 7
+  },
+  {
+    "name": "cfm",
+    "full_name": "drvinceknight/cfm",
+    "html_url": "https://github.com/drvinceknight/cfm",
+    "description": "Repository for a Python course for university Mathematics students",
+    "stars": 11,
+    "forks": 8,
+    "languages": {
+      "Jupyter Notebook": 1235468,
+      "HTML": 908659,
+      "TeX": 121475,
+      "Python": 14156,
+      "Ruby": 1043
+    },
+    "contributions_by_user": 495,
+    "contribution_score": 6117.67,
+    "S_code": 2227.34,
+    "S_social": 27,
+    "S_maint": 495
+  },
+  {
+    "name": "ertai",
+    "full_name": "drvinceknight/ertai",
+    "html_url": "https://github.com/drvinceknight/ertai",
+    "description": "Mathematical modelling of Magic the Gathering ",
+    "stars": 9,
+    "forks": 4,
+    "languages": {
+      "Python": 13656
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 180.67,
+    "S_code": 13.34,
+    "S_social": 17,
+    "S_maint": 14
+  },
+  {
+    "name": "DataScienceingDogRates",
+    "full_name": "drvinceknight/DataScienceingDogRates",
+    "html_url": "https://github.com/drvinceknight/DataScienceingDogRates",
+    "description": "A repo with some code to analyse dog rates ",
+    "stars": 8,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 178125,
+      "Python": 1132
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 193.53,
+    "S_code": 175.06,
+    "S_social": 8,
+    "S_maint": 9
+  },
+  {
+    "name": "unpeudemath",
+    "full_name": "drvinceknight/unpeudemath",
+    "html_url": "https://github.com/drvinceknight/unpeudemath",
+    "description": "Repository for my blog",
+    "stars": 7,
+    "forks": 8,
+    "languages": {
+      "Jupyter Notebook": 1281632,
+      "Python": 25441,
+      "HTML": 13482,
+      "CSS": 11086,
+      "TeX": 5064
+    },
+    "contributions_by_user": 428,
+    "contribution_score": 4978.69,
+    "S_code": 1305.38,
+    "S_social": 23,
+    "S_maint": 428
+  },
+  {
+    "name": "oop",
+    "full_name": "drvinceknight/oop",
+    "html_url": "https://github.com/drvinceknight/oop",
+    "description": "A jupyter notebook for the teaching of basic Python and OOP",
+    "stars": 7,
+    "forks": 6,
+    "languages": {
+      "Jupyter Notebook": 24341
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 99.89,
+    "S_code": 23.77,
+    "S_social": 19,
+    "S_maint": 5
+  },
+  {
+    "name": "sklDj",
+    "full_name": "drvinceknight/sklDj",
+    "html_url": "https://github.com/drvinceknight/sklDj",
+    "description": "A django app as an interface to scikit-learn",
+    "stars": 7,
+    "forks": 7,
+    "languages": {
+      "Python": 12877,
+      "HTML": 3307,
+      "Shell": 88,
+      "CSS": 24
+    },
+    "contributions_by_user": 43,
+    "contribution_score": 479.96,
+    "S_code": 15.91,
+    "S_social": 21,
+    "S_maint": 43
+  },
+  {
+    "name": "Assigning_Fair_Individual_Marks_To_Group_Projects",
+    "full_name": "drvinceknight/Assigning_Fair_Individual_Marks_To_Group_Projects",
+    "html_url": "https://github.com/drvinceknight/Assigning_Fair_Individual_Marks_To_Group_Projects",
+    "description": "Repo for the assignment of marks using Cooperative game theory.",
+    "stars": 7,
+    "forks": 6,
+    "languages": {
+      "CSS": 91111,
+      "JavaScript": 61037,
+      "Python": 3284,
+      "TeX": 1705,
+      "F#": 1654
+    },
+    "contributions_by_user": 31,
+    "contribution_score": 425.53,
+    "S_code": 155.07,
+    "S_social": 19,
+    "S_maint": 31
+  },
+  {
+    "name": "ghtalks",
+    "full_name": "drvinceknight/ghtalks",
+    "html_url": "https://github.com/drvinceknight/ghtalks",
+    "description": "Organise and share your slide decks",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "Python": 10957
+    },
+    "contributions_by_user": 75,
+    "contribution_score": 769.35,
+    "S_code": 10.7,
+    "S_social": 7,
+    "S_maint": 75
+  },
+  {
+    "name": "TestingPaper",
+    "full_name": "drvinceknight/TestingPaper",
+    "html_url": "https://github.com/drvinceknight/TestingPaper",
+    "description": null,
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 2591974,
+      "TeX": 16480,
+      "CSS": 10772,
+      "HTML": 6011,
+      "Python": 1290,
+      "Makefile": 937,
+      "Shell": 640,
+      "Smarty": 193
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 1481.35,
+    "S_code": 2566.7,
+    "S_social": 4,
+    "S_maint": 19
+  },
+  {
+    "name": "pandocipy",
+    "full_name": "drvinceknight/pandocipy",
+    "html_url": "https://github.com/drvinceknight/pandocipy",
+    "description": "Create pdf, html and docx versions of all md files in a directory",
+    "stars": 4,
+    "forks": 3,
+    "languages": {
+      "Python": 1154
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 70.56,
+    "S_code": 1.13,
+    "S_social": 10,
+    "S_maint": 5
+  },
+  {
+    "name": "video-editing-process",
+    "full_name": "drvinceknight/video-editing-process",
+    "html_url": "https://github.com/drvinceknight/video-editing-process",
+    "description": "How I prepare teaching videos",
+    "stars": 3,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 26.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "Game-Theory-and-Python",
+    "full_name": "drvinceknight/Game-Theory-and-Python",
+    "html_url": "https://github.com/drvinceknight/Game-Theory-and-Python",
+    "description": "Game Theory and Python, a workshop investigating repeated games using the prisoner's dilemma",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 44740,
+      "Python": 1329,
+      "Shell": 49
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 28.52,
+    "S_code": 45.04,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "agent-based-learn",
+    "full_name": "drvinceknight/agent-based-learn",
+    "html_url": "https://github.com/drvinceknight/agent-based-learn",
+    "description": "A library for agent based learning of normal form games",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Python": 44607
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 171.78,
+    "S_code": 43.56,
+    "S_social": 5,
+    "S_maint": 14
+  },
+  {
+    "name": "drvinceknight.github.com",
+    "full_name": "drvinceknight/drvinceknight.github.com",
+    "html_url": "https://github.com/drvinceknight/drvinceknight.github.com",
+    "description": "Html code for my site",
+    "stars": 2,
+    "forks": 5,
+    "languages": {
+      "CSS": 62246,
+      "TeX": 31828,
+      "Jupyter Notebook": 21287,
+      "Ruby": 1047,
+      "HTML": 398
+    },
+    "contributions_by_user": 484,
+    "contribution_score": 4921.03,
+    "S_code": 114.07,
+    "S_social": 12,
+    "S_maint": 484
+  },
+  {
+    "name": "testing_for_ZD",
+    "full_name": "drvinceknight/testing_for_ZD",
+    "html_url": "https://github.com/drvinceknight/testing_for_ZD",
+    "description": "Recognising zero determinant strategies: code for a paper under review (pre print: https://arxiv.org/abs/1904.00973).",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 150971,
+      "TeX": 100771,
+      "Python": 59807,
+      "Shell": 1667
+    },
+    "contributions_by_user": 113,
+    "contribution_score": 1290.94,
+    "S_code": 305.88,
+    "S_social": 4,
+    "S_maint": 113
+  },
+  {
+    "name": "blog",
+    "full_name": "drvinceknight/blog",
+    "html_url": "https://github.com/drvinceknight/blog",
+    "description": "A blog about programming (usually scientific python), mathematics (usually game theory) and learning (usually student centred pedagogic approaches).",
+    "stars": 2,
+    "forks": 3,
+    "languages": {
+      "Jupyter Notebook": 422873,
+      "CSS": 55531,
+      "Python": 5354,
+      "HTML": 3952,
+      "TeX": 1581,
+      "R": 253
+    },
+    "contributions_by_user": 63,
+    "contribution_score": 885.04,
+    "S_code": 478.07,
+    "S_social": 8,
+    "S_maint": 63
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "drvinceknight/dotfiles",
+    "html_url": "https://github.com/drvinceknight/dotfiles",
+    "description": "A repo with my dotfiles",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Shell": 2807
+    },
+    "contributions_by_user": 39,
+    "contribution_score": 395.37,
+    "S_code": 2.74,
+    "S_social": 2,
+    "S_maint": 39
+  },
+  {
+    "name": "dwys",
+    "full_name": "drvinceknight/dwys",
+    "html_url": "https://github.com/drvinceknight/dwys",
+    "description": "Language agnostic doctester",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 5567
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 156.72,
+    "S_code": 5.44,
+    "S_social": 2,
+    "S_maint": 15
+  },
+  {
+    "name": "tex",
+    "full_name": "drvinceknight/tex",
+    "html_url": "https://github.com/drvinceknight/tex",
+    "description": "A LaTeX tutorial based on a set of minimal examples.",
+    "stars": 2,
+    "forks": 2,
+    "languages": {
+      "HTML": 53689,
+      "TeX": 8650,
+      "CSS": 6942,
+      "Python": 2919
+    },
+    "contributions_by_user": 36,
+    "contribution_score": 407.25,
+    "S_code": 70.51,
+    "S_social": 6,
+    "S_maint": 36
+  },
+  {
+    "name": "coord_coop",
+    "full_name": "drvinceknight/coord_coop",
+    "html_url": "https://github.com/drvinceknight/coord_coop",
+    "description": "A library to replicate the coordinated cooperation game presented in https://www.frontiersin.org/articles/10.3389/fevo.2018.00062/full",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 10826
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 129.29,
+    "S_code": 10.57,
+    "S_social": 2,
+    "S_maint": 12
+  },
+  {
+    "name": "list-of-dev-things",
+    "full_name": "drvinceknight/list-of-dev-things",
+    "html_url": "https://github.com/drvinceknight/list-of-dev-things",
+    "description": "A repository containing lists of concepts, tutorials etc to be able to do development: aimed at beginners.",
+    "stars": 2,
+    "forks": 8,
+    "languages": {},
+    "contributions_by_user": 32,
+    "contribution_score": 356.0,
+    "S_code": 0.0,
+    "S_social": 18,
+    "S_maint": 32
+  },
+  {
+    "name": "two_thirds_of_the_average_game",
+    "full_name": "drvinceknight/two_thirds_of_the_average_game",
+    "html_url": "https://github.com/drvinceknight/two_thirds_of_the_average_game",
+    "description": "A repo with some material to help run a two thirds of the average game.",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Python": 13856
+    },
+    "contributions_by_user": 60,
+    "contribution_score": 614.77,
+    "S_code": 13.53,
+    "S_social": 4,
+    "S_maint": 60
+  },
+  {
+    "name": "Intro_to_Object_Orientated_Programming_With_Python",
+    "full_name": "drvinceknight/Intro_to_Object_Orientated_Programming_With_Python",
+    "html_url": "https://github.com/drvinceknight/Intro_to_Object_Orientated_Programming_With_Python",
+    "description": "This repository contains the source files for a 1 day introduction to object orientated programming course which is taught using Python.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "CSS": 75894,
+      "JavaScript": 59804,
+      "Python": 34436,
+      "F#": 1654
+    },
+    "contributions_by_user": 71,
+    "contribution_score": 797.88,
+    "S_code": 167.76,
+    "S_social": 2,
+    "S_maint": 71
+  },
+  {
+    "name": "LaTeXFilesWordCount",
+    "full_name": "drvinceknight/LaTeXFilesWordCount",
+    "html_url": "https://github.com/drvinceknight/LaTeXFilesWordCount",
+    "description": "Script to recursively word count all tex files in all subdirectories.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 3138
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 155.53,
+    "S_code": 3.06,
+    "S_social": 2,
+    "S_maint": 15
+  },
+  {
+    "name": "Shut_The_Box",
+    "full_name": "drvinceknight/Shut_The_Box",
+    "html_url": "https://github.com/drvinceknight/Shut_The_Box",
+    "description": "Repo with code relevant to the Shut The Box Parlour game",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 11048,
+      "R": 2451,
+      "Shell": 74
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 240.63,
+    "S_code": 13.25,
+    "S_social": 2,
+    "S_maint": 23
+  },
+  {
+    "name": "LaTeX_Course",
+    "full_name": "drvinceknight/LaTeX_Course",
+    "html_url": "https://github.com/drvinceknight/LaTeX_Course",
+    "description": "Source files for an intro to LaTeX course",
+    "stars": 2,
+    "forks": 3,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 56.0,
+    "S_code": 0.0,
+    "S_social": 8,
+    "S_maint": 4
+  },
+  {
+    "name": "Markov_Chains",
+    "full_name": "drvinceknight/Markov_Chains",
+    "html_url": "https://github.com/drvinceknight/Markov_Chains",
+    "description": "This contains sources files for my Markov Chain notes.",
+    "stars": 2,
+    "forks": 2,
+    "languages": {
+      "Python": 1824
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 212.89,
+    "S_code": 1.78,
+    "S_social": 6,
+    "S_maint": 20
+  },
+  {
+    "name": "gtb",
+    "full_name": "drvinceknight/gtb",
+    "html_url": "https://github.com/drvinceknight/gtb",
+    "description": "A Game Theory text book",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "TeX": 108766,
+      "Python": 8740
+    },
+    "contributions_by_user": 44,
+    "contribution_score": 503.38,
+    "S_code": 114.75,
+    "S_social": 3,
+    "S_maint": 44
+  },
+  {
+    "name": "HeterogeneousAmbulanceFleetAllocations",
+    "full_name": "drvinceknight/HeterogeneousAmbulanceFleetAllocations",
+    "html_url": "https://github.com/drvinceknight/HeterogeneousAmbulanceFleetAllocations",
+    "description": "Code for optimising ambulance allocation",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 711318,
+      "TeX": 325713,
+      "Python": 131169
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 782.41,
+    "S_code": 1140.82,
+    "S_social": 1,
+    "S_maint": 21
+  },
+  {
+    "name": "hphp",
+    "full_name": "drvinceknight/hphp",
+    "html_url": "https://github.com/drvinceknight/hphp",
+    "description": "A research paper on intergenerational trauma",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 369702,
+      "Python": 34975,
+      "TeX": 77
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 283.63,
+    "S_code": 395.27,
+    "S_social": 3,
+    "S_maint": 8
+  },
+  {
+    "name": "nbchkr",
+    "full_name": "drvinceknight/nbchkr",
+    "html_url": "https://github.com/drvinceknight/nbchkr",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Python": 40489,
+      "Jupyter Notebook": 22502
+    },
+    "contributions_by_user": 35,
+    "contribution_score": 386.76,
+    "S_code": 61.51,
+    "S_social": 3,
+    "S_maint": 35
+  },
+  {
+    "name": "speak",
+    "full_name": "drvinceknight/speak",
+    "html_url": "https://github.com/drvinceknight/speak",
+    "description": "A repository for my talks ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 5809980,
+      "Jupyter Notebook": 5437974,
+      "JavaScript": 3329401,
+      "CSS": 1862061,
+      "SCSS": 823138,
+      "TeX": 800333,
+      "Python": 33014,
+      "Sage": 702,
+      "Shell": 29
+    },
+    "contributions_by_user": 34,
+    "contribution_score": 9178.25,
+    "S_code": 17672.49,
+    "S_social": 1,
+    "S_maint": 34
+  },
+  {
+    "name": "pop",
+    "full_name": "drvinceknight/pop",
+    "html_url": "https://github.com/drvinceknight/pop",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 5012,
+      "HTML": 3279
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 126.05,
+    "S_code": 8.1,
+    "S_social": 1,
+    "S_maint": 12
+  },
+  {
+    "name": "sal",
+    "full_name": "drvinceknight/sal",
+    "html_url": "https://github.com/drvinceknight/sal",
+    "description": "Generate the transition matrix for snakes 🐍 and ladders ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 882
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 92.43,
+    "S_code": 0.86,
+    "S_social": 1,
+    "S_maint": 9
+  },
+  {
+    "name": "matching",
+    "full_name": "drvinceknight/matching",
+    "html_url": "https://github.com/drvinceknight/matching",
+    "description": "A package for solving matching games.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 129288,
+      "TeX": 2533
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 66.37,
+    "S_code": 128.73,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "pupcoach",
+    "full_name": "drvinceknight/pupcoach",
+    "html_url": "https://github.com/drvinceknight/pupcoach",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 8516
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 56.16,
+    "S_code": 8.32,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "ConferenceScheduler",
+    "full_name": "drvinceknight/ConferenceScheduler",
+    "html_url": "https://github.com/drvinceknight/ConferenceScheduler",
+    "description": "A Python tool to assist the task of scheduling a conference",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Python": 7808
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.81,
+    "S_code": 7.62,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "talks-1",
+    "full_name": "drvinceknight/talks-1",
+    "html_url": "https://github.com/drvinceknight/talks-1",
+    "description": "A reposity with the files of my talks.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TeX": 335500,
+      "Jupyter Notebook": 32041,
+      "CSS": 5658,
+      "HTML": 2143
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 195.27,
+    "S_code": 366.54,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "CU_BSc_LaTeX_Template",
+    "full_name": "drvinceknight/CU_BSc_LaTeX_Template",
+    "html_url": "https://github.com/drvinceknight/CU_BSc_LaTeX_Template",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 39075,
+      "TeX": 11925
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 156.9,
+    "S_code": 49.8,
+    "S_social": 1,
+    "S_maint": 13
+  },
+  {
+    "name": "SSI-fellowship-application",
+    "full_name": "drvinceknight/SSI-fellowship-application",
+    "html_url": "https://github.com/drvinceknight/SSI-fellowship-application",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 32.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "Dissertation",
+    "full_name": "drvinceknight/Dissertation",
+    "html_url": "https://github.com/drvinceknight/Dissertation",
+    "description": "OR and Stats MSc Thesis 2015-2016",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TeX": 9711
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.74,
+    "S_code": 9.48,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "git-remote-dropbox",
+    "full_name": "drvinceknight/git-remote-dropbox",
+    "html_url": "https://github.com/drvinceknight/git-remote-dropbox",
+    "description": "A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! :gift: http://www.anishathalye.com/2015/08/19/git-remote-dropbox/",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 23900
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.67,
+    "S_code": 23.34,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "Playing-games-a-case-study-in-active-learning",
+    "full_name": "drvinceknight/Playing-games-a-case-study-in-active-learning",
+    "html_url": "https://github.com/drvinceknight/Playing-games-a-case-study-in-active-learning",
+    "description": "A paper for https://journals.gre.ac.uk/index.php/msor/about",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TeX": 63045
+    },
+    "contributions_by_user": 35,
+    "contribution_score": 382.78,
+    "S_code": 61.57,
+    "S_social": 1,
+    "S_maint": 35
+  },
+  {
+    "name": "awesome",
+    "full_name": "drvinceknight/awesome",
+    "html_url": "https://github.com/drvinceknight/awesome",
+    "description": "A curated list of awesome lists",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "reinforce",
+    "full_name": "drvinceknight/reinforce",
+    "html_url": "https://github.com/drvinceknight/reinforce",
+    "description": "simple reinforcement learning in Python ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 4180
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.04,
+    "S_code": 4.08,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "python-guide",
+    "full_name": "drvinceknight/python-guide",
+    "html_url": "https://github.com/drvinceknight/python-guide",
+    "description": "Python best practices guidebook, written for Humans. ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 13712,
+      "Shell": 10965,
+      "Makefile": 6965,
+      "CSS": 976
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.93,
+    "S_code": 31.85,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "Learning-Q-Learning",
+    "full_name": "drvinceknight/Learning-Q-Learning",
+    "html_url": "https://github.com/drvinceknight/Learning-Q-Learning",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 12144
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 17.93,
+    "S_code": 11.86,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "MSc_week_0",
+    "full_name": "drvinceknight/MSc_week_0",
+    "html_url": "https://github.com/drvinceknight/MSc_week_0",
+    "description": "Introductory refresher session for the MSc course",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "TeX": 21306,
+      "CSS": 10578,
+      "Python": 928
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 172.02,
+    "S_code": 32.04,
+    "S_social": 3,
+    "S_maint": 15
+  },
+  {
+    "name": "AnIncompleteOverviewOfSomeApplicationsOfGameTheoryToPatientFlow",
+    "full_name": "drvinceknight/AnIncompleteOverviewOfSomeApplicationsOfGameTheoryToPatientFlow",
+    "html_url": "https://github.com/drvinceknight/AnIncompleteOverviewOfSomeApplicationsOfGameTheoryToPatientFlow",
+    "description": "A repository for a paper for SBP XLVI",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TeX": 503382
+    },
+    "contributions_by_user": 30,
+    "contribution_score": 547.79,
+    "S_code": 491.58,
+    "S_social": 1,
+    "S_maint": 30
+  },
+  {
+    "name": "MathEdWorkshop",
+    "full_name": "drvinceknight/MathEdWorkshop",
+    "html_url": "https://github.com/drvinceknight/MathEdWorkshop",
+    "description": "A repo for some content for a workshop organised by Prof. Harper and myself.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TeX": 17558
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 200.57,
+    "S_code": 17.15,
+    "S_social": 1,
+    "S_maint": 19
+  },
+  {
+    "name": "game-theory-analysis",
+    "full_name": "drvinceknight/game-theory-analysis",
+    "html_url": "https://github.com/drvinceknight/game-theory-analysis",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "MAT013",
+    "full_name": "drvinceknight/MAT013",
+    "html_url": "https://github.com/drvinceknight/MAT013",
+    "description": "Code for a SAS/R course.",
+    "stars": 1,
+    "forks": 5,
+    "languages": {
+      "CSS": 80533,
+      "JavaScript": 62747,
+      "TeX": 18115,
+      "Python": 8014,
+      "F#": 1654
+    },
+    "contributions_by_user": 110,
+    "contribution_score": 1205.53,
+    "S_code": 167.05,
+    "S_social": 11,
+    "S_maint": 110
+  },
+  {
+    "name": "SimulatingQueuesInSage",
+    "full_name": "drvinceknight/SimulatingQueuesInSage",
+    "html_url": "https://github.com/drvinceknight/SimulatingQueuesInSage",
+    "description": "A repo to experiment with simulation of queues in Sage (mainly to make use of @parallel tag)",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Python": 2403
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 97.17,
+    "S_code": 2.35,
+    "S_social": 3,
+    "S_maint": 9
+  },
+  {
+    "name": "Projects",
+    "full_name": "drvinceknight/Projects",
+    "html_url": "https://github.com/drvinceknight/Projects",
+    "description": "Try to complete 100 projects in Python",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "Comparing_recursion_and_iteration",
+    "full_name": "drvinceknight/Comparing_recursion_and_iteration",
+    "html_url": "https://github.com/drvinceknight/Comparing_recursion_and_iteration",
+    "description": "A repo with some code used to compare timing of recursion and iteration",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 7483
+    },
+    "contributions_by_user": 34,
+    "contribution_score": 345.65,
+    "S_code": 7.31,
+    "S_social": 1,
+    "S_maint": 34
+  },
+  {
+    "name": "Chapter_7_of_Comp_Sci_Illuminated",
+    "full_name": "drvinceknight/Chapter_7_of_Comp_Sci_Illuminated",
+    "html_url": "https://github.com/drvinceknight/Chapter_7_of_Comp_Sci_Illuminated",
+    "description": "Some code I've scribbled down from the pseudo code in CH7 of \"Computer Science Illuminated\" by Dale and Lewis",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 6464
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 115.16,
+    "S_code": 6.31,
+    "S_social": 1,
+    "S_maint": 11
+  },
+  {
+    "name": "Admissions_Talk",
+    "full_name": "drvinceknight/Admissions_Talk",
+    "html_url": "https://github.com/drvinceknight/Admissions_Talk",
+    "description": "Slides for a talk on my work in queueing theory and game theory. The target audience are potential mathematics graduates.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 6,
+    "contribution_score": 62.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 6
+  },
+  {
+    "name": "Partial_Sum_Transportation_Polytope",
+    "full_name": "drvinceknight/Partial_Sum_Transportation_Polytope",
+    "html_url": "https://github.com/drvinceknight/Partial_Sum_Transportation_Polytope",
+    "description": "A repo for some code for a long overdue paper.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 9221
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 166.5,
+    "S_code": 9.0,
+    "S_social": 1,
+    "S_maint": 16
+  },
+  {
+    "name": "esbonio",
+    "full_name": "drvinceknight/esbonio",
+    "html_url": "https://github.com/drvinceknight/esbonio",
+    "description": "A language server for working with Sphinx projects. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 734266,
+      "TypeScript": 44874,
+      "JavaScript": 12801,
+      "Shell": 7519,
+      "Makefile": 7402,
+      "Jupyter Notebook": 4598,
+      "Dockerfile": 129,
+      "HTML": 126
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 396.35,
+    "S_code": 792.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "2025.pyconuk.org",
+    "full_name": "drvinceknight/2025.pyconuk.org",
+    "html_url": "https://github.com/drvinceknight/2025.pyconuk.org",
+    "description": "PyCon UK 2025 website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 14498,
+      "SCSS": 11738,
+      "Ruby": 1360,
+      "Shell": 1180
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 34.05,
+    "S_code": 28.1,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "the_pros_and_cons_of_extortion_in_international_politics",
+    "full_name": "drvinceknight/the_pros_and_cons_of_extortion_in_international_politics",
+    "html_url": "https://github.com/drvinceknight/the_pros_and_cons_of_extortion_in_international_politics",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 5600703,
+      "Python": 98584
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 3012.85,
+    "S_code": 5565.71,
+    "S_social": 0,
+    "S_maint": 23
+  },
+  {
+    "name": "ConleyDynamics.jl",
+    "full_name": "drvinceknight/ConleyDynamics.jl",
+    "html_url": "https://github.com/drvinceknight/ConleyDynamics.jl",
+    "description": "Conley index and multivector fields for Julia",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Julia": 271059,
+      "Mathematica": 20940,
+      "TeX": 8405,
+      "Shell": 134
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 146.75,
+    "S_code": 293.49,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sold",
+    "full_name": "drvinceknight/sold",
+    "html_url": "https://github.com/drvinceknight/sold",
+    "description": "A python library for the study of Auctions",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 7907
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 53.86,
+    "S_code": 7.72,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "equilibrium_explorers",
+    "full_name": "drvinceknight/equilibrium_explorers",
+    "html_url": "https://github.com/drvinceknight/equilibrium_explorers",
+    "description": "The Game Theory Discord Server",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "mmh3",
+    "full_name": "drvinceknight/mmh3",
+    "html_url": "https://github.com/drvinceknight/mmh3",
+    "description": "Python extension for MurmurHash (MurmurHash3), a set of fast and robust hash functions.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 90880,
+      "Python": 89021
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 87.84,
+    "S_code": 175.68,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "llmipd",
+    "full_name": "drvinceknight/llmipd",
+    "html_url": "https://github.com/drvinceknight/llmipd",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 14.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "InvertibleNetworks.jl",
+    "full_name": "drvinceknight/InvertibleNetworks.jl",
+    "html_url": "https://github.com/drvinceknight/InvertibleNetworks.jl",
+    "description": "A Julia framework for invertible neural networks",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Julia": 370049
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 180.69,
+    "S_code": 361.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "coopgt",
+    "full_name": "drvinceknight/coopgt",
+    "html_url": "https://github.com/drvinceknight/coopgt",
+    "description": "A python library for the study of cooperative game theory.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 13124
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 136.41,
+    "S_code": 12.82,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "unam-gt",
+    "full_name": "drvinceknight/unam-gt",
+    "html_url": "https://github.com/drvinceknight/unam-gt",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 339182,
+      "TeX": 11370,
+      "Python": 5276,
+      "HTML": 3465,
+      "Ruby": 1043
+    },
+    "contributions_by_user": 353,
+    "contribution_score": 3705.95,
+    "S_code": 351.89,
+    "S_social": 0,
+    "S_maint": 353
+  },
+  {
+    "name": "neovim-config",
+    "full_name": "drvinceknight/neovim-config",
+    "html_url": "https://github.com/drvinceknight/neovim-config",
+    "description": "Config file for neovim",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 17886
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 138.73,
+    "S_code": 17.47,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "2023.pyconuk.org",
+    "full_name": "drvinceknight/2023.pyconuk.org",
+    "html_url": "https://github.com/drvinceknight/2023.pyconuk.org",
+    "description": " PyCon UK 2023 website ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 11253,
+      "SCSS": 10674,
+      "Ruby": 1360,
+      "Shell": 734
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.73,
+    "S_code": 23.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "TwoThirds",
+    "full_name": "drvinceknight/TwoThirds",
+    "html_url": "https://github.com/drvinceknight/TwoThirds",
+    "description": "A package to run and analyse two thirds of the average games",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "Jupyter Notebook": 287403,
+      "Python": 14441
+    },
+    "contributions_by_user": 39,
+    "contribution_score": 545.38,
+    "S_code": 294.77,
+    "S_social": 4,
+    "S_maint": 39
+  },
+  {
+    "name": "werewolf",
+    "full_name": "drvinceknight/werewolf",
+    "html_url": "https://github.com/drvinceknight/werewolf",
+    "description": "Research library to study werewolf",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 358
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.17,
+    "S_code": 0.35,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "meta",
+    "full_name": "drvinceknight/meta",
+    "html_url": "https://github.com/drvinceknight/meta",
+    "description": "A community dedicated to supporting tools for technical and scientific communication and interactive computing",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "abacwrsed",
+    "full_name": "drvinceknight/abacwrsed",
+    "html_url": "https://github.com/drvinceknight/abacwrsed",
+    "description": "2d platformer based on the Abacws building",
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 14.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "pom",
+    "full_name": "drvinceknight/pom",
+    "html_url": "https://github.com/drvinceknight/pom",
+    "description": "Principles of meetings",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 5,
+    "contribution_score": 50.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "evo_gametheory_2022",
+    "full_name": "drvinceknight/evo_gametheory_2022",
+    "html_url": "https://github.com/drvinceknight/evo_gametheory_2022",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 1373999,
+      "Python": 17070
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 679.23,
+    "S_code": 1358.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "voice",
+    "full_name": "drvinceknight/voice",
+    "html_url": "https://github.com/drvinceknight/voice",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "reproducing-herron-et-all-2012",
+    "full_name": "drvinceknight/reproducing-herron-et-all-2012",
+    "html_url": "https://github.com/drvinceknight/reproducing-herron-et-all-2012",
+    "description": "Code to attempt to reproduce the Herron 2012 paper: \"Is Peer Review Obsolete? [...]\"",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 16033
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 47.83,
+    "S_code": 15.66,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "Ciw",
+    "full_name": "drvinceknight/Ciw",
+    "html_url": "https://github.com/drvinceknight/Ciw",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 216857
+    },
+    "contributions_by_user": 59,
+    "contribution_score": 695.89,
+    "S_code": 211.77,
+    "S_social": 0,
+    "S_maint": 59
+  },
+  {
+    "name": "drvinceknight",
+    "full_name": "drvinceknight/drvinceknight",
+    "html_url": "https://github.com/drvinceknight/drvinceknight",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 7,
+    "contribution_score": 70.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "copd-paper",
+    "full_name": "drvinceknight/copd-paper",
+    "html_url": "https://github.com/drvinceknight/copd-paper",
+    "description": "A repository to accompany the paper on investigating COPD patients' interactions with the hospital system.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 7129707,
+      "TeX": 333167,
+      "Python": 18979
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3653.25,
+    "S_code": 7306.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tsp",
+    "full_name": "drvinceknight/tsp",
+    "html_url": "https://github.com/drvinceknight/tsp",
+    "description": "Some software to study the travelling sales agent problem.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4420
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 102.16,
+    "S_code": 4.32,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "JMcDM",
+    "full_name": "drvinceknight/JMcDM",
+    "html_url": "https://github.com/drvinceknight/JMcDM",
+    "description": "A package for Multiple criteria decision-making techniques in Julia",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Julia": 194945,
+      "TeX": 13288
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 101.68,
+    "S_code": 203.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "debuck",
+    "full_name": "drvinceknight/debuck",
+    "html_url": "https://github.com/drvinceknight/debuck",
+    "description": "Perl script for replacing dollars in LaTeX documents by their LaTeX versions.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Perl": 4307
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.1,
+    "S_code": 4.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Abmarl",
+    "full_name": "drvinceknight/Abmarl",
+    "html_url": "https://github.com/drvinceknight/Abmarl",
+    "description": "Agent Based Modeling and Reinforcement Learning",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 575530,
+      "TeX": 4846
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 283.39,
+    "S_code": 566.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "PyConNA-guestbook",
+    "full_name": "drvinceknight/PyConNA-guestbook",
+    "html_url": "https://github.com/drvinceknight/PyConNA-guestbook",
+    "description": "Guest book for my friends in PyConNA",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 2787
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.36,
+    "S_code": 2.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "diataxis-documentation-framework",
+    "full_name": "drvinceknight/diataxis-documentation-framework",
+    "html_url": "https://github.com/drvinceknight/diataxis-documentation-framework",
+    "description": "\"The Grand Unified Theory of Documentation\" (David Laing) - a popular and transformative documentation authoring framework",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 2563,
+      "Python": 2529,
+      "Makefile": 1646,
+      "CSS": 1499,
+      "Batchfile": 795
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.41,
+    "S_code": 8.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gtp",
+    "full_name": "drvinceknight/gtp",
+    "html_url": "https://github.com/drvinceknight/gtp",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 15037,
+      "Python": 8976,
+      "TeX": 1433
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 22.42,
+    "S_code": 24.85,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "r-pkgs",
+    "full_name": "drvinceknight/r-pkgs",
+    "html_url": "https://github.com/drvinceknight/r-pkgs",
+    "description": "Building R packages",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 5022,
+      "TeX": 3222,
+      "CSS": 1257,
+      "HTML": 316
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.79,
+    "S_code": 9.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "literature-review",
+    "full_name": "drvinceknight/literature-review",
+    "html_url": "https://github.com/drvinceknight/literature-review",
+    "description": "A review of current literature covering the intersections of clustering, algorithm evaluation and healthcare modelling",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 108470,
+      "Python": 5769
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 55.78,
+    "S_code": 111.56,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jupyter-book",
+    "full_name": "drvinceknight/jupyter-book",
+    "html_url": "https://github.com/drvinceknight/jupyter-book",
+    "description": "Build interactive, publication-quality documents from Jupyter Notebooks",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 98456,
+      "Jupyter Notebook": 9478,
+      "HTML": 7259,
+      "TeX": 5524,
+      "Shell": 732
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 63.3,
+    "S_code": 118.6,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "Nikoleta-v3",
+    "full_name": "drvinceknight/Nikoleta-v3",
+    "html_url": "https://github.com/drvinceknight/Nikoleta-v3",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Year-4-Project",
+    "full_name": "drvinceknight/Year-4-Project",
+    "html_url": "https://github.com/drvinceknight/Year-4-Project",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "utterances",
+    "full_name": "drvinceknight/utterances",
+    "html_url": "https://github.com/drvinceknight/utterances",
+    "description": ":crystal_ball: A lightweight comments widget built on GitHub issues",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 58020,
+      "CSS": 18062,
+      "HTML": 6727,
+      "JavaScript": 569
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 40.71,
+    "S_code": 81.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rsd",
+    "full_name": "drvinceknight/rsd",
+    "html_url": "https://github.com/drvinceknight/rsd",
+    "description": "Repository for a two day workshop on research software development aimed at mathematicians",
+    "stars": 0,
+    "forks": 20,
+    "languages": {
+      "HTML": 177389,
+      "Python": 12145,
+      "CSS": 10734,
+      "TeX": 1649,
+      "Shell": 54
+    },
+    "contributions_by_user": 69,
+    "contribution_score": 868.62,
+    "S_code": 197.24,
+    "S_social": 40,
+    "S_maint": 69
+  },
+  {
+    "name": "data-explore",
+    "full_name": "drvinceknight/data-explore",
+    "html_url": "https://github.com/drvinceknight/data-explore",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 5575
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.72,
+    "S_code": 5.44,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "potential-pancake",
+    "full_name": "drvinceknight/potential-pancake",
+    "html_url": "https://github.com/drvinceknight/potential-pancake",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 698
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 120.34,
+    "S_code": 0.68,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "birankr",
+    "full_name": "drvinceknight/birankr",
+    "html_url": "https://github.com/drvinceknight/birankr",
+    "description": "CRAN package for estimating various rank (centrality) measures of nodes in bipartite graphs (two-mode networks).",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "R": 61147,
+      "Python": 17239,
+      "TeX": 4355
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 40.4,
+    "S_code": 80.8,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "NarrowEscapeSimulator",
+    "full_name": "drvinceknight/NarrowEscapeSimulator",
+    "html_url": "https://github.com/drvinceknight/NarrowEscapeSimulator",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 435124,
+      "Python": 16103,
+      "TeX": 12990
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 226.67,
+    "S_code": 453.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "neurodiffeq",
+    "full_name": "drvinceknight/neurodiffeq",
+    "html_url": "https://github.com/drvinceknight/neurodiffeq",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 2234560,
+      "Python": 134467,
+      "TeX": 4202
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1158.8,
+    "S_code": 2317.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "thresholdmodeling",
+    "full_name": "drvinceknight/thresholdmodeling",
+    "html_url": "https://github.com/drvinceknight/thresholdmodeling",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 37785,
+      "TeX": 3369
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.09,
+    "S_code": 40.19,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "reproduce_axelrod_first",
+    "full_name": "drvinceknight/reproduce_axelrod_first",
+    "html_url": "https://github.com/drvinceknight/reproduce_axelrod_first",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 3968
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 81.94,
+    "S_code": 3.88,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "HierarchicalPromotion",
+    "full_name": "drvinceknight/HierarchicalPromotion",
+    "html_url": "https://github.com/drvinceknight/HierarchicalPromotion",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 257090,
+      "Python": 49103,
+      "TeX": 6102,
+      "Shell": 85
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 232.53,
+    "S_code": 305.06,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "manif",
+    "full_name": "drvinceknight/manif",
+    "html_url": "https://github.com/drvinceknight/manif",
+    "description": "A small c++11 header-only library for Lie theory.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 373509,
+      "CMake": 15893,
+      "C": 2171
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 191.2,
+    "S_code": 382.4,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pyw",
+    "full_name": "drvinceknight/pyw",
+    "html_url": "https://github.com/drvinceknight/pyw",
+    "description": "A repository for python workshops",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "my-first-binder",
+    "full_name": "drvinceknight/my-first-binder",
+    "html_url": "https://github.com/drvinceknight/my-first-binder",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 2576,
+      "Python": 46
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 61.28,
+    "S_code": 2.56,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "governance",
+    "full_name": "drvinceknight/governance",
+    "html_url": "https://github.com/drvinceknight/governance",
+    "description": "The governance process and model for Open Journals.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "manifesto",
+    "full_name": "drvinceknight/manifesto",
+    "html_url": "https://github.com/drvinceknight/manifesto",
+    "description": "Code is Science - a manifesto for anyone who deals with code in a scientific scenario",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "FinalYearProject",
+    "full_name": "drvinceknight/FinalYearProject",
+    "html_url": "https://github.com/drvinceknight/FinalYearProject",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 6771039,
+      "TeX": 224321,
+      "Python": 48386,
+      "Shell": 189
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 3459.42,
+    "S_code": 6878.84,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "mwp",
+    "full_name": "drvinceknight/mwp",
+    "html_url": "https://github.com/drvinceknight/mwp",
+    "description": "A mathematics workshop aimed at python programmers",
+    "stars": 0,
+    "forks": 3,
+    "languages": {
+      "Jupyter Notebook": 139301,
+      "TeX": 2549
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 221.26,
+    "S_code": 138.53,
+    "S_social": 6,
+    "S_maint": 14
+  },
+  {
+    "name": "classtweet",
+    "full_name": "drvinceknight/classtweet",
+    "html_url": "https://github.com/drvinceknight/classtweet",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "school-outreach",
+    "full_name": "drvinceknight/school-outreach",
+    "html_url": "https://github.com/drvinceknight/school-outreach",
+    "description": "Jekyll theme based on Freelancer Start Bootstrap theme",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 54581,
+      "JavaScript": 43724,
+      "TeX": 37358,
+      "CSS": 8356,
+      "HTML": 8046,
+      "Ruby": 73
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 238.29,
+    "S_code": 148.57,
+    "S_social": 2,
+    "S_maint": 16
+  },
+  {
+    "name": "quiz",
+    "full_name": "drvinceknight/quiz",
+    "html_url": "https://github.com/drvinceknight/quiz",
+    "description": "A repo for a quiz ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 26162,
+      "Jupyter Notebook": 8235,
+      "Python": 1345
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 117.45,
+    "S_code": 34.9,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "CiwVis",
+    "full_name": "drvinceknight/CiwVis",
+    "html_url": "https://github.com/drvinceknight/CiwVis",
+    "description": "A data visualisation tool for Ciw.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 59675,
+      "HTML": 9340,
+      "Python": 5920,
+      "CSS": 3725,
+      "Jupyter Notebook": 3238
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 39.99,
+    "S_code": 79.98,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "2017.pyconuk.org",
+    "full_name": "drvinceknight/2017.pyconuk.org",
+    "html_url": "https://github.com/drvinceknight/2017.pyconuk.org",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 19592,
+      "Python": 9700,
+      "HTML": 4935,
+      "Shell": 2377,
+      "Makefile": 537
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 18.14,
+    "S_code": 36.27,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "scikit-optimize",
+    "full_name": "drvinceknight/scikit-optimize",
+    "html_url": "https://github.com/drvinceknight/scikit-optimize",
+    "description": "Sequential model-based optimization with a  `scipy.optimize` interface",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 304791
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 148.82,
+    "S_code": 297.65,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "scipy-lecture-notes",
+    "full_name": "drvinceknight/scipy-lecture-notes",
+    "html_url": "https://github.com/drvinceknight/scipy-lecture-notes",
+    "description": "Tutorial material on the scientific Python ecosystem",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 377315,
+      "C": 69369,
+      "Shell": 5318,
+      "Makefile": 5057,
+      "HTML": 4746,
+      "JavaScript": 2805,
+      "Fortran": 191,
+      "Objective-C": 29
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 226.97,
+    "S_code": 453.94,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nbdime",
+    "full_name": "drvinceknight/nbdime",
+    "html_url": "https://github.com/drvinceknight/nbdime",
+    "description": "Tools for diffing and merging of Jupyter notebooks.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 478993,
+      "Python": 472807,
+      "Jupyter Notebook": 235558,
+      "CSS": 24752,
+      "HTML": 11492,
+      "JavaScript": 2888
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 598.87,
+    "S_code": 1197.74,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "SIMULATION",
+    "full_name": "drvinceknight/SIMULATION",
+    "html_url": "https://github.com/drvinceknight/SIMULATION",
+    "description": "Simulation code for Geraint Palmer",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 3466,
+      "Python": 2036,
+      "CMake": 169
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.77,
+    "S_code": 5.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "up-for-grabs.net",
+    "full_name": "drvinceknight/up-for-grabs.net",
+    "html_url": "https://github.com/drvinceknight/up-for-grabs.net",
+    "description": "Jump in!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 104693,
+      "CSS": 22772,
+      "HTML": 9702,
+      "Ruby": 6749,
+      "Batchfile": 50
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 70.3,
+    "S_code": 140.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "site",
+    "full_name": "drvinceknight/site",
+    "html_url": "https://github.com/drvinceknight/site",
+    "description": "Source files for my personal site built with statik",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "HTML": 592546,
+      "TeX": 45306,
+      "CSS": 10826,
+      "Python": 5953
+    },
+    "contributions_by_user": 332,
+    "contribution_score": 3643.64,
+    "S_code": 639.29,
+    "S_social": 2,
+    "S_maint": 332
+  },
+  {
+    "name": "TestStatikDeploy",
+    "full_name": "drvinceknight/TestStatikDeploy",
+    "html_url": "https://github.com/drvinceknight/TestStatikDeploy",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 560243,
+      "TeX": 45157,
+      "CSS": 10826,
+      "Python": 2085,
+      "Makefile": 79
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 341.95,
+    "S_code": 603.9,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "pymath",
+    "full_name": "drvinceknight/pymath",
+    "html_url": "https://github.com/drvinceknight/pymath",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 56746,
+      "HTML": 22692,
+      "CSS": 3696,
+      "Makefile": 3399,
+      "R": 3383,
+      "JavaScript": 1096,
+      "Ruby": 237,
+      "Shell": 220
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 54.66,
+    "S_code": 89.33,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "APIs",
+    "full_name": "drvinceknight/APIs",
+    "html_url": "https://github.com/drvinceknight/APIs",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "statik",
+    "full_name": "drvinceknight/statik",
+    "html_url": "https://github.com/drvinceknight/statik",
+    "description": "Multi-purpose static web site generator aimed at developers.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 161577,
+      "HTML": 5796,
+      "Shell": 166
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 81.81,
+    "S_code": 163.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "VirtualMicroscope",
+    "full_name": "drvinceknight/VirtualMicroscope",
+    "html_url": "https://github.com/drvinceknight/VirtualMicroscope",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 72218,
+      "JavaScript": 36060
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 52.87,
+    "S_code": 105.74,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "FinalYearProject-Manuscript",
+    "full_name": "drvinceknight/FinalYearProject-Manuscript",
+    "html_url": "https://github.com/drvinceknight/FinalYearProject-Manuscript",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 102333,
+      "Jupyter Notebook": 39075
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 179.05,
+    "S_code": 138.09,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "Introduction_to_OOP",
+    "full_name": "drvinceknight/Introduction_to_OOP",
+    "html_url": "https://github.com/drvinceknight/Introduction_to_OOP",
+    "description": "A repository for a series of hackathon/challenge things for two day workshop introductions to OOP",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 86953,
+      "JavaScript": 59569,
+      "HTML": 45400,
+      "Python": 5537,
+      "C": 1654,
+      "PHP": 92
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 237.27,
+    "S_code": 194.54,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "sevensteps",
+    "full_name": "drvinceknight/sevensteps",
+    "html_url": "https://github.com/drvinceknight/sevensteps",
+    "description": "Source material for my workbook _Seven Steps to Flipped Learning Design_. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 65830
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 32.14,
+    "S_code": 64.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "from-python-to-numpy",
+    "full_name": "drvinceknight/from-python-to-numpy",
+    "html_url": "https://github.com/drvinceknight/from-python-to-numpy",
+    "description": "An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "HTML": 431270,
+      "Python": 144204,
+      "CSS": 11932
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 290.82,
+    "S_code": 573.64,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "PythonDataScienceHandbook",
+    "full_name": "drvinceknight/PythonDataScienceHandbook",
+    "html_url": "https://github.com/drvinceknight/PythonDataScienceHandbook",
+    "description": "Jupyter Notebooks for the Python Data Science Handbook",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 20222184,
+      "Python": 2853
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9879.51,
+    "S_code": 19751.01,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "Axelbib",
+    "full_name": "drvinceknight/Axelbib",
+    "html_url": "https://github.com/drvinceknight/Axelbib",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 13705
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.69,
+    "S_code": 13.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "python3statement.github.io",
+    "full_name": "drvinceknight/python3statement.github.io",
+    "html_url": "https://github.com/drvinceknight/python3statement.github.io",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 23642,
+      "JavaScript": 7323,
+      "HTML": 2989
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 36.58,
+    "S_code": 33.16,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "CU_MSc_LaTeX_Template",
+    "full_name": "drvinceknight/CU_MSc_LaTeX_Template",
+    "html_url": "https://github.com/drvinceknight/CU_MSc_LaTeX_Template",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 7306
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 143.57,
+    "S_code": 7.13,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "STEM-live",
+    "full_name": "drvinceknight/STEM-live",
+    "html_url": "https://github.com/drvinceknight/STEM-live",
+    "description": "A repo for some demo code.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 42833,
+      "Python": 1860
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 35.82,
+    "S_code": 43.65,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "Dissertation-Notebooks",
+    "full_name": "drvinceknight/Dissertation-Notebooks",
+    "html_url": "https://github.com/drvinceknight/Dissertation-Notebooks",
+    "description": "Some notebooks for research I have conducted during my Dissertation in Cardiff Uni. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 755127
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 398.71,
+    "S_code": 737.43,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "Axelrod-Python-Memory-Profiling",
+    "full_name": "drvinceknight/Axelrod-Python-Memory-Profiling",
+    "html_url": "https://github.com/drvinceknight/Axelrod-Python-Memory-Profiling",
+    "description": "A repo to profile memory consumption",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2437
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 111.19,
+    "S_code": 2.38,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "Measuring_the_price_of_anarchy_in_ccu_interactions",
+    "full_name": "drvinceknight/Measuring_the_price_of_anarchy_in_ccu_interactions",
+    "html_url": "https://github.com/drvinceknight/Measuring_the_price_of_anarchy_in_ccu_interactions",
+    "description": "Repository for a paper with the same title",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "OpenEdge ABL": 32019297,
+      "TeX": 327430,
+      "Python": 38737
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 15993.21,
+    "S_code": 31626.43,
+    "S_social": 0,
+    "S_maint": 18
+  },
+  {
+    "name": "cosmic-ray",
+    "full_name": "drvinceknight/cosmic-ray",
+    "html_url": "https://github.com/drvinceknight/cosmic-ray",
+    "description": "Mutation testing for Python",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 61998,
+      "Shell": 549
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 40.54,
+    "S_code": 61.08,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "xonsh",
+    "full_name": "drvinceknight/xonsh",
+    "html_url": "https://github.com/drvinceknight/xonsh",
+    "description": "xonsh is a Python-ish, BASHwards-facing shell.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1207829,
+      "Shell": 100,
+      "Batchfile": 96
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 589.86,
+    "S_code": 1179.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "SAS-R",
+    "full_name": "drvinceknight/SAS-R",
+    "html_url": "https://github.com/drvinceknight/SAS-R",
+    "description": "A repository for a course I teach on SAS and R",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "CSS": 91388,
+      "JavaScript": 61037,
+      "Jupyter Notebook": 34187,
+      "HTML": 30410,
+      "TeX": 10188,
+      "Ruby": 3335,
+      "Python": 2127,
+      "GLSL": 1654,
+      "Makefile": 146
+    },
+    "contributions_by_user": 382,
+    "contribution_score": 3938.49,
+    "S_code": 228.98,
+    "S_social": 2,
+    "S_maint": 382
+  },
+  {
+    "name": "latexbuild",
+    "full_name": "drvinceknight/latexbuild",
+    "html_url": "https://github.com/drvinceknight/latexbuild",
+    "description": "Build output from Latex using Python and Jinja2 templating",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 28909,
+      "TeX": 916
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.56,
+    "S_code": 29.13,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "python-ternary",
+    "full_name": "drvinceknight/python-ternary",
+    "html_url": "https://github.com/drvinceknight/python-ternary",
+    "description": ":small_red_triangle: Ternary plotting for python with matplotlib",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 59297
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 48.95,
+    "S_code": 57.91,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "axelrod-moran",
+    "full_name": "drvinceknight/axelrod-moran",
+    "html_url": "https://github.com/drvinceknight/axelrod-moran",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 8706,
+      "Shell": 76
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.29,
+    "S_code": 8.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "axelrod-evolver",
+    "full_name": "drvinceknight/axelrod-evolver",
+    "html_url": "https://github.com/drvinceknight/axelrod-evolver",
+    "description": "Tools to use an evolutionary algorithm to evolve strategies for an iterated prisoner's dilemma tournament",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 12893,
+      "Shell": 236
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.41,
+    "S_code": 12.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hypothesis",
+    "full_name": "drvinceknight/hypothesis",
+    "html_url": "https://github.com/drvinceknight/hypothesis",
+    "description": "Hypothesis is an advanced Quickcheck style testing library for Python",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 705820,
+      "Jupyter Notebook": 160339,
+      "Shell": 6923,
+      "PowerShell": 5987,
+      "Makefile": 4703,
+      "Batchfile": 1842
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 432.43,
+    "S_code": 864.86,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pyphase",
+    "full_name": "drvinceknight/pyphase",
+    "html_url": "https://github.com/drvinceknight/pyphase",
+    "description": "A Python library to fit and use Phase Type Distributions",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 3300
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.61,
+    "S_code": 3.22,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "CV-2",
+    "full_name": "drvinceknight/CV-2",
+    "html_url": "https://github.com/drvinceknight/CV-2",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 32652
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 35.94,
+    "S_code": 31.89,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "dpshelio.github.io",
+    "full_name": "drvinceknight/dpshelio.github.io",
+    "html_url": "https://github.com/drvinceknight/dpshelio.github.io",
+    "description": "My blog",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 6841,
+      "HTML": 6737,
+      "Ruby": 71
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.66,
+    "S_code": 13.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sage-lesson",
+    "full_name": "drvinceknight/sage-lesson",
+    "html_url": "https://github.com/drvinceknight/sage-lesson",
+    "description": "SageMath Software Carpentry Lesson ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 17049,
+      "CSS": 16369,
+      "Makefile": 2300
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.44,
+    "S_code": 34.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "authorator",
+    "full_name": "drvinceknight/authorator",
+    "html_url": "https://github.com/drvinceknight/authorator",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 7436,
+      "TeX": 535
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.89,
+    "S_code": 7.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "zcprytherch.github.io",
+    "full_name": "drvinceknight/zcprytherch.github.io",
+    "html_url": "https://github.com/drvinceknight/zcprytherch.github.io",
+    "description": "My personal website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 53812,
+      "CSS": 11868,
+      "HTML": 9108
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 276.52,
+    "S_code": 73.04,
+    "S_social": 0,
+    "S_maint": 24
+  },
+  {
+    "name": "spig",
+    "full_name": "drvinceknight/spig",
+    "html_url": "https://github.com/drvinceknight/spig",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 296
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.14,
+    "S_code": 0.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "stationary",
+    "full_name": "drvinceknight/stationary",
+    "html_url": "https://github.com/drvinceknight/stationary",
+    "description": ":repeat: Stationary distributions for finite Markov processes, including the Moran, Wright-Fisher, and other processes, exact and approximate computations.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 98158,
+      "C++": 2791
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 49.29,
+    "S_code": 98.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Legofy",
+    "full_name": "drvinceknight/Legofy",
+    "html_url": "https://github.com/drvinceknight/Legofy",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 5828
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.85,
+    "S_code": 5.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "QNetSim",
+    "full_name": "drvinceknight/QNetSim",
+    "html_url": "https://github.com/drvinceknight/QNetSim",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 64126
+    },
+    "contributions_by_user": 30,
+    "contribution_score": 331.31,
+    "S_code": 62.62,
+    "S_social": 0,
+    "S_maint": 30
+  },
+  {
+    "name": "pyjokes",
+    "full_name": "drvinceknight/pyjokes",
+    "html_url": "https://github.com/drvinceknight/pyjokes",
+    "description": "One line jokes for programmers (jokes as a service)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 24868
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 22.14,
+    "S_code": 24.29,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "LaTeX_templates",
+    "full_name": "drvinceknight/LaTeX_templates",
+    "html_url": "https://github.com/drvinceknight/LaTeX_templates",
+    "description": "Some LaTeX templates",
+    "stars": 0,
+    "forks": 4,
+    "languages": {
+      "TeX": 19231
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 135.39,
+    "S_code": 18.78,
+    "S_social": 8,
+    "S_maint": 11
+  },
+  {
+    "name": "OR_Methods",
+    "full_name": "drvinceknight/OR_Methods",
+    "html_url": "https://github.com/drvinceknight/OR_Methods",
+    "description": "Repository for a course on basic OR",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 228871,
+      "CSS": 10637,
+      "Python": 4564
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 149.18,
+    "S_code": 238.35,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "python-namibia.github.io",
+    "full_name": "drvinceknight/python-namibia.github.io",
+    "html_url": "https://github.com/drvinceknight/python-namibia.github.io",
+    "description": "Class project for the Intro to Git & GitHub workshop",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 12317,
+      "Ruby": 3083,
+      "HTML": 2752
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 88.86,
+    "S_code": 17.73,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "pyconuk2015",
+    "full_name": "drvinceknight/pyconuk2015",
+    "html_url": "https://github.com/drvinceknight/pyconuk2015",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 9654,
+      "Shell": 38
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 14.73,
+    "S_code": 9.46,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "vainglory-analysis",
+    "full_name": "drvinceknight/vainglory-analysis",
+    "html_url": "https://github.com/drvinceknight/vainglory-analysis",
+    "description": "A repository with some code to study vainglory",
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 19,
+    "contribution_score": 194.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 19
+  },
+  {
+    "name": "css",
+    "full_name": "drvinceknight/css",
+    "html_url": "https://github.com/drvinceknight/css",
+    "description": "A repository for my css used across static sites.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 10671
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 35.21,
+    "S_code": 10.42,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "shablona",
+    "full_name": "drvinceknight/shablona",
+    "html_url": "https://github.com/drvinceknight/shablona",
+    "description": "A template for small scientific python projects",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 12833
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.27,
+    "S_code": 12.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "OpenDreamKit.github.io",
+    "full_name": "drvinceknight/OpenDreamKit.github.io",
+    "html_url": "https://github.com/drvinceknight/OpenDreamKit.github.io",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 14738,
+      "HTML": 5444,
+      "Ruby": 13
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 19.86,
+    "S_code": 19.72,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "Dissertation-written",
+    "full_name": "drvinceknight/Dissertation-written",
+    "html_url": "https://github.com/drvinceknight/Dissertation-written",
+    "description": "Written part of Dissertation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 38474
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 98.79,
+    "S_code": 37.57,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "sage",
+    "full_name": "drvinceknight/sage",
+    "html_url": "https://github.com/drvinceknight/sage",
+    "description": "Unified Git repository for Sage",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 54071230,
+      "C": 979728,
+      "Shell": 417328,
+      "C++": 364372,
+      "Gnuplot": 221731,
+      "Objective-C": 57413,
+      "JavaScript": 55605,
+      "GAP": 35124,
+      "MATLAB": 22121,
+      "M": 6780,
+      "TeX": 3429,
+      "Common Lisp": 3318
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 27460.05,
+    "S_code": 54920.1,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "roberttalbert.github.io",
+    "full_name": "drvinceknight/roberttalbert.github.io",
+    "html_url": "https://github.com/drvinceknight/roberttalbert.github.io",
+    "description": "Repository for the professional website for Robert Talbert",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 82421,
+      "CSS": 19653
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 69.84,
+    "S_code": 99.68,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "conference-handbook",
+    "full_name": "drvinceknight/conference-handbook",
+    "html_url": "https://github.com/drvinceknight/conference-handbook",
+    "description": "Handbook for open-source software community conference organisers",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 11796,
+      "Makefile": 7497,
+      "Batchfile": 7025
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.85,
+    "S_code": 25.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "EndOfYearReview",
+    "full_name": "drvinceknight/EndOfYearReview",
+    "html_url": "https://github.com/drvinceknight/EndOfYearReview",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 182991
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 309.35,
+    "S_code": 178.7,
+    "S_social": 0,
+    "S_maint": 22
+  },
+  {
+    "name": "data-science-from-scratch",
+    "full_name": "drvinceknight/data-science-from-scratch",
+    "html_url": "https://github.com/drvinceknight/data-science-from-scratch",
+    "description": "code for Data Science From Scratch book",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 151437
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 73.94,
+    "S_code": 147.89,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lessons-i-learned-during-a-django-project",
+    "full_name": "drvinceknight/lessons-i-learned-during-a-django-project",
+    "html_url": "https://github.com/drvinceknight/lessons-i-learned-during-a-django-project",
+    "description": "Talk about lessons learnt during a big project build with Django",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vcsh",
+    "full_name": "drvinceknight/vcsh",
+    "html_url": "https://github.com/drvinceknight/vcsh",
+    "description": "config manager based on Git",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 19823,
+      "Perl": 2492,
+      "Makefile": 1582
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.67,
+    "S_code": 23.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gplearn",
+    "full_name": "drvinceknight/gplearn",
+    "html_url": "https://github.com/drvinceknight/gplearn",
+    "description": "Genetic Programming in Python, with a scikit-learn inspired API",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 265392,
+      "Shell": 2402
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 130.76,
+    "S_code": 261.52,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "NuffieldPlacement",
+    "full_name": "drvinceknight/NuffieldPlacement",
+    "html_url": "https://github.com/drvinceknight/NuffieldPlacement",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "DetectingDeadlockInQingNetworkSimulation",
+    "full_name": "drvinceknight/DetectingDeadlockInQingNetworkSimulation",
+    "html_url": "https://github.com/drvinceknight/DetectingDeadlockInQingNetworkSimulation",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 73926,
+      "Python": 10577
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 251.26,
+    "S_code": 82.52,
+    "S_social": 0,
+    "S_maint": 21
+  },
+  {
+    "name": "ClashOfORGroups",
+    "full_name": "drvinceknight/ClashOfORGroups",
+    "html_url": "https://github.com/drvinceknight/ClashOfORGroups",
+    "description": "A repo for the organisation of the meeting between the OR group from Twente and Cardiff on: 2015-04-{13,14}",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 7,
+    "contribution_score": 70.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "thefuck",
+    "full_name": "drvinceknight/thefuck",
+    "html_url": "https://github.com/drvinceknight/thefuck",
+    "description": "Magnificent app which corrects your previous console command.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 15969
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.8,
+    "S_code": 15.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pymdptoolbox",
+    "full_name": "drvinceknight/pymdptoolbox",
+    "html_url": "https://github.com/drvinceknight/pymdptoolbox",
+    "description": "Markov Decision Process (MDP) Toolbox for Python",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 172430,
+      "Shell": 236
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 84.31,
+    "S_code": 168.62,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tig",
+    "full_name": "drvinceknight/tig",
+    "html_url": "https://github.com/drvinceknight/tig",
+    "description": "Text-mode interface for git",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 552487,
+      "Shell": 425210,
+      "Makefile": 11349,
+      "C++": 754,
+      "Groff": 490
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 483.54,
+    "S_code": 967.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "readthedocs.org",
+    "full_name": "drvinceknight/readthedocs.org",
+    "html_url": "https://github.com/drvinceknight/readthedocs.org",
+    "description": "source code to readthedocs.org",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1388653,
+      "HTML": 194238,
+      "JavaScript": 125398,
+      "CSS": 59521,
+      "Shell": 4994,
+      "Makefile": 4594
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 867.87,
+    "S_code": 1735.74,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hugo",
+    "full_name": "drvinceknight/hugo",
+    "html_url": "https://github.com/drvinceknight/hugo",
+    "description": "A Fast and Flexible Static Site Generator built with love by spf13 in GoLang",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 588934,
+      "HTML": 10150,
+      "CSS": 1560,
+      "Makefile": 555
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 293.55,
+    "S_code": 587.11,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "yapf",
+    "full_name": "drvinceknight/yapf",
+    "html_url": "https://github.com/drvinceknight/yapf",
+    "description": "A formatter for Python files",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 302309,
+      "Vim Script": 167
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 147.69,
+    "S_code": 295.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dotphiles",
+    "full_name": "drvinceknight/dotphiles",
+    "html_url": "https://github.com/drvinceknight/dotphiles",
+    "description": "A community driven framework of dotfiles.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Perl": 92545,
+      "Shell": 40956,
+      "Ruby": 2106,
+      "Vim Script": 1001,
+      "PostScript": 322
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 66.86,
+    "S_code": 133.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "reveal.js",
+    "full_name": "drvinceknight/reveal.js",
+    "html_url": "https://github.com/drvinceknight/reveal.js",
+    "description": "The HTML Presentation Framework",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 246679,
+      "CSS": 191178,
+      "HTML": 60127
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 243.16,
+    "S_code": 486.31,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "oh-my-fish",
+    "full_name": "drvinceknight/oh-my-fish",
+    "html_url": "https://github.com/drvinceknight/oh-my-fish",
+    "description": "Framework for managing your fish shell configuration inspired by Oh My ZSH.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 238288,
+      "Python": 5934
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 119.25,
+    "S_code": 238.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fish-shell",
+    "full_name": "drvinceknight/fish-shell",
+    "html_url": "https://github.com/drvinceknight/fish-shell",
+    "description": "The user-friendly command line shell.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 2023419,
+      "Shell": 1681563,
+      "Python": 109047,
+      "C": 47357,
+      "HTML": 34011,
+      "JavaScript": 31527,
+      "CSS": 16458,
+      "Objective-C": 3549
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1927.21,
+    "S_code": 3854.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "paper-now",
+    "full_name": "drvinceknight/paper-now",
+    "html_url": "https://github.com/drvinceknight/paper-now",
+    "description": "Create, edit and display a journal article, entirely in GitHub",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 8700,
+      "CSS": 1819,
+      "JavaScript": 1409,
+      "Ruby": 186,
+      "Shell": 72
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 15.95,
+    "S_code": 11.9,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "CUROP",
+    "full_name": "drvinceknight/CUROP",
+    "html_url": "https://github.com/drvinceknight/CUROP",
+    "description": "A repo for my CUROP proposals",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 16,
+    "contribution_score": 160.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 16
+  },
+  {
+    "name": "svg2tikz",
+    "full_name": "drvinceknight/svg2tikz",
+    "html_url": "https://github.com/drvinceknight/svg2tikz",
+    "description": "An Inkscape extension for exporting SVG paths as TikZ/PGF paths",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 98856
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 52.27,
+    "S_code": 96.54,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "amy",
+    "full_name": "drvinceknight/amy",
+    "html_url": "https://github.com/drvinceknight/amy",
+    "description": "A web-based workshop administration application built using Django.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 147009,
+      "HTML": 31441,
+      "Makefile": 5616,
+      "CSS": 155
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 89.95,
+    "S_code": 179.9,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ranger",
+    "full_name": "drvinceknight/ranger",
+    "html_url": "https://github.com/drvinceknight/ranger",
+    "description": "A vim-inspired filemanager for the console",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 475679,
+      "ApacheConf": 27091,
+      "Shell": 3822,
+      "Makefile": 2946
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 248.8,
+    "S_code": 497.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "library",
+    "full_name": "drvinceknight/library",
+    "html_url": "https://github.com/drvinceknight/library",
+    "description": "My personal library files in BibTeX format.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 556945,
+      "Python": 9046,
+      "Makefile": 697
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 276.7,
+    "S_code": 553.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "PyNam",
+    "full_name": "drvinceknight/PyNam",
+    "html_url": "https://github.com/drvinceknight/PyNam",
+    "description": null,
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 908697,
+      "CSS": 574914,
+      "Python": 44051
+    },
+    "contributions_by_user": 34,
+    "contribution_score": 1093.93,
+    "S_code": 1491.86,
+    "S_social": 4,
+    "S_maint": 34
+  },
+  {
+    "name": "github-introduction",
+    "full_name": "drvinceknight/github-introduction",
+    "html_url": "https://github.com/drvinceknight/github-introduction",
+    "description": "Intro to using Git and GitHub on the web",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nhs_hack",
+    "full_name": "drvinceknight/nhs_hack",
+    "html_url": "https://github.com/drvinceknight/nhs_hack",
+    "description": "NHS Hack Day Cardiff 2015",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 14558,
+      "CSS": 3759,
+      "Python": 328
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.1,
+    "S_code": 18.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gitignore",
+    "full_name": "drvinceknight/gitignore",
+    "html_url": "https://github.com/drvinceknight/gitignore",
+    "description": "A collection of useful .gitignore templates",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "grant-europe",
+    "full_name": "drvinceknight/grant-europe",
+    "html_url": "https://github.com/drvinceknight/grant-europe",
+    "description": "Sage goes H2020",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 2686625,
+      "Makefile": 9923
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1316.67,
+    "S_code": 2633.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Module-Planner",
+    "full_name": "drvinceknight/Module-Planner",
+    "html_url": "https://github.com/drvinceknight/Module-Planner",
+    "description": "A website to help students choose their modules",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 11130,
+      "Python": 9281,
+      "JavaScript": 214
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 110.07,
+    "S_code": 20.14,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "BMC",
+    "full_name": "drvinceknight/BMC",
+    "html_url": "https://github.com/drvinceknight/BMC",
+    "description": "BMC (BiblioManagementClient) is a simple script to download and store your articles.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 87851,
+      "TeX": 1616
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 53.69,
+    "S_code": 87.37,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "ShortMM1Q",
+    "full_name": "drvinceknight/ShortMM1Q",
+    "html_url": "https://github.com/drvinceknight/ShortMM1Q",
+    "description": "A repo to try and get a really short MM1 Q simulation in Python",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 533
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 170.26,
+    "S_code": 0.52,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "LearningVersionControl",
+    "full_name": "drvinceknight/LearningVersionControl",
+    "html_url": "https://github.com/drvinceknight/LearningVersionControl",
+    "description": "Going over some git basics and now moving to remote repositories.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 155
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 110.08,
+    "S_code": 0.15,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "moduleplanner-django",
+    "full_name": "drvinceknight/moduleplanner-django",
+    "html_url": "https://github.com/drvinceknight/moduleplanner-django",
+    "description": "Our attempt at using Django with MongoDB to build a module planner",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 6671,
+      "Shell": 395
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 133.45,
+    "S_code": 6.9,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "atom",
+    "full_name": "drvinceknight/atom",
+    "html_url": "https://github.com/drvinceknight/atom",
+    "description": "The hackable editor",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bc",
+    "full_name": "drvinceknight/bc",
+    "html_url": "https://github.com/drvinceknight/bc",
+    "description": "Template for Software Carpentry bootcamp site repository.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "phdtemplate",
+    "full_name": "drvinceknight/phdtemplate",
+    "html_url": "https://github.com/drvinceknight/phdtemplate",
+    "description": "Template for PhD theses at University of Wolverhampton",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 27954,
+      "Makefile": 1745,
+      "Python": 247
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.62,
+    "S_code": 29.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "JamesCUROPPoster",
+    "full_name": "drvinceknight/JamesCUROPPoster",
+    "html_url": "https://github.com/drvinceknight/JamesCUROPPoster",
+    "description": "Latex Poster for a Curop Presentation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 10606
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 35.18,
+    "S_code": 10.36,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "IntroductionToLaTeXwithSageMathCloud",
+    "full_name": "drvinceknight/IntroductionToLaTeXwithSageMathCloud",
+    "html_url": "https://github.com/drvinceknight/IntroductionToLaTeXwithSageMathCloud",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 4858
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 42.37,
+    "S_code": 4.74,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "hscic_apiomatic",
+    "full_name": "drvinceknight/hscic_apiomatic",
+    "html_url": "https://github.com/drvinceknight/hscic_apiomatic",
+    "description": "Scrapes HSCIC website and builds a list of JSON objects for each dataset and key indicator found therein.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Staff-Transport",
+    "full_name": "drvinceknight/Staff-Transport",
+    "html_url": "https://github.com/drvinceknight/Staff-Transport",
+    "description": "A web application for routing of vehicles to pick up hospital staff in extreme weather conditions.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C++": 190554,
+      "Python": 57863,
+      "JavaScript": 7015,
+      "CSS": 1163
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 139.29,
+    "S_code": 250.58,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "dotsync",
+    "full_name": "drvinceknight/dotsync",
+    "html_url": "https://github.com/drvinceknight/dotsync",
+    "description": "Sync dotfiles between multiple machines from a git repo or push using rsync",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 16284
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.95,
+    "S_code": 15.9,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ComputingGui2014",
+    "full_name": "drvinceknight/ComputingGui2014",
+    "html_url": "https://github.com/drvinceknight/ComputingGui2014",
+    "description": "The user interface to our computing project",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ComputingServer2014",
+    "full_name": "drvinceknight/ComputingServer2014",
+    "html_url": "https://github.com/drvinceknight/ComputingServer2014",
+    "description": "The backend of our computing project",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ipython",
+    "full_name": "drvinceknight/ipython",
+    "html_url": "https://github.com/drvinceknight/ipython",
+    "description": "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pandas",
+    "full_name": "drvinceknight/pandas",
+    "html_url": "https://github.com/drvinceknight/pandas",
+    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "scikit-learn",
+    "full_name": "drvinceknight/scikit-learn",
+    "html_url": "https://github.com/drvinceknight/scikit-learn",
+    "description": "scikit-learn: machine learning in Python",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pyconuk-introtutorial",
+    "full_name": "drvinceknight/pyconuk-introtutorial",
+    "html_url": "https://github.com/drvinceknight/pyconuk-introtutorial",
+    "description": "Practical introduction to pandas and scikit-learn via Kaggle problems",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bup",
+    "full_name": "drvinceknight/bup",
+    "html_url": "https://github.com/drvinceknight/bup",
+    "description": "Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.26, and the development branch is master. Please post patches to the mailing list for discussion (see below).",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mpld3",
+    "full_name": "drvinceknight/mpld3",
+    "html_url": "https://github.com/drvinceknight/mpld3",
+    "description": "D3 Renderings of Matplotlib Graphics",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "website",
+    "full_name": "drvinceknight/website",
+    "html_url": "https://github.com/drvinceknight/website",
+    "description": "this is the code for the sagemath.org website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 114474,
+      "JavaScript": 89231,
+      "CSS": 20323,
+      "Shell": 9890
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 134.22,
+    "S_code": 228.44,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "adv-r",
+    "full_name": "drvinceknight/adv-r",
+    "html_url": "https://github.com/drvinceknight/adv-r",
+    "description": "Advanced R programming: a book",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "VK",
+    "full_name": "drvinceknight/VK",
+    "html_url": "https://github.com/drvinceknight/VK",
+    "description": "My old Django site",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 154313,
+      "CSS": 99469,
+      "Python": 44777
+    },
+    "contributions_by_user": 360,
+    "contribution_score": 3745.78,
+    "S_code": 291.56,
+    "S_social": 0,
+    "S_maint": 360
+  },
+  {
+    "name": "GeometryProbabilityandIntegration",
+    "full_name": "drvinceknight/GeometryProbabilityandIntegration",
+    "html_url": "https://github.com/drvinceknight/GeometryProbabilityandIntegration",
+    "description": "A repository for an outreach activity involving dice and integration",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 1295
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.63,
+    "S_code": 1.26,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "PCUTL",
+    "full_name": "drvinceknight/PCUTL",
+    "html_url": "https://github.com/drvinceknight/PCUTL",
+    "description": "A repository for my PCUTL work",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 308796,
+      "Python": 16014,
+      "CSS": 10578,
+      "Shell": 1318
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 184.41,
+    "S_code": 328.81,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "gitolite",
+    "full_name": "drvinceknight/gitolite",
+    "html_url": "https://github.com/drvinceknight/gitolite",
+    "description": "Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.  [IMPORTANT: please click and read the WIKI link above before submitting issues, pull requests, etc]",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "euclidean-geometry",
+    "full_name": "drvinceknight/euclidean-geometry",
+    "html_url": "https://github.com/drvinceknight/euclidean-geometry",
+    "description": "Course Notes and web site for Euclidean Geometry",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cardiffuniv",
+    "full_name": "drvinceknight/cardiffuniv",
+    "html_url": "https://github.com/drvinceknight/cardiffuniv",
+    "description": "Materials for keynote presentation at Workshop on Innovations in Higher Education Mathematics Teaching, Cardiff University, Cardiff, Wales UK, 7-9 July 2014.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 135189,
+      "CSS": 125268,
+      "PHP": 92
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 127.22,
+    "S_code": 254.44,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "IBL-CardiffWorkshop2014",
+    "full_name": "drvinceknight/IBL-CardiffWorkshop2014",
+    "html_url": "https://github.com/drvinceknight/IBL-CardiffWorkshop2014",
+    "description": "Materials for the Workshop on Innovations in Higher Education Mathematics Teaching, Cardiff University, Cardiff, Wales UK, 7-9 July 2014.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 3855
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 41.88,
+    "S_code": 3.76,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "zotero-standalone-build",
+    "full_name": "drvinceknight/zotero-standalone-build",
+    "html_url": "https://github.com/drvinceknight/zotero-standalone-build",
+    "description": "Zotero Standalone build utility",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "zotero",
+    "full_name": "drvinceknight/zotero",
+    "html_url": "https://github.com/drvinceknight/zotero",
+    "description": "Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "CV-1",
+    "full_name": "drvinceknight/CV-1",
+    "html_url": "https://github.com/drvinceknight/CV-1",
+    "description": "My CV",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gambit",
+    "full_name": "drvinceknight/gambit",
+    "html_url": "https://github.com/drvinceknight/gambit",
+    "description": "Gambit",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sage-game-theory",
+    "full_name": "drvinceknight/sage-game-theory",
+    "html_url": "https://github.com/drvinceknight/sage-game-theory",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 52688244,
+      "C": 989088,
+      "Shell": 411451,
+      "C++": 355012,
+      "Gnuplot": 221731,
+      "JavaScript": 55605,
+      "Objective-C": 54188,
+      "GAP": 35124,
+      "MATLAB": 22121,
+      "M": 6780,
+      "TeX": 3429,
+      "Common Lisp": 3318
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 26780.32,
+    "S_code": 53560.64,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ProbationReport2014",
+    "full_name": "drvinceknight/ProbationReport2014",
+    "html_url": "https://github.com/drvinceknight/ProbationReport2014",
+    "description": "Final report for my probatory period as a lecturer at Cardiff University",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 26191
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 182.79,
+    "S_code": 25.58,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "MathematicsAndHealthcareManagement",
+    "full_name": "drvinceknight/MathematicsAndHealthcareManagement",
+    "html_url": "https://github.com/drvinceknight/MathematicsAndHealthcareManagement",
+    "description": "Talk for the Pythagoras Lecture 2014",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 1729
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 70.84,
+    "S_code": 1.69,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "socraticqs",
+    "full_name": "drvinceknight/socraticqs",
+    "html_url": "https://github.com/drvinceknight/socraticqs",
+    "description": "Socraticqs In-Class Question System",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 101251,
+      "Makefile": 4606,
+      "Shell": 4114
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 53.7,
+    "S_code": 107.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "NepidemiX",
+    "full_name": "drvinceknight/NepidemiX",
+    "html_url": "https://github.com/drvinceknight/NepidemiX",
+    "description": "Python library for simulating contact processes on network.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ThinkBayes",
+    "full_name": "drvinceknight/ThinkBayes",
+    "html_url": "https://github.com/drvinceknight/ThinkBayes",
+    "description": "Working through the book: Think Bayes",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 5,
+    "contribution_score": 50.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "fightclub",
+    "full_name": "drvinceknight/fightclub",
+    "html_url": "https://github.com/drvinceknight/fightclub",
+    "description": "FightClub app",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 53799,
+      "CSS": 18938
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 55.52,
+    "S_code": 71.03,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "GeometryProbabilityandPi",
+    "full_name": "drvinceknight/GeometryProbabilityandPi",
+    "html_url": "https://github.com/drvinceknight/GeometryProbabilityandPi",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 1204
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 60.59,
+    "S_code": 1.18,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "EmbeddedEnterpriseExchange",
+    "full_name": "drvinceknight/EmbeddedEnterpriseExchange",
+    "html_url": "https://github.com/drvinceknight/EmbeddedEnterpriseExchange",
+    "description": "A repo for a talk",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 80465,
+      "JavaScript": 61272,
+      "F#": 1654
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 200.02,
+    "S_code": 140.03,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "beamercolorthemesolarized",
+    "full_name": "drvinceknight/beamercolorthemesolarized",
+    "html_url": "https://github.com/drvinceknight/beamercolorthemesolarized",
+    "description": "Beamer color theme using the Solarized palette",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 7699,
+      "Python": 1380
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.43,
+    "S_code": 8.87,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jekyll-new",
+    "full_name": "drvinceknight/jekyll-new",
+    "html_url": "https://github.com/drvinceknight/jekyll-new",
+    "description": "Work on the default jekyll theme. Preview current progress at:",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sharelatex",
+    "full_name": "drvinceknight/sharelatex",
+    "html_url": "https://github.com/drvinceknight/sharelatex",
+    "description": "A web-based collaborative LaTeX editor",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "VoiceOfTheFuture2014",
+    "full_name": "drvinceknight/VoiceOfTheFuture2014",
+    "html_url": "https://github.com/drvinceknight/VoiceOfTheFuture2014",
+    "description": "The questions I'm submitting to Voice of the Future 2014",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 8,
+    "contribution_score": 80.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "pivaders",
+    "full_name": "drvinceknight/pivaders",
+    "html_url": "https://github.com/drvinceknight/pivaders",
+    "description": "Space Invaders clone made with Python and Pygame",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "GooglePythonRegularExpressions",
+    "full_name": "drvinceknight/GooglePythonRegularExpressions",
+    "html_url": "https://github.com/drvinceknight/GooglePythonRegularExpressions",
+    "description": "Working through the google python regex tutorial",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 411
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 40.2,
+    "S_code": 0.4,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "Snakes_and_Ladders",
+    "full_name": "drvinceknight/Snakes_and_Ladders",
+    "html_url": "https://github.com/drvinceknight/Snakes_and_Ladders",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 10770
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 45.26,
+    "S_code": 10.52,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "ThinkBayes-1",
+    "full_name": "drvinceknight/ThinkBayes-1",
+    "html_url": "https://github.com/drvinceknight/ThinkBayes-1",
+    "description": "Code repository for Think Bayes.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "infinite-jekyll",
+    "full_name": "drvinceknight/infinite-jekyll",
+    "html_url": "https://github.com/drvinceknight/infinite-jekyll",
+    "description": "Infinite scroll for Jekyll based blogs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ask",
+    "full_name": "drvinceknight/ask",
+    "html_url": "https://github.com/drvinceknight/ask",
+    "description": "Easy input validation in python",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "An_online_list_of_math_books",
+    "full_name": "drvinceknight/An_online_list_of_math_books",
+    "html_url": "https://github.com/drvinceknight/An_online_list_of_math_books",
+    "description": "Repo for some code used to 'harvest' a google spreadsheet containing a list of math books.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 11710
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 225.72,
+    "S_code": 11.44,
+    "S_social": 0,
+    "S_maint": 22
+  },
+  {
+    "name": "PatMap",
+    "full_name": "drvinceknight/PatMap",
+    "html_url": "https://github.com/drvinceknight/PatMap",
+    "description": "A repo for a tool (with GUI) to obtain distance matrices from google APIs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 62331
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 40.44,
+    "S_code": 60.87,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "prescons",
+    "full_name": "drvinceknight/prescons",
+    "html_url": "https://github.com/drvinceknight/prescons",
+    "description": "A \"pseudo-interactive\" python console for live coding in presentations",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 8216
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.01,
+    "S_code": 8.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Lightning-Talk-Timer",
+    "full_name": "drvinceknight/Lightning-Talk-Timer",
+    "html_url": "https://github.com/drvinceknight/Lightning-Talk-Timer",
+    "description": "A simple HTML+Javascript timer for lightning talks.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2095,
+      "HTML": 1316,
+      "CoffeeScript": 1294
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.3,
+    "S_code": 4.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pep8",
+    "full_name": "drvinceknight/pep8",
+    "html_url": "https://github.com/drvinceknight/pep8",
+    "description": "Simple Python style checker in one Python file",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Educational_Outreach_Activities-Playing_OR_Games",
+    "full_name": "drvinceknight/Educational_Outreach_Activities-Playing_OR_Games",
+    "html_url": "https://github.com/drvinceknight/Educational_Outreach_Activities-Playing_OR_Games",
+    "description": "A talk given by Paul Harper and myself at EURO INFORMS 2013",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 61272,
+      "Python": 2813,
+      "F#": 1654
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 162.1,
+    "S_code": 64.2,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "Probability_of_saying_yes_to_academic_responsabilities",
+    "full_name": "drvinceknight/Probability_of_saying_yes_to_academic_responsabilities",
+    "html_url": "https://github.com/drvinceknight/Probability_of_saying_yes_to_academic_responsabilities",
+    "description": "Small bit of code that uses XKCD style plots to draw my attempt at a cartoon",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 12364
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 106.04,
+    "S_code": 12.07,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "csv2LaTeX",
+    "full_name": "drvinceknight/csv2LaTeX",
+    "html_url": "https://github.com/drvinceknight/csv2LaTeX",
+    "description": "A simple script to convert csv files to LaTeX tabular code.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 2683
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 25.31,
+    "S_code": 2.62,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "OR_Society_Careers_Day",
+    "full_name": "drvinceknight/OR_Society_Careers_Day",
+    "html_url": "https://github.com/drvinceknight/OR_Society_Careers_Day",
+    "description": "Code for an opening address talk I'm giving at the OR Society Careers Day",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 61272,
+      "F#": 1654
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 80.73,
+    "S_code": 61.45,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "Observable_Hierarchical_Queues",
+    "full_name": "drvinceknight/Observable_Hierarchical_Queues",
+    "html_url": "https://github.com/drvinceknight/Observable_Hierarchical_Queues",
+    "description": "This repo contains code files for some ongoing work on Hierarchical Queues.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "when-changed",
+    "full_name": "drvinceknight/when-changed",
+    "html_url": "https://github.com/drvinceknight/when-changed",
+    "description": "Execute a command when a file is changed",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

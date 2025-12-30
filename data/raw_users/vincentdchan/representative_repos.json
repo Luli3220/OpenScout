@@ -1,0 +1,1613 @@
+[
+  {
+    "name": "CubyText",
+    "full_name": "vincentdchan/CubyText",
+    "html_url": "https://github.com/vincentdchan/CubyText",
+    "description": "An open-source knowledge management app.",
+    "stars": 772,
+    "forks": 36,
+    "languages": {
+      "TypeScript": 258938,
+      "SCSS": 19693,
+      "JavaScript": 4336,
+      "HTML": 864,
+      "CSS": 199
+    },
+    "contributions_by_user": 52,
+    "contribution_score": 2346.69,
+    "S_code": 277.37,
+    "S_social": 844,
+    "S_maint": 52
+  },
+  {
+    "name": "webpack-deep-scope-analysis-plugin",
+    "full_name": "vincentdchan/webpack-deep-scope-analysis-plugin",
+    "html_url": "https://github.com/vincentdchan/webpack-deep-scope-analysis-plugin",
+    "description": "A webpack plugin for deep scope analysis",
+    "stars": 612,
+    "forks": 28,
+    "languages": {
+      "TypeScript": 83023,
+      "JavaScript": 6732
+    },
+    "contributions_by_user": 144,
+    "contribution_score": 2819.83,
+    "S_code": 87.65,
+    "S_social": 668,
+    "S_maint": 144
+  },
+  {
+    "name": "blocky-editor",
+    "full_name": "vincentdchan/blocky-editor",
+    "html_url": "https://github.com/vincentdchan/blocky-editor",
+    "description": "A Notion-like editor built with blocks.",
+    "stars": 471,
+    "forks": 23,
+    "languages": {
+      "TypeScript": 400325,
+      "SCSS": 9197,
+      "CSS": 4792,
+      "JavaScript": 1116,
+      "Shell": 391
+    },
+    "contributions_by_user": 473,
+    "contribution_score": 5967.04,
+    "S_code": 406.08,
+    "S_social": 517,
+    "S_maint": 473
+  },
+  {
+    "name": "jetpack.js",
+    "full_name": "vincentdchan/jetpack.js",
+    "html_url": "https://github.com/vincentdchan/jetpack.js",
+    "description": "A JavaScript bundler and minifier implemented in C++ aimed at excellent performance.",
+    "stars": 150,
+    "forks": 9,
+    "languages": {
+      "C++": 793988,
+      "JavaScript": 52709,
+      "CMake": 8205,
+      "C": 157
+    },
+    "contributions_by_user": 426,
+    "contribution_score": 5013.51,
+    "S_code": 835.02,
+    "S_social": 168,
+    "S_maint": 426
+  },
+  {
+    "name": "MDE",
+    "full_name": "vincentdchan/MDE",
+    "html_url": "https://github.com/vincentdchan/MDE",
+    "description": "MDE is a markdown editor built on Electron",
+    "stars": 38,
+    "forks": 4,
+    "languages": {
+      "TypeScript": 298138,
+      "CSS": 9386,
+      "HTML": 2048,
+      "Shell": 1077,
+      "JavaScript": 922,
+      "Batchfile": 237,
+      "NSIS": 170
+    },
+    "contributions_by_user": 172,
+    "contribution_score": 1964.33,
+    "S_code": 304.67,
+    "S_social": 46,
+    "S_maint": 172
+  },
+  {
+    "name": "yesbuild",
+    "full_name": "vincentdchan/yesbuild",
+    "html_url": "https://github.com/vincentdchan/yesbuild",
+    "description": "A scable and extensible build system for the Web ecosystem.",
+    "stars": 33,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 85218,
+      "Makefile": 1186,
+      "CSS": 339,
+      "HTML": 330,
+      "JavaScript": 47
+    },
+    "contributions_by_user": 86,
+    "contribution_score": 968.54,
+    "S_code": 85.08,
+    "S_social": 33,
+    "S_maint": 86
+  },
+  {
+    "name": "quickjs",
+    "full_name": "vincentdchan/quickjs",
+    "html_url": "https://github.com/vincentdchan/quickjs",
+    "description": "A fork of Bellard's QuickJS, support CMake.",
+    "stars": 27,
+    "forks": 5,
+    "languages": {
+      "C": 2809551,
+      "JavaScript": 219171,
+      "Shell": 3820,
+      "CMake": 1813
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 1635.62,
+    "S_code": 2963.24,
+    "S_social": 37,
+    "S_maint": 8
+  },
+  {
+    "name": "TerminalOne",
+    "full_name": "vincentdchan/TerminalOne",
+    "html_url": "https://github.com/vincentdchan/TerminalOne",
+    "description": "Terminal One is a blazingly fast, smart and and friendly terminal emulator for developers.",
+    "stars": 20,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 148399,
+      "Rust": 73663,
+      "CSS": 22255,
+      "Shell": 5202,
+      "HTML": 459
+    },
+    "contributions_by_user": 184,
+    "contribution_score": 2002.06,
+    "S_code": 244.12,
+    "S_social": 20,
+    "S_maint": 184
+  },
+  {
+    "name": "Spanner.py",
+    "full_name": "vincentdchan/Spanner.py",
+    "html_url": "https://github.com/vincentdchan/Spanner.py",
+    "description": "Spanner.py is a micro web framework written in python for human beings.",
+    "stars": 15,
+    "forks": 1,
+    "languages": {
+      "Python": 27295
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 127.33,
+    "S_code": 26.66,
+    "S_social": 17,
+    "S_maint": 8
+  },
+  {
+    "name": "ocaml",
+    "full_name": "vincentdchan/ocaml",
+    "html_url": "https://github.com/vincentdchan/ocaml",
+    "description": "This is a forked version of OCaml, aimed to be compiled to WASM.",
+    "stars": 12,
+    "forks": 1,
+    "languages": {
+      "OCaml": 14525935,
+      "C": 2186448,
+      "Shell": 476430,
+      "Assembly": 166090,
+      "Makefile": 158447,
+      "M4": 89020,
+      "TeX": 43501,
+      "Standard ML": 31538,
+      "SCSS": 28808,
+      "JavaScript": 14829,
+      "Awk": 12173,
+      "Batchfile": 6483,
+      "CSS": 2633,
+      "Perl": 2479,
+      "HTML": 1427,
+      "Forth": 460,
+      "C#": 257
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8693.51,
+    "S_code": 17331.01,
+    "S_social": 14,
+    "S_maint": 0
+  },
+  {
+    "name": "node-xattr",
+    "full_name": "vincentdchan/node-xattr",
+    "html_url": "https://github.com/vincentdchan/node-xattr",
+    "description": "A library to manipulate xattr on macOS for Node.js.",
+    "stars": 10,
+    "forks": 0,
+    "languages": {
+      "Objective-C": 24963,
+      "C++": 14248,
+      "Objective-C++": 5189,
+      "JavaScript": 4009,
+      "CMake": 1503,
+      "C": 1240
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 214.98,
+    "S_code": 49.95,
+    "S_social": 10,
+    "S_maint": 17
+  },
+  {
+    "name": "ocaml-binaryen-dsl",
+    "full_name": "vincentdchan/ocaml-binaryen-dsl",
+    "html_url": "https://github.com/vincentdchan/ocaml-binaryen-dsl",
+    "description": "Write WAT DSL in OCaml.",
+    "stars": 7,
+    "forks": 1,
+    "languages": {
+      "OCaml": 17023
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 106.31,
+    "S_code": 16.62,
+    "S_social": 9,
+    "S_maint": 8
+  },
+  {
+    "name": "ZhengFangToolkit",
+    "full_name": "vincentdchan/ZhengFangToolkit",
+    "html_url": "https://github.com/vincentdchan/ZhengFangToolkit",
+    "description": "A tool to help to use ZhengFang System more easier.",
+    "stars": 7,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 20150,
+      "JavaScript": 19299,
+      "HTML": 990
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 113.75,
+    "S_code": 39.49,
+    "S_social": 7,
+    "S_maint": 8
+  },
+  {
+    "name": "halang",
+    "full_name": "vincentdchan/halang",
+    "html_url": "https://github.com/vincentdchan/halang",
+    "description": "A toy language implementation. Including lexer, parser, code generation and interpreter.",
+    "stars": 6,
+    "forks": 2,
+    "languages": {
+      "C++": 553854,
+      "Makefile": 1757,
+      "Shell": 542,
+      "C": 306
+    },
+    "contributions_by_user": 87,
+    "contribution_score": 1161.71,
+    "S_code": 543.42,
+    "S_social": 10,
+    "S_maint": 87
+  },
+  {
+    "name": "zfs-js",
+    "full_name": "vincentdchan/zfs-js",
+    "html_url": "https://github.com/vincentdchan/zfs-js",
+    "description": "A FAT16 like file system implemented in JavaScript",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 21098
+    },
+    "contributions_by_user": 30,
+    "contribution_score": 322.3,
+    "S_code": 20.6,
+    "S_social": 6,
+    "S_maint": 30
+  },
+  {
+    "name": "vincentdchan",
+    "full_name": "vincentdchan/vincentdchan",
+    "html_url": "https://github.com/vincentdchan/vincentdchan",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 14,
+    "contribution_score": 146.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 14
+  },
+  {
+    "name": "esreverse-site",
+    "full_name": "vincentdchan/esreverse-site",
+    "html_url": "https://github.com/vincentdchan/esreverse-site",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 29484,
+      "HTML": 570
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 140.67,
+    "S_code": 29.35,
+    "S_social": 3,
+    "S_maint": 12
+  },
+  {
+    "name": "yesbuild-solidjs-example",
+    "full_name": "vincentdchan/yesbuild-solidjs-example",
+    "html_url": "https://github.com/vincentdchan/yesbuild-solidjs-example",
+    "description": "An example to demonstrate how to use Yesbuild to compile SolidJS.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2278,
+      "HTML": 190
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 47.21,
+    "S_code": 2.41,
+    "S_social": 3,
+    "S_maint": 4
+  },
+  {
+    "name": "polodb-docs",
+    "full_name": "vincentdchan/polodb-docs",
+    "html_url": "https://github.com/vincentdchan/polodb-docs",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "MDX": 17812,
+      "TypeScript": 13017,
+      "JavaScript": 141,
+      "CSS": 101
+    },
+    "contributions_by_user": 61,
+    "contribution_score": 633.17,
+    "S_code": 30.34,
+    "S_social": 4,
+    "S_maint": 61
+  },
+  {
+    "name": "babel",
+    "full_name": "vincentdchan/babel",
+    "html_url": "https://github.com/vincentdchan/babel",
+    "description": ":tropical_fish: Babel is a compiler for writing next generation JavaScript.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2992490,
+      "Makefile": 4357,
+      "HTML": 3207,
+      "Shell": 1436
+    },
+    "contributions_by_user": 51,
+    "contribution_score": 1979.57,
+    "S_code": 2931.14,
+    "S_social": 2,
+    "S_maint": 51
+  },
+  {
+    "name": "plus1s",
+    "full_name": "vincentdchan/plus1s",
+    "html_url": "https://github.com/vincentdchan/plus1s",
+    "description": "Are you a real fans?",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 3338
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 85.63,
+    "S_code": 3.26,
+    "S_social": 2,
+    "S_maint": 8
+  },
+  {
+    "name": "Code2Html",
+    "full_name": "vincentdchan/Code2Html",
+    "html_url": "https://github.com/vincentdchan/Code2Html",
+    "description": "源代码到HTML的转换程序",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "CSS": 383403,
+      "Java": 127794,
+      "Jupyter Notebook": 11501,
+      "Python": 2937
+    },
+    "contributions_by_user": 76,
+    "contribution_score": 1024.66,
+    "S_code": 513.32,
+    "S_social": 4,
+    "S_maint": 76
+  },
+  {
+    "name": "parchment-next",
+    "full_name": "vincentdchan/parchment-next",
+    "html_url": "https://github.com/vincentdchan/parchment-next",
+    "description": "Generalized state model for rich-text editors to interface with browser DOM",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 130337,
+      "JavaScript": 4330
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 87.76,
+    "S_code": 131.51,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "yjs",
+    "full_name": "vincentdchan/yjs",
+    "html_url": "https://github.com/vincentdchan/yjs",
+    "description": "Shared data types for building collaborative software",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 421953,
+      "HTML": 146
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 208.1,
+    "S_code": 412.21,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "SwiftyPoloDB",
+    "full_name": "vincentdchan/SwiftyPoloDB",
+    "html_url": "https://github.com/vincentdchan/SwiftyPoloDB",
+    "description": "Swift port of PoloDB",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Swift": 13132,
+      "Objective-C": 494
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 28.65,
+    "S_code": 13.31,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "dokany",
+    "full_name": "vincentdchan/dokany",
+    "html_url": "https://github.com/vincentdchan/dokany",
+    "description": "User mode file system library for windows with FUSE Wrapper",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 845776,
+      "C++": 100465,
+      "PowerShell": 19847,
+      "Rich Text Format": 12641,
+      "C#": 11744,
+      "JavaScript": 10589,
+      "CSS": 6223,
+      "CMake": 3030,
+      "HTML": 2949,
+      "Makefile": 283,
+      "Batchfile": 109
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 496.95,
+    "S_code": 989.9,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "react-fisheye",
+    "full_name": "vincentdchan/react-fisheye",
+    "html_url": "https://github.com/vincentdchan/react-fisheye",
+    "description": "React-fisheye is a react component implements fisheye effect.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 3692,
+      "HTML": 1544,
+      "CSS": 56
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 88.58,
+    "S_code": 5.17,
+    "S_social": 3,
+    "S_maint": 8
+  },
+  {
+    "name": "ZOS-Simulator",
+    "full_name": "vincentdchan/ZOS-Simulator",
+    "html_url": "https://github.com/vincentdchan/ZOS-Simulator",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 39911,
+      "CSS": 4651,
+      "HTML": 649
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 284.08,
+    "S_code": 44.15,
+    "S_social": 1,
+    "S_maint": 26
+  },
+  {
+    "name": "CPPRayTracer",
+    "full_name": "vincentdchan/CPPRayTracer",
+    "html_url": "https://github.com/vincentdchan/CPPRayTracer",
+    "description": "Ray tracing renderer",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C++": 352379
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 398.06,
+    "S_code": 344.12,
+    "S_social": 3,
+    "S_maint": 22
+  },
+  {
+    "name": "libQtShadowsocks",
+    "full_name": "vincentdchan/libQtShadowsocks",
+    "html_url": "https://github.com/vincentdchan/libQtShadowsocks",
+    "description": "A lightweight and ultra-fast shadowsocks library written in C++/Qt",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "C++": 151142,
+      "QMake": 5797,
+      "C": 204
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 156.73,
+    "S_code": 153.46,
+    "S_social": 5,
+    "S_maint": 7
+  },
+  {
+    "name": "SCAUCourseExporter",
+    "full_name": "vincentdchan/SCAUCourseExporter",
+    "html_url": "https://github.com/vincentdchan/SCAUCourseExporter",
+    "description": "A tool to export the course timetable to the .ics file",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 22601,
+      "JavaScript": 20599,
+      "HTML": 1759,
+      "Batchfile": 211
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 164.06,
+    "S_code": 44.11,
+    "S_social": 1,
+    "S_maint": 14
+  },
+  {
+    "name": "CalculatorParser",
+    "full_name": "vincentdchan/CalculatorParser",
+    "html_url": "https://github.com/vincentdchan/CalculatorParser",
+    "description": "A simple parser for simple expression in math. And a virtual machine is added now. it can execute the expression.",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "C++": 36897,
+      "C": 611
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 218.31,
+    "S_code": 36.63,
+    "S_social": 5,
+    "S_maint": 19
+  },
+  {
+    "name": "nextai-translator",
+    "full_name": "vincentdchan/nextai-translator",
+    "html_url": "https://github.com/vincentdchan/nextai-translator",
+    "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 726606,
+      "Rust": 103830,
+      "HTML": 5350,
+      "Swift": 4689,
+      "JavaScript": 4095,
+      "AppleScript": 3043,
+      "CSS": 2829,
+      "Python": 2462,
+      "Makefile": 1016,
+      "Shell": 196,
+      "PowerShell": 167
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 417.13,
+    "S_code": 834.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "browser-based-languages-benchmarks",
+    "full_name": "vincentdchan/browser-based-languages-benchmarks",
+    "html_url": "https://github.com/vincentdchan/browser-based-languages-benchmarks",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 39441,
+      "C++": 11079,
+      "Rust": 10774,
+      "CSS": 2550,
+      "CMake": 2463,
+      "HTML": 1014,
+      "Makefile": 912
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 183.32,
+    "S_code": 66.63,
+    "S_social": 0,
+    "S_maint": 15
+  },
+  {
+    "name": "pixijs",
+    "full_name": "vincentdchan/pixijs",
+    "html_url": "https://github.com/vincentdchan/pixijs",
+    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3655689,
+      "JavaScript": 96262,
+      "WGSL": 17275,
+      "GLSL": 6951,
+      "Shell": 483
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1844.07,
+    "S_code": 3688.14,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "filament",
+    "full_name": "vincentdchan/filament",
+    "html_url": "https://github.com/vincentdchan/filament",
+    "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 8706659,
+      "Assembly": 2833989,
+      "C": 2798578,
+      "Java": 835687,
+      "Kotlin": 437707,
+      "Objective-C++": 339302,
+      "GLSL": 260428,
+      "CMake": 215043,
+      "JavaScript": 99887,
+      "Python": 79757,
+      "Shell": 79581,
+      "HTML": 78313,
+      "Go": 61174,
+      "Objective-C": 56389,
+      "CSS": 15872,
+      "Groovy": 12087,
+      "Batchfile": 4607,
+      "Ruby": 4436,
+      "TypeScript": 3293,
+      "Emacs Lisp": 2943,
+      "Tcl": 2447,
+      "Dockerfile": 2404,
+      "RenderScript": 1769,
+      "C#": 1099
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8268.29,
+    "S_code": 16536.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fcl",
+    "full_name": "vincentdchan/fcl",
+    "html_url": "https://github.com/vincentdchan/fcl",
+    "description": "Flexible Collision Library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 4008278,
+      "CMake": 63865,
+      "C": 31447,
+      "JavaScript": 649,
+      "Shell": 576
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 2064.3,
+    "S_code": 4008.61,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "mac_proxy",
+    "full_name": "vincentdchan/mac_proxy",
+    "html_url": "https://github.com/vincentdchan/mac_proxy",
+    "description": "A library for Rust to fetch the proxy settings on MacOS.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Rust": 5624
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 46.75,
+    "S_code": 5.49,
+    "S_social": 2,
+    "S_maint": 4
+  },
+  {
+    "name": "xterm.es",
+    "full_name": "vincentdchan/xterm.es",
+    "html_url": "https://github.com/vincentdchan/xterm.es",
+    "description": "A terminal for the web(ES fork of xterm.js)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2060367,
+      "JavaScript": 49607,
+      "CSS": 4618,
+      "Python": 2313,
+      "HTML": 1631,
+      "Shell": 1082,
+      "Dockerfile": 804,
+      "Procfile": 38
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1035.38,
+    "S_code": 2070.76,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "awesome-rust",
+    "full_name": "vincentdchan/awesome-rust",
+    "html_url": "https://github.com/vincentdchan/awesome-rust",
+    "description": "A curated list of Rust code and resources.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 42839
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.92,
+    "S_code": 41.83,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "AppFlowy",
+    "full_name": "vincentdchan/AppFlowy",
+    "html_url": "https://github.com/vincentdchan/AppFlowy",
+    "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 2395985,
+      "Dart": 1624764,
+      "C++": 69951,
+      "CMake": 41047,
+      "Ruby": 12856,
+      "Swift": 9501,
+      "HTML": 7759,
+      "C": 7484,
+      "Java": 4603,
+      "Kotlin": 3244,
+      "Shell": 2750,
+      "Dockerfile": 1942,
+      "Objective-C": 1443,
+      "JavaScript": 795,
+      "Batchfile": 419,
+      "Makefile": 404
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2043.43,
+    "S_code": 4086.86,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "y-prosemirror",
+    "full_name": "vincentdchan/y-prosemirror",
+    "html_url": "https://github.com/vincentdchan/y-prosemirror",
+    "description": "ProseMirror editor binding for Yjs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 66148,
+      "HTML": 141
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 32.37,
+    "S_code": 64.74,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lichenscript-docs",
+    "full_name": "vincentdchan/lichenscript-docs",
+    "html_url": "https://github.com/vincentdchan/lichenscript-docs",
+    "description": "The document of LichenScript.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3126
+    },
+    "contributions_by_user": 46,
+    "contribution_score": 461.53,
+    "S_code": 3.05,
+    "S_social": 0,
+    "S_maint": 46
+  },
+  {
+    "name": "lichenscript-site",
+    "full_name": "vincentdchan/lichenscript-site",
+    "html_url": "https://github.com/vincentdchan/lichenscript-site",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 12014,
+      "CSS": 4335,
+      "JavaScript": 66
+    },
+    "contributions_by_user": 35,
+    "contribution_score": 358.02,
+    "S_code": 16.03,
+    "S_social": 0,
+    "S_maint": 35
+  },
+  {
+    "name": "awesome-wasm",
+    "full_name": "vincentdchan/awesome-wasm",
+    "html_url": "https://github.com/vincentdchan/awesome-wasm",
+    "description": "😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "WasmEdge",
+    "full_name": "vincentdchan/WasmEdge",
+    "html_url": "https://github.com/vincentdchan/WasmEdge",
+    "description": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 2669251,
+      "Rust": 399338,
+      "C": 164347,
+      "CMake": 76852,
+      "JavaScript": 49195,
+      "Shell": 38043,
+      "WebAssembly": 17143,
+      "Jupyter Notebook": 5896,
+      "Nix": 1925,
+      "Kotlin": 1730,
+      "Python": 1158,
+      "Objective-C++": 840,
+      "Dockerfile": 30
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1672.73,
+    "S_code": 3345.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vincentdchan.github.io",
+    "full_name": "vincentdchan/vincentdchan.github.io",
+    "html_url": "https://github.com/vincentdchan/vincentdchan.github.io",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 993664
+    },
+    "contributions_by_user": 83,
+    "contribution_score": 1315.19,
+    "S_code": 970.38,
+    "S_social": 0,
+    "S_maint": 83
+  },
+  {
+    "name": "hyper",
+    "full_name": "vincentdchan/hyper",
+    "html_url": "https://github.com/vincentdchan/hyper",
+    "description": "A terminal built on web technologies",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 285657,
+      "JavaScript": 6960,
+      "Shell": 2558,
+      "NSIS": 1226,
+      "HTML": 836,
+      "Batchfile": 119
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 145.19,
+    "S_code": 290.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "opam-repository",
+    "full_name": "vincentdchan/opam-repository",
+    "html_url": "https://github.com/vincentdchan/opam-repository",
+    "description": "Main public package repository for opam, the source package manager of OCaml.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 19233,
+      "OCaml": 15396,
+      "C": 501
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.15,
+    "S_code": 34.31,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "UString",
+    "full_name": "vincentdchan/UString",
+    "html_url": "https://github.com/vincentdchan/UString",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 73717,
+      "C": 1120,
+      "CMake": 981
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 117.02,
+    "S_code": 74.04,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "vscode-textmate",
+    "full_name": "vincentdchan/vscode-textmate",
+    "html_url": "https://github.com/vincentdchan/vscode-textmate",
+    "description": "A library that helps tokenize text using Text Mate grammars.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6125686,
+      "TypeScript": 196494,
+      "SCSS": 6030,
+      "Groovy": 3928,
+      "CSS": 3257,
+      "HTML": 2518,
+      "Python": 2119,
+      "Perl": 1922,
+      "Ruby": 1703,
+      "PowerShell": 1432,
+      "Objective-C": 1387,
+      "Go": 1226,
+      "Clojure": 1206,
+      "PHP": 1181,
+      "Handlebars": 1064,
+      "Less": 1014,
+      "C++": 1000,
+      "Visual Basic .NET": 893,
+      "C": 818,
+      "F#": 634,
+      "Shell": 634,
+      "CoffeeScript": 590,
+      "Java": 576,
+      "Makefile": 553,
+      "Rust": 532,
+      "Batchfile": 488,
+      "C#": 488,
+      "Dockerfile": 425,
+      "R": 362,
+      "ShaderLab": 330,
+      "Lua": 252,
+      "Swift": 220,
+      "Pug": 22
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 3125.95,
+    "S_code": 6211.9,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "cLaTeXMath",
+    "full_name": "vincentdchan/cLaTeXMath",
+    "html_url": "https://github.com/vincentdchan/cLaTeXMath",
+    "description": "A dynamic, cross-platform, and embeddable LaTeX rendering library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 863988,
+      "TeX": 9933,
+      "Meson": 6354,
+      "C": 4459,
+      "Shell": 3054,
+      "CMake": 2715
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 444.82,
+    "S_code": 869.63,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "fsharp",
+    "full_name": "vincentdchan/fsharp",
+    "html_url": "https://github.com/vincentdchan/fsharp",
+    "description": "The F# compiler, FSharp.Core library, and tools for F#",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "F#": 29462347,
+      "C#": 2938422,
+      "Rich Text Format": 2818518,
+      "Visual Basic .NET": 1061397,
+      "Perl": 200295,
+      "PowerShell": 182471,
+      "Shell": 119429,
+      "Batchfile": 50237,
+      "HTML": 45949,
+      "OCaml": 38754,
+      "GLSL": 31804,
+      "Forth": 19377,
+      "Makefile": 18632,
+      "CMake": 9153,
+      "CSS": 4512,
+      "Standard ML": 3758,
+      "Dockerfile": 1857,
+      "C++": 950,
+      "C": 306
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 18070.39,
+    "S_code": 36140.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jetpack-homepage",
+    "full_name": "vincentdchan/jetpack-homepage",
+    "html_url": "https://github.com/vincentdchan/jetpack-homepage",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 21
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.01,
+    "S_code": 0.02,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "github-plus-theme",
+    "full_name": "vincentdchan/github-plus-theme",
+    "html_url": "https://github.com/vincentdchan/github-plus-theme",
+    "description": "A VSCode theme inspired by GitHub color scheme",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "webpack-deep-scope-demo",
+    "full_name": "vincentdchan/webpack-deep-scope-demo",
+    "html_url": "https://github.com/vincentdchan/webpack-deep-scope-demo",
+    "description": "Demo of deep scope analysis plugin",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 92234,
+      "JavaScript": 21842,
+      "HTML": 781
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 146.08,
+    "S_code": 112.17,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "lwt-fork-example",
+    "full_name": "vincentdchan/lwt-fork-example",
+    "html_url": "https://github.com/vincentdchan/lwt-fork-example",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "OCaml": 3564,
+      "Makefile": 517
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 71.99,
+    "S_code": 3.99,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "gsoc-cn",
+    "full_name": "vincentdchan/gsoc-cn",
+    "html_url": "https://github.com/vincentdchan/gsoc-cn",
+    "description": "Main repo for gsoc-cn which about how we maintain this organization  ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "webpack",
+    "full_name": "vincentdchan/webpack",
+    "html_url": "https://github.com/vincentdchan/webpack",
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through \"loaders,\" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1778155,
+      "WebAssembly": 4461,
+      "CSS": 3601,
+      "HTML": 1296,
+      "CoffeeScript": 1212
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 873.4,
+    "S_code": 1746.8,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "esprit",
+    "full_name": "vincentdchan/esprit",
+    "html_url": "https://github.com/vincentdchan/esprit",
+    "description": "A JavaScript parser written in Rust",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 261108,
+      "Shell": 806,
+      "Makefile": 523
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 128.14,
+    "S_code": 256.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "halang-ocaml",
+    "full_name": "vincentdchan/halang-ocaml",
+    "html_url": "https://github.com/vincentdchan/halang-ocaml",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "OCaml": 50913,
+      "Makefile": 1991,
+      "Shell": 538
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 166.09,
+    "S_code": 52.19,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "NewsCluster",
+    "full_name": "vincentdchan/NewsCluster",
+    "html_url": "https://github.com/vincentdchan/NewsCluster",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 61642,
+      "Python": 6167
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 33.11,
+    "S_code": 66.22,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "proposal-pattern-matching",
+    "full_name": "vincentdchan/proposal-pattern-matching",
+    "html_url": "https://github.com/vincentdchan/proposal-pattern-matching",
+    "description": "Pattern matching syntax for ECMAScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "biotester",
+    "full_name": "vincentdchan/biotester",
+    "html_url": "https://github.com/vincentdchan/biotester",
+    "description": "帮助中国大陆高中生背诵基础知识的网页。最开始被用于背文言文，经过粗略的更改后可以遮挡任意用{}标记的内容，来达到考察缺漏知识点的目的。",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 270493,
+      "CSS": 16806,
+      "JavaScript": 1922,
+      "Python": 956
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 151.69,
+    "S_code": 283.38,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "inventedFileSystem",
+    "full_name": "vincentdchan/inventedFileSystem",
+    "html_url": "https://github.com/vincentdchan/inventedFileSystem",
+    "description": "fileSystem for Operating system course design",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 158087,
+      "Vue": 39375,
+      "JavaScript": 32727,
+      "HTML": 745
+    },
+    "contributions_by_user": 33,
+    "contribution_score": 442.76,
+    "S_code": 225.52,
+    "S_social": 0,
+    "S_maint": 33
+  },
+  {
+    "name": "LearnWebGL",
+    "full_name": "vincentdchan/LearnWebGL",
+    "html_url": "https://github.com/vincentdchan/LearnWebGL",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 4923,
+      "HTML": 1234,
+      "JavaScript": 1091
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.54,
+    "S_code": 7.08,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "diverse.space",
+    "full_name": "vincentdchan/diverse.space",
+    "html_url": "https://github.com/vincentdchan/diverse.space",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 15618,
+      "CSS": 1114,
+      "JavaScript": 1089,
+      "HTML": 934
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 169.16,
+    "S_code": 18.32,
+    "S_social": 0,
+    "S_maint": 16
+  },
+  {
+    "name": "Lua-Adapter",
+    "full_name": "vincentdchan/Lua-Adapter",
+    "html_url": "https://github.com/vincentdchan/Lua-Adapter",
+    "description": "lightweight Lua - C++ Adapter/wrapper",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 27037,
+      "Lua": 683
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 43.54,
+    "S_code": 27.07,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "dzml",
+    "full_name": "vincentdchan/dzml",
+    "html_url": "https://github.com/vincentdchan/dzml",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 38181,
+      "C": 984
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 129.12,
+    "S_code": 38.25,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "SelectorGenerator",
+    "full_name": "vincentdchan/SelectorGenerator",
+    "html_url": "https://github.com/vincentdchan/SelectorGenerator",
+    "description": "JavaScript object that creates a unique CSS selector for a given DOM element. It has no external dependencies.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 185405,
+      "CSS": 6537,
+      "HTML": 749
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 98.09,
+    "S_code": 188.17,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "CSharpTracer",
+    "full_name": "vincentdchan/CSharpTracer",
+    "html_url": "https://github.com/vincentdchan/CSharpTracer",
+    "description": "Ray Tracer implemented in C#",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 28401
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 93.87,
+    "S_code": 27.74,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "Helium-lite",
+    "full_name": "vincentdchan/Helium-lite",
+    "html_url": "https://github.com/vincentdchan/Helium-lite",
+    "description": "Helium System 精简版",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PHP": 1957796,
+      "JavaScript": 8902,
+      "HTML": 5764,
+      "ApacheConf": 1028,
+      "CSS": 627
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 1033.92,
+    "S_code": 1927.85,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "homework",
+    "full_name": "vincentdchan/homework",
+    "html_url": "https://github.com/vincentdchan/homework",
+    "description": "a website to publish homework and materials",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "PHP": 435445,
+      "CSS": 83765,
+      "JavaScript": 33058,
+      "HTML": 8443
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 317.78,
+    "S_code": 547.57,
+    "S_social": 2,
+    "S_maint": 4
+  },
+  {
+    "name": "asm-gen-web",
+    "full_name": "vincentdchan/asm-gen-web",
+    "html_url": "https://github.com/vincentdchan/asm-gen-web",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 392837,
+      "HTML": 41457,
+      "CSS": 8313
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 326.12,
+    "S_code": 432.23,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "mde-doc",
+    "full_name": "vincentdchan/mde-doc",
+    "html_url": "https://github.com/vincentdchan/mde-doc",
+    "description": "The documentation of MDE Editor.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 5,
+    "contribution_score": 50.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "typescript-domhelper",
+    "full_name": "vincentdchan/typescript-domhelper",
+    "html_url": "https://github.com/vincentdchan/typescript-domhelper",
+    "description": "DOM helper for Typescript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 13750,
+      "JavaScript": 1265
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 97.33,
+    "S_code": 14.66,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "canvas-workspace-template",
+    "full_name": "vincentdchan/canvas-workspace-template",
+    "html_url": "https://github.com/vincentdchan/canvas-workspace-template",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 24668,
+      "HTML": 749,
+      "JavaScript": 509
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 52.66,
+    "S_code": 25.32,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "typedoc-default-themes",
+    "full_name": "vincentdchan/typedoc-default-themes",
+    "html_url": "https://github.com/vincentdchan/typedoc-default-themes",
+    "description": "The themes of MDE documentation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 37864,
+      "TypeScript": 36749,
+      "CSS": 36214,
+      "HTML": 33706
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 70.57,
+    "S_code": 141.15,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "TrafficQuery",
+    "full_name": "vincentdchan/TrafficQuery",
+    "html_url": "https://github.com/vincentdchan/TrafficQuery",
+    "description": "A Metro query program written in C# for Guangzhou.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 20333
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 169.93,
+    "S_code": 19.86,
+    "S_social": 0,
+    "S_maint": 16
+  },
+  {
+    "name": "immutable-benchmarks",
+    "full_name": "vincentdchan/immutable-benchmarks",
+    "html_url": "https://github.com/vincentdchan/immutable-benchmarks",
+    "description": "Benchmark of Javascript Immutability Libraries",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 15045
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.35,
+    "S_code": 14.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "coursera-ml",
+    "full_name": "vincentdchan/coursera-ml",
+    "html_url": "https://github.com/vincentdchan/coursera-ml",
+    "description": "Completed assignments from Coursera Machine Learning course - March 2014",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "MATLAB": 339696
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 165.87,
+    "S_code": 331.73,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "BananaCollection",
+    "full_name": "vincentdchan/BananaCollection",
+    "html_url": "https://github.com/vincentdchan/BananaCollection",
+    "description": "A typescript style data structure which implement C# like event and collection.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 7267
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.55,
+    "S_code": 7.1,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "PowerTester",
+    "full_name": "vincentdchan/PowerTester",
+    "html_url": "https://github.com/vincentdchan/PowerTester",
+    "description": "A tester to help your memorize something for human beings",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 392757,
+      "CSS": 189084,
+      "CoffeeScript": 9269
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 302.63,
+    "S_code": 577.26,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "shadowsocks-go",
+    "full_name": "vincentdchan/shadowsocks-go",
+    "html_url": "https://github.com/vincentdchan/shadowsocks-go",
+    "description": "go port of shadowsocks",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

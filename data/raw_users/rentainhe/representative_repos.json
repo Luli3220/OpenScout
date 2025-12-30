@@ -1,0 +1,2125 @@
+[
+  {
+    "name": "visualization",
+    "full_name": "rentainhe/visualization",
+    "html_url": "https://github.com/rentainhe/visualization",
+    "description": "a collection of visualization function",
+    "stars": 448,
+    "forks": 41,
+    "languages": {
+      "Python": 18731
+    },
+    "contributions_by_user": 46,
+    "contribution_score": 1529.15,
+    "S_code": 18.29,
+    "S_social": 530,
+    "S_maint": 46
+  },
+  {
+    "name": "pytorch-distributed-training",
+    "full_name": "rentainhe/pytorch-distributed-training",
+    "html_url": "https://github.com/rentainhe/pytorch-distributed-training",
+    "description": "Simple tutorials on Pytorch DDP training",
+    "stars": 285,
+    "forks": 49,
+    "languages": {
+      "Python": 43842
+    },
+    "contributions_by_user": 55,
+    "contribution_score": 1337.41,
+    "S_code": 42.81,
+    "S_social": 383,
+    "S_maint": 55
+  },
+  {
+    "name": "TRAR-VQA",
+    "full_name": "rentainhe/TRAR-VQA",
+    "html_url": "https://github.com/rentainhe/TRAR-VQA",
+    "description": "[ICCV 2021] Official implementation of the paper \"TRAR: Routing the Attention Spans in Transformers for Visual Question Answering\"",
+    "stars": 68,
+    "forks": 18,
+    "languages": {
+      "Python": 116416
+    },
+    "contributions_by_user": 61,
+    "contribution_score": 874.84,
+    "S_code": 113.69,
+    "S_social": 104,
+    "S_maint": 61
+  },
+  {
+    "name": "pytorch-pooling",
+    "full_name": "rentainhe/pytorch-pooling",
+    "html_url": "https://github.com/rentainhe/pytorch-pooling",
+    "description": "Test different pooling method used in CNN for Computer Vision Task",
+    "stars": 35,
+    "forks": 5,
+    "languages": {
+      "Python": 41386
+    },
+    "contributions_by_user": 48,
+    "contribution_score": 590.21,
+    "S_code": 40.42,
+    "S_social": 45,
+    "S_maint": 48
+  },
+  {
+    "name": "Learn-Detectron2-From-Scratch",
+    "full_name": "rentainhe/Learn-Detectron2-From-Scratch",
+    "html_url": "https://github.com/rentainhe/Learn-Detectron2-From-Scratch",
+    "description": "Detectron2 Learning Notes Sharing",
+    "stars": 10,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 10,
+    "S_maint": 1
+  },
+  {
+    "name": "ViT.pytorch",
+    "full_name": "rentainhe/ViT.pytorch",
+    "html_url": "https://github.com/rentainhe/ViT.pytorch",
+    "description": "The Pytorch reimplementation of Vision Transformer",
+    "stars": 10,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 7289703,
+      "Python": 47105,
+      "Shell": 4367
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 3764.56,
+    "S_code": 7169.12,
+    "S_social": 10,
+    "S_maint": 16
+  },
+  {
+    "name": "knowledge-graph-visualization",
+    "full_name": "rentainhe/knowledge-graph-visualization",
+    "html_url": "https://github.com/rentainhe/knowledge-graph-visualization",
+    "description": "knowledge graph system based on Neo4j and Vue",
+    "stars": 9,
+    "forks": 0,
+    "languages": {
+      "Vue": 263423,
+      "JavaScript": 4460,
+      "HTML": 243,
+      "Makefile": 94
+    },
+    "contributions_by_user": 91,
+    "contribution_score": 1058.97,
+    "S_code": 261.93,
+    "S_social": 9,
+    "S_maint": 91
+  },
+  {
+    "name": "vision-mlp-oneflow",
+    "full_name": "rentainhe/vision-mlp-oneflow",
+    "html_url": "https://github.com/rentainhe/vision-mlp-oneflow",
+    "description": "Vision MLP Models Based on OneFlow",
+    "stars": 7,
+    "forks": 0,
+    "languages": {
+      "Python": 29595
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 188.45,
+    "S_code": 28.9,
+    "S_social": 7,
+    "S_maint": 16
+  },
+  {
+    "name": "config-builder",
+    "full_name": "rentainhe/config-builder",
+    "html_url": "https://github.com/rentainhe/config-builder",
+    "description": "a list of config-builder repo and tutorials which may help you to build your own config file",
+    "stars": 7,
+    "forks": 3,
+    "languages": {
+      "Python": 1600
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 156.78,
+    "S_code": 1.56,
+    "S_social": 13,
+    "S_maint": 13
+  },
+  {
+    "name": "x-classification",
+    "full_name": "rentainhe/x-classification",
+    "html_url": "https://github.com/rentainhe/x-classification",
+    "description": "a framework for image classification based on pytorch",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "Python": 98613
+    },
+    "contributions_by_user": 107,
+    "contribution_score": 1130.15,
+    "S_code": 96.3,
+    "S_social": 6,
+    "S_maint": 107
+  },
+  {
+    "name": "mini-classification",
+    "full_name": "rentainhe/mini-classification",
+    "html_url": "https://github.com/rentainhe/mini-classification",
+    "description": "lightweight and efficient classification project based on pytorch-lightning",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Python": 62525
+    },
+    "contributions_by_user": 81,
+    "contribution_score": 848.53,
+    "S_code": 61.06,
+    "S_social": 4,
+    "S_maint": 81
+  },
+  {
+    "name": "pytorch-models",
+    "full_name": "rentainhe/pytorch-models",
+    "html_url": "https://github.com/rentainhe/pytorch-models",
+    "description": "Computer vision models on Pytorch",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "Python": 90455
+    },
+    "contributions_by_user": 34,
+    "contribution_score": 396.17,
+    "S_code": 88.33,
+    "S_social": 6,
+    "S_maint": 34
+  },
+  {
+    "name": "rentainhe.github.io",
+    "full_name": "rentainhe/rentainhe.github.io",
+    "html_url": "https://github.com/rentainhe/rentainhe.github.io",
+    "description": "Personal homepage",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "HTML": 121787,
+      "CSS": 6283
+    },
+    "contributions_by_user": 146,
+    "contribution_score": 1528.53,
+    "S_code": 125.07,
+    "S_social": 3,
+    "S_maint": 146
+  },
+  {
+    "name": "vision-mlp",
+    "full_name": "rentainhe/vision-mlp",
+    "html_url": "https://github.com/rentainhe/vision-mlp",
+    "description": "A collection of SOTA vision mlp models based on Pytorch",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Python": 95663
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 212.71,
+    "S_code": 93.42,
+    "S_social": 3,
+    "S_maint": 16
+  },
+  {
+    "name": "TRAR-Feature-Extraction",
+    "full_name": "rentainhe/TRAR-Feature-Extraction",
+    "html_url": "https://github.com/rentainhe/TRAR-Feature-Extraction",
+    "description": "Grid features extraction for ICCV 2021 paper \"TRAR: Routing the Attention Spans in Transformers for Visual Question Answering\"",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Python": 53760
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 194.25,
+    "S_code": 52.5,
+    "S_social": 4,
+    "S_maint": 16
+  },
+  {
+    "name": "what_I_have_read",
+    "full_name": "rentainhe/what_I_have_read",
+    "html_url": "https://github.com/rentainhe/what_I_have_read",
+    "description": "Just for self-motivation",
+    "stars": 2,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 9,
+    "contribution_score": 94.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 9
+  },
+  {
+    "name": "simple-imagenet-test",
+    "full_name": "rentainhe/simple-imagenet-test",
+    "html_url": "https://github.com/rentainhe/simple-imagenet-test",
+    "description": "A simple test code on Imagenet",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 11854
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 119.79,
+    "S_code": 11.58,
+    "S_social": 2,
+    "S_maint": 11
+  },
+  {
+    "name": "knowledge-graph-backend",
+    "full_name": "rentainhe/knowledge-graph-backend",
+    "html_url": "https://github.com/rentainhe/knowledge-graph-backend",
+    "description": "the backend of knowledge graph system based on Springboot",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 34147
+    },
+    "contributions_by_user": 33,
+    "contribution_score": 350.67,
+    "S_code": 33.35,
+    "S_social": 2,
+    "S_maint": 33
+  },
+  {
+    "name": "sam2",
+    "full_name": "rentainhe/sam2",
+    "html_url": "https://github.com/rentainhe/sam2",
+    "description": "The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 27794531,
+      "Python": 547350,
+      "Cuda": 7808,
+      "Shell": 2612,
+      "Dockerfile": 2069
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13846.91,
+    "S_code": 27689.81,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ollama",
+    "full_name": "rentainhe/ollama",
+    "html_url": "https://github.com/rentainhe/ollama",
+    "description": "Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Go": 809726,
+      "C": 46080,
+      "Shell": 42140,
+      "PowerShell": 24365,
+      "TypeScript": 17721,
+      "Dockerfile": 6157,
+      "Inno Setup": 5815,
+      "Python": 2520,
+      "Objective-C": 1285,
+      "CSS": 518,
+      "JavaScript": 248,
+      "HTML": 123
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 469.14,
+    "S_code": 934.28,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "MambaOut",
+    "full_name": "rentainhe/MambaOut",
+    "html_url": "https://github.com/rentainhe/MambaOut",
+    "description": "MambaOut: Do We Really Need Mamba for Vision?",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 75507,
+      "Shell": 2040
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 39.86,
+    "S_code": 75.73,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "MaskDINO",
+    "full_name": "rentainhe/MaskDINO",
+    "html_url": "https://github.com/rentainhe/MaskDINO",
+    "description": "[CVPR 2023] Official implementation of the paper \"Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation\"",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 424990,
+      "Cuda": 62296,
+      "C++": 6887,
+      "Shell": 729
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 243.65,
+    "S_code": 483.3,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "Awesome-Anything",
+    "full_name": "rentainhe/Awesome-Anything",
+    "html_url": "https://github.com/rentainhe/Awesome-Anything",
+    "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "rexnet",
+    "full_name": "rentainhe/rexnet",
+    "html_url": "https://github.com/rentainhe/rexnet",
+    "description": "Official Pytorch implementation of ReXNet (Rank eXpansion Network) with pretrained models",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 12459
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 18.08,
+    "S_code": 12.17,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "ConvNeXt",
+    "full_name": "rentainhe/ConvNeXt",
+    "html_url": "https://github.com/rentainhe/ConvNeXt",
+    "description": "Code release for ConvNeXt model",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 189082
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 94.33,
+    "S_code": 184.65,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "T2T-ViT",
+    "full_name": "rentainhe/T2T-ViT",
+    "html_url": "https://github.com/rentainhe/T2T-ViT",
+    "description": "ICCV2021, Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 423260,
+      "Python": 125281,
+      "Shell": 305
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 269.99,
+    "S_code": 535.98,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "transformers",
+    "full_name": "rentainhe/transformers",
+    "html_url": "https://github.com/rentainhe/transformers",
+    "description": "🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 21769915,
+      "Shell": 28853,
+      "Dockerfile": 7040,
+      "Makefile": 3115,
+      "Jsonnet": 937
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10651.35,
+    "S_code": 21298.69,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ViT-pytorch",
+    "full_name": "rentainhe/ViT-pytorch",
+    "html_url": "https://github.com/rentainhe/ViT-pytorch",
+    "description": "Pytorch reimplementation of the Vision Transformer (An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale)",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 7289703,
+      "Python": 43490
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3582.66,
+    "S_code": 7161.32,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "deep-learning-knowledge",
+    "full_name": "rentainhe/deep-learning-knowledge",
+    "html_url": "https://github.com/rentainhe/deep-learning-knowledge",
+    "description": "A collection of cv-interview problems and answers",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 16,
+    "contribution_score": 162.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 16
+  },
+  {
+    "name": "paper-reading",
+    "full_name": "rentainhe/paper-reading",
+    "html_url": "https://github.com/rentainhe/paper-reading",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 17,
+    "contribution_score": 172.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 17
+  },
+  {
+    "name": "plug-and-play-blocks",
+    "full_name": "rentainhe/plug-and-play-blocks",
+    "html_url": "https://github.com/rentainhe/plug-and-play-blocks",
+    "description": "Some APIs that can be used directly for deep learning",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Python": 71960
+    },
+    "contributions_by_user": 38,
+    "contribution_score": 421.14,
+    "S_code": 70.27,
+    "S_social": 3,
+    "S_maint": 38
+  },
+  {
+    "name": "rentainhe",
+    "full_name": "rentainhe/rentainhe",
+    "html_url": "https://github.com/rentainhe/rentainhe",
+    "description": null,
+    "stars": 0,
+    "forks": 3,
+    "languages": {},
+    "contributions_by_user": 26,
+    "contribution_score": 272.0,
+    "S_code": 0.0,
+    "S_social": 6,
+    "S_maint": 26
+  },
+  {
+    "name": "perception_models",
+    "full_name": "rentainhe/perception_models",
+    "html_url": "https://github.com/rentainhe/perception_models",
+    "description": "State-of-the-art Image & Video CLIP, Multimodal Large Language Models, and More!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 3842390,
+      "Python": 995244,
+      "Cuda": 62010,
+      "Shell": 14861,
+      "C++": 6172
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2402.67,
+    "S_code": 4805.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cookbook",
+    "full_name": "rentainhe/cookbook",
+    "html_url": "https://github.com/rentainhe/cookbook",
+    "description": "Examples and guides for using the Gemini API",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 58028585,
+      "Python": 16446,
+      "Shell": 3837,
+      "JavaScript": 1844
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 28345.07,
+    "S_code": 56690.15,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "samurai",
+    "full_name": "rentainhe/samurai",
+    "html_url": "https://github.com/rentainhe/samurai",
+    "description": "Official repository of \"SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory\"",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1214221,
+      "Jupyter Notebook": 678270,
+      "TypeScript": 541317,
+      "GLSL": 41703,
+      "Cuda": 7808,
+      "JavaScript": 6507,
+      "SCSS": 6304,
+      "Shell": 2612,
+      "Dockerfile": 2600,
+      "HTML": 342
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1221.53,
+    "S_code": 2443.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Janus",
+    "full_name": "rentainhe/Janus",
+    "html_url": "https://github.com/rentainhe/Janus",
+    "description": "Janus-Series: Unified Multimodal Understanding and Generation Models",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 195382,
+      "Makefile": 3069
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 96.9,
+    "S_code": 193.8,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "InternVL",
+    "full_name": "rentainhe/InternVL",
+    "html_url": "https://github.com/rentainhe/InternVL",
+    "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的可商用开源多模态对话模型",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2403690,
+      "Jupyter Notebook": 2353994,
+      "Shell": 175524,
+      "JavaScript": 9991,
+      "HTML": 7669,
+      "Makefile": 2480,
+      "CSS": 1822
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2419.52,
+    "S_code": 4839.03,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Qwen2",
+    "full_name": "rentainhe/Qwen2",
+    "html_url": "https://github.com/rentainhe/Qwen2",
+    "description": "Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 3187
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.56,
+    "S_code": 3.11,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "T-Rex",
+    "full_name": "rentainhe/T-Rex",
+    "html_url": "https://github.com/rentainhe/T-Rex",
+    "description": "Detect and count any objects by visual prompting",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 49377
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 24.11,
+    "S_code": 48.22,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Qwen-VL",
+    "full_name": "rentainhe/Qwen-VL",
+    "html_url": "https://github.com/rentainhe/Qwen-VL",
+    "description": "The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 134791,
+      "Shell": 6647
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 69.06,
+    "S_code": 138.12,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "OpenSeeD",
+    "full_name": "rentainhe/OpenSeeD",
+    "html_url": "https://github.com/rentainhe/OpenSeeD",
+    "description": "[ICCV 2023] Official implementation of the paper \"A Simple Framework for Open-Vocabulary Segmentation and Detection\"",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1005870,
+      "Cuda": 62296,
+      "C++": 6887,
+      "Shell": 736
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 525.29,
+    "S_code": 1050.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lawrence-cj",
+    "full_name": "rentainhe/lawrence-cj",
+    "html_url": "https://github.com/rentainhe/lawrence-cj",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dataset-api",
+    "full_name": "rentainhe/dataset-api",
+    "html_url": "https://github.com/rentainhe/dataset-api",
+    "description": "The ApolloScape Open Dataset for Autonomous Driving and its Application.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 192217,
+      "Python": 143856,
+      "C++": 32141,
+      "Cython": 4632,
+      "Shell": 810
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 182.45,
+    "S_code": 364.9,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "segment-anything",
+    "full_name": "rentainhe/segment-anything",
+    "html_url": "https://github.com/rentainhe/segment-anything",
+    "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 12784433,
+      "Python": 113808,
+      "Shell": 564
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6298.24,
+    "S_code": 12596.49,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Segment-Everything-Everywhere-All-At-Once",
+    "full_name": "rentainhe/Segment-Everything-Everywhere-All-At-Once",
+    "html_url": "https://github.com/rentainhe/Segment-Everything-Everywhere-All-At-Once",
+    "description": "Official implementation of the paper \"Segment Everything Everywhere All at Once\"",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 519519,
+      "Cuda": 62296,
+      "C++": 6887,
+      "Shell": 815
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 287.85,
+    "S_code": 575.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "DINO",
+    "full_name": "rentainhe/DINO",
+    "html_url": "https://github.com/rentainhe/DINO",
+    "description": "[ICLR 2023] Official implementation of the paper \"DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection\"",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 473596,
+      "Jupyter Notebook": 211316,
+      "Cuda": 62010,
+      "C++": 6172,
+      "Shell": 4501
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 369.92,
+    "S_code": 739.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "GroundingDINO",
+    "full_name": "rentainhe/GroundingDINO",
+    "html_url": "https://github.com/rentainhe/GroundingDINO",
+    "description": "The official implementation of \"Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection\"",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 268364,
+      "Cuda": 62201,
+      "C++": 7002
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 184.83,
+    "S_code": 329.66,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "Caption-Anything",
+    "full_name": "rentainhe/Caption-Anything",
+    "html_url": "https://github.com/rentainhe/Caption-Anything",
+    "description": "Caption-Anything is a versatile tool combining image segmentation, visual captioning, and ChatGPT, generating tailored captions with diverse controls for user preferences.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 856407,
+      "Python": 226442,
+      "Shell": 233
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 528.85,
+    "S_code": 1057.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "object-intrinsics",
+    "full_name": "rentainhe/object-intrinsics",
+    "html_url": "https://github.com/rentainhe/object-intrinsics",
+    "description": "(CVPR 2023) Seeing a Rose in Five Thousand Ways",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 185655
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 90.65,
+    "S_code": 181.3,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "InternImage",
+    "full_name": "rentainhe/InternImage",
+    "html_url": "https://github.com/rentainhe/InternImage",
+    "description": "[CVPR 2023] InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 540179,
+      "Cuda": 183049,
+      "C++": 40254,
+      "Shell": 4823
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 375.15,
+    "S_code": 750.3,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "learned-guided-diffusion",
+    "full_name": "rentainhe/learned-guided-diffusion",
+    "html_url": "https://github.com/rentainhe/learned-guided-diffusion",
+    "description": "Learning Guided Diffusion",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 190898
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 93.21,
+    "S_code": 186.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "stable-diffusion-learned",
+    "full_name": "rentainhe/stable-diffusion-learned",
+    "html_url": "https://github.com/rentainhe/stable-diffusion-learned",
+    "description": "Personal Learning Version",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 4172390,
+      "Python": 520234,
+      "Shell": 3005
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2292.79,
+    "S_code": 4585.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "EVA",
+    "full_name": "rentainhe/EVA",
+    "html_url": "https://github.com/rentainhe/EVA",
+    "description": "Exploring the Limits of Masked Visual Representation Learning at Scale (https://arxiv.org/abs/2211.07636)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 3611716,
+      "Cuda": 162139,
+      "C++": 83818,
+      "Shell": 18449,
+      "Jupyter Notebook": 17786,
+      "Dockerfile": 3209,
+      "Makefile": 630,
+      "CMake": 616
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1903.5,
+    "S_code": 3807.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "DiffusionDet",
+    "full_name": "rentainhe/DiffusionDet",
+    "html_url": "https://github.com/rentainhe/DiffusionDet",
+    "description": "PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 171423
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 83.7,
+    "S_code": 167.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "DiT",
+    "full_name": "rentainhe/DiT",
+    "html_url": "https://github.com/rentainhe/DiT",
+    "description": "Official PyTorch Implementation of \"Scalable Diffusion Models with Transformers\"",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 67886,
+      "Jupyter Notebook": 5151
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.66,
+    "S_code": 71.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pytorch-image-models",
+    "full_name": "rentainhe/pytorch-image-models",
+    "html_url": "https://github.com/rentainhe/pytorch-image-models",
+    "description": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1667986,
+      "Shell": 108
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 814.5,
+    "S_code": 1629.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "learn-ddim",
+    "full_name": "rentainhe/learn-ddim",
+    "html_url": "https://github.com/rentainhe/learn-ddim",
+    "description": "Denoising Diffusion Implicit Models",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 72444
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.37,
+    "S_code": 70.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "stable-diffusion",
+    "full_name": "rentainhe/stable-diffusion",
+    "html_url": "https://github.com/rentainhe/stable-diffusion",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 4172390,
+      "Python": 632459,
+      "Shell": 60926
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2375.87,
+    "S_code": 4751.73,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "detectron2",
+    "full_name": "rentainhe/detectron2",
+    "html_url": "https://github.com/rentainhe/detectron2",
+    "description": "Detectron2 is FAIR's next-generation platform for object detection, segmentation and other visual recognition tasks.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2986861,
+      "Cuda": 112955,
+      "C++": 81431,
+      "Shell": 13595,
+      "Dockerfile": 3722,
+      "JavaScript": 1980,
+      "CMake": 910
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1563.21,
+    "S_code": 3126.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lixiang007666",
+    "full_name": "rentainhe/lixiang007666",
+    "html_url": "https://github.com/rentainhe/lixiang007666",
+    "description": "index",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "openmixup",
+    "full_name": "rentainhe/openmixup",
+    "html_url": "https://github.com/rentainhe/openmixup",
+    "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2724418,
+      "Shell": 29186,
+      "Dockerfile": 822
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1344.93,
+    "S_code": 2689.87,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "libai",
+    "full_name": "rentainhe/libai",
+    "html_url": "https://github.com/rentainhe/libai",
+    "description": "LiBai(李白): A Toolbox for Large-Scale Distributed Parallel Training",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1478267,
+      "C++": 25669,
+      "Shell": 5895,
+      "Dockerfile": 1349,
+      "Makefile": 278
+    },
+    "contributions_by_user": 47,
+    "contribution_score": 1208.02,
+    "S_code": 1476.03,
+    "S_social": 0,
+    "S_maint": 47
+  },
+  {
+    "name": "detr",
+    "full_name": "rentainhe/detr",
+    "html_url": "https://github.com/rentainhe/detr",
+    "description": "End-to-End Object Detection with Transformers",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 169188,
+      "Dockerfile": 328
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 82.77,
+    "S_code": 165.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vision-1",
+    "full_name": "rentainhe/vision-1",
+    "html_url": "https://github.com/rentainhe/vision-1",
+    "description": "Datasets, Transforms and Models specific to Computer Vision",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1951932,
+      "Shell": 19683
+    },
+    "contributions_by_user": 121,
+    "contribution_score": 2172.7,
+    "S_code": 1925.41,
+    "S_social": 0,
+    "S_maint": 121
+  },
+  {
+    "name": "MIMDet",
+    "full_name": "rentainhe/MIMDet",
+    "html_url": "https://github.com/rentainhe/MIMDet",
+    "description": "MIMDet: Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 75947
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 37.08,
+    "S_code": 74.17,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "AdelaiDet",
+    "full_name": "rentainhe/AdelaiDet",
+    "html_url": "https://github.com/rentainhe/AdelaiDet",
+    "description": "AdelaiDet is an open source toolbox for multiple instance-level detection and recognition tasks.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 581580,
+      "Cuda": 36832,
+      "C++": 25328,
+      "Shell": 4744,
+      "Dockerfile": 1041
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 317.15,
+    "S_code": 634.3,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "DAB-DETR",
+    "full_name": "rentainhe/DAB-DETR",
+    "html_url": "https://github.com/rentainhe/DAB-DETR",
+    "description": "[ICLR 2022] DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 1608342,
+      "Python": 392588,
+      "Cuda": 62010,
+      "C++": 6172,
+      "Shell": 1291
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1010.94,
+    "S_code": 2021.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rentainhe_old.github.io",
+    "full_name": "rentainhe/rentainhe_old.github.io",
+    "html_url": "https://github.com/rentainhe/rentainhe_old.github.io",
+    "description": "Personal Website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 3530140,
+      "JavaScript": 47397,
+      "CSS": 45068
+    },
+    "contributions_by_user": 71,
+    "contribution_score": 2478.85,
+    "S_code": 3537.7,
+    "S_social": 0,
+    "S_maint": 71
+  },
+  {
+    "name": "Deformable-DETR",
+    "full_name": "rentainhe/Deformable-DETR",
+    "html_url": "https://github.com/rentainhe/Deformable-DETR",
+    "description": "Deformable DETR: Deformable Transformers for End-to-End Object Detection.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 193167,
+      "Cuda": 62010,
+      "C++": 6172,
+      "Shell": 3530
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 129.34,
+    "S_code": 258.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "SimREC",
+    "full_name": "rentainhe/SimREC",
+    "html_url": "https://github.com/rentainhe/SimREC",
+    "description": "A lightweight codebase for referring expression comprehension and segmentation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 271060
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 272.35,
+    "S_code": 264.71,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "openvqa",
+    "full_name": "rentainhe/openvqa",
+    "html_url": "https://github.com/rentainhe/openvqa",
+    "description": "A lightweight, scalable, and general framework for visual question answering research",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 184225,
+      "Dockerfile": 1749
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 90.81,
+    "S_code": 181.62,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "einops",
+    "full_name": "rentainhe/einops",
+    "html_url": "https://github.com/rentainhe/einops",
+    "description": "Deep learning operations reinvented (for pytorch, tensorflow, jax and others)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 148585,
+      "Shell": 390,
+      "CSS": 254
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 72.87,
+    "S_code": 145.73,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mae",
+    "full_name": "rentainhe/mae",
+    "html_url": "https://github.com/rentainhe/mae",
+    "description": "PyTorch implementation of MAE https//arxiv.org/abs/2111.06377",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 94433
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 46.11,
+    "S_code": 92.22,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Swin-Transformer",
+    "full_name": "rentainhe/Swin-Transformer",
+    "html_url": "https://github.com/rentainhe/Swin-Transformer",
+    "description": "This is an official implementation for \"Swin Transformer: Hierarchical Vision Transformer using Shifted Windows\".",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 150037,
+      "Shell": 1797
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 94.14,
+    "S_code": 148.28,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "deit",
+    "full_name": "rentainhe/deit",
+    "html_url": "https://github.com/rentainhe/deit",
+    "description": "Official DeiT repository",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 94438
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 46.11,
+    "S_code": 92.22,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "expt",
+    "full_name": "rentainhe/expt",
+    "html_url": "https://github.com/rentainhe/expt",
+    "description": "Experiment. Plot. Tabulate.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 123296
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 60.2,
+    "S_code": 120.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "MetaFormer",
+    "full_name": "rentainhe/MetaFormer",
+    "html_url": "https://github.com/rentainhe/MetaFormer",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 122365
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 59.75,
+    "S_code": 119.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mmcv",
+    "full_name": "rentainhe/mmcv",
+    "html_url": "https://github.com/rentainhe/mmcv",
+    "description": "OpenMMLab Computer Vision Foundation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1837484,
+      "C++": 956809,
+      "Cuda": 495738,
+      "C": 2918,
+      "Dockerfile": 67
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1607.92,
+    "S_code": 3215.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "yolov5",
+    "full_name": "rentainhe/yolov5",
+    "html_url": "https://github.com/rentainhe/yolov5",
+    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 385815,
+      "Shell": 4065,
+      "Dockerfile": 2999
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 191.84,
+    "S_code": 383.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gitalk-comment",
+    "full_name": "rentainhe/gitalk-comment",
+    "html_url": "https://github.com/rentainhe/gitalk-comment",
+    "description": "Save the blog comments for my personal website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "mmdetection",
+    "full_name": "rentainhe/mmdetection",
+    "html_url": "https://github.com/rentainhe/mmdetection",
+    "description": "OpenMMLab Detection Toolbox and Benchmark",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4196809,
+      "Shell": 47494,
+      "Dockerfile": 2242
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2073.51,
+    "S_code": 4147.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "yolov7",
+    "full_name": "rentainhe/yolov7",
+    "html_url": "https://github.com/rentainhe/yolov7",
+    "description": "🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1126579,
+      "C++": 51854,
+      "CMake": 1106
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 575.95,
+    "S_code": 1151.89,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "python-accumulations",
+    "full_name": "rentainhe/python-accumulations",
+    "html_url": "https://github.com/rentainhe/python-accumulations",
+    "description": "A collection of excellent python online notes",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 40.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "SeMask-Segmentation",
+    "full_name": "rentainhe/SeMask-Segmentation",
+    "html_url": "https://github.com/rentainhe/SeMask-Segmentation",
+    "description": "[Preprint] SeMask: Semantically Masked Transformers for Semantic Segmentation.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1868970,
+      "Cuda": 176191,
+      "C++": 75068,
+      "C": 10331,
+      "Shell": 2915
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1041.74,
+    "S_code": 2083.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mmtracking",
+    "full_name": "rentainhe/mmtracking",
+    "html_url": "https://github.com/rentainhe/mmtracking",
+    "description": "OpenMMLab Video Perception Toolbox. It supports Video Object Detection (VID), Multiple Object Tracking (MOT), Single Object Tracking (SOT), Video Instance Segmentation (VIS) with a unified framework.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 881752,
+      "Shell": 7878,
+      "Dockerfile": 780,
+      "Batchfile": 760,
+      "Makefile": 634,
+      "CSS": 142
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 435.52,
+    "S_code": 871.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vision",
+    "full_name": "rentainhe/vision",
+    "html_url": "https://github.com/rentainhe/vision",
+    "description": "Datasets, Transforms and Models specific to Computer Vision",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2384041,
+      "C++": 448429,
+      "Cuda": 110330,
+      "Shell": 41290,
+      "Batchfile": 26057,
+      "Java": 21833,
+      "CMake": 18117,
+      "Objective-C++": 3284,
+      "PowerShell": 2874,
+      "Objective-C": 2715,
+      "Dockerfile": 1909,
+      "C": 1164,
+      "Ruby": 1086
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1495.67,
+    "S_code": 2991.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Jittor-MLP",
+    "full_name": "rentainhe/Jittor-MLP",
+    "html_url": "https://github.com/rentainhe/Jittor-MLP",
+    "description": "Unofficial Implementation of MLP-Mixer, gMLP, resMLP, Vision Permutator, S2MLPv2, RaftMLP, HireMLP, ConvMLP, AS-MLP, SparseMLP, ConvMixer in Jittor and PyTorch! Now, Rearrange and Reduce in einops.layers.jittor are support!! trunc_normal_ is supported for Jittor!!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 383452,
+      "Jupyter Notebook": 17411
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 195.73,
+    "S_code": 391.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bug-solution",
+    "full_name": "rentainhe/bug-solution",
+    "html_url": "https://github.com/rentainhe/bug-solution",
+    "description": "a collection of methods to debug",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 11,
+    "contribution_score": 110.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "lit",
+    "full_name": "rentainhe/lit",
+    "html_url": "https://github.com/rentainhe/lit",
+    "description": "Literature for the self-taught AI practitioner! 📚",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "glasses",
+    "full_name": "rentainhe/glasses",
+    "html_url": "https://github.com/rentainhe/glasses",
+    "description": "High-quality Neural Networks for Computer Vision 😎",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 949568,
+      "Python": 311768,
+      "Dockerfile": 219
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 705.99,
+    "S_code": 1231.99,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "convit",
+    "full_name": "rentainhe/convit",
+    "html_url": "https://github.com/rentainhe/convit",
+    "description": "Code for the Convolutional Vision Transformer (ConViT)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 62854
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 30.69,
+    "S_code": 61.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Riccorl",
+    "full_name": "rentainhe/Riccorl",
+    "html_url": "https://github.com/rentainhe/Riccorl",
+    "description": "It is a special repository. Its README.md will appear on your public profile!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ignite",
+    "full_name": "rentainhe/ignite",
+    "html_url": "https://github.com/rentainhe/ignite",
+    "description": "High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2038739,
+      "Jupyter Notebook": 15007,
+      "Shell": 11340
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1008.34,
+    "S_code": 2016.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rentainhe_test.github.io",
+    "full_name": "rentainhe/rentainhe_test.github.io",
+    "html_url": "https://github.com/rentainhe/rentainhe_test.github.io",
+    "description": "personal website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 5284,
+      "HTML": 2602
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 43.85,
+    "S_code": 7.7,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "OneUtils",
+    "full_name": "rentainhe/OneUtils",
+    "html_url": "https://github.com/rentainhe/OneUtils",
+    "description": "A collection of useful tools for oneflow",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 10466
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 105.11,
+    "S_code": 10.22,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "mmclassification",
+    "full_name": "rentainhe/mmclassification",
+    "html_url": "https://github.com/rentainhe/mmclassification",
+    "description": "OpenMMLab Image Classification Toolbox and Benchmark",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 1991594,
+      "Python": 947711,
+      "Dockerfile": 2087,
+      "Shell": 1856,
+      "Makefile": 634
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1437.44,
+    "S_code": 2874.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fast-reid",
+    "full_name": "rentainhe/fast-reid",
+    "html_url": "https://github.com/rentainhe/fast-reid",
+    "description": "SOTA Re-identification Methods and Toolbox",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 889324,
+      "C++": 113131,
+      "Cython": 12739,
+      "CMake": 6551,
+      "Dockerfile": 3756,
+      "Makefile": 124
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 500.79,
+    "S_code": 1001.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "What-I-Have-Read",
+    "full_name": "rentainhe/What-I-Have-Read",
+    "html_url": "https://github.com/rentainhe/What-I-Have-Read",
+    "description": "Paper Lists, Notes and Slides, Focus on NLP.  For summarization, please refer to https://github.com/xcfcode/Summarization-Papers",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mmdetection-mini",
+    "full_name": "rentainhe/mmdetection-mini",
+    "html_url": "https://github.com/rentainhe/mmdetection-mini",
+    "description": "mmdetection最小学习版",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1902260,
+      "Cuda": 260803,
+      "C++": 191828
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1149.85,
+    "S_code": 2299.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "general-utils",
+    "full_name": "rentainhe/general-utils",
+    "html_url": "https://github.com/rentainhe/general-utils",
+    "description": "A collection of useful code",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 687
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.34,
+    "S_code": 0.67,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "zhihu-contents",
+    "full_name": "rentainhe/zhihu-contents",
+    "html_url": "https://github.com/rentainhe/zhihu-contents",
+    "description": "A collection of my own Zhihu articles",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "ViLT",
+    "full_name": "rentainhe/ViLT",
+    "html_url": "https://github.com/rentainhe/ViLT",
+    "description": "Code for the ICML 2021 (long talk) paper: \"ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision\"",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 184475
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 90.08,
+    "S_code": 180.15,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "DynamicViT",
+    "full_name": "rentainhe/DynamicViT",
+    "html_url": "https://github.com/rentainhe/DynamicViT",
+    "description": "DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 252236,
+      "Python": 125367,
+      "Shell": 270
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 184.51,
+    "S_code": 369.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Awesome-Profile-README-templates",
+    "full_name": "rentainhe/Awesome-Profile-README-templates",
+    "html_url": "https://github.com/rentainhe/Awesome-Profile-README-templates",
+    "description": "A collection of awesome readme templates to display on your profile",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 48
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.02,
+    "S_code": 0.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vision-transformer",
+    "full_name": "rentainhe/vision-transformer",
+    "html_url": "https://github.com/rentainhe/vision-transformer",
+    "description": "A collection of SOTA Vision Transformer on Pytorch",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 95216
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 256.49,
+    "S_code": 92.98,
+    "S_social": 0,
+    "S_maint": 21
+  },
+  {
+    "name": "ISTR",
+    "full_name": "rentainhe/ISTR",
+    "html_url": "https://github.com/rentainhe/ISTR",
+    "description": "ISTR: End-to-End Instance Segmentation with Transformers (https://arxiv.org/abs/2105.00637)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2023595,
+      "Cuda": 99875,
+      "C++": 79473,
+      "Shell": 11601,
+      "Dockerfile": 3521,
+      "CMake": 910
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1083.48,
+    "S_code": 2166.97,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "faster-rcnn-pytorch",
+    "full_name": "rentainhe/faster-rcnn-pytorch",
+    "html_url": "https://github.com/rentainhe/faster-rcnn-pytorch",
+    "description": "build faster rcnn on pytorch from scratch",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 88063
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 333.0,
+    "S_code": 86.0,
+    "S_social": 0,
+    "S_maint": 29
+  },
+  {
+    "name": "interview-algorithm-collection",
+    "full_name": "rentainhe/interview-algorithm-collection",
+    "html_url": "https://github.com/rentainhe/interview-algorithm-collection",
+    "description": "A collection of interview algorithm problems and solutions",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 54155
+    },
+    "contributions_by_user": 32,
+    "contribution_score": 346.44,
+    "S_code": 52.89,
+    "S_social": 0,
+    "S_maint": 32
+  },
+  {
+    "name": "Detection-From-Scratch",
+    "full_name": "rentainhe/Detection-From-Scratch",
+    "html_url": "https://github.com/rentainhe/Detection-From-Scratch",
+    "description": "detection paper notes and code",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4906
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 122.4,
+    "S_code": 4.79,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "simple-faster-rcnn-pytorch",
+    "full_name": "rentainhe/simple-faster-rcnn-pytorch",
+    "html_url": "https://github.com/rentainhe/simple-faster-rcnn-pytorch",
+    "description": "A simplified implemention of Faster R-CNN that replicate performance from origin paper",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 702855,
+      "Python": 112050
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 397.9,
+    "S_code": 795.81,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "python-basic-knowledge",
+    "full_name": "rentainhe/python-basic-knowledge",
+    "html_url": "https://github.com/rentainhe/python-basic-knowledge",
+    "description": "basic knowledge of python ( personal notes )",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 528
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 100.26,
+    "S_code": 0.52,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "Components",
+    "full_name": "rentainhe/Components",
+    "html_url": "https://github.com/rentainhe/Components",
+    "description": "some useful module based on Pytorch",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 10741
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 65.24,
+    "S_code": 10.49,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "mini-vqa",
+    "full_name": "rentainhe/mini-vqa",
+    "html_url": "https://github.com/rentainhe/mini-vqa",
+    "description": "A mini-platform for visual question answering research",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 3908
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.91,
+    "S_code": 3.82,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "pytorch-extending",
+    "full_name": "rentainhe/pytorch-extending",
+    "html_url": "https://github.com/rentainhe/pytorch-extending",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 3491
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 51.7,
+    "S_code": 3.41,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "nni",
+    "full_name": "rentainhe/nni",
+    "html_url": "https://github.com/rentainhe/nni",
+    "description": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2176975,
+      "TypeScript": 1161104,
+      "JavaScript": 61708,
+      "SCSS": 22542,
+      "Shell": 4097,
+      "CSS": 2891,
+      "HTML": 2403,
+      "Dockerfile": 1769,
+      "PowerShell": 1075
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1677.03,
+    "S_code": 3354.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "learning-notes-sharing",
+    "full_name": "rentainhe/learning-notes-sharing",
+    "html_url": "https://github.com/rentainhe/learning-notes-sharing",
+    "description": "Share my learning notes in this repo",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 528
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 40.26,
+    "S_code": 0.52,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "mcan-vqa",
+    "full_name": "rentainhe/mcan-vqa",
+    "html_url": "https://github.com/rentainhe/mcan-vqa",
+    "description": "Deep Modular Co-Attention Networks for Visual Question Answering",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 78077,
+      "Shell": 1247
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 38.73,
+    "S_code": 77.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "grid-lxmert",
+    "full_name": "rentainhe/grid-lxmert",
+    "html_url": "https://github.com/rentainhe/grid-lxmert",
+    "description": "PyTorch code for EMNLP 2019 paper \"LXMERT: Learning Cross-Modality Encoder Representations from Transformers\".",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 183589,
+      "Shell": 3513
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 91.36,
+    "S_code": 182.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vision-transformer-pytorch",
+    "full_name": "rentainhe/vision-transformer-pytorch",
+    "html_url": "https://github.com/rentainhe/vision-transformer-pytorch",
+    "description": "Pytorch version of Vision Transformer (ViT) with pretrained models. This is part of CASL (https://casl-project.github.io/) and ASYML project.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 87480,
+      "Jupyter Notebook": 18633
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 51.81,
+    "S_code": 103.63,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "python-interviews",
+    "full_name": "rentainhe/python-interviews",
+    "html_url": "https://github.com/rentainhe/python-interviews",
+    "description": "Python经典面试题（python面试的复习参考资料）（持续更新中...）",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "python_interview_question",
+    "full_name": "rentainhe/python_interview_question",
+    "html_url": "https://github.com/rentainhe/python_interview_question",
+    "description": "关于python的面试题",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "AutoTorch",
+    "full_name": "rentainhe/AutoTorch",
+    "html_url": "https://github.com/rentainhe/AutoTorch",
+    "description": "AutoTorch, A HPO Toolkit",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 224966,
+      "Dockerfile": 1770
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 110.71,
+    "S_code": 221.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Tasks_for_Rookies",
+    "full_name": "rentainhe/Tasks_for_Rookies",
+    "html_url": "https://github.com/rentainhe/Tasks_for_Rookies",
+    "description": "视觉实验室新手任务",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

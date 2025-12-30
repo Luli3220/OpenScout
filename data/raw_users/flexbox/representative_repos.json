@@ -1,0 +1,3622 @@
+[
+  {
+    "name": "react-native-bootcamp",
+    "full_name": "flexbox/react-native-bootcamp",
+    "html_url": "https://github.com/flexbox/react-native-bootcamp",
+    "description": "1 week, 20+ lessons, opinionated React Native Bootcamp for busy developers.",
+    "stars": 251,
+    "forks": 14,
+    "languages": {
+      "TypeScript": 304740,
+      "JavaScript": 26235,
+      "Shell": 662
+    },
+    "contributions_by_user": 706,
+    "contribution_score": 7779.93,
+    "S_code": 323.86,
+    "S_social": 279,
+    "S_maint": 706
+  },
+  {
+    "name": "macos-front-end",
+    "full_name": "flexbox/macos-front-end",
+    "html_url": "https://github.com/flexbox/macos-front-end",
+    "description": "🤓 Curated macOS tools for productive front-end developer",
+    "stars": 105,
+    "forks": 7,
+    "languages": {},
+    "contributions_by_user": 11,
+    "contribution_score": 348.0,
+    "S_code": 0.0,
+    "S_social": 119,
+    "S_maint": 11
+  },
+  {
+    "name": "CSS-Guidelines",
+    "full_name": "flexbox/CSS-Guidelines",
+    "html_url": "https://github.com/flexbox/CSS-Guidelines",
+    "description": "Guide de haut niveau pour un CSS évolutif & maintenable.",
+    "stars": 85,
+    "forks": 10,
+    "languages": {
+      "HTML": 37995,
+      "CSS": 11993,
+      "Ruby": 6016
+    },
+    "contributions_by_user": 62,
+    "contribution_score": 857.35,
+    "S_code": 54.69,
+    "S_social": 105,
+    "S_maint": 62
+  },
+  {
+    "name": "foundation-boilerplate",
+    "full_name": "flexbox/foundation-boilerplate",
+    "html_url": "https://github.com/flexbox/foundation-boilerplate",
+    "description": ":white_check_mark: Starter front-end template to build responsive styleguide",
+    "stars": 54,
+    "forks": 4,
+    "languages": {
+      "HTML": 45478,
+      "CSS": 36780,
+      "Ruby": 7966,
+      "CoffeeScript": 1868
+    },
+    "contributions_by_user": 46,
+    "contribution_score": 628.97,
+    "S_code": 89.93,
+    "S_social": 62,
+    "S_maint": 46
+  },
+  {
+    "name": "codeless",
+    "full_name": "flexbox/codeless",
+    "html_url": "https://github.com/flexbox/codeless",
+    "description": "🚚✨ Advanced Middleman template with Sass, Slim & Yarn",
+    "stars": 43,
+    "forks": 3,
+    "languages": {
+      "Ruby": 11230,
+      "HTML": 3497,
+      "JavaScript": 1603,
+      "CSS": 280
+    },
+    "contributions_by_user": 62,
+    "contribution_score": 726.11,
+    "S_code": 16.22,
+    "S_social": 49,
+    "S_maint": 62
+  },
+  {
+    "name": "react-native-nextjs-monorepo",
+    "full_name": "flexbox/react-native-nextjs-monorepo",
+    "html_url": "https://github.com/flexbox/react-native-nextjs-monorepo",
+    "description": "Exploring monorepo with React Native and Next.js —bootstrapped with solito",
+    "stars": 34,
+    "forks": 2,
+    "languages": {
+      "TypeScript": 19471,
+      "JavaScript": 1845
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 176.41,
+    "S_code": 20.82,
+    "S_social": 38,
+    "S_maint": 9
+  },
+  {
+    "name": "davidl",
+    "full_name": "flexbox/davidl",
+    "html_url": "https://github.com/flexbox/davidl",
+    "description": "💎 Designer & front-end developer website",
+    "stars": 29,
+    "forks": 10,
+    "languages": {
+      "Slim": 192194,
+      "SCSS": 36156,
+      "Ruby": 9027,
+      "CoffeeScript": 1192
+    },
+    "contributions_by_user": 401,
+    "contribution_score": 4224.49,
+    "S_code": 232.98,
+    "S_social": 49,
+    "S_maint": 401
+  },
+  {
+    "name": "middleman-snippets",
+    "full_name": "flexbox/middleman-snippets",
+    "html_url": "https://github.com/flexbox/middleman-snippets",
+    "description": ":zap: Library of commonly used snippets for Middleman websites",
+    "stars": 26,
+    "forks": 3,
+    "languages": {
+      "HTML": 2305,
+      "Ruby": 761
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 85.5,
+    "S_code": 2.99,
+    "S_social": 32,
+    "S_maint": 2
+  },
+  {
+    "name": "machine-learning-with-javascript",
+    "full_name": "flexbox/machine-learning-with-javascript",
+    "html_url": "https://github.com/flexbox/machine-learning-with-javascript",
+    "description": "Everything I know about TensorFlow with JavaScript",
+    "stars": 23,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 11669,
+      "CSS": 4975,
+      "HTML": 3279
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 237.73,
+    "S_code": 19.46,
+    "S_social": 29,
+    "S_maint": 17
+  },
+  {
+    "name": "setup",
+    "full_name": "flexbox/setup",
+    "html_url": "https://github.com/flexbox/setup",
+    "description": "Automate the macOS setup for productive React Developer",
+    "stars": 20,
+    "forks": 1,
+    "languages": {
+      "Shell": 16105,
+      "Ruby": 1214
+    },
+    "contributions_by_user": 51,
+    "contribution_score": 562.46,
+    "S_code": 16.91,
+    "S_social": 22,
+    "S_maint": 51
+  },
+  {
+    "name": "inspiration-native",
+    "full_name": "flexbox/inspiration-native",
+    "html_url": "https://github.com/flexbox/inspiration-native",
+    "description": "⚛ Curated Quotes from Tech Conferences for Startup Pitch Decks",
+    "stars": 17,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 14563
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 195.11,
+    "S_code": 14.22,
+    "S_social": 19,
+    "S_maint": 15
+  },
+  {
+    "name": "weshipit.today",
+    "full_name": "flexbox/weshipit.today",
+    "html_url": "https://github.com/flexbox/weshipit.today",
+    "description": "Monorepo for weshipit.today —the home of React Native developers who release every day.",
+    "stars": 16,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 638375,
+      "JavaScript": 10464,
+      "CSS": 201,
+      "Shell": 69
+    },
+    "contributions_by_user": 239,
+    "contribution_score": 2742.95,
+    "S_code": 633.9,
+    "S_social": 18,
+    "S_maint": 239
+  },
+  {
+    "name": "react-native-nx-monorepo",
+    "full_name": "flexbox/react-native-nx-monorepo",
+    "html_url": "https://github.com/flexbox/react-native-nx-monorepo",
+    "description": "Exploring react-native with nextjs / iOS / Android / redux / native-base ",
+    "stars": 14,
+    "forks": 2,
+    "languages": {
+      "Java": 16647,
+      "TypeScript": 16361,
+      "C++": 6963,
+      "JavaScript": 4177,
+      "Objective-C++": 3647,
+      "Makefile": 1524,
+      "Ruby": 1120,
+      "Starlark": 602,
+      "Objective-C": 394,
+      "HTML": 318,
+      "CSS": 109,
+      "Shell": 58
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 291.35,
+    "S_code": 50.7,
+    "S_social": 18,
+    "S_maint": 23
+  },
+  {
+    "name": "react-native-template-obytes",
+    "full_name": "flexbox/react-native-template-obytes",
+    "html_url": "https://github.com/flexbox/react-native-template-obytes",
+    "description": "📱 A template for your next React Native project 🚀, Made with developer experience and performance first: Expo,TypeScript,TailwindCSS, Husky, Lint-Staged, react-navigation, react-query, react-hook-form.",
+    "stars": 13,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 73074,
+      "Java": 17416,
+      "JavaScript": 13073,
+      "C++": 6987,
+      "Objective-C++": 6582,
+      "Ruby": 2355,
+      "Starlark": 1932,
+      "Shell": 1597,
+      "Makefile": 1508,
+      "Objective-C": 391,
+      "Swift": 113
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 87.05,
+    "S_code": 122.1,
+    "S_social": 13,
+    "S_maint": 0
+  },
+  {
+    "name": "github-bootcamp",
+    "full_name": "flexbox/github-bootcamp",
+    "html_url": "https://github.com/flexbox/github-bootcamp",
+    "description": "Git x GitHub bootcamp challenges for productive developers",
+    "stars": 12,
+    "forks": 7,
+    "languages": {
+      "JavaScript": 655,
+      "TypeScript": 548,
+      "HTML": 252
+    },
+    "contributions_by_user": 92,
+    "contribution_score": 972.71,
+    "S_code": 1.42,
+    "S_social": 26,
+    "S_maint": 92
+  },
+  {
+    "name": "classroom",
+    "full_name": "flexbox/classroom",
+    "html_url": "https://github.com/flexbox/classroom",
+    "description": "👉  Let's build together our own classroom HQ",
+    "stars": 12,
+    "forks": 28,
+    "languages": {
+      "Ruby": 9636,
+      "HTML": 4566,
+      "CSS": 3199,
+      "JavaScript": 31
+    },
+    "contributions_by_user": 83,
+    "contribution_score": 974.51,
+    "S_code": 17.02,
+    "S_social": 68,
+    "S_maint": 83
+  },
+  {
+    "name": "inspiration",
+    "full_name": "flexbox/inspiration",
+    "html_url": "https://github.com/flexbox/inspiration",
+    "description": "⚛ Popular quotes from humans working in the web industry",
+    "stars": 10,
+    "forks": 8,
+    "languages": {
+      "TypeScript": 16849,
+      "JavaScript": 6644,
+      "CSS": 138
+    },
+    "contributions_by_user": 65,
+    "contribution_score": 713.54,
+    "S_code": 23.08,
+    "S_social": 26,
+    "S_maint": 65
+  },
+  {
+    "name": "foundation-101",
+    "full_name": "flexbox/foundation-101",
+    "html_url": "https://github.com/flexbox/foundation-101",
+    "description": "📘 Build your first hosted website with the foundation framework",
+    "stars": 10,
+    "forks": 8,
+    "languages": {},
+    "contributions_by_user": 82,
+    "contribution_score": 872.0,
+    "S_code": 0.0,
+    "S_social": 26,
+    "S_maint": 82
+  },
+  {
+    "name": "figmatostore",
+    "full_name": "flexbox/figmatostore",
+    "html_url": "https://github.com/flexbox/figmatostore",
+    "description": "Boilerplate to generate quality mobile screenshots for App Store and Play store.",
+    "stars": 8,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 5925,
+      "JavaScript": 846,
+      "CSS": 59
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 159.33,
+    "S_code": 6.67,
+    "S_social": 8,
+    "S_maint": 14
+  },
+  {
+    "name": "courses",
+    "full_name": "flexbox/courses",
+    "html_url": "https://github.com/flexbox/courses",
+    "description": ":fr: Courses & :us: Talks about front-end",
+    "stars": 8,
+    "forks": 5,
+    "languages": {
+      "Slim": 202143,
+      "SCSS": 12404,
+      "Ruby": 6230,
+      "HTML": 1056,
+      "JavaScript": 794,
+      "Shell": 26
+    },
+    "contributions_by_user": 266,
+    "contribution_score": 2804.72,
+    "S_code": 217.43,
+    "S_social": 18,
+    "S_maint": 266
+  },
+  {
+    "name": "weblille.rocks",
+    "full_name": "flexbox/weblille.rocks",
+    "html_url": "https://github.com/flexbox/weblille.rocks",
+    "description": "🤘 Rassembler les meilleures communautés web au Nord de Paris",
+    "stars": 5,
+    "forks": 4,
+    "languages": {
+      "HTML": 14020,
+      "Ruby": 8663,
+      "CSS": 4244,
+      "CoffeeScript": 16
+    },
+    "contributions_by_user": 63,
+    "contribution_score": 669.16,
+    "S_code": 26.31,
+    "S_social": 13,
+    "S_maint": 63
+  },
+  {
+    "name": "autopilot.rocks",
+    "full_name": "flexbox/autopilot.rocks",
+    "html_url": "https://github.com/flexbox/autopilot.rocks",
+    "description": "Automate your life – the smart way",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Ruby": 12409,
+      "HTML": 10957,
+      "CSS": 3533,
+      "JavaScript": 766
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 253.51,
+    "S_code": 27.02,
+    "S_social": 5,
+    "S_maint": 23
+  },
+  {
+    "name": "artaufeminin",
+    "full_name": "flexbox/artaufeminin",
+    "html_url": "https://github.com/flexbox/artaufeminin",
+    "description": "🇫🇷 A podcast about women artist through the history",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 94638,
+      "JavaScript": 28391,
+      "CSS": 3224,
+      "Shell": 58
+    },
+    "contributions_by_user": 234,
+    "contribution_score": 2409.68,
+    "S_code": 123.35,
+    "S_social": 4,
+    "S_maint": 234
+  },
+  {
+    "name": "responsive-icons",
+    "full_name": "flexbox/responsive-icons",
+    "html_url": "https://github.com/flexbox/responsive-icons",
+    "description": "A library of html symbols usefull for responsive website developpement",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "HTML": 9550,
+      "CSS": 6688,
+      "Ruby": 5524,
+      "CoffeeScript": 942
+    },
+    "contributions_by_user": 42,
+    "contribution_score": 439.09,
+    "S_code": 22.17,
+    "S_social": 4,
+    "S_maint": 42
+  },
+  {
+    "name": "nextjs-revealjs-presentation-2",
+    "full_name": "flexbox/nextjs-revealjs-presentation-2",
+    "html_url": "https://github.com/flexbox/nextjs-revealjs-presentation-2",
+    "description": "https://courses.davidl.fr but in React and Nextjs",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 212734,
+      "CSS": 135597,
+      "TypeScript": 8066
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 224.02,
+    "S_code": 348.04,
+    "S_social": 5,
+    "S_maint": 4
+  },
+  {
+    "name": "pokemon-breakpoint",
+    "full_name": "flexbox/pokemon-breakpoint",
+    "html_url": "https://github.com/flexbox/pokemon-breakpoint",
+    "description": "A fun way to make the connection between breaking points in CSS media queries and Javascript files",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "CSS": 45700,
+      "Ruby": 3689,
+      "JavaScript": 2728,
+      "HTML": 2645
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 186.74,
+    "S_code": 53.48,
+    "S_social": 5,
+    "S_maint": 15
+  },
+  {
+    "name": "awesome-scss",
+    "full_name": "flexbox/awesome-scss",
+    "html_url": "https://github.com/flexbox/awesome-scss",
+    "description": "🎨 A curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 16.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "guide-integrateur",
+    "full_name": "flexbox/guide-integrateur",
+    "html_url": "https://github.com/flexbox/guide-integrateur",
+    "description": "Un guide destiné aux intégrateurs chargés de réaliser des gabarits HTML et CSS accessibles.",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "HTML": 70165,
+      "CSS": 20800,
+      "JavaScript": 4177
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 66.46,
+    "S_code": 92.91,
+    "S_social": 5,
+    "S_maint": 1
+  },
+  {
+    "name": "awesome-github-templates",
+    "full_name": "flexbox/awesome-github-templates",
+    "html_url": "https://github.com/flexbox/awesome-github-templates",
+    "description": ":octocat: Curated list of GitHub Issues and Pull Requests templates",
+    "stars": 3,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 16.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "flexbox",
+    "full_name": "flexbox/flexbox",
+    "html_url": "https://github.com/flexbox/flexbox",
+    "description": "My profile readme",
+    "stars": 2,
+    "forks": 10,
+    "languages": {},
+    "contributions_by_user": 89,
+    "contribution_score": 934.0,
+    "S_code": 0.0,
+    "S_social": 22,
+    "S_maint": 89
+  },
+  {
+    "name": "talks",
+    "full_name": "flexbox/talks",
+    "html_url": "https://github.com/flexbox/talks",
+    "description": "🗣  Information about my various tech talks and availability ",
+    "stars": 2,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 62,
+    "contribution_score": 628.0,
+    "S_code": 0.0,
+    "S_social": 4,
+    "S_maint": 62
+  },
+  {
+    "name": "og-image",
+    "full_name": "flexbox/og-image",
+    "html_url": "https://github.com/flexbox/og-image",
+    "description": "Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 23077,
+      "CSS": 6605,
+      "HTML": 3852
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 90.37,
+    "S_code": 32.75,
+    "S_social": 2,
+    "S_maint": 7
+  },
+  {
+    "name": "react-query-firebase",
+    "full_name": "flexbox/react-query-firebase",
+    "html_url": "https://github.com/flexbox/react-query-firebase",
+    "description": "React Query hooks for managing asynchronous operations with Firebase. Supports Authentication, Analytics, Firestore & Realtime Database.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 147028,
+      "JavaScript": 2532
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 77.03,
+    "S_code": 146.05,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "ignite",
+    "full_name": "flexbox/ignite",
+    "html_url": "https://github.com/flexbox/ignite",
+    "description": "Infinite Red's cutting edge React Native project boilerplate, along with a CLI, component/model generators, and more!",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 212407,
+      "Java": 15383,
+      "JavaScript": 7158,
+      "C++": 6971,
+      "EJS": 4612,
+      "Shell": 4548,
+      "Objective-C++": 3759,
+      "Objective-C": 2422,
+      "Starlark": 1916,
+      "Ruby": 1586,
+      "Makefile": 1528,
+      "Swift": 113,
+      "C": 104
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 132.18,
+    "S_code": 256.35,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "appjs-one",
+    "full_name": "flexbox/appjs-one",
+    "html_url": "https://github.com/flexbox/appjs-one",
+    "description": "Setup a pro development process with Expo and EAS",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 35511,
+      "JavaScript": 651
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 121.66,
+    "S_code": 35.31,
+    "S_social": 2,
+    "S_maint": 10
+  },
+  {
+    "name": "react-native-universal-monorepo",
+    "full_name": "flexbox/react-native-universal-monorepo",
+    "html_url": "https://github.com/flexbox/react-native-universal-monorepo",
+    "description": "Exploring monorepo with React Native / nextjs / iOS / Android / redux / native-base from @mmazzarolo",
+    "stars": 2,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 13977,
+      "Java": 12475,
+      "Objective-C": 12407,
+      "C++": 7384,
+      "TypeScript": 7119,
+      "HTML": 5274,
+      "Ruby": 3280,
+      "CSS": 1215,
+      "Starlark": 1204,
+      "Shell": 429
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 53.62,
+    "S_code": 63.25,
+    "S_social": 6,
+    "S_maint": 1
+  },
+  {
+    "name": "app-store-reviews-to-csv",
+    "full_name": "flexbox/app-store-reviews-to-csv",
+    "html_url": "https://github.com/flexbox/app-store-reviews-to-csv",
+    "description": "Collecting reviews from apps.apple.com and export as a .csv",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1244,
+      "Python": 667
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 34.93,
+    "S_code": 1.87,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "100things",
+    "full_name": "flexbox/100things",
+    "html_url": "https://github.com/flexbox/100things",
+    "description": "A product hunt clone with react and GraphQL",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 18582,
+      "CSS": 4792,
+      "HTML": 1572
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 130.18,
+    "S_code": 24.36,
+    "S_social": 4,
+    "S_maint": 11
+  },
+  {
+    "name": "getridof.it",
+    "full_name": "flexbox/getridof.it",
+    "html_url": "https://github.com/flexbox/getridof.it",
+    "description": "Be happier — with less things →",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "CSS": 11198,
+      "HTML": 10294,
+      "Ruby": 4551,
+      "CoffeeScript": 51
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 146.74,
+    "S_code": 25.48,
+    "S_social": 2,
+    "S_maint": 13
+  },
+  {
+    "name": "iut-calais",
+    "full_name": "flexbox/iut-calais",
+    "html_url": "https://github.com/flexbox/iut-calais",
+    "description": "Awesome langing page for students",
+    "stars": 2,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 24.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "awesome-right-click-header-to-download-logo",
+    "full_name": "flexbox/awesome-right-click-header-to-download-logo",
+    "html_url": "https://github.com/flexbox/awesome-right-click-header-to-download-logo",
+    "description": "right click > download assets FTW",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 9,
+    "contribution_score": 92.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 9
+  },
+  {
+    "name": "tamagui",
+    "full_name": "flexbox/tamagui",
+    "html_url": "https://github.com/flexbox/tamagui",
+    "description": "Universal UI kit and style system for React Native + Web - with an optimizing compiler 🚄",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 8179049,
+      "MDX": 750151,
+      "JavaScript": 135675,
+      "Shell": 59813,
+      "CSS": 29082,
+      "PLpgSQL": 14357,
+      "HTML": 1632,
+      "Dockerfile": 1272
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 4560.04,
+    "S_code": 8956.08,
+    "S_social": 1,
+    "S_maint": 8
+  },
+  {
+    "name": "mobile-landing",
+    "full_name": "flexbox/mobile-landing",
+    "html_url": "https://github.com/flexbox/mobile-landing",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 81056,
+      "JavaScript": 5809,
+      "CSS": 58
+    },
+    "contributions_by_user": 33,
+    "contribution_score": 374.44,
+    "S_code": 84.89,
+    "S_social": 1,
+    "S_maint": 33
+  },
+  {
+    "name": "advanced-react-patterns-1",
+    "full_name": "flexbox/advanced-react-patterns-1",
+    "html_url": "https://github.com/flexbox/advanced-react-patterns-1",
+    "description": "This is the latest advanced react patterns workshop",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 91513,
+      "JavaScript": 8819,
+      "CSS": 6084,
+      "MDX": 2754,
+      "Dockerfile": 506,
+      "Shell": 183
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 55.64,
+    "S_code": 107.28,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "monorepo-react-bookstore",
+    "full_name": "flexbox/monorepo-react-bookstore",
+    "html_url": "https://github.com/flexbox/monorepo-react-bookstore",
+    "description": "A bookstore website bootstraped with Nx",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 10762,
+      "HTML": 324,
+      "JavaScript": 90
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 77.46,
+    "S_code": 10.91,
+    "S_social": 1,
+    "S_maint": 7
+  },
+  {
+    "name": "gql-bootcamp",
+    "full_name": "flexbox/gql-bootcamp",
+    "html_url": "https://github.com/flexbox/gql-bootcamp",
+    "description": "From zero to hero in GraphQL",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 106176,
+      "HTML": 5759,
+      "CSS": 2635,
+      "Dockerfile": 1232,
+      "Shell": 353,
+      "PowerShell": 231,
+      "Pug": 35
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 318.85,
+    "S_code": 113.69,
+    "S_social": 1,
+    "S_maint": 26
+  },
+  {
+    "name": "react-dsfr",
+    "full_name": "flexbox/react-dsfr",
+    "html_url": "https://github.com/flexbox/react-dsfr",
+    "description": "🇫🇷 DSFR React component library",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 400361,
+      "JavaScript": 6448,
+      "HTML": 2687,
+      "CSS": 97
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 202.0,
+    "S_code": 399.99,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "nx",
+    "full_name": "flexbox/nx",
+    "html_url": "https://github.com/flexbox/nx",
+    "description": "Smart, Fast and Extensible Build System",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 6444355,
+      "JavaScript": 69168,
+      "CSS": 12204,
+      "Shell": 9542,
+      "C++": 4920,
+      "Objective-C": 2403,
+      "SCSS": 2275,
+      "HTML": 1939,
+      "Ruby": 785,
+      "Starlark": 602
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3199.36,
+    "S_code": 6394.72,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "nx-react-workshop",
+    "full_name": "flexbox/nx-react-workshop",
+    "html_url": "https://github.com/flexbox/nx-react-workshop",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 66094,
+      "Shell": 4315,
+      "JavaScript": 810
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 36.77,
+    "S_code": 69.55,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "nativebase-docs",
+    "full_name": "flexbox/nativebase-docs",
+    "html_url": "https://github.com/flexbox/nativebase-docs",
+    "description": "Mobile-first, accessible components for React Native & Web.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 254391,
+      "JavaScript": 23319,
+      "CSS": 5480
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 140.28,
+    "S_code": 276.55,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "vercel-101",
+    "full_name": "flexbox/vercel-101",
+    "html_url": "https://github.com/flexbox/vercel-101",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 211
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 22.1,
+    "S_code": 0.21,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "starter-express",
+    "full_name": "flexbox/starter-express",
+    "html_url": "https://github.com/flexbox/starter-express",
+    "description": "Starter project for using Remix with Express",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3492,
+      "TypeScript": 1954,
+      "CSS": 329
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.82,
+    "S_code": 5.64,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "awesome-design-systems",
+    "full_name": "flexbox/awesome-design-systems",
+    "html_url": "https://github.com/flexbox/awesome-design-systems",
+    "description": "💅🏻 ⚒ A collection of awesome design systems",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "community-starter-kit",
+    "full_name": "flexbox/community-starter-kit",
+    "html_url": "https://github.com/flexbox/community-starter-kit",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "AWESOME-REACT-NATIVE-WEB",
+    "full_name": "flexbox/AWESOME-REACT-NATIVE-WEB",
+    "html_url": "https://github.com/flexbox/AWESOME-REACT-NATIVE-WEB",
+    "description": "💙 React Native Web patterns, techniques, tips, and tricks ✨",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "hello-github-actions",
+    "full_name": "flexbox/hello-github-actions",
+    "html_url": "https://github.com/flexbox/hello-github-actions",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Dockerfile": 447,
+      "Shell": 59
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 56.25,
+    "S_code": 0.49,
+    "S_social": 3,
+    "S_maint": 5
+  },
+  {
+    "name": "hoooooo.fr",
+    "full_name": "flexbox/hoooooo.fr",
+    "html_url": "https://github.com/flexbox/hoooooo.fr",
+    "description": "A cool website to trap your friends",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "CSS": 64521,
+      "JavaScript": 8941,
+      "Ruby": 510,
+      "CoffeeScript": 109
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 58.17,
+    "S_code": 72.34,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "2019-react-finland-workshop",
+    "full_name": "flexbox/2019-react-finland-workshop",
+    "html_url": "https://github.com/flexbox/2019-react-finland-workshop",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 31203,
+      "HTML": 19176
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 86.6,
+    "S_code": 49.2,
+    "S_social": 1,
+    "S_maint": 6
+  },
+  {
+    "name": "amazon-dynamodb-developer-guide",
+    "full_name": "flexbox/amazon-dynamodb-developer-guide",
+    "html_url": "https://github.com/flexbox/amazon-dynamodb-developer-guide",
+    "description": "The open source version of the Amazon DynamoDB docs. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "advanced-react-patterns",
+    "full_name": "flexbox/advanced-react-patterns",
+    "html_url": "https://github.com/flexbox/advanced-react-patterns",
+    "description": "This advanced ReactJS patterns exercise is part of the training provided by ReactJS Academy. https://reactjs.academy",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 63103,
+      "HTML": 2022,
+      "CSS": 1821
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 34.69,
+    "S_code": 65.38,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "pictures",
+    "full_name": "flexbox/pictures",
+    "html_url": "https://github.com/flexbox/pictures",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9872,
+      "CSS": 4761,
+      "HTML": 1572
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 59.91,
+    "S_code": 15.83,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "learnstorybook.com",
+    "full_name": "flexbox/learnstorybook.com",
+    "html_url": "https://github.com/flexbox/learnstorybook.com",
+    "description": "Static site and content for Learn Storybook",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 71884
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 37.1,
+    "S_code": 70.2,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "react-storybook-101",
+    "full_name": "flexbox/react-storybook-101",
+    "html_url": "https://github.com/flexbox/react-storybook-101",
+    "description": "Component Driven Developement",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "CSS": 17178,
+      "JavaScript": 14970,
+      "HTML": 3612
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 109.46,
+    "S_code": 34.92,
+    "S_social": 1,
+    "S_maint": 9
+  },
+  {
+    "name": "contextAPI-exercise",
+    "full_name": "flexbox/contextAPI-exercise",
+    "html_url": "https://github.com/flexbox/contextAPI-exercise",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6930,
+      "HTML": 1590,
+      "CSS": 440
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.38,
+    "S_code": 8.75,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "improvement-csv",
+    "full_name": "flexbox/improvement-csv",
+    "html_url": "https://github.com/flexbox/improvement-csv",
+    "description": "Average improvement ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9938
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 46.85,
+    "S_code": 9.71,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "preact-currency",
+    "full_name": "flexbox/preact-currency",
+    "html_url": "https://github.com/flexbox/preact-currency",
+    "description": "⚛️ Precise, Fast, Live",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3259,
+      "CSS": 815
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 73.99,
+    "S_code": 3.98,
+    "S_social": 1,
+    "S_maint": 7
+  },
+  {
+    "name": "amp-letter.github.io",
+    "full_name": "flexbox/amp-letter.github.io",
+    "html_url": "https://github.com/flexbox/amp-letter.github.io",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 28945,
+      "CSS": 1730
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.98,
+    "S_code": 29.96,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "learn-redux",
+    "full_name": "flexbox/learn-redux",
+    "html_url": "https://github.com/flexbox/learn-redux",
+    "description": "⚛️ Instagram app clone working with React + Redux + Router",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 23331,
+      "CSS": 6070,
+      "HTML": 298
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 126.5,
+    "S_code": 29.0,
+    "S_social": 1,
+    "S_maint": 11
+  },
+  {
+    "name": "foundation-sites",
+    "full_name": "flexbox/foundation-sites",
+    "html_url": "https://github.com/flexbox/foundation-sites",
+    "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 466907,
+      "CSS": 409837,
+      "HTML": 42865,
+      "Shell": 139
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 451.1,
+    "S_code": 898.19,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "alfred-ember-observer",
+    "full_name": "flexbox/alfred-ember-observer",
+    "html_url": "https://github.com/flexbox/alfred-ember-observer",
+    "description": "Alfred 3 workflow to discover and compare ember-cli addons",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 12.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "ember-quickstart",
+    "full_name": "flexbox/ember-quickstart",
+    "html_url": "https://github.com/flexbox/ember-quickstart",
+    "description": "ember 101",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6673,
+      "HTML": 2062
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.27,
+    "S_code": 8.53,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ama",
+    "full_name": "flexbox/ama",
+    "html_url": "https://github.com/flexbox/ama",
+    "description": "Ask me anything!",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "adopteungit",
+    "full_name": "flexbox/adopteungit",
+    "html_url": "https://github.com/flexbox/adopteungit",
+    "description": "Adopte un Git",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "CSS": 42413,
+      "HTML": 13855,
+      "JavaScript": 5773,
+      "Ruby": 4090
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 34.29,
+    "S_code": 64.58,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "keycodes",
+    "full_name": "flexbox/keycodes",
+    "html_url": "https://github.com/flexbox/keycodes",
+    "description": "Easy visualizer for JavaScript KeyCodes",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3833,
+      "HTML": 1829,
+      "CSS": 1218
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 15.36,
+    "S_code": 6.72,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "react-howto",
+    "full_name": "flexbox/react-howto",
+    "html_url": "https://github.com/flexbox/react-howto",
+    "description": "Your guide to the (sometimes overwhelming!) React ecosystem.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 6.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "agile-tour-lille",
+    "full_name": "flexbox/agile-tour-lille",
+    "html_url": "https://github.com/flexbox/agile-tour-lille",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 14021,
+      "CSS": 5773
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 41.67,
+    "S_code": 19.33,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "euratech-login",
+    "full_name": "flexbox/euratech-login",
+    "html_url": "https://github.com/flexbox/euratech-login",
+    "description": "Login page for wifi onboarding",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 10159,
+      "CSS": 6778,
+      "Ruby": 3925,
+      "CoffeeScript": 16
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 72.19,
+    "S_code": 20.39,
+    "S_social": 1,
+    "S_maint": 6
+  },
+  {
+    "name": "github-awards",
+    "full_name": "flexbox/github-awards",
+    "html_url": "https://github.com/flexbox/github-awards",
+    "description": "Discover your ranking on github :",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 88692,
+      "HTML": 23456,
+      "CSS": 1428,
+      "JavaScript": 625
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 57.76,
+    "S_code": 111.52,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "frontend-guidelines",
+    "full_name": "flexbox/frontend-guidelines",
+    "html_url": "https://github.com/flexbox/frontend-guidelines",
+    "description": "Some HTML, CSS and JS best practices.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "SlidingHeaderLayout",
+    "full_name": "flexbox/SlidingHeaderLayout",
+    "html_url": "https://github.com/flexbox/SlidingHeaderLayout",
+    "description": "A layout with a fullscreen header that slides up to reveal a content area with an image grid.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "CSS": 17272,
+      "JavaScript": 1835
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.33,
+    "S_code": 18.66,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "react-native-reanimated",
+    "full_name": "flexbox/react-native-reanimated",
+    "html_url": "https://github.com/flexbox/react-native-reanimated",
+    "description": "React Native's Animated library reimplemented",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 5017257,
+      "C++": 769363,
+      "Java": 78740,
+      "JavaScript": 60339,
+      "Objective-C++": 49598,
+      "Objective-C": 23860,
+      "Ruby": 22418,
+      "Shell": 9088,
+      "CMake": 7385,
+      "Kotlin": 4764,
+      "Swift": 2514,
+      "C": 153
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2951.89,
+    "S_code": 5903.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "skills-copilot-codespaces-vscode",
+    "full_name": "flexbox/skills-copilot-codespaces-vscode",
+    "html_url": "https://github.com/flexbox/skills-copilot-codespaces-vscode",
+    "description": "My clone repository",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "react-native-bottom-sheet",
+    "full_name": "flexbox/react-native-bottom-sheet",
+    "html_url": "https://github.com/flexbox/react-native-bottom-sheet",
+    "description": "A performant interactive bottom sheet with fully configurable options 🚀",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 450754,
+      "MDX": 71859,
+      "JavaScript": 7823,
+      "HTML": 3540
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 260.73,
+    "S_code": 521.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tamagui-select-buggy",
+    "full_name": "flexbox/tamagui-select-buggy",
+    "html_url": "https://github.com/flexbox/tamagui-select-buggy",
+    "description": "reproductible example for buggy Select",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 36366,
+      "JavaScript": 1047
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 198.27,
+    "S_code": 36.54,
+    "S_social": 0,
+    "S_maint": 18
+  },
+  {
+    "name": "legend-docs",
+    "full_name": "flexbox/legend-docs",
+    "html_url": "https://github.com/flexbox/legend-docs",
+    "description": "The documentation for Legend's open source projects",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "MDX": 402886,
+      "TypeScript": 313701,
+      "CSS": 30655,
+      "Astro": 23184,
+      "JavaScript": 12236
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 412.16,
+    "S_code": 764.32,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "legend-state",
+    "full_name": "flexbox/legend-state",
+    "html_url": "https://github.com/flexbox/legend-state",
+    "description": "Legend-State is a super fast and powerful state library that enables fine-grained reactivity and easy automatic persistence",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1140065,
+      "JavaScript": 1314,
+      "Shell": 599
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 557.61,
+    "S_code": 1115.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "meloskia",
+    "full_name": "flexbox/meloskia",
+    "html_url": "https://github.com/flexbox/meloskia",
+    "description": "A music-game demo to highlight RN-Skia capabilities",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 111872,
+      "JavaScript": 98186,
+      "Ruby": 3230,
+      "Objective-C++": 2729,
+      "Objective-C": 327,
+      "Swift": 113,
+      "C": 103,
+      "CSS": 58
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 105.77,
+    "S_code": 211.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "directory",
+    "full_name": "flexbox/directory",
+    "html_url": "https://github.com/flexbox/directory",
+    "description": "A searchable and filterable directory of React Native libraries.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 213023,
+      "JavaScript": 7285,
+      "CSS": 2576
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 108.83,
+    "S_code": 217.66,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "appjs-2025-workshop-performance",
+    "full_name": "flexbox/appjs-2025-workshop-performance",
+    "html_url": "https://github.com/flexbox/appjs-2025-workshop-performance",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Kotlin": 3061,
+      "TypeScript": 2484,
+      "Ruby": 2170,
+      "Swift": 1409,
+      "JavaScript": 887
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.89,
+    "S_code": 9.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tamagui-select-android",
+    "full_name": "flexbox/tamagui-select-android",
+    "html_url": "https://github.com/flexbox/tamagui-select-android",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 26406,
+      "JavaScript": 4344
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 55.01,
+    "S_code": 30.03,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "victory-native-xl",
+    "full_name": "flexbox/victory-native-xl",
+    "html_url": "https://github.com/flexbox/victory-native-xl",
+    "description": "A charting library for React Native with a focus on performance and customization.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 400455,
+      "MDX": 17670,
+      "JavaScript": 5434,
+      "CSS": 3773
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 218.66,
+    "S_code": 417.32,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "expo",
+    "full_name": "flexbox/expo",
+    "html_url": "https://github.com/flexbox/expo",
+    "description": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 8420145,
+      "Kotlin": 3463907,
+      "Objective-C": 2658390,
+      "Swift": 1803007,
+      "Java": 1578205,
+      "JavaScript": 852590,
+      "C++": 312502,
+      "C": 236338,
+      "Objective-C++": 174849,
+      "Ruby": 169843,
+      "Shell": 59462,
+      "HTML": 31106,
+      "CMake": 25733,
+      "CSS": 107,
+      "Batchfile": 89
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9661.27,
+    "S_code": 19322.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-native-keyboard-controller",
+    "full_name": "flexbox/react-native-keyboard-controller",
+    "html_url": "https://github.com/flexbox/react-native-keyboard-controller",
+    "description": "Keyboard manager which works in identical way on both iOS and Android",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 337329,
+      "Kotlin": 134064,
+      "Swift": 79198,
+      "Objective-C++": 26580,
+      "JavaScript": 16412,
+      "Objective-C": 11642,
+      "Ruby": 5303,
+      "Java": 902,
+      "Shell": 149,
+      "C": 103
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 298.67,
+    "S_code": 597.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-native-website",
+    "full_name": "flexbox/react-native-website",
+    "html_url": "https://github.com/flexbox/react-native-website",
+    "description": "Configuration and documentation powering the React Native website.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 119348,
+      "SCSS": 57591,
+      "MDX": 10155,
+      "HTML": 2915,
+      "CSS": 2168
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 93.84,
+    "S_code": 187.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rails-watch-list",
+    "full_name": "flexbox/rails-watch-list",
+    "html_url": "https://github.com/flexbox/rails-watch-list",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 55616,
+      "HTML": 8499,
+      "SCSS": 4067,
+      "Dockerfile": 1885,
+      "JavaScript": 1069,
+      "Shell": 191
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 44.83,
+    "S_code": 69.66,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "with-environments",
+    "full_name": "flexbox/with-environments",
+    "html_url": "https://github.com/flexbox/with-environments",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 33486,
+      "JavaScript": 2700
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.67,
+    "S_code": 35.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dev-plugins",
+    "full_name": "flexbox/dev-plugins",
+    "html_url": "https://github.com/flexbox/dev-plugins",
+    "description": "Out-of-tree Expo devtools plugins for packages that haven't adopted the Expo devtools plugin system yet.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 141571,
+      "JavaScript": 16471,
+      "CSS": 828,
+      "HTML": 429
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 77.78,
+    "S_code": 155.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-suspense",
+    "full_name": "flexbox/react-suspense",
+    "html_url": "https://github.com/flexbox/react-suspense",
+    "description": "React Suspense workshop",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 242308,
+      "CSS": 87152,
+      "JavaScript": 9040,
+      "MDX": 1991,
+      "Dockerfile": 512,
+      "Shell": 311
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 176.66,
+    "S_code": 333.31,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "storybook",
+    "full_name": "flexbox/storybook",
+    "html_url": "https://github.com/flexbox/storybook",
+    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 7100065,
+      "JavaScript": 2527209,
+      "MDX": 115865,
+      "Svelte": 35595,
+      "Vue": 30398,
+      "HTML": 22735,
+      "CSS": 20071,
+      "EJS": 6191,
+      "Pug": 3991,
+      "Handlebars": 1711,
+      "Shell": 1051,
+      "SCSS": 125
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4816.9,
+    "S_code": 9633.8,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "React-Native-Advanced-Guide",
+    "full_name": "flexbox/React-Native-Advanced-Guide",
+    "html_url": "https://github.com/flexbox/React-Native-Advanced-Guide",
+    "description": "React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1045
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.51,
+    "S_code": 1.02,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "snack",
+    "full_name": "flexbox/snack",
+    "html_url": "https://github.com/flexbox/snack",
+    "description": "Expo Snack lets you run Expo in the browser.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1337260,
+      "JavaScript": 29532,
+      "CSS": 24650,
+      "HTML": 13495,
+      "Dockerfile": 6575,
+      "Shell": 2947
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 690.65,
+    "S_code": 1381.31,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cr-2024-intermediate-workshop-lessons",
+    "full_name": "flexbox/cr-2024-intermediate-workshop-lessons",
+    "html_url": "https://github.com/flexbox/cr-2024-intermediate-workshop-lessons",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Swift": 2169
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.06,
+    "S_code": 2.12,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cr-2024-intermediate-workshop-template",
+    "full_name": "flexbox/cr-2024-intermediate-workshop-template",
+    "html_url": "https://github.com/flexbox/cr-2024-intermediate-workshop-template",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 294031,
+      "EJS": 5251,
+      "JavaScript": 2772
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 147.49,
+    "S_code": 294.97,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-native-collapsible-tab-view",
+    "full_name": "flexbox/react-native-collapsible-tab-view",
+    "html_url": "https://github.com/flexbox/react-native-collapsible-tab-view",
+    "description": "A cross-platform Collapsible Tab View component for React Native",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 145255,
+      "Java": 9038,
+      "Ruby": 3712,
+      "Objective-C++": 3035,
+      "JavaScript": 2025,
+      "Objective-C": 327,
+      "Swift": 113
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 79.84,
+    "S_code": 159.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-native-mlkit",
+    "full_name": "flexbox/react-native-mlkit",
+    "html_url": "https://github.com/flexbox/react-native-mlkit",
+    "description": "The definitive MLKit wrapper for React Native and Expo",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 255050,
+      "CSS": 158769,
+      "JavaScript": 73418,
+      "Kotlin": 48946,
+      "Swift": 37288,
+      "HTML": 14251,
+      "MDX": 9968,
+      "EJS": 5251,
+      "Ruby": 3521,
+      "Shell": 555
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 296.4,
+    "S_code": 592.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rkcraft",
+    "full_name": "flexbox/rkcraft",
+    "html_url": "https://github.com/flexbox/rkcraft",
+    "description": "react native bootcamp",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 13031,
+      "JavaScript": 273
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 16.5,
+    "S_code": 12.99,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "bapscraft",
+    "full_name": "flexbox/bapscraft",
+    "html_url": "https://github.com/flexbox/bapscraft",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 24526,
+      "JavaScript": 865
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.4,
+    "S_code": 24.8,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hivecraft",
+    "full_name": "flexbox/hivecraft",
+    "html_url": "https://github.com/flexbox/hivecraft",
+    "description": "A React Native application build with expo. Created during my bootcamp https://davidl.fr/bootcamp",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 17860,
+      "JavaScript": 2271
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.83,
+    "S_code": 19.66,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "i18n",
+    "full_name": "flexbox/i18n",
+    "html_url": "https://github.com/flexbox/i18n",
+    "description": "I18n module for Nuxt",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 436656,
+      "Vue": 10662,
+      "JavaScript": 1476,
+      "Shell": 1140
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 219.69,
+    "S_code": 439.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "welcome-internet",
+    "full_name": "flexbox/welcome-internet",
+    "html_url": "https://github.com/flexbox/welcome-internet",
+    "description": "demo gh-pages",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 123
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.06,
+    "S_code": 0.12,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "react-native-ble-plx",
+    "full_name": "flexbox/react-native-ble-plx",
+    "html_url": "https://github.com/flexbox/react-native-ble-plx",
+    "description": "React Native BLE library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Swift": 985981,
+      "Java": 188874,
+      "JavaScript": 174313,
+      "TypeScript": 84472,
+      "Objective-C": 61975,
+      "Ruby": 5229,
+      "Shell": 3924,
+      "Objective-C++": 752,
+      "C": 207
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 735.22,
+    "S_code": 1470.44,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "spectacle",
+    "full_name": "flexbox/spectacle",
+    "html_url": "https://github.com/flexbox/spectacle",
+    "description": "A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 249126,
+      "SCSS": 46369,
+      "JavaScript": 29863
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 158.87,
+    "S_code": 317.73,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gitbook_v4",
+    "full_name": "flexbox/gitbook_v4",
+    "html_url": "https://github.com/flexbox/gitbook_v4",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Swift": 1052,
+      "Kotlin": 863
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.94,
+    "S_code": 1.87,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "kilowatts-grid",
+    "full_name": "flexbox/kilowatts-grid",
+    "html_url": "https://github.com/flexbox/kilowatts-grid",
+    "description": "Open source live power market data for Great Britain",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 403791,
+      "HTML": 13314,
+      "Java": 9064,
+      "Ruby": 3416,
+      "Objective-C++": 2670,
+      "JavaScript": 1659,
+      "Objective-C": 327,
+      "Swift": 113,
+      "C": 103
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 212.14,
+    "S_code": 424.27,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "flexbox/dotfiles",
+    "html_url": "https://github.com/flexbox/dotfiles",
+    "description": "Default configuration for Le Wagon's students",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 5548
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.71,
+    "S_code": 5.42,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "amplify-ui",
+    "full_name": "flexbox/amplify-ui",
+    "html_url": "https://github.com/flexbox/amplify-ui",
+    "description": "Amplify UI is a collection of accessible, themeable, performant React (and more!) components that can connect directly to the cloud.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2769151,
+      "SCSS": 139046,
+      "Vue": 98898,
+      "Gherkin": 89617,
+      "JavaScript": 44853,
+      "HTML": 42537,
+      "CSS": 9649,
+      "Shell": 6057
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1562.41,
+    "S_code": 3124.81,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-native-paper",
+    "full_name": "flexbox/react-native-paper",
+    "html_url": "https://github.com/flexbox/react-native-paper",
+    "description": "Material Design for React Native (Android & iOS)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1258174,
+      "JavaScript": 21661,
+      "Shell": 2350,
+      "CSS": 1582,
+      "HTML": 446
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 627.06,
+    "S_code": 1254.11,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "reactnativetesting.io",
+    "full_name": "flexbox/reactnativetesting.io",
+    "html_url": "https://github.com/flexbox/reactnativetesting.io",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8090,
+      "CSS": 1852
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 14.85,
+    "S_code": 9.71,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "expo-template-storybook",
+    "full_name": "flexbox/expo-template-storybook",
+    "html_url": "https://github.com/flexbox/expo-template-storybook",
+    "description": "An expo template for react native storybook",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4497,
+      "TypeScript": 1816
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 13.08,
+    "S_code": 6.17,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "redux-toolkit",
+    "full_name": "flexbox/redux-toolkit",
+    "html_url": "https://github.com/flexbox/redux-toolkit",
+    "description": "The official, opinionated, batteries-included toolset for efficient Redux development",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1089817,
+      "JavaScript": 39899,
+      "CSS": 9049
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 556.04,
+    "S_code": 1112.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "expo-firebase-starter",
+    "full_name": "flexbox/expo-firebase-starter",
+    "html_url": "https://github.com/flexbox/expo-firebase-starter",
+    "description": "🔥⚛️📱 Expo + Firebase Starter Kit",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 25941,
+      "Shell": 195
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.76,
+    "S_code": 25.52,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "odyssey-lift-off-part5-server",
+    "full_name": "flexbox/odyssey-lift-off-part5-server",
+    "html_url": "https://github.com/flexbox/odyssey-lift-off-part5-server",
+    "description": "Odyssey Lift-off V - Server - Course Companion App",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4938
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.41,
+    "S_code": 4.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hackerweb-native-2",
+    "full_name": "flexbox/hackerweb-native-2",
+    "html_url": "https://github.com/flexbox/hackerweb-native-2",
+    "description": "HackerWeb 2: A read-only Hacker News client.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 109410
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 53.42,
+    "S_code": 106.85,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-native-email-link",
+    "full_name": "flexbox/react-native-email-link",
+    "html_url": "https://github.com/flexbox/react-native-email-link",
+    "description": "Open an email client from React Native (for 'magic link' type functionality).",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3790,
+      "Java": 3151
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 13.39,
+    "S_code": 6.78,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "david-01072021",
+    "full_name": "flexbox/david-01072021",
+    "html_url": "https://github.com/flexbox/david-01072021",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 28833,
+      "JavaScript": 860
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 224.5,
+    "S_code": 29.0,
+    "S_social": 0,
+    "S_maint": 21
+  },
+  {
+    "name": "react-navigation.github.io",
+    "full_name": "flexbox/react-navigation.github.io",
+    "html_url": "https://github.com/flexbox/react-navigation.github.io",
+    "description": "Home of the documentation and other miscellanea",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 26009,
+      "CSS": 3609
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.46,
+    "S_code": 28.92,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "restyle",
+    "full_name": "flexbox/restyle",
+    "html_url": "https://github.com/flexbox/restyle",
+    "description": "A type-enforced system for building UI components in React Native with TypeScript.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 40175,
+      "JavaScript": 422
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.82,
+    "S_code": 39.65,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-native-error-boundary",
+    "full_name": "flexbox/react-native-error-boundary",
+    "html_url": "https://github.com/flexbox/react-native-error-boundary",
+    "description": "A simple and reusable React-Native error boundary component 🐛",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4922
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.4,
+    "S_code": 4.81,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-native-xcodegen",
+    "full_name": "flexbox/react-native-xcodegen",
+    "html_url": "https://github.com/flexbox/react-native-xcodegen",
+    "description": "Templates and everything else you need to use xcodegen in your React Native project!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 141
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.07,
+    "S_code": 0.14,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-animated-header",
+    "full_name": "flexbox/react-animated-header",
+    "html_url": "https://github.com/flexbox/react-animated-header",
+    "description": "Animated header",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 9390,
+      "JavaScript": 1296,
+      "CSS": 60
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 145.25,
+    "S_code": 10.49,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "gatsby-plugin-netlify-identity",
+    "full_name": "flexbox/gatsby-plugin-netlify-identity",
+    "html_url": "https://github.com/flexbox/gatsby-plugin-netlify-identity",
+    "description": "gatsby-plugin-netlify-identity",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 513
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.25,
+    "S_code": 0.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nextjs-sitemap-generator",
+    "full_name": "flexbox/nextjs-sitemap-generator",
+    "html_url": "https://github.com/flexbox/nextjs-sitemap-generator",
+    "description": "Generate sitemap.xml from nextjs pages",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 26090,
+      "JavaScript": 7802
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.55,
+    "S_code": 33.1,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hasura-gql-workshop",
+    "full_name": "flexbox/hasura-gql-workshop",
+    "html_url": "https://github.com/flexbox/hasura-gql-workshop",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-ultimate-resume",
+    "full_name": "flexbox/react-ultimate-resume",
+    "html_url": "https://github.com/flexbox/react-ultimate-resume",
+    "description": "💼 🎨 A modern software developer resume built with React and JSONResume",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 578209,
+      "CSS": 7428,
+      "HTML": 1955
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 296.91,
+    "S_code": 573.82,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "react-native-ui-kitten",
+    "full_name": "flexbox/react-native-ui-kitten",
+    "html_url": "https://github.com/flexbox/react-native-ui-kitten",
+    "description": ":boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 753478,
+      "JavaScript": 9624,
+      "Objective-C": 8344,
+      "Ruby": 5570,
+      "Java": 5248,
+      "Starlark": 1204
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 392.55,
+    "S_code": 765.11,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "awesome-uses",
+    "full_name": "flexbox/awesome-uses",
+    "html_url": "https://github.com/flexbox/awesome-uses",
+    "description": "Awesome Uses Page",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "whatwentwrong",
+    "full_name": "flexbox/whatwentwrong",
+    "html_url": "https://github.com/flexbox/whatwentwrong",
+    "description": "⚛ Documenting React Native most commons issues and solutions",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 40.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "now-github-starter",
+    "full_name": "flexbox/now-github-starter",
+    "html_url": "https://github.com/flexbox/now-github-starter",
+    "description": "Starter project to demonstrate a project whose pull requests get automatically deployed",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 1105
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.54,
+    "S_code": 1.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "apollo-client",
+    "full_name": "flexbox/apollo-client",
+    "html_url": "https://github.com/flexbox/apollo-client",
+    "description": ":rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 992601,
+      "JavaScript": 4672,
+      "Shell": 2661
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 488.25,
+    "S_code": 976.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "eslint-plugin-react",
+    "full_name": "flexbox/eslint-plugin-react",
+    "html_url": "https://github.com/flexbox/eslint-plugin-react",
+    "description": "React specific linting rules for ESLint",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1669961
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 815.41,
+    "S_code": 1630.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "expo-to-appstore-checklist",
+    "full_name": "flexbox/expo-to-appstore-checklist",
+    "html_url": "https://github.com/flexbox/expo-to-appstore-checklist",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "awesome-list",
+    "full_name": "flexbox/awesome-list",
+    "html_url": "https://github.com/flexbox/awesome-list",
+    "description": "Curated list of links on component-driven development and design systems",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "redux-juice",
+    "full_name": "flexbox/redux-juice",
+    "html_url": "https://github.com/flexbox/redux-juice",
+    "description": "Simple utility to managed normalised business objects in redux state.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9714
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.74,
+    "S_code": 9.49,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "reactjs.org",
+    "full_name": "flexbox/reactjs.org",
+    "html_url": "https://github.com/flexbox/reactjs.org",
+    "description": "The React documentation website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 146119,
+      "CSS": 17121,
+      "HTML": 1237
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 80.31,
+    "S_code": 160.62,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bootcamp-hackathon",
+    "full_name": "flexbox/bootcamp-hackathon",
+    "html_url": "https://github.com/flexbox/bootcamp-hackathon",
+    "description": "Bootcamp Hackathon | Docs + Examples",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fb-messenger",
+    "full_name": "flexbox/fb-messenger",
+    "html_url": "https://github.com/flexbox/fb-messenger",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 4.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "es6-exercise",
+    "full_name": "flexbox/es6-exercise",
+    "html_url": "https://github.com/flexbox/es6-exercise",
+    "description": "This exercise is part of the training provided by https://leanjs.com",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 17719
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 98.65,
+    "S_code": 17.3,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "babel-exercise",
+    "full_name": "flexbox/babel-exercise",
+    "html_url": "https://github.com/flexbox/babel-exercise",
+    "description": "This exercise is part of the training provided by https://leanjs.com",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 148
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.07,
+    "S_code": 0.14,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "thinking-in-react",
+    "full_name": "flexbox/thinking-in-react",
+    "html_url": "https://github.com/flexbox/thinking-in-react",
+    "description": "The goal of this exercise is to learn how to think in React, by https://reactjs.academy/",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 12308,
+      "CSS": 9679,
+      "HTML": 1223
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 51.33,
+    "S_code": 22.67,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "cerebro",
+    "full_name": "flexbox/cerebro",
+    "html_url": "https://github.com/flexbox/cerebro",
+    "description": "🎬 Blazing fast search for movies that you love",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 7114,
+      "CSS": 4732,
+      "HTML": 493
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 116.02,
+    "S_code": 12.05,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "popup-example",
+    "full_name": "flexbox/popup-example",
+    "html_url": "https://github.com/flexbox/popup-example",
+    "description": "⚛ Simple React Native popup example",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3848
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.88,
+    "S_code": 3.76,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "guidedubuteur.com",
+    "full_name": "flexbox/guidedubuteur.com",
+    "html_url": "https://github.com/flexbox/guidedubuteur.com",
+    "description": "⚽ ❤️",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 42430
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 60.72,
+    "S_code": 41.44,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "gatsby",
+    "full_name": "flexbox/gatsby",
+    "html_url": "https://github.com/flexbox/gatsby",
+    "description": "⚛️📄🚀 Blazing fast static site generator for React",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1167701,
+      "HTML": 118784,
+      "CSS": 53694,
+      "Shell": 3182
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 655.94,
+    "S_code": 1311.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "govuk_elements",
+    "full_name": "flexbox/govuk_elements",
+    "html_url": "https://github.com/flexbox/govuk_elements",
+    "description": "GOV.UK Elements form the building blocks from which all pages are made.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 153410,
+      "CSS": 72269,
+      "JavaScript": 24844,
+      "Shell": 2204,
+      "Ruby": 887
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 123.83,
+    "S_code": 247.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "journey",
+    "full_name": "flexbox/journey",
+    "html_url": "https://github.com/flexbox/journey",
+    "description": "⚠️ wip project, the code is not working",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 17279,
+      "HTML": 1590
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 109.21,
+    "S_code": 18.43,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "component-driven-development",
+    "full_name": "flexbox/component-driven-development",
+    "html_url": "https://github.com/flexbox/component-driven-development",
+    "description": "Component-driven Development example app",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 38065,
+      "HTML": 1591
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.36,
+    "S_code": 38.73,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "materialize",
+    "full_name": "flexbox/materialize",
+    "html_url": "https://github.com/flexbox/materialize",
+    "description": "Materialize, a CSS Framework based on Material Design",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 458246,
+      "CSS": 162326,
+      "HTML": 22142
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 313.83,
+    "S_code": 627.65,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "expo-docs",
+    "full_name": "flexbox/expo-docs",
+    "html_url": "https://github.com/flexbox/expo-docs",
+    "description": "Documentation!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 91709,
+      "CSS": 5037,
+      "Shell": 1345
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 47.9,
+    "S_code": 95.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "logos",
+    "full_name": "flexbox/logos",
+    "html_url": "https://github.com/flexbox/logos",
+    "description": "A huge collection of SVG logos",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-native-firebase-login",
+    "full_name": "flexbox/react-native-firebase-login",
+    "html_url": "https://github.com/flexbox/react-native-firebase-login",
+    "description": "⚛️ Simple React Native app with firebase login ",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 6764
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.3,
+    "S_code": 6.61,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "awesome_webradios",
+    "full_name": "flexbox/awesome_webradios",
+    "html_url": "https://github.com/flexbox/awesome_webradios",
+    "description": "A list of cool web radios",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-native-music",
+    "full_name": "flexbox/react-native-music",
+    "html_url": "https://github.com/flexbox/react-native-music",
+    "description": "⚛️ Simple music player app – wip",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3469
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.69,
+    "S_code": 3.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-native-elements",
+    "full_name": "flexbox/react-native-elements",
+    "html_url": "https://github.com/flexbox/react-native-elements",
+    "description": "Cross Platform React Native UI Toolkit",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 228294
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 111.47,
+    "S_code": 222.94,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "test-jekyll",
+    "full_name": "flexbox/test-jekyll",
+    "html_url": "https://github.com/flexbox/test-jekyll",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 26918
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.14,
+    "S_code": 26.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "backpacklist",
+    "full_name": "flexbox/backpacklist",
+    "html_url": "https://github.com/flexbox/backpacklist",
+    "description": "🌴 Helping you to travel more",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 19166,
+      "HTML": 13571,
+      "JavaScript": 4254
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 208.06,
+    "S_code": 36.12,
+    "S_social": 0,
+    "S_maint": 19
+  },
+  {
+    "name": "logindemonative",
+    "full_name": "flexbox/logindemonative",
+    "html_url": "https://github.com/flexbox/logindemonative",
+    "description": "A custom Login Demo for integrating with a Rails Backend and a React Native App.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6407,
+      "Objective-C": 4425,
+      "Python": 1643,
+      "Java": 1320
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.74,
+    "S_code": 13.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jquery-quotes",
+    "full_name": "flexbox/jquery-quotes",
+    "html_url": "https://github.com/flexbox/jquery-quotes",
+    "description": "HTTP & Ajax with jQuery",
+    "stars": 0,
+    "forks": 7,
+    "languages": {
+      "HTML": 3846
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 59.88,
+    "S_code": 3.76,
+    "S_social": 14,
+    "S_maint": 3
+  },
+  {
+    "name": "jquery-dom-manipulation",
+    "full_name": "flexbox/jquery-dom-manipulation",
+    "html_url": "https://github.com/flexbox/jquery-dom-manipulation",
+    "description": "JQuery 101",
+    "stars": 0,
+    "forks": 10,
+    "languages": {
+      "JavaScript": 3060,
+      "HTML": 2658,
+      "CSS": 260
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 52.92,
+    "S_code": 5.84,
+    "S_social": 20,
+    "S_maint": 1
+  },
+  {
+    "name": "lerubynouveau.github.io",
+    "full_name": "flexbox/lerubynouveau.github.io",
+    "html_url": "https://github.com/flexbox/lerubynouveau.github.io",
+    "description": "Podcast francophone sur la tech en général, le Web et Ruby en particulier",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 1440
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.7,
+    "S_code": 1.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "middleman-boilerplate",
+    "full_name": "flexbox/middleman-boilerplate",
+    "html_url": "https://github.com/flexbox/middleman-boilerplate",
+    "description": "Middleman 4 Boilerplate",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 10401,
+      "Ruby": 7201,
+      "CSS": 4070,
+      "JavaScript": 31
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.6,
+    "S_code": 21.19,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nomadrides.github.io",
+    "full_name": "flexbox/nomadrides.github.io",
+    "html_url": "https://github.com/flexbox/nomadrides.github.io",
+    "description": "Nomad Rides Website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 14737,
+      "CSS": 10814,
+      "Ruby": 9285,
+      "JavaScript": 805
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 57.4,
+    "S_code": 34.81,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "react-makes-you-sad",
+    "full_name": "flexbox/react-makes-you-sad",
+    "html_url": "https://github.com/flexbox/react-makes-you-sad",
+    "description": "Here’s a flowchart to make you happy again!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Makefile": 105
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.05,
+    "S_code": 0.1,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rails-fantasy-belgium-league",
+    "full_name": "flexbox/rails-fantasy-belgium-league",
+    "html_url": "https://github.com/flexbox/rails-fantasy-belgium-league",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 101086,
+      "HTML": 35791,
+      "CSS": 14049,
+      "JavaScript": 551,
+      "CoffeeScript": 29
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 93.98,
+    "S_code": 147.96,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "customerplatform",
+    "full_name": "flexbox/customerplatform",
+    "html_url": "https://github.com/flexbox/customerplatform",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 161693,
+      "HTML": 134194,
+      "CSS": 117499,
+      "JavaScript": 6733
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 215.14,
+    "S_code": 410.27,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "matcher",
+    "full_name": "flexbox/matcher",
+    "html_url": "https://github.com/flexbox/matcher",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 87244,
+      "HTML": 45205,
+      "CSS": 20701,
+      "JavaScript": 812
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 75.18,
+    "S_code": 150.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "openfoodnetwork",
+    "full_name": "flexbox/openfoodnetwork",
+    "html_url": "https://github.com/flexbox/openfoodnetwork",
+    "description": "Connect suppliers, distributors and consumers for the sale and purchase of local produce",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Ruby": 2015397,
+      "CoffeeScript": 488519,
+      "HTML": 399776,
+      "CSS": 121728,
+      "JavaScript": 28269,
+      "Shell": 10839
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 1510.35,
+    "S_code": 2992.7,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "web-development-podcasts",
+    "full_name": "flexbox/web-development-podcasts",
+    "html_url": "https://github.com/flexbox/web-development-podcasts",
+    "description": "A list of web development podcasts.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1053
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.51,
+    "S_code": 1.03,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "railsfrance.org",
+    "full_name": "flexbox/railsfrance.org",
+    "html_url": "https://github.com/flexbox/railsfrance.org",
+    "description": "French Ruby on Rails community website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 194784,
+      "CSS": 107481,
+      "HTML": 56321,
+      "JavaScript": 49037,
+      "CoffeeScript": 4582,
+      "Nginx": 385
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 231.46,
+    "S_code": 402.92,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "videogames.pixelastic.com",
+    "full_name": "flexbox/videogames.pixelastic.com",
+    "html_url": "https://github.com/flexbox/videogames.pixelastic.com",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 8080,
+      "CSS": 6932,
+      "HTML": 2737,
+      "Shell": 1224,
+      "JavaScript": 527
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.52,
+    "S_code": 19.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "demo-middleman",
+    "full_name": "flexbox/demo-middleman",
+    "html_url": "https://github.com/flexbox/demo-middleman",
+    "description": "Advanced Middleman boilerplate for Le Wagon fullstack students",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 6852,
+      "CSS": 5429,
+      "HTML": 2838,
+      "JavaScript": 69
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.42,
+    "S_code": 14.83,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "teaching",
+    "full_name": "flexbox/teaching",
+    "html_url": "https://github.com/flexbox/teaching",
+    "description": "Le Wagon guidelines for Teachers",
+    "stars": 0,
+    "forks": 15,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 60.0,
+    "S_code": 0.0,
+    "S_social": 30,
+    "S_maint": 0
+  },
+  {
+    "name": "VideoOpeningAnimation",
+    "full_name": "flexbox/VideoOpeningAnimation",
+    "html_url": "https://github.com/flexbox/VideoOpeningAnimation",
+    "description": "A tutorial on how to re-create the fullscreen video opening effect seen on [momentsapp.com](http://momentsapp.com/#).",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 9813,
+      "HTML": 6213,
+      "JavaScript": 3109
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.34,
+    "S_code": 18.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bootstrap",
+    "full_name": "flexbox/bootstrap",
+    "html_url": "https://github.com/flexbox/bootstrap",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 374650,
+      "JavaScript": 329274,
+      "HTML": 143960,
+      "Python": 5734,
+      "Shell": 350
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 416.98,
+    "S_code": 833.95,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "middleman-sitemap-ping",
+    "full_name": "flexbox/middleman-sitemap-ping",
+    "html_url": "https://github.com/flexbox/middleman-sitemap-ping",
+    "description": "Middleman extension to ping search engines (Google and Bing) with a sitemap URL",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 3245
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.58,
+    "S_code": 3.17,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "middleman-challenges",
+    "full_name": "flexbox/middleman-challenges",
+    "html_url": "https://github.com/flexbox/middleman-challenges",
+    "description": "Middleman challenge for Le Wagon fullstack students",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 11612,
+      "CSS": 9601,
+      "Ruby": 6815,
+      "JavaScript": 1021
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.18,
+    "S_code": 28.37,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "awesome-speaking",
+    "full_name": "flexbox/awesome-speaking",
+    "html_url": "https://github.com/flexbox/awesome-speaking",
+    "description": "A collection of awesome resources about public speaking",
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 4.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "rubycamp",
+    "full_name": "flexbox/rubycamp",
+    "html_url": "https://github.com/flexbox/rubycamp",
+    "description": "RubyCamp Belgium",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 172667,
+      "HTML": 15759,
+      "JavaScript": 10712
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 97.24,
+    "S_code": 194.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "star-wars-images",
+    "full_name": "flexbox/star-wars-images",
+    "html_url": "https://github.com/flexbox/star-wars-images",
+    "description": "Responsive images with respond-to media query",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 2546,
+      "HTML": 2126,
+      "CSS": 692
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 22.62,
+    "S_code": 5.24,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "landingPage",
+    "full_name": "flexbox/landingPage",
+    "html_url": "https://github.com/flexbox/landingPage",
+    "description": "LandingPage de SWLille #YOLO",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 124663,
+      "HTML": 33500,
+      "JavaScript": 2512
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 78.45,
+    "S_code": 156.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "angular-beer",
+    "full_name": "flexbox/angular-beer",
+    "html_url": "https://github.com/flexbox/angular-beer",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3769,
+      "HTML": 2786,
+      "Shell": 43
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.22,
+    "S_code": 6.44,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "DaftPunKonsole",
+    "full_name": "flexbox/DaftPunKonsole",
+    "html_url": "https://github.com/flexbox/DaftPunKonsole",
+    "description": "Harder, Better, Faster, Stronger",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 8557,
+      "CoffeeScript": 8284,
+      "Ruby": 4838
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.59,
+    "S_code": 21.17,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "middleman-guides",
+    "full_name": "flexbox/middleman-guides",
+    "html_url": "https://github.com/flexbox/middleman-guides",
+    "description": "Documentation for Middleman",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 25474,
+      "Ruby": 3618,
+      "JavaScript": 3559
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.94,
+    "S_code": 31.89,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "github-matrix-screensaver",
+    "full_name": "flexbox/github-matrix-screensaver",
+    "html_url": "https://github.com/flexbox/github-matrix-screensaver",
+    "description": "The GitHub Matrix Screensaver for Mac OSX",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8140,
+      "HTML": 435,
+      "CSS": 102
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.24,
+    "S_code": 8.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "formation",
+    "full_name": "flexbox/formation",
+    "html_url": "https://github.com/flexbox/formation",
+    "description": "Formation pour la création / refonte de site internet",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "invoicer",
+    "full_name": "flexbox/invoicer",
+    "html_url": "https://github.com/flexbox/invoicer",
+    "description": "Invoicer helps you generate invoice documents.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 4890,
+      "CSS": 1590
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 13.16,
+    "S_code": 6.33,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "prwd-workshop",
+    "full_name": "flexbox/prwd-workshop",
+    "html_url": "https://github.com/flexbox/prwd-workshop",
+    "description": "Performant & Responsive Web Design Workshop codebase",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 74095,
+      "CoffeeScript": 9301,
+      "JavaScript": 3553,
+      "Ruby": 757
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 52.83,
+    "S_code": 85.65,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "foundation-sublime",
+    "full_name": "flexbox/foundation-sublime",
+    "html_url": "https://github.com/flexbox/foundation-sublime",
+    "description": "Foundation grid shorthand plugin for Sublime Text.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "thesassway.com",
+    "full_name": "flexbox/thesassway.com",
+    "html_url": "https://github.com/flexbox/thesassway.com",
+    "description": "Your source for the latest tips and tricks on Sass and Compass.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "louvrelens",
+    "full_name": "flexbox/louvrelens",
+    "html_url": "https://github.com/flexbox/louvrelens",
+    "description": "Refactor for a museum website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 42390,
+      "Ruby": 790,
+      "CoffeeScript": 631
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 101.39,
+    "S_code": 42.78,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "authoring-styleguide",
+    "full_name": "flexbox/authoring-styleguide",
+    "html_url": "https://github.com/flexbox/authoring-styleguide",
+    "description": "A style guide for technical content. PRs welcome.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "favicon_maker",
+    "full_name": "flexbox/favicon_maker",
+    "html_url": "https://github.com/flexbox/favicon_maker",
+    "description": "Create favicon files in various sizes from a base image for ruby projects",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Ruby": 7542
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.68,
+    "S_code": 7.37,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "pokemon-breakpoint-pres",
+    "full_name": "flexbox/pokemon-breakpoint-pres",
+    "html_url": "https://github.com/flexbox/pokemon-breakpoint-pres",
+    "description": "A small talk for Javascript event",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 152601,
+      "CSS": 86607
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 156.8,
+    "S_code": 233.6,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "takeoff",
+    "full_name": "flexbox/takeoff",
+    "html_url": "https://github.com/flexbox/takeoff",
+    "description": "Data related to the TakeOff Conference ( based in Lille, France )",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  }
+]

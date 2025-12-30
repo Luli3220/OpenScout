@@ -1,0 +1,549 @@
+[
+  {
+    "name": "lupa",
+    "full_name": "scoder/lupa",
+    "html_url": "https://github.com/scoder/lupa",
+    "description": "Lua in Python",
+    "stars": 1116,
+    "forks": 142,
+    "languages": {
+      "Python": 137244,
+      "Cython": 119711,
+      "Makefile": 2811
+    },
+    "contributions_by_user": 502,
+    "contribution_score": 7946.84,
+    "S_code": 253.68,
+    "S_social": 1400,
+    "S_maint": 502
+  },
+  {
+    "name": "acora",
+    "full_name": "scoder/acora",
+    "html_url": "https://github.com/scoder/acora",
+    "description": "Fast multi-keyword search engine for text strings",
+    "stars": 258,
+    "forks": 17,
+    "languages": {
+      "Python": 44468,
+      "Cython": 34251,
+      "Makefile": 1767,
+      "Shell": 509
+    },
+    "contributions_by_user": 108,
+    "contribution_score": 1703.55,
+    "S_code": 79.1,
+    "S_social": 292,
+    "S_maint": 108
+  },
+  {
+    "name": "quicktions",
+    "full_name": "scoder/quicktions",
+    "html_url": "https://github.com/scoder/quicktions",
+    "description": "Fast fractions reimplementation in Cython",
+    "stars": 39,
+    "forks": 4,
+    "languages": {
+      "Python": 120179,
+      "Cython": 81621,
+      "Batchfile": 3366,
+      "Makefile": 1962
+    },
+    "contributions_by_user": 330,
+    "contribution_score": 3495.14,
+    "S_code": 202.27,
+    "S_social": 47,
+    "S_maint": 330
+  },
+  {
+    "name": "fastrlock",
+    "full_name": "scoder/fastrlock",
+    "html_url": "https://github.com/scoder/fastrlock",
+    "description": "A fast RLock implementation for CPython",
+    "stars": 30,
+    "forks": 12,
+    "languages": {
+      "Python": 22801,
+      "Cython": 6520,
+      "PowerShell": 4022,
+      "Batchfile": 3366,
+      "Makefile": 2906,
+      "C": 151
+    },
+    "contributions_by_user": 100,
+    "contribution_score": 1127.42,
+    "S_code": 38.83,
+    "S_social": 54,
+    "S_maint": 100
+  },
+  {
+    "name": "mathdom",
+    "full_name": "scoder/mathdom",
+    "html_url": "https://github.com/scoder/mathdom",
+    "description": "Mathematical term parser and Content MathML converter in Python -- you probably want to use SymPy instead",
+    "stars": 13,
+    "forks": 3,
+    "languages": {
+      "XSLT": 147039,
+      "Python": 99574,
+      "HTML": 9920,
+      "Shell": 1477,
+      "CSS": 825
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 194.38,
+    "S_code": 252.77,
+    "S_social": 19,
+    "S_maint": 3
+  },
+  {
+    "name": "cython",
+    "full_name": "scoder/cython",
+    "html_url": "https://github.com/scoder/cython",
+    "description": "A Python to C compiler",
+    "stars": 11,
+    "forks": 1,
+    "languages": {
+      "Python": 5187520,
+      "Cython": 3848942,
+      "C": 947981,
+      "C++": 33564,
+      "Shell": 8727,
+      "Starlark": 4583,
+      "Makefile": 2932,
+      "sed": 807,
+      "Smalltalk": 618,
+      "Batchfile": 256
+    },
+    "contributions_by_user": 11623,
+    "contribution_score": 121156.36,
+    "S_code": 9800.71,
+    "S_social": 13,
+    "S_maint": 11623
+  },
+  {
+    "name": "TornadoTutorial",
+    "full_name": "scoder/TornadoTutorial",
+    "html_url": "https://github.com/scoder/TornadoTutorial",
+    "description": "a simple HTTP client/server tutorial for the Tornado web server",
+    "stars": 5,
+    "forks": 2,
+    "languages": {
+      "Python": 12990,
+      "HTML": 1041,
+      "Shell": 495
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 75.09,
+    "S_code": 14.19,
+    "S_social": 9,
+    "S_maint": 5
+  },
+  {
+    "name": "lxml",
+    "full_name": "scoder/lxml",
+    "html_url": "https://github.com/scoder/lxml",
+    "description": "The lxml XML toolkit for Python",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Python": 1387199,
+      "Cython": 929825,
+      "XSLT": 154294,
+      "C": 15831,
+      "HTML": 15198,
+      "Makefile": 5760,
+      "Shell": 5411
+    },
+    "contributions_by_user": 2988,
+    "contribution_score": 31115.3,
+    "S_code": 2454.61,
+    "S_social": 4,
+    "S_maint": 2988
+  },
+  {
+    "name": "cpython",
+    "full_name": "scoder/cpython",
+    "html_url": "https://github.com/scoder/cpython",
+    "description": "The Python programming language",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Python": 32838014,
+      "C": 16951972,
+      "C++": 328445,
+      "M4": 230619,
+      "HTML": 208030,
+      "Batchfile": 76004,
+      "Shell": 64690,
+      "Roff": 41230,
+      "Makefile": 37029,
+      "Objective-C": 26849,
+      "Common Lisp": 24579,
+      "PLSQL": 22886,
+      "PowerShell": 20326,
+      "Rich Text Format": 7787,
+      "Assembly": 2415,
+      "DTrace": 2196,
+      "JavaScript": 1980,
+      "CSS": 1325,
+      "XSLT": 1174,
+      "Dockerfile": 1045,
+      "VBScript": 70
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 24853.98,
+    "S_code": 49695.96,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "scoder",
+    "full_name": "scoder/scoder",
+    "html_url": "https://github.com/scoder/scoder",
+    "description": null,
+    "stars": 3,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 9,
+    "contribution_score": 100.0,
+    "S_code": 0.0,
+    "S_social": 5,
+    "S_maint": 9
+  },
+  {
+    "name": "pyyaml",
+    "full_name": "scoder/pyyaml",
+    "html_url": "https://github.com/scoder/pyyaml",
+    "description": "Canonical source repository for PyYAML",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 659878,
+      "PowerShell": 5411,
+      "Makefile": 927,
+      "C": 476
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 329.53,
+    "S_code": 651.07,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "pyrogg",
+    "full_name": "scoder/pyrogg",
+    "html_url": "https://github.com/scoder/pyrogg",
+    "description": "Recode Ogg-Vorbis files to a different quality level",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 31079,
+      "Makefile": 2177
+    },
+    "contributions_by_user": 36,
+    "contribution_score": 380.24,
+    "S_code": 32.48,
+    "S_social": 2,
+    "S_maint": 36
+  },
+  {
+    "name": "numpy",
+    "full_name": "scoder/numpy",
+    "html_url": "https://github.com/scoder/numpy",
+    "description": "The fundamental package for scientific computing with Python.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 9040746,
+      "Python": 8713565,
+      "C++": 336985,
+      "JavaScript": 16928,
+      "Fortran": 10884,
+      "Shell": 9183,
+      "sed": 5741,
+      "Makefile": 4290
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8858.6,
+    "S_code": 17713.21,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "peps",
+    "full_name": "scoder/peps",
+    "html_url": "https://github.com/scoder/peps",
+    "description": "Python Enhancement Proposals",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 137552,
+      "CSS": 7023,
+      "C": 4358,
+      "Makefile": 1130,
+      "Shell": 226
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 75.38,
+    "S_code": 146.77,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "nltk",
+    "full_name": "scoder/nltk",
+    "html_url": "https://github.com/scoder/nltk",
+    "description": "NLTK Source",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 4531668,
+      "Jupyter Notebook": 55617,
+      "Makefile": 8052,
+      "Shell": 3547
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2247.55,
+    "S_code": 4491.1,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "pyodide",
+    "full_name": "scoder/pyodide",
+    "html_url": "https://github.com/scoder/pyodide",
+    "description": "The Python scientific stack, compiled to WebAssembly",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 88080,
+      "C": 47324,
+      "HTML": 15614,
+      "Makefile": 9392,
+      "C++": 8686,
+      "JavaScript": 6373,
+      "CSS": 3641,
+      "Shell": 780
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 89.84,
+    "S_code": 175.67,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "rdbms-subsetter",
+    "full_name": "scoder/rdbms-subsetter",
+    "html_url": "https://github.com/scoder/rdbms-subsetter",
+    "description": "Generates a subset of a relational database that respects foreign key constraints",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 41984,
+      "Jupyter Notebook": 6026,
+      "Shell": 508
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 25.69,
+    "S_code": 47.38,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "performance",
+    "full_name": "scoder/performance",
+    "html_url": "https://github.com/scoder/performance",
+    "description": "Python benchmark suite",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Python": 517028,
+      "HTML": 133837
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 323.81,
+    "S_code": 635.61,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "thinc",
+    "full_name": "scoder/thinc",
+    "html_url": "https://github.com/scoder/thinc",
+    "description": "Super sparse multi-class machine learning with Cython",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 136724
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 68.76,
+    "S_code": 133.52,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "spaCy",
+    "full_name": "scoder/spaCy",
+    "html_url": "https://github.com/scoder/spaCy",
+    "description": "Industrial-strength Natural Language Processing with Python and Cython",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 576507,
+      "Python": 538364,
+      "HTML": 486256,
+      "PostScript": 460967,
+      "Makefile": 256492,
+      "Groff": 188349,
+      "Shell": 95525,
+      "M4": 11398,
+      "C++": 5171
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1280.82,
+    "S_code": 2557.65,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "cssselect",
+    "full_name": "scoder/cssselect",
+    "html_url": "https://github.com/scoder/cssselect",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 97360
+    },
+    "contributions_by_user": 42,
+    "contribution_score": 469.54,
+    "S_code": 95.08,
+    "S_social": 1,
+    "S_maint": 42
+  },
+  {
+    "name": "clx",
+    "full_name": "scoder/clx",
+    "html_url": "https://github.com/scoder/clx",
+    "description": "The Coding Academy Lexcture Manager (eXperimental)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 271218,
+      "Jinja": 6234,
+      "Dockerfile": 3674,
+      "Shell": 794
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 167.66,
+    "S_code": 275.31,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "SnakeGame",
+    "full_name": "scoder/SnakeGame",
+    "html_url": "https://github.com/scoder/SnakeGame",
+    "description": "SnakeGame from PyLadies Workshop",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 11623,
+      "Python": 6989
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 19.09,
+    "S_code": 18.18,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": ".github",
+    "full_name": "scoder/.github",
+    "html_url": "https://github.com/scoder/.github",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "czi-joint-python-accelerators-project",
+    "full_name": "scoder/czi-joint-python-accelerators-project",
+    "html_url": "https://github.com/scoder/czi-joint-python-accelerators-project",
+    "description": "Join Python Accelerators Project application (CZI program)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TeX": 1758,
+      "Makefile": 350
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.03,
+    "S_code": 2.06,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "python3statement.github.io",
+    "full_name": "scoder/python3statement.github.io",
+    "html_url": "https://github.com/scoder/python3statement.github.io",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 21798,
+      "JavaScript": 12578,
+      "HTML": 4541,
+      "Ruby": 150
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.08,
+    "S_code": 38.15,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "benchmarksgame",
+    "full_name": "scoder/benchmarksgame",
+    "html_url": "https://github.com/scoder/benchmarksgame",
+    "description": "Python Implementations Benchmarks",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PHP": 334862,
+      "Python": 276909,
+      "Ruby": 31619,
+      "CSS": 10627,
+      "Makefile": 873,
+      "Shell": 379
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 319.96,
+    "S_code": 639.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "typehinting",
+    "full_name": "scoder/typehinting",
+    "html_url": "https://github.com/scoder/typehinting",
+    "description": "This is a work-in-progress repository for the draft of the Type Hinting PEP for Python 3.5.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 51133
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 24.97,
+    "S_code": 49.93,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

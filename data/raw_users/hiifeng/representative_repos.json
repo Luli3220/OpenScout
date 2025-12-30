@@ -1,0 +1,302 @@
+[
+  {
+    "name": "V2ray-for-Doprax",
+    "full_name": "hiifeng/V2ray-for-Doprax",
+    "html_url": "https://github.com/hiifeng/V2ray-for-Doprax",
+    "description": "The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.",
+    "stars": 8382,
+    "forks": 22271,
+    "languages": {
+      "Dockerfile": 1340,
+      "Shell": 561
+    },
+    "contributions_by_user": 55,
+    "contribution_score": 106398.93,
+    "S_code": 1.86,
+    "S_social": 52924,
+    "S_maint": 55
+  },
+  {
+    "name": "V2ray-for-Replit",
+    "full_name": "hiifeng/V2ray-for-Replit",
+    "html_url": "https://github.com/hiifeng/V2ray-for-Replit",
+    "description": "The tool can install v2ray on the repl, including VMess and VLess protocols, it will automatically switch IP, you need to fork this repl, read readme.md and run it. Create By xiaowansm，Modlfy By ifeng.",
+    "stars": 383,
+    "forks": 562,
+    "languages": {
+      "Shell": 2602,
+      "HTML": 1106,
+      "Nix": 79
+    },
+    "contributions_by_user": 89,
+    "contribution_score": 3905.85,
+    "S_code": 3.7,
+    "S_social": 1507,
+    "S_maint": 89
+  },
+  {
+    "name": "v2ray",
+    "full_name": "hiifeng/v2ray",
+    "html_url": "https://github.com/hiifeng/v2ray",
+    "description": "V2ray多合一脚本，支持VMESS+websocket+TLS+Nginx、VLESS+TCP+XTLS、VLESS+TCP+TLS等组合",
+    "stars": 299,
+    "forks": 149,
+    "languages": {
+      "Shell": 56722
+    },
+    "contributions_by_user": 35,
+    "contribution_score": 1571.7,
+    "S_code": 55.39,
+    "S_social": 597,
+    "S_maint": 35
+  },
+  {
+    "name": "V2ray-for-Codesandbox",
+    "full_name": "hiifeng/V2ray-for-Codesandbox",
+    "html_url": "https://github.com/hiifeng/V2ray-for-Codesandbox",
+    "description": "The tool can install v2ray on the Codesandbox, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.",
+    "stars": 94,
+    "forks": 256,
+    "languages": {
+      "Shell": 1794,
+      "Dockerfile": 685
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 1383.21,
+    "S_code": 2.42,
+    "S_social": 606,
+    "S_maint": 17
+  },
+  {
+    "name": "V2ray-for-AlwaysData",
+    "full_name": "hiifeng/V2ray-for-AlwaysData",
+    "html_url": "https://github.com/hiifeng/V2ray-for-AlwaysData",
+    "description": "The tool can install v2ray on the AlwaysData, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.",
+    "stars": 84,
+    "forks": 117,
+    "languages": {
+      "Shell": 4150
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 718.03,
+    "S_code": 4.05,
+    "S_social": 318,
+    "S_maint": 8
+  },
+  {
+    "name": "HiDNS-Free-Domain",
+    "full_name": "hiifeng/HiDNS-Free-Domain",
+    "html_url": "https://github.com/hiifeng/HiDNS-Free-Domain",
+    "description": "HiDNS Free Domain",
+    "stars": 72,
+    "forks": 3,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 196.0,
+    "S_code": 0.0,
+    "S_social": 78,
+    "S_maint": 4
+  },
+  {
+    "name": "IPTV",
+    "full_name": "hiifeng/IPTV",
+    "html_url": "https://github.com/hiifeng/IPTV",
+    "description": "免费看IPTV直播的方法，包含流媒体播放器及节目源。",
+    "stars": 48,
+    "forks": 11,
+    "languages": {},
+    "contributions_by_user": 31,
+    "contribution_score": 450.0,
+    "S_code": 0.0,
+    "S_social": 70,
+    "S_maint": 31
+  },
+  {
+    "name": "Dynamic-DNS-using-Cloudflare",
+    "full_name": "hiifeng/Dynamic-DNS-using-Cloudflare",
+    "html_url": "https://github.com/hiifeng/Dynamic-DNS-using-Cloudflare",
+    "description": "Using Cloudflare Dynamic DNS on a Fiber Optic Modem or Software Router.",
+    "stars": 22,
+    "forks": 17,
+    "languages": {
+      "Shell": 4082
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 293.99,
+    "S_code": 3.99,
+    "S_social": 56,
+    "S_maint": 18
+  },
+  {
+    "name": "hiifeng.github.io",
+    "full_name": "hiifeng/hiifeng.github.io",
+    "html_url": "https://github.com/hiifeng/hiifeng.github.io",
+    "description": "Building a blog using GitHub Pages.",
+    "stars": 5,
+    "forks": 7,
+    "languages": {
+      "HTML": 56983,
+      "CSS": 38345,
+      "Less": 35900,
+      "JavaScript": 30309,
+      "Ruby": 1844
+    },
+    "contributions_by_user": 40,
+    "contribution_score": 517.78,
+    "S_code": 159.55,
+    "S_social": 19,
+    "S_maint": 40
+  },
+  {
+    "name": "dae",
+    "full_name": "hiifeng/dae",
+    "html_url": "https://github.com/hiifeng/dae",
+    "description": "eBPF-based Linux high-performance transparent proxy solution.",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Go": 560349,
+      "Perl": 238759,
+      "C": 59793,
+      "Shell": 8960,
+      "Makefile": 3257,
+      "Python": 845,
+      "Dockerfile": 808
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 454.16,
+    "S_code": 852.32,
+    "S_social": 4,
+    "S_maint": 2
+  },
+  {
+    "name": "gfwlist2dnsmasq",
+    "full_name": "hiifeng/gfwlist2dnsmasq",
+    "html_url": "https://github.com/hiifeng/gfwlist2dnsmasq",
+    "description": "A shell script which convert gfwlist into dnsmasq rules. Python version: https://github.com/cokebar/gfwlist2dnsmasq_python",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Shell": 14963
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 25.31,
+    "S_code": 14.61,
+    "S_social": 4,
+    "S_maint": 1
+  },
+  {
+    "name": "tg-antispam",
+    "full_name": "hiifeng/tg-antispam",
+    "html_url": "https://github.com/hiifeng/tg-antispam",
+    "description": "Telegram 防止垃圾用户（主要是 Premium 用户）的 bot",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Go": 172297,
+      "Shell": 888,
+      "Dockerfile": 835
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 166.97,
+    "S_code": 169.94,
+    "S_social": 1,
+    "S_maint": 8
+  },
+  {
+    "name": "whois-domain-lookup-for-lade-io",
+    "full_name": "hiifeng/whois-domain-lookup-for-lade-io",
+    "html_url": "https://github.com/hiifeng/whois-domain-lookup-for-lade-io",
+    "description": "A simple WHOIS domain lookup website with strong TLD compatibility.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "PHP": 63777,
+      "CSS": 9059,
+      "Dockerfile": 632,
+      "Shell": 219
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 71.98,
+    "S_code": 71.96,
+    "S_social": 3,
+    "S_maint": 3
+  },
+  {
+    "name": "cf-workers-status-page",
+    "full_name": "hiifeng/cf-workers-status-page",
+    "html_url": "https://github.com/hiifeng/cf-workers-status-page",
+    "description": "Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 52516,
+      "CSS": 1307
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 28.28,
+    "S_code": 52.56,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "paas-xray",
+    "full_name": "hiifeng/paas-xray",
+    "html_url": "https://github.com/hiifeng/paas-xray",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 6.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "fakefilter",
+    "full_name": "hiifeng/fakefilter",
+    "html_url": "https://github.com/hiifeng/fakefilter",
+    "description": "reliable fake and temp email filter solution for site operators",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6279
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 203.07,
+    "S_code": 6.13,
+    "S_social": 0,
+    "S_maint": 20
+  },
+  {
+    "name": "armbian-btf-kernel",
+    "full_name": "hiifeng/armbian-btf-kernel",
+    "html_url": "https://github.com/hiifeng/armbian-btf-kernel",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 8430
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.12,
+    "S_code": 8.23,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sing-box-paas",
+    "full_name": "hiifeng/sing-box-paas",
+    "html_url": "https://github.com/hiifeng/sing-box-paas",
+    "description": "在 PaaS 平台部署 Sing-box 节点",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

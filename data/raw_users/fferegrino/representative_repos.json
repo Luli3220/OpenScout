@@ -1,0 +1,3924 @@
+[
+  {
+    "name": "cf-ml",
+    "full_name": "fferegrino/cf-ml",
+    "html_url": "https://github.com/fferegrino/cf-ml",
+    "description": "Ejercicios del curso de introducción a Machine Learning",
+    "stars": 42,
+    "forks": 52,
+    "languages": {
+      "Jupyter Notebook": 270883,
+      "Python": 33148,
+      "Shell": 405,
+      "Makefile": 378,
+      "Dockerfile": 99
+    },
+    "contributions_by_user": 41,
+    "contribution_score": 850.88,
+    "S_code": 297.77,
+    "S_social": 146,
+    "S_maint": 41
+  },
+  {
+    "name": "card-embeddings",
+    "full_name": "fferegrino/card-embeddings",
+    "html_url": "https://github.com/fferegrino/card-embeddings",
+    "description": null,
+    "stars": 28,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 1266899,
+      "Python": 4396
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 760.75,
+    "S_code": 1241.5,
+    "S_social": 30,
+    "S_maint": 8
+  },
+  {
+    "name": "machine-learning-with-scikit-learn",
+    "full_name": "fferegrino/machine-learning-with-scikit-learn",
+    "html_url": "https://github.com/fferegrino/machine-learning-with-scikit-learn",
+    "description": null,
+    "stars": 27,
+    "forks": 25,
+    "languages": {
+      "Jupyter Notebook": 290902,
+      "Python": 12104
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 311.95,
+    "S_code": 295.9,
+    "S_social": 77,
+    "S_maint": 1
+  },
+  {
+    "name": "cycle-station-predictions",
+    "full_name": "fferegrino/cycle-station-predictions",
+    "html_url": "https://github.com/fferegrino/cycle-station-predictions",
+    "description": "The London Cycle Hire Scheme Prediction is an end to end toy MLOps project",
+    "stars": 23,
+    "forks": 5,
+    "languages": {
+      "Python": 18922,
+      "Jupyter Notebook": 7191,
+      "JavaScript": 4326,
+      "CSS": 792,
+      "HTML": 665,
+      "Dockerfile": 595,
+      "Shell": 274,
+      "Makefile": 25
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 282.01,
+    "S_code": 32.02,
+    "S_social": 33,
+    "S_maint": 20
+  },
+  {
+    "name": "nprompter",
+    "full_name": "fferegrino/nprompter",
+    "html_url": "https://github.com/fferegrino/nprompter",
+    "description": "A web based teleprompter that uses Notion as a back end",
+    "stars": 19,
+    "forks": 1,
+    "languages": {
+      "Python": 29443,
+      "JavaScript": 9643,
+      "CSS": 5432,
+      "HTML": 4298,
+      "Shell": 382,
+      "Makefile": 343
+    },
+    "contributions_by_user": 237,
+    "contribution_score": 2436.19,
+    "S_code": 48.38,
+    "S_social": 21,
+    "S_maint": 237
+  },
+  {
+    "name": "mananeras-rag",
+    "full_name": "fferegrino/mananeras-rag",
+    "html_url": "https://github.com/fferegrino/mananeras-rag",
+    "description": "A retrieval augmented generation system to query the morning conferences of the mexican president.",
+    "stars": 17,
+    "forks": 10,
+    "languages": {
+      "Jupyter Notebook": 102854
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 154.22,
+    "S_code": 100.44,
+    "S_social": 37,
+    "S_maint": 3
+  },
+  {
+    "name": "london-cycles-db",
+    "full_name": "fferegrino/london-cycles-db",
+    "html_url": "https://github.com/fferegrino/london-cycles-db",
+    "description": null,
+    "stars": 8,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 32010,
+      "Python": 23889,
+      "Makefile": 72
+    },
+    "contributions_by_user": 350,
+    "contribution_score": 3543.33,
+    "S_code": 54.66,
+    "S_social": 8,
+    "S_maint": 350
+  },
+  {
+    "name": "llm-prompting",
+    "full_name": "fferegrino/llm-prompting",
+    "html_url": "https://github.com/fferegrino/llm-prompting",
+    "description": "A notebook to practice some prompt engineering and explore the GPT API using Python",
+    "stars": 8,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 48423
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 69.64,
+    "S_code": 47.29,
+    "S_social": 8,
+    "S_maint": 3
+  },
+  {
+    "name": "vuelax-crf",
+    "full_name": "fferegrino/vuelax-crf",
+    "html_url": "https://github.com/fferegrino/vuelax-crf",
+    "description": "Using Conditional Random Fields to retrieve informaiton from flight offers displayed at VuelaX.com",
+    "stars": 7,
+    "forks": 5,
+    "languages": {
+      "Jupyter Notebook": 28707,
+      "Python": 2794,
+      "Makefile": 416
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 99.58,
+    "S_code": 31.17,
+    "S_social": 17,
+    "S_maint": 5
+  },
+  {
+    "name": "uk-blogs",
+    "full_name": "fferegrino/uk-blogs",
+    "html_url": "https://github.com/fferegrino/uk-blogs",
+    "description": null,
+    "stars": 6,
+    "forks": 1,
+    "languages": {
+      "Python": 4303
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 88.1,
+    "S_code": 4.2,
+    "S_social": 8,
+    "S_maint": 7
+  },
+  {
+    "name": "yu-gi-oh",
+    "full_name": "fferegrino/yu-gi-oh",
+    "html_url": "https://github.com/fferegrino/yu-gi-oh",
+    "description": "A card dataset downloaded weekly from https://ygoprodeck.com/",
+    "stars": 6,
+    "forks": 1,
+    "languages": {
+      "Python": 4785,
+      "Makefile": 64
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 98.37,
+    "S_code": 4.74,
+    "S_social": 8,
+    "S_maint": 8
+  },
+  {
+    "name": "aplicaciones-redes",
+    "full_name": "fferegrino/aplicaciones-redes",
+    "html_url": "https://github.com/fferegrino/aplicaciones-redes",
+    "description": "Códigos de las prácticas de desarrollo de aplicaciones en red",
+    "stars": 6,
+    "forks": 8,
+    "languages": {
+      "Java": 111805,
+      "C#": 35574,
+      "C++": 6071,
+      "Makefile": 455,
+      "C": 106
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 329.2,
+    "S_code": 150.4,
+    "S_social": 22,
+    "S_maint": 21
+  },
+  {
+    "name": "pytest-fixtures-fixtures",
+    "full_name": "fferegrino/pytest-fixtures-fixtures",
+    "html_url": "https://github.com/fferegrino/pytest-fixtures-fixtures",
+    "description": "The pytest fixtures fixtures – handy fixtures to access your fixtures",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Python": 71504,
+      "Makefile": 1355
+    },
+    "contributions_by_user": 32,
+    "contribution_score": 365.58,
+    "S_code": 71.15,
+    "S_social": 5,
+    "S_maint": 32
+  },
+  {
+    "name": "mananeras",
+    "full_name": "fferegrino/mananeras",
+    "html_url": "https://github.com/fferegrino/mananeras",
+    "description": null,
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "HTML": 276679,
+      "Python": 12582,
+      "Makefile": 200
+    },
+    "contributions_by_user": 37,
+    "contribution_score": 521.34,
+    "S_code": 282.68,
+    "S_social": 5,
+    "S_maint": 37
+  },
+  {
+    "name": "r-worldnews-live-threads-ukraine",
+    "full_name": "fferegrino/r-worldnews-live-threads-ukraine",
+    "html_url": "https://github.com/fferegrino/r-worldnews-live-threads-ukraine",
+    "description": "A project to create a dataset off the Reddit's r/worldnews live threads about the Russian invasion of Ukraine",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 44500,
+      "Python": 37761,
+      "Makefile": 202
+    },
+    "contributions_by_user": 356,
+    "contribution_score": 3608.27,
+    "S_code": 80.53,
+    "S_social": 4,
+    "S_maint": 356
+  },
+  {
+    "name": "analizando-algo",
+    "full_name": "fferegrino/analizando-algo",
+    "html_url": "https://github.com/fferegrino/analizando-algo",
+    "description": "Códigos de la unidad de aprendizaje Análisis de Algoritmos de la ESCOM",
+    "stars": 4,
+    "forks": 5,
+    "languages": {
+      "C": 121976,
+      "C#": 52632,
+      "C++": 26826,
+      "JavaScript": 9853,
+      "Shell": 8371,
+      "PowerShell": 3408,
+      "Python": 2358,
+      "CSS": 1097,
+      "Objective-C": 227
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 298.72,
+    "S_code": 221.43,
+    "S_social": 14,
+    "S_maint": 16
+  },
+  {
+    "name": "zeldaKG",
+    "full_name": "fferegrino/zeldaKG",
+    "html_url": "https://github.com/fferegrino/zeldaKG",
+    "description": "A TLOZ inspired knowledge graph",
+    "stars": 3,
+    "forks": 3,
+    "languages": {
+      "Jupyter Notebook": 138683,
+      "Python": 17653,
+      "Dockerfile": 389
+    },
+    "contributions_by_user": 41,
+    "contribution_score": 504.53,
+    "S_code": 153.05,
+    "S_social": 9,
+    "S_maint": 41
+  },
+  {
+    "name": "pytest-beyond-unit-tests",
+    "full_name": "fferegrino/pytest-beyond-unit-tests",
+    "html_url": "https://github.com/fferegrino/pytest-beyond-unit-tests",
+    "description": null,
+    "stars": 3,
+    "forks": 10,
+    "languages": {
+      "Python": 19721,
+      "Dockerfile": 391
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 155.82,
+    "S_code": 19.64,
+    "S_social": 23,
+    "S_maint": 10
+  },
+  {
+    "name": "cf-bootcamp-llm",
+    "full_name": "fferegrino/cf-bootcamp-llm",
+    "html_url": "https://github.com/fferegrino/cf-bootcamp-llm",
+    "description": null,
+    "stars": 3,
+    "forks": 4,
+    "languages": {
+      "Jupyter Notebook": 102854
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 82.22,
+    "S_code": 100.44,
+    "S_social": 11,
+    "S_maint": 1
+  },
+  {
+    "name": "yu-gi-oh-card-vectors",
+    "full_name": "fferegrino/yu-gi-oh-card-vectors",
+    "html_url": "https://github.com/fferegrino/yu-gi-oh-card-vectors",
+    "description": "Get Yu-Gi-Oh! card recommendations by the magic of machine learning",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Python": 14319,
+      "Jupyter Notebook": 11015,
+      "HCL": 2624
+    },
+    "contributions_by_user": 39,
+    "contribution_score": 409.65,
+    "S_code": 27.3,
+    "S_social": 3,
+    "S_maint": 39
+  },
+  {
+    "name": "b-roller",
+    "full_name": "fferegrino/b-roller",
+    "html_url": "https://github.com/fferegrino/b-roller",
+    "description": "Download different kinds of assets from the internet ",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Python": 17260,
+      "Makefile": 313
+    },
+    "contributions_by_user": 119,
+    "contribution_score": 1204.58,
+    "S_code": 17.16,
+    "S_social": 3,
+    "S_maint": 119
+  },
+  {
+    "name": "techlingo.fyi-old",
+    "full_name": "fferegrino/techlingo.fyi-old",
+    "html_url": "https://github.com/fferegrino/techlingo.fyi-old",
+    "description": "¿Alguna vez te has encontrado con una palabra o acrónimo que no sabes lo que significa? TechLingo.fyi está aquí para ayudarte a encontrar el significado.",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "HTML": 14572,
+      "Python": 11863,
+      "Makefile": 329
+    },
+    "contributions_by_user": 84,
+    "contribution_score": 863.07,
+    "S_code": 26.14,
+    "S_social": 5,
+    "S_maint": 84
+  },
+  {
+    "name": "Camera2Basic",
+    "full_name": "fferegrino/Camera2Basic",
+    "html_url": "https://github.com/fferegrino/Camera2Basic",
+    "description": "A port of the https://github.com/googlesamples/android-Camera2Basic sample to Xamarin.Android",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "C#": 48127
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 49.5,
+    "S_code": 47.0,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "fferegrino",
+    "full_name": "fferegrino/fferegrino",
+    "html_url": "https://github.com/fferegrino/fferegrino",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 21,
+    "contribution_score": 218.0,
+    "S_code": 0.0,
+    "S_social": 4,
+    "S_maint": 21
+  },
+  {
+    "name": "presentpy",
+    "full_name": "fferegrino/presentpy",
+    "html_url": "https://github.com/fferegrino/presentpy",
+    "description": "Turn your Jupyter Notebooks and Python scripts into beautiful slides.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 225561,
+      "Python": 83120,
+      "Makefile": 699
+    },
+    "contributions_by_user": 95,
+    "contribution_score": 1105.06,
+    "S_code": 302.13,
+    "S_social": 2,
+    "S_maint": 95
+  },
+  {
+    "name": "presentpy-jupyter",
+    "full_name": "fferegrino/presentpy-jupyter",
+    "html_url": "https://github.com/fferegrino/presentpy-jupyter",
+    "description": "A Jupyter Extension to turn your Notebooks and Python scripts into beautiful slides.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 4701,
+      "Python": 2575,
+      "Makefile": 203,
+      "CSS": 163,
+      "JavaScript": 21
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 247.74,
+    "S_code": 7.48,
+    "S_social": 2,
+    "S_maint": 24
+  },
+  {
+    "name": "tuiterx",
+    "full_name": "fferegrino/tuiterx",
+    "html_url": "https://github.com/fferegrino/tuiterx",
+    "description": "Un dia eres joven, puedes ser de gran ayuda y sabiduría, al otro estás tuiteando.",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Python": 3822
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 89.87,
+    "S_code": 3.73,
+    "S_social": 4,
+    "S_maint": 8
+  },
+  {
+    "name": "MrPageRank",
+    "full_name": "fferegrino/MrPageRank",
+    "html_url": "https://github.com/fferegrino/MrPageRank",
+    "description": "Mister Page Rank",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 47023,
+      "Scala": 12861,
+      "Jupyter Notebook": 8889,
+      "Makefile": 101
+    },
+    "contributions_by_user": 61,
+    "contribution_score": 647.63,
+    "S_code": 67.26,
+    "S_social": 2,
+    "S_maint": 61
+  },
+  {
+    "name": "win-plus-c2",
+    "full_name": "fferegrino/win-plus-c2",
+    "html_url": "https://github.com/fferegrino/win-plus-c2",
+    "description": "A plugin for Construct2 to support some of Windows Universal App features",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 18755
+    },
+    "contributions_by_user": 30,
+    "contribution_score": 313.16,
+    "S_code": 18.32,
+    "S_social": 2,
+    "S_maint": 30
+  },
+  {
+    "name": "Chuirer",
+    "full_name": "fferegrino/Chuirer",
+    "html_url": "https://github.com/fferegrino/Chuirer",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Java": 336718,
+      "JavaScript": 13831
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 239.17,
+    "S_code": 342.33,
+    "S_social": 4,
+    "S_maint": 6
+  },
+  {
+    "name": "humble-scraping",
+    "full_name": "fferegrino/humble-scraping",
+    "html_url": "https://github.com/fferegrino/humble-scraping",
+    "description": "A project to perform Humble Bundle web scrapping",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 6674
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 35.26,
+    "S_code": 6.52,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "yu-gi-oh-decks",
+    "full_name": "fferegrino/yu-gi-oh-decks",
+    "html_url": "https://github.com/fferegrino/yu-gi-oh-decks",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Python": 5276,
+      "Shell": 525
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 148.83,
+    "S_code": 5.67,
+    "S_social": 3,
+    "S_maint": 14
+  },
+  {
+    "name": "blog.feregri.no",
+    "full_name": "fferegrino/blog.feregri.no",
+    "html_url": "https://github.com/fferegrino/blog.feregri.no",
+    "description": "A copy of @gndx blog 🫣",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "MDX": 704578,
+      "Astro": 98372,
+      "TypeScript": 12897,
+      "JavaScript": 3760,
+      "CSS": 1751
+    },
+    "contributions_by_user": 82,
+    "contribution_score": 1223.05,
+    "S_code": 802.11,
+    "S_social": 1,
+    "S_maint": 82
+  },
+  {
+    "name": "movie-insights-pipeline",
+    "full_name": "fferegrino/movie-insights-pipeline",
+    "html_url": "https://github.com/fferegrino/movie-insights-pipeline",
+    "description": "A distributed video processing pipeline to extract insights from movies",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 155402,
+      "Jupyter Notebook": 8794,
+      "JavaScript": 4493,
+      "CSS": 4183,
+      "Dockerfile": 1834,
+      "Shell": 1785,
+      "HTML": 1628,
+      "Makefile": 1445
+    },
+    "contributions_by_user": 68,
+    "contribution_score": 769.68,
+    "S_code": 175.36,
+    "S_social": 1,
+    "S_maint": 68
+  },
+  {
+    "name": "tools-and-mcp",
+    "full_name": "fferegrino/tools-and-mcp",
+    "html_url": "https://github.com/fferegrino/tools-and-mcp",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Python": 25973
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 88.68,
+    "S_code": 25.36,
+    "S_social": 3,
+    "S_maint": 7
+  },
+  {
+    "name": "mananera-lm",
+    "full_name": "fferegrino/mananera-lm",
+    "html_url": "https://github.com/fferegrino/mananera-lm",
+    "description": null,
+    "stars": 1,
+    "forks": 3,
+    "languages": {
+      "Jupyter Notebook": 19951,
+      "Python": 14811
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 170.97,
+    "S_code": 33.95,
+    "S_social": 7,
+    "S_maint": 14
+  },
+  {
+    "name": "data-engineering",
+    "full_name": "fferegrino/data-engineering",
+    "html_url": "https://github.com/fferegrino/data-engineering",
+    "description": "A data engineering tutorial",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Python": 9544,
+      "Dockerfile": 600,
+      "Makefile": 292
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 31.1,
+    "S_code": 10.19,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "toolcase",
+    "full_name": "fferegrino/toolcase",
+    "html_url": "https://github.com/fferegrino/toolcase",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Shell": 2492,
+      "Python": 1599,
+      "Dockerfile": 354,
+      "Makefile": 119
+    },
+    "contributions_by_user": 31,
+    "contribution_score": 314.23,
+    "S_code": 4.46,
+    "S_social": 1,
+    "S_maint": 31
+  },
+  {
+    "name": "uk-blogs-tutorial",
+    "full_name": "fferegrino/uk-blogs-tutorial",
+    "html_url": "https://github.com/fferegrino/uk-blogs-tutorial",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 56083,
+      "Python": 5932
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 82.28,
+    "S_code": 60.56,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "HyperHighlight",
+    "full_name": "fferegrino/HyperHighlight",
+    "html_url": "https://github.com/fferegrino/HyperHighlight",
+    "description": "HyperHighlight is a Visual Studio Code extension designed to enhance your live code demonstrations. It allows you to easily highlight specific parts of your code while dimming the rest, making it perfect for presentations, tutorials, and live coding sessions.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 5838,
+      "JavaScript": 117
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 134.91,
+    "S_code": 5.82,
+    "S_social": 1,
+    "S_maint": 13
+  },
+  {
+    "name": "framearrangement.com",
+    "full_name": "fferegrino/framearrangement.com",
+    "html_url": "https://github.com/fferegrino/framearrangement.com",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "CSS": 14152,
+      "JavaScript": 8558,
+      "HTML": 3792
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 264.94,
+    "S_code": 25.88,
+    "S_social": 1,
+    "S_maint": 25
+  },
+  {
+    "name": "cf-mlops",
+    "full_name": "fferegrino/cf-mlops",
+    "html_url": "https://github.com/fferegrino/cf-mlops",
+    "description": null,
+    "stars": 1,
+    "forks": 4,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 28.0,
+    "S_code": 0.0,
+    "S_social": 9,
+    "S_maint": 1
+  },
+  {
+    "name": "imgworks",
+    "full_name": "fferegrino/imgworks",
+    "html_url": "https://github.com/fferegrino/imgworks",
+    "description": "Small tools to process images from the command line",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 3827
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 143.87,
+    "S_code": 3.74,
+    "S_social": 1,
+    "S_maint": 14
+  },
+  {
+    "name": "mybib",
+    "full_name": "fferegrino/mybib",
+    "html_url": "https://github.com/fferegrino/mybib",
+    "description": "My bibliography in neo4j",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 37108,
+      "HTML": 12692,
+      "JavaScript": 10468,
+      "Makefile": 642,
+      "CSS": 426,
+      "Dockerfile": 268
+    },
+    "contributions_by_user": 109,
+    "contribution_score": 1122.08,
+    "S_code": 60.16,
+    "S_social": 1,
+    "S_maint": 109
+  },
+  {
+    "name": "old-feregri.no",
+    "full_name": "fferegrino/old-feregri.no",
+    "html_url": "https://github.com/fferegrino/old-feregri.no",
+    "description": "El blog de Feregrino v3.0",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 27067,
+      "Python": 15106,
+      "CSS": 10924,
+      "Makefile": 2743,
+      "Dockerfile": 126
+    },
+    "contributions_by_user": 140,
+    "contribution_score": 1429.33,
+    "S_code": 54.65,
+    "S_social": 1,
+    "S_maint": 140
+  },
+  {
+    "name": "study-with-me",
+    "full_name": "fferegrino/study-with-me",
+    "html_url": "https://github.com/fferegrino/study-with-me",
+    "description": "A study-with-me/pomodoro app, made for streamers by streamers",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "HTML": 9421,
+      "CSS": 4031,
+      "JavaScript": 2551
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 187.81,
+    "S_code": 15.63,
+    "S_social": 5,
+    "S_maint": 17
+  },
+  {
+    "name": "tweeting-cycles-lambda",
+    "full_name": "fferegrino/tweeting-cycles-lambda",
+    "html_url": "https://github.com/fferegrino/tweeting-cycles-lambda",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 5154,
+      "HCL": 4620,
+      "Dockerfile": 1755,
+      "Makefile": 1678
+    },
+    "contributions_by_user": 38,
+    "contribution_score": 388.45,
+    "S_code": 12.9,
+    "S_social": 1,
+    "S_maint": 38
+  },
+  {
+    "name": "salsa-valentina",
+    "full_name": "fferegrino/salsa-valentina",
+    "html_url": "https://github.com/fferegrino/salsa-valentina",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 7842745,
+      "Python": 20392,
+      "Makefile": 1622
+    },
+    "contributions_by_user": 51,
+    "contribution_score": 4352.21,
+    "S_code": 7680.43,
+    "S_social": 1,
+    "S_maint": 51
+  },
+  {
+    "name": "music-visualizer",
+    "full_name": "fferegrino/music-visualizer",
+    "html_url": "https://github.com/fferegrino/music-visualizer",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 10572
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.16,
+    "S_code": 10.32,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "event-detection",
+    "full_name": "fferegrino/event-detection",
+    "html_url": "https://github.com/fferegrino/event-detection",
+    "description": "For Web Science",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "Python": 40844,
+      "Jupyter Notebook": 15017,
+      "Makefile": 1867
+    },
+    "contributions_by_user": 52,
+    "contribution_score": 558.19,
+    "S_code": 56.38,
+    "S_social": 5,
+    "S_maint": 52
+  },
+  {
+    "name": "information-retrieval",
+    "full_name": "fferegrino/information-retrieval",
+    "html_url": "https://github.com/fferegrino/information-retrieval",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 895944,
+      "HTML": 178082,
+      "Java": 43996,
+      "Python": 11285
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 703.42,
+    "S_code": 1102.84,
+    "S_social": 1,
+    "S_maint": 15
+  },
+  {
+    "name": "cs193",
+    "full_name": "fferegrino/cs193",
+    "html_url": "https://github.com/fferegrino/cs193",
+    "description": "The CS193 Stanford course... but with Xamarin.iOS",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 115702
+    },
+    "contributions_by_user": 28,
+    "contribution_score": 338.5,
+    "S_code": 112.99,
+    "S_social": 1,
+    "S_maint": 28
+  },
+  {
+    "name": "CharpHat",
+    "full_name": "fferegrino/CharpHat",
+    "html_url": "https://github.com/fferegrino/CharpHat",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 112761,
+      "Smalltalk": 3
+    },
+    "contributions_by_user": 53,
+    "contribution_score": 587.06,
+    "S_code": 110.12,
+    "S_social": 1,
+    "S_maint": 53
+  },
+  {
+    "name": "svg-playground",
+    "full_name": "fferegrino/svg-playground",
+    "html_url": "https://github.com/fferegrino/svg-playground",
+    "description": "A Xamarin.Forms svg playground.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 24810
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 24.11,
+    "S_code": 24.23,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "Xevenshtein-UWP",
+    "full_name": "fferegrino/Xevenshtein-UWP",
+    "html_url": "https://github.com/fferegrino/Xevenshtein-UWP",
+    "description": "Simple how-to app made with Xamarin.Forms 2.0 and love",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 30653
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 236.97,
+    "S_code": 29.93,
+    "S_social": 1,
+    "S_maint": 22
+  },
+  {
+    "name": "sharpuladora",
+    "full_name": "fferegrino/sharpuladora",
+    "html_url": "https://github.com/fferegrino/sharpuladora",
+    "description": "A quick and unfinished calculator for the Mobile C# Developer Workshop",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C#": 55051
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 102.88,
+    "S_code": 53.76,
+    "S_social": 3,
+    "S_maint": 7
+  },
+  {
+    "name": "mvvm",
+    "full_name": "fferegrino/mvvm",
+    "html_url": "https://github.com/fferegrino/mvvm",
+    "description": "Xamarin.Forms and MVVM workshop code",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 57985
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 200.31,
+    "S_code": 56.63,
+    "S_social": 1,
+    "S_maint": 17
+  },
+  {
+    "name": "cool-sharp",
+    "full_name": "fferegrino/cool-sharp",
+    "html_url": "https://github.com/fferegrino/cool-sharp",
+    "description": "Otra guía de estilo cool para C#",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 23,
+    "contribution_score": 232.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 23
+  },
+  {
+    "name": "co-co-co-combobreaker",
+    "full_name": "fferegrino/co-co-co-combobreaker",
+    "html_url": "https://github.com/fferegrino/co-co-co-combobreaker",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 80113,
+      "C#": 15084,
+      "C": 3242
+    },
+    "contributions_by_user": 33,
+    "contribution_score": 380.07,
+    "S_code": 96.13,
+    "S_social": 1,
+    "S_maint": 33
+  },
+  {
+    "name": "a-ya",
+    "full_name": "fferegrino/a-ya",
+    "html_url": "https://github.com/fferegrino/a-ya",
+    "description": "Una aplicación para aprender lo básico del idioma ruso.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 122534
+    },
+    "contributions_by_user": 33,
+    "contribution_score": 391.83,
+    "S_code": 119.66,
+    "S_social": 1,
+    "S_maint": 33
+  },
+  {
+    "name": "TSP",
+    "full_name": "fferegrino/TSP",
+    "html_url": "https://github.com/fferegrino/TSP",
+    "description": "Implementación de un algoritmo genético simple para resolver el problema del agente viajero",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "C#": 53828
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 36.28,
+    "S_code": 52.57,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "weekly-london-cycles-db",
+    "full_name": "fferegrino/weekly-london-cycles-db",
+    "html_url": "https://github.com/fferegrino/weekly-london-cycles-db",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 816
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 34.4,
+    "S_code": 0.8,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "reddit-actions",
+    "full_name": "fferegrino/reddit-actions",
+    "html_url": "https://github.com/fferegrino/reddit-actions",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 10712,
+      "Makefile": 144
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 45.3,
+    "S_code": 10.6,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "file-stacker",
+    "full_name": "fferegrino/file-stacker",
+    "html_url": "https://github.com/fferegrino/file-stacker",
+    "description": "A command-line tool that organizes files by grouping them based on their creation time and copying them into timestamped folders.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4194
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 22.05,
+    "S_code": 4.1,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "highlighted.codes",
+    "full_name": "fferegrino/highlighted.codes",
+    "html_url": "https://github.com/fferegrino/highlighted.codes",
+    "description": "A simple web application to syntax highlight code and copy it with colours preserved for pasting into Word, PowerPoint, and other rich text editors.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 29027
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 94.17,
+    "S_code": 28.35,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "classic-football-colour-hierarchy",
+    "full_name": "fferegrino/classic-football-colour-hierarchy",
+    "html_url": "https://github.com/fferegrino/classic-football-colour-hierarchy",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 20028,
+      "Python": 2998
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 81.24,
+    "S_code": 22.49,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "cookiecutter-python-package",
+    "full_name": "fferegrino/cookiecutter-python-package",
+    "html_url": "https://github.com/fferegrino/cookiecutter-python-package",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Makefile": 1360,
+      "Python": 531
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 40.92,
+    "S_code": 1.85,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "dict-patterns",
+    "full_name": "fferegrino/dict-patterns",
+    "html_url": "https://github.com/fferegrino/dict-patterns",
+    "description": "A template engine for data in dictionaries – useful for tests!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 23,
+    "contribution_score": 230.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 23
+  },
+  {
+    "name": "yamlfix",
+    "full_name": "fferegrino/yamlfix",
+    "html_url": "https://github.com/fferegrino/yamlfix",
+    "description": "A simple opinionated yaml formatter that keeps your comments!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 110293,
+      "Makefile": 4169
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 125.89,
+    "S_code": 111.78,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "magiccionary",
+    "full_name": "fferegrino/magiccionary",
+    "html_url": "https://github.com/fferegrino/magiccionary",
+    "description": "A set of utilities to manipulate Python dictionaries",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 22874,
+      "Makefile": 1355
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 231.83,
+    "S_code": 23.66,
+    "S_social": 0,
+    "S_maint": 22
+  },
+  {
+    "name": "gpx-visualiser",
+    "full_name": "fferegrino/gpx-visualiser",
+    "html_url": "https://github.com/fferegrino/gpx-visualiser",
+    "description": "A vibe coded GPX visualiser",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 37300,
+      "CSS": 8796,
+      "HTML": 7259
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 146.05,
+    "S_code": 52.1,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "dotpptx",
+    "full_name": "fferegrino/dotpptx",
+    "html_url": "https://github.com/fferegrino/dotpptx",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 32866,
+      "Makefile": 1600
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 136.83,
+    "S_code": 33.66,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "platica-mcp",
+    "full_name": "fferegrino/platica-mcp",
+    "html_url": "https://github.com/fferegrino/platica-mcp",
+    "description": "Just learning about MCP",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 11825
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 125.77,
+    "S_code": 11.55,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "parser-bindings",
+    "full_name": "fferegrino/parser-bindings",
+    "html_url": "https://github.com/fferegrino/parser-bindings",
+    "description": "A demo of a rust/python-bindings parser for a talk",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 6446,
+      "Rust": 6115,
+      "Shell": 192
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 66.23,
+    "S_code": 12.45,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "clir",
+    "full_name": "fferegrino/clir",
+    "html_url": "https://github.com/fferegrino/clir",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 141165
+    },
+    "contributions_by_user": 36,
+    "contribution_score": 428.93,
+    "S_code": 137.86,
+    "S_social": 0,
+    "S_maint": 36
+  },
+  {
+    "name": "player-embeddings",
+    "full_name": "fferegrino/player-embeddings",
+    "html_url": "https://github.com/fferegrino/player-embeddings",
+    "description": "Player embedding visualization",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 1856957,
+      "Jupyter Notebook": 4018
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 928.68,
+    "S_code": 1817.36,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "crustdown",
+    "full_name": "fferegrino/crustdown",
+    "html_url": "https://github.com/fferegrino/crustdown",
+    "description": "A static website generator written in Rust",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 23824,
+      "HTML": 4190
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 263.68,
+    "S_code": 27.36,
+    "S_social": 0,
+    "S_maint": 25
+  },
+  {
+    "name": "trailer-edit",
+    "full_name": "fferegrino/trailer-edit",
+    "html_url": "https://github.com/fferegrino/trailer-edit",
+    "description": "Split scenes in movie trailers",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 12084,
+      "HTML": 9542,
+      "Python": 8198,
+      "CSS": 1822,
+      "Dockerfile": 501
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 275.7,
+    "S_code": 31.39,
+    "S_social": 0,
+    "S_maint": 26
+  },
+  {
+    "name": "book-bot",
+    "full_name": "fferegrino/book-bot",
+    "html_url": "https://github.com/fferegrino/book-bot",
+    "description": "A demo app of a Slack chatbot that uses RAG to give book suggestions.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 18062,
+      "Python": 3928
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 30.74,
+    "S_code": 21.47,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "ticket2score",
+    "full_name": "fferegrino/ticket2score",
+    "html_url": "https://github.com/fferegrino/ticket2score",
+    "description": "A ticket to ride scoreboard",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 19594,
+      "HTML": 1589,
+      "JavaScript": 740
+    },
+    "contributions_by_user": 37,
+    "contribution_score": 380.7,
+    "S_code": 21.41,
+    "S_social": 0,
+    "S_maint": 37
+  },
+  {
+    "name": "ticket-to-ride-mexico",
+    "full_name": "fferegrino/ticket-to-ride-mexico",
+    "html_url": "https://github.com/fferegrino/ticket-to-ride-mexico",
+    "description": "The ticket to ride board Mexican edition",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 7,
+    "contribution_score": 70.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "orion-ii",
+    "full_name": "fferegrino/orion-ii",
+    "html_url": "https://github.com/fferegrino/orion-ii",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 15382
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 77.51,
+    "S_code": 15.02,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "tiny-tools",
+    "full_name": "fferegrino/tiny-tools",
+    "html_url": "https://github.com/fferegrino/tiny-tools",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2084
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.02,
+    "S_code": 2.04,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "humble-search",
+    "full_name": "fferegrino/humble-search",
+    "html_url": "https://github.com/fferegrino/humble-search",
+    "description": "A RAG-based (Text-to-SQL) demo app to search in web scrapped data from Humble Bundle",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 13618,
+      "Dockerfile": 717
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 27.0,
+    "S_code": 14.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "asi-las-cosas",
+    "full_name": "fferegrino/asi-las-cosas",
+    "html_url": "https://github.com/fferegrino/asi-las-cosas",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1543
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.75,
+    "S_code": 1.51,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "kotdown",
+    "full_name": "fferegrino/kotdown",
+    "html_url": "https://github.com/fferegrino/kotdown",
+    "description": "A static website generator.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Kotlin": 8014,
+      "MDX": 6381,
+      "HTML": 2148
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 88.08,
+    "S_code": 16.16,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "jupyter-kotlin",
+    "full_name": "fferegrino/jupyter-kotlin",
+    "html_url": "https://github.com/fferegrino/jupyter-kotlin",
+    "description": "A Jupyter deployment with Kotlin support",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 19820,
+      "Dockerfile": 1378,
+      "CSS": 477
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 120.58,
+    "S_code": 21.17,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "docker-based-tutorials",
+    "full_name": "fferegrino/docker-based-tutorials",
+    "html_url": "https://github.com/fferegrino/docker-based-tutorials",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 11422,
+      "Dockerfile": 2197
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 96.65,
+    "S_code": 13.3,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "svg-collector",
+    "full_name": "fferegrino/svg-collector",
+    "html_url": "https://github.com/fferegrino/svg-collector",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2151,
+      "Makefile": 108
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 251.1,
+    "S_code": 2.21,
+    "S_social": 0,
+    "S_maint": 25
+  },
+  {
+    "name": "weekly-music-recommendation",
+    "full_name": "fferegrino/weekly-music-recommendation",
+    "html_url": "https://github.com/fferegrino/weekly-music-recommendation",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 7485
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.65,
+    "S_code": 7.31,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "bsky-docs",
+    "full_name": "fferegrino/bsky-docs",
+    "html_url": "https://github.com/fferegrino/bsky-docs",
+    "description": "Bluesky API documentation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 98710,
+      "JavaScript": 13975,
+      "CSS": 12881,
+      "MDX": 5032,
+      "Makefile": 1301,
+      "Shell": 891
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 64.84,
+    "S_code": 129.68,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bsky-conversation-watcher",
+    "full_name": "fferegrino/bsky-conversation-watcher",
+    "html_url": "https://github.com/fferegrino/bsky-conversation-watcher",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 5024
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 32.45,
+    "S_code": 4.91,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "flink-feature-store",
+    "full_name": "fferegrino/flink-feature-store",
+    "html_url": "https://github.com/fferegrino/flink-feature-store",
+    "description": "A demo of a flink feature store",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 8540,
+      "HTML": 6023,
+      "Dockerfile": 4410,
+      "Jupyter Notebook": 1995,
+      "Shell": 271
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 210.37,
+    "S_code": 20.74,
+    "S_social": 0,
+    "S_maint": 20
+  },
+  {
+    "name": "tweet-visualizer",
+    "full_name": "fferegrino/tweet-visualizer",
+    "html_url": "https://github.com/fferegrino/tweet-visualizer",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 21161,
+      "HTML": 1787,
+      "CSS": 623
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 201.51,
+    "S_code": 23.02,
+    "S_social": 0,
+    "S_maint": 19
+  },
+  {
+    "name": "mind-the-gap",
+    "full_name": "fferegrino/mind-the-gap",
+    "html_url": "https://github.com/fferegrino/mind-the-gap",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 12029,
+      "Makefile": 313
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 176.03,
+    "S_code": 12.05,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "bluesky-stats",
+    "full_name": "fferegrino/bluesky-stats",
+    "html_url": "https://github.com/fferegrino/bluesky-stats",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1135
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.55,
+    "S_code": 1.11,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "cycle-analytics",
+    "full_name": "fferegrino/cycle-analytics",
+    "html_url": "https://github.com/fferegrino/cycle-analytics",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 7942,
+      "Dockerfile": 1178,
+      "Makefile": 157
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 74.53,
+    "S_code": 9.06,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "uk-blogs-rag",
+    "full_name": "fferegrino/uk-blogs-rag",
+    "html_url": "https://github.com/fferegrino/uk-blogs-rag",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 34762,
+      "Python": 3037
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 38.46,
+    "S_code": 36.91,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "MyClippings.txt",
+    "full_name": "fferegrino/MyClippings.txt",
+    "html_url": "https://github.com/fferegrino/MyClippings.txt",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 17032,
+      "CSS": 2458,
+      "JavaScript": 2232,
+      "HTML": 1986
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 61.58,
+    "S_code": 23.15,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "jupyter-book",
+    "full_name": "fferegrino/jupyter-book",
+    "html_url": "https://github.com/fferegrino/jupyter-book",
+    "description": "Create beautiful, publication-quality books and documents from computational content.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 102404,
+      "HTML": 36472,
+      "TeX": 15681,
+      "Jupyter Notebook": 9580,
+      "Shell": 732
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 80.5,
+    "S_code": 161.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "acting-faces-cluster",
+    "full_name": "fferegrino/acting-faces-cluster",
+    "html_url": "https://github.com/fferegrino/acting-faces-cluster",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 13202835,
+      "Python": 5196
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 6479.23,
+    "S_code": 12898.47,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "movie-tag-generator",
+    "full_name": "fferegrino/movie-tag-generator",
+    "html_url": "https://github.com/fferegrino/movie-tag-generator",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2549
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.24,
+    "S_code": 2.49,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "pins",
+    "full_name": "fferegrino/pins",
+    "html_url": "https://github.com/fferegrino/pins",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 8041888,
+      "JavaScript": 3355,
+      "CSS": 540
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 4028.6,
+    "S_code": 7857.21,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "pin-detection-with-sam",
+    "full_name": "fferegrino/pin-detection-with-sam",
+    "html_url": "https://github.com/fferegrino/pin-detection-with-sam",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 2180109,
+      "Python": 8469,
+      "Jinja": 7151,
+      "JavaScript": 3776,
+      "CSS": 596
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 1194.27,
+    "S_code": 2148.54,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "GraphRAG",
+    "full_name": "fferegrino/GraphRAG",
+    "html_url": "https://github.com/fferegrino/GraphRAG",
+    "description": "A tutorial about RAG and Graph database at Pydata London 2024",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 265636,
+      "Python": 13644
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 140.37,
+    "S_code": 272.73,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "Brothersin2",
+    "full_name": "fferegrino/Brothersin2",
+    "html_url": "https://github.com/fferegrino/Brothersin2",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 629,
+      "Dockerfile": 421
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 100.51,
+    "S_code": 1.03,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "uk-speeches",
+    "full_name": "fferegrino/uk-speeches",
+    "html_url": "https://github.com/fferegrino/uk-speeches",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4282
+    },
+    "contributions_by_user": 27,
+    "contribution_score": 272.09,
+    "S_code": 4.18,
+    "S_social": 0,
+    "S_maint": 27
+  },
+  {
+    "name": "next-departure",
+    "full_name": "fferegrino/next-departure",
+    "html_url": "https://github.com/fferegrino/next-departure",
+    "description": "An app I am creating as a way of practising Flutter.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 23774,
+      "CMake": 19440,
+      "Dart": 11709,
+      "HTML": 1855,
+      "Swift": 1728,
+      "C": 1425,
+      "Makefile": 270,
+      "Kotlin": 127,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 159.48,
+    "S_code": 58.95,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "python-debugging",
+    "full_name": "fferegrino/python-debugging",
+    "html_url": "https://github.com/fferegrino/python-debugging",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 3009
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 71.47,
+    "S_code": 2.94,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "britishize",
+    "full_name": "fferegrino/britishize",
+    "html_url": "https://github.com/fferegrino/britishize",
+    "description": "A demo app to show how to package code with Poetry",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1862
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 150.91,
+    "S_code": 1.82,
+    "S_social": 0,
+    "S_maint": 15
+  },
+  {
+    "name": "new.techlingo.fyi",
+    "full_name": "fferegrino/new.techlingo.fyi",
+    "html_url": "https://github.com/fferegrino/new.techlingo.fyi",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "my-repo",
+    "full_name": "fferegrino/my-repo",
+    "html_url": "https://github.com/fferegrino/my-repo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 124
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.06,
+    "S_code": 0.12,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "myspace-1",
+    "full_name": "fferegrino/myspace-1",
+    "html_url": "https://github.com/fferegrino/myspace-1",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "og.feregri.no",
+    "full_name": "fferegrino/og.feregri.no",
+    "html_url": "https://github.com/fferegrino/og.feregri.no",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 21332,
+      "JavaScript": 929,
+      "CSS": 492
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 91.11,
+    "S_code": 22.22,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "new-feregri.no",
+    "full_name": "fferegrino/new-feregri.no",
+    "html_url": "https://github.com/fferegrino/new-feregri.no",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "MDX": 558309,
+      "Astro": 39859,
+      "JavaScript": 21491,
+      "TypeScript": 2603
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 433.84,
+    "S_code": 607.68,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "pytube",
+    "full_name": "fferegrino/pytube",
+    "html_url": "https://github.com/fferegrino/pytube",
+    "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 271578,
+      "Makefile": 1428
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 133.3,
+    "S_code": 266.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "presentpy-pptx",
+    "full_name": "fferegrino/presentpy-pptx",
+    "html_url": "https://github.com/fferegrino/presentpy-pptx",
+    "description": "Create slides from Jupyter Notebooks",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 14942,
+      "Jupyter Notebook": 1238,
+      "Makefile": 378
+    },
+    "contributions_by_user": 43,
+    "contribution_score": 438.08,
+    "S_code": 16.17,
+    "S_social": 0,
+    "S_maint": 43
+  },
+  {
+    "name": "roft",
+    "full_name": "fferegrino/roft",
+    "html_url": "https://github.com/fferegrino/roft",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 45
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 40.02,
+    "S_code": 0.04,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "wheel-of-misfortune",
+    "full_name": "fferegrino/wheel-of-misfortune",
+    "html_url": "https://github.com/fferegrino/wheel-of-misfortune",
+    "description": "Wheel of misfortune to choose QOTW",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4243
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.07,
+    "S_code": 4.14,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "handy-dict",
+    "full_name": "fferegrino/handy-dict",
+    "html_url": "https://github.com/fferegrino/handy-dict",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 20813,
+      "Python": 6787,
+      "Makefile": 1055
+    },
+    "contributions_by_user": 35,
+    "contribution_score": 363.99,
+    "S_code": 27.98,
+    "S_social": 0,
+    "S_maint": 35
+  },
+  {
+    "name": "notionbook",
+    "full_name": "fferegrino/notionbook",
+    "html_url": "https://github.com/fferegrino/notionbook",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 7139,
+      "Makefile": 117
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 83.54,
+    "S_code": 7.09,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "transcriptions",
+    "full_name": "fferegrino/transcriptions",
+    "html_url": "https://github.com/fferegrino/transcriptions",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 709416
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 346.39,
+    "S_code": 692.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sharperx-mirror",
+    "full_name": "fferegrino/sharperx-mirror",
+    "html_url": "https://github.com/fferegrino/sharperx-mirror",
+    "description": "youtube-tools",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2654
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 31.3,
+    "S_code": 2.59,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "tweet-threader",
+    "full_name": "fferegrino/tweet-threader",
+    "html_url": "https://github.com/fferegrino/tweet-threader",
+    "description": "A simple React UI to compose, and verify, tweet threads.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5613,
+      "HTML": 1721,
+      "CSS": 990
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 74.06,
+    "S_code": 8.13,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "poetry-plugin-simple-requirements-export",
+    "full_name": "fferegrino/poetry-plugin-simple-requirements-export",
+    "html_url": "https://github.com/fferegrino/poetry-plugin-simple-requirements-export",
+    "description": "A different way to export your poetry requirements as a requirements.txt file",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2238
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 31.09,
+    "S_code": 2.19,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "the-bills",
+    "full_name": "fferegrino/the-bills",
+    "html_url": "https://github.com/fferegrino/the-bills",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 6925,
+      "Jinja": 569
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 73.66,
+    "S_code": 7.32,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "TimeThumbnail",
+    "full_name": "fferegrino/TimeThumbnail",
+    "html_url": "https://github.com/fferegrino/TimeThumbnail",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9021,
+      "CSS": 1909,
+      "HTML": 144
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 235.41,
+    "S_code": 10.81,
+    "S_social": 0,
+    "S_maint": 23
+  },
+  {
+    "name": "filminlatino",
+    "full_name": "fferegrino/filminlatino",
+    "html_url": "https://github.com/fferegrino/filminlatino",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4333
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 42.12,
+    "S_code": 4.23,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "e2e-mlops",
+    "full_name": "fferegrino/e2e-mlops",
+    "html_url": "https://github.com/fferegrino/e2e-mlops",
+    "description": "[DEPRECATED] Demo repository implementing an end-to-end MLOps workflow on Databricks. Project derived from dbx basic python template",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 109143,
+      "Shell": 2670
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 54.6,
+    "S_code": 109.19,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "myspace",
+    "full_name": "fferegrino/myspace",
+    "html_url": "https://github.com/fferegrino/myspace",
+    "description": "The new myspace app",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 87
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.04,
+    "S_code": 0.08,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "lovelyer-pytest-docker",
+    "full_name": "fferegrino/lovelyer-pytest-docker",
+    "html_url": "https://github.com/fferegrino/lovelyer-pytest-docker",
+    "description": "Pytest plugin providing the ability to use docker-compose services as fixtures.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 12725,
+      "Kotlin": 124
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.27,
+    "S_code": 12.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "WorldCupOfNames",
+    "full_name": "fferegrino/WorldCupOfNames",
+    "html_url": "https://github.com/fferegrino/WorldCupOfNames",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 122770
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 69.95,
+    "S_code": 119.89,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "dataviz",
+    "full_name": "fferegrino/dataviz",
+    "html_url": "https://github.com/fferegrino/dataviz",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 1823563
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 900.41,
+    "S_code": 1780.82,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "send-to-kindle",
+    "full_name": "fferegrino/send-to-kindle",
+    "html_url": "https://github.com/fferegrino/send-to-kindle",
+    "description": "A teeny tiny app that you can use to send stuff to your kindle.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "HTML": 305029,
+      "Python": 25870,
+      "Makefile": 2747
+    },
+    "contributions_by_user": 71,
+    "contribution_score": 876.91,
+    "S_code": 325.83,
+    "S_social": 2,
+    "S_maint": 71
+  },
+  {
+    "name": "vuelax",
+    "full_name": "fferegrino/vuelax",
+    "html_url": "https://github.com/fferegrino/vuelax",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 73344,
+      "Python": 17687,
+      "Shell": 1030
+    },
+    "contributions_by_user": 41,
+    "contribution_score": 454.95,
+    "S_code": 89.9,
+    "S_social": 0,
+    "S_maint": 41
+  },
+  {
+    "name": "matplotlib-and-london-cycles",
+    "full_name": "fferegrino/matplotlib-and-london-cycles",
+    "html_url": "https://github.com/fferegrino/matplotlib-and-london-cycles",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 7922,
+      "Dockerfile": 399
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 104.06,
+    "S_code": 8.13,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "doctor-whatsapp",
+    "full_name": "fferegrino/doctor-whatsapp",
+    "html_url": "https://github.com/fferegrino/doctor-whatsapp",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 972
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.47,
+    "S_code": 0.95,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "ksql-python",
+    "full_name": "fferegrino/ksql-python",
+    "html_url": "https://github.com/fferegrino/ksql-python",
+    "description": "A python wrapper for the KSQL REST API.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 78384,
+      "Dockerfile": 678,
+      "Shell": 162
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 48.68,
+    "S_code": 77.37,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "MemberWall",
+    "full_name": "fferegrino/MemberWall",
+    "html_url": "https://github.com/fferegrino/MemberWall",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3751,
+      "CSS": 107
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.88,
+    "S_code": 3.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rule-of-three",
+    "full_name": "fferegrino/rule-of-three",
+    "html_url": "https://github.com/fferegrino/rule-of-three",
+    "description": "Also known as Cross-Multiplication, it is a way to simplify an equation or determine the value of a variable.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 746
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 80.36,
+    "S_code": 0.73,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "youtube-transcribe",
+    "full_name": "fferegrino/youtube-transcribe",
+    "html_url": "https://github.com/fferegrino/youtube-transcribe",
+    "description": "A tool to transcribe YouTube videos using AWS Transcribe",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "github-actions-demos",
+    "full_name": "fferegrino/github-actions-demos",
+    "html_url": "https://github.com/fferegrino/github-actions-demos",
+    "description": "GitHub Actions demos",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 140
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.07,
+    "S_code": 0.14,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "from-jupyter",
+    "full_name": "fferegrino/from-jupyter",
+    "html_url": "https://github.com/fferegrino/from-jupyter",
+    "description": "Some tools I've built to write blogs in Jupyter Notebooks and export them to many places",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 18880,
+      "Python": 9154,
+      "CSS": 554,
+      "Makefile": 150
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 224.03,
+    "S_code": 28.06,
+    "S_social": 0,
+    "S_maint": 21
+  },
+  {
+    "name": "live-thumbnail-maker",
+    "full_name": "fferegrino/live-thumbnail-maker",
+    "html_url": "https://github.com/fferegrino/live-thumbnail-maker",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3924,
+      "HTML": 887,
+      "CSS": 678
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 32.68,
+    "S_code": 5.36,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "intro-python",
+    "full_name": "fferegrino/intro-python",
+    "html_url": "https://github.com/fferegrino/intro-python",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 12421,
+      "Python": 152
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 46.14,
+    "S_code": 12.28,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "presentpy-old",
+    "full_name": "fferegrino/presentpy-old",
+    "html_url": "https://github.com/fferegrino/presentpy-old",
+    "description": "Create pptx slides from Jupyter Notebooks",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 9099,
+      "Jupyter Notebook": 1936,
+      "Shell": 1478,
+      "Makefile": 402
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 266.31,
+    "S_code": 12.61,
+    "S_social": 0,
+    "S_maint": 26
+  },
+  {
+    "name": "hubify",
+    "full_name": "fferegrino/hubify",
+    "html_url": "https://github.com/fferegrino/hubify",
+    "description": "Create GitHub-like visualisations of your time series data",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 9602,
+      "Makefile": 25
+    },
+    "contributions_by_user": 63,
+    "contribution_score": 634.7,
+    "S_code": 9.4,
+    "S_social": 0,
+    "S_maint": 63
+  },
+  {
+    "name": "example-mkdocs-basic",
+    "full_name": "fferegrino/example-mkdocs-basic",
+    "html_url": "https://github.com/fferegrino/example-mkdocs-basic",
+    "description": "A basic MkDocs project for Read the Docs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 776
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.38,
+    "S_code": 0.76,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "feature-draft",
+    "full_name": "fferegrino/feature-draft",
+    "html_url": "https://github.com/fferegrino/feature-draft",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 15154
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.4,
+    "S_code": 14.8,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sketch-assets",
+    "full_name": "fferegrino/sketch-assets",
+    "html_url": "https://github.com/fferegrino/sketch-assets",
+    "description": "An attempt to git-handle .sketch files",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 400
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 80.2,
+    "S_code": 0.39,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "jueves-casual",
+    "full_name": "fferegrino/jueves-casual",
+    "html_url": "https://github.com/fferegrino/jueves-casual",
+    "description": "I make the Jueves Casual thumbnails for @fferegrino",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 3043
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 41.49,
+    "S_code": 2.97,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "MexicoPlace",
+    "full_name": "fferegrino/MexicoPlace",
+    "html_url": "https://github.com/fferegrino/MexicoPlace",
+    "description": "test",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 996,
+      "Python": 598
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.78,
+    "S_code": 1.56,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "soft-spot",
+    "full_name": "fferegrino/soft-spot",
+    "html_url": "https://github.com/fferegrino/soft-spot",
+    "description": "Do you have a soft spot for cheap cloud computing?",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 25079,
+      "Makefile": 1759
+    },
+    "contributions_by_user": 54,
+    "contribution_score": 553.1,
+    "S_code": 26.21,
+    "S_social": 0,
+    "S_maint": 54
+  },
+  {
+    "name": "twint",
+    "full_name": "fferegrino/twint",
+    "html_url": "https://github.com/fferegrino/twint",
+    "description": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 125515,
+      "Dockerfile": 221
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 61.39,
+    "S_code": 122.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "voltorb-flip",
+    "full_name": "fferegrino/voltorb-flip",
+    "html_url": "https://github.com/fferegrino/voltorb-flip",
+    "description": "ビリリダマめくり in Python",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 18487,
+      "Makefile": 1803
+    },
+    "contributions_by_user": 37,
+    "contribution_score": 379.91,
+    "S_code": 19.81,
+    "S_social": 0,
+    "S_maint": 37
+  },
+  {
+    "name": "no-fkn-thanks",
+    "full_name": "fferegrino/no-fkn-thanks",
+    "html_url": "https://github.com/fferegrino/no-fkn-thanks",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 481,
+      "Shell": 186
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 50.33,
+    "S_code": 0.65,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "jupygit",
+    "full_name": "fferegrino/jupygit",
+    "html_url": "https://github.com/fferegrino/jupygit",
+    "description": "Integrating Jupyter Notebooks to a git workflow.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 9541,
+      "Python": 7873,
+      "JavaScript": 5849,
+      "Makefile": 242,
+      "Batchfile": 180
+    },
+    "contributions_by_user": 44,
+    "contribution_score": 451.56,
+    "S_code": 23.13,
+    "S_social": 0,
+    "S_maint": 44
+  },
+  {
+    "name": "ploomber",
+    "full_name": "fferegrino/ploomber",
+    "html_url": "https://github.com/fferegrino/ploomber",
+    "description": "Write maintainable, production-ready pipelines using Jupyter or your favorite text editor. Develop locally, deploy to the cloud. ☁️",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1417769,
+      "HTML": 21898,
+      "Jupyter Notebook": 707,
+      "R": 621
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 723.61,
+    "S_code": 1407.22,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "local-workbench",
+    "full_name": "fferegrino/local-workbench",
+    "html_url": "https://github.com/fferegrino/local-workbench",
+    "description": "A local development data science workbench for integrating production-like workflows",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 3242,
+      "Dockerfile": 379,
+      "Shell": 361
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.94,
+    "S_code": 3.89,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "opinion",
+    "full_name": "fferegrino/opinion",
+    "html_url": "https://github.com/fferegrino/opinion",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6065,
+      "CSS": 1549
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 53.72,
+    "S_code": 7.44,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "techlingo-og-image",
+    "full_name": "fferegrino/techlingo-og-image",
+    "html_url": "https://github.com/fferegrino/techlingo-og-image",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 24236,
+      "CSS": 6321,
+      "HTML": 3852
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 66.8,
+    "S_code": 33.6,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "pytest-docker",
+    "full_name": "fferegrino/pytest-docker",
+    "html_url": "https://github.com/fferegrino/pytest-docker",
+    "description": "Docker-based integration tests",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 17445,
+      "Dockerfile": 326
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.68,
+    "S_code": 17.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mind-the-api",
+    "full_name": "fferegrino/mind-the-api",
+    "html_url": "https://github.com/fferegrino/mind-the-api",
+    "description": "A Python app to consume the TFL API",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 945
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 40.46,
+    "S_code": 0.92,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "where-are-my-reddit-posts",
+    "full_name": "fferegrino/where-are-my-reddit-posts",
+    "html_url": "https://github.com/fferegrino/where-are-my-reddit-posts",
+    "description": "WHERE ARE MY REDDIT POSTS!?",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 15682,
+      "Jupyter Notebook": 12492
+    },
+    "contributions_by_user": 58,
+    "contribution_score": 593.76,
+    "S_code": 27.51,
+    "S_social": 0,
+    "S_maint": 58
+  },
+  {
+    "name": "yet-another-blog-migration",
+    "full_name": "fferegrino/yet-another-blog-migration",
+    "html_url": "https://github.com/fferegrino/yet-another-blog-migration",
+    "description": "I'm migrating my blog to Pelican (adding some CI and CD on top of it just for fun)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 23884,
+      "CSS": 18943,
+      "HTML": 18088,
+      "Makefile": 6048
+    },
+    "contributions_by_user": 107,
+    "contribution_score": 1102.7,
+    "S_code": 65.39,
+    "S_social": 0,
+    "S_maint": 107
+  },
+  {
+    "name": "card-detection",
+    "full_name": "fferegrino/card-detection",
+    "html_url": "https://github.com/fferegrino/card-detection",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 39227,
+      "Python": 25144
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 141.43,
+    "S_code": 62.86,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "card2vec",
+    "full_name": "fferegrino/card2vec",
+    "html_url": "https://github.com/fferegrino/card2vec",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 53458,
+      "Makefile": 548
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 86.37,
+    "S_code": 52.74,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "protobuf-introduction",
+    "full_name": "fferegrino/protobuf-introduction",
+    "html_url": "https://github.com/fferegrino/protobuf-introduction",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 7654,
+      "Python": 656
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 24.06,
+    "S_code": 8.12,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "valentina-dataset",
+    "full_name": "fferegrino/valentina-dataset",
+    "html_url": "https://github.com/fferegrino/valentina-dataset",
+    "description": "Un dataset de imágenes de salsas picantes. Principalmente de Salsa Valentina.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "genetic-drawing",
+    "full_name": "fferegrino/genetic-drawing",
+    "html_url": "https://github.com/fferegrino/genetic-drawing",
+    "description": "A genetic algorithm toy project for drawing",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 14408,
+      "Jupyter Notebook": 1803
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.92,
+    "S_code": 15.83,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "potion-flip",
+    "full_name": "fferegrino/potion-flip",
+    "html_url": "https://github.com/fferegrino/potion-flip",
+    "description": "A Voltorb Flip copy",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "ovr",
+    "full_name": "fferegrino/ovr",
+    "html_url": "https://github.com/fferegrino/ovr",
+    "description": "Dockerised overviewer",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 1257,
+      "Dockerfile": 1019,
+      "Python": 496
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.35,
+    "S_code": 2.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "json-schema-viewer",
+    "full_name": "fferegrino/json-schema-viewer",
+    "html_url": "https://github.com/fferegrino/json-schema-viewer",
+    "description": "JavaScript tool for visualizing json-schemas",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 65952,
+      "HTML": 21442,
+      "CSS": 16878,
+      "Ruby": 190
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 51.01,
+    "S_code": 102.01,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "medium-classifier",
+    "full_name": "fferegrino/medium-classifier",
+    "html_url": "https://github.com/fferegrino/medium-classifier",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 14437,
+      "Makefile": 1228,
+      "Shell": 61
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 227.68,
+    "S_code": 15.36,
+    "S_social": 0,
+    "S_maint": 22
+  },
+  {
+    "name": "medium-collector",
+    "full_name": "fferegrino/medium-collector",
+    "html_url": "https://github.com/fferegrino/medium-collector",
+    "description": "I subscribed to the Medium Daily Digests so you don't have to",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 22325,
+      "Makefile": 561
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 121.17,
+    "S_code": 22.35,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "voltorb-flip-ui",
+    "full_name": "fferegrino/voltorb-flip-ui",
+    "html_url": "https://github.com/fferegrino/voltorb-flip-ui",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 9612,
+      "Makefile": 1794,
+      "CSS": 1489,
+      "Dockerfile": 505
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 56.54,
+    "S_code": 13.09,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "blog",
+    "full_name": "fferegrino/blog",
+    "html_url": "https://github.com/fferegrino/blog",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 84476,
+      "CSS": 18705
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 90.38,
+    "S_code": 100.76,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "scisharp",
+    "full_name": "fferegrino/scisharp",
+    "html_url": "https://github.com/fferegrino/scisharp",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 12155,
+      "Dockerfile": 959
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 66.4,
+    "S_code": 12.81,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "jsonschemaviewer",
+    "full_name": "fferegrino/jsonschemaviewer",
+    "html_url": "https://github.com/fferegrino/jsonschemaviewer",
+    "description": "A simple application to visualize JSON schemas.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 50000,
+      "HTML": 3437,
+      "CSS": 1358
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 26.76,
+    "S_code": 53.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "portal-gun",
+    "full_name": "fferegrino/portal-gun",
+    "html_url": "https://github.com/fferegrino/portal-gun",
+    "description": "Deep Learning on Amazon EC2 Spot Instances without the agonizing pain.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 98116,
+      "Shell": 238
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 48.02,
+    "S_code": 96.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "MyTripCountdown",
+    "full_name": "fferegrino/MyTripCountdown",
+    "html_url": "https://github.com/fferegrino/MyTripCountdown",
+    "description": "Xamarin.Forms goodlooking UI sample ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 16431
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.02,
+    "S_code": 16.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "svg",
+    "full_name": "fferegrino/svg",
+    "html_url": "https://github.com/fferegrino/svg",
+    "description": "Mis archivos SVG",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 6,
+    "contribution_score": 60.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "Spelling2",
+    "full_name": "fferegrino/Spelling2",
+    "html_url": "https://github.com/fferegrino/Spelling2",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 55259
+    },
+    "contributions_by_user": 27,
+    "contribution_score": 296.98,
+    "S_code": 53.96,
+    "S_social": 0,
+    "S_maint": 27
+  },
+  {
+    "name": "n4j-test-setup",
+    "full_name": "fferegrino/n4j-test-setup",
+    "html_url": "https://github.com/fferegrino/n4j-test-setup",
+    "description": "\"Stress-testing\" the feature introduced in https://github.com/fferegrino/neo4j",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 24217,
+      "Jupyter Notebook": 4250,
+      "Shell": 1633
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 184.7,
+    "S_code": 29.39,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "neo4j",
+    "full_name": "fferegrino/neo4j",
+    "html_url": "https://github.com/fferegrino/neo4j",
+    "description": "Graphs for Everyone",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 41266092,
+      "Scala": 7285197,
+      "Gherkin": 306456,
+      "PowerShell": 159682,
+      "Shell": 113122,
+      "Roff": 49238,
+      "M4": 6462,
+      "Batchfile": 5456,
+      "Makefile": 481
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 24019.62,
+    "S_code": 48039.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "neo4j-dotnet-driver",
+    "full_name": "fferegrino/neo4j-dotnet-driver",
+    "html_url": "https://github.com/fferegrino/neo4j-dotnet-driver",
+    "description": "Neo4j Bolt driver for .NET",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 1822662,
+      "Gherkin": 45652,
+      "PowerShell": 603
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 912.56,
+    "S_code": 1825.11,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tad-reddit-classification",
+    "full_name": "fferegrino/tad-reddit-classification",
+    "html_url": "https://github.com/fferegrino/tad-reddit-classification",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 59852
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 69.22,
+    "S_code": 58.45,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "skye",
+    "full_name": "fferegrino/skye",
+    "html_url": "https://github.com/fferegrino/skye",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 9482,
+      "JavaScript": 7938,
+      "HTML": 4965,
+      "Ruby": 2731,
+      "Python": 1269,
+      "CSS": 574
+    },
+    "contributions_by_user": 28,
+    "contribution_score": 293.16,
+    "S_code": 26.33,
+    "S_social": 0,
+    "S_maint": 28
+  },
+  {
+    "name": "where-are-my-tweets",
+    "full_name": "fferegrino/where-are-my-tweets",
+    "html_url": "https://github.com/fferegrino/where-are-my-tweets",
+    "description": "WHERE ARE MY TWEETS!?",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4141,
+      "Python": 3030
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 253.5,
+    "S_code": 7.0,
+    "S_social": 0,
+    "S_maint": 25
+  },
+  {
+    "name": "compiladores-escom",
+    "full_name": "fferegrino/compiladores-escom",
+    "html_url": "https://github.com/fferegrino/compiladores-escom",
+    "description": "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE ...",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 68982,
+      "Lex": 8230,
+      "Yacc": 7880,
+      "Makefile": 570,
+      "C": 513
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 62.08,
+    "S_code": 84.16,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "java-test-cs-plus",
+    "full_name": "fferegrino/java-test-cs-plus",
+    "html_url": "https://github.com/fferegrino/java-test-cs-plus",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 43724,
+      "Shell": 32,
+      "Batchfile": 29
+    },
+    "contributions_by_user": 28,
+    "contribution_score": 301.38,
+    "S_code": 42.76,
+    "S_social": 0,
+    "S_maint": 28
+  },
+  {
+    "name": "smalldebts",
+    "full_name": "fferegrino/smalldebts",
+    "html_url": "https://github.com/fferegrino/smalldebts",
+    "description": "A brand new app for iOS and Android",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 169157,
+      "CSS": 316,
+      "ASP": 109
+    },
+    "contributions_by_user": 118,
+    "contribution_score": 1262.8,
+    "S_code": 165.61,
+    "S_social": 0,
+    "S_maint": 118
+  },
+  {
+    "name": "ios-big-nerd-ranch-guide",
+    "full_name": "fferegrino/ios-big-nerd-ranch-guide",
+    "html_url": "https://github.com/fferegrino/ios-big-nerd-ranch-guide",
+    "description": "Code for the sample apps in the book of Big Nerd Ranch Guide",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 49429
+    },
+    "contributions_by_user": 42,
+    "contribution_score": 444.14,
+    "S_code": 48.27,
+    "S_social": 0,
+    "S_maint": 42
+  },
+  {
+    "name": "questacion",
+    "full_name": "fferegrino/questacion",
+    "html_url": "https://github.com/fferegrino/questacion",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 170212,
+      "C#": 3378
+    },
+    "contributions_by_user": 35,
+    "contribution_score": 434.76,
+    "S_code": 169.52,
+    "S_social": 0,
+    "S_maint": 35
+  },
+  {
+    "name": "xmigrator",
+    "full_name": "fferegrino/xmigrator",
+    "html_url": "https://github.com/fferegrino/xmigrator",
+    "description": "A tool to migrate from Xamarin.Android  ↔ \"Normal\" Android ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 11565
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 55.65,
+    "S_code": 11.29,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "SubeCodigo",
+    "full_name": "fferegrino/SubeCodigo",
+    "html_url": "https://github.com/fferegrino/SubeCodigo",
+    "description": "Un tutorial de cómo subir código a GitHub",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 21008
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 50.26,
+    "S_code": 20.52,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "Club",
+    "full_name": "fferegrino/Club",
+    "html_url": "https://github.com/fferegrino/Club",
+    "description": "App del Club de Algoritmia de la ESCOM",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4866265,
+      "CSS": 2210629,
+      "C#": 421225,
+      "HTML": 100525,
+      "CoffeeScript": 28970,
+      "PowerShell": 8166,
+      "GCC Machine Description": 482
+    },
+    "contributions_by_user": 118,
+    "contribution_score": 4908.64,
+    "S_code": 7457.29,
+    "S_social": 0,
+    "S_maint": 118
+  },
+  {
+    "name": "appod",
+    "full_name": "fferegrino/appod",
+    "html_url": "https://github.com/fferegrino/appod",
+    "description": "Yet another APOD app.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 217092
+    },
+    "contributions_by_user": 40,
+    "contribution_score": 506.0,
+    "S_code": 212.0,
+    "S_social": 0,
+    "S_maint": 40
+  },
+  {
+    "name": "ios-autolayout-fundamentals",
+    "full_name": "fferegrino/ios-autolayout-fundamentals",
+    "html_url": "https://github.com/fferegrino/ios-autolayout-fundamentals",
+    "description": "Sources from the iOS Auto Layout: Fundamentals course",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 26718
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 193.05,
+    "S_code": 26.09,
+    "S_social": 0,
+    "S_maint": 18
+  },
+  {
+    "name": "MarkdownView",
+    "full_name": "fferegrino/MarkdownView",
+    "html_url": "https://github.com/fferegrino/MarkdownView",
+    "description": "MarkdownView is an Android webview with the capablity of loading Markdown text or file and display it as HTML, it uses MarkdownJ and extends Android webview.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 16926,
+      "Java": 14446
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.32,
+    "S_code": 30.64,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "custom-renderers-talk",
+    "full_name": "fferegrino/custom-renderers-talk",
+    "html_url": "https://github.com/fferegrino/custom-renderers-talk",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 63480
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 111.0,
+    "S_code": 61.99,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "netmf-lights",
+    "full_name": "fferegrino/netmf-lights",
+    "html_url": "https://github.com/fferegrino/netmf-lights",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jekyll-taggen",
+    "full_name": "fferegrino/jekyll-taggen",
+    "html_url": "https://github.com/fferegrino/jekyll-taggen",
+    "description": "A tag pages generator for Jekyll.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 1382,
+      "HTML": 416
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.88,
+    "S_code": 1.76,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "pcls",
+    "full_name": "fferegrino/pcls",
+    "html_url": "https://github.com/fferegrino/pcls",
+    "description": "Demostration of Portable Class Libraries",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 319920,
+      "C#": 30156,
+      "CSS": 25792,
+      "ASP": 2647
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 224.82,
+    "S_code": 369.64,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "Lev",
+    "full_name": "fferegrino/Lev",
+    "html_url": "https://github.com/fferegrino/Lev",
+    "description": "Code for the Mobile C# dev workshop.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 30165
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 54.73,
+    "S_code": 29.46,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "snippets",
+    "full_name": "fferegrino/snippets",
+    "html_url": "https://github.com/fferegrino/snippets",
+    "description": "Mis snippets para Visual Studio",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 18,
+    "contribution_score": 180.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 18
+  },
+  {
+    "name": "doorduino",
+    "full_name": "fferegrino/doorduino",
+    "html_url": "https://github.com/fferegrino/doorduino",
+    "description": "Is this even a thing?",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 22923
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 151.19,
+    "S_code": 22.39,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "parse-dotnetmf",
+    "full_name": "fferegrino/parse-dotnetmf",
+    "html_url": "https://github.com/fferegrino/parse-dotnetmf",
+    "description": "A dot-net-micro-framework way to interact with Parse",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 8058
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 43.93,
+    "S_code": 7.87,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "edutor-tt",
+    "full_name": "fferegrino/edutor-tt",
+    "html_url": "https://github.com/fferegrino/edutor-tt",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 629158,
+      "Pascal": 146342,
+      "PowerShell": 21575,
+      "HTML": 10275,
+      "CSS": 5407,
+      "Puppet": 4874,
+      "ASP": 108
+    },
+    "contributions_by_user": 146,
+    "contribution_score": 1859.29,
+    "S_code": 798.57,
+    "S_social": 0,
+    "S_maint": 146
+  },
+  {
+    "name": "MyLightbulb",
+    "full_name": "fferegrino/MyLightbulb",
+    "html_url": "https://github.com/fferegrino/MyLightbulb",
+    "description": "Interfacing from a Xamarin.Forms app to a Netduino via sockets (proof of concept)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 27065
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 133.22,
+    "S_code": 26.43,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "Xevenshtein",
+    "full_name": "fferegrino/Xevenshtein",
+    "html_url": "https://github.com/fferegrino/Xevenshtein",
+    "description": "Simple how-to app made with Xamarin and Love",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 24575
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 212.0,
+    "S_code": 24.0,
+    "S_social": 0,
+    "S_maint": 20
+  },
+  {
+    "name": "vs-templates",
+    "full_name": "fferegrino/vs-templates",
+    "html_url": "https://github.com/fferegrino/vs-templates",
+    "description": "My Visual Studio templates",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 636
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.31,
+    "S_code": 0.62,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "intro-cs-vs",
+    "full_name": "fferegrino/intro-cs-vs",
+    "html_url": "https://github.com/fferegrino/intro-cs-vs",
+    "description": "Introducción a C# y Visual Studio",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 12403
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 176.06,
+    "S_code": 12.11,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "Xamarin.Forms-Tests",
+    "full_name": "fferegrino/Xamarin.Forms-Tests",
+    "html_url": "https://github.com/fferegrino/Xamarin.Forms-Tests",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 20156
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.84,
+    "S_code": 19.68,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "xevenshtein-demo",
+    "full_name": "fferegrino/xevenshtein-demo",
+    "html_url": "https://github.com/fferegrino/xevenshtein-demo",
+    "description": "Simple aplicación demo de Xamarin",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 16899
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 38.25,
+    "S_code": 16.5,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "p-micros",
+    "full_name": "fferegrino/p-micros",
+    "html_url": "https://github.com/fferegrino/p-micros",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Makefile": 19385,
+      "D": 16614,
+      "C": 3316
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 89.2,
+    "S_code": 38.39,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "ukranio",
+    "full_name": "fferegrino/ukranio",
+    "html_url": "https://github.com/fferegrino/ukranio",
+    "description": "Prácticas de la UA",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C++": 83914,
+      "Makefile": 4049,
+      "C": 2506,
+      "Java": 1562
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 178.94,
+    "S_code": 89.87,
+    "S_social": 2,
+    "S_maint": 13
+  },
+  {
+    "name": "typescript-salesman-problem",
+    "full_name": "fferegrino/typescript-salesman-problem",
+    "html_url": "https://github.com/fferegrino/typescript-salesman-problem",
+    "description": "A port of fferegrino/tsp to TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 28931,
+      "TypeScript": 17035,
+      "CSS": 87
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 72.49,
+    "S_code": 44.97,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "falling-dodge",
+    "full_name": "fferegrino/falling-dodge",
+    "html_url": "https://github.com/fferegrino/falling-dodge",
+    "description": "Falling Dodge The Game",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 749144,
+      "CSS": 17558,
+      "C++": 2473
+    },
+    "contributions_by_user": 62,
+    "contribution_score": 995.57,
+    "S_code": 751.15,
+    "S_social": 0,
+    "S_maint": 62
+  },
+  {
+    "name": "localize",
+    "full_name": "fferegrino/localize",
+    "html_url": "https://github.com/fferegrino/localize",
+    "description": "A plugin for Construct2 to add localized strings to your game",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 17773
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 178.68,
+    "S_code": 17.36,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "kruskal-cpp2",
+    "full_name": "fferegrino/kruskal-cpp2",
+    "html_url": "https://github.com/fferegrino/kruskal-cpp2",
+    "description": "A simple app that shows the power of C++ and Construct 2",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 489331,
+      "C++": 3375
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 350.58,
+    "S_code": 481.16,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "android-ws",
+    "full_name": "fferegrino/android-ws",
+    "html_url": "https://github.com/fferegrino/android-ws",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 16619
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.11,
+    "S_code": 16.23,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "puroac",
+    "full_name": "fferegrino/puroac",
+    "html_url": "https://github.com/fferegrino/puroac",
+    "description": "Blogger template & post from http://puroac.blogspot.mx/",
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 4.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "blog-w8-app",
+    "full_name": "fferegrino/blog-w8-app",
+    "html_url": "https://github.com/fferegrino/blog-w8-app",
+    "description": "Aplicación en Javascript que lee el RSS de mi blog: http://blog.fferegrino.org",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 44650,
+      "CSS": 21255
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 42.18,
+    "S_code": 64.36,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "bluepointer-android",
+    "full_name": "fferegrino/bluepointer-android",
+    "html_url": "https://github.com/fferegrino/bluepointer-android",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 30809
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.04,
+    "S_code": 30.09,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tac-o-metro",
+    "full_name": "fferegrino/tac-o-metro",
+    "html_url": "https://github.com/fferegrino/tac-o-metro",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 19295
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.42,
+    "S_code": 18.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bluepointer-java-server",
+    "full_name": "fferegrino/bluepointer-java-server",
+    "html_url": "https://github.com/fferegrino/bluepointer-java-server",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 4299
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.1,
+    "S_code": 4.2,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "edithor",
+    "full_name": "fferegrino/edithor",
+    "html_url": "https://github.com/fferegrino/edithor",
+    "description": "A concurrent text editor (made for a school project), now is getting bigger.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 67461
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 52.94,
+    "S_code": 65.88,
+    "S_social": 0,
+    "S_maint": 2
+  }
+]

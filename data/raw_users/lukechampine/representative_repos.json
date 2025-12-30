@@ -1,0 +1,1601 @@
+[
+  {
+    "name": "jsteg",
+    "full_name": "lukechampine/jsteg",
+    "html_url": "https://github.com/lukechampine/jsteg",
+    "description": "JPEG steganography",
+    "stars": 635,
+    "forks": 38,
+    "languages": {
+      "Go": 63050
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 1702.79,
+    "S_code": 61.57,
+    "S_social": 711,
+    "S_maint": 25
+  },
+  {
+    "name": "blake3",
+    "full_name": "lukechampine/blake3",
+    "html_url": "https://github.com/lukechampine/blake3",
+    "description": "An AVX-512 accelerated implementation of the BLAKE3 cryptographic hash function",
+    "stars": 407,
+    "forks": 30,
+    "languages": {
+      "Assembly": 130047,
+      "Go": 65972
+    },
+    "contributions_by_user": 55,
+    "contribution_score": 1579.71,
+    "S_code": 191.42,
+    "S_social": 467,
+    "S_maint": 55
+  },
+  {
+    "name": "geiger",
+    "full_name": "lukechampine/geiger",
+    "html_url": "https://github.com/lukechampine/geiger",
+    "description": "A Geiger counter for allocations",
+    "stars": 276,
+    "forks": 6,
+    "languages": {
+      "Go": 2038
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 637.0,
+    "S_code": 1.99,
+    "S_social": 288,
+    "S_maint": 6
+  },
+  {
+    "name": "uint128",
+    "full_name": "lukechampine/uint128",
+    "html_url": "https://github.com/lukechampine/uint128",
+    "description": "uint128 for Go",
+    "stars": 261,
+    "forks": 29,
+    "languages": {
+      "Go": 25427
+    },
+    "contributions_by_user": 28,
+    "contribution_score": 930.42,
+    "S_code": 24.83,
+    "S_social": 319,
+    "S_maint": 28
+  },
+  {
+    "name": "stm",
+    "full_name": "lukechampine/stm",
+    "html_url": "https://github.com/lukechampine/stm",
+    "description": "Software Transactional Memory in Go",
+    "stars": 188,
+    "forks": 2,
+    "languages": {
+      "Go": 18736
+    },
+    "contributions_by_user": 35,
+    "contribution_score": 743.15,
+    "S_code": 18.3,
+    "S_social": 192,
+    "S_maint": 35
+  },
+  {
+    "name": "freeze",
+    "full_name": "lukechampine/freeze",
+    "html_url": "https://github.com/lukechampine/freeze",
+    "description": "An immutability helper for Go",
+    "stars": 141,
+    "forks": 3,
+    "languages": {
+      "Go": 19738
+    },
+    "contributions_by_user": 27,
+    "contribution_score": 573.64,
+    "S_code": 19.28,
+    "S_social": 147,
+    "S_maint": 27
+  },
+  {
+    "name": "ply",
+    "full_name": "lukechampine/ply",
+    "html_url": "https://github.com/lukechampine/ply",
+    "description": "Painless polymorphism",
+    "stars": 127,
+    "forks": 3,
+    "languages": {
+      "Go": 550043,
+      "Makefile": 238
+    },
+    "contributions_by_user": 88,
+    "contribution_score": 1414.69,
+    "S_code": 537.38,
+    "S_social": 133,
+    "S_maint": 88
+  },
+  {
+    "name": "frand",
+    "full_name": "lukechampine/frand",
+    "html_url": "https://github.com/lukechampine/frand",
+    "description": "A fast userspace CSPRNG",
+    "stars": 92,
+    "forks": 12,
+    "languages": {
+      "Go": 24225
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 453.83,
+    "S_code": 23.66,
+    "S_social": 116,
+    "S_maint": 21
+  },
+  {
+    "name": "adiantum",
+    "full_name": "lukechampine/adiantum",
+    "html_url": "https://github.com/lukechampine/adiantum",
+    "description": "Go implementation of Adiantum",
+    "stars": 90,
+    "forks": 8,
+    "languages": {
+      "Assembly": 56086,
+      "Go": 43865
+    },
+    "contributions_by_user": 37,
+    "contribution_score": 630.8,
+    "S_code": 97.61,
+    "S_social": 106,
+    "S_maint": 37
+  },
+  {
+    "name": "lthash",
+    "full_name": "lukechampine/lthash",
+    "html_url": "https://github.com/lukechampine/lthash",
+    "description": "A homomorphic hash function",
+    "stars": 82,
+    "forks": 11,
+    "languages": {
+      "Go": 7188
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 231.51,
+    "S_code": 7.02,
+    "S_social": 104,
+    "S_maint": 2
+  },
+  {
+    "name": "fastxor",
+    "full_name": "lukechampine/fastxor",
+    "html_url": "https://github.com/lukechampine/fastxor",
+    "description": "The fastest way to xor bytes in Go",
+    "stars": 74,
+    "forks": 4,
+    "languages": {
+      "Go": 8709,
+      "Assembly": 3265
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 269.85,
+    "S_code": 11.69,
+    "S_social": 82,
+    "S_maint": 10
+  },
+  {
+    "name": "few",
+    "full_name": "lukechampine/few",
+    "html_url": "https://github.com/lukechampine/few",
+    "description": "Fastest Encoder in the West",
+    "stars": 65,
+    "forks": 1,
+    "languages": {
+      "Go": 9569
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 298.67,
+    "S_code": 9.34,
+    "S_social": 67,
+    "S_maint": 16
+  },
+  {
+    "name": "flagg",
+    "full_name": "lukechampine/flagg",
+    "html_url": "https://github.com/lukechampine/flagg",
+    "description": "Barebones subcommand handling",
+    "stars": 64,
+    "forks": 3,
+    "languages": {
+      "Go": 3341
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 291.63,
+    "S_code": 3.26,
+    "S_social": 70,
+    "S_maint": 15
+  },
+  {
+    "name": "randmap",
+    "full_name": "lukechampine/randmap",
+    "html_url": "https://github.com/lukechampine/randmap",
+    "description": "Truly random map access and iteration for Go (OUTDATED -- FOR EDUCATIONAL PURPOSES ONLY)",
+    "stars": 61,
+    "forks": 8,
+    "languages": {
+      "Go": 36383
+    },
+    "contributions_by_user": 27,
+    "contribution_score": 441.77,
+    "S_code": 35.53,
+    "S_social": 77,
+    "S_maint": 27
+  },
+  {
+    "name": "noescape",
+    "full_name": "lukechampine/noescape",
+    "html_url": "https://github.com/lukechampine/noescape",
+    "description": "Promise to the Go compiler that your Reads and Writes are well-behaved",
+    "stars": 60,
+    "forks": 6,
+    "languages": {
+      "Go": 2612,
+      "Assembly": 1774
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 156.14,
+    "S_code": 4.28,
+    "S_social": 72,
+    "S_maint": 1
+  },
+  {
+    "name": "intersort",
+    "full_name": "lukechampine/intersort",
+    "html_url": "https://github.com/lukechampine/intersort",
+    "description": "Sort anything. (Warning: cursed)",
+    "stars": 58,
+    "forks": 2,
+    "languages": {
+      "Go": 4443
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 166.17,
+    "S_code": 4.34,
+    "S_social": 62,
+    "S_maint": 4
+  },
+  {
+    "name": "us",
+    "full_name": "lukechampine/us",
+    "html_url": "https://github.com/lukechampine/us",
+    "description": "An alternative interface to Sia",
+    "stars": 56,
+    "forks": 4,
+    "languages": {
+      "Go": 1083219,
+      "Assembly": 53328,
+      "Shell": 858,
+      "Makefile": 510
+    },
+    "contributions_by_user": 513,
+    "contribution_score": 5813.62,
+    "S_code": 1111.25,
+    "S_social": 64,
+    "S_maint": 513
+  },
+  {
+    "name": "merkle",
+    "full_name": "lukechampine/merkle",
+    "html_url": "https://github.com/lukechampine/merkle",
+    "description": "Merkle root algorithms in various languages",
+    "stars": 41,
+    "forks": 4,
+    "languages": {
+      "C": 11021,
+      "Go": 3597,
+      "Zig": 1798,
+      "Rust": 1738,
+      "Haskell": 658,
+      "D": 618,
+      "Perl": 452
+    },
+    "contributions_by_user": 31,
+    "contribution_score": 417.71,
+    "S_code": 19.42,
+    "S_social": 49,
+    "S_maint": 31
+  },
+  {
+    "name": "advent",
+    "full_name": "lukechampine/advent",
+    "html_url": "https://github.com/lukechampine/advent",
+    "description": "Advent of Code solutions",
+    "stars": 39,
+    "forks": 1,
+    "languages": {
+      "Go": 1635720,
+      "Zig": 41179,
+      "Rust": 36506,
+      "Haskell": 9870,
+      "Assembly": 503,
+      "hoon": 201
+    },
+    "contributions_by_user": 228,
+    "contribution_score": 3203.79,
+    "S_code": 1683.57,
+    "S_social": 41,
+    "S_maint": 228
+  },
+  {
+    "name": "slouch",
+    "full_name": "lukechampine/slouch",
+    "html_url": "https://github.com/lukechampine/slouch",
+    "description": "A competitive programming language (WIP -- MAY CONTAIN HIDEOUS CODE)",
+    "stars": 32,
+    "forks": 3,
+    "languages": {
+      "Go": 182664
+    },
+    "contributions_by_user": 55,
+    "contribution_score": 715.19,
+    "S_code": 178.38,
+    "S_social": 38,
+    "S_maint": 55
+  },
+  {
+    "name": "rote",
+    "full_name": "lukechampine/rote",
+    "html_url": "https://github.com/lukechampine/rote",
+    "description": "A flashcard app for Landscape",
+    "stars": 31,
+    "forks": 4,
+    "languages": {
+      "JavaScript": 2966024,
+      "hoon": 37760,
+      "CSS": 4657,
+      "HTML": 447
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 1727.18,
+    "S_code": 2938.37,
+    "S_social": 39,
+    "S_maint": 18
+  },
+  {
+    "name": "goldilocks",
+    "full_name": "lukechampine/goldilocks",
+    "html_url": "https://github.com/lukechampine/goldilocks",
+    "description": "Find your habitable zone",
+    "stars": 29,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4348,
+      "HTML": 3943,
+      "CSS": 2128
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 83.09,
+    "S_code": 10.17,
+    "S_social": 29,
+    "S_maint": 2
+  },
+  {
+    "name": "hey",
+    "full_name": "lukechampine/hey",
+    "html_url": "https://github.com/lukechampine/hey",
+    "description": "Hey!",
+    "stars": 25,
+    "forks": 3,
+    "languages": {
+      "Go": 2161
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 123.06,
+    "S_code": 2.11,
+    "S_social": 31,
+    "S_maint": 6
+  },
+  {
+    "name": "jr",
+    "full_name": "lukechampine/jr",
+    "html_url": "https://github.com/lukechampine/jr",
+    "description": "A tiny Command Line Interface JavaScript Object Notation Remote Procedure Call client",
+    "stars": 16,
+    "forks": 0,
+    "languages": {
+      "Go": 2787
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 133.36,
+    "S_code": 2.72,
+    "S_social": 16,
+    "S_maint": 10
+  },
+  {
+    "name": "walrus",
+    "full_name": "lukechampine/walrus",
+    "html_url": "https://github.com/lukechampine/walrus",
+    "description": "A wallet server for Sia",
+    "stars": 12,
+    "forks": 0,
+    "languages": {
+      "Go": 54742,
+      "Makefile": 627,
+      "Dockerfile": 351
+    },
+    "contributions_by_user": 55,
+    "contribution_score": 601.21,
+    "S_code": 54.41,
+    "S_social": 12,
+    "S_maint": 55
+  },
+  {
+    "name": "go-urbit",
+    "full_name": "lukechampine/go-urbit",
+    "html_url": "https://github.com/lukechampine/go-urbit",
+    "description": "Go + Urbit",
+    "stars": 12,
+    "forks": 2,
+    "languages": {
+      "Go": 66219
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 174.33,
+    "S_code": 64.67,
+    "S_social": 16,
+    "S_maint": 11
+  },
+  {
+    "name": "user",
+    "full_name": "lukechampine/user",
+    "html_url": "https://github.com/lukechampine/user",
+    "description": "A CLI renter for Sia",
+    "stars": 12,
+    "forks": 2,
+    "languages": {
+      "Go": 39103,
+      "Makefile": 887,
+      "Dockerfile": 341
+    },
+    "contributions_by_user": 40,
+    "contribution_score": 451.69,
+    "S_code": 39.39,
+    "S_social": 16,
+    "S_maint": 40
+  },
+  {
+    "name": "muse",
+    "full_name": "lukechampine/muse",
+    "html_url": "https://github.com/lukechampine/muse",
+    "description": "A contract server for Sia",
+    "stars": 10,
+    "forks": 1,
+    "languages": {
+      "Go": 56180,
+      "Makefile": 926,
+      "Dockerfile": 341
+    },
+    "contributions_by_user": 37,
+    "contribution_score": 422.05,
+    "S_code": 56.1,
+    "S_social": 12,
+    "S_maint": 37
+  },
+  {
+    "name": "httprpc",
+    "full_name": "lukechampine/httprpc",
+    "html_url": "https://github.com/lukechampine/httprpc",
+    "description": "An HTTP wrapper for net/rpc",
+    "stars": 8,
+    "forks": 1,
+    "languages": {
+      "Go": 4816
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 72.35,
+    "S_code": 4.7,
+    "S_social": 10,
+    "S_maint": 5
+  },
+  {
+    "name": "nock",
+    "full_name": "lukechampine/nock",
+    "html_url": "https://github.com/lukechampine/nock",
+    "description": "A simple Nock interpreter in Go",
+    "stars": 7,
+    "forks": 2,
+    "languages": {
+      "Go": 8634
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 56.22,
+    "S_code": 8.43,
+    "S_social": 11,
+    "S_maint": 3
+  },
+  {
+    "name": "ascon",
+    "full_name": "lukechampine/ascon",
+    "html_url": "https://github.com/lukechampine/ascon",
+    "description": null,
+    "stars": 6,
+    "forks": 1,
+    "languages": {
+      "Go": 8707
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 30.25,
+    "S_code": 8.5,
+    "S_social": 8,
+    "S_maint": 1
+  },
+  {
+    "name": "caller",
+    "full_name": "lukechampine/caller",
+    "html_url": "https://github.com/lukechampine/caller",
+    "description": "Nicely-formatted callstack strings",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Go": 4127
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 162.02,
+    "S_code": 4.03,
+    "S_social": 5,
+    "S_maint": 15
+  },
+  {
+    "name": "ADHN",
+    "full_name": "lukechampine/ADHN",
+    "html_url": "https://github.com/lukechampine/ADHN",
+    "description": "Inline summaries on the HN front page",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 2995
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 165.46,
+    "S_code": 2.92,
+    "S_social": 7,
+    "S_maint": 15
+  },
+  {
+    "name": "barbershop",
+    "full_name": "lukechampine/barbershop",
+    "html_url": "https://github.com/lukechampine/barbershop",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Go": 86162
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 158.07,
+    "S_code": 84.14,
+    "S_social": 3,
+    "S_maint": 11
+  },
+  {
+    "name": "walrus-cli",
+    "full_name": "lukechampine/walrus-cli",
+    "html_url": "https://github.com/lukechampine/walrus-cli",
+    "description": "A client for the walrus wallet server",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Go": 25634,
+      "Makefile": 721
+    },
+    "contributions_by_user": 44,
+    "contribution_score": 458.87,
+    "S_code": 25.74,
+    "S_social": 3,
+    "S_maint": 44
+  },
+  {
+    "name": "tenten",
+    "full_name": "lukechampine/tenten",
+    "html_url": "https://github.com/lukechampine/tenten",
+    "description": "A 1010! AI",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Go": 14409
+    },
+    "contributions_by_user": 30,
+    "contribution_score": 313.04,
+    "S_code": 14.07,
+    "S_social": 3,
+    "S_maint": 30
+  },
+  {
+    "name": "mkvsynth",
+    "full_name": "lukechampine/mkvsynth",
+    "html_url": "https://github.com/lukechampine/mkvsynth",
+    "description": "Linux Video Processing",
+    "stars": 3,
+    "forks": 3,
+    "languages": {
+      "C": 269518,
+      "C++": 12090,
+      "Shell": 319
+    },
+    "contributions_by_user": 265,
+    "contribution_score": 2805.66,
+    "S_code": 275.32,
+    "S_social": 9,
+    "S_maint": 265
+  },
+  {
+    "name": "lite3",
+    "full_name": "lukechampine/lite3",
+    "html_url": "https://github.com/lukechampine/lite3",
+    "description": "An implementation of the Lite³ serialization format",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Go": 31459
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 159.36,
+    "S_code": 30.72,
+    "S_social": 2,
+    "S_maint": 14
+  },
+  {
+    "name": "upnp",
+    "full_name": "lukechampine/upnp",
+    "html_url": "https://github.com/lukechampine/upnp",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Go": 13316
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 40.5,
+    "S_code": 13.0,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "shard",
+    "full_name": "lukechampine/shard",
+    "html_url": "https://github.com/lukechampine/shard",
+    "description": "A host announcement relay daemon for Sia",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Go": 18017,
+      "Makefile": 908,
+      "Dockerfile": 346
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 213.41,
+    "S_code": 18.82,
+    "S_social": 2,
+    "S_maint": 20
+  },
+  {
+    "name": "Streaming-Merkle-Trees-Paper",
+    "full_name": "lukechampine/Streaming-Merkle-Trees-Paper",
+    "html_url": "https://github.com/lukechampine/Streaming-Merkle-Trees-Paper",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TeX": 34469
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 30.83,
+    "S_code": 33.66,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "pool",
+    "full_name": "lukechampine/pool",
+    "html_url": "https://github.com/lukechampine/pool",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Go": 14558
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 145.11,
+    "S_code": 14.22,
+    "S_social": 4,
+    "S_maint": 13
+  },
+  {
+    "name": "dispel",
+    "full_name": "lukechampine/dispel",
+    "html_url": "https://github.com/lukechampine/dispel",
+    "description": "A searchable online image database",
+    "stars": 2,
+    "forks": 3,
+    "languages": {
+      "Go": 29269,
+      "CSS": 1194,
+      "JavaScript": 176
+    },
+    "contributions_by_user": 52,
+    "contribution_score": 550.96,
+    "S_code": 29.92,
+    "S_social": 8,
+    "S_maint": 52
+  },
+  {
+    "name": "threadgroup",
+    "full_name": "lukechampine/threadgroup",
+    "html_url": "https://github.com/lukechampine/threadgroup",
+    "description": "A shutdown facilitator for Go",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Go": 8054
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 67.93,
+    "S_code": 7.87,
+    "S_social": 2,
+    "S_maint": 6
+  },
+  {
+    "name": "kyu",
+    "full_name": "lukechampine/kyu",
+    "html_url": "https://github.com/lukechampine/kyu",
+    "description": "A tracing micropackage",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 12.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "specifics",
+    "full_name": "lukechampine/specifics",
+    "html_url": "https://github.com/lukechampine/specifics",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Go": 936
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.46,
+    "S_code": 0.91,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "sialedger",
+    "full_name": "lukechampine/sialedger",
+    "html_url": "https://github.com/lukechampine/sialedger",
+    "description": "Go interface to the Sia Ledger Nano S app",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Go": 8027
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 25.92,
+    "S_code": 7.84,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "us-bindings",
+    "full_name": "lukechampine/us-bindings",
+    "html_url": "https://github.com/lukechampine/us-bindings",
+    "description": "Various bindings for https://github.com/lukechampine/us",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Go": 23556,
+      "Python": 9410,
+      "Ruby": 4068,
+      "C": 1753,
+      "Makefile": 224
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 205.05,
+    "S_code": 38.1,
+    "S_social": 3,
+    "S_maint": 18
+  },
+  {
+    "name": "mjson",
+    "full_name": "lukechampine/mjson",
+    "html_url": "https://github.com/lukechampine/mjson",
+    "description": "Modify JSON super fast",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Go": 32105
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 47.68,
+    "S_code": 31.35,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "jj",
+    "full_name": "lukechampine/jj",
+    "html_url": "https://github.com/lukechampine/jj",
+    "description": "The JSON Journal",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Go": 9550
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 186.66,
+    "S_code": 9.33,
+    "S_social": 1,
+    "S_maint": 18
+  },
+  {
+    "name": "0hh1",
+    "full_name": "lukechampine/0hh1",
+    "html_url": "https://github.com/lukechampine/0hh1",
+    "description": "Automated solver for http://0hh1.com",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Go": 3417
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 17.67,
+    "S_code": 3.34,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "algo",
+    "full_name": "lukechampine/algo",
+    "html_url": "https://github.com/lukechampine/algo",
+    "description": "Fooling around with animation in Go",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Go": 9903
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 226.84,
+    "S_code": 9.67,
+    "S_social": 1,
+    "S_maint": 22
+  },
+  {
+    "name": "silicon",
+    "full_name": "lukechampine/silicon",
+    "html_url": "https://github.com/lukechampine/silicon",
+    "description": "modal fork of sandy",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 75730
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 268.98,
+    "S_code": 73.96,
+    "S_social": 1,
+    "S_maint": 23
+  },
+  {
+    "name": "nockchain",
+    "full_name": "lukechampine/nockchain",
+    "html_url": "https://github.com/lukechampine/nockchain",
+    "description": "Nockchain protocol monorepo",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 2701861,
+      "hoon": 1718305,
+      "C": 8324,
+      "TeX": 5909,
+      "Makefile": 3416,
+      "Nix": 2637,
+      "Shell": 1406
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2168.88,
+    "S_code": 4337.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "m2c",
+    "full_name": "lukechampine/m2c",
+    "html_url": "https://github.com/lukechampine/m2c",
+    "description": "A MIPS and PowerPC decompiler.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1497628,
+      "Assembly": 932252,
+      "C": 192873,
+      "C++": 674
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1280.97,
+    "S_code": 2561.94,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "melee",
+    "full_name": "lukechampine/melee",
+    "html_url": "https://github.com/lukechampine/melee",
+    "description": "A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 7997878,
+      "Python": 397996,
+      "CSS": 73450,
+      "Rust": 53799,
+      "JavaScript": 23422,
+      "Nix": 14502,
+      "HTML": 9201,
+      "Shell": 4385,
+      "Assembly": 4380,
+      "C++": 2744,
+      "Vim Script": 553,
+      "Makefile": 101
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4190.63,
+    "S_code": 8381.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "torrent",
+    "full_name": "lukechampine/torrent",
+    "html_url": "https://github.com/lukechampine/torrent",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "martian.engineering",
+    "full_name": "lukechampine/martian.engineering",
+    "html_url": "https://github.com/lukechampine/martian.engineering",
+    "description": "our website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 11057,
+      "CSS": 1712,
+      "JavaScript": 835
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.64,
+    "S_code": 13.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lipgloss",
+    "full_name": "lukechampine/lipgloss",
+    "html_url": "https://github.com/lukechampine/lipgloss",
+    "description": "Style definitions for nice terminal layouts 👄",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 218358
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 106.62,
+    "S_code": 213.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "urcrypt",
+    "full_name": "lukechampine/urcrypt",
+    "html_url": "https://github.com/lukechampine/urcrypt",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 489475,
+      "M4": 4386,
+      "Makefile": 3831,
+      "PowerShell": 2511,
+      "Shell": 2008,
+      "Roff": 1538,
+      "Meson": 857,
+      "QMake": 308
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 246.54,
+    "S_code": 493.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bbolt",
+    "full_name": "lukechampine/bbolt",
+    "html_url": "https://github.com/lukechampine/bbolt",
+    "description": "An embedded key/value database for Go.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 346182,
+      "Makefile": 744
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 169.4,
+    "S_code": 338.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vere",
+    "full_name": "lukechampine/vere",
+    "html_url": "https://github.com/lukechampine/vere",
+    "description": "An implementation of the Urbit runtime",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 1880802,
+      "Starlark": 64039,
+      "Shell": 2254
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 950.73,
+    "S_code": 1901.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "urbit",
+    "full_name": "lukechampine/urbit",
+    "html_url": "https://github.com/lukechampine/urbit",
+    "description": "An operating function",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 1692301,
+      "Haskell": 497548,
+      "JavaScript": 478179,
+      "TypeScript": 112326,
+      "Nix": 94099,
+      "C++": 79427,
+      "Shell": 71453,
+      "Ruby": 34231,
+      "CSS": 23752,
+      "Python": 15977,
+      "Vim Script": 15955,
+      "Emacs Lisp": 6153,
+      "CMake": 4685,
+      "Makefile": 4073,
+      "HTML": 2205
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1529.47,
+    "S_code": 3058.95,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "crypto",
+    "full_name": "lukechampine/crypto",
+    "html_url": "https://github.com/lukechampine/crypto",
+    "description": "[mirror] Go supplementary cryptography libraries",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 2698167,
+      "Assembly": 287752,
+      "C": 10847
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1463.26,
+    "S_code": 2926.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ledger-app-sia",
+    "full_name": "lukechampine/ledger-app-sia",
+    "html_url": "https://github.com/lukechampine/ledger-app-sia",
+    "description": "The official Sia app for the Ledger Nano S",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 83196,
+      "Go": 11744,
+      "Makefile": 2099
+    },
+    "contributions_by_user": 43,
+    "contribution_score": 477.38,
+    "S_code": 94.76,
+    "S_social": 0,
+    "S_maint": 43
+  },
+  {
+    "name": "go-do255",
+    "full_name": "lukechampine/go-do255",
+    "html_url": "https://github.com/lukechampine/go-do255",
+    "description": "Implementation of do255e and do255s in Go",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 360070
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 175.82,
+    "S_code": 351.63,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ed25519consensus",
+    "full_name": "lukechampine/ed25519consensus",
+    "html_url": "https://github.com/lukechampine/ed25519consensus",
+    "description": "Go Ed25519 suitable for use in consensus-critical contexts.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 184522
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 90.1,
+    "S_code": 180.2,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "edwards25519",
+    "full_name": "lukechampine/edwards25519",
+    "html_url": "https://github.com/lukechampine/edwards25519",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 219664,
+      "Assembly": 7848
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 111.09,
+    "S_code": 222.18,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "avo",
+    "full_name": "lukechampine/avo",
+    "html_url": "https://github.com/lukechampine/avo",
+    "description": "Generate x86 Assembly with Go",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 321624,
+      "Assembly": 294292,
+      "Shell": 7023
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 304.17,
+    "S_code": 608.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "go-ethereum",
+    "full_name": "lukechampine/go-ethereum",
+    "html_url": "https://github.com/lukechampine/go-ethereum",
+    "description": "Official Go implementation of the Ethereum protocol",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 9287723,
+      "C": 580024,
+      "JavaScript": 437218,
+      "C++": 93756,
+      "Assembly": 63614,
+      "Python": 36176,
+      "Java": 30290,
+      "M4": 25931,
+      "NSIS": 23234,
+      "Solidity": 15309,
+      "Makefile": 11945,
+      "HTML": 11270,
+      "Shell": 2881,
+      "Ruby": 818,
+      "Dockerfile": 432
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5185.85,
+    "S_code": 10371.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "zig",
+    "full_name": "lukechampine/zig",
+    "html_url": "https://github.com/lukechampine/zig",
+    "description": "robust, optimal, and maintainable programming language",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Zig": 17114388,
+      "C++": 3613484,
+      "C": 187614,
+      "JavaScript": 71182,
+      "CMake": 37993,
+      "Shell": 17742,
+      "HTML": 15697,
+      "Batchfile": 1187
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10282.85,
+    "S_code": 20565.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "go",
+    "full_name": "lukechampine/go",
+    "html_url": "https://github.com/lukechampine/go",
+    "description": "The Go programming language",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 43170108,
+      "Assembly": 4326980,
+      "HTML": 2452191,
+      "C": 199928,
+      "Shell": 60659,
+      "Perl": 33439,
+      "JavaScript": 15627,
+      "Python": 14819,
+      "Batchfile": 7470,
+      "C++": 1761,
+      "Logos": 1248,
+      "RPC": 1163,
+      "Makefile": 748,
+      "Awk": 450,
+      "Fortran": 394,
+      "CSS": 8
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 24554.2,
+    "S_code": 49108.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lukechampine.github.io",
+    "full_name": "lukechampine/lukechampine.github.io",
+    "html_url": "https://github.com/lukechampine/lukechampine.github.io",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 130642
+    },
+    "contributions_by_user": 35,
+    "contribution_score": 413.79,
+    "S_code": 127.58,
+    "S_social": 0,
+    "S_maint": 35
+  },
+  {
+    "name": "siasync",
+    "full_name": "lukechampine/siasync",
+    "html_url": "https://github.com/lukechampine/siasync",
+    "description": "miniscule utility to sync a folder with Sia",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 15895,
+      "Makefile": 516
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.01,
+    "S_code": 16.03,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Sia",
+    "full_name": "lukechampine/Sia",
+    "html_url": "https://github.com/lukechampine/Sia",
+    "description": "Blockchain-based marketplace for file storage",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 2852065,
+      "Makefile": 4367,
+      "Shell": 1373
+    },
+    "contributions_by_user": 2633,
+    "contribution_score": 27725.41,
+    "S_code": 2790.83,
+    "S_social": 0,
+    "S_maint": 2633
+  },
+  {
+    "name": "talks",
+    "full_name": "lukechampine/talks",
+    "html_url": "https://github.com/lukechampine/talks",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 15467,
+      "HTML": 24
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 17.56,
+    "S_code": 15.13,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "sleep",
+    "full_name": "lukechampine/sleep",
+    "html_url": "https://github.com/lukechampine/sleep",
+    "description": "Sleep utilities for Go",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 1692
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.83,
+    "S_code": 1.65,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "minima",
+    "full_name": "lukechampine/minima",
+    "html_url": "https://github.com/lukechampine/minima",
+    "description": "A minimal Lisp",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 9577
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 144.68,
+    "S_code": 9.35,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "Sia-UI",
+    "full_name": "lukechampine/Sia-UI",
+    "html_url": "https://github.com/lukechampine/Sia-UI",
+    "description": "Desktop Application for interfacing Sia",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 139174,
+      "CSS": 133196,
+      "HTML": 12854
+    },
+    "contributions_by_user": 39,
+    "contribution_score": 529.27,
+    "S_code": 278.54,
+    "S_social": 0,
+    "S_maint": 39
+  },
+  {
+    "name": "override",
+    "full_name": "lukechampine/override",
+    "html_url": "https://github.com/lukechampine/override",
+    "description": "override pattern for Go",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 1185
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.58,
+    "S_code": 1.16,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "go-challenge",
+    "full_name": "lukechampine/go-challenge",
+    "html_url": "https://github.com/lukechampine/go-challenge",
+    "description": "My solutions to the Go Challenge",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 16426
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 38.02,
+    "S_code": 16.04,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "gomez",
+    "full_name": "lukechampine/gomez",
+    "html_url": "https://github.com/lukechampine/gomez",
+    "description": "Maze solver/colorizer",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Go": 4697
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 106.29,
+    "S_code": 4.59,
+    "S_social": 2,
+    "S_maint": 10
+  },
+  {
+    "name": "Sia-old",
+    "full_name": "lukechampine/Sia-old",
+    "html_url": "https://github.com/lukechampine/Sia-old",
+    "description": "Blocktree Based Market For Cloud Storage",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 314158,
+      "TeX": 35222,
+      "C": 3740
+    },
+    "contributions_by_user": 474,
+    "contribution_score": 4912.42,
+    "S_code": 344.84,
+    "S_social": 0,
+    "S_maint": 474
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "lukechampine/dotfiles",
+    "html_url": "https://github.com/lukechampine/dotfiles",
+    "description": "Self-explanatory",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 5992,
+      "Shell": 1547,
+      "Vim Script": 1251
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 104.29,
+    "S_code": 8.58,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "polyamory",
+    "full_name": "lukechampine/polyamory",
+    "html_url": "https://github.com/lukechampine/polyamory",
+    "description": "BF interpreters in every language I know",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Perl": 2714,
+      "Haskell": 2492,
+      "C": 2125,
+      "Go": 1458
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 244.29,
+    "S_code": 8.58,
+    "S_social": 0,
+    "S_maint": 24
+  },
+  {
+    "name": "PasteHack",
+    "full_name": "lukechampine/PasteHack",
+    "html_url": "https://github.com/lukechampine/PasteHack",
+    "description": "Persistant storage without server access",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3373
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 121.65,
+    "S_code": 3.29,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "ljstats",
+    "full_name": "lukechampine/ljstats",
+    "html_url": "https://github.com/lukechampine/ljstats",
+    "description": "Statistics and heatmaps for Lockjaw",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 5101
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 52.49,
+    "S_code": 4.98,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "alive",
+    "full_name": "lukechampine/alive",
+    "html_url": "https://github.com/lukechampine/alive",
+    "description": "Gain some perspective on your inevitable discorporation --",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5208,
+      "CSS": 141
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 102.61,
+    "S_code": 5.22,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "ProjectTox-Core",
+    "full_name": "lukechampine/ProjectTox-Core",
+    "html_url": "https://github.com/lukechampine/ProjectTox-Core",
+    "description": "Free as in freedom Skype replacement.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 776354,
+      "Shell": 2716
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 420.41,
+    "S_code": 760.81,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "toxic",
+    "full_name": "lukechampine/toxic",
+    "html_url": "https://github.com/lukechampine/toxic",
+    "description": "Reference CLI for Tox",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 92885,
+      "C++": 296
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 85.5,
+    "S_code": 91.0,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "ldwm",
+    "full_name": "lukechampine/ldwm",
+    "html_url": "https://github.com/lukechampine/ldwm",
+    "description": "less dynamic fork of dwm",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 49761,
+      "C++": 5056
+    },
+    "contributions_by_user": 31,
+    "contribution_score": 336.77,
+    "S_code": 53.53,
+    "S_social": 0,
+    "S_maint": 31
+  }
+]

@@ -1,0 +1,799 @@
+[
+  {
+    "name": "googerteller",
+    "full_name": "berthubert/googerteller",
+    "html_url": "https://github.com/berthubert/googerteller",
+    "description": "audible feedback on just how much your browsing feeds into google",
+    "stars": 2234,
+    "forks": 110,
+    "languages": {
+      "C++": 776866,
+      "C": 9657,
+      "Shell": 819,
+      "CMake": 779
+    },
+    "contributions_by_user": 41,
+    "contribution_score": 5702.82,
+    "S_code": 769.65,
+    "S_social": 2454,
+    "S_maint": 41
+  },
+  {
+    "name": "galmon",
+    "full_name": "berthubert/galmon",
+    "html_url": "https://github.com/berthubert/galmon",
+    "description": "galileo open source monitoring",
+    "stars": 217,
+    "forks": 54,
+    "languages": {
+      "C++": 1203894,
+      "JavaScript": 626594,
+      "HTML": 21952,
+      "Makefile": 7243,
+      "CSS": 6320,
+      "Shell": 2057,
+      "Dockerfile": 1135
+    },
+    "contributions_by_user": 137,
+    "contribution_score": 2932.69,
+    "S_code": 1825.39,
+    "S_social": 325,
+    "S_maint": 137
+  },
+  {
+    "name": "bnt162b2",
+    "full_name": "berthubert/bnt162b2",
+    "html_url": "https://github.com/berthubert/bnt162b2",
+    "description": "Markdown version of Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine",
+    "stars": 178,
+    "forks": 56,
+    "languages": {
+      "Jupyter Notebook": 118061,
+      "Go": 1864,
+      "Python": 1313
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 809.2,
+    "S_code": 118.4,
+    "S_social": 290,
+    "S_maint": 17
+  },
+  {
+    "name": "trifecta",
+    "full_name": "berthubert/trifecta",
+    "html_url": "https://github.com/berthubert/trifecta",
+    "description": "educational image sharing website built on a combination  of modern C++, web and database technologies",
+    "stars": 174,
+    "forks": 9,
+    "languages": {
+      "C++": 65154,
+      "HTML": 19508,
+      "JavaScript": 11797,
+      "CSS": 4868,
+      "Meson": 1198,
+      "Dockerfile": 179
+    },
+    "contributions_by_user": 194,
+    "contribution_score": 2374.15,
+    "S_code": 100.3,
+    "S_social": 192,
+    "S_maint": 194
+  },
+  {
+    "name": "simplomon",
+    "full_name": "berthubert/simplomon",
+    "html_url": "https://github.com/berthubert/simplomon",
+    "description": "Very simple monitoring system with a single configuration file",
+    "stars": 136,
+    "forks": 17,
+    "languages": {
+      "C++": 1319178,
+      "CSS": 4868,
+      "Meson": 3650,
+      "HTML": 2665,
+      "JavaScript": 1062,
+      "Dockerfile": 100
+    },
+    "contributions_by_user": 138,
+    "contribution_score": 2370.16,
+    "S_code": 1300.32,
+    "S_social": 170,
+    "S_maint": 138
+  },
+  {
+    "name": "bagconv",
+    "full_name": "berthubert/bagconv",
+    "html_url": "https://github.com/berthubert/bagconv",
+    "description": "Convert Dutch building/dwelling administration into a simpler format",
+    "stars": 87,
+    "forks": 9,
+    "languages": {
+      "C++": 1697270,
+      "HTML": 2750,
+      "Dockerfile": 1363,
+      "CMake": 832,
+      "Shell": 616,
+      "Python": 471
+    },
+    "contributions_by_user": 61,
+    "contribution_score": 1651.69,
+    "S_code": 1663.38,
+    "S_social": 105,
+    "S_maint": 61
+  },
+  {
+    "name": "hello-dl",
+    "full_name": "berthubert/hello-dl",
+    "html_url": "https://github.com/berthubert/hello-dl",
+    "description": null,
+    "stars": 76,
+    "forks": 8,
+    "languages": {
+      "C++": 668551,
+      "C": 666109,
+      "Jupyter Notebook": 16481,
+      "CMake": 4094
+    },
+    "contributions_by_user": 158,
+    "contribution_score": 2425.74,
+    "S_code": 1323.47,
+    "S_social": 92,
+    "S_maint": 158
+  },
+  {
+    "name": "gazproject",
+    "full_name": "berthubert/gazproject",
+    "html_url": "https://github.com/berthubert/gazproject",
+    "description": "plotting russian gas exports to Europe",
+    "stars": 71,
+    "forks": 11,
+    "languages": {
+      "Python": 28050,
+      "Jupyter Notebook": 23950,
+      "HTML": 10162,
+      "Shell": 8768
+    },
+    "contributions_by_user": 59,
+    "contribution_score": 810.63,
+    "S_code": 69.27,
+    "S_social": 93,
+    "S_maint": 59
+  },
+  {
+    "name": "tkconv",
+    "full_name": "berthubert/tkconv",
+    "html_url": "https://github.com/berthubert/tkconv",
+    "description": "convert dutch lower house of parliament data",
+    "stars": 68,
+    "forks": 16,
+    "languages": {
+      "C++": 576561,
+      "HTML": 54308,
+      "JavaScript": 19064,
+      "CSS": 8630,
+      "XSLT": 8473,
+      "Meson": 3479,
+      "Dockerfile": 1197,
+      "C": 780,
+      "Ruby": 757,
+      "Shell": 730
+    },
+    "contributions_by_user": 359,
+    "contribution_score": 4119.09,
+    "S_code": 658.18,
+    "S_social": 100,
+    "S_maint": 359
+  },
+  {
+    "name": "audience-minutes",
+    "full_name": "berthubert/audience-minutes",
+    "html_url": "https://github.com/berthubert/audience-minutes",
+    "description": "generate statistics on the number of audience minutes your site is generating, and if readers make it to the end of your screeds",
+    "stars": 49,
+    "forks": 3,
+    "languages": {
+      "C++": 31494,
+      "Jupyter Notebook": 2325,
+      "JavaScript": 1970,
+      "CMake": 696,
+      "Awk": 666
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 358.14,
+    "S_code": 36.28,
+    "S_social": 55,
+    "S_maint": 23
+  },
+  {
+    "name": "reed-solomon",
+    "full_name": "berthubert/reed-solomon",
+    "html_url": "https://github.com/berthubert/reed-solomon",
+    "description": "reed-solomon explainers",
+    "stars": 32,
+    "forks": 7,
+    "languages": {
+      "C++": 352852,
+      "CMake": 1127
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 394.84,
+    "S_code": 345.68,
+    "S_social": 46,
+    "S_maint": 13
+  },
+  {
+    "name": "sqlitewrite",
+    "full_name": "berthubert/sqlitewrite",
+    "html_url": "https://github.com/berthubert/sqlitewrite",
+    "description": "csv-like storage to sqlite",
+    "stars": 23,
+    "forks": 7,
+    "languages": {
+      "C++": 380328,
+      "Meson": 925,
+      "CMake": 782
+    },
+    "contributions_by_user": 54,
+    "contribution_score": 800.54,
+    "S_code": 373.08,
+    "S_social": 37,
+    "S_maint": 54
+  },
+  {
+    "name": "hello-dl-posts",
+    "full_name": "berthubert/hello-dl-posts",
+    "html_url": "https://github.com/berthubert/hello-dl-posts",
+    "description": "Hello Deep Learning",
+    "stars": 16,
+    "forks": 10,
+    "languages": {},
+    "contributions_by_user": 39,
+    "contribution_score": 462.0,
+    "S_code": 0.0,
+    "S_social": 36,
+    "S_maint": 39
+  },
+  {
+    "name": "ducktime",
+    "full_name": "berthubert/ducktime",
+    "html_url": "https://github.com/berthubert/ducktime",
+    "description": "a toy duckdb based timeseries database",
+    "stars": 15,
+    "forks": 1,
+    "languages": {
+      "C++": 6378,
+      "Makefile": 468
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 47.34,
+    "S_code": 6.69,
+    "S_social": 17,
+    "S_maint": 1
+  },
+  {
+    "name": "antonie2",
+    "full_name": "berthubert/antonie2",
+    "html_url": "https://github.com/berthubert/antonie2",
+    "description": null,
+    "stars": 11,
+    "forks": 0,
+    "languages": {
+      "C++": 1388633,
+      "C": 149046,
+      "Jupyter Notebook": 127986,
+      "Makefile": 32483,
+      "HTML": 18545,
+      "CSS": 12835,
+      "JavaScript": 12575,
+      "Python": 4289,
+      "Shell": 670,
+      "BitBake": 82
+    },
+    "contributions_by_user": 55,
+    "contribution_score": 1425.1,
+    "S_code": 1706.2,
+    "S_social": 11,
+    "S_maint": 55
+  },
+  {
+    "name": "sbox",
+    "full_name": "berthubert/sbox",
+    "html_url": "https://github.com/berthubert/sbox",
+    "description": "sandbox demo",
+    "stars": 11,
+    "forks": 1,
+    "languages": {
+      "C": 793923,
+      "C++": 6465,
+      "CMake": 470
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 507.04,
+    "S_code": 782.09,
+    "S_social": 13,
+    "S_maint": 9
+  },
+  {
+    "name": "ckmailer",
+    "full_name": "berthubert/ckmailer",
+    "html_url": "https://github.com/berthubert/ckmailer",
+    "description": "self-hosted software for newsletters",
+    "stars": 9,
+    "forks": 3,
+    "languages": {
+      "C++": 367118,
+      "HTML": 14303,
+      "JavaScript": 1765,
+      "Meson": 1419,
+      "CSS": 206,
+      "C": 36
+    },
+    "contributions_by_user": 62,
+    "contribution_score": 837.91,
+    "S_code": 375.83,
+    "S_social": 15,
+    "S_maint": 62
+  },
+  {
+    "name": "co2plots",
+    "full_name": "berthubert/co2plots",
+    "html_url": "https://github.com/berthubert/co2plots",
+    "description": "Some tooling to create CO2 plots",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 1754948
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 948.91,
+    "S_code": 1713.82,
+    "S_social": 6,
+    "S_maint": 8
+  },
+  {
+    "name": "parsing",
+    "full_name": "berthubert/parsing",
+    "html_url": "https://github.com/berthubert/parsing",
+    "description": "Playground for examples how to use cpp-peglib",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "C++": 490412,
+      "Makefile": 427
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 327.67,
+    "S_code": 479.33,
+    "S_social": 4,
+    "S_maint": 8
+  },
+  {
+    "name": "knmi-precipitation-radar-scripts",
+    "full_name": "berthubert/knmi-precipitation-radar-scripts",
+    "html_url": "https://github.com/berthubert/knmi-precipitation-radar-scripts",
+    "description": null,
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 5725
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 50.8,
+    "S_code": 5.59,
+    "S_social": 4,
+    "S_maint": 4
+  },
+  {
+    "name": "ThingPool",
+    "full_name": "berthubert/ThingPool",
+    "html_url": "https://github.com/berthubert/ThingPool",
+    "description": "Minimalistic, easy to use, generic object pool",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "C++": 327392,
+      "Makefile": 206
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 227.96,
+    "S_code": 319.92,
+    "S_social": 4,
+    "S_maint": 6
+  },
+  {
+    "name": "utchelper",
+    "full_name": "berthubert/utchelper",
+    "html_url": "https://github.com/berthubert/utchelper",
+    "description": "Some code to help parse UTC time strings in C and C++",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 854,
+      "C++": 706,
+      "Makefile": 240
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 52.88,
+    "S_code": 1.76,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "AllTheBacteria",
+    "full_name": "berthubert/AllTheBacteria",
+    "html_url": "https://github.com/berthubert/AllTheBacteria",
+    "description": "Follow up to Grace Blackwell's 661k dataset, for 2023",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 11243,
+      "Shell": 4113
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 19.5,
+    "S_code": 15.0,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "Bcrypt.cpp",
+    "full_name": "berthubert/Bcrypt.cpp",
+    "html_url": "https://github.com/berthubert/Bcrypt.cpp",
+    "description": "A c++ wrapper around bcrypt password hashing",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 33744,
+      "C": 5519,
+      "CMake": 403
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 31.37,
+    "S_code": 38.74,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "whisper.cpp",
+    "full_name": "berthubert/whisper.cpp",
+    "html_url": "https://github.com/berthubert/whisper.cpp",
+    "description": "Port of OpenAI's Whisper model in C/C++",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 280477,
+      "C++": 120830,
+      "Python": 16951,
+      "CMake": 13087,
+      "Shell": 8365,
+      "Makefile": 6720,
+      "Batchfile": 1339
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 220.64,
+    "S_code": 437.27,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "skewdb-articles",
+    "full_name": "berthubert/skewdb-articles",
+    "html_url": "https://github.com/berthubert/skewdb-articles",
+    "description": "SkewDB articles",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TeX": 101849,
+      "Python": 16177,
+      "Shell": 1954
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 230.58,
+    "S_code": 117.17,
+    "S_social": 1,
+    "S_maint": 17
+  },
+  {
+    "name": "ubee-prometheus",
+    "full_name": "berthubert/ubee-prometheus",
+    "html_url": "https://github.com/berthubert/ubee-prometheus",
+    "description": null,
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "Go": 4562
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 92.23,
+    "S_code": 4.46,
+    "S_social": 5,
+    "S_maint": 8
+  },
+  {
+    "name": "Prodigal",
+    "full_name": "berthubert/Prodigal",
+    "html_url": "https://github.com/berthubert/Prodigal",
+    "description": "Prodigal Gene Prediction Software",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 25936618,
+      "Makefile": 1667
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12665.18,
+    "S_code": 25330.36,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "animated-fiesta-2",
+    "full_name": "berthubert/animated-fiesta-2",
+    "html_url": "https://github.com/berthubert/animated-fiesta-2",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "voltmon",
+    "full_name": "berthubert/voltmon",
+    "html_url": "https://github.com/berthubert/voltmon",
+    "description": "Store, analyse and report on streaming voltage data",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 29194,
+      "Meson": 711
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 94.6,
+    "S_code": 29.2,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "inja",
+    "full_name": "berthubert/inja",
+    "html_url": "https://github.com/berthubert/inja",
+    "description": "A Template Engine for Modern C++",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 222126,
+      "CMake": 29231,
+      "Meson": 1392,
+      "Python": 289,
+      "Shell": 206
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 143.65,
+    "S_code": 247.31,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "pdns",
+    "full_name": "berthubert/pdns",
+    "html_url": "https://github.com/berthubert/pdns",
+    "description": "PowerDNS Authoritative, PowerDNS Recursor, dnsdist",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 9037385,
+      "Python": 2352824,
+      "JavaScript": 736474,
+      "M4": 237798,
+      "Shell": 224400,
+      "Makefile": 106154,
+      "C": 60408,
+      "Ruby": 46494,
+      "Lua": 27349,
+      "Rust": 25991,
+      "Perl": 18443,
+      "CSS": 16773,
+      "HTML": 10918,
+      "Ragel": 8703,
+      "Yacc": 4747,
+      "Lex": 3546,
+      "Jinja": 2350,
+      "Dockerfile": 838,
+      "PLpgSQL": 291,
+      "DIGITAL Command Language": 141,
+      "Assembly": 18
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6309.59,
+    "S_code": 12619.18,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "code-tour",
+    "full_name": "berthubert/code-tour",
+    "html_url": "https://github.com/berthubert/code-tour",
+    "description": "a tour of the components of a software project",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 560136,
+      "Makefile": 355
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 303.68,
+    "S_code": 547.35,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "bondview",
+    "full_name": "berthubert/bondview",
+    "html_url": "https://github.com/berthubert/bondview",
+    "description": "display bond holdings",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "atmodel",
+    "full_name": "berthubert/atmodel",
+    "html_url": "https://github.com/berthubert/atmodel",
+    "description": "a spherical cow atmospheric model to demonstrate climate sensitivity",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 28294
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 37.82,
+    "S_code": 27.63,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "hapi",
+    "full_name": "berthubert/hapi",
+    "html_url": "https://github.com/berthubert/hapi",
+    "description": "HITRAN Application Programming Interface (HAPI)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 2548230,
+      "Batchfile": 62
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1244.28,
+    "S_code": 2488.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "powmon",
+    "full_name": "berthubert/powmon",
+    "html_url": "https://github.com/berthubert/powmon",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C++": 499564,
+      "CMake": 1062,
+      "C": 75
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 368.48,
+    "S_code": 488.97,
+    "S_social": 2,
+    "S_maint": 12
+  },
+  {
+    "name": "gnssbot",
+    "full_name": "berthubert/gnssbot",
+    "html_url": "https://github.com/berthubert/gnssbot",
+    "description": "mastodon bot that tweets GNSS updates",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "banen-rijksoverheid",
+    "full_name": "berthubert/banen-rijksoverheid",
+    "html_url": "https://github.com/berthubert/banen-rijksoverheid",
+    "description": "tools to retrieve all dutch government jobs & do statistics on them",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 1866
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.91,
+    "S_code": 1.82,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "dutch-state-loans",
+    "full_name": "berthubert/dutch-state-loans",
+    "html_url": "https://github.com/berthubert/dutch-state-loans",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "raspberrypi-sys-mods",
+    "full_name": "berthubert/raspberrypi-sys-mods",
+    "html_url": "https://github.com/berthubert/raspberrypi-sys-mods",
+    "description": "A collection of Raspberry Pi-sourced system configuration files and associated scripts",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 514
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.25,
+    "S_code": 0.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rms-open-letter.github.io",
+    "full_name": "berthubert/rms-open-letter.github.io",
+    "html_url": "https://github.com/berthubert/rms-open-letter.github.io",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 227
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.11,
+    "S_code": 0.22,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "antonie",
+    "full_name": "berthubert/antonie",
+    "html_url": "https://github.com/berthubert/antonie",
+    "description": "Antonie is an integrated, robust, reliable and fast processor of DNA reads",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C++": 373986,
+      "C": 147718,
+      "Makefile": 29512,
+      "HTML": 18545,
+      "CSS": 12835,
+      "JavaScript": 12575,
+      "Python": 4289,
+      "Objective-C": 1228,
+      "Shell": 670,
+      "Assembly": 187
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 297.72,
+    "S_code": 587.45,
+    "S_social": 2,
+    "S_maint": 0
+  }
+]

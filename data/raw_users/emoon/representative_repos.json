@@ -1,0 +1,1565 @@
+[
+  {
+    "name": "rust_minifb",
+    "full_name": "emoon/rust_minifb",
+    "html_url": "https://github.com/emoon/rust_minifb",
+    "description": "Cross platfrom window and framebuffer crate for Rust",
+    "stars": 1156,
+    "forks": 108,
+    "languages": {
+      "Rust": 271539,
+      "Objective-C": 58204,
+      "C": 7720
+    },
+    "contributions_by_user": 291,
+    "contribution_score": 5818.78,
+    "S_code": 329.55,
+    "S_social": 1372,
+    "S_maint": 291
+  },
+  {
+    "name": "minifb",
+    "full_name": "emoon/minifb",
+    "html_url": "https://github.com/emoon/minifb",
+    "description": "MiniFB is a small cross platform library to create a frame buffer that you can draw pixels in",
+    "stars": 1156,
+    "forks": 89,
+    "languages": {
+      "C": 382162,
+      "Objective-C": 85245,
+      "C++": 26230,
+      "CMake": 16023,
+      "Shell": 6753,
+      "HTML": 3821,
+      "Lua": 3237
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 3143.6,
+    "S_code": 511.2,
+    "S_social": 1334,
+    "S_maint": 22
+  },
+  {
+    "name": "ProDBG",
+    "full_name": "emoon/ProDBG",
+    "html_url": "https://github.com/emoon/ProDBG",
+    "description": "Debugging the way it's meant to be done",
+    "stars": 519,
+    "forks": 31,
+    "languages": {
+      "C++": 1101546,
+      "Lua": 708615,
+      "C": 326121,
+      "Rust": 123765,
+      "CSS": 50314,
+      "HTML": 16730,
+      "Batchfile": 7276,
+      "Python": 4540,
+      "Shell": 416
+    },
+    "contributions_by_user": 1971,
+    "contribution_score": 22014.25,
+    "S_code": 2284.5,
+    "S_social": 581,
+    "S_maint": 1971
+  },
+  {
+    "name": "dynamic_reload",
+    "full_name": "emoon/dynamic_reload",
+    "html_url": "https://github.com/emoon/dynamic_reload",
+    "description": "Dynamic reloading of shared libraries",
+    "stars": 389,
+    "forks": 26,
+    "languages": {
+      "Rust": 31993
+    },
+    "contributions_by_user": 112,
+    "contribution_score": 2017.62,
+    "S_code": 31.24,
+    "S_social": 441,
+    "S_maint": 112
+  },
+  {
+    "name": "rocket",
+    "full_name": "emoon/rocket",
+    "html_url": "https://github.com/emoon/rocket",
+    "description": "GNU Rocket Git mirror",
+    "stars": 118,
+    "forks": 22,
+    "languages": {
+      "C": 392969,
+      "Objective-C": 22745,
+      "CMake": 12118,
+      "Shell": 116
+    },
+    "contributions_by_user": 392,
+    "contribution_score": 4452.96,
+    "S_code": 417.92,
+    "S_social": 162,
+    "S_maint": 392
+  },
+  {
+    "name": "Score",
+    "full_name": "emoon/Score",
+    "html_url": "https://github.com/emoon/Score",
+    "description": "Score! is a new programming language based on the ideas from GOAL",
+    "stars": 46,
+    "forks": 1,
+    "languages": {
+      "Common Lisp": 36249,
+      "C": 27965,
+      "Lua": 1655,
+      "C++": 912
+    },
+    "contributions_by_user": 102,
+    "contribution_score": 1148.61,
+    "S_code": 65.22,
+    "S_social": 48,
+    "S_maint": 102
+  },
+  {
+    "name": "evfs",
+    "full_name": "emoon/evfs",
+    "html_url": "https://github.com/emoon/evfs",
+    "description": "Virtual File System written in Rust",
+    "stars": 41,
+    "forks": 3,
+    "languages": {
+      "Rust": 25078
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 366.25,
+    "S_code": 24.49,
+    "S_social": 47,
+    "S_maint": 26
+  },
+  {
+    "name": "Rute",
+    "full_name": "emoon/Rute",
+    "html_url": "https://github.com/emoon/Rute",
+    "description": "Rute is a UI library implemented on top of Qt",
+    "stars": 39,
+    "forks": 1,
+    "languages": {
+      "Rust": 11505623,
+      "C++": 1166936,
+      "C": 256994
+    },
+    "contributions_by_user": 351,
+    "contribution_score": 9905.26,
+    "S_code": 12626.52,
+    "S_social": 41,
+    "S_maint": 351
+  },
+  {
+    "name": "remotery-rs",
+    "full_name": "emoon/remotery-rs",
+    "html_url": "https://github.com/emoon/remotery-rs",
+    "description": "Realtime CPU Profiler with web browser viewer",
+    "stars": 33,
+    "forks": 0,
+    "languages": {
+      "Rust": 26922
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 309.15,
+    "S_code": 26.29,
+    "S_social": 33,
+    "S_maint": 23
+  },
+  {
+    "name": "AmigaHunkParser",
+    "full_name": "emoon/AmigaHunkParser",
+    "html_url": "https://github.com/emoon/AmigaHunkParser",
+    "description": "Parser written in C for Amiga Hunk (executable) files",
+    "stars": 16,
+    "forks": 5,
+    "languages": {
+      "C": 23228,
+      "Lua": 2148,
+      "Makefile": 502
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 204.64,
+    "S_code": 25.27,
+    "S_social": 26,
+    "S_maint": 14
+  },
+  {
+    "name": "cfixed-string",
+    "full_name": "emoon/cfixed-string",
+    "html_url": "https://github.com/emoon/cfixed-string",
+    "description": "Pass Rust strings to C with potentially not needing heap allocation",
+    "stars": 13,
+    "forks": 0,
+    "languages": {
+      "Rust": 9431
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 120.6,
+    "S_code": 9.21,
+    "S_social": 13,
+    "S_maint": 9
+  },
+  {
+    "name": "ps2dev_tools",
+    "full_name": "emoon/ps2dev_tools",
+    "html_url": "https://github.com/emoon/ps2dev_tools",
+    "description": "Binaries of the ps2dev toolchain (for win32 and osx)",
+    "stars": 12,
+    "forks": 0,
+    "languages": {
+      "C": 808061,
+      "Shell": 63563
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 479.6,
+    "S_code": 851.2,
+    "S_social": 12,
+    "S_maint": 3
+  },
+  {
+    "name": "remotelink",
+    "full_name": "emoon/remotelink",
+    "html_url": "https://github.com/emoon/remotelink",
+    "description": "Remote running executables on a Linux style system",
+    "stars": 10,
+    "forks": 1,
+    "languages": {
+      "Rust": 212172,
+      "C": 9920,
+      "Shell": 2114,
+      "RenderScript": 1
+    },
+    "contributions_by_user": 61,
+    "contribution_score": 743.48,
+    "S_code": 218.95,
+    "S_social": 12,
+    "S_maint": 61
+  },
+  {
+    "name": "modland_hash",
+    "full_name": "emoon/modland_hash",
+    "html_url": "https://github.com/emoon/modland_hash",
+    "description": null,
+    "stars": 8,
+    "forks": 0,
+    "languages": {
+      "Rust": 42152
+    },
+    "contributions_by_user": 69,
+    "contribution_score": 726.58,
+    "S_code": 41.16,
+    "S_social": 8,
+    "S_maint": 69
+  },
+  {
+    "name": "wrui",
+    "full_name": "emoon/wrui",
+    "html_url": "https://github.com/emoon/wrui",
+    "description": "C wrapper for UI libraries (like Qt, wxWidgets, dear imgui) with a common C API",
+    "stars": 8,
+    "forks": 1,
+    "languages": {
+      "Lua": 578028,
+      "C++": 31590,
+      "Batchfile": 7273,
+      "C": 4394,
+      "Shell": 375
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 583.54,
+    "S_code": 607.09,
+    "S_social": 10,
+    "S_maint": 26
+  },
+  {
+    "name": "sico",
+    "full_name": "emoon/sico",
+    "html_url": "https://github.com/emoon/sico",
+    "description": "SICO - SImple COmpute",
+    "stars": 8,
+    "forks": 0,
+    "languages": {
+      "Lua": 547973,
+      "C": 49120,
+      "Batchfile": 5743,
+      "Shell": 551
+    },
+    "contributions_by_user": 70,
+    "contribution_score": 1010.62,
+    "S_code": 589.25,
+    "S_social": 8,
+    "S_maint": 70
+  },
+  {
+    "name": "fs-uae",
+    "full_name": "emoon/fs-uae",
+    "html_url": "https://github.com/emoon/fs-uae",
+    "description": "Cross-platform Amiga emulator",
+    "stars": 7,
+    "forks": 1,
+    "languages": {
+      "C++": 9631002,
+      "C": 5859832,
+      "GLSL": 177211,
+      "M4": 76209,
+      "Assembly": 72189,
+      "Makefile": 42950,
+      "Objective-C": 39524,
+      "Shell": 11296,
+      "Python": 8703,
+      "Roff": 2152
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 7831.96,
+    "S_code": 15547.92,
+    "S_social": 9,
+    "S_maint": 4
+  },
+  {
+    "name": "Arika",
+    "full_name": "emoon/Arika",
+    "html_url": "https://github.com/emoon/Arika",
+    "description": "Arika is a cross-platform UI library written in C and Lua",
+    "stars": 7,
+    "forks": 2,
+    "languages": {
+      "C": 556857,
+      "C++": 31158,
+      "Lua": 6976,
+      "C#": 6021,
+      "Shell": 686
+    },
+    "contributions_by_user": 48,
+    "contribution_score": 795.8,
+    "S_code": 587.6,
+    "S_social": 11,
+    "S_maint": 48
+  },
+  {
+    "name": "flowi",
+    "full_name": "emoon/flowi",
+    "html_url": "https://github.com/emoon/flowi",
+    "description": "Flowi is a research UI aimed at speed, good looks and ease of use",
+    "stars": 6,
+    "forks": 2,
+    "languages": {
+      "C": 3441542,
+      "Shell": 33955,
+      "Rust": 29841,
+      "Vim Script": 3847,
+      "Scala": 1669,
+      "SuperCollider": 911,
+      "GLSL": 235,
+      "RenderScript": 82
+    },
+    "contributions_by_user": 46,
+    "contribution_score": 2194.88,
+    "S_code": 3429.77,
+    "S_social": 10,
+    "S_maint": 46
+  },
+  {
+    "name": "usb2snes",
+    "full_name": "emoon/usb2snes",
+    "html_url": "https://github.com/emoon/usb2snes",
+    "description": "Rust crate for talking with SD2SNES over USB",
+    "stars": 6,
+    "forks": 1,
+    "languages": {
+      "Rust": 9412
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 140.6,
+    "S_code": 9.19,
+    "S_social": 8,
+    "S_maint": 12
+  },
+  {
+    "name": "csimd",
+    "full_name": "emoon/csimd",
+    "html_url": "https://github.com/emoon/csimd",
+    "description": "Cross platform SIMD intrinsics in C",
+    "stars": 5,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 5,
+    "S_maint": 1
+  },
+  {
+    "name": "amiga_hunk_parser",
+    "full_name": "emoon/amiga_hunk_parser",
+    "html_url": "https://github.com/emoon/amiga_hunk_parser",
+    "description": "Parses Amiga exceutable (hunk files) in Rust",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "Rust": 10279
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 69.02,
+    "S_code": 10.04,
+    "S_social": 7,
+    "S_maint": 5
+  },
+  {
+    "name": "stemgen",
+    "full_name": "emoon/stemgen",
+    "html_url": "https://github.com/emoon/stemgen",
+    "description": "STEM generator using libopenmpt with glue in Rust",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "C": 2953270,
+      "C++": 485461,
+      "HTML": 205691,
+      "Rust": 154563,
+      "M4": 121889,
+      "Shell": 110597,
+      "Makefile": 77348,
+      "CMake": 41076,
+      "Perl": 6019,
+      "Scilab": 3154,
+      "CSS": 279
+    },
+    "contributions_by_user": 43,
+    "contribution_score": 2468.93,
+    "S_code": 4061.86,
+    "S_social": 4,
+    "S_maint": 43
+  },
+  {
+    "name": "text_render",
+    "full_name": "emoon/text_render",
+    "html_url": "https://github.com/emoon/text_render",
+    "description": "Fiddling around with Text Rendering to make something that looks less crap",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Rust": 2609
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 49.27,
+    "S_code": 2.55,
+    "S_social": 4,
+    "S_maint": 4
+  },
+  {
+    "name": "m68k_cpu_tester_api",
+    "full_name": "emoon/m68k_cpu_tester_api",
+    "html_url": "https://github.com/emoon/m68k_cpu_tester_api",
+    "description": "Uses data from the (Win)UAE cpu test generator",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "C": 3011468,
+      "PHP": 2013784,
+      "C++": 1311453,
+      "Objective-C": 14804,
+      "Starlark": 5527,
+      "Makefile": 1848
+    },
+    "contributions_by_user": 42,
+    "contribution_score": 3532.92,
+    "S_code": 6209.85,
+    "S_social": 4,
+    "S_maint": 42
+  },
+  {
+    "name": "68k_disassemble_gen",
+    "full_name": "emoon/68k_disassemble_gen",
+    "html_url": "https://github.com/emoon/68k_disassemble_gen",
+    "description": "68k disassembler for C made in Rust",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Rust": 73342
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 85.81,
+    "S_code": 71.62,
+    "S_social": 5,
+    "S_maint": 4
+  },
+  {
+    "name": "prodbg_addons",
+    "full_name": "emoon/prodbg_addons",
+    "html_url": "https://github.com/emoon/prodbg_addons",
+    "description": "Addons/Plugins to ProDBG",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "C++": 2675548,
+      "Lua": 575774,
+      "C": 422585,
+      "Assembly": 43948,
+      "Makefile": 13428,
+      "QMake": 5184,
+      "CMake": 4063,
+      "Groff": 408
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 1936.63,
+    "S_code": 3653.26,
+    "S_social": 5,
+    "S_maint": 10
+  },
+  {
+    "name": "ui_raster",
+    "full_name": "emoon/ui_raster",
+    "html_url": "https://github.com/emoon/ui_raster",
+    "description": "Software Rasterizer for UIs",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Rust": 85162,
+      "C": 9791
+    },
+    "contributions_by_user": 54,
+    "contribution_score": 590.36,
+    "S_code": 92.73,
+    "S_social": 2,
+    "S_maint": 54
+  },
+  {
+    "name": "arena-allocator",
+    "full_name": "emoon/arena-allocator",
+    "html_url": "https://github.com/emoon/arena-allocator",
+    "description": "Arena allocator for Rust",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Rust": 28618
+    },
+    "contributions_by_user": 33,
+    "contribution_score": 351.97,
+    "S_code": 27.95,
+    "S_social": 4,
+    "S_maint": 33
+  },
+  {
+    "name": "dotvim",
+    "full_name": "emoon/dotvim",
+    "html_url": "https://github.com/emoon/dotvim",
+    "description": "vimconfig files and plugins",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Vim Script": 49314
+    },
+    "contributions_by_user": 34,
+    "contribution_score": 368.08,
+    "S_code": 48.16,
+    "S_social": 2,
+    "S_maint": 34
+  },
+  {
+    "name": "flowi_rust",
+    "full_name": "emoon/flowi_rust",
+    "html_url": "https://github.com/emoon/flowi_rust",
+    "description": "Lets do Flowi in Rust instead",
+    "stars": 2,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 14.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "prodbg-web",
+    "full_name": "emoon/prodbg-web",
+    "html_url": "https://github.com/emoon/prodbg-web",
+    "description": "Webpages for ProDBG",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 254227,
+      "CSS": 137063,
+      "HTML": 109173,
+      "SCSS": 67625,
+      "Ruby": 651
+    },
+    "contributions_by_user": 68,
+    "contribution_score": 961.7,
+    "S_code": 555.41,
+    "S_social": 2,
+    "S_maint": 68
+  },
+  {
+    "name": "wrui_rust",
+    "full_name": "emoon/wrui_rust",
+    "html_url": "https://github.com/emoon/wrui_rust",
+    "description": "Rust wrapper for WRUI",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Rust": 5879
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 50.87,
+    "S_code": 5.74,
+    "S_social": 4,
+    "S_maint": 4
+  },
+  {
+    "name": "68k_documentation_gen",
+    "full_name": "emoon/68k_documentation_gen",
+    "html_url": "https://github.com/emoon/68k_documentation_gen",
+    "description": "Generate documentation including cycle tables for Motorola 680x0",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "C": 1178564,
+      "C++": 125874,
+      "Rust": 73748
+    },
+    "contributions_by_user": 37,
+    "contribution_score": 1050.94,
+    "S_code": 1345.88,
+    "S_social": 4,
+    "S_maint": 37
+  },
+  {
+    "name": "scintilla",
+    "full_name": "emoon/scintilla",
+    "html_url": "https://github.com/emoon/scintilla",
+    "description": "Scintilla is a free source code editing component.",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "C++": 2577172,
+      "C": 56714
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 1324.08,
+    "S_code": 2572.15,
+    "S_social": 4,
+    "S_maint": 3
+  },
+  {
+    "name": "prodbg-third-party",
+    "full_name": "emoon/prodbg-third-party",
+    "html_url": "https://github.com/emoon/prodbg-third-party",
+    "description": "Third Party libs used by ProDBG",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C++": 39378425,
+      "C": 7545991,
+      "Objective-C": 5572961,
+      "HTML": 1110831,
+      "Shell": 1074413,
+      "Objective-C++": 818606,
+      "R": 672260,
+      "Groff": 479741,
+      "Module Management System": 226048,
+      "Python": 108744,
+      "Makefile": 100395,
+      "XSLT": 44320,
+      "Awk": 42674,
+      "DIGITAL Command Language": 41524,
+      "Perl": 33572,
+      "Batchfile": 32509,
+      "Nemerle": 28217,
+      "CMake": 20962,
+      "Assembly": 16038,
+      "AppleScript": 10241,
+      "Lua": 7205,
+      "Inno Setup": 6562,
+      "TeX": 5028,
+      "CSS": 4659,
+      "JavaScript": 1375,
+      "Rebol": 1286
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 28053.82,
+    "S_code": 56039.64,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "ssagen",
+    "full_name": "emoon/ssagen",
+    "html_url": "https://github.com/emoon/ssagen",
+    "description": "Playing around with SSA form",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C": 8321,
+      "Lua": 487
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 38.3,
+    "S_code": 8.6,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "emoon/dotfiles",
+    "html_url": "https://github.com/emoon/dotfiles",
+    "description": "Config files for nvim, tmux, etc",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Lua": 53110,
+      "Shell": 4279
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 130.02,
+    "S_code": 56.04,
+    "S_social": 1,
+    "S_maint": 10
+  },
+  {
+    "name": "yaui",
+    "full_name": "emoon/yaui",
+    "html_url": "https://github.com/emoon/yaui",
+    "description": "Yet Another UI (prototyping)",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 266034,
+      "Rust": 243499,
+      "Shell": 620,
+      "C": 47
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 291.12,
+    "S_code": 498.24,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "clay",
+    "full_name": "emoon/clay",
+    "html_url": "https://github.com/emoon/clay",
+    "description": "High performance UI layout library in C.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 333596,
+      "C++": 265987,
+      "HTML": 51690,
+      "Odin": 45987,
+      "CMake": 3264,
+      "Shell": 1125,
+      "Dockerfile": 785
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 374.99,
+    "S_code": 685.97,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "seek-tune",
+    "full_name": "emoon/seek-tune",
+    "html_url": "https://github.com/emoon/seek-tune",
+    "description": "An implementation of Shazam's song recognition algorithm.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Go": 82971,
+      "JavaScript": 19955,
+      "CSS": 3918,
+      "Shell": 2182,
+      "HTML": 1718
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 56.07,
+    "S_code": 108.15,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "flowi_core",
+    "full_name": "emoon/flowi_core",
+    "html_url": "https://github.com/emoon/flowi_core",
+    "description": "Core part of Flowi",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C": 3711020,
+      "Rust": 250445,
+      "C++": 247014,
+      "Scala": 1068,
+      "Objective-C++": 381,
+      "SuperCollider": 173
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 2271.71,
+    "S_code": 4111.43,
+    "S_social": 3,
+    "S_maint": 21
+  },
+  {
+    "name": "fileorama",
+    "full_name": "emoon/fileorama",
+    "html_url": "https://github.com/emoon/fileorama",
+    "description": "Code for dealing with loading of files",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Rust": 57815
+    },
+    "contributions_by_user": 46,
+    "contribution_score": 490.23,
+    "S_code": 56.46,
+    "S_social": 1,
+    "S_maint": 46
+  },
+  {
+    "name": "bgfx-idl",
+    "full_name": "emoon/bgfx-idl",
+    "html_url": "https://github.com/emoon/bgfx-idl",
+    "description": "Rust parser for bgfx-idl files",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Rust": 30178
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 96.74,
+    "S_code": 29.47,
+    "S_social": 1,
+    "S_maint": 8
+  },
+  {
+    "name": "Flowid",
+    "full_name": "emoon/Flowid",
+    "html_url": "https://github.com/emoon/Flowid",
+    "description": "Rendering used by Flowi UI. Very much WIP",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C": 125965,
+      "Lua": 4827
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 149.86,
+    "S_code": 127.73,
+    "S_social": 3,
+    "S_maint": 8
+  },
+  {
+    "name": "apigen",
+    "full_name": "emoon/apigen",
+    "html_url": "https://github.com/emoon/apigen",
+    "description": "Basic API/data description lang + parser that can be used for generating API/data interfaces, etc",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Rust": 39207
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 231.14,
+    "S_code": 38.29,
+    "S_social": 1,
+    "S_maint": 21
+  },
+  {
+    "name": "bgfx-rs-bindgen",
+    "full_name": "emoon/bgfx-rs-bindgen",
+    "html_url": "https://github.com/emoon/bgfx-rs-bindgen",
+    "description": "Rust binding generator for bgfx",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Rust": 39343
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 161.21,
+    "S_code": 38.42,
+    "S_social": 1,
+    "S_maint": 14
+  },
+  {
+    "name": "anidb-rs",
+    "full_name": "emoon/anidb-rs",
+    "html_url": "https://github.com/emoon/anidb-rs",
+    "description": "Rust crate that makes using the AniDB API easier",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "Rust": 23425
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 111.44,
+    "S_code": 22.88,
+    "S_social": 5,
+    "S_maint": 9
+  },
+  {
+    "name": "StSound",
+    "full_name": "emoon/StSound",
+    "html_url": "https://github.com/emoon/StSound",
+    "description": "Library to replay YM files ( Atari ST music file format )",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 229236,
+      "C": 11083
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 119.34,
+    "S_code": 234.69,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "egui",
+    "full_name": "emoon/egui",
+    "html_url": "https://github.com/emoon/egui",
+    "description": "egui: Immediate mode GUI written in Rust, made for WASM",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Rust": 664771,
+      "Shell": 2519
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 327.83,
+    "S_code": 651.65,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "fx68x_verilator",
+    "full_name": "emoon/fx68x_verilator",
+    "html_url": "https://github.com/emoon/fx68x_verilator",
+    "description": "verilator testing of fx68k",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 2768949,
+      "SystemVerilog": 311487,
+      "Verilog": 90134,
+      "Makefile": 3027,
+      "Batchfile": 590,
+      "Shell": 59
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 1711.92,
+    "S_code": 3099.85,
+    "S_social": 1,
+    "S_maint": 16
+  },
+  {
+    "name": "fx68k",
+    "full_name": "emoon/fx68k",
+    "html_url": "https://github.com/emoon/fx68k",
+    "description": "Using the fx68k M68000 CPU core from Rust",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 1726034,
+      "SystemVerilog": 231249,
+      "Verilog": 90134,
+      "Rust": 11851,
+      "Makefile": 3033,
+      "Shell": 155
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 1129.06,
+    "S_code": 2014.12,
+    "S_social": 1,
+    "S_maint": 12
+  },
+  {
+    "name": "Qt-Advanced-Docking-System",
+    "full_name": "emoon/Qt-Advanced-Docking-System",
+    "html_url": "https://github.com/emoon/Qt-Advanced-Docking-System",
+    "description": "Advanced Docking System for Qt",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 166238,
+      "CSS": 1148,
+      "QMake": 972
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 84.21,
+    "S_code": 164.41,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "r68k",
+    "full_name": "emoon/r68k",
+    "html_url": "https://github.com/emoon/r68k",
+    "description": "A m68k emulator in rust - let r68k = musashi.clone();",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Rust": 630122,
+      "Shell": 86
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 419.72,
+    "S_code": 615.44,
+    "S_social": 1,
+    "S_maint": 11
+  },
+  {
+    "name": "rust64",
+    "full_name": "emoon/rust64",
+    "html_url": "https://github.com/emoon/rust64",
+    "description": "Commodore 64 emulator written in Rust",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Rust": 181293,
+      "Assembly": 537,
+      "Makefile": 249
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 100.91,
+    "S_code": 177.81,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "docking_system",
+    "full_name": "emoon/docking_system",
+    "html_url": "https://github.com/emoon/docking_system",
+    "description": "Docking system based on the i3wm code",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Lua": 544703,
+      "C": 260066,
+      "C++": 16751,
+      "Objective-C": 7729,
+      "Batchfile": 5970,
+      "Shell": 623
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 570.13,
+    "S_code": 816.25,
+    "S_social": 1,
+    "S_maint": 16
+  },
+  {
+    "name": "extract-opencl-docs-dash",
+    "full_name": "emoon/extract-opencl-docs-dash",
+    "html_url": "https://github.com/emoon/extract-opencl-docs-dash",
+    "description": "Script that is used for generating OpenCL docs for Dash",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 4051
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.98,
+    "S_code": 3.96,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "MetroidMMC3",
+    "full_name": "emoon/MetroidMMC3",
+    "html_url": "https://github.com/emoon/MetroidMMC3",
+    "description": "Metroid for NES in 6502 Assembly, MMC3 port.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Assembly": 3108915,
+      "Python": 270741,
+      "C#": 8538,
+      "NSIS": 7148,
+      "Batchfile": 2437,
+      "Shell": 2269
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1662.18,
+    "S_code": 3320.36,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "IMCocoa",
+    "full_name": "emoon/IMCocoa",
+    "html_url": "https://github.com/emoon/IMCocoa",
+    "description": "Experimental project to try to do Immediate mode GUI in Cocoa (Mac OS X)",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Objective-C": 6796,
+      "C": 1732,
+      "Common Lisp": 1166,
+      "Lua": 928
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 177.19,
+    "S_code": 10.37,
+    "S_social": 1,
+    "S_maint": 17
+  },
+  {
+    "name": "nvim_config",
+    "full_name": "emoon/nvim_config",
+    "html_url": "https://github.com/emoon/nvim_config",
+    "description": "My current nvim config",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 13000
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 46.35,
+    "S_code": 12.7,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "rust_clay",
+    "full_name": "emoon/rust_clay",
+    "html_url": "https://github.com/emoon/rust_clay",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 266034,
+      "Rust": 157622,
+      "Shell": 620,
+      "C": 47
+    },
+    "contributions_by_user": 43,
+    "contribution_score": 637.19,
+    "S_code": 414.38,
+    "S_social": 0,
+    "S_maint": 43
+  },
+  {
+    "name": "rlaunch",
+    "full_name": "emoon/rlaunch",
+    "html_url": "https://github.com/emoon/rlaunch",
+    "description": "Amiga remote command launcher for cross development",
+    "stars": 0,
+    "forks": 8,
+    "languages": {
+      "C": 179768,
+      "Python": 11681,
+      "Shell": 3714,
+      "Lua": 3132
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 138.82,
+    "S_code": 193.65,
+    "S_social": 16,
+    "S_maint": 1
+  },
+  {
+    "name": "test_asm",
+    "full_name": "emoon/test_asm",
+    "html_url": "https://github.com/emoon/test_asm",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 336
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.16,
+    "S_code": 0.33,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "ispc-rs",
+    "full_name": "emoon/ispc-rs",
+    "html_url": "https://github.com/emoon/ispc-rs",
+    "description": "Rust library for build scripts to compile ISPC code into a Rust library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 75852
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 37.04,
+    "S_code": 74.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "zenu",
+    "full_name": "emoon/zenu",
+    "html_url": "https://github.com/emoon/zenu",
+    "description": "UI Prototying",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 19056
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 69.3,
+    "S_code": 18.61,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "config",
+    "full_name": "emoon/config",
+    "html_url": "https://github.com/emoon/config",
+    "description": "Configuration files (such as for neovim)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 17366
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 38.48,
+    "S_code": 16.96,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "glfw",
+    "full_name": "emoon/glfw",
+    "html_url": "https://github.com/emoon/glfw",
+    "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 1719399,
+      "Objective-C": 163264,
+      "CMake": 32246
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 935.01,
+    "S_code": 1870.03,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ispc_benchmark",
+    "full_name": "emoon/ispc_benchmark",
+    "html_url": "https://github.com/emoon/ispc_benchmark",
+    "description": "Random ISPC pref testing",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 372962,
+      "C++": 10068
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 267.03,
+    "S_code": 374.05,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "deluxe68",
+    "full_name": "emoon/deluxe68",
+    "html_url": "https://github.com/emoon/deluxe68",
+    "description": "A simple register allocator frontend for 68k assembly",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 43061,
+      "Lua": 2174,
+      "C": 450
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22.31,
+    "S_code": 44.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "AmiEmu",
+    "full_name": "emoon/AmiEmu",
+    "html_url": "https://github.com/emoon/AmiEmu",
+    "description": "Buggy OCS Amiga emulator and associated tools",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 1113412,
+      "Assembly": 54047,
+      "CMake": 4406,
+      "C": 89
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 572.24,
+    "S_code": 1144.49,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dear-imgui-rs-generator",
+    "full_name": "emoon/dear-imgui-rs-generator",
+    "html_url": "https://github.com/emoon/dear-imgui-rs-generator",
+    "description": "(Semi) Automatic generation of dear imgui's C++ interface to Rust",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "cimgui-to-rust",
+    "full_name": "emoon/cimgui-to-rust",
+    "html_url": "https://github.com/emoon/cimgui-to-rust",
+    "description": "cimgui to Rust bindings",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "vAmiga",
+    "full_name": "emoon/vAmiga",
+    "html_url": "https://github.com/emoon/vAmiga",
+    "description": "vAmiga is a user-friendly Amiga 500, 1000, 2000 emulator for macOS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 1445816,
+      "Swift": 692072,
+      "C": 206314,
+      "Objective-C": 107085,
+      "Objective-C++": 41129,
+      "Metal": 21968,
+      "Makefile": 7224,
+      "Rich Text Format": 1995
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 1242.23,
+    "S_code": 2464.46,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "explore",
+    "full_name": "emoon/explore",
+    "html_url": "https://github.com/emoon/explore",
+    "description": "Community-curated topic and collection pages on GitHub",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 30436,
+      "Shell": 452
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.08,
+    "S_code": 30.16,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "xxhrs",
+    "full_name": "emoon/xxhrs",
+    "html_url": "https://github.com/emoon/xxhrs",
+    "description": "Safe XXHash and XXH3 bindings for rust.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 20224,
+      "C++": 2677,
+      "C": 780
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.56,
+    "S_code": 23.13,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "liquid-rust",
+    "full_name": "emoon/liquid-rust",
+    "html_url": "https://github.com/emoon/liquid-rust",
+    "description": "Liquid templating for Rust",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 296170
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 144.61,
+    "S_code": 289.23,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nestroidrandohelper",
+    "full_name": "emoon/nestroidrandohelper",
+    "html_url": "https://github.com/emoon/nestroidrandohelper",
+    "description": "Item tracker for Metroid 1. Useful for randomizer or 100% runs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5261,
+      "HTML": 3997,
+      "CSS": 2736
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 75.86,
+    "S_code": 11.71,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "nfd-rs",
+    "full_name": "emoon/nfd-rs",
+    "html_url": "https://github.com/emoon/nfd-rs",
+    "description": "Open native UI file dialogs in Linux, OS X and Windows",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 12201
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 75.96,
+    "S_code": 11.92,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "gdb-remote",
+    "full_name": "emoon/gdb-remote",
+    "html_url": "https://github.com/emoon/gdb-remote",
+    "description": "Rust library for communicating with remote gdb server",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 33773,
+      "C": 696
+    },
+    "contributions_by_user": 35,
+    "contribution_score": 366.83,
+    "S_code": 33.66,
+    "S_social": 0,
+    "S_maint": 35
+  },
+  {
+    "name": "nativefiledialog",
+    "full_name": "emoon/nativefiledialog",
+    "html_url": "https://github.com/emoon/nativefiledialog",
+    "description": "A tiny, neat C library that portably invokes native file open and save dialogs.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 17346,
+      "C": 16334,
+      "Objective-C": 6117,
+      "Python": 4165
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 21.47,
+    "S_code": 42.93,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "imgui",
+    "full_name": "emoon/imgui",
+    "html_url": "https://github.com/emoon/imgui",
+    "description": "Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 834576,
+      "C": 193555
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 612.02,
+    "S_code": 1004.03,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "viewdock",
+    "full_name": "emoon/viewdock",
+    "html_url": "https://github.com/emoon/viewdock",
+    "description": "Generic Window Docking System written in Rust",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 18179,
+      "PowerShell": 2468
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 180.08,
+    "S_code": 20.16,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "rust_api_test",
+    "full_name": "emoon/rust_api_test",
+    "html_url": "https://github.com/emoon/rust_api_test",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 3151,
+      "C": 390
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 51.73,
+    "S_code": 3.46,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "ADFlib",
+    "full_name": "emoon/ADFlib",
+    "html_url": "https://github.com/emoon/ADFlib",
+    "description": "A free, portable and open implementation of the Amiga filesystem",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 294195,
+      "HTML": 1851,
+      "Shell": 1675,
+      "Batchfile": 39
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 145.39,
+    "S_code": 290.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Dash-User-Contributions",
+    "full_name": "emoon/Dash-User-Contributions",
+    "html_url": "https://github.com/emoon/Dash-User-Contributions",
+    "description": "Dash repo of user contributed docsets",
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 24.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "assimp",
+    "full_name": "emoon/assimp",
+    "html_url": "https://github.com/emoon/assimp",
+    "description": "Official Open Asset Import Library Repository. Loads more than thirty 3D file formats into one unified and clean data structure. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

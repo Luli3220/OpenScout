@@ -1,0 +1,5596 @@
+[
+  {
+    "name": "container",
+    "full_name": "codehz/container",
+    "html_url": "https://github.com/codehz/container",
+    "description": "Android App Container Implement (Use VirtualApp framework)",
+    "stars": 250,
+    "forks": 66,
+    "languages": {
+      "Java": 1215057,
+      "Kotlin": 129036,
+      "C++": 106352,
+      "C": 13951,
+      "Makefile": 835
+    },
+    "contributions_by_user": 93,
+    "contribution_score": 2409.44,
+    "S_code": 1430.89,
+    "S_social": 382,
+    "S_maint": 93
+  },
+  {
+    "name": "mcpeserver",
+    "full_name": "codehz/mcpeserver",
+    "html_url": "https://github.com/codehz/mcpeserver",
+    "description": "A Minecraft Server Launcher Written by Golang. Deprecated, please use official BDS",
+    "stars": 112,
+    "forks": 7,
+    "languages": {
+      "Go": 22132,
+      "Shell": 212,
+      "Makefile": 148
+    },
+    "contributions_by_user": 97,
+    "contribution_score": 1232.98,
+    "S_code": 21.96,
+    "S_social": 126,
+    "S_maint": 97
+  },
+  {
+    "name": "YaHei-Build",
+    "full_name": "codehz/YaHei-Build",
+    "html_url": "https://github.com/codehz/YaHei-Build",
+    "description": "使用更纱黑体取代微软雅黑",
+    "stars": 67,
+    "forks": 12,
+    "languages": {
+      "Python": 2745
+    },
+    "contributions_by_user": 47,
+    "contribution_score": 653.34,
+    "S_code": 2.68,
+    "S_social": 91,
+    "S_maint": 47
+  },
+  {
+    "name": "bun_python",
+    "full_name": "codehz/bun_python",
+    "html_url": "https://github.com/codehz/bun_python",
+    "description": "Ported from deno_python",
+    "stars": 66,
+    "forks": 2,
+    "languages": {
+      "TypeScript": 48668,
+      "Python": 43
+    },
+    "contributions_by_user": 61,
+    "contribution_score": 773.78,
+    "S_code": 47.57,
+    "S_social": 70,
+    "S_maint": 61
+  },
+  {
+    "name": "minecraft-unicode-font-texture-generator-online",
+    "full_name": "codehz/minecraft-unicode-font-texture-generator-online",
+    "html_url": "https://github.com/codehz/minecraft-unicode-font-texture-generator-online",
+    "description": "minecraft unicode font texture generator online(Static Web Page)",
+    "stars": 65,
+    "forks": 10,
+    "languages": {
+      "HTML": 10300
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 255.03,
+    "S_code": 10.06,
+    "S_social": 85,
+    "S_maint": 8
+  },
+  {
+    "name": "StoneServer",
+    "full_name": "codehz/StoneServer",
+    "html_url": "https://github.com/codehz/StoneServer",
+    "description": "A modded minecraft bedrock edition server",
+    "stars": 64,
+    "forks": 5,
+    "languages": {
+      "C": 8539268,
+      "CMake": 187232,
+      "C++": 181344,
+      "HCL": 710
+    },
+    "contributions_by_user": 503,
+    "contribution_score": 9527.88,
+    "S_code": 8699.76,
+    "S_social": 74,
+    "S_maint": 503
+  },
+  {
+    "name": "EatPdb",
+    "full_name": "codehz/EatPdb",
+    "html_url": "https://github.com/codehz/EatPdb",
+    "description": "Export all symbol from PDB!",
+    "stars": 43,
+    "forks": 3,
+    "languages": {
+      "C#": 40912
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 357.98,
+    "S_code": 39.95,
+    "S_social": 49,
+    "S_maint": 24
+  },
+  {
+    "name": "tjs",
+    "full_name": "codehz/tjs",
+    "html_url": "https://github.com/codehz/tjs",
+    "description": "TJS = tinyc compiler + quickjs",
+    "stars": 41,
+    "forks": 3,
+    "languages": {
+      "C": 50698895,
+      "Zig": 127974,
+      "C++": 7910,
+      "JavaScript": 1455,
+      "Batchfile": 25
+    },
+    "contributions_by_user": 171,
+    "contribution_score": 26626.39,
+    "S_code": 49644.78,
+    "S_social": 47,
+    "S_maint": 171
+  },
+  {
+    "name": "BedrockMod",
+    "full_name": "codehz/BedrockMod",
+    "html_url": "https://github.com/codehz/BedrockMod",
+    "description": "Minecraft Bedrock Edition Mod",
+    "stars": 36,
+    "forks": 5,
+    "languages": {
+      "C++": 171357,
+      "Scheme": 77851,
+      "Makefile": 2326,
+      "C": 275
+    },
+    "contributions_by_user": 258,
+    "contribution_score": 2794.95,
+    "S_code": 245.91,
+    "S_social": 46,
+    "S_maint": 258
+  },
+  {
+    "name": "nsroot",
+    "full_name": "codehz/nsroot",
+    "html_url": "https://github.com/codehz/nsroot",
+    "description": "`chroot`, `mount --bind` without privilege",
+    "stars": 33,
+    "forks": 4,
+    "languages": {
+      "C": 11999,
+      "CMake": 213
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 217.96,
+    "S_code": 11.93,
+    "S_social": 41,
+    "S_maint": 13
+  },
+  {
+    "name": "minecraft-unicode-font-generator",
+    "full_name": "codehz/minecraft-unicode-font-generator",
+    "html_url": "https://github.com/codehz/minecraft-unicode-font-generator",
+    "description": "minecraft unicode font textures generator",
+    "stars": 29,
+    "forks": 0,
+    "languages": {
+      "C++": 12584,
+      "Lua": 544
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 224.41,
+    "S_code": 12.82,
+    "S_social": 29,
+    "S_maint": 16
+  },
+  {
+    "name": "bedrock-modloader",
+    "full_name": "codehz/bedrock-modloader",
+    "html_url": "https://github.com/codehz/bedrock-modloader",
+    "description": "ModLoader For Official Bedrock Dedicated Server",
+    "stars": 24,
+    "forks": 2,
+    "languages": {
+      "C++": 10879,
+      "C": 297,
+      "Makefile": 228
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 241.57,
+    "S_code": 11.14,
+    "S_social": 28,
+    "S_maint": 18
+  },
+  {
+    "name": "bashrc-backdoor",
+    "full_name": "codehz/bashrc-backdoor",
+    "html_url": "https://github.com/codehz/bashrc-backdoor",
+    "description": null,
+    "stars": 20,
+    "forks": 6,
+    "languages": {
+      "Shell": 1744
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 114.85,
+    "S_code": 1.7,
+    "S_social": 32,
+    "S_maint": 5
+  },
+  {
+    "name": "BilibiliConsole",
+    "full_name": "codehz/BilibiliConsole",
+    "html_url": "https://github.com/codehz/BilibiliConsole",
+    "description": "Bilibili的Linux客户端",
+    "stars": 19,
+    "forks": 2,
+    "languages": {
+      "C++": 35346,
+      "CMake": 15747
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 260.95,
+    "S_code": 49.9,
+    "S_social": 23,
+    "S_maint": 19
+  },
+  {
+    "name": "easy_sqlite3",
+    "full_name": "codehz/easy_sqlite3",
+    "html_url": "https://github.com/codehz/easy_sqlite3",
+    "description": "Yet another SQLite wrapper for Nim",
+    "stars": 18,
+    "forks": 3,
+    "languages": {
+      "C": 8312766,
+      "Nim": 65315
+    },
+    "contributions_by_user": 45,
+    "contribution_score": 4588.86,
+    "S_code": 8181.72,
+    "S_social": 24,
+    "S_maint": 45
+  },
+  {
+    "name": "nelua-lsp",
+    "full_name": "codehz/nelua-lsp",
+    "html_url": "https://github.com/codehz/nelua-lsp",
+    "description": "Experimenting creating a minimal LSP for Nelua to be used for tooling in text editors",
+    "stars": 18,
+    "forks": 1,
+    "languages": {
+      "Lua": 33161
+    },
+    "contributions_by_user": 37,
+    "contribution_score": 426.19,
+    "S_code": 32.38,
+    "S_social": 20,
+    "S_maint": 37
+  },
+  {
+    "name": "ctxco",
+    "full_name": "codehz/ctxco",
+    "html_url": "https://github.com/codehz/ctxco",
+    "description": "Minimal (and intuitive to use) coroutine implement in c",
+    "stars": 18,
+    "forks": 1,
+    "languages": {
+      "C": 23800,
+      "Assembly": 22244,
+      "Lua": 1514,
+      "C++": 1447,
+      "Makefile": 51
+    },
+    "contributions_by_user": 36,
+    "contribution_score": 423.95,
+    "S_code": 47.91,
+    "S_social": 20,
+    "S_maint": 36
+  },
+  {
+    "name": "pingms",
+    "full_name": "codehz/pingms",
+    "html_url": "https://github.com/codehz/pingms",
+    "description": "Source code of PING ms",
+    "stars": 18,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 8082,
+      "CSS": 1988,
+      "HTML": 593
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 75.21,
+    "S_code": 10.41,
+    "S_social": 20,
+    "S_maint": 3
+  },
+  {
+    "name": "deno-mtproto",
+    "full_name": "codehz/deno-mtproto",
+    "html_url": "https://github.com/codehz/deno-mtproto",
+    "description": "MTProto for Deno",
+    "stars": 14,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 1397498,
+      "TypeScript": 151956
+    },
+    "contributions_by_user": 116,
+    "contribution_score": 1956.57,
+    "S_code": 1513.14,
+    "S_social": 20,
+    "S_maint": 116
+  },
+  {
+    "name": "cobblestone",
+    "full_name": "codehz/cobblestone",
+    "html_url": "https://github.com/codehz/cobblestone",
+    "description": "StoneServer for BDS",
+    "stars": 14,
+    "forks": 1,
+    "languages": {
+      "C": 8462948,
+      "C++": 640625,
+      "CMake": 2622,
+      "Shell": 985
+    },
+    "contributions_by_user": 46,
+    "contribution_score": 4938.87,
+    "S_code": 8893.73,
+    "S_social": 16,
+    "S_maint": 46
+  },
+  {
+    "name": "css-in-bun",
+    "full_name": "codehz/css-in-bun",
+    "html_url": "https://github.com/codehz/css-in-bun",
+    "description": "CSS-in-Bun macro inspired by Meta's stylex (and johanholmerin/style9)",
+    "stars": 13,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 14837,
+      "JavaScript": 929
+    },
+    "contributions_by_user": 27,
+    "contribution_score": 307.7,
+    "S_code": 15.4,
+    "S_social": 15,
+    "S_maint": 27
+  },
+  {
+    "name": "GPhotosDumper",
+    "full_name": "codehz/GPhotosDumper",
+    "html_url": "https://github.com/codehz/GPhotosDumper",
+    "description": "Google Photos Dumper",
+    "stars": 13,
+    "forks": 1,
+    "languages": {
+      "Go": 2849
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 61.39,
+    "S_code": 2.78,
+    "S_social": 15,
+    "S_maint": 3
+  },
+  {
+    "name": "tgbotserver-build",
+    "full_name": "codehz/tgbotserver-build",
+    "html_url": "https://github.com/codehz/tgbotserver-build",
+    "description": "Github Action for Telegram Bot API Server",
+    "stars": 12,
+    "forks": 1,
+    "languages": {
+      "Dockerfile": 428
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 248.21,
+    "S_code": 0.42,
+    "S_social": 14,
+    "S_maint": 22
+  },
+  {
+    "name": "BDSD",
+    "full_name": "codehz/BDSD",
+    "html_url": "https://github.com/codehz/BDSD",
+    "description": "BDS Dumper (WIP)",
+    "stars": 12,
+    "forks": 1,
+    "languages": {
+      "C": 9343651,
+      "C++": 440004,
+      "HTML": 29469,
+      "CSS": 9685,
+      "CMake": 5179
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 4866.82,
+    "S_code": 9597.64,
+    "S_social": 14,
+    "S_maint": 4
+  },
+  {
+    "name": "funcptr",
+    "full_name": "codehz/funcptr",
+    "html_url": "https://github.com/codehz/funcptr",
+    "description": "A bridge for convert c++ function object to c function pointer (with user pointer)",
+    "stars": 12,
+    "forks": 0,
+    "languages": {
+      "C++": 9091,
+      "CMake": 392
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 78.63,
+    "S_code": 9.26,
+    "S_social": 12,
+    "S_maint": 5
+  },
+  {
+    "name": "winsilo",
+    "full_name": "codehz/winsilo",
+    "html_url": "https://github.com/codehz/winsilo",
+    "description": "Windows Server Container Experiments",
+    "stars": 11,
+    "forks": 2,
+    "languages": {
+      "C#": 4560285,
+      "Smalltalk": 66478
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 2319.16,
+    "S_code": 4518.32,
+    "S_social": 15,
+    "S_maint": 3
+  },
+  {
+    "name": "bun-react-ssr",
+    "full_name": "codehz/bun-react-ssr",
+    "html_url": "https://github.com/codehz/bun-react-ssr",
+    "description": null,
+    "stars": 10,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 32782
+    },
+    "contributions_by_user": 86,
+    "contribution_score": 900.01,
+    "S_code": 32.01,
+    "S_social": 12,
+    "S_maint": 86
+  },
+  {
+    "name": "DiscussPollBot",
+    "full_name": "codehz/DiscussPollBot",
+    "html_url": "https://github.com/codehz/DiscussPollBot",
+    "description": "Just a telegram poll bot",
+    "stars": 10,
+    "forks": 1,
+    "languages": {
+      "C#": 26145
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 226.77,
+    "S_code": 25.53,
+    "S_social": 12,
+    "S_maint": 19
+  },
+  {
+    "name": "EasyPak",
+    "full_name": "codehz/EasyPak",
+    "html_url": "https://github.com/codehz/EasyPak",
+    "description": null,
+    "stars": 10,
+    "forks": 0,
+    "languages": {
+      "C": 83762,
+      "CMake": 2090,
+      "Shell": 385
+    },
+    "contributions_by_user": 78,
+    "contribution_score": 842.11,
+    "S_code": 84.22,
+    "S_social": 10,
+    "S_maint": 78
+  },
+  {
+    "name": "nim-vtable",
+    "full_name": "codehz/nim-vtable",
+    "html_url": "https://github.com/codehz/nim-vtable",
+    "description": null,
+    "stars": 9,
+    "forks": 0,
+    "languages": {
+      "Nim": 15202
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 265.42,
+    "S_code": 14.85,
+    "S_social": 9,
+    "S_maint": 24
+  },
+  {
+    "name": "mcpe-mods-dev",
+    "full_name": "codehz/mcpe-mods-dev",
+    "html_url": "https://github.com/codehz/mcpe-mods-dev",
+    "description": null,
+    "stars": 9,
+    "forks": 1,
+    "languages": {
+      "Nim": 40194,
+      "C++": 27177,
+      "Makefile": 2107,
+      "Assembly": 904
+    },
+    "contributions_by_user": 48,
+    "contribution_score": 536.37,
+    "S_code": 68.73,
+    "S_social": 11,
+    "S_maint": 48
+  },
+  {
+    "name": "DeckScreenshotManager",
+    "full_name": "codehz/DeckScreenshotManager",
+    "html_url": "https://github.com/codehz/DeckScreenshotManager",
+    "description": "Add screenshot manager because valve don't do it. https://steamcommunity.com/app/1675200/discussions/2/6117591738155117046/",
+    "stars": 8,
+    "forks": 2,
+    "languages": {
+      "TypeScript": 9619,
+      "Python": 6543,
+      "JavaScript": 113
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 261.95,
+    "S_code": 15.89,
+    "S_social": 12,
+    "S_maint": 23
+  },
+  {
+    "name": "ws-gateway",
+    "full_name": "codehz/ws-gateway",
+    "html_url": "https://github.com/codehz/ws-gateway",
+    "description": "WebSocket API gateway built using deno",
+    "stars": 7,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 160509
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 242.37,
+    "S_code": 156.75,
+    "S_social": 7,
+    "S_maint": 15
+  },
+  {
+    "name": "headless-wine",
+    "full_name": "codehz/headless-wine",
+    "html_url": "https://github.com/codehz/headless-wine",
+    "description": "A experiment that try to remove some of graphic features from wine",
+    "stars": 6,
+    "forks": 1,
+    "languages": {
+      "Shell": 38229
+    },
+    "contributions_by_user": 115,
+    "contribution_score": 1184.67,
+    "S_code": 37.33,
+    "S_social": 8,
+    "S_maint": 115
+  },
+  {
+    "name": "bedrockserver",
+    "full_name": "codehz/bedrockserver",
+    "html_url": "https://github.com/codehz/bedrockserver",
+    "description": "See codehz/mcpeserver",
+    "stars": 6,
+    "forks": 2,
+    "languages": {
+      "C": 8129276,
+      "Nim": 181649,
+      "C++": 50870,
+      "Dockerfile": 1082
+    },
+    "contributions_by_user": 102,
+    "contribution_score": 5123.44,
+    "S_code": 8166.87,
+    "S_social": 10,
+    "S_maint": 102
+  },
+  {
+    "name": "mcpe-demo",
+    "full_name": "codehz/mcpe-demo",
+    "html_url": "https://github.com/codehz/mcpe-demo",
+    "description": "A simple wrapper to launch a Minecraft server(bedrock edition)",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "Shell": 536
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 82.26,
+    "S_code": 0.52,
+    "S_social": 6,
+    "S_maint": 7
+  },
+  {
+    "name": "deno-pbf",
+    "full_name": "codehz/deno-pbf",
+    "html_url": "https://github.com/codehz/deno-pbf",
+    "description": "Deno pbf port of https://github.com/mapbox/pbf",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 16567
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 132.09,
+    "S_code": 16.18,
+    "S_social": 7,
+    "S_maint": 11
+  },
+  {
+    "name": "dslutils",
+    "full_name": "codehz/dslutils",
+    "html_url": "https://github.com/codehz/dslutils",
+    "description": null,
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Nim": 9743
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 174.76,
+    "S_code": 9.51,
+    "S_social": 5,
+    "S_maint": 16
+  },
+  {
+    "name": "warsandbox",
+    "full_name": "codehz/warsandbox",
+    "html_url": "https://github.com/codehz/warsandbox",
+    "description": null,
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Zig": 88394,
+      "TypeScript": 39105,
+      "HTML": 841
+    },
+    "contributions_by_user": 93,
+    "contribution_score": 1002.67,
+    "S_code": 125.33,
+    "S_social": 5,
+    "S_maint": 93
+  },
+  {
+    "name": "MiniBus",
+    "full_name": "codehz/MiniBus",
+    "html_url": "https://github.com/codehz/MiniBus",
+    "description": null,
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Elixir": 50934
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 274.87,
+    "S_code": 49.74,
+    "S_social": 5,
+    "S_maint": 24
+  },
+  {
+    "name": "mcpe-ping-dashboard",
+    "full_name": "codehz/mcpe-ping-dashboard",
+    "html_url": "https://github.com/codehz/mcpe-ping-dashboard",
+    "description": "simple dashboard for mcpe",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "HTML": 2016,
+      "JavaScript": 1696
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 45.81,
+    "S_code": 3.62,
+    "S_social": 7,
+    "S_maint": 3
+  },
+  {
+    "name": "matrix.h",
+    "full_name": "codehz/matrix.h",
+    "html_url": "https://github.com/codehz/matrix.h",
+    "description": "Just a (toy) library for matrix operation.(C++17 required)",
+    "stars": 5,
+    "forks": 2,
+    "languages": {
+      "C++": 41213,
+      "Makefile": 205
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 68.22,
+    "S_code": 40.45,
+    "S_social": 9,
+    "S_maint": 3
+  },
+  {
+    "name": "deno-pug",
+    "full_name": "codehz/deno-pug",
+    "html_url": "https://github.com/codehz/deno-pug",
+    "description": "Pug template engine for deno(for proper typing definition)",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6727,
+      "TypeScript": 1203,
+      "Pug": 252
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 142.0,
+    "S_code": 7.99,
+    "S_social": 4,
+    "S_maint": 13
+  },
+  {
+    "name": "fakeselinux",
+    "full_name": "codehz/fakeselinux",
+    "html_url": "https://github.com/codehz/fakeselinux",
+    "description": null,
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Shell": 699
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 18.34,
+    "S_code": 0.68,
+    "S_social": 4,
+    "S_maint": 1
+  },
+  {
+    "name": "box.js",
+    "full_name": "codehz/box.js",
+    "html_url": "https://github.com/codehz/box.js",
+    "description": "📦A simple web frontend framework.",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 47340,
+      "CSS": 6539,
+      "HTML": 5216
+    },
+    "contributions_by_user": 39,
+    "contribution_score": 430.85,
+    "S_code": 57.71,
+    "S_social": 6,
+    "S_maint": 39
+  },
+  {
+    "name": "nanokv",
+    "full_name": "codehz/nanokv",
+    "html_url": "https://github.com/codehz/nanokv",
+    "description": null,
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 106729,
+      "C++": 90723,
+      "Lua": 1325,
+      "C": 245
+    },
+    "contributions_by_user": 132,
+    "contribution_score": 1427.18,
+    "S_code": 194.36,
+    "S_social": 5,
+    "S_maint": 132
+  },
+  {
+    "name": "deno-mcmod-downloader",
+    "full_name": "codehz/deno-mcmod-downloader",
+    "html_url": "https://github.com/codehz/deno-mcmod-downloader",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 19787
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 95.66,
+    "S_code": 19.32,
+    "S_social": 3,
+    "S_maint": 8
+  },
+  {
+    "name": "stickerbot",
+    "full_name": "codehz/stickerbot",
+    "html_url": "https://github.com/codehz/stickerbot",
+    "description": null,
+    "stars": 3,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 5,
+    "S_maint": 1
+  },
+  {
+    "name": "condlg",
+    "full_name": "codehz/condlg",
+    "html_url": "https://github.com/codehz/condlg",
+    "description": "Dialog builder for windows",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Zig": 60090
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 85.34,
+    "S_code": 58.68,
+    "S_social": 3,
+    "S_maint": 5
+  },
+  {
+    "name": "mini_bus_cpp",
+    "full_name": "codehz/mini_bus_cpp",
+    "html_url": "https://github.com/codehz/mini_bus_cpp",
+    "description": "MiniBusConnector for C++",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "C++": 23436,
+      "CMake": 665
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 247.77,
+    "S_code": 23.54,
+    "S_social": 3,
+    "S_maint": 23
+  },
+  {
+    "name": "ws-gw",
+    "full_name": "codehz/ws-gw",
+    "html_url": "https://github.com/codehz/ws-gw",
+    "description": "ws-gateway for c++",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "C++": 107788,
+      "CMake": 769,
+      "TypeScript": 383
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 229.19,
+    "S_code": 106.39,
+    "S_social": 3,
+    "S_maint": 17
+  },
+  {
+    "name": "StopPlayMod",
+    "full_name": "codehz/StopPlayMod",
+    "html_url": "https://github.com/codehz/StopPlayMod",
+    "description": null,
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "C++": 2208,
+      "CMake": 1701
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 41.91,
+    "S_code": 3.82,
+    "S_social": 5,
+    "S_maint": 3
+  },
+  {
+    "name": "ttp",
+    "full_name": "codehz/ttp",
+    "html_url": "https://github.com/codehz/ttp",
+    "description": "Minimal HTTP library (pure)",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "C": 18951,
+      "C++": 2368,
+      "Lua": 1586
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 97.18,
+    "S_code": 22.37,
+    "S_social": 3,
+    "S_maint": 8
+  },
+  {
+    "name": "minecraft-scripting-typings-server-side",
+    "full_name": "codehz/minecraft-scripting-typings-server-side",
+    "html_url": "https://github.com/codehz/minecraft-scripting-typings-server-side",
+    "description": "typescript definition for minecraft scripting engine (ServerSide only)",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 5607
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 28.74,
+    "S_code": 5.48,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "vscode-chaiscript-syntax",
+    "full_name": "codehz/vscode-chaiscript-syntax",
+    "html_url": "https://github.com/codehz/vscode-chaiscript-syntax",
+    "description": "Just a simple syntax for chaiscript",
+    "stars": 3,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 11,
+    "contribution_score": 116.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 11
+  },
+  {
+    "name": "mcpelauncher-linux",
+    "full_name": "codehz/mcpelauncher-linux",
+    "html_url": "https://github.com/codehz/mcpelauncher-linux",
+    "description": "Launch MCPE on Linux!",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "C++": 508842,
+      "C": 508025,
+      "Python": 126157,
+      "CMake": 24181,
+      "HTML": 22930,
+      "Assembly": 3855,
+      "Shell": 3573,
+      "CSS": 2611,
+      "JavaScript": 1991,
+      "Makefile": 609
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 623.29,
+    "S_code": 1174.58,
+    "S_social": 3,
+    "S_maint": 3
+  },
+  {
+    "name": "auto-transition",
+    "full_name": "codehz/auto-transition",
+    "html_url": "https://github.com/codehz/auto-transition",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 10493,
+      "JavaScript": 886
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 39.56,
+    "S_code": 11.11,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "chat-layout",
+    "full_name": "codehz/chat-layout",
+    "html_url": "https://github.com/codehz/chat-layout",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "HTML": 394
+    },
+    "contributions_by_user": 31,
+    "contribution_score": 314.19,
+    "S_code": 0.38,
+    "S_social": 2,
+    "S_maint": 31
+  },
+  {
+    "name": "tganime",
+    "full_name": "codehz/tganime",
+    "html_url": "https://github.com/codehz/tganime",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 16609
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 96.11,
+    "S_code": 16.22,
+    "S_social": 4,
+    "S_maint": 8
+  },
+  {
+    "name": "bun-xattr",
+    "full_name": "codehz/bun-xattr",
+    "html_url": "https://github.com/codehz/bun-xattr",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 8849
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 92.32,
+    "S_code": 8.64,
+    "S_social": 4,
+    "S_maint": 8
+  },
+  {
+    "name": "tgwebsite",
+    "full_name": "codehz/tgwebsite",
+    "html_url": "https://github.com/codehz/tgwebsite",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 13980
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 20.83,
+    "S_code": 13.65,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "qlite",
+    "full_name": "codehz/qlite",
+    "html_url": "https://github.com/codehz/qlite",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 76449,
+      "JavaScript": 3869
+    },
+    "contributions_by_user": 95,
+    "contribution_score": 993.22,
+    "S_code": 78.44,
+    "S_social": 2,
+    "S_maint": 95
+  },
+  {
+    "name": "SEXP",
+    "full_name": "codehz/SEXP",
+    "html_url": "https://github.com/codehz/SEXP",
+    "description": "Just A Experiment",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Reason": 36298,
+      "JavaScript": 6038,
+      "CSS": 4119,
+      "HTML": 462
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 320.91,
+    "S_code": 45.82,
+    "S_social": 4,
+    "S_maint": 29
+  },
+  {
+    "name": "tree-sitter-nelua",
+    "full_name": "codehz/tree-sitter-nelua",
+    "html_url": "https://github.com/codehz/tree-sitter-nelua",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C": 2371490,
+      "JavaScript": 13026,
+      "C++": 9893,
+      "Rust": 3242,
+      "Scheme": 2347,
+      "Python": 402
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 1266.07,
+    "S_code": 2344.14,
+    "S_social": 2,
+    "S_maint": 9
+  },
+  {
+    "name": "pixivbot",
+    "full_name": "codehz/pixivbot",
+    "html_url": "https://github.com/codehz/pixivbot",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Go": 26859
+    },
+    "contributions_by_user": 41,
+    "contribution_score": 431.11,
+    "S_code": 26.23,
+    "S_social": 4,
+    "S_maint": 41
+  },
+  {
+    "name": "tiny-expr",
+    "full_name": "codehz/tiny-expr",
+    "html_url": "https://github.com/codehz/tiny-expr",
+    "description": "eval js expression in safe way",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 31068
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 69.17,
+    "S_code": 30.34,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "sandbox-test",
+    "full_name": "codehz/sandbox-test",
+    "html_url": "https://github.com/codehz/sandbox-test",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Rust": 136416,
+      "GLSL": 10256
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 315.62,
+    "S_code": 143.23,
+    "S_social": 2,
+    "S_maint": 24
+  },
+  {
+    "name": "nim-winres",
+    "full_name": "codehz/nim-winres",
+    "html_url": "https://github.com/codehz/nim-winres",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Nim": 9251
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 118.52,
+    "S_code": 9.03,
+    "S_social": 2,
+    "S_maint": 11
+  },
+  {
+    "name": "SharpPdb",
+    "full_name": "codehz/SharpPdb",
+    "html_url": "https://github.com/codehz/SharpPdb",
+    "description": "Library for reading PDB files, both Windows and PortablePDBs.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C#": 732039,
+      "PowerShell": 718,
+      "Shell": 462
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 372.02,
+    "S_code": 716.03,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "bedweb",
+    "full_name": "codehz/bedweb",
+    "html_url": "https://github.com/codehz/bedweb",
+    "description": "BedWeb Dashboard - front end",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 48835,
+      "CSS": 14217,
+      "HTML": 178
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 124.87,
+    "S_code": 61.75,
+    "S_social": 2,
+    "S_maint": 9
+  },
+  {
+    "name": "stonectl",
+    "full_name": "codehz/stonectl",
+    "html_url": "https://github.com/codehz/stonectl",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C++": 24130,
+      "CMake": 6356,
+      "HCL": 379
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 269.07,
+    "S_code": 30.14,
+    "S_social": 2,
+    "S_maint": 25
+  },
+  {
+    "name": "mcpelauncher-server",
+    "full_name": "codehz/mcpelauncher-server",
+    "html_url": "https://github.com/codehz/mcpelauncher-server",
+    "description": "The Minecraft: Bedrock Edition server launcher",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C++": 18521,
+      "CMake": 445
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 43.26,
+    "S_code": 18.52,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "mcpe-server",
+    "full_name": "codehz/mcpe-server",
+    "html_url": "https://github.com/codehz/mcpe-server",
+    "description": "A simple dockerfile for Minecraft Server launcher's building.",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Shell": 147
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 128.07,
+    "S_code": 0.14,
+    "S_social": 4,
+    "S_maint": 12
+  },
+  {
+    "name": "purebbs",
+    "full_name": "codehz/purebbs",
+    "html_url": "https://github.com/codehz/purebbs",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Haskell": 30247
+    },
+    "contributions_by_user": 50,
+    "contribution_score": 518.77,
+    "S_code": 29.54,
+    "S_social": 2,
+    "S_maint": 50
+  },
+  {
+    "name": "ife-z07",
+    "full_name": "codehz/ife-z07",
+    "html_url": "https://github.com/codehz/ife-z07",
+    "description": "第七题",
+    "stars": 2,
+    "forks": 7,
+    "languages": {
+      "CSS": 16673,
+      "HTML": 13860
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 256.91,
+    "S_code": 29.82,
+    "S_social": 16,
+    "S_maint": 21
+  },
+  {
+    "name": "Docker-Forge",
+    "full_name": "codehz/Docker-Forge",
+    "html_url": "https://github.com/codehz/Docker-Forge",
+    "description": "我的世界Forge服务端启动器 for Docker",
+    "stars": 2,
+    "forks": 2,
+    "languages": {
+      "Shell": 6519
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 115.18,
+    "S_code": 6.37,
+    "S_social": 6,
+    "S_maint": 10
+  },
+  {
+    "name": "C4Droid-Code-Manual",
+    "full_name": "codehz/C4Droid-Code-Manual",
+    "html_url": "https://github.com/codehz/C4Droid-Code-Manual",
+    "description": "原始作者TTHHR(度娘贴吧)",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 53977
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 320.36,
+    "S_code": 52.71,
+    "S_social": 2,
+    "S_maint": 29
+  },
+  {
+    "name": "bun-tailwindcss",
+    "full_name": "codehz/bun-tailwindcss",
+    "html_url": "https://github.com/codehz/bun-tailwindcss",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 5799,
+      "CSS": 23
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 198.84,
+    "S_code": 5.69,
+    "S_social": 3,
+    "S_maint": 19
+  },
+  {
+    "name": "denokv",
+    "full_name": "codehz/denokv",
+    "html_url": "https://github.com/codehz/denokv",
+    "description": "A self-hosted backend for Deno KV",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 279455,
+      "Rust": 228515,
+      "Dockerfile": 521
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 250.29,
+    "S_code": 496.57,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "bun-allow-macros",
+    "full_name": "codehz/bun-allow-macros",
+    "html_url": "https://github.com/codehz/bun-allow-macros",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3014
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.47,
+    "S_code": 2.94,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "svg-in-bun",
+    "full_name": "codehz/svg-in-bun",
+    "html_url": "https://github.com/codehz/svg-in-bun",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 6780
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 55.31,
+    "S_code": 6.62,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "nelua-lang",
+    "full_name": "codehz/nelua-lang",
+    "html_url": "https://github.com/codehz/nelua-lang",
+    "description": "Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Lua": 1754418,
+      "C": 1170294,
+      "Makefile": 10336,
+      "Dockerfile": 690,
+      "Shell": 610,
+      "Batchfile": 76
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1435.8,
+    "S_code": 2867.6,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "nobodyexec",
+    "full_name": "codehz/nobodyexec",
+    "html_url": "https://github.com/codehz/nobodyexec",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 735,
+      "Makefile": 40
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.38,
+    "S_code": 0.76,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "sqlite3-wasm",
+    "full_name": "codehz/sqlite3-wasm",
+    "html_url": "https://github.com/codehz/sqlite3-wasm",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Zig": 19585,
+      "TypeScript": 19262
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 280.97,
+    "S_code": 37.94,
+    "S_social": 1,
+    "S_maint": 26
+  },
+  {
+    "name": "DiscussPollBotR",
+    "full_name": "codehz/DiscussPollBotR",
+    "html_url": "https://github.com/codehz/DiscussPollBotR",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 11548
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 57.64,
+    "S_code": 11.28,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "rapier2d-js-demo",
+    "full_name": "codehz/rapier2d-js-demo",
+    "html_url": "https://github.com/codehz/rapier2d-js-demo",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 16.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "sokol",
+    "full_name": "codehz/sokol",
+    "html_url": "https://github.com/codehz/sokol",
+    "description": "Sokol wrapper for nim",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Nim": 63282
+    },
+    "contributions_by_user": 81,
+    "contribution_score": 842.9,
+    "S_code": 61.8,
+    "S_social": 1,
+    "S_maint": 81
+  },
+  {
+    "name": "packages",
+    "full_name": "codehz/packages",
+    "html_url": "https://github.com/codehz/packages",
+    "description": "List of packages for Nimble",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Nim": 5741,
+      "JavaScript": 78
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.84,
+    "S_code": 5.68,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ipfs-paste",
+    "full_name": "codehz/ipfs-paste",
+    "html_url": "https://github.com/codehz/ipfs-paste",
+    "description": "Code paste service",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "CSS": 13640,
+      "TypeScript": 13047,
+      "LiveScript": 4237,
+      "Pug": 4147
+    },
+    "contributions_by_user": 54,
+    "contribution_score": 559.12,
+    "S_code": 34.25,
+    "S_social": 1,
+    "S_maint": 54
+  },
+  {
+    "name": "deno-livescript",
+    "full_name": "codehz/deno-livescript",
+    "html_url": "https://github.com/codehz/deno-livescript",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 533016,
+      "TypeScript": 426
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 282.47,
+    "S_code": 520.94,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "deno-file-server",
+    "full_name": "codehz/deno-file-server",
+    "html_url": "https://github.com/codehz/deno-file-server",
+    "description": "A minimal file server for deno, using native HTTP Server",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 15834,
+      "HTML": 6299,
+      "JavaScript": 257
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 162.93,
+    "S_code": 21.87,
+    "S_social": 1,
+    "S_maint": 15
+  },
+  {
+    "name": "xmlio",
+    "full_name": "codehz/xmlio",
+    "html_url": "https://github.com/codehz/xmlio",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Nim": 44229
+    },
+    "contributions_by_user": 46,
+    "contribution_score": 483.6,
+    "S_code": 43.19,
+    "S_social": 1,
+    "S_maint": 46
+  },
+  {
+    "name": "nimake",
+    "full_name": "codehz/nimake",
+    "html_url": "https://github.com/codehz/nimake",
+    "description": "Buildscript written by nim",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Nim": 18896
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 301.23,
+    "S_code": 18.45,
+    "S_social": 1,
+    "S_maint": 29
+  },
+  {
+    "name": "essrpc",
+    "full_name": "codehz/essrpc",
+    "html_url": "https://github.com/codehz/essrpc",
+    "description": "RPC library for Rust",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Rust": 51099,
+      "Makefile": 172
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 27.03,
+    "S_code": 50.07,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "tjs-experiment",
+    "full_name": "codehz/tjs-experiment",
+    "html_url": "https://github.com/codehz/tjs-experiment",
+    "description": "Some random stuff",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 26397,
+      "JavaScript": 1128
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 35.44,
+    "S_code": 26.88,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "mini_bus_rust",
+    "full_name": "codehz/mini_bus_rust",
+    "html_url": "https://github.com/codehz/mini_bus_rust",
+    "description": "MiniBus Server Implemented in rust",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Rust": 53932
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 158.33,
+    "S_code": 52.67,
+    "S_social": 1,
+    "S_maint": 13
+  },
+  {
+    "name": "ws-gw.js",
+    "full_name": "codehz/ws-gw.js",
+    "html_url": "https://github.com/codehz/ws-gw.js",
+    "description": "ws-gateway client for node.js",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 238604,
+      "TypeScript": 163655
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 238.42,
+    "S_code": 392.83,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "deno-template",
+    "full_name": "codehz/deno-template",
+    "html_url": "https://github.com/codehz/deno-template",
+    "description": "Basic template for deno (vscode config)",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 12.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "hterm-vs-xterm",
+    "full_name": "codehz/hterm-vs-xterm",
+    "html_url": "https://github.com/codehz/hterm-vs-xterm",
+    "description": "hterm.js vs xterm.js",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3378,
+      "HTML": 3076,
+      "CSS": 2900
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 116.57,
+    "S_code": 9.13,
+    "S_social": 1,
+    "S_maint": 11
+  },
+  {
+    "name": "ptyd",
+    "full_name": "codehz/ptyd",
+    "html_url": "https://github.com/codehz/ptyd",
+    "description": "streaming pty via websocket",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 1921,
+      "TypeScript": 1627
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 27.73,
+    "S_code": 3.46,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "hterm-packager",
+    "full_name": "codehz/hterm-packager",
+    "html_url": "https://github.com/codehz/hterm-packager",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 18,
+    "contribution_score": 182.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 18
+  },
+  {
+    "name": "arch-cmake-builder",
+    "full_name": "codehz/arch-cmake-builder",
+    "html_url": "https://github.com/codehz/arch-cmake-builder",
+    "description": null,
+    "stars": 1,
+    "forks": 5,
+    "languages": {
+      "Dockerfile": 539,
+      "Shell": 218
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 112.37,
+    "S_code": 0.74,
+    "S_social": 11,
+    "S_maint": 9
+  },
+  {
+    "name": "xmake-docker",
+    "full_name": "codehz/xmake-docker",
+    "html_url": "https://github.com/codehz/xmake-docker",
+    "description": null,
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "Dockerfile": 253
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 60.12,
+    "S_code": 0.25,
+    "S_social": 5,
+    "S_maint": 5
+  },
+  {
+    "name": "xmake",
+    "full_name": "codehz/xmake",
+    "html_url": "https://github.com/codehz/xmake",
+    "description": "🔥 A cross-platform build utility based on Lua",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 3365372,
+      "Lua": 2567202,
+      "C++": 915818,
+      "Assembly": 896239,
+      "Objective-C": 491897,
+      "Makefile": 61708,
+      "Perl": 34522,
+      "Shell": 21490,
+      "Cuda": 20679,
+      "Elixir": 17744,
+      "NSIS": 9978,
+      "PowerShell": 8657,
+      "Roff": 7111,
+      "Yacc": 2015,
+      "VBScript": 1989,
+      "Go": 1292,
+      "D": 1197,
+      "QML": 548,
+      "Lex": 466,
+      "Objective-C++": 462,
+      "Rust": 442,
+      "Batchfile": 338,
+      "Swift": 156
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4116.9,
+    "S_code": 8229.81,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "tbox",
+    "full_name": "codehz/tbox",
+    "html_url": "https://github.com/codehz/tbox",
+    "description": "🎁 A glib-like multi-platform c library",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 4519809,
+      "GAP": 497972,
+      "C++": 398659,
+      "Assembly": 77620,
+      "Objective-C": 39797,
+      "Lua": 29870
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2718.66,
+    "S_code": 5433.33,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "EDebug",
+    "full_name": "codehz/EDebug",
+    "html_url": "https://github.com/codehz/EDebug",
+    "description": "Debug your site by electron",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 803
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.39,
+    "S_code": 0.78,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "cobblectl",
+    "full_name": "codehz/cobblectl",
+    "html_url": "https://github.com/codehz/cobblectl",
+    "description": "Service controller for cobblestone server",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 22113,
+      "Shell": 1653,
+      "CMake": 608
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 113.9,
+    "S_code": 23.8,
+    "S_social": 1,
+    "S_maint": 10
+  },
+  {
+    "name": "nsgod",
+    "full_name": "codehz/nsgod",
+    "html_url": "https://github.com/codehz/nsgod",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 27628,
+      "HCL": 712,
+      "CMake": 612
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 256.14,
+    "S_code": 28.27,
+    "S_social": 1,
+    "S_maint": 24
+  },
+  {
+    "name": "base-node",
+    "full_name": "codehz/base-node",
+    "html_url": "https://github.com/codehz/base-node",
+    "description": "A Experiment to build world's most minimalist node image.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Dockerfile": 791,
+      "Shell": 155
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 182.46,
+    "S_code": 0.92,
+    "S_social": 1,
+    "S_maint": 18
+  },
+  {
+    "name": "mcpe-arch",
+    "full_name": "codehz/mcpe-arch",
+    "html_url": "https://github.com/codehz/mcpe-arch",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Shell": 2931
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 53.43,
+    "S_code": 2.86,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "mcpe-mods-repo",
+    "full_name": "codehz/mcpe-mods-repo",
+    "html_url": "https://github.com/codehz/mcpe-mods-repo",
+    "description": "mods repository",
+    "stars": 1,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 53,
+    "contribution_score": 536.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 53
+  },
+  {
+    "name": "BoxedApp",
+    "full_name": "codehz/BoxedApp",
+    "html_url": "https://github.com/codehz/BoxedApp",
+    "description": "Boxed Application Platform",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 29416,
+      "HTML": 273
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 56.5,
+    "S_code": 28.99,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "gitcloner",
+    "full_name": "codehz/gitcloner",
+    "html_url": "https://github.com/codehz/gitcloner",
+    "description": "Clone Git Repository Using Docker Builder",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 8,
+    "contribution_score": 82.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 8
+  },
+  {
+    "name": "DroidPlugin",
+    "full_name": "codehz/DroidPlugin",
+    "html_url": "https://github.com/codehz/DroidPlugin",
+    "description": "A plugin framework on android,Run any third-party apk without installation, modification or repackage",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 1103679,
+      "C++": 14324,
+      "C": 8311
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 561.96,
+    "S_code": 1099.92,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "reactpack",
+    "full_name": "codehz/reactpack",
+    "html_url": "https://github.com/codehz/reactpack",
+    "description": ":package: build your react apps with one command and one `npm i`.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 12000,
+      "HTML": 395
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 18.05,
+    "S_code": 12.1,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "node-webshell",
+    "full_name": "codehz/node-webshell",
+    "html_url": "https://github.com/codehz/node-webshell",
+    "description": null,
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 619
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 40.3,
+    "S_code": 0.6,
+    "S_social": 5,
+    "S_maint": 3
+  },
+  {
+    "name": "commandblock",
+    "full_name": "codehz/commandblock",
+    "html_url": "https://github.com/codehz/commandblock",
+    "description": "demo",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 106180,
+      "HTML": 12362,
+      "CSS": 2101
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 90.91,
+    "S_code": 117.82,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "ife-j30",
+    "full_name": "codehz/ife-j30",
+    "html_url": "https://github.com/codehz/ife-j30",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "HTML": 2339,
+      "JavaScript": 2266,
+      "CSS": 1337
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 48.9,
+    "S_code": 5.8,
+    "S_social": 3,
+    "S_maint": 4
+  },
+  {
+    "name": "ArrowDownloadButton",
+    "full_name": "codehz/ArrowDownloadButton",
+    "html_url": "https://github.com/codehz/ArrowDownloadButton",
+    "description": "A download button with pretty cool animation",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 24790
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.1,
+    "S_code": 24.21,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "C4droidHelper",
+    "full_name": "codehz/C4droidHelper",
+    "html_url": "https://github.com/codehz/C4droidHelper",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Kotlin": 14142
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 28.91,
+    "S_code": 13.81,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "group-guard",
+    "full_name": "codehz/group-guard",
+    "html_url": "https://github.com/codehz/group-guard",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 226149,
+      "JavaScript": 63140,
+      "CSS": 3076
+    },
+    "contributions_by_user": 36,
+    "contribution_score": 502.76,
+    "S_code": 285.51,
+    "S_social": 0,
+    "S_maint": 36
+  },
+  {
+    "name": "ecs",
+    "full_name": "codehz/ecs",
+    "html_url": "https://github.com/codehz/ecs",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 306667,
+      "JavaScript": 2451
+    },
+    "contributions_by_user": 129,
+    "contribution_score": 1440.94,
+    "S_code": 301.87,
+    "S_social": 0,
+    "S_maint": 129
+  },
+  {
+    "name": "ts-json-schema",
+    "full_name": "codehz/ts-json-schema",
+    "html_url": "https://github.com/codehz/ts-json-schema",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 19965,
+      "JavaScript": 579
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 210.03,
+    "S_code": 20.06,
+    "S_social": 0,
+    "S_maint": 20
+  },
+  {
+    "name": "capnweb",
+    "full_name": "codehz/capnweb",
+    "html_url": "https://github.com/codehz/capnweb",
+    "description": "JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 207081,
+      "JavaScript": 1797
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 101.99,
+    "S_code": 203.98,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "min-cjs-runner",
+    "full_name": "codehz/min-cjs-runner",
+    "html_url": "https://github.com/codehz/min-cjs-runner",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 3986
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 21.95,
+    "S_code": 3.89,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "pipeline",
+    "full_name": "codehz/pipeline",
+    "html_url": "https://github.com/codehz/pipeline",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 12032
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 45.88,
+    "S_code": 11.75,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "workflow",
+    "full_name": "codehz/workflow",
+    "html_url": "https://github.com/codehz/workflow",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 111992
+    },
+    "contributions_by_user": 86,
+    "contribution_score": 914.68,
+    "S_code": 109.37,
+    "S_social": 0,
+    "S_maint": 86
+  },
+  {
+    "name": "mqtt-server",
+    "full_name": "codehz/mqtt-server",
+    "html_url": "https://github.com/codehz/mqtt-server",
+    "description": "The fully compliant, embeddable high-performance Go MQTT v5 server for IoT, smarthome, and pubsub",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 797961,
+      "Dockerfile": 318
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 389.78,
+    "S_code": 779.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "autoapi",
+    "full_name": "codehz/autoapi",
+    "html_url": "https://github.com/codehz/autoapi",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Zig": 49308,
+      "Lua": 16722
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 192.24,
+    "S_code": 64.48,
+    "S_social": 0,
+    "S_maint": 16
+  },
+  {
+    "name": "zigwin32",
+    "full_name": "codehz/zigwin32",
+    "html_url": "https://github.com/codehz/zigwin32",
+    "description": "Zig bindings for Win32 generated by https://github.com/marlersoft/zigwin32gen",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Zig": 65305176,
+      "AMPL": 201
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 31887.39,
+    "S_code": 63774.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "kiss-translator",
+    "full_name": "codehz/kiss-translator",
+    "html_url": "https://github.com/codehz/kiss-translator",
+    "description": "A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 389038,
+      "HTML": 8719
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 194.22,
+    "S_code": 388.43,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "workers-cache-storage",
+    "full_name": "codehz/workers-cache-storage",
+    "html_url": "https://github.com/codehz/workers-cache-storage",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 6661
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 293.25,
+    "S_code": 6.5,
+    "S_social": 0,
+    "S_maint": 29
+  },
+  {
+    "name": "nanokv-go",
+    "full_name": "codehz/nanokv-go",
+    "html_url": "https://github.com/codehz/nanokv-go",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 231270,
+      "Dockerfile": 469
+    },
+    "contributions_by_user": 30,
+    "contribution_score": 413.15,
+    "S_code": 226.31,
+    "S_social": 0,
+    "S_maint": 30
+  },
+  {
+    "name": "xmake-repo",
+    "full_name": "codehz/xmake-repo",
+    "html_url": "https://github.com/codehz/xmake-repo",
+    "description": "📦 An official xmake package repository ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Xmake": 4218715,
+      "Lua": 178277,
+      "C": 30380,
+      "CMake": 9094,
+      "C++": 8461,
+      "Python": 243
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2170.49,
+    "S_code": 4340.99,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bun-flecs",
+    "full_name": "codehz/bun-flecs",
+    "html_url": "https://github.com/codehz/bun-flecs",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 3471886,
+      "TypeScript": 14064,
+      "Makefile": 185
+    },
+    "contributions_by_user": 54,
+    "contribution_score": 2242.21,
+    "S_code": 3404.43,
+    "S_social": 0,
+    "S_maint": 54
+  },
+  {
+    "name": "camaro",
+    "full_name": "codehz/camaro",
+    "html_url": "https://github.com/codehz/camaro",
+    "description": "camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 22426,
+      "C++": 11814,
+      "HTML": 2611,
+      "Shell": 987
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 18.48,
+    "S_code": 36.95,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "oplus-exp",
+    "full_name": "codehz/oplus-exp",
+    "html_url": "https://github.com/codehz/oplus-exp",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 381
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.19,
+    "S_code": 0.37,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "bun-bug",
+    "full_name": "codehz/bun-bug",
+    "html_url": "https://github.com/codehz/bun-bug",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 41183,
+      "TypeScript": 1835
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 101.0,
+    "S_code": 42.01,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "bun-di",
+    "full_name": "codehz/bun-di",
+    "html_url": "https://github.com/codehz/bun-di",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 17277
+    },
+    "contributions_by_user": 51,
+    "contribution_score": 518.44,
+    "S_code": 16.87,
+    "S_social": 0,
+    "S_maint": 51
+  },
+  {
+    "name": "hono",
+    "full_name": "codehz/hono",
+    "html_url": "https://github.com/codehz/hono",
+    "description": "Web framework built on Web Standards",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1653735,
+      "JavaScript": 8965,
+      "Dockerfile": 251,
+      "HTML": 12
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 811.99,
+    "S_code": 1623.99,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "telegram-mini-app",
+    "full_name": "codehz/telegram-mini-app",
+    "html_url": "https://github.com/codehz/telegram-mini-app",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 58434,
+      "CSS": 4353
+    },
+    "contributions_by_user": 37,
+    "contribution_score": 400.66,
+    "S_code": 61.32,
+    "S_social": 0,
+    "S_maint": 37
+  },
+  {
+    "name": "bun-server-action",
+    "full_name": "codehz/bun-server-action",
+    "html_url": "https://github.com/codehz/bun-server-action",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1986
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.97,
+    "S_code": 1.94,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "logto",
+    "full_name": "codehz/logto",
+    "html_url": "https://github.com/codehz/logto",
+    "description": "🧑‍🚀 Logto helps you build sign-in, auth, and user identity.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 2509167,
+      "SCSS": 159290,
+      "JavaScript": 14242,
+      "HTML": 1731,
+      "Shell": 1262,
+      "Dockerfile": 773
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1315.75,
+    "S_code": 2623.5,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "cosmopolitan",
+    "full_name": "codehz/cosmopolitan",
+    "html_url": "https://github.com/codehz/cosmopolitan",
+    "description": "build-once run-anywhere c library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 14628481,
+      "Assembly": 1271686,
+      "Lua": 996174,
+      "Shell": 390082,
+      "Makefile": 287110,
+      "C++": 103338,
+      "Emacs Lisp": 86661,
+      "Common Lisp": 55856,
+      "SourcePawn": 24258,
+      "Python": 12109,
+      "sed": 4222,
+      "NASL": 1467,
+      "HTML": 1333,
+      "CSS": 426
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8722.27,
+    "S_code": 17444.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "respite",
+    "full_name": "codehz/respite",
+    "html_url": "https://github.com/codehz/respite",
+    "description": "Redis protocol backed by SQLite.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Nim": 71941,
+      "Dockerfile": 407
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.33,
+    "S_code": 70.65,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dts-extract",
+    "full_name": "codehz/dts-extract",
+    "html_url": "https://github.com/codehz/dts-extract",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1250,
+      "JavaScript": 1097
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 31.15,
+    "S_code": 2.29,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "cfworker-balancer",
+    "full_name": "codehz/cfworker-balancer",
+    "html_url": "https://github.com/codehz/cfworker-balancer",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 27485,
+      "TypeScript": 15248,
+      "CSS": 619,
+      "Makefile": 395,
+      "HTML": 342
+    },
+    "contributions_by_user": 32,
+    "contribution_score": 341.53,
+    "S_code": 43.06,
+    "S_social": 0,
+    "S_maint": 32
+  },
+  {
+    "name": "decky-plugin-database",
+    "full_name": "codehz/decky-plugin-database",
+    "html_url": "https://github.com/codehz/decky-plugin-database",
+    "description": "Decky Plugin Database. PR your plugins to this repository to have them added to the store!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 477,
+      "Dockerfile": 189
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.33,
+    "S_code": 0.65,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mutable-element",
+    "full_name": "codehz/mutable-element",
+    "html_url": "https://github.com/codehz/mutable-element",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 28148,
+      "HTML": 3940
+    },
+    "contributions_by_user": 35,
+    "contribution_score": 365.67,
+    "S_code": 31.34,
+    "S_social": 0,
+    "S_maint": 35
+  },
+  {
+    "name": "hertz.moe",
+    "full_name": "codehz/hertz.moe",
+    "html_url": "https://github.com/codehz/hertz.moe",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 24362,
+      "CSS": 8645
+    },
+    "contributions_by_user": 79,
+    "contribution_score": 810.12,
+    "S_code": 32.23,
+    "S_social": 2,
+    "S_maint": 79
+  },
+  {
+    "name": "microfont",
+    "full_name": "codehz/microfont",
+    "html_url": "https://github.com/codehz/microfont",
+    "description": "WIP. Generate TTF file using typescript.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 117703
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 227.47,
+    "S_code": 114.94,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "bun-svg-font",
+    "full_name": "codehz/bun-svg-font",
+    "html_url": "https://github.com/codehz/bun-svg-font",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 6357
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 53.1,
+    "S_code": 6.21,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "bun-ssr-bug",
+    "full_name": "codehz/bun-ssr-bug",
+    "html_url": "https://github.com/codehz/bun-ssr-bug",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1547
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.76,
+    "S_code": 1.51,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "dollarbase",
+    "full_name": "codehz/dollarbase",
+    "html_url": "https://github.com/codehz/dollarbase",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Objective-C": 8627,
+      "Makefile": 333
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 114.38,
+    "S_code": 8.75,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "libobjc-for-cosmo",
+    "full_name": "codehz/libobjc-for-cosmo",
+    "html_url": "https://github.com/codehz/libobjc-for-cosmo",
+    "description": "GNU Objective-C Runtime for Cosmopolitan Libc",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 369736,
+      "C++": 78066,
+      "Objective-C": 27359,
+      "Makefile": 350
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 412.18,
+    "S_code": 464.37,
+    "S_social": 0,
+    "S_maint": 18
+  },
+  {
+    "name": "superconfigure",
+    "full_name": "codehz/superconfigure",
+    "html_url": "https://github.com/codehz/superconfigure",
+    "description": "wrap autotools configure scripts to build with Cosmopolitan Libc",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 74732,
+      "Makefile": 6883,
+      "C": 79
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 169.89,
+    "S_code": 79.78,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "gcc",
+    "full_name": "codehz/gcc",
+    "html_url": "https://github.com/codehz/gcc",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 137532491,
+      "Ada": 50866300,
+      "C++": 43270709,
+      "Go": 21545038,
+      "GCC Machine Description": 13746332,
+      "Fortran": 6934500,
+      "Makefile": 4989936,
+      "Assembly": 2754854,
+      "HTML": 2342031,
+      "M4": 1481987,
+      "Objective-C": 1259035,
+      "Shell": 1140704,
+      "Objective-C++": 444905,
+      "Logos": 427427,
+      "Python": 386930,
+      "TeX": 341907,
+      "Scilab": 258457,
+      "Awk": 149740,
+      "Perl": 129128,
+      "SourcePawn": 78056,
+      "Pascal": 77722,
+      "C#": 55627,
+      "DIGITAL Command Language": 28465,
+      "RPC": 24692,
+      "PHP": 23139,
+      "Pawn": 21871,
+      "Roff": 19132,
+      "Vim Script": 14365,
+      "OCaml": 14065,
+      "Standard ML": 9680,
+      "Yacc": 8161,
+      "CMake": 8099,
+      "Lex": 5027,
+      "Smarty": 3992,
+      "Haskell": 3475,
+      "SAS": 1847,
+      "Module Management System": 1545,
+      "Emacs Lisp": 965,
+      "Mercury": 382,
+      "GDB": 372,
+      "Brainfuck": 251,
+      "Batchfile": 178,
+      "Mathematica": 56,
+      "CSS": 8
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 141798.62,
+    "S_code": 283597.25,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "array-morph",
+    "full_name": "codehz/array-morph",
+    "html_url": "https://github.com/codehz/array-morph",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 17907,
+      "TypeScript": 1972
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 49.71,
+    "S_code": 19.41,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "decky-cli",
+    "full_name": "codehz/decky-cli",
+    "html_url": "https://github.com/codehz/decky-cli",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 34420,
+      "Nix": 823,
+      "Dockerfile": 257
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 117.33,
+    "S_code": 34.67,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "bun",
+    "full_name": "codehz/bun",
+    "html_url": "https://github.com/codehz/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Zig": 12502330,
+      "C++": 8650228,
+      "TypeScript": 3313028,
+      "JavaScript": 2725579,
+      "C": 303693,
+      "Makefile": 78540,
+      "HTML": 74042,
+      "Shell": 68741,
+      "Objective-C": 33969,
+      "Dockerfile": 21808,
+      "CSS": 19085,
+      "Perl": 11151,
+      "Rust": 1088,
+      "Svelte": 130,
+      "AMPL": 112,
+      "Handlebars": 74
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13575.98,
+    "S_code": 27151.95,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "js-cookie-monitor-debugger-hook",
+    "full_name": "codehz/js-cookie-monitor-debugger-hook",
+    "html_url": "https://github.com/codehz/js-cookie-monitor-debugger-hook",
+    "description": "js cookie逆向利器：js cookie变动监控可视化工具 & js cookie hook打条件断点",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 23689,
+      "HTML": 1829
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.46,
+    "S_code": 24.92,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "json-translation-helper",
+    "full_name": "codehz/json-translation-helper",
+    "html_url": "https://github.com/codehz/json-translation-helper",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 5370
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 92.62,
+    "S_code": 5.24,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "wildebeest",
+    "full_name": "codehz/wildebeest",
+    "html_url": "https://github.com/codehz/wildebeest",
+    "description": "Wildebeest is an ActivityPub and Mastodon-compatible server",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 660096,
+      "JavaScript": 6926,
+      "HCL": 4166,
+      "SCSS": 3958,
+      "HTML": 3211
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 331.23,
+    "S_code": 662.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "d1-test",
+    "full_name": "codehz/d1-test",
+    "html_url": "https://github.com/codehz/d1-test",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2261
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 51.1,
+    "S_code": 2.21,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "apple-iap-tools",
+    "full_name": "codehz/apple-iap-tools",
+    "html_url": "https://github.com/codehz/apple-iap-tools",
+    "description": "Types and verifyReceipt function for Apple in-app purchases and server notifications.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 42008,
+      "Shell": 131
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 30.58,
+    "S_code": 41.15,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "galgamer-archived",
+    "full_name": "codehz/galgamer-archived",
+    "html_url": "https://github.com/codehz/galgamer-archived",
+    "description": "頂級期刊 Galgamer",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 275426,
+      "Python": 223422,
+      "CSS": 140591,
+      "HTML": 53
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 322.25,
+    "S_code": 624.5,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "ZeroTrustSplitTunnels",
+    "full_name": "codehz/ZeroTrustSplitTunnels",
+    "html_url": "https://github.com/codehz/ZeroTrustSplitTunnels",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 4055
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.98,
+    "S_code": 3.96,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "musictags",
+    "full_name": "codehz/musictags",
+    "html_url": "https://github.com/codehz/musictags",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3178,
+      "HTML": 1013
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.05,
+    "S_code": 4.09,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "tgmon",
+    "full_name": "codehz/tgmon",
+    "html_url": "https://github.com/codehz/tgmon",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 13600
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 90.64,
+    "S_code": 13.28,
+    "S_social": 2,
+    "S_maint": 8
+  },
+  {
+    "name": "vn-editor",
+    "full_name": "codehz/vn-editor",
+    "html_url": "https://github.com/codehz/vn-editor",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 42126,
+      "JavaScript": 107
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 230.62,
+    "S_code": 41.24,
+    "S_social": 0,
+    "S_maint": 21
+  },
+  {
+    "name": "luci-app-alist",
+    "full_name": "codehz/luci-app-alist",
+    "html_url": "https://github.com/codehz/luci-app-alist",
+    "description": "LuCI support for alist",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 6562,
+      "Lua": 3222,
+      "Makefile": 2970,
+      "HTML": 2941
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.66,
+    "S_code": 15.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "v2ex-plus",
+    "full_name": "codehz/v2ex-plus",
+    "html_url": "https://github.com/codehz/v2ex-plus",
+    "description": "可能是 v2ex 最好用的扩展",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 114977,
+      "HTML": 41157,
+      "CSS": 13987
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 83.07,
+    "S_code": 166.13,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "njs",
+    "full_name": "codehz/njs",
+    "html_url": "https://github.com/codehz/njs",
+    "description": "A custom fork",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 3219988,
+      "JavaScript": 126132,
+      "Python": 5759,
+      "Shell": 5557,
+      "TypeScript": 5000,
+      "Perl": 4574,
+      "Standard ML": 1145,
+      "Makefile": 301
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 1654.75,
+    "S_code": 3289.51,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "zig",
+    "full_name": "codehz/zig",
+    "html_url": "https://github.com/codehz/zig",
+    "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Zig": 25311577,
+      "C++": 6235584,
+      "C": 141453,
+      "JavaScript": 77192,
+      "CMake": 57905,
+      "HTML": 47282,
+      "Assembly": 27260,
+      "Shell": 25054,
+      "Pawn": 3867,
+      "Python": 2892,
+      "Batchfile": 1460
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15591.57,
+    "S_code": 31183.13,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "better-objc-syntax",
+    "full_name": "codehz/better-objc-syntax",
+    "html_url": "https://github.com/codehz/better-objc-syntax",
+    "description": "📦",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 133607,
+      "Ruby": 61372,
+      "Nix": 21176,
+      "Objective-C": 14390,
+      "JavaScript": 10236,
+      "TypeScript": 3225,
+      "HTML": 2023
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 120.13,
+    "S_code": 240.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "TerraForged",
+    "full_name": "codehz/TerraForged",
+    "html_url": "https://github.com/codehz/TerraForged",
+    "description": "Mod repo for TerraForged",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 594220,
+      "Batchfile": 468
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 290.38,
+    "S_code": 580.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "DUSTD",
+    "full_name": "codehz/DUSTD",
+    "html_url": "https://github.com/codehz/DUSTD",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 77878,
+      "GLSL": 972,
+      "Makefile": 806,
+      "HTML": 735
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 49.25,
+    "S_code": 78.51,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "fabric-language-groovy-new",
+    "full_name": "codehz/fabric-language-groovy-new",
+    "html_url": "https://github.com/codehz/fabric-language-groovy-new",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Groovy": 896
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 90.44,
+    "S_code": 0.88,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "tgweb-gen",
+    "full_name": "codehz/tgweb-gen",
+    "html_url": "https://github.com/codehz/tgweb-gen",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 6946,
+      "CSS": 1179
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.97,
+    "S_code": 7.93,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "tg-channel-dumper",
+    "full_name": "codehz/tg-channel-dumper",
+    "html_url": "https://github.com/codehz/tg-channel-dumper",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 20978
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 50.24,
+    "S_code": 20.49,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "hz_game_bot_games",
+    "full_name": "codehz/hz_game_bot_games",
+    "html_url": "https://github.com/codehz/hz_game_bot_games",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 193495,
+      "HTML": 4268,
+      "CSS": 3860
+    },
+    "contributions_by_user": 196,
+    "contribution_score": 2058.45,
+    "S_code": 196.9,
+    "S_social": 0,
+    "S_maint": 196
+  },
+  {
+    "name": "mtproto-core",
+    "full_name": "codehz/mtproto-core",
+    "html_url": "https://github.com/codehz/mtproto-core",
+    "description": "Telegram API JS (MTProto) client library for Node.js and browser",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 66946
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 32.69,
+    "S_code": 65.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hexo-theme-fluid",
+    "full_name": "codehz/hexo-theme-fluid",
+    "html_url": "https://github.com/codehz/hexo-theme-fluid",
+    "description": ":ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 67663,
+      "EJS": 53155,
+      "Stylus": 36907,
+      "CSS": 13294
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 83.51,
+    "S_code": 167.01,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hz_game_bot",
+    "full_name": "codehz/hz_game_bot",
+    "html_url": "https://github.com/codehz/hz_game_bot",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 6393
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 63.12,
+    "S_code": 6.24,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "corrupted",
+    "full_name": "codehz/corrupted",
+    "html_url": "https://github.com/codehz/corrupted",
+    "description": "github web ui tests",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "dyon",
+    "full_name": "codehz/dyon",
+    "html_url": "https://github.com/codehz/dyon",
+    "description": "A rusty dynamically typed scripting language",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 831500,
+      "JavaScript": 4229,
+      "Python": 3774
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 439.91,
+    "S_code": 819.83,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "mlir-build",
+    "full_name": "codehz/mlir-build",
+    "html_url": "https://github.com/codehz/mlir-build",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 13,
+    "contribution_score": 130.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "sokol-tools",
+    "full_name": "codehz/sokol-tools",
+    "html_url": "https://github.com/codehz/sokol-tools",
+    "description": "Command line tools for use with sokol headers",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 332861,
+      "POV-Ray SDL": 179022,
+      "Zig": 13619,
+      "C": 10643,
+      "GLSL": 6262,
+      "Python": 5004,
+      "CMake": 4313,
+      "SourcePawn": 1003,
+      "Dockerfile": 310,
+      "Shell": 184,
+      "Batchfile": 17
+    },
+    "contributions_by_user": 43,
+    "contribution_score": 700.14,
+    "S_code": 540.27,
+    "S_social": 0,
+    "S_maint": 43
+  },
+  {
+    "name": "Nim",
+    "full_name": "codehz/Nim",
+    "html_url": "https://github.com/codehz/Nim",
+    "description": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Nim": 11751398,
+      "HTML": 161655,
+      "C": 57360,
+      "CSS": 38732,
+      "Python": 28435,
+      "C++": 22541,
+      "NSIS": 10651,
+      "Shell": 8880,
+      "Assembly": 4495,
+      "Batchfile": 2928
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5901.89,
+    "S_code": 11803.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "koka-experiments",
+    "full_name": "codehz/koka-experiments",
+    "html_url": "https://github.com/codehz/koka-experiments",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 1961
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 80.96,
+    "S_code": 1.92,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "tgwebstream",
+    "full_name": "codehz/tgwebstream",
+    "html_url": "https://github.com/codehz/tgwebstream",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 22282,
+      "TypeScript": 16942,
+      "HTML": 230,
+      "CSS": 75
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 79.3,
+    "S_code": 38.6,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "tgstream",
+    "full_name": "codehz/tgstream",
+    "html_url": "https://github.com/codehz/tgstream",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 7048,
+      "Python": 792
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 223.83,
+    "S_code": 7.66,
+    "S_social": 0,
+    "S_maint": 22
+  },
+  {
+    "name": "tgcalls",
+    "full_name": "codehz/tgcalls",
+    "html_url": "https://github.com/codehz/tgcalls",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 16712
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 128.16,
+    "S_code": 16.32,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "gram-tgcalls",
+    "full_name": "codehz/gram-tgcalls",
+    "html_url": "https://github.com/codehz/gram-tgcalls",
+    "description": "https://tgcallsjs.github.io/gram-tgcalls/",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 6713
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 23.28,
+    "S_code": 6.56,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "TelegramVoiceChatUserBot",
+    "full_name": "codehz/TelegramVoiceChatUserBot",
+    "html_url": "https://github.com/codehz/TelegramVoiceChatUserBot",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 3447
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 161.68,
+    "S_code": 3.37,
+    "S_social": 0,
+    "S_maint": 16
+  },
+  {
+    "name": "interception-rs",
+    "full_name": "codehz/interception-rs",
+    "html_url": "https://github.com/codehz/interception-rs",
+    "description": "Safe Rust bindings for Interception",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 12315
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.01,
+    "S_code": 12.03,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "multiinput-rust",
+    "full_name": "codehz/multiinput-rust",
+    "html_url": "https://github.com/codehz/multiinput-rust",
+    "description": "A windows rawinput library for use with rust",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 57030
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 27.85,
+    "S_code": 55.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nelua-decl",
+    "full_name": "codehz/nelua-decl",
+    "html_url": "https://github.com/codehz/nelua-decl",
+    "description": "C binding generator for Nelua using GCC Lua plugin.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 2636257,
+      "C": 118041,
+      "Makefile": 23872,
+      "Shell": 219
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1356.64,
+    "S_code": 2713.27,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nelua-vscode",
+    "full_name": "codehz/nelua-vscode",
+    "html_url": "https://github.com/codehz/nelua-vscode",
+    "description": "Nelua syntax highlighting for Visual Studio Code",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2909,
+      "TypeScript": 1883
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 22.34,
+    "S_code": 4.68,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "telegram-bot-api",
+    "full_name": "codehz/telegram-bot-api",
+    "html_url": "https://github.com/codehz/telegram-bot-api",
+    "description": "Telegram Bot API server ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 547416,
+      "HTML": 18384,
+      "CMake": 2506
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 277.49,
+    "S_code": 554.99,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ogl",
+    "full_name": "codehz/ogl",
+    "html_url": "https://github.com/codehz/ogl",
+    "description": "Minimal WebGL Library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 268669
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 131.19,
+    "S_code": 262.37,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "react-gl",
+    "full_name": "codehz/react-gl",
+    "html_url": "https://github.com/codehz/react-gl",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 19339,
+      "HTML": 373,
+      "CSS": 277
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 119.76,
+    "S_code": 19.52,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "gl-layout",
+    "full_name": "codehz/gl-layout",
+    "html_url": "https://github.com/codehz/gl-layout",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 14056,
+      "GLSL": 2130,
+      "HTML": 248,
+      "CSS": 150,
+      "JavaScript": 93
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 48.14,
+    "S_code": 16.29,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "dspack",
+    "full_name": "codehz/dspack",
+    "html_url": "https://github.com/codehz/dspack",
+    "description": "Dead simple deno to browser packager",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 6212
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 113.03,
+    "S_code": 6.07,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "esm-dts-fix",
+    "full_name": "codehz/esm-dts-fix",
+    "html_url": "https://github.com/codehz/esm-dts-fix",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2560
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 111.25,
+    "S_code": 2.5,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "sqlite3-ts",
+    "full_name": "codehz/sqlite3-ts",
+    "html_url": "https://github.com/codehz/sqlite3-ts",
+    "description": "SQLite3 compiled to wasm for deno",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1161089
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 626.94,
+    "S_code": 1133.88,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "aleph.js",
+    "full_name": "codehz/aleph.js",
+    "html_url": "https://github.com/codehz/aleph.js",
+    "description": "The Full-stack Framework in Deno.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 275100,
+      "Rust": 134911
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 200.2,
+    "S_code": 400.4,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "binary-embed",
+    "full_name": "codehz/binary-embed",
+    "html_url": "https://github.com/codehz/binary-embed",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 2421
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 21.18,
+    "S_code": 2.36,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "ipfs-paste-deploy",
+    "full_name": "codehz/ipfs-paste-deploy",
+    "html_url": "https://github.com/codehz/ipfs-paste-deploy",
+    "description": "source: /codehz/ipfs-paste",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 410327,
+      "JavaScript": 17565,
+      "Pug": 4147
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 214.96,
+    "S_code": 421.91,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "death-origin-fabric",
+    "full_name": "codehz/death-origin-fabric",
+    "html_url": "https://github.com/codehz/death-origin-fabric",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 1108
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 50.54,
+    "S_code": 1.08,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "BetterEnd",
+    "full_name": "codehz/BetterEnd",
+    "html_url": "https://github.com/codehz/BetterEnd",
+    "description": "Better End MC Mod",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 1689437,
+      "GLSL": 9530,
+      "JavaScript": 2117
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 830.61,
+    "S_code": 1661.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "CompanionBats",
+    "full_name": "codehz/CompanionBats",
+    "html_url": "https://github.com/codehz/CompanionBats",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 171290
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 93.64,
+    "S_code": 167.28,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "retro-cube",
+    "full_name": "codehz/retro-cube",
+    "html_url": "https://github.com/codehz/retro-cube",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 34354,
+      "GLSL": 7791
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 80.58,
+    "S_code": 41.16,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "voxel-benchmark",
+    "full_name": "codehz/voxel-benchmark",
+    "html_url": "https://github.com/codehz/voxel-benchmark",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 40170
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 39.61,
+    "S_code": 39.23,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "MCDSaveEdit",
+    "full_name": "codehz/MCDSaveEdit",
+    "html_url": "https://github.com/codehz/MCDSaveEdit",
+    "description": "Minecraft: Dungeons Save File Editor",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 254812
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 124.42,
+    "S_code": 248.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "www.ziglang.org",
+    "full_name": "codehz/www.ziglang.org",
+    "html_url": "https://github.com/codehz/www.ziglang.org",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 1014967,
+      "Zig": 16961,
+      "CSS": 8344,
+      "Shell": 1359
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 508.61,
+    "S_code": 1017.22,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ntfs-mft-test",
+    "full_name": "codehz/ntfs-mft-test",
+    "html_url": "https://github.com/codehz/ntfs-mft-test",
+    "description": "test",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 6,
+    "contribution_score": 60.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "react-loading",
+    "full_name": "codehz/react-loading",
+    "html_url": "https://github.com/codehz/react-loading",
+    "description": "React component for loading animations",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4573
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.23,
+    "S_code": 4.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "setup-zig",
+    "full_name": "codehz/setup-zig",
+    "html_url": "https://github.com/codehz/setup-zig",
+    "description": "use a @ziglang compiler in your github actions workflows",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2083,
+      "Zig": 391
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.21,
+    "S_code": 2.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "android_hardware_xiaomi",
+    "full_name": "codehz/android_hardware_xiaomi",
+    "html_url": "https://github.com/codehz/android_hardware_xiaomi",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 5688,
+      "Shell": 152
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.85,
+    "S_code": 5.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "android_device_xiaomi_sdm845-common",
+    "full_name": "codehz/android_device_xiaomi_sdm845-common",
+    "html_url": "https://github.com/codehz/android_device_xiaomi_sdm845-common",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 85967,
+      "C++": 53280,
+      "Makefile": 28347,
+      "Shell": 21231,
+      "C": 17452,
+      "Python": 2080,
+      "Forth": 2011
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 102.72,
+    "S_code": 205.44,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "android_device_xiaomi_dipper",
+    "full_name": "codehz/android_device_xiaomi_dipper",
+    "html_url": "https://github.com/codehz/android_device_xiaomi_dipper",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Makefile": 8466,
+      "Shell": 767,
+      "C": 751
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.88,
+    "S_code": 9.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "zig-ecs",
+    "full_name": "codehz/zig-ecs",
+    "html_url": "https://github.com/codehz/zig-ecs",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Zig": 140059
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 68.39,
+    "S_code": 136.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "LoLa",
+    "full_name": "codehz/LoLa",
+    "html_url": "https://github.com/codehz/LoLa",
+    "description": "LoLa is a small programming language meant to be embedded into games.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Zig": 385310,
+      "CSS": 17772,
+      "HTML": 8118,
+      "JavaScript": 7187
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 204.29,
+    "S_code": 408.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tenet",
+    "full_name": "codehz/tenet",
+    "html_url": "https://github.com/codehz/tenet",
+    "description": "A VsCode extension for writing code in the inversion world",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 4900
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.39,
+    "S_code": 4.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Leoric",
+    "full_name": "codehz/Leoric",
+    "html_url": "https://github.com/codehz/Leoric",
+    "description": "PoC of fighting against force-stop kill process on Android",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 25878,
+      "C": 8312,
+      "Makefile": 286
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 26.83,
+    "S_code": 33.67,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "ClangBuild",
+    "full_name": "codehz/ClangBuild",
+    "html_url": "https://github.com/codehz/ClangBuild",
+    "description": "ClangBuild",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 12,
+    "contribution_score": 120.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "PEGTL",
+    "full_name": "codehz/PEGTL",
+    "html_url": "https://github.com/codehz/PEGTL",
+    "description": "Parsing Expression Grammar Template Library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 996927,
+      "CMake": 10755,
+      "Makefile": 3590
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 493.79,
+    "S_code": 987.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vcpkg",
+    "full_name": "codehz/vcpkg",
+    "html_url": "https://github.com/codehz/vcpkg",
+    "description": "C++ Library Manager for Windows, Linux, and MacOS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 2915298,
+      "C++": 1645146,
+      "C": 131775,
+      "PowerShell": 48319,
+      "Python": 20926,
+      "Perl": 20303,
+      "Shell": 12906,
+      "Batchfile": 1703
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2341.98,
+    "S_code": 4683.96,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "xrepo",
+    "full_name": "codehz/xrepo",
+    "html_url": "https://github.com/codehz/xrepo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 10160
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 44.96,
+    "S_code": 9.92,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "libgo",
+    "full_name": "codehz/libgo",
+    "html_url": "https://github.com/codehz/libgo",
+    "description": "Go-style concurrency in C++11",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 760849,
+      "C": 29085,
+      "CMake": 19116,
+      "Shell": 2904,
+      "Go": 2410,
+      "Makefile": 1697
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 398.47,
+    "S_code": 796.93,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "github-action-setup-xmake",
+    "full_name": "codehz/github-action-setup-xmake",
+    "html_url": "https://github.com/codehz/github-action-setup-xmake",
+    "description": "Set up your GitHub Actions workflow with a specific version of xmake",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 5107,
+      "PowerShell": 101
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 52.54,
+    "S_code": 5.09,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "msgpack-deno",
+    "full_name": "codehz/msgpack-deno",
+    "html_url": "https://github.com/codehz/msgpack-deno",
+    "description": "Message Pack for deno",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 23745
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 41.59,
+    "S_code": 23.19,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "loadlibrary",
+    "full_name": "codehz/loadlibrary",
+    "html_url": "https://github.com/codehz/loadlibrary",
+    "description": "Porting Windows Dynamic Link Libraries to Linux",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 1106210,
+      "Makefile": 3330,
+      "C++": 2676,
+      "GDB": 2226,
+      "Shell": 1662
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 544.97,
+    "S_code": 1089.95,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "run-vcpkg",
+    "full_name": "codehz/run-vcpkg",
+    "html_url": "https://github.com/codehz/run-vcpkg",
+    "description": "GitHub Action to run vcpkg to build C++ dependencies for your C++ based applications. Available as Azure DevOps tasks also: https://marketplace.visualstudio.com/items?itemName=lucappa.cmake-ninja-vcpkg-tasks",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3274,
+      "TypeScript": 2221
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.68,
+    "S_code": 5.37,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bedweb-server",
+    "full_name": "codehz/bedweb-server",
+    "html_url": "https://github.com/codehz/bedweb-server",
+    "description": "Linux dashboard",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 32512,
+      "CMake": 2064
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 96.88,
+    "S_code": 33.77,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "wsrpc",
+    "full_name": "codehz/wsrpc",
+    "html_url": "https://github.com/codehz/wsrpc",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 814953,
+      "C": 10079,
+      "CMake": 2664
+    },
+    "contributions_by_user": 53,
+    "contribution_score": 934.15,
+    "S_code": 808.3,
+    "S_social": 0,
+    "S_maint": 53
+  },
+  {
+    "name": "github-docker",
+    "full_name": "codehz/github-docker",
+    "html_url": "https://github.com/codehz/github-docker",
+    "description": ":anchor: Build and publish your repository as a Docker image and push it to GitHub Package Registry in one step.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2760,
+      "Dockerfile": 37
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.37,
+    "S_code": 2.73,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "BOLT",
+    "full_name": "codehz/BOLT",
+    "html_url": "https://github.com/codehz/BOLT",
+    "description": "Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 2211876,
+      "Makefile": 26343,
+      "CMake": 7460,
+      "Python": 2657,
+      "Shell": 1292,
+      "Dockerfile": 1064
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 1138.97,
+    "S_code": 2197.94,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "bdlauncher",
+    "full_name": "codehz/bdlauncher",
+    "html_url": "https://github.com/codehz/bdlauncher",
+    "description": "BedRockServer launcher with mods support",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 1297715,
+      "C": 41427,
+      "Shell": 3975,
+      "Python": 524
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 656.07,
+    "S_code": 1312.15,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "archlinux",
+    "full_name": "codehz/archlinux",
+    "html_url": "https://github.com/codehz/archlinux",
+    "description": "archlinux with packager",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1560,
+      "Shell": 1115,
+      "Dockerfile": 162
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 21.39,
+    "S_code": 2.77,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "MyAltKey",
+    "full_name": "codehz/MyAltKey",
+    "html_url": "https://github.com/codehz/MyAltKey",
+    "description": "(R)Alt key to switch keyboard layout",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 2655,
+      "Makefile": 109,
+      "C": 44
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 41.37,
+    "S_code": 2.74,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "upload",
+    "full_name": "codehz/upload",
+    "html_url": "https://github.com/codehz/upload",
+    "description": "Upload to ipfs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 5718
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 32.79,
+    "S_code": 5.58,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "bridge.",
+    "full_name": "codehz/bridge.",
+    "html_url": "https://github.com/codehz/bridge.",
+    "description": "A powerful editor for Minecraft Add-Ons",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 281967,
+      "Vue": 177813,
+      "HTML": 2366
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 259.66,
+    "S_code": 451.31,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "elf-parser",
+    "full_name": "codehz/elf-parser",
+    "html_url": "https://github.com/codehz/elf-parser",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 16333
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 17.98,
+    "S_code": 15.95,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "StoneActions",
+    "full_name": "codehz/StoneActions",
+    "html_url": "https://github.com/codehz/StoneActions",
+    "description": "Actions for stone",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dockerfile": 807,
+      "Shell": 730
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 120.75,
+    "S_code": 1.5,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "alpine-builder",
+    "full_name": "codehz/alpine-builder",
+    "html_url": "https://github.com/codehz/alpine-builder",
+    "description": "builder in alpine",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dockerfile": 582,
+      "Shell": 173
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 50.37,
+    "S_code": 0.74,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "StoneAPI",
+    "full_name": "codehz/StoneAPI",
+    "html_url": "https://github.com/codehz/StoneAPI",
+    "description": "API for StoneServer",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 14731,
+      "CMake": 1670
+    },
+    "contributions_by_user": 40,
+    "contribution_score": 408.01,
+    "S_code": 16.02,
+    "S_social": 0,
+    "S_maint": 40
+  },
+  {
+    "name": "StoneBuilder",
+    "full_name": "codehz/StoneBuilder",
+    "html_url": "https://github.com/codehz/StoneBuilder",
+    "description": "A Docker Image for StoneServer building",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dockerfile": 401
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 90.2,
+    "S_code": 0.39,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "ysrv",
+    "full_name": "codehz/ysrv",
+    "html_url": "https://github.com/codehz/ysrv",
+    "description": "remote access for linux",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 50919,
+      "CMake": 623,
+      "LiveScript": 410,
+      "C": 237,
+      "Makefile": 190
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 55.58,
+    "S_code": 51.15,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "StoneJS2",
+    "full_name": "codehz/StoneJS2",
+    "html_url": "https://github.com/codehz/StoneJS2",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 8103,
+      "Dockerfile": 204
+    },
+    "contributions_by_user": 43,
+    "contribution_score": 438.06,
+    "S_code": 8.11,
+    "S_social": 2,
+    "S_maint": 43
+  },
+  {
+    "name": "ormin",
+    "full_name": "codehz/ormin",
+    "html_url": "https://github.com/codehz/ormin",
+    "description": "Ormin -- An ORM for Nim. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Nim": 61353
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 29.96,
+    "S_code": 59.92,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "minecraft-bedrock",
+    "full_name": "codehz/minecraft-bedrock",
+    "html_url": "https://github.com/codehz/minecraft-bedrock",
+    "description": "Docker image for bds",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C": 4622,
+      "Shell": 655,
+      "Dockerfile": 213
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 226.68,
+    "S_code": 5.36,
+    "S_social": 2,
+    "S_maint": 22
+  },
+  {
+    "name": "sscli",
+    "full_name": "codehz/sscli",
+    "html_url": "https://github.com/codehz/sscli",
+    "description": "StoneServer CLI",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 2397,
+      "CMake": 1166,
+      "HCL": 430,
+      "Shell": 161
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 72.03,
+    "S_code": 4.06,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "APID",
+    "full_name": "codehz/APID",
+    "html_url": "https://github.com/codehz/APID",
+    "description": "rpc framework",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 339404,
+      "Makefile": 7906,
+      "C++": 5900,
+      "CMake": 1044,
+      "HCL": 496,
+      "Dockerfile": 314
+    },
+    "contributions_by_user": 36,
+    "contribution_score": 533.37,
+    "S_code": 346.74,
+    "S_social": 0,
+    "S_maint": 36
+  },
+  {
+    "name": "stone-manager",
+    "full_name": "codehz/stone-manager",
+    "html_url": "https://github.com/codehz/stone-manager",
+    "description": "StoneServer Manager",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "MCSManager",
+    "full_name": "codehz/MCSManager",
+    "html_url": "https://github.com/codehz/MCSManager",
+    "description": "轻量级，多实例与虚拟化功能的 Minecraft 服务端管理面板",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 453337,
+      "HTML": 117095,
+      "CSS": 21337,
+      "Vue": 10873
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 294.26,
+    "S_code": 588.52,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "minecraft-symbols",
+    "full_name": "codehz/minecraft-symbols",
+    "html_url": "https://github.com/codehz/minecraft-symbols",
+    "description": "The headers/symbols used by mcpelauncher-linux and a tool to generate them.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 226586,
+      "Python": 129443,
+      "C": 668,
+      "CMake": 600,
+      "Objective-C": 365
+    },
+    "contributions_by_user": 42,
+    "contribution_score": 594.64,
+    "S_code": 349.28,
+    "S_social": 0,
+    "S_maint": 42
+  },
+  {
+    "name": "CxxDemangler",
+    "full_name": "codehz/CxxDemangler",
+    "html_url": "https://github.com/codehz/CxxDemangler",
+    "description": ".NET library for demangling C++ symbols",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 282877
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 138.12,
+    "S_code": 276.25,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hiredis",
+    "full_name": "codehz/hiredis",
+    "html_url": "https://github.com/codehz/hiredis",
+    "description": "Minimalistic C client for Redis >= 1.2",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 233280,
+      "Makefile": 7921,
+      "C++": 4233
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 119.84,
+    "S_code": 239.68,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "StoneDBusAPI",
+    "full_name": "codehz/StoneDBusAPI",
+    "html_url": "https://github.com/codehz/StoneDBusAPI",
+    "description": "D-Bus Api for StoneServer",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 23717,
+      "CMake": 1653
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 262.39,
+    "S_code": 24.78,
+    "S_social": 0,
+    "S_maint": 25
+  },
+  {
+    "name": "stone-server-js-api",
+    "full_name": "codehz/stone-server-js-api",
+    "html_url": "https://github.com/codehz/stone-server-js-api",
+    "description": "JS API for stoneserver",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 11305
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 95.52,
+    "S_code": 11.04,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "ipcdn",
+    "full_name": "codehz/ipcdn",
+    "html_url": "https://github.com/codehz/ipcdn",
+    "description": "Simple CDN powered by ipfs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "simppl",
+    "full_name": "codehz/simppl",
+    "html_url": "https://github.com/codehz/simppl",
+    "description": "simppl::dbus - an easy-to-use C++ D-Bus wrapper",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 234667,
+      "CMake": 4055,
+      "HTML": 2716,
+      "Shell": 482,
+      "C": 142
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 118.19,
+    "S_code": 236.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "properties-parser",
+    "full_name": "codehz/properties-parser",
+    "html_url": "https://github.com/codehz/properties-parser",
+    "description": "A simple parser for simple `key=value` property files",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 3471,
+      "CMake": 185
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.79,
+    "S_code": 3.57,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "mcpelauncher-core",
+    "full_name": "codehz/mcpelauncher-core",
+    "html_url": "https://github.com/codehz/mcpelauncher-core",
+    "description": "The shared code between the client and server launchers",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 38635,
+      "CMake": 949
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 29.33,
+    "S_code": 38.66,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "logger",
+    "full_name": "codehz/logger",
+    "html_url": "https://github.com/codehz/logger",
+    "description": "A very simply C++ logger",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 2004,
+      "CMake": 165
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.06,
+    "S_code": 2.12,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "livescript-next",
+    "full_name": "codehz/livescript-next",
+    "html_url": "https://github.com/codehz/livescript-next",
+    "description": "Enable latest ES features for LiveScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "LiveScript": 45628
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22.28,
+    "S_code": 44.56,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "arch-compat",
+    "full_name": "codehz/arch-compat",
+    "html_url": "https://github.com/codehz/arch-compat",
+    "description": "Archlinux compat",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 5,
+    "contribution_score": 50.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "mcpe-sdk",
+    "full_name": "codehz/mcpe-sdk",
+    "html_url": "https://github.com/codehz/mcpe-sdk",
+    "description": "Just a test",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dockerfile": 470
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 120.23,
+    "S_code": 0.46,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "libhybris",
+    "full_name": "codehz/libhybris",
+    "html_url": "https://github.com/codehz/libhybris",
+    "description": "A heavily modified version of libhybris used by mcpelauncher-linux",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 308844,
+      "Assembly": 3460,
+      "C++": 1226,
+      "CMake": 1024
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 233.59,
+    "S_code": 307.18,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "codehz/dotfiles",
+    "html_url": "https://github.com/codehz/dotfiles",
+    "description": "My dotfiles",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 117
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.06,
+    "S_code": 0.11,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "getdockerimage",
+    "full_name": "codehz/getdockerimage",
+    "html_url": "https://github.com/codehz/getdockerimage",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 2367
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.16,
+    "S_code": 2.31,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "minecraft-headers",
+    "full_name": "codehz/minecraft-headers",
+    "html_url": "https://github.com/codehz/minecraft-headers",
+    "description": "Some Minecraft: Pocket Edition headers, reverse engineered by me",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 6643,
+      "C": 241
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 13.36,
+    "S_code": 6.72,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "KISS.js",
+    "full_name": "codehz/KISS.js",
+    "html_url": "https://github.com/codehz/KISS.js",
+    "description": "Keep it simple, stupid!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 7192,
+      "JavaScript": 1733
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 94.36,
+    "S_code": 8.72,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "mcpe-server-script",
+    "full_name": "codehz/mcpe-server-script",
+    "html_url": "https://github.com/codehz/mcpe-server-script",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 1188
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.58,
+    "S_code": 1.16,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "bin.js",
+    "full_name": "codehz/bin.js",
+    "html_url": "https://github.com/codehz/bin.js",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 18178,
+      "HTML": 9564
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 73.55,
+    "S_code": 27.09,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "circleci-golang-upx",
+    "full_name": "codehz/circleci-golang-upx",
+    "html_url": "https://github.com/codehz/circleci-golang-upx",
+    "description": "circleci/golang image with upx compressor addition",
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 4.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "codebin",
+    "full_name": "codehz/codebin",
+    "html_url": "https://github.com/codehz/codebin",
+    "description": "A ServiceWorker based development environment for front-end designers and developers.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 11225062,
+      "CSS": 123758,
+      "HTML": 1752
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 5642.27,
+    "S_code": 11084.54,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "codehz.github.io",
+    "full_name": "codehz/codehz.github.io",
+    "html_url": "https://github.com/codehz/codehz.github.io",
+    "description": "^_^",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "x86-coreclr",
+    "full_name": "codehz/x86-coreclr",
+    "html_url": "https://github.com/codehz/x86-coreclr",
+    "description": "x86 coreclr",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 658
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.32,
+    "S_code": 0.64,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "mcpe-server-dev",
+    "full_name": "codehz/mcpe-server-dev",
+    "html_url": "https://github.com/codehz/mcpe-server-dev",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "docker-glibc-builder",
+    "full_name": "codehz/docker-glibc-builder",
+    "html_url": "https://github.com/codehz/docker-glibc-builder",
+    "description": "A glibc binary package builder in Docker",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 616
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 60.3,
+    "S_code": 0.6,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "MinInjection",
+    "full_name": "codehz/MinInjection",
+    "html_url": "https://github.com/codehz/MinInjection",
+    "description": "Simple Injection Demo(using EasyHook)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 31098
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 65.18,
+    "S_code": 30.37,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "electron",
+    "full_name": "codehz/electron",
+    "html_url": "https://github.com/codehz/electron",
+    "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 2242948,
+      "JavaScript": 721464,
+      "Objective-C++": 227570,
+      "Python": 153545,
+      "Objective-C": 40490,
+      "HTML": 15902,
+      "C": 4054,
+      "Shell": 3379,
+      "PowerShell": 99
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1664.77,
+    "S_code": 3329.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "FlatWM",
+    "full_name": "codehz/FlatWM",
+    "html_url": "https://github.com/codehz/FlatWM",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 2031
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.99,
+    "S_code": 1.98,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "VirtualApp",
+    "full_name": "codehz/VirtualApp",
+    "html_url": "https://github.com/codehz/VirtualApp",
+    "description": "An open source implementation of MultiAccount.(Support 4.0 - N).",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Java": 1367030,
+      "C++": 158728,
+      "C": 14621,
+      "Makefile": 1783
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 877.01,
+    "S_code": 1506.02,
+    "S_social": 2,
+    "S_maint": 12
+  },
+  {
+    "name": "StudentInformationManagementSystem",
+    "full_name": "codehz/StudentInformationManagementSystem",
+    "html_url": "https://github.com/codehz/StudentInformationManagementSystem",
+    "description": "Java Homework",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Kotlin": 692
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.34,
+    "S_code": 0.68,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "uWebSockets",
+    "full_name": "codehz/uWebSockets",
+    "html_url": "https://github.com/codehz/uWebSockets",
+    "description": "Highly scalable WebSocket server & client library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 149887,
+      "JavaScript": 4555,
+      "Makefile": 1938,
+      "CMake": 1577,
+      "QMake": 781,
+      "Batchfile": 429
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 127.72,
+    "S_code": 155.44,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "VizMusicPlayer",
+    "full_name": "codehz/VizMusicPlayer",
+    "html_url": "https://github.com/codehz/VizMusicPlayer",
+    "description": "Main Project",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 276700,
+      "HTML": 32774,
+      "CSS": 9682,
+      "GLSL": 1318
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 176.48,
+    "S_code": 312.96,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "electron-test",
+    "full_name": "codehz/electron-test",
+    "html_url": "https://github.com/codehz/electron-test",
+    "description": "Some Electron Test For Desktop Environment Integration",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2396,
+      "HTML": 1311,
+      "CSS": 648
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 52.13,
+    "S_code": 4.25,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "vue-clusterize",
+    "full_name": "codehz/vue-clusterize",
+    "html_url": "https://github.com/codehz/vue-clusterize",
+    "description": "clusterize in vue",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 21266,
+      "Vue": 19930,
+      "CoffeeScript": 7093
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.58,
+    "S_code": 47.16,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "BlogJS-Node",
+    "full_name": "codehz/BlogJS-Node",
+    "html_url": "https://github.com/codehz/BlogJS-Node",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 16174,
+      "Shell": 248
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 198.02,
+    "S_code": 16.04,
+    "S_social": 0,
+    "S_maint": 19
+  },
+  {
+    "name": "arepl",
+    "full_name": "codehz/arepl",
+    "html_url": "https://github.com/codehz/arepl",
+    "description": "Another REPL",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 99
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 40.05,
+    "S_code": 0.1,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "odbc-helper",
+    "full_name": "codehz/odbc-helper",
+    "html_url": "https://github.com/codehz/odbc-helper",
+    "description": "A simple helper for odbc.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 19628
+    },
+    "contributions_by_user": 30,
+    "contribution_score": 309.58,
+    "S_code": 19.17,
+    "S_social": 0,
+    "S_maint": 30
+  },
+  {
+    "name": "sqlite-helper",
+    "full_name": "codehz/sqlite-helper",
+    "html_url": "https://github.com/codehz/sqlite-helper",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 11545
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 85.64,
+    "S_code": 11.27,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "clang-tool-node",
+    "full_name": "codehz/clang-tool-node",
+    "html_url": "https://github.com/codehz/clang-tool-node",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 18709,
+      "Python": 1944,
+      "JavaScript": 559
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 20.36,
+    "S_code": 20.71,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "koa2-learn",
+    "full_name": "codehz/koa2-learn",
+    "html_url": "https://github.com/codehz/koa2-learn",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 166
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.08,
+    "S_code": 0.16,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "DockerSpigot",
+    "full_name": "codehz/DockerSpigot",
+    "html_url": "https://github.com/codehz/DockerSpigot",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 49
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.02,
+    "S_code": 0.05,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "pty.js",
+    "full_name": "codehz/pty.js",
+    "html_url": "https://github.com/codehz/pty.js",
+    "description": "Bindings to forkpty(3) for node.js.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 23845,
+      "JavaScript": 20826,
+      "Python": 1502,
+      "Makefile": 344
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 132.71,
+    "S_code": 45.43,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "blogjs",
+    "full_name": "codehz/blogjs",
+    "html_url": "https://github.com/codehz/blogjs",
+    "description": "Just a simple node.js blog (api)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 26849
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 233.11,
+    "S_code": 26.22,
+    "S_social": 0,
+    "S_maint": 22
+  },
+  {
+    "name": "time-yiban",
+    "full_name": "codehz/time-yiban",
+    "html_url": "https://github.com/codehz/time-yiban",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 22943,
+      "JavaScript": 17584,
+      "CSS": 3521
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 31.51,
+    "S_code": 43.02,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "dom-factory",
+    "full_name": "codehz/dom-factory",
+    "html_url": "https://github.com/codehz/dom-factory",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 583
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.28,
+    "S_code": 0.57,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "ife-z09",
+    "full_name": "codehz/ife-z09",
+    "html_url": "https://github.com/codehz/ife-z09",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 48546,
+      "HTML": 20627
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 53.78,
+    "S_code": 67.55,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "ife-j32",
+    "full_name": "codehz/ife-j32",
+    "html_url": "https://github.com/codehz/ife-j32",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4212,
+      "CSS": 1531,
+      "HTML": 496
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 23.05,
+    "S_code": 6.09,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "ife-j31",
+    "full_name": "codehz/ife-j31",
+    "html_url": "https://github.com/codehz/ife-j31",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 1643,
+      "JavaScript": 892,
+      "CSS": 658
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 21.56,
+    "S_code": 3.12,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "ife-j29",
+    "full_name": "codehz/ife-j29",
+    "html_url": "https://github.com/codehz/ife-j29",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 1337,
+      "HTML": 831,
+      "JavaScript": 796
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 31.45,
+    "S_code": 2.89,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "ife-z08",
+    "full_name": "codehz/ife-z08",
+    "html_url": "https://github.com/codehz/ife-z08",
+    "description": "第8题",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 495,
+      "CSS": 410
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.44,
+    "S_code": 0.88,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "tty.js",
+    "full_name": "codehz/tty.js",
+    "html_url": "https://github.com/codehz/tty.js",
+    "description": "A terminal for your browser, using node/express/socket.io",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 44183,
+      "CSS": 2463,
+      "HTML": 658
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 53.1,
+    "S_code": 46.2,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "MyLab",
+    "full_name": "codehz/MyLab",
+    "html_url": "https://github.com/codehz/MyLab",
+    "description": "web terminal and ide",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 18455,
+      "CSS": 3898,
+      "HTML": 456
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 41.14,
+    "S_code": 22.27,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "winpty",
+    "full_name": "codehz/winpty",
+    "html_url": "https://github.com/codehz/winpty",
+    "description": "A Windows software package providing an interface similar to a Unix pty-master for communicating with Windows console programs.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 139806,
+      "C": 10316,
+      "Makefile": 7801,
+      "Python": 5530,
+      "Shell": 110
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 99.86,
+    "S_code": 159.73,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "blog.js",
+    "full_name": "codehz/blog.js",
+    "html_url": "https://github.com/codehz/blog.js",
+    "description": "Node.js + mongoose blog",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 43831,
+      "HTML": 428,
+      "Shell": 400
+    },
+    "contributions_by_user": 189,
+    "contribution_score": 1911.81,
+    "S_code": 43.61,
+    "S_social": 0,
+    "S_maint": 189
+  },
+  {
+    "name": "blog.js-frontend",
+    "full_name": "codehz/blog.js-frontend",
+    "html_url": "https://github.com/codehz/blog.js-frontend",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vue": 58063,
+      "JavaScript": 3752,
+      "HTML": 428,
+      "CSS": 160
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 70.47,
+    "S_code": 60.94,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "instant.io",
+    "full_name": "codehz/instant.io",
+    "html_url": "https://github.com/codehz/instant.io",
+    "description": ":rocket: Streaming file transfer over WebTorrent",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 13184,
+      "HTML": 1970,
+      "CSS": 1192,
+      "Shell": 902
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.42,
+    "S_code": 16.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Docker-Minecraft-Forge-Server",
+    "full_name": "codehz/Docker-Minecraft-Forge-Server",
+    "html_url": "https://github.com/codehz/Docker-Minecraft-Forge-Server",
+    "description": "Docker Minecraft Forge Server 提示中文化 - 增加rcon",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 38683
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 28.89,
+    "S_code": 37.78,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "minecraft-cauldron-tfc",
+    "full_name": "codehz/minecraft-cauldron-tfc",
+    "html_url": "https://github.com/codehz/minecraft-cauldron-tfc",
+    "description": "Docker images for minecraft-cauldron-tfc",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "NextTickAndroid",
+    "full_name": "codehz/NextTickAndroid",
+    "html_url": "https://github.com/codehz/NextTickAndroid",
+    "description": "A schedule management system.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 2428
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.19,
+    "S_code": 2.37,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "hexo-hey",
+    "full_name": "codehz/hexo-hey",
+    "html_url": "https://github.com/codehz/hexo-hey",
+    "description": "an admin plugin for hexo",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 47645,
+      "HTML": 13814,
+      "CSS": 2895
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 31.42,
+    "S_code": 62.85,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "MCPE_Plus",
+    "full_name": "codehz/MCPE_Plus",
+    "html_url": "https://github.com/codehz/MCPE_Plus",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 13229
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 146.46,
+    "S_code": 12.92,
+    "S_social": 0,
+    "S_maint": 14
+  }
+]

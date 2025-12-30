@@ -1,0 +1,1502 @@
+[
+  {
+    "name": "android-gpuimage-plus",
+    "full_name": "wysaid/android-gpuimage-plus",
+    "html_url": "https://github.com/wysaid/android-gpuimage-plus",
+    "description": "Android Image & Camera Filters Based on OpenGL. ",
+    "stars": 1897,
+    "forks": 479,
+    "languages": {
+      "C": 2633502,
+      "C++": 746986,
+      "Java": 435211,
+      "Objective-C": 26152,
+      "Shell": 17710,
+      "Kotlin": 17658,
+      "Makefile": 7642,
+      "CMake": 4730
+    },
+    "contributions_by_user": 523,
+    "contribution_score": 12839.21,
+    "S_code": 3798.43,
+    "S_social": 2855,
+    "S_maint": 523
+  },
+  {
+    "name": "Android-ffmpeg-CameraRecord",
+    "full_name": "wysaid/Android-ffmpeg-CameraRecord",
+    "html_url": "https://github.com/wysaid/Android-ffmpeg-CameraRecord",
+    "description": "使用JavaCV提供的支持， 使用OpenGL实时处理+显示摄像头采集的图像， 并使用FFMPEG实时录制音视频",
+    "stars": 360,
+    "forks": 134,
+    "languages": {
+      "Java": 192141
+    },
+    "contributions_by_user": 46,
+    "contribution_score": 1809.82,
+    "S_code": 187.64,
+    "S_social": 628,
+    "S_maint": 46
+  },
+  {
+    "name": "ios-gpuimage-plus",
+    "full_name": "wysaid/ios-gpuimage-plus",
+    "html_url": "https://github.com/wysaid/ios-gpuimage-plus",
+    "description": "GPU accelerated image filters for iOS, based on OpenGL.",
+    "stars": 252,
+    "forks": 68,
+    "languages": {
+      "C++": 1118845,
+      "Objective-C++": 246998,
+      "Objective-C": 212429,
+      "C": 993,
+      "Ruby": 616
+    },
+    "contributions_by_user": 197,
+    "contribution_score": 3517.43,
+    "S_code": 1542.85,
+    "S_social": 388,
+    "S_maint": 197
+  },
+  {
+    "name": "cge-tools",
+    "full_name": "wysaid/cge-tools",
+    "html_url": "https://github.com/wysaid/cge-tools",
+    "description": "tools for cge",
+    "stars": 96,
+    "forks": 28,
+    "languages": {},
+    "contributions_by_user": 16,
+    "contribution_score": 464.0,
+    "S_code": 0.0,
+    "S_social": 152,
+    "S_maint": 16
+  },
+  {
+    "name": "NDKOpenGLOffscreenRendering",
+    "full_name": "wysaid/NDKOpenGLOffscreenRendering",
+    "html_url": "https://github.com/wysaid/NDKOpenGLOffscreenRendering",
+    "description": "简单demo， Android下使用NDK(C++)+GLES2.0进行后台绘图,保存到bitmap并交给java层处理. 在安卓下使用PBuffer创建context并实现在ndk下后台处理",
+    "stars": 55,
+    "forks": 16,
+    "languages": {
+      "C": 4964,
+      "Java": 4596,
+      "Makefile": 242
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 268.79,
+    "S_code": 9.57,
+    "S_social": 87,
+    "S_maint": 9
+  },
+  {
+    "name": "WebGL-Lessons",
+    "full_name": "wysaid/WebGL-Lessons",
+    "html_url": "https://github.com/wysaid/WebGL-Lessons",
+    "description": "A simple introduction to WebGL",
+    "stars": 34,
+    "forks": 15,
+    "languages": {
+      "JavaScript": 272011,
+      "HTML": 156986
+    },
+    "contributions_by_user": 133,
+    "contribution_score": 1667.47,
+    "S_code": 418.94,
+    "S_social": 64,
+    "S_maint": 133
+  },
+  {
+    "name": "wge",
+    "full_name": "wysaid/wge",
+    "html_url": "https://github.com/wysaid/wge",
+    "description": "WGE (Web Graphics Engine) 是一个web平台下的图形引擎。主要使用webgl实现，同时编写html5-2d兼容版本",
+    "stars": 15,
+    "forks": 9,
+    "languages": {
+      "JavaScript": 555530,
+      "HTML": 394379
+    },
+    "contributions_by_user": 343,
+    "contribution_score": 3959.82,
+    "S_code": 927.65,
+    "S_social": 33,
+    "S_maint": 343
+  },
+  {
+    "name": "FFmpeg-Android",
+    "full_name": "wysaid/FFmpeg-Android",
+    "html_url": "https://github.com/wysaid/FFmpeg-Android",
+    "description": "Building FFmpeg for Android",
+    "stars": 14,
+    "forks": 19,
+    "languages": {
+      "Shell": 30028,
+      "Makefile": 2841
+    },
+    "contributions_by_user": 69,
+    "contribution_score": 810.05,
+    "S_code": 32.1,
+    "S_social": 52,
+    "S_maint": 69
+  },
+  {
+    "name": "WebImage",
+    "full_name": "wysaid/WebImage",
+    "html_url": "https://github.com/wysaid/WebImage",
+    "description": "GPU accelerated Image processing using WebGL",
+    "stars": 12,
+    "forks": 6,
+    "languages": {
+      "JavaScript": 78788
+    },
+    "contributions_by_user": 27,
+    "contribution_score": 356.47,
+    "S_code": 76.94,
+    "S_social": 24,
+    "S_maint": 27
+  },
+  {
+    "name": "CameraCapture",
+    "full_name": "wysaid/CameraCapture",
+    "html_url": "https://github.com/wysaid/CameraCapture",
+    "description": "ccap `(C)amera(CAP)ture` is a simple and easy-to-use C/C++ camera capture library designed to provide you with simple and efficient camera data access. It currently supports Windows macOS and Linux.",
+    "stars": 11,
+    "forks": 4,
+    "languages": {
+      "C++": 723161,
+      "Shell": 90091,
+      "C": 51954,
+      "Objective-C++": 45238,
+      "CMake": 35655,
+      "Objective-C": 1124,
+      "Ruby": 1061
+    },
+    "contributions_by_user": 286,
+    "contribution_score": 3361.03,
+    "S_code": 926.06,
+    "S_social": 19,
+    "S_maint": 286
+  },
+  {
+    "name": "android-gpuimage-plus-libs",
+    "full_name": "wysaid/android-gpuimage-plus-libs",
+    "html_url": "https://github.com/wysaid/android-gpuimage-plus-libs",
+    "description": null,
+    "stars": 9,
+    "forks": 2,
+    "languages": {},
+    "contributions_by_user": 9,
+    "contribution_score": 116.0,
+    "S_code": 0.0,
+    "S_social": 13,
+    "S_maint": 9
+  },
+  {
+    "name": "ios-vision-face-detection-demo",
+    "full_name": "wysaid/ios-vision-face-detection-demo",
+    "html_url": "https://github.com/wysaid/ios-vision-face-detection-demo",
+    "description": "A quick demo project exploring the face detection feature in Vision.framework",
+    "stars": 8,
+    "forks": 2,
+    "languages": {
+      "Objective-C++": 11902,
+      "Objective-C": 8317,
+      "Ruby": 346
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 84.04,
+    "S_code": 20.08,
+    "S_social": 12,
+    "S_maint": 5
+  },
+  {
+    "name": "simple-arithmetic",
+    "full_name": "wysaid/simple-arithmetic",
+    "html_url": "https://github.com/wysaid/simple-arithmetic",
+    "description": "A simple class for arithmetic parsing & calculating.",
+    "stars": 6,
+    "forks": 5,
+    "languages": {
+      "C++": 107568,
+      "HTML": 6950,
+      "CMake": 3448
+    },
+    "contributions_by_user": 72,
+    "contribution_score": 809.6,
+    "S_code": 115.2,
+    "S_social": 16,
+    "S_maint": 72
+  },
+  {
+    "name": "OGLPaint",
+    "full_name": "wysaid/OGLPaint",
+    "html_url": "https://github.com/wysaid/OGLPaint",
+    "description": "This program achieves basic graphics functions with OpenGL. Hoping it would have something helpful for you.",
+    "stars": 5,
+    "forks": 2,
+    "languages": {
+      "C++": 28943,
+      "C": 3542
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 193.86,
+    "S_code": 31.72,
+    "S_social": 9,
+    "S_maint": 16
+  },
+  {
+    "name": "MazeLock",
+    "full_name": "wysaid/MazeLock",
+    "html_url": "https://github.com/wysaid/MazeLock",
+    "description": "MazeLock of the auto generated maze!",
+    "stars": 4,
+    "forks": 6,
+    "languages": {
+      "C++": 90563,
+      "HTML": 3495,
+      "CMake": 2776
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 229.28,
+    "S_code": 94.56,
+    "S_social": 16,
+    "S_maint": 15
+  },
+  {
+    "name": "SpriteGenerator",
+    "full_name": "wysaid/SpriteGenerator",
+    "html_url": "https://github.com/wysaid/SpriteGenerator",
+    "description": "A Free Image Merger, supporting images with alpha channel, and configurations",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "C++": 60874,
+      "C": 42079
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 182.27,
+    "S_code": 100.54,
+    "S_social": 6,
+    "S_maint": 12
+  },
+  {
+    "name": "MathAndProgramming",
+    "full_name": "wysaid/MathAndProgramming",
+    "html_url": "https://github.com/wysaid/MathAndProgramming",
+    "description": "A simple demo about programming with Elementary Mathematics",
+    "stars": 4,
+    "forks": 4,
+    "languages": {
+      "C++": 6519
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 127.18,
+    "S_code": 6.37,
+    "S_social": 12,
+    "S_maint": 10
+  },
+  {
+    "name": "faceTrackerLib",
+    "full_name": "wysaid/faceTrackerLib",
+    "html_url": "https://github.com/wysaid/faceTrackerLib",
+    "description": "A wrapper lib for Jason Saragih's FaceTracker",
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "C++": 3731308,
+      "C": 202600,
+      "Objective-C": 7718
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 1970.62,
+    "S_code": 3849.24,
+    "S_social": 8,
+    "S_maint": 3
+  },
+  {
+    "name": "EGE_Net",
+    "full_name": "wysaid/EGE_Net",
+    "html_url": "https://github.com/wysaid/EGE_Net",
+    "description": "网格变形， 算法，思路较原版的清晰多了，但是实现方式大不同。作者依据其原理原创",
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "C++": 507576,
+      "C": 8462,
+      "CMake": 4157
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 328.0,
+    "S_code": 508.0,
+    "S_social": 7,
+    "S_maint": 6
+  },
+  {
+    "name": "soft_mesh_mapping",
+    "full_name": "wysaid/soft_mesh_mapping",
+    "html_url": "https://github.com/wysaid/soft_mesh_mapping",
+    "description": "A soft uv mesh mapping demo with EGE",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "C++": 518769,
+      "C": 8462,
+      "CMake": 4157
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 457.47,
+    "S_code": 518.93,
+    "S_social": 4,
+    "S_maint": 19
+  },
+  {
+    "name": "open-xege",
+    "full_name": "wysaid/open-xege",
+    "html_url": "https://github.com/wysaid/open-xege",
+    "description": "Another EGE with GPU acceleration based on OpenGL.",
+    "stars": 2,
+    "forks": 4,
+    "languages": {
+      "C++": 155654,
+      "C": 2585
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 147.27,
+    "S_code": 154.53,
+    "S_social": 10,
+    "S_maint": 5
+  },
+  {
+    "name": "android-gpuimage-plus-maven",
+    "full_name": "wysaid/android-gpuimage-plus-maven",
+    "html_url": "https://github.com/wysaid/android-gpuimage-plus-maven",
+    "description": "maven repo for  https://github.com/wysaid/android-gpuimage-plus",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 7764,
+      "Shell": 428
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 126.0,
+    "S_code": 8.0,
+    "S_social": 1,
+    "S_maint": 12
+  },
+  {
+    "name": "Qwen-7B",
+    "full_name": "wysaid/Qwen-7B",
+    "html_url": "https://github.com/wysaid/Qwen-7B",
+    "description": "Fork to add webui and run shell script",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 133155,
+      "Shell": 5134,
+      "Dockerfile": 3410
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 221.19,
+    "S_code": 138.38,
+    "S_social": 1,
+    "S_maint": 15
+  },
+  {
+    "name": "MonkeyDev",
+    "full_name": "wysaid/MonkeyDev",
+    "html_url": "https://github.com/wysaid/MonkeyDev",
+    "description": "CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps,  Without Jailbreak.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Objective-C": 104000,
+      "Shell": 53427,
+      "Cycript": 9417
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 83.47,
+    "S_code": 162.93,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ios-gpuimage-plus-pod",
+    "full_name": "wysaid/ios-gpuimage-plus-pod",
+    "html_url": "https://github.com/wysaid/ios-gpuimage-plus-pod",
+    "description": "pod repo for ios-gpuimage-plus",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C++": 234296,
+      "Objective-C": 73657,
+      "Ruby": 1281,
+      "C": 329
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 267.15,
+    "S_code": 302.31,
+    "S_social": 3,
+    "S_maint": 11
+  },
+  {
+    "name": "FaceTracker",
+    "full_name": "wysaid/FaceTracker",
+    "html_url": "https://github.com/wysaid/FaceTracker",
+    "description": "Real time deformable face tracking in C++ with OpenCV 2.",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "C++": 3372313,
+      "C": 117302,
+      "Objective-C": 8020,
+      "Java": 3634,
+      "Makefile": 3112
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 1741.12,
+    "S_code": 3422.25,
+    "S_social": 5,
+    "S_maint": 2
+  },
+  {
+    "name": "MagicWings",
+    "full_name": "wysaid/MagicWings",
+    "html_url": "https://github.com/wysaid/MagicWings",
+    "description": "A 2D game with map editor.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C++": 191028,
+      "C": 55623
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 296.44,
+    "S_code": 240.87,
+    "S_social": 3,
+    "S_maint": 17
+  },
+  {
+    "name": "dlib",
+    "full_name": "wysaid/dlib",
+    "html_url": "https://github.com/wysaid/dlib",
+    "description": "A toolkit for making real world machine learning and data analysis applications in C++",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C++": 13590250,
+      "Python": 81191,
+      "CMake": 41396,
+      "Cuda": 31187,
+      "C": 28943,
+      "Makefile": 4676,
+      "MATLAB": 354
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6729.54,
+    "S_code": 13455.08,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "WordWar",
+    "full_name": "wysaid/WordWar",
+    "html_url": "https://github.com/wysaid/WordWar",
+    "description": "A fully implemented 2D game",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "C++": 255366,
+      "C": 66545
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 337.18,
+    "S_code": 314.37,
+    "S_social": 5,
+    "S_maint": 17
+  },
+  {
+    "name": "android-gpuimage",
+    "full_name": "wysaid/android-gpuimage",
+    "html_url": "https://github.com/wysaid/android-gpuimage",
+    "description": "Android filters based on OpenGL (idea from GPUImage for iOS)",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Java": 428623,
+      "C": 4620,
+      "Python": 230
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 277.66,
+    "S_code": 423.31,
+    "S_social": 3,
+    "S_maint": 6
+  },
+  {
+    "name": "clion-cmake-format",
+    "full_name": "wysaid/clion-cmake-format",
+    "html_url": "https://github.com/wysaid/clion-cmake-format",
+    "description": "A VSCode extension that provides CLion-compatible CMake formatting.  Formats CMakeLists.txt files with CLion's indentation, spacing, and alignment style,  without external dependencies.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CMake": 539837,
+      "TypeScript": 215188,
+      "JavaScript": 19494,
+      "Shell": 9833,
+      "Python": 7746
+    },
+    "contributions_by_user": 34,
+    "contribution_score": 726.77,
+    "S_code": 773.53,
+    "S_social": 0,
+    "S_maint": 34
+  },
+  {
+    "name": "homebrew-ccap",
+    "full_name": "wysaid/homebrew-ccap",
+    "html_url": "https://github.com/wysaid/homebrew-ccap",
+    "description": "High-performance, lightweight cross-platform C++ camera capture library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 9297,
+      "Ruby": 3052
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 166.03,
+    "S_code": 12.06,
+    "S_social": 0,
+    "S_maint": 16
+  },
+  {
+    "name": "vscode-starlight-generator",
+    "full_name": "wysaid/vscode-starlight-generator",
+    "html_url": "https://github.com/wysaid/vscode-starlight-generator",
+    "description": "VSCode Plugin for starlight shader generator tool.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 25873,
+      "JavaScript": 5542,
+      "GLSL": 888
+    },
+    "contributions_by_user": 42,
+    "contribution_score": 435.77,
+    "S_code": 31.55,
+    "S_social": 0,
+    "S_maint": 42
+  },
+  {
+    "name": "magicka-intellij",
+    "full_name": "wysaid/magicka-intellij",
+    "html_url": "https://github.com/wysaid/magicka-intellij",
+    "description": "✨ Shader Code Generation Tool for Visual Effects Developers",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Kotlin": 28754,
+      "HTML": 6612,
+      "Shell": 871
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 227.69,
+    "S_code": 35.39,
+    "S_social": 0,
+    "S_maint": 21
+  },
+  {
+    "name": "vs-shell-format-bugfix",
+    "full_name": "wysaid/vs-shell-format-bugfix",
+    "html_url": "https://github.com/wysaid/vs-shell-format-bugfix",
+    "description": "the shellscript、Dockerfile、properties ...... format extension",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 43613,
+      "TypeScript": 33712,
+      "JavaScript": 1641,
+      "Dockerfile": 429
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 38.77,
+    "S_code": 77.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "homebrew-core",
+    "full_name": "wysaid/homebrew-core",
+    "html_url": "https://github.com/wysaid/homebrew-core",
+    "description": "🍻 Default formulae for the missing package manager for macOS (or Linux)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 21039503,
+      "Python": 4376
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10275.33,
+    "S_code": 20550.66,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "docker-macos",
+    "full_name": "wysaid/docker-macos",
+    "html_url": "https://github.com/wysaid/docker-macos",
+    "description": "OSX (macOS) inside a Docker container.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 8061,
+      "Dockerfile": 2014
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.92,
+    "S_code": 9.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "opencv",
+    "full_name": "wysaid/opencv",
+    "html_url": "https://github.com/wysaid/opencv",
+    "description": "Open Source Computer Vision Library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 41276013,
+      "C": 1557707,
+      "Python": 1298889,
+      "CMake": 971612,
+      "Java": 751251,
+      "Objective-C++": 400623,
+      "Cuda": 342948,
+      "Swift": 301765,
+      "JavaScript": 238878,
+      "Objective-C": 99958,
+      "HTML": 40097,
+      "Shell": 26085,
+      "Perl": 15865,
+      "PowerShell": 14591,
+      "Kotlin": 5815,
+      "TeX": 5144,
+      "Batchfile": 1498,
+      "Prolog": 843,
+      "Dockerfile": 309
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23120.06,
+    "S_code": 46240.13,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dnspod-shell-fork-fix-root-domain-fetch",
+    "full_name": "wysaid/dnspod-shell-fork-fix-root-domain-fetch",
+    "html_url": "https://github.com/wysaid/dnspod-shell-fork-fix-root-domain-fetch",
+    "description": "Fork 一下, 修一个根域名的bug",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 12488
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 36.1,
+    "S_code": 12.2,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "ege-manual",
+    "full_name": "wysaid/ege-manual",
+    "html_url": "https://github.com/wysaid/ege-manual",
+    "description": "website manual for https://xege.org/manual/",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "HTML": 326641,
+      "C++": 47992
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 266.93,
+    "S_code": 365.85,
+    "S_social": 2,
+    "S_maint": 8
+  },
+  {
+    "name": "ChatGLM2-6B",
+    "full_name": "wysaid/ChatGLM2-6B",
+    "html_url": "https://github.com/wysaid/ChatGLM2-6B",
+    "description": "Fork to add Dockerfile",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 68805,
+      "Shell": 3948,
+      "Dockerfile": 965
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 76.0,
+    "S_code": 71.99,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "vscode-settings",
+    "full_name": "wysaid/vscode-settings",
+    "html_url": "https://github.com/wysaid/vscode-settings",
+    "description": "My favourite vscode settings, share to you all.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "gh-oauth-server",
+    "full_name": "wysaid/gh-oauth-server",
+    "html_url": "https://github.com/wysaid/gh-oauth-server",
+    "description": "gitment_redirect",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 951
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.46,
+    "S_code": 0.93,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "frp",
+    "full_name": "wysaid/frp",
+    "html_url": "https://github.com/wysaid/frp",
+    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 645512,
+      "Vue": 39843,
+      "JavaScript": 19032,
+      "Shell": 2181,
+      "HTML": 1332,
+      "Makefile": 996,
+      "Less": 560
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 346.41,
+    "S_code": 692.83,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tensorflow",
+    "full_name": "wysaid/tensorflow",
+    "html_url": "https://github.com/wysaid/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 75207522,
+      "Python": 38063902,
+      "HTML": 4680032,
+      "Go": 1670421,
+      "MLIR": 1118393,
+      "Java": 864735,
+      "C": 748572,
+      "Shell": 559859,
+      "Jupyter Notebook": 540773,
+      "Objective-C++": 298405,
+      "Objective-C": 105732,
+      "Dockerfile": 80604,
+      "Swift": 62814,
+      "Makefile": 59659,
+      "Smarty": 31485,
+      "PHP": 24118,
+      "Batchfile": 15272,
+      "Pawn": 14529,
+      "C#": 8562,
+      "Perl": 7536,
+      "Ruby": 7469,
+      "CMake": 6545,
+      "LLVM": 6536,
+      "Assembly": 4913,
+      "Pascal": 3752,
+      "RobotFramework": 891
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 60641.13,
+    "S_code": 121282.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gapid",
+    "full_name": "wysaid/gapid",
+    "html_url": "https://github.com/wysaid/gapid",
+    "description": "Graphics API Debugger",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 6344595,
+      "C++": 1415029,
+      "Java": 1290944,
+      "Python": 494124,
+      "C": 271014,
+      "HTML": 128593,
+      "JavaScript": 31051,
+      "GLSL": 24812,
+      "Shell": 24167,
+      "Objective-C++": 12600,
+      "Batchfile": 7588,
+      "Smarty": 3202,
+      "Objective-C": 1346,
+      "CSS": 1154
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4907.33,
+    "S_code": 9814.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gitment",
+    "full_name": "wysaid/gitment",
+    "html_url": "https://github.com/wysaid/gitment",
+    "description": "A comment system based on GitHub Issues.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 25051,
+      "CSS": 19713,
+      "HTML": 772
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 32.23,
+    "S_code": 44.47,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "EmojiPackage",
+    "full_name": "wysaid/EmojiPackage",
+    "html_url": "https://github.com/wysaid/EmojiPackage",
+    "description": "A rich emoji package resources",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "openFrameworks",
+    "full_name": "wysaid/openFrameworks",
+    "html_url": "https://github.com/wysaid/openFrameworks",
+    "description": "openFrameworks is a community-developed cross platform toolkit for creative coding in C++.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 7298814,
+      "C": 677249,
+      "Objective-C++": 341168,
+      "Makefile": 339742,
+      "Objective-C": 244767,
+      "Shell": 153531,
+      "Java": 107484,
+      "QML": 58071,
+      "JavaScript": 29631,
+      "CSS": 22067,
+      "GLSL": 12684,
+      "HTML": 9923,
+      "Batchfile": 7018,
+      "PowerShell": 3852,
+      "Python": 1609
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4544.73,
+    "S_code": 9089.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gitbucket",
+    "full_name": "wysaid/gitbucket",
+    "html_url": "https://github.com/wysaid/gitbucket",
+    "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Scala": 976941,
+      "HTML": 438668,
+      "CSS": 35102,
+      "JavaScript": 26125,
+      "Java": 11134,
+      "Shell": 7462
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 730.19,
+    "S_code": 1460.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "opencv2",
+    "full_name": "wysaid/opencv2",
+    "html_url": "https://github.com/wysaid/opencv2",
+    "description": "Origin from https://opencv.org/releases.html",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C++": 1666077,
+      "C": 187177,
+      "Objective-C": 7718,
+      "Ruby": 1304
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 923.31,
+    "S_code": 1818.63,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "ppsspp",
+    "full_name": "wysaid/ppsspp",
+    "html_url": "https://github.com/wysaid/ppsspp",
+    "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or in #ppsspp on freenode (IRC) or just send pull requests / issues. For discussion use the forums on ppsspp.org.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 17411507,
+      "C": 6944340,
+      "CMake": 110058,
+      "Java": 95840,
+      "Objective-C++": 55270,
+      "Makefile": 55124,
+      "Python": 46830,
+      "GLSL": 45584,
+      "Objective-C": 34276,
+      "Lua": 27483,
+      "DIGITAL Command Language": 24010,
+      "Assembly": 15758,
+      "Shell": 15708,
+      "Batchfile": 11160,
+      "Inno Setup": 4279,
+      "Perl": 39
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12156.87,
+    "S_code": 24313.74,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "glslang",
+    "full_name": "wysaid/glslang",
+    "html_url": "https://github.com/wysaid/glslang",
+    "description": "Khronos reference front-end for GLSL and ESSL, and sample SPIR-V generator",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 4434337,
+      "GLSL": 917832,
+      "Yacc": 139444,
+      "JavaScript": 92450,
+      "C": 25162,
+      "CMake": 23545,
+      "Shell": 20226,
+      "Python": 5114,
+      "HLSL": 2223
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2763.83,
+    "S_code": 5527.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "glfx.js",
+    "full_name": "wysaid/glfx.js",
+    "html_url": "https://github.com/wysaid/glfx.js",
+    "description": "An image effects library for JavaScript using WebGL",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 82588,
+      "CSS": 8327,
+      "HTML": 2008
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 119.37,
+    "S_code": 90.75,
+    "S_social": 2,
+    "S_maint": 7
+  },
+  {
+    "name": "Jailbreak_ios9",
+    "full_name": "wysaid/Jailbreak_ios9",
+    "html_url": "https://github.com/wysaid/Jailbreak_ios9",
+    "description": "Jailbreak for ios 9.3.0~9.3.3",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 15137
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 127.39,
+    "S_code": 14.78,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "iOS-Vision-Text-Detection-Demo",
+    "full_name": "wysaid/iOS-Vision-Text-Detection-Demo",
+    "html_url": "https://github.com/wysaid/iOS-Vision-Text-Detection-Demo",
+    "description": "A quick demo project exploring the text detection feature in Vision.framework",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Swift": 9262
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.52,
+    "S_code": 9.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "GPUImage",
+    "full_name": "wysaid/GPUImage",
+    "html_url": "https://github.com/wysaid/GPUImage",
+    "description": "An open source iOS framework for GPU-based image and video processing",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Objective-C": 1218708,
+      "Ruby": 1222,
+      "Shell": 1159
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 636.23,
+    "S_code": 1192.47,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "ege-filter",
+    "full_name": "wysaid/ege-filter",
+    "html_url": "https://github.com/wysaid/ege-filter",
+    "description": "simple demos with image-filter for xege(https://github.com/misakamm/xege/)",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "C++": 23104,
+      "C": 1155
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 109.85,
+    "S_code": 23.69,
+    "S_social": 4,
+    "S_maint": 9
+  },
+  {
+    "name": "snake3d",
+    "full_name": "wysaid/snake3d",
+    "html_url": "https://github.com/wysaid/snake3d",
+    "description": "A simple 3d-game based on qt+opengl",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C++": 123396,
+      "QMake": 840
+    },
+    "contributions_by_user": 47,
+    "contribution_score": 534.66,
+    "S_code": 121.32,
+    "S_social": 2,
+    "S_maint": 47
+  },
+  {
+    "name": "neural-style",
+    "full_name": "wysaid/neural-style",
+    "html_url": "https://github.com/wysaid/neural-style",
+    "description": "Torch implementation of neural style algorithm",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Lua": 16431,
+      "Shell": 375
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 22.21,
+    "S_code": 16.41,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "gitignore",
+    "full_name": "wysaid/gitignore",
+    "html_url": "https://github.com/wysaid/gitignore",
+    "description": "A collection of useful .gitignore templates",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "openal-soft",
+    "full_name": "wysaid/openal-soft",
+    "html_url": "https://github.com/wysaid/openal-soft",
+    "description": "OpenAL Soft is a software implementation of the OpenAL 3D audio API.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 2012066,
+      "CMake": 100948,
+      "C++": 75231
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1068.48,
+    "S_code": 2136.96,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "clmtrackr",
+    "full_name": "wysaid/clmtrackr",
+    "html_url": "https://github.com/wysaid/clmtrackr",
+    "description": "Javascript library for precise tracking of facial features via Constrained Local Models",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1076748
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 525.76,
+    "S_code": 1051.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "grafika",
+    "full_name": "wysaid/grafika",
+    "html_url": "https://github.com/wysaid/grafika",
+    "description": "Grafika test app",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Java": 533190
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 284.35,
+    "S_code": 520.69,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "apple-ios-samples",
+    "full_name": "wysaid/apple-ios-samples",
+    "html_url": "https://github.com/wysaid/apple-ios-samples",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Objective-C": 11411049,
+      "C++": 2479029,
+      "Swift": 2299854,
+      "Objective-C++": 1217905,
+      "C": 797633,
+      "Metal": 88350,
+      "JavaScript": 78308,
+      "HTML": 38193,
+      "GLSL": 37558,
+      "Rebol": 12190,
+      "Python": 10621,
+      "Ruby": 5325
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9021.49,
+    "S_code": 18042.98,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Vulkan",
+    "full_name": "wysaid/Vulkan",
+    "html_url": "https://github.com/wysaid/Vulkan",
+    "description": "Examples and demos for the new Vulkan API",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 1042764,
+      "C": 114375,
+      "CMake": 3770,
+      "GLSL": 3496,
+      "Batchfile": 327
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 568.72,
+    "S_code": 1137.43,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "neural-network-papers",
+    "full_name": "wysaid/neural-network-papers",
+    "html_url": "https://github.com/wysaid/neural-network-papers",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 739
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.36,
+    "S_code": 0.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mini3d",
+    "full_name": "wysaid/mini3d",
+    "html_url": "https://github.com/wysaid/mini3d",
+    "description": "3D Software Render Engine in 700 Lines !!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 29695
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.5,
+    "S_code": 29.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "shadowsocks-android",
+    "full_name": "wysaid/shadowsocks-android",
+    "html_url": "https://github.com/wysaid/shadowsocks-android",
+    "description": "A Shadowsocks client for Android",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 830088,
+      "HTML": 198598,
+      "Scala": 181765,
+      "Java": 88522,
+      "Shell": 49051,
+      "C++": 31357,
+      "Perl": 25123,
+      "Makefile": 20607,
+      "Groff": 8027,
+      "Python": 1228
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 700.37,
+    "S_code": 1400.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dachuwang",
+    "full_name": "wysaid/dachuwang",
+    "html_url": "https://github.com/wysaid/dachuwang",
+    "description": "大厨网",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "NewEBuy",
+    "full_name": "wysaid/NewEBuy",
+    "html_url": "https://github.com/wysaid/NewEBuy",
+    "description": "New Edition And New Design",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "shadowsocks-iOS",
+    "full_name": "wysaid/shadowsocks-iOS",
+    "html_url": "https://github.com/wysaid/shadowsocks-iOS",
+    "description": "Removed according to regulations.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "doc",
+    "full_name": "wysaid/doc",
+    "html_url": "https://github.com/wysaid/doc",
+    "description": "doc",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 29628091,
+      "HTML": 6210500,
+      "CSS": 4457160,
+      "PHP": 77595,
+      "Java": 29054,
+      "C++": 22200,
+      "C": 21367,
+      "C#": 8174,
+      "Clarion": 1842,
+      "Makefile": 840
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19754.31,
+    "S_code": 39508.62,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "grafix",
+    "full_name": "wysaid/grafix",
+    "html_url": "https://github.com/wysaid/grafix",
+    "description": "An image editor",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C++": 318232,
+      "C": 6167,
+      "QMake": 1601
+    },
+    "contributions_by_user": 32,
+    "contribution_score": 483.18,
+    "S_code": 318.36,
+    "S_social": 2,
+    "S_maint": 32
+  },
+  {
+    "name": "FotorSDK-iOS",
+    "full_name": "wysaid/FotorSDK-iOS",
+    "html_url": "https://github.com/wysaid/FotorSDK-iOS",
+    "description": "FotorSDK-iOS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "SoundManager2",
+    "full_name": "wysaid/SoundManager2",
+    "html_url": "https://github.com/wysaid/SoundManager2",
+    "description": "A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + (experimental) RTMP, providing reliable cross-browser/platform audio control in as little as 10 KB. BSD licensed.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "WebGLShowCase",
+    "full_name": "wysaid/WebGLShowCase",
+    "html_url": "https://github.com/wysaid/WebGLShowCase",
+    "description": "A simple webgl source code editing and displaying page.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 5164
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 226.52,
+    "S_code": 5.04,
+    "S_social": 2,
+    "S_maint": 22
+  },
+  {
+    "name": "WebGL",
+    "full_name": "wysaid/WebGL",
+    "html_url": "https://github.com/wysaid/WebGL",
+    "description": "The Official Khronos WebGL Repository",
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 4.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "Brushes",
+    "full_name": "wysaid/Brushes",
+    "html_url": "https://github.com/wysaid/Brushes",
+    "description": "Painting app for the iPhone and iPad.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "webgl-filter",
+    "full_name": "wysaid/webgl-filter",
+    "html_url": "https://github.com/wysaid/webgl-filter",
+    "description": "An image editor in WebGL",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 24304,
+      "CSS": 8528
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 36.03,
+    "S_code": 32.06,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "cakejs",
+    "full_name": "wysaid/cakejs",
+    "html_url": "https://github.com/wysaid/cakejs",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

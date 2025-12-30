@@ -1,0 +1,2695 @@
+[
+  {
+    "name": "tvm-in-action",
+    "full_name": "andersy005/tvm-in-action",
+    "html_url": "https://github.com/andersy005/tvm-in-action",
+    "description": "TVM stack: exploring the incredible explosion of deep-learning frameworks and how to bring them together ",
+    "stars": 64,
+    "forks": 7,
+    "languages": {
+      "Jupyter Notebook": 59630,
+      "Makefile": 2083
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 346.13,
+    "S_code": 60.27,
+    "S_social": 78,
+    "S_maint": 16
+  },
+  {
+    "name": "self-driving-car-nd",
+    "full_name": "andersy005/self-driving-car-nd",
+    "html_url": "https://github.com/andersy005/self-driving-car-nd",
+    "description": "Udacity's Self-Driving Car Nanodegree project files and notes.",
+    "stars": 49,
+    "forks": 22,
+    "languages": {
+      "Jupyter Notebook": 24463527,
+      "HTML": 1752848,
+      "Python": 366362
+    },
+    "contributions_by_user": 159,
+    "contribution_score": 14755.85,
+    "S_code": 25959.7,
+    "S_social": 93,
+    "S_maint": 159
+  },
+  {
+    "name": "keras-yolo",
+    "full_name": "andersy005/keras-yolo",
+    "html_url": "https://github.com/andersy005/keras-yolo",
+    "description": "Keras implementation of YOLO (You Only Look Once) : Unified, Real-Time Object Detection",
+    "stars": 36,
+    "forks": 19,
+    "languages": {
+      "Jupyter Notebook": 70397,
+      "Python": 22715
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 263.46,
+    "S_code": 90.93,
+    "S_social": 74,
+    "S_maint": 7
+  },
+  {
+    "name": "xarray-tutorial",
+    "full_name": "andersy005/xarray-tutorial",
+    "html_url": "https://github.com/andersy005/xarray-tutorial",
+    "description": null,
+    "stars": 34,
+    "forks": 12,
+    "languages": {
+      "Jupyter Notebook": 230897
+    },
+    "contributions_by_user": 32,
+    "contribution_score": 548.74,
+    "S_code": 225.49,
+    "S_social": 58,
+    "S_maint": 32
+  },
+  {
+    "name": "keras-faster-rcnn",
+    "full_name": "andersy005/keras-faster-rcnn",
+    "html_url": "https://github.com/andersy005/keras-faster-rcnn",
+    "description": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
+    "stars": 30,
+    "forks": 12,
+    "languages": {
+      "Jupyter Notebook": 90712,
+      "Python": 4002
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 264.25,
+    "S_code": 92.49,
+    "S_social": 54,
+    "S_maint": 11
+  },
+  {
+    "name": "spark-xarray",
+    "full_name": "andersy005/spark-xarray",
+    "html_url": "https://github.com/andersy005/spark-xarray",
+    "description": "This is an experimental project that seeks to integrate PySpark and xarray for Climate Data Analysis.",
+    "stars": 22,
+    "forks": 10,
+    "languages": {
+      "Jupyter Notebook": 21081,
+      "Python": 11990,
+      "PowerShell": 3148,
+      "Shell": 605
+    },
+    "contributions_by_user": 114,
+    "contribution_score": 1241.98,
+    "S_code": 35.96,
+    "S_social": 42,
+    "S_maint": 114
+  },
+  {
+    "name": "reinforcement-learning-an-introduction",
+    "full_name": "andersy005/reinforcement-learning-an-introduction",
+    "html_url": "https://github.com/andersy005/reinforcement-learning-an-introduction",
+    "description": "Implementation of Reinforcement Learning Algorithms: Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book & David Silver's course.",
+    "stars": 10,
+    "forks": 4,
+    "languages": {
+      "Jupyter Notebook": 2063
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 77.01,
+    "S_code": 2.01,
+    "S_social": 18,
+    "S_maint": 4
+  },
+  {
+    "name": "artificial-intelligence",
+    "full_name": "andersy005/artificial-intelligence",
+    "html_url": "https://github.com/andersy005/artificial-intelligence",
+    "description": "Implementation of Artificial Intelligence Algorithms:  code base, notes, exercises and solutions to accompany Russell And Norvig's \"Artificial Intelligence - A Modern Approach\" and CPSC 4383/5383 Course.",
+    "stars": 7,
+    "forks": 3,
+    "languages": {
+      "Jupyter Notebook": 9130057,
+      "HTML": 2733776,
+      "Python": 32401,
+      "PowerShell": 3149
+    },
+    "contributions_by_user": 80,
+    "contribution_score": 6636.25,
+    "S_code": 11620.49,
+    "S_social": 13,
+    "S_maint": 80
+  },
+  {
+    "name": "dash-docsets",
+    "full_name": "andersy005/dash-docsets",
+    "html_url": "https://github.com/andersy005/dash-docsets",
+    "description": "My Dash (https://kapeli.com/dash) docsets. Live on the bleeding edge. Let the buyer beware ⚠️;)",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "Python": 25256
+    },
+    "contributions_by_user": 258,
+    "contribution_score": 2606.33,
+    "S_code": 24.66,
+    "S_social": 7,
+    "S_maint": 258
+  },
+  {
+    "name": "dask-notebooks",
+    "full_name": "andersy005/dask-notebooks",
+    "html_url": "https://github.com/andersy005/dask-notebooks",
+    "description": "Dask tutorials for Big Data Analysis and Machine Learning as Jupyter notebooks ",
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 461587
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 319.38,
+    "S_code": 450.77,
+    "S_social": 7,
+    "S_maint": 8
+  },
+  {
+    "name": "algorithms",
+    "full_name": "andersy005/algorithms",
+    "html_url": "https://github.com/andersy005/algorithms",
+    "description": "Data Structures and Algorithms implementations",
+    "stars": 4,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 22.0,
+    "S_code": 0.0,
+    "S_social": 6,
+    "S_maint": 1
+  },
+  {
+    "name": "probabilistic-programming-and-bayesian-with-PyMC3",
+    "full_name": "andersy005/probabilistic-programming-and-bayesian-with-PyMC3",
+    "html_url": "https://github.com/andersy005/probabilistic-programming-and-bayesian-with-PyMC3",
+    "description": "Implementation of probabilistic programming and Bayesian  algorithms in Python, based on C. Davidson's Bayesian Methods for Hackers",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 4056021
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 2048.48,
+    "S_code": 3960.96,
+    "S_social": 4,
+    "S_maint": 6
+  },
+  {
+    "name": "beyond-matplotlib-tutorial-sea-2018",
+    "full_name": "andersy005/beyond-matplotlib-tutorial-sea-2018",
+    "html_url": "https://github.com/andersy005/beyond-matplotlib-tutorial-sea-2018",
+    "description": "Tutorial on building interactive data visualizations with Holoviews, Geoviews, and Bokeh for 2018 NCAR SEA Conference",
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "Jupyter Notebook": 3345910,
+      "Python": 698,
+      "Shell": 236
+    },
+    "contributions_by_user": 51,
+    "contribution_score": 2160.2,
+    "S_code": 3268.4,
+    "S_social": 8,
+    "S_maint": 51
+  },
+  {
+    "name": "gh-action-py-liccheck",
+    "full_name": "andersy005/gh-action-py-liccheck",
+    "html_url": "https://github.com/andersy005/gh-action-py-liccheck",
+    "description": "A GitHub Action to check license of Python packages and their dependencies.",
+    "stars": 3,
+    "forks": 6,
+    "languages": {
+      "TypeScript": 5930,
+      "JavaScript": 238
+    },
+    "contributions_by_user": 62,
+    "contribution_score": 653.01,
+    "S_code": 6.02,
+    "S_social": 15,
+    "S_maint": 62
+  },
+  {
+    "name": "template",
+    "full_name": "andersy005/template",
+    "html_url": "https://github.com/andersy005/template",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 6,
+    "contribution_score": 66.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 6
+  },
+  {
+    "name": "embedded-systems-programming",
+    "full_name": "andersy005/embedded-systems-programming",
+    "html_url": "https://github.com/andersy005/embedded-systems-programming",
+    "description": null,
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "C": 327490,
+      "Assembly": 57494,
+      "C++": 26307,
+      "MATLAB": 9251
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 445.34,
+    "S_code": 410.69,
+    "S_social": 5,
+    "S_maint": 23
+  },
+  {
+    "name": "intake-tutorial",
+    "full_name": "andersy005/intake-tutorial",
+    "html_url": "https://github.com/andersy005/intake-tutorial",
+    "description": "Intake Tutorial",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 12875262
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 6394.75,
+    "S_code": 12573.5,
+    "S_social": 4,
+    "S_maint": 10
+  },
+  {
+    "name": "intake-pangeo-catalog-EarthCube-2020",
+    "full_name": "andersy005/intake-pangeo-catalog-EarthCube-2020",
+    "html_url": "https://github.com/andersy005/intake-pangeo-catalog-EarthCube-2020",
+    "description": "Notebook submission for the 2020 EarthCube Annual Meeting",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 544874,
+      "Shell": 170,
+      "Dockerfile": 66
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 450.17,
+    "S_code": 532.33,
+    "S_social": 2,
+    "S_maint": 18
+  },
+  {
+    "name": "jupyterlab-night-owl-theme",
+    "full_name": "andersy005/jupyterlab-night-owl-theme",
+    "html_url": "https://github.com/andersy005/jupyterlab-night-owl-theme",
+    "description": "A port of the awesome VS Code Night Owl theme (by Sarah Drasner @sdras) to JupyterLab.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "CSS": 20588,
+      "JavaScript": 911,
+      "TypeScript": 728
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 84.85,
+    "S_code": 21.71,
+    "S_social": 2,
+    "S_maint": 7
+  },
+  {
+    "name": "conda-env-files",
+    "full_name": "andersy005/conda-env-files",
+    "html_url": "https://github.com/andersy005/conda-env-files",
+    "description": "My conda environment files",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Shell": 724
+    },
+    "contributions_by_user": 62,
+    "contribution_score": 628.35,
+    "S_code": 0.71,
+    "S_social": 4,
+    "S_maint": 62
+  },
+  {
+    "name": "kaggle-notebooks",
+    "full_name": "andersy005/kaggle-notebooks",
+    "html_url": "https://github.com/andersy005/kaggle-notebooks",
+    "description": "Notebooks for various kaggle datasets + competitions",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 12063903,
+      "HTML": 188238
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 6230.49,
+    "S_code": 11964.98,
+    "S_social": 4,
+    "S_maint": 24
+  },
+  {
+    "name": "kaggle-talkingdata-adtracking-fraud-detection",
+    "full_name": "andersy005/kaggle-talkingdata-adtracking-fraud-detection",
+    "html_url": "https://github.com/andersy005/kaggle-talkingdata-adtracking-fraud-detection",
+    "description": "TalkingData AdTracking Fraud Detection Challenge",
+    "stars": 2,
+    "forks": 2,
+    "languages": {
+      "Jupyter Notebook": 4813093
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 2502.14,
+    "S_code": 4700.29,
+    "S_social": 6,
+    "S_maint": 14
+  },
+  {
+    "name": "interactive-cpp",
+    "full_name": "andersy005/interactive-cpp",
+    "html_url": "https://github.com/andersy005/interactive-cpp",
+    "description": "interacive c++ notebooks",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 55216
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 170.96,
+    "S_code": 53.92,
+    "S_social": 2,
+    "S_maint": 14
+  },
+  {
+    "name": "InterviewPrep-Guide",
+    "full_name": "andersy005/InterviewPrep-Guide",
+    "html_url": "https://github.com/andersy005/InterviewPrep-Guide",
+    "description": "This repository contains the development for a preparation tool to interviewees and students in the field of Computer Science, or otherwise similar fields. ",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5575,
+      "HTML": 680,
+      "CSS": 626
+    },
+    "contributions_by_user": 39,
+    "contribution_score": 397.36,
+    "S_code": 6.72,
+    "S_social": 2,
+    "S_maint": 39
+  },
+  {
+    "name": "LearnPyGame",
+    "full_name": "andersy005/LearnPyGame",
+    "html_url": "https://github.com/andersy005/LearnPyGame",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 18422,
+      "Python": 14115
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 233.89,
+    "S_code": 31.77,
+    "S_social": 4,
+    "S_maint": 21
+  },
+  {
+    "name": "talks",
+    "full_name": "andersy005/talks",
+    "html_url": "https://github.com/andersy005/talks",
+    "description": "Various presentations/talks I've given on things.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 10,
+    "contribution_score": 102.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 10
+  },
+  {
+    "name": "html-reprs",
+    "full_name": "andersy005/html-reprs",
+    "html_url": "https://github.com/andersy005/html-reprs",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 1394,
+      "Procfile": 105
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 172.73,
+    "S_code": 1.46,
+    "S_social": 1,
+    "S_maint": 17
+  },
+  {
+    "name": "panelify",
+    "full_name": "andersy005/panelify",
+    "html_url": "https://github.com/andersy005/panelify",
+    "description": "Python library that makes it easy to create dashboards via the Panel and Pandas Python libraries.",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Python": 9796
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 200.78,
+    "S_code": 9.57,
+    "S_social": 3,
+    "S_maint": 19
+  },
+  {
+    "name": "dask-jobqueue",
+    "full_name": "andersy005/dask-jobqueue",
+    "html_url": "https://github.com/andersy005/dask-jobqueue",
+    "description": "Deploy Dask on job schedulers like PBS, SLURM, and SGE",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 212848,
+      "Shell": 12104,
+      "Dockerfile": 3176
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 163.39,
+    "S_code": 222.78,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "xESMF",
+    "full_name": "andersy005/xESMF",
+    "html_url": "https://github.com/andersy005/xESMF",
+    "description": "Universal Regridder for Geospatial Data",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 71921
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 217.12,
+    "S_code": 70.24,
+    "S_social": 1,
+    "S_maint": 18
+  },
+  {
+    "name": "HiRes-CESM-dashboard",
+    "full_name": "andersy005/HiRes-CESM-dashboard",
+    "html_url": "https://github.com/andersy005/HiRes-CESM-dashboard",
+    "description": "Panel dashboards for diagnostics produced in [HiRes-CESM-analysis](https://github.com/marbl-ecosys/HiRes-CESM-analysis)",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "Jupyter Notebook": 655993,
+      "Shell": 168
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 490.39,
+    "S_code": 640.78,
+    "S_social": 5,
+    "S_maint": 16
+  },
+  {
+    "name": "papermill-sphinx-example",
+    "full_name": "andersy005/papermill-sphinx-example",
+    "html_url": "https://github.com/andersy005/papermill-sphinx-example",
+    "description": "Generating sphinx web pages from papermill parametrized notebooks with ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 1327021,
+      "Python": 2357,
+      "Batchfile": 760,
+      "Makefile": 634
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 701.79,
+    "S_code": 1299.58,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "Web-Data-Scraping-S2019",
+    "full_name": "andersy005/Web-Data-Scraping-S2019",
+    "html_url": "https://github.com/andersy005/Web-Data-Scraping-S2019",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 3161681
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1545.79,
+    "S_code": 3087.58,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "xtensor-tutorial",
+    "full_name": "andersy005/xtensor-tutorial",
+    "html_url": "https://github.com/andersy005/xtensor-tutorial",
+    "description": "Demonstrating lazy tensor algebra in C++ with xtensor ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 12.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "conda-forge-dependencies",
+    "full_name": "andersy005/conda-forge-dependencies",
+    "html_url": "https://github.com/andersy005/conda-forge-dependencies",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 21599
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.55,
+    "S_code": 21.09,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "cuda-programming",
+    "full_name": "andersy005/cuda-programming",
+    "html_url": "https://github.com/andersy005/cuda-programming",
+    "description": "GPU programming resources and examples ",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "C": 411606,
+      "Jupyter Notebook": 100510,
+      "Cuda": 17411,
+      "C++": 15592,
+      "Python": 574
+    },
+    "contributions_by_user": 32,
+    "contribution_score": 596.45,
+    "S_code": 532.9,
+    "S_social": 5,
+    "S_maint": 32
+  },
+  {
+    "name": "jetson-reinforcement",
+    "full_name": "andersy005/jetson-reinforcement",
+    "html_url": "https://github.com/andersy005/jetson-reinforcement",
+    "description": "Deep reinforcement learning libraries for Jetson with pyTorch and openAI Gym",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C++": 83402,
+      "Lua": 58489,
+      "Python": 48959,
+      "Shell": 9530,
+      "CMake": 5337,
+      "C": 4783,
+      "Cuda": 1636
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 109.58,
+    "S_code": 207.16,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "GCP",
+    "full_name": "andersy005/GCP",
+    "html_url": "https://github.com/andersy005/GCP",
+    "description": "My notes on GPC how to use various Google Cloud Platform services ",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 17590
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 34.59,
+    "S_code": 17.18,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "visage",
+    "full_name": "andersy005/visage",
+    "html_url": "https://github.com/andersy005/visage",
+    "description": "This is an interactive application that performs face tracking and image manipulations on camera input in real time. ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 12533
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 238.12,
+    "S_code": 12.24,
+    "S_social": 1,
+    "S_maint": 23
+  },
+  {
+    "name": "Mining-Twitter",
+    "full_name": "andersy005/Mining-Twitter",
+    "html_url": "https://github.com/andersy005/Mining-Twitter",
+    "description": "Up and running with Twitter’s API, using Python to interactively explore and analyze Twitter data.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 153655
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 177.03,
+    "S_code": 150.05,
+    "S_social": 1,
+    "S_maint": 10
+  },
+  {
+    "name": "DashBoard",
+    "full_name": "andersy005/DashBoard",
+    "html_url": "https://github.com/andersy005/DashBoard",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 11955,
+      "HTML": 10463,
+      "PowerShell": 468,
+      "CSS": 343,
+      "Shell": 335,
+      "Batchfile": 206
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 103.61,
+    "S_code": 23.21,
+    "S_social": 1,
+    "S_maint": 9
+  },
+  {
+    "name": "Tinkering-with-Arduino",
+    "full_name": "andersy005/Tinkering-with-Arduino",
+    "html_url": "https://github.com/andersy005/Tinkering-with-Arduino",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Arduino": 17888
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 204.73,
+    "S_code": 17.47,
+    "S_social": 3,
+    "S_maint": 19
+  },
+  {
+    "name": "7-Minute-Workout-app",
+    "full_name": "andersy005/7-Minute-Workout-app",
+    "html_url": "https://github.com/andersy005/7-Minute-Workout-app",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 15575,
+      "HTML": 4690,
+      "CSS": 2033
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 112.89,
+    "S_code": 21.78,
+    "S_social": 1,
+    "S_maint": 10
+  },
+  {
+    "name": "Bulletin-Board-App",
+    "full_name": "andersy005/Bulletin-Board-App",
+    "html_url": "https://github.com/andersy005/Bulletin-Board-App",
+    "description": "This is a simple bulletin board application made with ReactJS",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 7787,
+      "CSS": 1748,
+      "HTML": 916
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 97.1,
+    "S_code": 10.21,
+    "S_social": 1,
+    "S_maint": 9
+  },
+  {
+    "name": "La-Guerre-des-Fruits",
+    "full_name": "andersy005/La-Guerre-des-Fruits",
+    "html_url": "https://github.com/andersy005/La-Guerre-des-Fruits",
+    "description": "In this game, we have fruits as protagonists, junk food as the enemy and some breakable structures",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 1399
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 22.68,
+    "S_code": 1.37,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "Simple-Spreadsheet",
+    "full_name": "andersy005/Simple-Spreadsheet",
+    "html_url": "https://github.com/andersy005/Simple-Spreadsheet",
+    "description": "A simple spreadsheet application using Python",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "HTML": 64059,
+      "JavaScript": 27851,
+      "CSS": 18221,
+      "Python": 4059
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 221.76,
+    "S_code": 111.51,
+    "S_social": 3,
+    "S_maint": 16
+  },
+  {
+    "name": "andersy005",
+    "full_name": "andersy005/andersy005",
+    "html_url": "https://github.com/andersy005/andersy005",
+    "description": "Hello 👋  🌎",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 31,
+    "contribution_score": 310.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 31
+  },
+  {
+    "name": "intake-esm-feedstock",
+    "full_name": "andersy005/intake-esm-feedstock",
+    "html_url": "https://github.com/andersy005/intake-esm-feedstock",
+    "description": "A conda-smithy repository for intake-esm.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 32,
+    "contribution_score": 320.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 32
+  },
+  {
+    "name": "brouillons-quotidien",
+    "full_name": "andersy005/brouillons-quotidien",
+    "html_url": "https://github.com/andersy005/brouillons-quotidien",
+    "description": "Mes brouillons",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 96548396,
+      "Jupyter Notebook": 59514389,
+      "Python": 685,
+      "Shell": 287
+    },
+    "contributions_by_user": 43,
+    "contribution_score": 76633.01,
+    "S_code": 152406.01,
+    "S_social": 0,
+    "S_maint": 43
+  },
+  {
+    "name": "blog",
+    "full_name": "andersy005/blog",
+    "html_url": "https://github.com/andersy005/blog",
+    "description": "🌱 Notes",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 762448,
+      "Python": 6213,
+      "CSS": 1372,
+      "HTML": 784,
+      "Makefile": 760
+    },
+    "contributions_by_user": 85,
+    "contribution_score": 1226.75,
+    "S_code": 753.49,
+    "S_social": 0,
+    "S_maint": 85
+  },
+  {
+    "name": "ms-ds-notebooks",
+    "full_name": "andersy005/ms-ds-notebooks",
+    "html_url": "https://github.com/andersy005/ms-ds-notebooks",
+    "description": "https://ms-ds-cu.fly.dev/",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 30513509,
+      "Procfile": 89
+    },
+    "contributions_by_user": 44,
+    "contribution_score": 15339.22,
+    "S_code": 29798.44,
+    "S_social": 0,
+    "S_maint": 44
+  },
+  {
+    "name": "xarray-datasette",
+    "full_name": "andersy005/xarray-datasette",
+    "html_url": "https://github.com/andersy005/xarray-datasette",
+    "description": "Code to package pydata/xarray issue tracker data using Datasette.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 52,
+    "contribution_score": 520.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 52
+  },
+  {
+    "name": "cv",
+    "full_name": "andersy005/cv",
+    "html_url": "https://github.com/andersy005/cv",
+    "description": "Curriculum Vita / Resume ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 10414666,
+      "R": 8973,
+      "CSS": 2623
+    },
+    "contributions_by_user": 74,
+    "contribution_score": 5830.95,
+    "S_code": 10181.9,
+    "S_social": 0,
+    "S_maint": 74
+  },
+  {
+    "name": "staged-recipes",
+    "full_name": "andersy005/staged-recipes",
+    "html_url": "https://github.com/andersy005/staged-recipes",
+    "description": "A place to submit conda recipes before they become fully fledged conda-forge feedstocks",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 41634,
+      "Shell": 15226,
+      "Batchfile": 4657
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 30.04,
+    "S_code": 60.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Ocean-CDR-Atlas-v0",
+    "full_name": "andersy005/Ocean-CDR-Atlas-v0",
+    "html_url": "https://github.com/andersy005/Ocean-CDR-Atlas-v0",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 177917474,
+      "Shell": 2906003,
+      "Fortran": 1114756,
+      "Python": 145990,
+      "Roff": 34183,
+      "CMake": 6133,
+      "Makefile": 5330
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 88930.6,
+    "S_code": 177861.2,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "intake-thredds-feedstock",
+    "full_name": "andersy005/intake-thredds-feedstock",
+    "html_url": "https://github.com/andersy005/intake-thredds-feedstock",
+    "description": "A conda-smithy repository for intake-thredds.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "icechunk-feedstock",
+    "full_name": "andersy005/icechunk-feedstock",
+    "html_url": "https://github.com/andersy005/icechunk-feedstock",
+    "description": "A conda-smithy repository for icechunk.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "icechunk",
+    "full_name": "andersy005/icechunk",
+    "html_url": "https://github.com/andersy005/icechunk",
+    "description": "Open-source, cloud-native transactional tensor storage engine",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Rust": 768680,
+      "Python": 292934,
+      "Just": 1542,
+      "Nix": 1196
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 519.7,
+    "S_code": 1039.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "xbatcher",
+    "full_name": "andersy005/xbatcher",
+    "html_url": "https://github.com/andersy005/xbatcher",
+    "description": "Batch generation from xarray datasets",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 75511
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 146.87,
+    "S_code": 73.74,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "LEAP_template_feedstock",
+    "full_name": "andersy005/LEAP_template_feedstock",
+    "html_url": "https://github.com/andersy005/LEAP_template_feedstock",
+    "description": "A Prototype feedstock that implements independent metadata and data updates using pangeo forge",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 5294
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 52.58,
+    "S_code": 5.17,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "xarray",
+    "full_name": "andersy005/xarray",
+    "html_url": "https://github.com/andersy005/xarray",
+    "description": "N-D labeled arrays and datasets in Python",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 6016596,
+      "CSS": 6209,
+      "Shell": 1854,
+      "HTML": 1343
+    },
+    "contributions_by_user": 60,
+    "contribution_score": 3542.38,
+    "S_code": 5884.77,
+    "S_social": 0,
+    "S_maint": 60
+  },
+  {
+    "name": "leap-pangeo-demos",
+    "full_name": "andersy005/leap-pangeo-demos",
+    "html_url": "https://github.com/andersy005/leap-pangeo-demos",
+    "description": "Collection of demos for the LEAP-Pangeo platform",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 51705127
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 25246.64,
+    "S_code": 50493.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "xbatcher-feedstock",
+    "full_name": "andersy005/xbatcher-feedstock",
+    "html_url": "https://github.com/andersy005/xbatcher-feedstock",
+    "description": "A conda-smithy repository for xbatcher.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "metaflux_feedstock",
+    "full_name": "andersy005/metaflux_feedstock",
+    "html_url": "https://github.com/andersy005/metaflux_feedstock",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 8304
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.05,
+    "S_code": 8.11,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pangeo-forge-recipes-feedstock",
+    "full_name": "andersy005/pangeo-forge-recipes-feedstock",
+    "html_url": "https://github.com/andersy005/pangeo-forge-recipes-feedstock",
+    "description": "A conda-smithy repository for pangeo-forge-recipes.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "admin-requests",
+    "full_name": "andersy005/admin-requests",
+    "html_url": "https://github.com/andersy005/admin-requests",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 26725
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.05,
+    "S_code": 26.1,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ncar-jobqueue",
+    "full_name": "andersy005/ncar-jobqueue",
+    "html_url": "https://github.com/andersy005/ncar-jobqueue",
+    "description": "Utilities for configuring dask-jobqueue with appropriate settings for NCAR clusters",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 7718
+    },
+    "contributions_by_user": 70,
+    "contribution_score": 703.77,
+    "S_code": 7.54,
+    "S_social": 0,
+    "S_maint": 70
+  },
+  {
+    "name": "fastapi-cache",
+    "full_name": "andersy005/fastapi-cache",
+    "html_url": "https://github.com/andersy005/fastapi-cache",
+    "description": "fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcached.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 31602,
+      "Makefile": 386,
+      "Jinja": 314
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.77,
+    "S_code": 31.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pangeo-forge-runner-feedstock",
+    "full_name": "andersy005/pangeo-forge-runner-feedstock",
+    "html_url": "https://github.com/andersy005/pangeo-forge-runner-feedstock",
+    "description": "A conda-smithy repository for pangeo-forge-runner.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "specs",
+    "full_name": "andersy005/specs",
+    "html_url": "https://github.com/andersy005/specs",
+    "description": "Scientific Python Ecosystem Coordination (SPEC) documents",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 9825,
+      "Makefile": 972
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.27,
+    "S_code": 10.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "zarrita.js",
+    "full_name": "andersy005/zarrita.js",
+    "html_url": "https://github.com/andersy005/zarrita.js",
+    "description": "A JavaScript toolkit for working with chunked, compressed, n-dimensional arrays",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 201479,
+      "Python": 15642,
+      "JavaScript": 6659,
+      "HTML": 3628
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 111.04,
+    "S_code": 222.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dask",
+    "full_name": "andersy005/dask",
+    "html_url": "https://github.com/andersy005/dask",
+    "description": "Parallel computing with task scheduling",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4781574,
+      "Jinja": 6086,
+      "Shell": 5733
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2340.52,
+    "S_code": 4681.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pop-tools",
+    "full_name": "andersy005/pop-tools",
+    "html_url": "https://github.com/andersy005/pop-tools",
+    "description": "Tools to support analysis of POP2-CESM model solutions (pop-tools)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 71914,
+      "Roff": 2103
+    },
+    "contributions_by_user": 142,
+    "contribution_score": 1456.14,
+    "S_code": 72.28,
+    "S_social": 0,
+    "S_maint": 142
+  },
+  {
+    "name": "conda-forge-repodata-patches-feedstock",
+    "full_name": "andersy005/conda-forge-repodata-patches-feedstock",
+    "html_url": "https://github.com/andersy005/conda-forge-repodata-patches-feedstock",
+    "description": "A conda-smithy repository for conda-forge-repodata-patches.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 160839
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 78.53,
+    "S_code": 157.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gh-action-playground",
+    "full_name": "andersy005/gh-action-playground",
+    "html_url": "https://github.com/andersy005/gh-action-playground",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 30,
+    "contribution_score": 300.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 30
+  },
+  {
+    "name": "xarray-db",
+    "full_name": "andersy005/xarray-db",
+    "html_url": "https://github.com/andersy005/xarray-db",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "governance",
+    "full_name": "andersy005/governance",
+    "html_url": "https://github.com/andersy005/governance",
+    "description": "The governance process and model for zarr-developers",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "esds",
+    "full_name": "andersy005/esds",
+    "html_url": "https://github.com/andersy005/esds",
+    "description": "Repository for hosting material related to Earth System Data Science Initiative efforts",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 137678658,
+      "HTML": 16992396,
+      "Python": 3474,
+      "CSS": 1372,
+      "Batchfile": 795,
+      "Makefile": 740
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 75716.09,
+    "S_code": 151052.18,
+    "S_social": 0,
+    "S_maint": 19
+  },
+  {
+    "name": "pythia-foundations",
+    "full_name": "andersy005/pythia-foundations",
+    "html_url": "https://github.com/andersy005/pythia-foundations",
+    "description": "Jupyterbook source for the Foundations collection",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 292269,
+      "TeX": 5524,
+      "HTML": 1259
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 236.02,
+    "S_code": 292.04,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "zarr-proxy",
+    "full_name": "andersy005/zarr-proxy",
+    "html_url": "https://github.com/andersy005/zarr-proxy",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1031
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.5,
+    "S_code": 1.01,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "xgcm",
+    "full_name": "andersy005/xgcm",
+    "html_url": "https://github.com/andersy005/xgcm",
+    "description": "python package for analyzing general circulation model output data",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 259730,
+      "TeX": 3818
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 328.69,
+    "S_code": 257.37,
+    "S_social": 0,
+    "S_maint": 20
+  },
+  {
+    "name": "apache-beam-feedstock",
+    "full_name": "andersy005/apache-beam-feedstock",
+    "html_url": "https://github.com/andersy005/apache-beam-feedstock",
+    "description": "A conda-smithy repository for apache-beam.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 85
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.04,
+    "S_code": 0.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pangeo-docker-images",
+    "full_name": "andersy005/pangeo-docker-images",
+    "html_url": "https://github.com/andersy005/pangeo-docker-images",
+    "description": "Docker Images For Pangeo Jupyter Environment",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dockerfile": 13459,
+      "Python": 10654,
+      "Makefile": 2328,
+      "Shell": 1802
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 23.79,
+    "S_code": 27.58,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "casm-feedstock",
+    "full_name": "andersy005/casm-feedstock",
+    "html_url": "https://github.com/andersy005/casm-feedstock",
+    "description": "Pangeo Forge feedstock for casm.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 515
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.25,
+    "S_code": 0.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "datatree",
+    "full_name": "andersy005/datatree",
+    "html_url": "https://github.com/andersy005/datatree",
+    "description": "WIP implementation of a tree-like hierarchical data structure for xarray.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 161978
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 189.09,
+    "S_code": 158.18,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "gpcp-feedstock",
+    "full_name": "andersy005/gpcp-feedstock",
+    "html_url": "https://github.com/andersy005/gpcp-feedstock",
+    "description": "A Pangeo Forge Feedstock for gpcp.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1019
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.5,
+    "S_code": 1.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "universal_pathlib",
+    "full_name": "andersy005/universal_pathlib",
+    "html_url": "https://github.com/andersy005/universal_pathlib",
+    "description": "pathlib api extended to use fsspec backends",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 47654,
+      "Jupyter Notebook": 12489
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 29.37,
+    "S_code": 58.73,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dask-mpi",
+    "full_name": "andersy005/dask-mpi",
+    "html_url": "https://github.com/andersy005/dask-mpi",
+    "description": "Deploy Dask using MPI4Py",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 105690
+    },
+    "contributions_by_user": 50,
+    "contribution_score": 551.61,
+    "S_code": 103.21,
+    "S_social": 0,
+    "S_maint": 50
+  },
+  {
+    "name": "ad-hoc-ts",
+    "full_name": "andersy005/ad-hoc-ts",
+    "html_url": "https://github.com/andersy005/ad-hoc-ts",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 119042,
+      "Python": 9022
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 62.53,
+    "S_code": 125.06,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "singularity-binder",
+    "full_name": "andersy005/singularity-binder",
+    "html_url": "https://github.com/andersy005/singularity-binder",
+    "description": "Test of jupyter enabled singularity images",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 965763
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 591.56,
+    "S_code": 943.13,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "dask_groupby",
+    "full_name": "andersy005/dask_groupby",
+    "html_url": "https://github.com/andersy005/dask_groupby",
+    "description": "GroupBy operations for dask.array",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 110301
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 73.86,
+    "S_code": 107.72,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "projectpythia.github.io",
+    "full_name": "andersy005/projectpythia.github.io",
+    "html_url": "https://github.com/andersy005/projectpythia.github.io",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 197704,
+      "Python": 20135,
+      "HTML": 11559,
+      "SCSS": 6292,
+      "Batchfile": 795,
+      "JavaScript": 664,
+      "Makefile": 634
+    },
+    "contributions_by_user": 28,
+    "contribution_score": 396.1,
+    "S_code": 232.21,
+    "S_social": 0,
+    "S_maint": 28
+  },
+  {
+    "name": "xstac",
+    "full_name": "andersy005/xstac",
+    "html_url": "https://github.com/andersy005/xstac",
+    "description": "STAC from xarray",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 35483
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.33,
+    "S_code": 34.65,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "HiRes-CESM-analysis",
+    "full_name": "andersy005/HiRes-CESM-analysis",
+    "html_url": "https://github.com/andersy005/HiRes-CESM-analysis",
+    "description": "Notebooks and tools for validating the 0.1 degree POP / CICE run with ocean BGC",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 819217,
+      "Python": 69588,
+      "Shell": 15558
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 491.58,
+    "S_code": 883.17,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "xgcm-examples",
+    "full_name": "andersy005/xgcm-examples",
+    "html_url": "https://github.com/andersy005/xgcm-examples",
+    "description": "Examples and tutorials for xgcm",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 3963130,
+      "Dockerfile": 65
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 1995.15,
+    "S_code": 3870.31,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "cftime",
+    "full_name": "andersy005/cftime",
+    "html_url": "https://github.com/andersy005/cftime",
+    "description": "Time-handling functionality from netcdf4-python.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 174405,
+      "Shell": 1178
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 85.73,
+    "S_code": 171.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cf-xarray",
+    "full_name": "andersy005/cf-xarray",
+    "html_url": "https://github.com/andersy005/cf-xarray",
+    "description": "a lightweight accessor for xarray objects that interprets CF attributes",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 120004
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 58.6,
+    "S_code": 117.19,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ncar-jobqueue-feedstock",
+    "full_name": "andersy005/ncar-jobqueue-feedstock",
+    "html_url": "https://github.com/andersy005/ncar-jobqueue-feedstock",
+    "description": "A conda-smithy repository for ncar-jobqueue.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "geocat-comp",
+    "full_name": "andersy005/geocat-comp",
+    "html_url": "https://github.com/andersy005/geocat-comp",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 111438,
+      "Shell": 1106
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 174.95,
+    "S_code": 109.91,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "cesm-lens",
+    "full_name": "andersy005/cesm-lens",
+    "html_url": "https://github.com/andersy005/cesm-lens",
+    "description": "some templates for accessing analyzing the CESM large ensemble on NCAR's casper cluster",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 7781796,
+      "Python": 13660
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3806.38,
+    "S_code": 7612.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "geocat-f2py",
+    "full_name": "andersy005/geocat-f2py",
+    "html_url": "https://github.com/andersy005/geocat-f2py",
+    "description": "A temporary repo for demonstration purposes. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Fortran": 2127237,
+      "Python": 152613,
+      "NCL": 8605,
+      "Shell": 530
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1117.67,
+    "S_code": 2235.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "intake",
+    "full_name": "andersy005/intake",
+    "html_url": "https://github.com/andersy005/intake",
+    "description": "A plugin system for loading your data and making data catalogs.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 648687,
+      "HTML": 2167,
+      "Shell": 333
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 347.96,
+    "S_code": 635.92,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "filesystem_spec",
+    "full_name": "andersy005/filesystem_spec",
+    "html_url": "https://github.com/andersy005/filesystem_spec",
+    "description": "A specification that python filesystems should adhere to.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 553180
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 270.11,
+    "S_code": 540.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "provenance",
+    "full_name": "andersy005/provenance",
+    "html_url": "https://github.com/andersy005/provenance",
+    "description": "Provenance and caching library for python functions, built for creating lightweight machine learning pipelines",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 289634,
+      "Makefile": 1494,
+      "Dockerfile": 535,
+      "Mako": 494
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 362.65,
+    "S_code": 285.31,
+    "S_social": 0,
+    "S_maint": 22
+  },
+  {
+    "name": "pangeo-forge-vue-website",
+    "full_name": "andersy005/pangeo-forge-vue-website",
+    "html_url": "https://github.com/andersy005/pangeo-forge-vue-website",
+    "description": "Pangeo Forge Website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vue": 6393,
+      "SCSS": 1742,
+      "HTML": 613,
+      "JavaScript": 400
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.47,
+    "S_code": 8.93,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pangeo-forge",
+    "full_name": "andersy005/pangeo-forge",
+    "html_url": "https://github.com/andersy005/pangeo-forge",
+    "description": "pangeo-forge API",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 31421,
+      "Dockerfile": 280
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.48,
+    "S_code": 30.96,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "stac-browser",
+    "full_name": "andersy005/stac-browser",
+    "html_url": "https://github.com/andersy005/stac-browser",
+    "description": "A Vue-based STAC browser intended for static + dynamic deployment",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Vue": 62034,
+      "JavaScript": 43959,
+      "HTML": 536,
+      "Shell": 113
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 52.07,
+    "S_code": 104.14,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "climpred",
+    "full_name": "andersy005/climpred",
+    "html_url": "https://github.com/andersy005/climpred",
+    "description": ":earth_americas: Verification of weather and climate forecasts. :earth_africa:",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 539210,
+      "TeX": 43962
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 314.75,
+    "S_code": 569.5,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "dask-jobqueue-feedstock",
+    "full_name": "andersy005/dask-jobqueue-feedstock",
+    "html_url": "https://github.com/andersy005/dask-jobqueue-feedstock",
+    "description": "A conda-smithy repository for dask-jobqueue.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hpc-tools",
+    "full_name": "andersy005/hpc-tools",
+    "html_url": "https://github.com/andersy005/hpc-tools",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4770,
+      "Shell": 1191
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 262.91,
+    "S_code": 5.82,
+    "S_social": 0,
+    "S_maint": 26
+  },
+  {
+    "name": "esm-collection-spec",
+    "full_name": "andersy005/esm-collection-spec",
+    "html_url": "https://github.com/andersy005/esm-collection-spec",
+    "description": "Earth System Model Collection specification",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 50,
+    "contribution_score": 500.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 50
+  },
+  {
+    "name": "jupyterhub-sshspawner",
+    "full_name": "andersy005/jupyterhub-sshspawner",
+    "html_url": "https://github.com/andersy005/jupyterhub-sshspawner",
+    "description": "SSH Spawner Plugin for JupyterHub",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1856
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.91,
+    "S_code": 1.81,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "jupyterhub-sshauthenticator",
+    "full_name": "andersy005/jupyterhub-sshauthenticator",
+    "html_url": "https://github.com/andersy005/jupyterhub-sshauthenticator",
+    "description": "SSH Authenticator Plugin for JupyterHub",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4702
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 122.3,
+    "S_code": 4.59,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "andersy005.github.io",
+    "full_name": "andersy005/andersy005.github.io",
+    "html_url": "https://github.com/andersy005/andersy005.github.io",
+    "description": "Home Page",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 252
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 30.12,
+    "S_code": 0.25,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "modules-cheyenne",
+    "full_name": "andersy005/modules-cheyenne",
+    "html_url": "https://github.com/andersy005/modules-cheyenne",
+    "description": "Documented examples of modules deployment on Cheyenne Supercomputer",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 3395
+    },
+    "contributions_by_user": 43,
+    "contribution_score": 431.66,
+    "S_code": 3.32,
+    "S_social": 0,
+    "S_maint": 43
+  },
+  {
+    "name": "prepapermill",
+    "full_name": "andersy005/prepapermill",
+    "html_url": "https://github.com/andersy005/prepapermill",
+    "description": "pre-commit hooks for papermill (https://github.com/nteract/papermill)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 3684,
+      "Jupyter Notebook": 1023
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 72.3,
+    "S_code": 4.6,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "xdev-projects",
+    "full_name": "andersy005/xdev-projects",
+    "html_url": "https://github.com/andersy005/xdev-projects",
+    "description": "All past, current, and future projects for the Xdev Team",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 25,
+    "contribution_score": 250.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 25
+  },
+  {
+    "name": "arduino-cli-gh-action-example",
+    "full_name": "andersy005/arduino-cli-gh-action-example",
+    "html_url": "https://github.com/andersy005/arduino-cli-gh-action-example",
+    "description": "Compiling Arduino sketches on GitHub Actions",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 147
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 100.07,
+    "S_code": 0.14,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "pangeo-gallery",
+    "full_name": "andersy005/pangeo-gallery",
+    "html_url": "https://github.com/andersy005/pangeo-gallery",
+    "description": "Sphinx gallery site",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 9100,
+      "HTML": 2568,
+      "Makefile": 613,
+      "CSS": 353
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 26.17,
+    "S_code": 12.34,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "cmip6-gmst-anoms",
+    "full_name": "andersy005/cmip6-gmst-anoms",
+    "html_url": "https://github.com/andersy005/cmip6-gmst-anoms",
+    "description": "CMIP6 GMST anomalies relative to 1850 to 1900.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 196129
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 95.77,
+    "S_code": 191.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cmip6hack-ocean-bgc",
+    "full_name": "andersy005/cmip6hack-ocean-bgc",
+    "html_url": "https://github.com/andersy005/cmip6hack-ocean-bgc",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 36130594,
+      "Shell": 915,
+      "Python": 436
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 17682.55,
+    "S_code": 35285.1,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "binderbot",
+    "full_name": "andersy005/binderbot",
+    "html_url": "https://github.com/andersy005/binderbot",
+    "description": "CLI for running binders",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 106932,
+      "Makefile": 2205
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 53.29,
+    "S_code": 106.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "zarr.js",
+    "full_name": "andersy005/zarr.js",
+    "html_url": "https://github.com/andersy005/zarr.js",
+    "description": "Javascript implementation of Zarr",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 171749,
+      "JavaScript": 3444,
+      "Python": 928,
+      "Shell": 74
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 86.03,
+    "S_code": 172.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "zarr",
+    "full_name": "andersy005/zarr",
+    "html_url": "https://github.com/andersy005/zarr",
+    "description": "An implementation of chunked, compressed, N-dimensional arrays for Python.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 3846557,
+      "Python": 565375,
+      "Roff": 10406,
+      "Batchfile": 1823
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2160.23,
+    "S_code": 4320.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "xpersist",
+    "full_name": "andersy005/xpersist",
+    "html_url": "https://github.com/andersy005/xpersist",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 11260
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 165.5,
+    "S_code": 11.0,
+    "S_social": 0,
+    "S_maint": 16
+  },
+  {
+    "name": "pooch",
+    "full_name": "andersy005/pooch",
+    "html_url": "https://github.com/andersy005/pooch",
+    "description": "A friend to fetch your sample data files.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 166253,
+      "Makefile": 1341
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 101.83,
+    "S_code": 163.67,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "dask-mpi-feedstock",
+    "full_name": "andersy005/dask-mpi-feedstock",
+    "html_url": "https://github.com/andersy005/dask-mpi-feedstock",
+    "description": "A conda-smithy repository for dask-mpi.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 3929
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 21.92,
+    "S_code": 3.84,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "JetsonTX2",
+    "full_name": "andersy005/JetsonTX2",
+    "html_url": "https://github.com/andersy005/JetsonTX2",
+    "description": "Utilities for NVIDIA Jetson TX2",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 5636
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 92.75,
+    "S_code": 5.5,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "jupyterlab-bokeh-server",
+    "full_name": "andersy005/jupyterlab-bokeh-server",
+    "html_url": "https://github.com/andersy005/jupyterlab-bokeh-server",
+    "description": "A JupyterLab extension for displaying the contents of a Bokeh document",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 7729,
+      "Python": 2788,
+      "CSS": 1892
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.06,
+    "S_code": 12.12,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "status-dashboard",
+    "full_name": "andersy005/status-dashboard",
+    "html_url": "https://github.com/andersy005/status-dashboard",
+    "description": "Status Dashboard for XDev and Earth System Informatics Teams Projects",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 3599,
+      "Python": 2666,
+      "CSS": 155
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 153.13,
+    "S_code": 6.27,
+    "S_social": 0,
+    "S_maint": 15
+  },
+  {
+    "name": "Game-Animation",
+    "full_name": "andersy005/Game-Animation",
+    "html_url": "https://github.com/andersy005/Game-Animation",
+    "description": "A python tool to visualise game animations",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 770222,
+      "Python": 44642
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 397.88,
+    "S_code": 795.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Python",
+    "full_name": "andersy005/Python",
+    "html_url": "https://github.com/andersy005/Python",
+    "description": "All Algorithms implemented in Python",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 530279,
+      "Jupyter Notebook": 285827
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 398.49,
+    "S_code": 796.98,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "C-Plus-Plus",
+    "full_name": "andersy005/C-Plus-Plus",
+    "html_url": "https://github.com/andersy005/C-Plus-Plus",
+    "description": "All Algorithms implemented in C++",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 135619,
+      "C": 1000
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 66.71,
+    "S_code": 133.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "handson-ml2",
+    "full_name": "andersy005/handson-ml2",
+    "html_url": "https://github.com/andersy005/handson-ml2",
+    "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 24255878,
+      "Python": 7813,
+      "Dockerfile": 3700,
+      "Shell": 716,
+      "Makefile": 260
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11849.79,
+    "S_code": 23699.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "awesome-public-datasets",
+    "full_name": "andersy005/awesome-public-datasets",
+    "html_url": "https://github.com/andersy005/awesome-public-datasets",
+    "description": "A topic-centric list of HQ open datasets in public domains. PR ☛☛☛",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "caviz",
+    "full_name": "andersy005/caviz",
+    "html_url": "https://github.com/andersy005/caviz",
+    "description": "Climate Analysis Visualization",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 25468892,
+      "Shell": 393
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 12456.17,
+    "S_code": 24872.35,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "dockerfiles",
+    "full_name": "andersy005/dockerfiles",
+    "html_url": "https://github.com/andersy005/dockerfiles",
+    "description": "Various Dockerfiles I use",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 6760,
+      "Dockerfile": 3712,
+      "Python": 1286
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 135.74,
+    "S_code": 11.48,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "yellowstone-deploy",
+    "full_name": "andersy005/yellowstone-deploy",
+    "html_url": "https://github.com/andersy005/yellowstone-deploy",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 58820,
+      "Smarty": 1075,
+      "Shell": 751
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 49.61,
+    "S_code": 59.22,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "binder-bokeh-server",
+    "full_name": "andersy005/binder-bokeh-server",
+    "html_url": "https://github.com/andersy005/binder-bokeh-server",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 3305
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.61,
+    "S_code": 3.23,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "python-bindings",
+    "full_name": "andersy005/python-bindings",
+    "html_url": "https://github.com/andersy005/python-bindings",
+    "description": "Learning how to create python bindings for C and C++ code with pybind11 and cffi",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 49593,
+      "C++": 7746
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 88.0,
+    "S_code": 56.0,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "taco-python",
+    "full_name": "andersy005/taco-python",
+    "html_url": "https://github.com/andersy005/taco-python",
+    "description": "Python bindings for taco (Tensor Algebra Compiler) ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "labextension_tutorial",
+    "full_name": "andersy005/labextension_tutorial",
+    "html_url": "https://github.com/andersy005/labextension_tutorial",
+    "description": "Jupyterlab Extensions for the Impatient",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 25154,
+      "CSS": 1346,
+      "Python": 986
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.42,
+    "S_code": 26.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "video-game-graphics-to-reality-and-back",
+    "full_name": "andersy005/video-game-graphics-to-reality-and-back",
+    "html_url": "https://github.com/andersy005/video-game-graphics-to-reality-and-back",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 1233364,
+      "Makefile": 4623,
+      "Python": 2926
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 785.91,
+    "S_code": 1211.83,
+    "S_social": 0,
+    "S_maint": 18
+  },
+  {
+    "name": "colaboratory-tools",
+    "full_name": "andersy005/colaboratory-tools",
+    "html_url": "https://github.com/andersy005/colaboratory-tools",
+    "description": "Various utility modules for working with Google Collaboratory",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 3976480,
+      "Python": 11303,
+      "Shell": 608
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 2181.46,
+    "S_code": 3894.91,
+    "S_social": 2,
+    "S_maint": 23
+  },
+  {
+    "name": "capstone",
+    "full_name": "andersy005/capstone",
+    "html_url": "https://github.com/andersy005/capstone",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 27918
+    },
+    "contributions_by_user": 46,
+    "contribution_score": 473.63,
+    "S_code": 27.26,
+    "S_social": 0,
+    "S_maint": 46
+  },
+  {
+    "name": "Pytorch-GAN",
+    "full_name": "andersy005/Pytorch-GAN",
+    "html_url": "https://github.com/andersy005/Pytorch-GAN",
+    "description": "Pytorch implementations of Generative Adversarial Networks.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 548989,
+      "Shell": 824
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 322.46,
+    "S_code": 536.93,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "Uber-Pickups-in-New-York-City",
+    "full_name": "andersy005/Uber-Pickups-in-New-York-City",
+    "html_url": "https://github.com/andersy005/Uber-Pickups-in-New-York-City",
+    "description": "Data analysis with visualizations of Trip data for over 20 million Uber (and other for-hire vehicle) trips in NYC.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 16746,
+      "Shell": 1147
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 52.74,
+    "S_code": 17.47,
+    "S_social": 2,
+    "S_maint": 4
+  },
+  {
+    "name": "Cpp-Primer",
+    "full_name": "andersy005/Cpp-Primer",
+    "html_url": "https://github.com/andersy005/Cpp-Primer",
+    "description": "C++ Primer 5 answers",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 703839,
+      "Ruby": 4842,
+      "QMake": 148
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 346.11,
+    "S_code": 692.22,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ML-From-Scratch",
+    "full_name": "andersy005/ML-From-Scratch",
+    "html_url": "https://github.com/andersy005/ML-From-Scratch",
+    "description": "Machine Learning From Scratch. Bare bones Python implementations of Machine Learning models and algorithms with a focus on transparency and accessibility. Aims to cover everything from Data Mining to Deep Learning.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 251430
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 126.77,
+    "S_code": 245.54,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "interactive-vis",
+    "full_name": "andersy005/interactive-vis",
+    "html_url": "https://github.com/andersy005/interactive-vis",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 6872884
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 3525.9,
+    "S_code": 6711.8,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "matplotlib4papers",
+    "full_name": "andersy005/matplotlib4papers",
+    "html_url": "https://github.com/andersy005/matplotlib4papers",
+    "description": "Matplotlib examples to present results.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 8754001
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4274.41,
+    "S_code": 8548.83,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "CppCon2017",
+    "full_name": "andersy005/CppCon2017",
+    "html_url": "https://github.com/andersy005/CppCon2017",
+    "description": "Slides and other materials from CppCon 2017",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 7346
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.59,
+    "S_code": 7.17,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "PyViz-Landscape",
+    "full_name": "andersy005/PyViz-Landscape",
+    "html_url": "https://github.com/andersy005/PyViz-Landscape",
+    "description": "Exploring Python Visualization Landscape with Atmospheric and Oceanic Data and Other Miscellaneous data sets",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 1055363
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 535.31,
+    "S_code": 1030.63,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "SIParCS-research",
+    "full_name": "andersy005/SIParCS-research",
+    "html_url": "https://github.com/andersy005/SIParCS-research",
+    "description": "Notes and Scripts- Research Internship at NCAR",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 3105,
+      "Shell": 458
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 221.74,
+    "S_code": 3.48,
+    "S_social": 0,
+    "S_maint": 22
+  },
+  {
+    "name": "open_source_trading_talk",
+    "full_name": "andersy005/open_source_trading_talk",
+    "html_url": "https://github.com/andersy005/open_source_trading_talk",
+    "description": "How to make a trading strategy with open source Python tools",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 2240476
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1093.98,
+    "S_code": 2187.96,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Hobe",
+    "full_name": "andersy005/Hobe",
+    "html_url": "https://github.com/andersy005/Hobe",
+    "description": "This is a Simple Real Time Web Chat Application using  Google's Firebase Platform ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 8211,
+      "HTML": 5187,
+      "CSS": 3406
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 78.21,
+    "S_code": 16.41,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "Google-Code-Jam",
+    "full_name": "andersy005/Google-Code-Jam",
+    "html_url": "https://github.com/andersy005/Google-Code-Jam",
+    "description": "This is a collection of solutions I have written in various programming languages to solve Google Code Jam problems. For problem statements and input files, please see the Google Code Jam site (http://code.google.com/codejam)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 124,
+      "Python": 32
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.08,
+    "S_code": 0.15,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "Memory-Puzzle",
+    "full_name": "andersy005/Memory-Puzzle",
+    "html_url": "https://github.com/andersy005/Memory-Puzzle",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 11096
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 25.42,
+    "S_code": 10.84,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "FB-Mining",
+    "full_name": "andersy005/FB-Mining",
+    "html_url": "https://github.com/andersy005/FB-Mining",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 7111
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.47,
+    "S_code": 6.94,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "Aprrhaxis",
+    "full_name": "andersy005/Aprrhaxis",
+    "html_url": "https://github.com/andersy005/Aprrhaxis",
+    "description": "This is a collision avoidance game made with CSS and HTML! You can play it from ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 3198,
+      "CSS": 2929
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 92.99,
+    "S_code": 5.98,
+    "S_social": 0,
+    "S_maint": 9
+  }
+]

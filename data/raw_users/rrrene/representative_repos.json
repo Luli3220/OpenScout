@@ -1,0 +1,6694 @@
+[
+  {
+    "name": "credo",
+    "full_name": "rrrene/credo",
+    "html_url": "https://github.com/rrrene/credo",
+    "description": "A static code analysis tool for the Elixir language with a focus on code consistency and teaching.",
+    "stars": 5108,
+    "forks": 433,
+    "languages": {
+      "Elixir": 1542357,
+      "Shell": 6093,
+      "HTML": 2668
+    },
+    "contributions_by_user": 2256,
+    "contribution_score": 35265.38,
+    "S_code": 1514.76,
+    "S_social": 5974,
+    "S_maint": 2256
+  },
+  {
+    "name": "inch",
+    "full_name": "rrrene/inch",
+    "html_url": "https://github.com/rrrene/inch",
+    "description": "A documentation analysis tool for the Ruby language",
+    "stars": 518,
+    "forks": 40,
+    "languages": {
+      "Ruby": 386123
+    },
+    "contributions_by_user": 564,
+    "contribution_score": 7024.54,
+    "S_code": 377.07,
+    "S_social": 598,
+    "S_maint": 564
+  },
+  {
+    "name": "elixir-style-guide",
+    "full_name": "rrrene/elixir-style-guide",
+    "html_url": "https://github.com/rrrene/elixir-style-guide",
+    "description": "Style Guide for the Elixir language, implemented by Credo",
+    "stars": 398,
+    "forks": 21,
+    "languages": {
+      "Elixir": 1302
+    },
+    "contributions_by_user": 19,
+    "contribution_score": 1070.64,
+    "S_code": 1.27,
+    "S_social": 440,
+    "S_maint": 19
+  },
+  {
+    "name": "html_sanitize_ex",
+    "full_name": "rrrene/html_sanitize_ex",
+    "html_url": "https://github.com/rrrene/html_sanitize_ex",
+    "description": "HTML sanitizer for Elixir",
+    "stars": 287,
+    "forks": 71,
+    "languages": {
+      "Elixir": 128757,
+      "Shell": 960
+    },
+    "contributions_by_user": 145,
+    "contribution_score": 2371.34,
+    "S_code": 126.68,
+    "S_social": 429,
+    "S_maint": 145
+  },
+  {
+    "name": "elixirstatus-web",
+    "full_name": "rrrene/elixirstatus-web",
+    "html_url": "https://github.com/rrrene/elixirstatus-web",
+    "description": "Community site for Elixir project/blog post/version updates",
+    "stars": 284,
+    "forks": 44,
+    "languages": {
+      "Elixir": 126071,
+      "HTML": 47639,
+      "CSS": 40119,
+      "JavaScript": 5324
+    },
+    "contributions_by_user": 240,
+    "contribution_score": 3251.01,
+    "S_code": 214.02,
+    "S_social": 372,
+    "S_maint": 240
+  },
+  {
+    "name": "inch_ex",
+    "full_name": "rrrene/inch_ex",
+    "html_url": "https://github.com/rrrene/inch_ex",
+    "description": "Provides a Mix task that gives you hints where to improve your inline docs.",
+    "stars": 211,
+    "forks": 68,
+    "languages": {
+      "Elixir": 109158,
+      "CSS": 80161,
+      "HTML": 14606,
+      "Shell": 1551,
+      "JavaScript": 717
+    },
+    "contributions_by_user": 138,
+    "contribution_score": 2174.68,
+    "S_code": 201.36,
+    "S_social": 347,
+    "S_maint": 138
+  },
+  {
+    "name": "sparkr",
+    "full_name": "rrrene/sparkr",
+    "html_url": "https://github.com/rrrene/sparkr",
+    "description": "▁▂▃▅▂▇ in Ruby (and your shell)",
+    "stars": 151,
+    "forks": 9,
+    "languages": {
+      "Ruby": 10053
+    },
+    "contributions_by_user": 45,
+    "contribution_score": 792.91,
+    "S_code": 9.82,
+    "S_social": 169,
+    "S_maint": 45
+  },
+  {
+    "name": "bunt",
+    "full_name": "rrrene/bunt",
+    "html_url": "https://github.com/rrrene/bunt",
+    "description": "256 color ANSI coloring in Elixir CLIs",
+    "stars": 117,
+    "forks": 18,
+    "languages": {
+      "Elixir": 27802
+    },
+    "contributions_by_user": 34,
+    "contribution_score": 659.58,
+    "S_code": 27.15,
+    "S_social": 153,
+    "S_maint": 34
+  },
+  {
+    "name": "inchjs",
+    "full_name": "rrrene/inchjs",
+    "html_url": "https://github.com/rrrene/inchjs",
+    "description": "A documentation tool for JavaScript/NodeJS",
+    "stars": 48,
+    "forks": 14,
+    "languages": {
+      "JavaScript": 15712
+    },
+    "contributions_by_user": 80,
+    "contribution_score": 959.67,
+    "S_code": 15.34,
+    "S_social": 76,
+    "S_maint": 80
+  },
+  {
+    "name": "tipsy.hovercard",
+    "full_name": "rrrene/tipsy.hovercard",
+    "html_url": "https://github.com/rrrene/tipsy.hovercard",
+    "description": "Hovercard extension for tipsy tooltip",
+    "stars": 33,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 38528,
+      "CSS": 1525
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 257.56,
+    "S_code": 39.11,
+    "S_social": 39,
+    "S_maint": 16
+  },
+  {
+    "name": "inch-pages",
+    "full_name": "rrrene/inch-pages",
+    "html_url": "https://github.com/rrrene/inch-pages",
+    "description": "Jekyll Page generator for Inch Pages",
+    "stars": 26,
+    "forks": 60,
+    "languages": {
+      "Ruby": 14986,
+      "CSS": 13811
+    },
+    "contributions_by_user": 170,
+    "contribution_score": 2006.06,
+    "S_code": 28.12,
+    "S_social": 146,
+    "S_maint": 170
+  },
+  {
+    "name": "nodePPT",
+    "full_name": "rrrene/nodePPT",
+    "html_url": "https://github.com/rrrene/nodePPT",
+    "description": "这可能是迄今为止最好的网页版PPT；This is probably the best web presentation tool so far!",
+    "stars": 22,
+    "forks": 18,
+    "languages": {
+      "JavaScript": 547436,
+      "CSS": 221935,
+      "HTML": 13334,
+      "Ruby": 737,
+      "PHP": 163
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 498.62,
+    "S_code": 765.24,
+    "S_social": 58,
+    "S_maint": 0
+  },
+  {
+    "name": "credo-proposals",
+    "full_name": "rrrene/credo-proposals",
+    "html_url": "https://github.com/rrrene/credo-proposals",
+    "description": "Proposals for Credo, the Elixir code analysis tool with a focus on code consistency and teaching",
+    "stars": 10,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 10,
+    "S_maint": 1
+  },
+  {
+    "name": "outline",
+    "full_name": "rrrene/outline",
+    "html_url": "https://github.com/rrrene/outline",
+    "description": "Outline is an open source knowledge management application inspired by timeline focused apps like Facebook and Twitter.",
+    "stars": 9,
+    "forks": 5,
+    "languages": {
+      "Ruby": 144727,
+      "JavaScript": 49408,
+      "CoffeeScript": 33742
+    },
+    "contributions_by_user": 300,
+    "contribution_score": 3149.27,
+    "S_code": 222.54,
+    "S_social": 19,
+    "S_maint": 300
+  },
+  {
+    "name": "inch-badge",
+    "full_name": "rrrene/inch-badge",
+    "html_url": "https://github.com/rrrene/inch-badge",
+    "description": "Badge generator for Inch",
+    "stars": 7,
+    "forks": 2,
+    "languages": {
+      "HTML": 9641,
+      "Ruby": 5431
+    },
+    "contributions_by_user": 38,
+    "contribution_score": 409.36,
+    "S_code": 14.72,
+    "S_social": 11,
+    "S_maint": 38
+  },
+  {
+    "name": "gitscm-next",
+    "full_name": "rrrene/gitscm-next",
+    "html_url": "https://github.com/rrrene/gitscm-next",
+    "description": "next version of the git-scm.com site",
+    "stars": 6,
+    "forks": 1,
+    "languages": {
+      "Ruby": 113003,
+      "JavaScript": 11047,
+      "CoffeeScript": 458
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 86.79,
+    "S_code": 121.59,
+    "S_social": 8,
+    "S_maint": 1
+  },
+  {
+    "name": "sherlock",
+    "full_name": "rrrene/sherlock",
+    "html_url": "https://github.com/rrrene/sherlock",
+    "description": "A library for filtering lists of files and performing actions on their content.",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Ruby": 20695
+    },
+    "contributions_by_user": 47,
+    "contribution_score": 490.1,
+    "S_code": 20.21,
+    "S_social": 5,
+    "S_maint": 47
+  },
+  {
+    "name": "PM2",
+    "full_name": "rrrene/PM2",
+    "html_url": "https://github.com/rrrene/PM2",
+    "description": "Production process manager for Node.JS applications. Perfectly designed for microservice architecture.",
+    "stars": 5,
+    "forks": 7,
+    "languages": {
+      "JavaScript": 351521,
+      "Shell": 48131,
+      "PHP": 68,
+      "CoffeeScript": 61,
+      "Ruby": 39
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 233.22,
+    "S_code": 390.45,
+    "S_social": 19,
+    "S_maint": 0
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "rrrene/dotfiles",
+    "html_url": "https://github.com/rrrene/dotfiles",
+    "description": "Personal dotfiles",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "Shell": 3329,
+      "Ruby": 1777
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 214.49,
+    "S_code": 4.99,
+    "S_social": 6,
+    "S_maint": 20
+  },
+  {
+    "name": "homecoming",
+    "full_name": "rrrene/homecoming",
+    "html_url": "https://github.com/rrrene/homecoming",
+    "description": "Easy upwards directory traversal in Ruby",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Ruby": 4675
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 90.28,
+    "S_code": 4.57,
+    "S_social": 4,
+    "S_maint": 8
+  },
+  {
+    "name": "texas",
+    "full_name": "rrrene/texas",
+    "html_url": "https://github.com/rrrene/texas",
+    "description": "Texas provides an easy way to create PDFs from LaTeX documents using ERb templates.",
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "Ruby": 67082,
+      "HTML": 3894,
+      "TeX": 32
+    },
+    "contributions_by_user": 176,
+    "contribution_score": 1808.67,
+    "S_code": 69.34,
+    "S_social": 7,
+    "S_maint": 176
+  },
+  {
+    "name": "custom_attributes",
+    "full_name": "rrrene/custom_attributes",
+    "html_url": "https://github.com/rrrene/custom_attributes",
+    "description": "CustomAttributes allows you to add custom attributes to ActiveRecord objects, optionally scoped by another model (e.g. users).",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Ruby": 8462
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 40.13,
+    "S_code": 8.26,
+    "S_social": 3,
+    "S_maint": 3
+  },
+  {
+    "name": "credo_demo_plugin",
+    "full_name": "rrrene/credo_demo_plugin",
+    "html_url": "https://github.com/rrrene/credo_demo_plugin",
+    "description": "A Demo Plugin for Credo",
+    "stars": 2,
+    "forks": 3,
+    "languages": {
+      "Elixir": 4894
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 58.39,
+    "S_code": 4.78,
+    "S_social": 8,
+    "S_maint": 4
+  },
+  {
+    "name": "awesome-elixir",
+    "full_name": "rrrene/awesome-elixir",
+    "html_url": "https://github.com/rrrene/awesome-elixir",
+    "description": "A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Elixir": 11625
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.68,
+    "S_code": 11.35,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "tps-report",
+    "full_name": "rrrene/tps-report",
+    "html_url": "https://github.com/rrrene/tps-report",
+    "description": "Excel friendly reports for your bosses, clients and the rest.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Ruby": 1891
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 44.92,
+    "S_code": 1.85,
+    "S_social": 2,
+    "S_maint": 4
+  },
+  {
+    "name": "hiring-without-whiteboards",
+    "full_name": "rrrene/hiring-without-whiteboards",
+    "html_url": "https://github.com/rrrene/hiring-without-whiteboards",
+    "description": "⭐️  Companies that don't have a broken hiring process",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 20
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.01,
+    "S_code": 0.02,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ex_doc",
+    "full_name": "rrrene/ex_doc",
+    "html_url": "https://github.com/rrrene/ex_doc",
+    "description": "ExDoc produces HTML and online documentation for Elixir projects",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Elixir": 228277,
+      "JavaScript": 74875,
+      "Less": 36817,
+      "HTML": 19183,
+      "Handlebars": 6279,
+      "Shell": 331,
+      "CSS": 290
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 180.74,
+    "S_code": 357.47,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "bpmn-js",
+    "full_name": "rrrene/bpmn-js",
+    "html_url": "https://github.com/rrrene/bpmn-js",
+    "description": "A BPMN 2.0 rendering toolkit and web modeler.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1316559,
+      "Shell": 2312
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 645.98,
+    "S_code": 1287.96,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "diagram-js",
+    "full_name": "rrrene/diagram-js",
+    "html_url": "https://github.com/rrrene/diagram-js",
+    "description": "A toolbox for displaying and modifying diagrams on the web.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1282663,
+      "CSS": 10829,
+      "HTML": 1861
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 634.5,
+    "S_code": 1264.99,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "credo-elixir-benchmark",
+    "full_name": "rrrene/credo-elixir-benchmark",
+    "html_url": "https://github.com/rrrene/credo-elixir-benchmark",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Elixir": 2353
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.15,
+    "S_code": 2.3,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "texas-1",
+    "full_name": "rrrene/texas-1",
+    "html_url": "https://github.com/rrrene/texas-1",
+    "description": "You don't really need all that javascript to make responsive web apps.  Keep your code in elixir and on the backend where it belongs!",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Elixir": 8715,
+      "JavaScript": 770
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.63,
+    "S_code": 9.26,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "meet-weekly",
+    "full_name": "rrrene/meet-weekly",
+    "html_url": "https://github.com/rrrene/meet-weekly",
+    "description": "A list of weekly's for developers",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "openmaize",
+    "full_name": "rrrene/openmaize",
+    "html_url": "https://github.com/rrrene/openmaize",
+    "description": "Authentication library for Elixir",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Elixir": 82152
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 42.11,
+    "S_code": 80.23,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "authable",
+    "full_name": "rrrene/authable",
+    "html_url": "https://github.com/rrrene/authable",
+    "description": "OAuth2 Provider implementation modules and helpers using 'ecto' and 'postgress' for any 'elixir' application.",
+    "stars": 1,
+    "forks": 32,
+    "languages": {
+      "Elixir": 48481
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 153.67,
+    "S_code": 47.34,
+    "S_social": 65,
+    "S_maint": 0
+  },
+  {
+    "name": "socket.io",
+    "full_name": "rrrene/socket.io",
+    "html_url": "https://github.com/rrrene/socket.io",
+    "description": "Realtime application framework (Node.JS server)",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 95660,
+      "CSS": 1885,
+      "Makefile": 235
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 49.74,
+    "S_code": 95.49,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "repomen",
+    "full_name": "rrrene/repomen",
+    "html_url": "https://github.com/rrrene/repomen",
+    "description": "Interface wrapper for retrieving repos",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 18655
+    },
+    "contributions_by_user": 27,
+    "contribution_score": 281.11,
+    "S_code": 18.22,
+    "S_social": 1,
+    "S_maint": 27
+  },
+  {
+    "name": "spigot",
+    "full_name": "rrrene/spigot",
+    "html_url": "https://github.com/rrrene/spigot",
+    "description": "Easily convert API data into context relevant objects",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 64382
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 33.44,
+    "S_code": 62.87,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "easy_type",
+    "full_name": "rrrene/easy_type",
+    "html_url": "https://github.com/rrrene/easy_type",
+    "description": "Build a complex puppet custom type and provider, the easy way",
+    "stars": 1,
+    "forks": 4,
+    "languages": {
+      "Ruby": 134295,
+      "Puppet": 1836
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 84.47,
+    "S_code": 132.94,
+    "S_social": 9,
+    "S_maint": 0
+  },
+  {
+    "name": "Sightstone",
+    "full_name": "rrrene/Sightstone",
+    "html_url": "https://github.com/rrrene/Sightstone",
+    "description": "Sightstone is a ruby wrapper for riots league of legends developer api",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 50547
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 26.68,
+    "S_code": 49.36,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "terminal-table",
+    "full_name": "rrrene/terminal-table",
+    "html_url": "https://github.com/rrrene/terminal-table",
+    "description": "Ruby ASCII Table Generator, simple and feature rich.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 37484
+    },
+    "contributions_by_user": 40,
+    "contribution_score": 420.3,
+    "S_code": 36.61,
+    "S_social": 1,
+    "S_maint": 40
+  },
+  {
+    "name": "freight-exchange",
+    "full_name": "rrrene/freight-exchange",
+    "html_url": "https://github.com/rrrene/freight-exchange",
+    "description": "Source code for a European Online Rail Transport Spot Exchange",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 500638,
+      "JavaScript": 29851
+    },
+    "contributions_by_user": 618,
+    "contribution_score": 6441.03,
+    "S_code": 518.06,
+    "S_social": 1,
+    "S_maint": 618
+  },
+  {
+    "name": "outline.github.com",
+    "full_name": "rrrene/outline.github.com",
+    "html_url": "https://github.com/rrrene/outline.github.com",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 48
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.02,
+    "S_code": 0.05,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "sourceror",
+    "full_name": "rrrene/sourceror",
+    "html_url": "https://github.com/rrrene/sourceror",
+    "description": "Utilities to manipulate Elixir source code",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 263201
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 128.52,
+    "S_code": 257.03,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "docusaurus",
+    "full_name": "rrrene/docusaurus",
+    "html_url": "https://github.com/rrrene/docusaurus",
+    "description": "Easy to maintain open source documentation websites.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1428073,
+      "JavaScript": 260105,
+      "CSS": 49639,
+      "Shell": 1836,
+      "EJS": 553
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 849.71,
+    "S_code": 1699.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "docker.github.io",
+    "full_name": "rrrene/docker.github.io",
+    "html_url": "https://github.com/rrrene/docker.github.io",
+    "description": "Source repo for Docker's Documentation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 83495,
+      "SCSS": 54437,
+      "JavaScript": 14071,
+      "Go": 10148,
+      "Shell": 8127,
+      "Ruby": 5689,
+      "Dockerfile": 4502,
+      "CSS": 4032,
+      "Makefile": 1387
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 90.77,
+    "S_code": 181.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tailwindcss.com",
+    "full_name": "rrrene/tailwindcss.com",
+    "html_url": "https://github.com/rrrene/tailwindcss.com",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 483497,
+      "CSS": 19654
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 245.68,
+    "S_code": 491.36,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "credo_sample_project",
+    "full_name": "rrrene/credo_sample_project",
+    "html_url": "https://github.com/rrrene/credo_sample_project",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Elixir": 7254
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.54,
+    "S_code": 7.08,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "elixir-ls",
+    "full_name": "rrrene/elixir-ls",
+    "html_url": "https://github.com/rrrene/elixir-ls",
+    "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 354460,
+      "Shell": 2318,
+      "Batchfile": 246,
+      "Erlang": 96,
+      "HTML": 22
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 174.39,
+    "S_code": 348.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "credo_check_filter_config",
+    "full_name": "rrrene/credo_check_filter_config",
+    "html_url": "https://github.com/rrrene/credo_check_filter_config",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 4028
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.97,
+    "S_code": 3.93,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "credo_inch",
+    "full_name": "rrrene/credo_inch",
+    "html_url": "https://github.com/rrrene/credo_inch",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 4943
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.41,
+    "S_code": 4.83,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "phoenix_live_view",
+    "full_name": "rrrene/phoenix_live_view",
+    "html_url": "https://github.com/rrrene/phoenix_live_view",
+    "description": "Rich, real-time user experiences with server-rendered HTML",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 214873,
+      "JavaScript": 56543,
+      "CSS": 1633
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 133.32,
+    "S_code": 266.65,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bpmn-studio",
+    "full_name": "rrrene/bpmn-studio",
+    "html_url": "https://github.com/rrrene/bpmn-studio",
+    "description": "IDE for designing, executing and inspecting BPMN-based business processes",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 928217,
+      "HTML": 116915,
+      "CSS": 47136,
+      "JavaScript": 42777,
+      "Shell": 13576,
+      "Dockerfile": 718
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 611.2,
+    "S_code": 1122.4,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "elixir",
+    "full_name": "rrrene/elixir",
+    "html_url": "https://github.com/rrrene/elixir",
+    "description": "Elixir is a dynamic, functional language designed for building scalable and maintainable applications",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 4331112,
+      "Erlang": 449605,
+      "Makefile": 9154,
+      "Batchfile": 8635,
+      "Shell": 7256,
+      "PowerShell": 576,
+      "HTML": 50
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2346.87,
+    "S_code": 4693.74,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "togglex",
+    "full_name": "rrrene/togglex",
+    "html_url": "https://github.com/rrrene/togglex",
+    "description": "Elixir Toggl API Wrapper ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 28924
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 34.12,
+    "S_code": 28.25,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "mailgun",
+    "full_name": "rrrene/mailgun",
+    "html_url": "https://github.com/rrrene/mailgun",
+    "description": "Elixir Mailgun Client",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 14757
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 17.21,
+    "S_code": 14.41,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "Constructeev_Elixir",
+    "full_name": "rrrene/Constructeev_Elixir",
+    "html_url": "https://github.com/rrrene/Constructeev_Elixir",
+    "description": "Constructeev rewritten Backend in Elixir",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "elixir_style_guide",
+    "full_name": "rrrene/elixir_style_guide",
+    "html_url": "https://github.com/rrrene/elixir_style_guide",
+    "description": "A community driven style guide for Elixir",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 346,
+      "Ruby": 272
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.3,
+    "S_code": 0.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "elixir-style-guide-1",
+    "full_name": "rrrene/elixir-style-guide-1",
+    "html_url": "https://github.com/rrrene/elixir-style-guide-1",
+    "description": "An opinionated Elixir style guide",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "maxwell",
+    "full_name": "rrrene/maxwell",
+    "html_url": "https://github.com/rrrene/maxwell",
+    "description": "Maxwell is an HTTP client which support for middleware and multiple adapters.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 72335,
+      "Shell": 47
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.34,
+    "S_code": 70.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "faker-elixir",
+    "full_name": "rrrene/faker-elixir",
+    "html_url": "https://github.com/rrrene/faker-elixir",
+    "description": ":droplet: FakerElixir generates fake data for you. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 110690
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 64.05,
+    "S_code": 108.1,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "inch_addition",
+    "full_name": "rrrene/inch_addition",
+    "html_url": "https://github.com/rrrene/inch_addition",
+    "description": null,
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "Elixir": 29689
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 112.5,
+    "S_code": 28.99,
+    "S_social": 4,
+    "S_maint": 9
+  },
+  {
+    "name": "Woolly",
+    "full_name": "rrrene/Woolly",
+    "html_url": "https://github.com/rrrene/Woolly",
+    "description": ":small_blue_diamond: The Text Mining Elixir",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 22110
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.8,
+    "S_code": 21.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "spfjs",
+    "full_name": "rrrene/spfjs",
+    "html_url": "https://github.com/rrrene/spfjs",
+    "description": "A lightweight JS framework for fast navigation and page updates from YouTube",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 560478,
+      "Python": 17569,
+      "CSS": 15580,
+      "Liquid": 13192,
+      "Ruby": 12629,
+      "Shell": 5834,
+      "Makefile": 2833,
+      "HTML": 2329
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 307.83,
+    "S_code": 615.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "excoveralls",
+    "full_name": "rrrene/excoveralls",
+    "html_url": "https://github.com/rrrene/excoveralls",
+    "description": "Coverage report tool for Elixir with coveralls.io integration.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Elixir": 71471,
+      "HTML": 20429
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 48.87,
+    "S_code": 89.75,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "amqp",
+    "full_name": "rrrene/amqp",
+    "html_url": "https://github.com/rrrene/amqp",
+    "description": "Idiomatic Elixir client for RabbitMQ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "elixir_authorizenet",
+    "full_name": "rrrene/elixir_authorizenet",
+    "html_url": "https://github.com/rrrene/elixir_authorizenet",
+    "description": "Unofficial Elixir Client for the Authorize.NET API",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 98345
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 48.02,
+    "S_code": 96.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "plug_require_header",
+    "full_name": "rrrene/plug_require_header",
+    "html_url": "https://github.com/rrrene/plug_require_header",
+    "description": "An Elixir Plug for requiring and extracting a given header.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 12409
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.06,
+    "S_code": 12.12,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Elixir-Slack",
+    "full_name": "rrrene/Elixir-Slack",
+    "html_url": "https://github.com/rrrene/Elixir-Slack",
+    "description": "Slack real time messaging client in Elixir",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 26563
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.97,
+    "S_code": 25.94,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rollbax",
+    "full_name": "rrrene/rollbax",
+    "html_url": "https://github.com/rrrene/rollbax",
+    "description": "Exception tracking and logging from Elixir to Rollbar",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 26782
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.08,
+    "S_code": 26.15,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "neo4j_sips",
+    "full_name": "rrrene/neo4j_sips",
+    "html_url": "https://github.com/rrrene/neo4j_sips",
+    "description": "Elixir driver for the Neo4j graph database server",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 40335
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.69,
+    "S_code": 39.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cachex",
+    "full_name": "rrrene/cachex",
+    "html_url": "https://github.com/rrrene/cachex",
+    "description": "A powerful caching library for Elixir with support for transactions, fallbacks and expirations -",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 270621
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 132.14,
+    "S_code": 264.28,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tirexs",
+    "full_name": "rrrene/tirexs",
+    "html_url": "https://github.com/rrrene/tirexs",
+    "description": "An Elixir flavored HTTP client and DSL library for Elasticsearch",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 218153
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 106.52,
+    "S_code": 213.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ja_serializer",
+    "full_name": "rrrene/ja_serializer",
+    "html_url": "https://github.com/rrrene/ja_serializer",
+    "description": "JSONAPI.org Serialization in Elixir.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 109486
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 53.46,
+    "S_code": 106.92,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pigeon",
+    "full_name": "rrrene/pigeon",
+    "html_url": "https://github.com/rrrene/pigeon",
+    "description": "iOS and Android push notifications for Elixir",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 31105
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.19,
+    "S_code": 30.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mariaex",
+    "full_name": "rrrene/mariaex",
+    "html_url": "https://github.com/rrrene/mariaex",
+    "description": "Pure elixir database driver for Mariadb / Mysql",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 96400
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 47.07,
+    "S_code": 94.14,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "instream",
+    "full_name": "rrrene/instream",
+    "html_url": "https://github.com/rrrene/instream",
+    "description": "InfluxDB driver for Elixir",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 90552
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 44.21,
+    "S_code": 88.43,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "exfile",
+    "full_name": "rrrene/exfile",
+    "html_url": "https://github.com/rrrene/exfile",
+    "description": "File upload persistence and processing for Phoenix / Plug",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 76183
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 37.2,
+    "S_code": 74.4,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sugar",
+    "full_name": "rrrene/sugar",
+    "html_url": "https://github.com/rrrene/sugar",
+    "description": "Modular web framework for Elixir",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 68594,
+      "HTML": 93
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 33.54,
+    "S_code": 67.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nadia",
+    "full_name": "rrrene/nadia",
+    "html_url": "https://github.com/rrrene/nadia",
+    "description": "Telegram Bot API Wrapper written in Elixir",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 59675
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 29.14,
+    "S_code": 58.28,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "maru",
+    "full_name": "rrrene/maru",
+    "html_url": "https://github.com/rrrene/maru",
+    "description": "Elixir RESTful Framework ",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Elixir": 86756
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 46.36,
+    "S_code": 84.72,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "elixirscript",
+    "full_name": "rrrene/elixirscript",
+    "html_url": "https://github.com/rrrene/elixirscript",
+    "description": "Converts Elixir to JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 292400,
+      "JavaScript": 67810
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 175.88,
+    "S_code": 351.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "money-1",
+    "full_name": "rrrene/money-1",
+    "html_url": "https://github.com/rrrene/money-1",
+    "description": "Elixir library for working with Money safer, easier, and fun... Is an interpretation of the Fowler's Money pattern in fun.prog.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 44440
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 21.7,
+    "S_code": 43.4,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "viktor",
+    "full_name": "rrrene/viktor",
+    "html_url": "https://github.com/rrrene/viktor",
+    "description": "Wrapper for Riot Games' League of Legends API in Elixir!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 27665
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.51,
+    "S_code": 27.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cloak",
+    "full_name": "rrrene/cloak",
+    "html_url": "https://github.com/rrrene/cloak",
+    "description": "Elixir encryption library designed for Ecto",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 28306,
+      "Ruby": 855
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.24,
+    "S_code": 28.48,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bamboo",
+    "full_name": "rrrene/bamboo",
+    "html_url": "https://github.com/rrrene/bamboo",
+    "description": "Testable, composable, and adapter based Elixir email library for devs that love piping.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 101108,
+      "HTML": 7179
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 52.87,
+    "S_code": 105.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "monetized",
+    "full_name": "rrrene/monetized",
+    "html_url": "https://github.com/rrrene/monetized",
+    "description": "A lightweight solution for handling and storing money.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 20912
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.21,
+    "S_code": 20.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "beaker",
+    "full_name": "rrrene/beaker",
+    "html_url": "https://github.com/rrrene/beaker",
+    "description": "Statistics and Metrics library for Elixir",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 60026,
+      "CSS": 5591,
+      "HTML": 1246
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 32.65,
+    "S_code": 65.3,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "floki",
+    "full_name": "rrrene/floki",
+    "html_url": "https://github.com/rrrene/floki",
+    "description": "Floki is a simple HTML parser that enables search for nodes using CSS selectors.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 44089,
+      "Erlang": 1182
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22.1,
+    "S_code": 44.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "moongate",
+    "full_name": "rrrene/moongate",
+    "html_url": "https://github.com/rrrene/moongate",
+    "description": ":crystal_ball: Server and software development platform for Elixir",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 88075,
+      "JavaScript": 26618,
+      "CSS": 3478,
+      "Shell": 3421,
+      "HTML": 1132,
+      "CoffeeScript": 390,
+      "Python": 377
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 60.3,
+    "S_code": 120.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "zenixir",
+    "full_name": "rrrene/zenixir",
+    "html_url": "https://github.com/rrrene/zenixir",
+    "description": "Elixir Zendesk API Client http://developer.zendesk.com/",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 110566,
+      "Makefile": 19
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 54.0,
+    "S_code": 107.99,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ex_victor_ops",
+    "full_name": "rrrene/ex_victor_ops",
+    "html_url": "https://github.com/rrrene/ex_victor_ops",
+    "description": "Add VictorOps to your DevOps apps to connect your on-call to your existing work",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 17042
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.32,
+    "S_code": 16.64,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "plasm",
+    "full_name": "rrrene/plasm",
+    "html_url": "https://github.com/rrrene/plasm",
+    "description": "Ecto's composable query multitool (.count, .random, .first_inserted, .last_inserted, .find, .inserted_before, .inserted_after, etc.)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 32820
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.03,
+    "S_code": 32.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sql_dust",
+    "full_name": "rrrene/sql_dust",
+    "html_url": "https://github.com/rrrene/sql_dust",
+    "description": "Easy. Simple. Powerful. Generate (complex) SQL queries using magical Elixir SQL dust.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 68010
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 33.21,
+    "S_code": 66.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "extwitter",
+    "full_name": "rrrene/extwitter",
+    "html_url": "https://github.com/rrrene/extwitter",
+    "description": "Twitter client library for elixir. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 80632,
+      "Shell": 36
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 59.39,
+    "S_code": 78.78,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "phoenix_html_simplified_helpers",
+    "full_name": "rrrene/phoenix_html_simplified_helpers",
+    "html_url": "https://github.com/rrrene/phoenix_html_simplified_helpers",
+    "description": "Some helpers for phoenix html( truncate, time_ago_in_words, number_with_delimiter )",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 16583
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.1,
+    "S_code": 16.19,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Dayron",
+    "full_name": "rrrene/Dayron",
+    "html_url": "https://github.com/rrrene/Dayron",
+    "description": "A repository `similar` to Ecto.Repo that maps to an underlying http client, sending requests to an external rest api instead of a database",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 72209
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.26,
+    "S_code": 70.52,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "promex",
+    "full_name": "rrrene/promex",
+    "html_url": "https://github.com/rrrene/promex",
+    "description": "Prometheus client library for Elixir",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 6259
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.06,
+    "S_code": 6.11,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hound",
+    "full_name": "rrrene/hound",
+    "html_url": "https://github.com/rrrene/hound",
+    "description": "Elixir library for writing integration tests and browser automation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 96774,
+      "HTML": 2087,
+      "Shell": 421
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 48.48,
+    "S_code": 96.96,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "addict",
+    "full_name": "rrrene/addict",
+    "html_url": "https://github.com/rrrene/addict",
+    "description": "User management lib for Phoenix Framework",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 78279,
+      "JavaScript": 33806,
+      "HTML": 32728,
+      "CSS": 2978
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 72.16,
+    "S_code": 144.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mix-edib",
+    "full_name": "rrrene/mix-edib",
+    "html_url": "https://github.com/rrrene/mix-edib",
+    "description": "A mix task for EDIB (elixir docker image builder)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 75577,
+      "Makefile": 679
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 37.23,
+    "S_code": 74.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "poxa",
+    "full_name": "rrrene/poxa",
+    "html_url": "https://github.com/rrrene/poxa",
+    "description": "Pusher server implementation compatible with Pusher client libraries.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 133915,
+      "JavaScript": 2828,
+      "HTML": 1662
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 87.58,
+    "S_code": 135.16,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "phoenix_slime",
+    "full_name": "rrrene/phoenix_slime",
+    "html_url": "https://github.com/rrrene/phoenix_slime",
+    "description": "Phoenix Template Engine for Slim",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 19036,
+      "HTML": 2743
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.63,
+    "S_code": 21.27,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hex",
+    "full_name": "rrrene/hex",
+    "html_url": "https://github.com/rrrene/hex",
+    "description": "Package manager for the Erlang VM",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 219136,
+      "Shell": 1602
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 107.78,
+    "S_code": 215.56,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hex_web",
+    "full_name": "rrrene/hex_web",
+    "html_url": "https://github.com/rrrene/hex_web",
+    "description": "API server and website for Hex",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 276384,
+      "HTML": 73888,
+      "CSS": 36499,
+      "JavaScript": 4101,
+      "Erlang": 2178
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 191.92,
+    "S_code": 383.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "phoenix",
+    "full_name": "rrrene/phoenix",
+    "html_url": "https://github.com/rrrene/phoenix",
+    "description": "Productive. Reliable. Fast.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 668625,
+      "JavaScript": 76616,
+      "HTML": 4554,
+      "CSS": 49
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 366.13,
+    "S_code": 732.27,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "facebook_canvas",
+    "full_name": "rrrene/facebook_canvas",
+    "html_url": "https://github.com/rrrene/facebook_canvas",
+    "description": "Rails engine for Facebook's canvas integration.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 20773,
+      "HTML": 4934,
+      "CSS": 686,
+      "JavaScript": 596
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 43.18,
+    "S_code": 26.36,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "exparse",
+    "full_name": "rrrene/exparse",
+    "html_url": "https://github.com/rrrene/exparse",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Erlang": 58321,
+      "Elixir": 14256
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.44,
+    "S_code": 70.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "calendar",
+    "full_name": "rrrene/calendar",
+    "html_url": "https://github.com/rrrene/calendar",
+    "description": "date-time and time zone handling in Elixir",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 175818
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 85.85,
+    "S_code": 171.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "absinthe",
+    "full_name": "rrrene/absinthe",
+    "html_url": "https://github.com/rrrene/absinthe",
+    "description": "GraphQL for Elixir",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 278234,
+      "Erlang": 20213
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 145.73,
+    "S_code": 291.45,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mix-test.watch",
+    "full_name": "rrrene/mix-test.watch",
+    "html_url": "https://github.com/rrrene/mix-test.watch",
+    "description": "Because TDD is awesome.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 10318,
+      "Shell": 74
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.07,
+    "S_code": 10.15,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "stripity-stripe",
+    "full_name": "rrrene/stripity-stripe",
+    "html_url": "https://github.com/rrrene/stripity-stripe",
+    "description": "An Elixir Library for Stripe",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 47017
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 32.96,
+    "S_code": 45.92,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "dogma",
+    "full_name": "rrrene/dogma",
+    "html_url": "https://github.com/rrrene/dogma",
+    "description": "A code style linter for Elixir, powered by shame.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 152051,
+      "Shell": 74
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 284.28,
+    "S_code": 148.56,
+    "S_social": 0,
+    "S_maint": 21
+  },
+  {
+    "name": "fyber-api-explorer",
+    "full_name": "rrrene/fyber-api-explorer",
+    "html_url": "https://github.com/rrrene/fyber-api-explorer",
+    "description": "A web application to explore the Fyber API",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 657
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.32,
+    "S_code": 0.64,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pleaguer",
+    "full_name": "rrrene/pleaguer",
+    "html_url": "https://github.com/rrrene/pleaguer",
+    "description": "Phoenix Sports League Application",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 17658,
+      "JavaScript": 4629,
+      "HTML": 1911
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 21.82,
+    "S_code": 23.63,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "leaguer",
+    "full_name": "rrrene/leaguer",
+    "html_url": "https://github.com/rrrene/leaguer",
+    "description": "Sports league application",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 50701,
+      "HTML": 10004,
+      "CSS": 1254,
+      "CoffeeScript": 844,
+      "JavaScript": 664
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 30.99,
+    "S_code": 61.98,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "django",
+    "full_name": "rrrene/django",
+    "html_url": "https://github.com/rrrene/django",
+    "description": "The Web framework for perfectionists with deadlines.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 11308218,
+      "JavaScript": 249623,
+      "HTML": 174031,
+      "CSS": 52098,
+      "Shell": 809,
+      "Smarty": 130,
+      "Makefile": 125
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5754.41,
+    "S_code": 11508.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dex-ui",
+    "full_name": "rrrene/dex-ui",
+    "html_url": "https://github.com/rrrene/dex-ui",
+    "description": "A science fiction desktop running on Linux. Awesome.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 86343,
+      "GLSL": 5036,
+      "C": 2428
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 45.8,
+    "S_code": 91.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "elixir-in-action",
+    "full_name": "rrrene/elixir-in-action",
+    "html_url": "https://github.com/rrrene/elixir-in-action",
+    "description": "Code samples for Elixir in Action book",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 281944,
+      "Lua": 2340
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 138.81,
+    "S_code": 277.62,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nova",
+    "full_name": "rrrene/nova",
+    "html_url": "https://github.com/rrrene/nova",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 49765,
+      "JavaScript": 34605
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 41.2,
+    "S_code": 82.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "echidna",
+    "full_name": "rrrene/echidna",
+    "html_url": "https://github.com/rrrene/echidna",
+    "description": "New publication workflow at W3C — main component",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 979760,
+      "JavaScript": 80976,
+      "CSS": 7456,
+      "Shell": 1000
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 522.07,
+    "S_code": 1044.13,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "timex",
+    "full_name": "rrrene/timex",
+    "html_url": "https://github.com/rrrene/timex",
+    "description": "A complete date/time library for Elixir projects.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 287929
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 160.59,
+    "S_code": 281.18,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "timex_ecto",
+    "full_name": "rrrene/timex_ecto",
+    "html_url": "https://github.com/rrrene/timex_ecto",
+    "description": "An adapter for using Timex DateTimes with Ecto",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 7898
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.86,
+    "S_code": 7.71,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "redux-devtools",
+    "full_name": "rrrene/redux-devtools",
+    "html_url": "https://github.com/rrrene/redux-devtools",
+    "description": "DevTools for Redux with hot reloading, action replay, and customizable UI",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 55540
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 27.12,
+    "S_code": 54.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gotty",
+    "full_name": "rrrene/gotty",
+    "html_url": "https://github.com/rrrene/gotty",
+    "description": "Share your terminal as a web application",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 4966,
+      "JavaScript": 1387,
+      "Makefile": 559,
+      "HTML": 254
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.5,
+    "S_code": 7.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "elixir.community",
+    "full_name": "rrrene/elixir.community",
+    "html_url": "https://github.com/rrrene/elixir.community",
+    "description": "The elixir.community website.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 149077,
+      "HTML": 22628,
+      "Ruby": 1215
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 84.43,
+    "S_code": 168.87,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "guardian",
+    "full_name": "rrrene/guardian",
+    "html_url": "https://github.com/rrrene/guardian",
+    "description": "Elixir Authentication",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 25015
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.21,
+    "S_code": 24.43,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "trot",
+    "full_name": "rrrene/trot",
+    "html_url": "https://github.com/rrrene/trot",
+    "description": "An Elixir web micro-framework.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 30040,
+      "HTML": 49
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.69,
+    "S_code": 29.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mt940",
+    "full_name": "rrrene/mt940",
+    "html_url": "https://github.com/rrrene/mt940",
+    "description": "MT940 parser for Elixir",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 16739
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.17,
+    "S_code": 16.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "voorhees",
+    "full_name": "rrrene/voorhees",
+    "html_url": "https://github.com/rrrene/voorhees",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 7581
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 13.7,
+    "S_code": 7.4,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "TeX-ERB",
+    "full_name": "rrrene/TeX-ERB",
+    "html_url": "https://github.com/rrrene/TeX-ERB",
+    "description": "A set of Sublime Text resources for TeX ERB syntax used by Texas.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 37
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 40.02,
+    "S_code": 0.04,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "Modernizr",
+    "full_name": "rrrene/Modernizr",
+    "html_url": "https://github.com/rrrene/Modernizr",
+    "description": "Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1539426,
+      "HTML": 114124,
+      "CSS": 6706
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 810.67,
+    "S_code": 1621.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "releaseme",
+    "full_name": "rrrene/releaseme",
+    "html_url": "https://github.com/rrrene/releaseme",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 121446,
+      "Shell": 7288,
+      "Perl": 1256
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 63.47,
+    "S_code": 126.94,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "video.js",
+    "full_name": "rrrene/video.js",
+    "html_url": "https://github.com/rrrene/video.js",
+    "description": "Video.js - open source HTML5 & Flash video player",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 536524,
+      "CSS": 35000,
+      "HTML": 6983
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 282.47,
+    "S_code": 564.95,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bittorrent-protocol",
+    "full_name": "rrrene/bittorrent-protocol",
+    "html_url": "https://github.com/rrrene/bittorrent-protocol",
+    "description": "Simple, robust, BitTorrent peer wire protocol implementation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 23459
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.45,
+    "S_code": 22.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "RxJS",
+    "full_name": "rrrene/RxJS",
+    "html_url": "https://github.com/rrrene/RxJS",
+    "description": "The Reactive Extensions for JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5699360,
+      "HTML": 94561,
+      "TypeScript": 26538,
+      "CSS": 16182,
+      "Shell": 2082
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2850.94,
+    "S_code": 5701.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "senna",
+    "full_name": "rrrene/senna",
+    "html_url": "https://github.com/rrrene/senna",
+    "description": "A blazing-fast Single Page Application engine",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 246435,
+      "HTML": 138914,
+      "CSS": 14193
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 199.09,
+    "S_code": 390.18,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "ripple",
+    "full_name": "rrrene/ripple",
+    "html_url": "https://github.com/rrrene/ripple",
+    "description": "A tiny foundation for building reactive views",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 223833,
+      "CSS": 4242,
+      "Makefile": 1070,
+      "HTML": 1024
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 112.39,
+    "S_code": 224.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "algorithms.js",
+    "full_name": "rrrene/algorithms.js",
+    "html_url": "https://github.com/rrrene/algorithms.js",
+    "description": "Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 167611,
+      "Makefile": 818
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 82.24,
+    "S_code": 164.48,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jsPDF",
+    "full_name": "rrrene/jsPDF",
+    "html_url": "https://github.com/rrrene/jsPDF",
+    "description": "Generate PDF files in JavaScript. HTML5 FTW.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 727482,
+      "HTML": 564618,
+      "ActionScript": 12703,
+      "CSS": 5700,
+      "Python": 5235,
+      "Shell": 2625
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 643.73,
+    "S_code": 1287.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pixi.js",
+    "full_name": "rrrene/pixi.js",
+    "html_url": "https://github.com/rrrene/pixi.js",
+    "description": "Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1229681,
+      "HTML": 161158,
+      "XML": 112218,
+      "CSS": 730
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 734.27,
+    "S_code": 1468.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gun",
+    "full_name": "rrrene/gun",
+    "html_url": "https://github.com/rrrene/gun",
+    "description": "A distributed, embedded, graph database engine.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 271800,
+      "HTML": 109800,
+      "CSS": 2921,
+      "Shell": 780
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 188.14,
+    "S_code": 376.27,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "node-mongoose-test-marker",
+    "full_name": "rrrene/node-mongoose-test-marker",
+    "html_url": "https://github.com/rrrene/node-mongoose-test-marker",
+    "description": "A Mongoose plugin for marking and cleaning up test records",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 11518
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.62,
+    "S_code": 11.25,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "node-go-require",
+    "full_name": "rrrene/node-go-require",
+    "html_url": "https://github.com/rrrene/node-go-require",
+    "description": "Load Google GO files as any javascript modules under nodeJS runtime.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 13586,
+      "Go": 1256
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.25,
+    "S_code": 14.49,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ramda",
+    "full_name": "rrrene/ramda",
+    "html_url": "https://github.com/rrrene/ramda",
+    "description": "Practical functional Javascript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 838807,
+      "CSS": 7621,
+      "Handlebars": 5132,
+      "Makefile": 1012,
+      "HTML": 682,
+      "Shell": 666
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 416.95,
+    "S_code": 833.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "flow.js",
+    "full_name": "rrrene/flow.js",
+    "html_url": "https://github.com/rrrene/flow.js",
+    "description": "A JavaScript library providing multiple simultaneous, stable, fault-tolerant and resumable/restartable file uploads via the HTML5 File API.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 122778
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 59.95,
+    "S_code": 119.9,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "scraperjs",
+    "full_name": "rrrene/scraperjs",
+    "html_url": "https://github.com/rrrene/scraperjs",
+    "description": "A complete and versatile web scraper.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 61663,
+      "HTML": 948
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 30.57,
+    "S_code": 61.14,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "duo",
+    "full_name": "rrrene/duo",
+    "html_url": "https://github.com/rrrene/duo",
+    "description": "A next-generation package manager for the front-end",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 108065,
+      "HTML": 800,
+      "CSS": 658,
+      "Makefile": 591
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 53.77,
+    "S_code": 107.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "skeleton",
+    "full_name": "rrrene/skeleton",
+    "html_url": "https://github.com/rrrene/skeleton",
+    "description": "Easy and fast library for generate file and folder scaffoldings in your  projects with a very small effort",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 11388
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.56,
+    "S_code": 11.12,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "TeamvoyCalendar",
+    "full_name": "rrrene/TeamvoyCalendar",
+    "html_url": "https://github.com/rrrene/TeamvoyCalendar",
+    "description": "TeamvoyCalendar Demo: https://TopQualityUA.github.io/TeamvoyCalendar/calendar_demo.html Documentation: https://TopQualityUA.github.io/TeamvoyCalendar/readme.html",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 83724,
+      "CSS": 13116
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 47.29,
+    "S_code": 94.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "shine.js",
+    "full_name": "rrrene/shine.js",
+    "html_url": "https://github.com/rrrene/shine.js",
+    "description": "A library for pretty shadows.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 53002,
+      "CSS": 365
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 26.06,
+    "S_code": 52.12,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "side-comments",
+    "full_name": "rrrene/side-comments",
+    "html_url": "https://github.com/rrrene/side-comments",
+    "description": "An interface component to give your site/app Medium.com style commenting.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 136352,
+      "CSS": 16059
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 74.42,
+    "S_code": 148.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pageres",
+    "full_name": "rrrene/pageres",
+    "html_url": "https://github.com/rrrene/pageres",
+    "description": "Responsive website screenshots",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 19151
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.35,
+    "S_code": 18.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tracking.js",
+    "full_name": "rrrene/tracking.js",
+    "html_url": "https://github.com/rrrene/tracking.js",
+    "description": "A modern approach for Computer Vision on the web",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3479579,
+      "CSS": 973
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1699.49,
+    "S_code": 3398.98,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nightmare",
+    "full_name": "rrrene/nightmare",
+    "html_url": "https://github.com/rrrene/nightmare",
+    "description": "A high level wrapper for Phantomjs.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 40138,
+      "Makefile": 264,
+      "CSS": 42
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.75,
+    "S_code": 39.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "famous",
+    "full_name": "rrrene/famous",
+    "html_url": "https://github.com/rrrene/famous",
+    "description": "Famo.us is a JavaScript framework for everyone who wants to build beautiful experiences on any device",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 890285,
+      "CSS": 15813
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 442.43,
+    "S_code": 884.86,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "anijs",
+    "full_name": "rrrene/anijs",
+    "html_url": "https://github.com/rrrene/anijs",
+    "description": "A Library to Raise your Web Design without Coding.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 378141,
+      "CSS": 4233
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 186.71,
+    "S_code": 373.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "chartist-js",
+    "full_name": "rrrene/chartist-js",
+    "html_url": "https://github.com/rrrene/chartist-js",
+    "description": "Simple responsive charts",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 338814,
+      "CSS": 99619
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 214.08,
+    "S_code": 428.16,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "daemon.node",
+    "full_name": "rrrene/daemon.node",
+    "html_url": "https://github.com/rrrene/daemon.node",
+    "description": "A node.JS addon that helps to create *nix daemons in Javascript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3335
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.63,
+    "S_code": 3.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "grunt-cli",
+    "full_name": "rrrene/grunt-cli",
+    "html_url": "https://github.com/rrrene/grunt-cli",
+    "description": "Grunt's command line interface.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4729,
+      "Shell": 2768
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.66,
+    "S_code": 7.32,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "git-stats",
+    "full_name": "rrrene/git-stats",
+    "html_url": "https://github.com/rrrene/git-stats",
+    "description": ":four_leaf_clover: A GitHub-like contributions calendar, but locally, with all your git commits.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 11780
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.75,
+    "S_code": 11.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vissense",
+    "full_name": "rrrene/vissense",
+    "html_url": "https://github.com/rrrene/vissense",
+    "description": "A utility library for observing visibility changes of DOM elements.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 146113
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 71.34,
+    "S_code": 142.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "clui",
+    "full_name": "rrrene/clui",
+    "html_url": "https://github.com/rrrene/clui",
+    "description": "Command Line UI toolkit for Node.js",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 14210
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.94,
+    "S_code": 13.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vue",
+    "full_name": "rrrene/vue",
+    "html_url": "https://github.com/rrrene/vue",
+    "description": "Intuitive, fast & composable MVVM for building interactive interfaces.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 694230,
+      "CSS": 4169
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 341.02,
+    "S_code": 682.03,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "uBlock",
+    "full_name": "rrrene/uBlock",
+    "html_url": "https://github.com/rrrene/uBlock",
+    "description": "µBlock - An efficient blocker for Chromium, Firefox, and Safari. Fast and lean.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 664484,
+      "CSS": 16897,
+      "Shell": 9743
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 337.46,
+    "S_code": 674.93,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Silex",
+    "full_name": "rrrene/Silex",
+    "html_url": "https://github.com/rrrene/Silex",
+    "description": "Silex is a free and open source software which let you create websites directly in the browser without writing code. It is a website builder in the cloud, suitable for professional designers.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 599838,
+      "CSS": 168554,
+      "Shell": 478,
+      "Makefile": 423
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 375.63,
+    "S_code": 751.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "when",
+    "full_name": "rrrene/when",
+    "html_url": "https://github.com/rrrene/when",
+    "description": "A solid, fast Promises/A+ and when() implementation, plus other async goodies.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 305263
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 149.05,
+    "S_code": 298.11,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "node-heroku-client",
+    "full_name": "rrrene/node-heroku-client",
+    "html_url": "https://github.com/rrrene/node-heroku-client",
+    "description": "A wrapper around the Heroku API for Node.js",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 221582,
+      "Shell": 436
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 108.41,
+    "S_code": 216.81,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Watai",
+    "full_name": "rrrene/Watai",
+    "html_url": "https://github.com/rrrene/Watai",
+    "description": "Integration testing for the modern web",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 189880,
+      "Shell": 3274
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 94.31,
+    "S_code": 188.63,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "node-sass",
+    "full_name": "rrrene/node-sass",
+    "html_url": "https://github.com/rrrene/node-sass",
+    "description": "Node.js bindings to libsass",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 55212,
+      "C++": 13956,
+      "Python": 2615
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.05,
+    "S_code": 70.1,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "shipit",
+    "full_name": "rrrene/shipit",
+    "html_url": "https://github.com/rrrene/shipit",
+    "description": "Universal automation and deployment tool written in JavaScript.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 11412
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.57,
+    "S_code": 11.14,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "forever",
+    "full_name": "rrrene/forever",
+    "html_url": "https://github.com/rrrene/forever",
+    "description": "A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 70814,
+      "Shell": 1128
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.13,
+    "S_code": 70.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "david",
+    "full_name": "rrrene/david",
+    "html_url": "https://github.com/rrrene/david",
+    "description": "Node.js module that tells you when your package npm dependencies are out of date.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 45216
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22.08,
+    "S_code": 44.16,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "commander.js",
+    "full_name": "rrrene/commander.js",
+    "html_url": "https://github.com/rrrene/commander.js",
+    "description": "node.js command-line interfaces made easy",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 46915,
+      "Shell": 279,
+      "Makefile": 80
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.08,
+    "S_code": 46.17,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "twitter",
+    "full_name": "rrrene/twitter",
+    "html_url": "https://github.com/rrrene/twitter",
+    "description": "A Ruby interface to the Twitter API.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 557715,
+      "Graphviz (DOT)": 8562
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 276.5,
+    "S_code": 553.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "guard",
+    "full_name": "rrrene/guard",
+    "html_url": "https://github.com/rrrene/guard",
+    "description": "Guard is a command line tool to easily handle events on file system modifications.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 376649
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 183.91,
+    "S_code": 367.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pry",
+    "full_name": "rrrene/pry",
+    "html_url": "https://github.com/rrrene/pry",
+    "description": "An IRB alternative and runtime developer console",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 715902
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 349.56,
+    "S_code": 699.12,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "atomdoc",
+    "full_name": "rrrene/atomdoc",
+    "html_url": "https://github.com/rrrene/atomdoc",
+    "description": "Atom's documentation parser for JavaScript / CoffeeScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CoffeeScript": 36733
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.94,
+    "S_code": 35.87,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "overcommit",
+    "full_name": "rrrene/overcommit",
+    "html_url": "https://github.com/rrrene/overcommit",
+    "description": "A fully configurable and extendable Git hook manager",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 188049,
+      "Shell": 6271
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 94.88,
+    "S_code": 189.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Radpath",
+    "full_name": "rrrene/Radpath",
+    "html_url": "https://github.com/rrrene/Radpath",
+    "description": "Path library for Elixir inspired by Python's pathlib",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 20734,
+      "Shell": 5283,
+      "Makefile": 1288
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.33,
+    "S_code": 26.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ecto",
+    "full_name": "rrrene/ecto",
+    "html_url": "https://github.com/rrrene/ecto",
+    "description": "A database wrapper and language integrated query for Elixir",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bosun-monitor.github.io",
+    "full_name": "rrrene/bosun-monitor.github.io",
+    "html_url": "https://github.com/rrrene/bosun-monitor.github.io",
+    "description": null,
+    "stars": 0,
+    "forks": 4,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 16.0,
+    "S_code": 0.0,
+    "S_social": 8,
+    "S_maint": 0
+  },
+  {
+    "name": "redbooth-ruby",
+    "full_name": "rrrene/redbooth-ruby",
+    "html_url": "https://github.com/rrrene/redbooth-ruby",
+    "description": "Ruby wrapper for Redbooth API 3",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "amrita",
+    "full_name": "rrrene/amrita",
+    "html_url": "https://github.com/rrrene/amrita",
+    "description": "A polite, well mannered and thoroughly upstanding testing framework for Elixir",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "discovery",
+    "full_name": "rrrene/discovery",
+    "html_url": "https://github.com/rrrene/discovery",
+    "description": "An OTP application for auto-discovering services with Consul",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "plug",
+    "full_name": "rrrene/plug",
+    "html_url": "https://github.com/rrrene/plug",
+    "description": "A specification and conveniences for composable modules in between web applications",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "postgrex",
+    "full_name": "rrrene/postgrex",
+    "html_url": "https://github.com/rrrene/postgrex",
+    "description": "PostgreSQL driver for Elixir",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bundler",
+    "full_name": "rrrene/bundler",
+    "html_url": "https://github.com/rrrene/bundler",
+    "description": "Manage your application's gem dependencies with less pain",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "watchthinkchat",
+    "full_name": "rrrene/watchthinkchat",
+    "html_url": "https://github.com/rrrene/watchthinkchat",
+    "description": "Watch. Think. Chat. Connect.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bson-ruby",
+    "full_name": "rrrene/bson-ruby",
+    "html_url": "https://github.com/rrrene/bson-ruby",
+    "description": "Ruby Implementation of the BSON Specification (2.0.0+)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "chewy",
+    "full_name": "rrrene/chewy",
+    "html_url": "https://github.com/rrrene/chewy",
+    "description": "High-level Elasticsearch ruby framework based on official elasticsearch-ruby client",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hamster",
+    "full_name": "rrrene/hamster",
+    "html_url": "https://github.com/rrrene/hamster",
+    "description": "Efficient, Immutable, Thread-Safe Collection classes for Ruby",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pagerbot",
+    "full_name": "rrrene/pagerbot",
+    "html_url": "https://github.com/rrrene/pagerbot",
+    "description": "Manage Pagerduty on-call schedules from within your internal chat channels.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "coderay",
+    "full_name": "rrrene/coderay",
+    "html_url": "https://github.com/rrrene/coderay",
+    "description": "Fast and easy syntax highlighting for selected languages, written in Ruby.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pry-byebug",
+    "full_name": "rrrene/pry-byebug",
+    "html_url": "https://github.com/rrrene/pry-byebug",
+    "description": "Pry navigation commands via byebug",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "RuhrTopCardLocator",
+    "full_name": "rrrene/RuhrTopCardLocator",
+    "html_url": "https://github.com/rrrene/RuhrTopCardLocator",
+    "description": "Alle Angebote der Ruhr.TopCard 2014 auf einer Google Map mit der Entfernung zum Benutzer.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "addressable",
+    "full_name": "rrrene/addressable",
+    "html_url": "https://github.com/rrrene/addressable",
+    "description": "Addressable is a replacement for the URI implementation that is part of Ruby's standard library. It more closely conforms to RFC 3986, RFC 3987, and RFC 6570 (level 4), additionally providing support for IRIs and URI templates.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bitcoin-ruby",
+    "full_name": "rrrene/bitcoin-ruby",
+    "html_url": "https://github.com/rrrene/bitcoin-ruby",
+    "description": "bitcoin utils and protocol in ruby.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "toshi",
+    "full_name": "rrrene/toshi",
+    "html_url": "https://github.com/rrrene/toshi",
+    "description": "An open source Bitcoin node built to power large scale web applications.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "volt",
+    "full_name": "rrrene/volt",
+    "html_url": "https://github.com/rrrene/volt",
+    "description": "A ruby web framework where your ruby runs on both server and client",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fpm",
+    "full_name": "rrrene/fpm",
+    "html_url": "https://github.com/rrrene/fpm",
+    "description": "Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mail",
+    "full_name": "rrrene/mail",
+    "html_url": "https://github.com/rrrene/mail",
+    "description": "A Really Ruby Mail Library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tty",
+    "full_name": "rrrene/tty",
+    "html_url": "https://github.com/rrrene/tty",
+    "description": "Toolbox for developing CLI clients.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ruby-lint",
+    "full_name": "rrrene/ruby-lint",
+    "html_url": "https://github.com/rrrene/ruby-lint",
+    "description": "Static code analysis for Ruby.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mina",
+    "full_name": "rrrene/mina",
+    "html_url": "https://github.com/rrrene/mina",
+    "description": "Really fast deployer and server automation tool.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "brakeman",
+    "full_name": "rrrene/brakeman",
+    "html_url": "https://github.com/rrrene/brakeman",
+    "description": "A static analysis security vulnerability scanner for Ruby on Rails applications",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "foreman",
+    "full_name": "rrrene/foreman",
+    "html_url": "https://github.com/rrrene/foreman",
+    "description": "Manage Procfile-based applications",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sass",
+    "full_name": "rrrene/sass",
+    "html_url": "https://github.com/rrrene/sass",
+    "description": "Sass makes CSS fun again.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 1177309,
+      "CSS": 33426
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 591.18,
+    "S_code": 1182.36,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "yeah",
+    "full_name": "rrrene/yeah",
+    "html_url": "https://github.com/rrrene/yeah",
+    "description": "Practical Ruby video game framework",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vedeu",
+    "full_name": "rrrene/vedeu",
+    "html_url": "https://github.com/rrrene/vedeu",
+    "description": "A terminal case of wonderland.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rack",
+    "full_name": "rrrene/rack",
+    "html_url": "https://github.com/rrrene/rack",
+    "description": "a modular Ruby webserver interface",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "CLIntegracon",
+    "full_name": "rrrene/CLIntegracon",
+    "html_url": "https://github.com/rrrene/CLIntegracon",
+    "description": "Integration specs for your CLI",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bukkit",
+    "full_name": "rrrene/bukkit",
+    "html_url": "https://github.com/rrrene/bukkit",
+    "description": "Backwards Compatible Bukkit API.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sorcery",
+    "full_name": "rrrene/sorcery",
+    "html_url": "https://github.com/rrrene/sorcery",
+    "description": "Magical authentication for Rails 3 & 4",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "active_mocker",
+    "full_name": "rrrene/active_mocker",
+    "html_url": "https://github.com/rrrene/active_mocker",
+    "description": "Create mocks from active record models and run them without loading rails or running a database.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "redmine",
+    "full_name": "rrrene/redmine",
+    "html_url": "https://github.com/rrrene/redmine",
+    "description": "Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 4424445,
+      "JavaScript": 114792,
+      "CSS": 83026,
+      "PHP": 19335,
+      "Perl": 16407,
+      "Python": 7991
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 2288.32,
+    "S_code": 4556.64,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "rletters",
+    "full_name": "rrrene/rletters",
+    "html_url": "https://github.com/rrrene/rletters",
+    "description": "Web application designed to perform digital humanities research tasks on a database of journal articles.  Frontend written in Rails, backend database stored in Solr.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "awesome-ruby",
+    "full_name": "rrrene/awesome-ruby",
+    "html_url": "https://github.com/rrrene/awesome-ruby",
+    "description": "A collection of awesome Ruby libraries, tools, frameworks and software",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "kss",
+    "full_name": "rrrene/kss",
+    "html_url": "https://github.com/rrrene/kss",
+    "description": "A methodology for documenting CSS and generating styleguides.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nestive",
+    "full_name": "rrrene/nestive",
+    "html_url": "https://github.com/rrrene/nestive",
+    "description": "A Better Nested Inheritable Layouts Plugin for Rails",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "scss-lint",
+    "full_name": "rrrene/scss-lint",
+    "html_url": "https://github.com/rrrene/scss-lint",
+    "description": "Configurable tool for writing clean and consistent SCSS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sprockets",
+    "full_name": "rrrene/sprockets",
+    "html_url": "https://github.com/rrrene/sprockets",
+    "description": "Rack-based asset packaging system",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "puppet-lint",
+    "full_name": "rrrene/puppet-lint",
+    "html_url": "https://github.com/rrrene/puppet-lint",
+    "description": "Check that your Puppet manifest conform to the style guide",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "prometheus2.0",
+    "full_name": "rrrene/prometheus2.0",
+    "html_url": "https://github.com/rrrene/prometheus2.0",
+    "description": "Web2.0 interface for RPM database",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "moumentei",
+    "full_name": "rrrene/moumentei",
+    "html_url": "https://github.com/rrrene/moumentei",
+    "description": "本项目由糗百原先使用的rails框架代码整理而成",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rails_admin",
+    "full_name": "rrrene/rails_admin",
+    "html_url": "https://github.com/rrrene/rails_admin",
+    "description": "RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 553607,
+      "CSS": 230935,
+      "JavaScript": 76062,
+      "CoffeeScript": 15107
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 427.59,
+    "S_code": 855.19,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "projestimate",
+    "full_name": "rrrene/projestimate",
+    "html_url": "https://github.com/rrrene/projestimate",
+    "description": "ProjEstimate a web Open Source application for projects estimation. ProjEstimate is written using Ruby on Rails framework, more details can be found on the web site",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 778819,
+      "JavaScript": 125679,
+      "CSS": 72090,
+      "CoffeeScript": 1724,
+      "Shell": 927
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 478.14,
+    "S_code": 956.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "capybara",
+    "full_name": "rrrene/capybara",
+    "html_url": "https://github.com/rrrene/capybara",
+    "description": "Acceptance test framework for web applications",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 355454,
+      "JavaScript": 2309
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 174.69,
+    "S_code": 349.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "carrierwave",
+    "full_name": "rrrene/carrierwave",
+    "html_url": "https://github.com/rrrene/carrierwave",
+    "description": "Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 328162
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 160.24,
+    "S_code": 320.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tilt",
+    "full_name": "rrrene/tilt",
+    "html_url": "https://github.com/rrrene/tilt",
+    "description": "Generic interface to multiple Ruby template engines",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 146986,
+      "CSS": 157
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 71.85,
+    "S_code": 143.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pronto",
+    "full_name": "rrrene/pronto",
+    "html_url": "https://github.com/rrrene/pronto",
+    "description": "Quick automated code review of your changes",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 20607
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.06,
+    "S_code": 20.12,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "coercible",
+    "full_name": "rrrene/coercible",
+    "html_url": "https://github.com/rrrene/coercible",
+    "description": "Powerful, flexible and configurable coercion library. And nothing more.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 77730
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 37.95,
+    "S_code": 75.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "resque",
+    "full_name": "rrrene/resque",
+    "html_url": "https://github.com/rrrene/resque",
+    "description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 250655,
+      "Shell": 2034
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 123.38,
+    "S_code": 246.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "utils",
+    "full_name": "rrrene/utils",
+    "html_url": "https://github.com/rrrene/utils",
+    "description": "Ruby core extentions and class utilities for Lotus",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 34962
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.07,
+    "S_code": 34.14,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "simplecov",
+    "full_name": "rrrene/simplecov",
+    "html_url": "https://github.com/rrrene/simplecov",
+    "description": "Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 77549
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 37.87,
+    "S_code": 75.73,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "stocker",
+    "full_name": "rrrene/stocker",
+    "html_url": "https://github.com/rrrene/stocker",
+    "description": "Keep an inventory of things.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nikki",
+    "full_name": "rrrene/nikki",
+    "html_url": "https://github.com/rrrene/nikki",
+    "description": "Record something new learned every day of the year.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "random_unique_id",
+    "full_name": "rrrene/random_unique_id",
+    "html_url": "https://github.com/rrrene/random_unique_id",
+    "description": "Generate random but unique ids for your active record records.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "assert_difference",
+    "full_name": "rrrene/assert_difference",
+    "html_url": "https://github.com/rrrene/assert_difference",
+    "description": "Like Rails' assert_difference, but more powerful",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "guacamole",
+    "full_name": "rrrene/guacamole",
+    "html_url": "https://github.com/rrrene/guacamole",
+    "description": "WIP: An ODM for ArangoDB in Ruby",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ashikawa-core",
+    "full_name": "rrrene/ashikawa-core",
+    "html_url": "https://github.com/rrrene/ashikawa-core",
+    "description": "ArangoDB Ruby Client",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "monk-id-ruby",
+    "full_name": "rrrene/monk-id-ruby",
+    "html_url": "https://github.com/rrrene/monk-id-ruby",
+    "description": "Integrate Monk ID authentication and single sign-on for apps and websites on the server-side.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "csv2api",
+    "full_name": "rrrene/csv2api",
+    "html_url": "https://github.com/rrrene/csv2api",
+    "description": "Auto-create json APIs from .csv files. No magic needed!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "link_shrink",
+    "full_name": "rrrene/link_shrink",
+    "html_url": "https://github.com/rrrene/link_shrink",
+    "description": "A Ruby Gem and Command-Line Application for shrinking those long and nasty links into a shorter URL",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "filepreviews-ruby",
+    "full_name": "rrrene/filepreviews-ruby",
+    "html_url": "https://github.com/rrrene/filepreviews-ruby",
+    "description": "Ruby gem and command-line application for Filepreviews.io",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "synchronisable",
+    "full_name": "rrrene/synchronisable",
+    "html_url": "https://github.com/rrrene/synchronisable",
+    "description": "Provides base fuctionality (models, DSL) for AR synchronization with external resources (apis, services etc)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rspec_api_documentation",
+    "full_name": "rrrene/rspec_api_documentation",
+    "html_url": "https://github.com/rrrene/rspec_api_documentation",
+    "description": "Automatically generate API documentation from RSpec",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "optioning",
+    "full_name": "rrrene/optioning",
+    "html_url": "https://github.com/rrrene/optioning",
+    "description": "An object oriented way to retrieve, store, filter, transform and deprecate `options` passed to a method. Where `options` are the keys our beloved `Hash` as last parameter for a method call.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sirius",
+    "full_name": "rrrene/sirius",
+    "html_url": "https://github.com/rrrene/sirius",
+    "description": "Time Management & Stuff",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "kosapi_client",
+    "full_name": "rrrene/kosapi_client",
+    "html_url": "https://github.com/rrrene/kosapi_client",
+    "description": "KOSapi client in Ruby",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "redis-rb",
+    "full_name": "rrrene/redis-rb",
+    "html_url": "https://github.com/rrrene/redis-rb",
+    "description": "A Ruby client library for Redis",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 272085
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 132.85,
+    "S_code": 265.71,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "datapipes",
+    "full_name": "rrrene/datapipes",
+    "html_url": "https://github.com/rrrene/datapipes",
+    "description": "datapipes is an asynchronous multi streaming library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "37-pieces-of-flair",
+    "full_name": "rrrene/37-pieces-of-flair",
+    "html_url": "https://github.com/rrrene/37-pieces-of-flair",
+    "description": "The badges of github",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "kabal",
+    "full_name": "rrrene/kabal",
+    "html_url": "https://github.com/rrrene/kabal",
+    "description": "Number To Text Helper",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "orodruin",
+    "full_name": "rrrene/orodruin",
+    "html_url": "https://github.com/rrrene/orodruin",
+    "description": "Simple ERP created for Pyrkon",
+    "stars": 0,
+    "forks": 3,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 12.0,
+    "S_code": 0.0,
+    "S_social": 6,
+    "S_maint": 0
+  },
+  {
+    "name": "kstarv",
+    "full_name": "rrrene/kstarv",
+    "html_url": "https://github.com/rrrene/kstarv",
+    "description": "Wrap a Ruby object by parsing text file including key-value pairs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hashing",
+    "full_name": "rrrene/hashing",
+    "html_url": "https://github.com/rrrene/hashing",
+    "description": "Gives you an easy way to specify which instances vars of your objects should be used as `key => value` to serialize it into a hash returned by the `#to_h` method. Also gives you a `YourClass::from_hash` to reconstruct the instances.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "startrack",
+    "full_name": "rrrene/startrack",
+    "html_url": "https://github.com/rrrene/startrack",
+    "description": "Agile based tracker",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fields",
+    "full_name": "rrrene/fields",
+    "html_url": "https://github.com/rrrene/fields",
+    "description": "A fields API for automatic migrations in Active Record ***WIP***",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mighty_grid",
+    "full_name": "rrrene/mighty_grid",
+    "html_url": "https://github.com/rrrene/mighty_grid",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "before_actions",
+    "full_name": "rrrene/before_actions",
+    "html_url": "https://github.com/rrrene/before_actions",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bread",
+    "full_name": "rrrene/bread",
+    "html_url": "https://github.com/rrrene/bread",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cal_exporter",
+    "full_name": "rrrene/cal_exporter",
+    "html_url": "https://github.com/rrrene/cal_exporter",
+    "description": "Export calendar data",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 5209
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.54,
+    "S_code": 5.09,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "api-client",
+    "full_name": "rrrene/api-client",
+    "html_url": "https://github.com/rrrene/api-client",
+    "description": "Api client easy to play with parallelism support!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "resthook",
+    "full_name": "rrrene/resthook",
+    "html_url": "https://github.com/rrrene/resthook",
+    "description": "Add Resthooks to your Rails app with ease",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 17080,
+      "JavaScript": 1198,
+      "CSS": 1092
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.46,
+    "S_code": 18.92,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "archivist-client",
+    "full_name": "rrrene/archivist-client",
+    "html_url": "https://github.com/rrrene/archivist-client",
+    "description": "Ruby client for Archive.org",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 19213
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.38,
+    "S_code": 18.76,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cadenza",
+    "full_name": "rrrene/cadenza",
+    "html_url": "https://github.com/rrrene/cadenza",
+    "description": "parser and renderer library for liquid-like templates",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 241087
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 117.72,
+    "S_code": 235.44,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "oplerno",
+    "full_name": "rrrene/oplerno",
+    "html_url": "https://github.com/rrrene/oplerno",
+    "description": "Marketplace for Oplerno",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 171557,
+      "JavaScript": 39217,
+      "CSS": 16881,
+      "CoffeeScript": 3321,
+      "Shell": 1405
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 113.47,
+    "S_code": 226.93,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "paper-house",
+    "full_name": "rrrene/paper-house",
+    "html_url": "https://github.com/rrrene/paper-house",
+    "description": "Rake for C projects",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 33447,
+      "C": 1014,
+      "C++": 28
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.84,
+    "S_code": 33.68,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pio",
+    "full_name": "rrrene/pio",
+    "html_url": "https://github.com/rrrene/pio",
+    "description": "Packet parser and generator in Ruby",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 155866
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 76.11,
+    "S_code": 152.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "transitions",
+    "full_name": "rrrene/transitions",
+    "html_url": "https://github.com/rrrene/transitions",
+    "description": "State machine extracted from ActiveModel",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 50289
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 24.56,
+    "S_code": 49.11,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "paperclip",
+    "full_name": "rrrene/paperclip",
+    "html_url": "https://github.com/rrrene/paperclip",
+    "description": "Easy file attachment management for ActiveRecord",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 466857
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 227.96,
+    "S_code": 455.92,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "openssl-cmac",
+    "full_name": "rrrene/openssl-cmac",
+    "html_url": "https://github.com/rrrene/openssl-cmac",
+    "description": "This is a Ruby implementation of AES-CMAC Algorithm: http://tools.ietf.org/html/rfc4493",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 10135
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.95,
+    "S_code": 9.9,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "openssl-ccm",
+    "full_name": "rrrene/openssl-ccm",
+    "html_url": "https://github.com/rrrene/openssl-ccm",
+    "description": "Ruby Gem for RFC 3610 - Counter with CBC-MAC (CCM)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 18023
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.8,
+    "S_code": 17.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "djanoa",
+    "full_name": "rrrene/djanoa",
+    "html_url": "https://github.com/rrrene/djanoa",
+    "description": "Client Ruby pour la plateforme Djanoa (http://www.djanoa.com/)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 6663
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.25,
+    "S_code": 6.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "stackable_flash",
+    "full_name": "rrrene/stackable_flash",
+    "html_url": "https://github.com/rrrene/stackable_flash",
+    "description": "Allows flashes to stack intelligently, while preserving existing behavior of Rails' FlashHash.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 39264,
+      "JavaScript": 641,
+      "CSS": 545
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.75,
+    "S_code": 39.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sequential_file",
+    "full_name": "rrrene/sequential_file",
+    "html_url": "https://github.com/rrrene/sequential_file",
+    "description": "Sequential File makes determination of which file to process (read or write) easy!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 22558
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.01,
+    "S_code": 22.03,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sanitize_email",
+    "full_name": "rrrene/sanitize_email",
+    "html_url": "https://github.com/rrrene/sanitize_email",
+    "description": "SanitizeEmail allows you to play with your application's email abilities without worrying that emails will get sent to actual live addresses. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 56103
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 27.39,
+    "S_code": 54.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rack-insight",
+    "full_name": "rrrene/rack-insight",
+    "html_url": "https://github.com/rrrene/rack-insight",
+    "description": "Debugging toolbar for Rack applications implemented as middleware",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 156412,
+      "JavaScript": 9346,
+      "CSS": 4432
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 83.1,
+    "S_code": 166.2,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "gem_bench",
+    "full_name": "rrrene/gem_bench",
+    "html_url": "https://github.com/rrrene/gem_bench",
+    "description": "trim down app load times by keeping your worst players on the bench",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 11283
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.51,
+    "S_code": 11.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "flag_shih_tzu",
+    "full_name": "rrrene/flag_shih_tzu",
+    "html_url": "https://github.com/rrrene/flag_shih_tzu",
+    "description": "Bit fields for ActiveRecord",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 68255
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 33.33,
+    "S_code": 66.66,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dry_views",
+    "full_name": "rrrene/dry_views",
+    "html_url": "https://github.com/rrrene/dry_views",
+    "description": "Keep the views dry with content_for_with_default and friends!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 19589,
+      "JavaScript": 641,
+      "CSS": 546
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.14,
+    "S_code": 20.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "csv_pirate",
+    "full_name": "rrrene/csv_pirate",
+    "html_url": "https://github.com/rrrene/csv_pirate",
+    "description": "100 Pirates agree that creating CSVs is boring.  Pirates prefer to be lazy.  Pirates use CsvPirate.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 63427
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 30.97,
+    "S_code": 61.94,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "capistrano_mailer",
+    "full_name": "rrrene/capistrano_mailer",
+    "html_url": "https://github.com/rrrene/capistrano_mailer",
+    "description": "Capistrano Deployment Email Notification",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 12537,
+      "CSS": 1870
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.03,
+    "S_code": 14.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "supermarket",
+    "full_name": "rrrene/supermarket",
+    "html_url": "https://github.com/rrrene/supermarket",
+    "description": "Chef's new Community platform",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 320532,
+      "CSS": 28702,
+      "Shell": 5708,
+      "JavaScript": 4120
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 175.32,
+    "S_code": 350.65,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "proxmox",
+    "full_name": "rrrene/proxmox",
+    "html_url": "https://github.com/rrrene/proxmox",
+    "description": "You need to manage a proxmox host with Ruby? This library is for you.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cape",
+    "full_name": "rrrene/cape",
+    "html_url": "https://github.com/rrrene/cape",
+    "description": "Dynamically generates Capistrano recipes for Rake tasks.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 64058
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 31.28,
+    "S_code": 62.56,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nanoc-core",
+    "full_name": "rrrene/nanoc-core",
+    "html_url": "https://github.com/rrrene/nanoc-core",
+    "description": "Core of nanoc 4.x",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 298382
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 145.69,
+    "S_code": 291.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nanoc",
+    "full_name": "rrrene/nanoc",
+    "html_url": "https://github.com/rrrene/nanoc",
+    "description": "nanoc is a web publishing system written in Ruby.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 774251
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 378.05,
+    "S_code": 756.1,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ruby-serial",
+    "full_name": "rrrene/ruby-serial",
+    "html_url": "https://github.com/rrrene/ruby-serial",
+    "description": "Optimized serialization library for Ruby objects.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 51972
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 25.38,
+    "S_code": 50.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rails-ajax",
+    "full_name": "rrrene/rails-ajax",
+    "html_url": "https://github.com/rrrene/rails-ajax",
+    "description": "Add Ajax capabilities to Rails websites, with minimal code changes. Supports history, bookmarking, partial refreshes, Rails flashes, user callbacks, scripts execution, redirections. Built upon Rails-UJS and jQuery.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 140593,
+      "JavaScript": 3722,
+      "CSS": 2184
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 71.53,
+    "S_code": 143.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "minimagick",
+    "full_name": "rrrene/minimagick",
+    "html_url": "https://github.com/rrrene/minimagick",
+    "description": "mini replacement for RMagick",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 44361,
+      "PHP": 29
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 21.67,
+    "S_code": 43.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "coco",
+    "full_name": "rrrene/coco",
+    "html_url": "https://github.com/rrrene/coco",
+    "description": "Code coverage for ruby 1.9.2, 1.9.3, 2.0 and 2.1",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 37093,
+      "CSS": 1238
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 18.72,
+    "S_code": 37.43,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "draper",
+    "full_name": "rrrene/draper",
+    "html_url": "https://github.com/rrrene/draper",
+    "description": "Decorators/View-Models for Rails Applications",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hydra_attribute",
+    "full_name": "rrrene/hydra_attribute",
+    "html_url": "https://github.com/rrrene/hydra_attribute",
+    "description": "Implementation of EAV pattern for ActiveRecord models",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 257311
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 125.64,
+    "S_code": 251.28,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "reporter-ruby",
+    "full_name": "rrrene/reporter-ruby",
+    "html_url": "https://github.com/rrrene/reporter-ruby",
+    "description": "A Ruby library for parsing and processing data from the Reporter app for iOS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "flatrack",
+    "full_name": "rrrene/flatrack",
+    "html_url": "https://github.com/rrrene/flatrack",
+    "description": "A static site generator with a little sprinkle of ruby magic",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 42033,
+      "CSS": 67,
+      "CoffeeScript": 63
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.59,
+    "S_code": 41.17,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "modloc",
+    "full_name": "rrrene/modloc",
+    "html_url": "https://github.com/rrrene/modloc",
+    "description": "Find the source location of a given module or class",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 7338
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.58,
+    "S_code": 7.17,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "java-properties",
+    "full_name": "rrrene/java-properties",
+    "html_url": "https://github.com/rrrene/java-properties",
+    "description": "Loader and writer for *.properties files",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 22737
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.1,
+    "S_code": 22.2,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "winged-couch",
+    "full_name": "rrrene/winged-couch",
+    "html_url": "https://github.com/rrrene/winged-couch",
+    "description": "Ruby ORM for CouchDB (not ready yet)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 94222,
+      "CoffeeScript": 1330,
+      "JavaScript": 1105
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 47.2,
+    "S_code": 94.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "spree-unifaun",
+    "full_name": "rrrene/spree-unifaun",
+    "html_url": "https://github.com/rrrene/spree-unifaun",
+    "description": "Unifaun ERPConnect for Spree Commerce",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 32660,
+      "CSS": 65,
+      "JavaScript": 51
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.0,
+    "S_code": 32.01,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "phony",
+    "full_name": "rrrene/phony",
+    "html_url": "https://github.com/rrrene/phony",
+    "description": "E164 international phone number normalizing, splitting, formatting. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 326183
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 159.27,
+    "S_code": 318.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "freemle-ruby",
+    "full_name": "rrrene/freemle-ruby",
+    "html_url": "https://github.com/rrrene/freemle-ruby",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "yt",
+    "full_name": "rrrene/yt",
+    "html_url": "https://github.com/rrrene/yt",
+    "description": "YT lets you interact with many resources provided by YouTube API",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fairnopoly",
+    "full_name": "rrrene/fairnopoly",
+    "html_url": "https://github.com/rrrene/fairnopoly",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 913149,
+      "CSS": 111039,
+      "JavaScript": 32412,
+      "CoffeeScript": 16508
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 523.98,
+    "S_code": 1047.96,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pakiderm",
+    "full_name": "rrrene/pakiderm",
+    "html_url": "https://github.com/rrrene/pakiderm",
+    "description": "Pakiderm will never forget the return value.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 23455,
+      "JavaScript": 12293,
+      "Ruby": 5727
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.25,
+    "S_code": 40.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "queryable",
+    "full_name": "rrrene/queryable",
+    "html_url": "https://github.com/rrrene/queryable",
+    "description": "Queryable is a module that encapsulates query building so you don't have to tuck scopes inside your models.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 23455,
+      "Ruby": 13056,
+      "JavaScript": 12293
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.83,
+    "S_code": 47.66,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lego_nxt",
+    "full_name": "rrrene/lego_nxt",
+    "html_url": "https://github.com/rrrene/lego_nxt",
+    "description": "A gem to interface with LEGO MINDSTORMS NXT bricks.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 61608
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 30.08,
+    "S_code": 60.16,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cri",
+    "full_name": "rrrene/cri",
+    "html_url": "https://github.com/rrrene/cri",
+    "description": "A tool for building commandline applications",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ddplugin",
+    "full_name": "rrrene/ddplugin",
+    "html_url": "https://github.com/rrrene/ddplugin",
+    "description": "Plugin management library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 7310
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.57,
+    "S_code": 7.14,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Downr",
+    "full_name": "rrrene/Downr",
+    "html_url": "https://github.com/rrrene/Downr",
+    "description": "Simple wrapper for RedCarpet, Pygmentize, and Emoji",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "code_notes",
+    "full_name": "rrrene/code_notes",
+    "html_url": "https://github.com/rrrene/code_notes",
+    "description": "Extracting code_notes from rails",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 22210,
+      "JavaScript": 641,
+      "CSS": 546
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.42,
+    "S_code": 22.85,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "code_metrics",
+    "full_name": "rrrene/code_metrics",
+    "html_url": "https://github.com/rrrene/code_metrics",
+    "description": "Extracting Code Statistics from rails",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 35055,
+      "JavaScript": 599,
+      "CSS": 546
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.68,
+    "S_code": 35.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sq",
+    "full_name": "rrrene/sq",
+    "html_url": "https://github.com/rrrene/sq",
+    "description": "Bulk PDFs downloader",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ud",
+    "full_name": "rrrene/ud",
+    "html_url": "https://github.com/rrrene/ud",
+    "description": "Urban Dictionnary scrapping tool",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "set_const",
+    "full_name": "rrrene/set_const",
+    "html_url": "https://github.com/rrrene/set_const",
+    "description": "Change a constant's value without warnings in Ruby ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "silent",
+    "full_name": "rrrene/silent",
+    "html_url": "https://github.com/rrrene/silent",
+    "description": "Silently execute a piece of code",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Graphs.rb",
+    "full_name": "rrrene/Graphs.rb",
+    "html_url": "https://github.com/rrrene/Graphs.rb",
+    "description": "Some Ruby functions to manipulate graph files",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pouf",
+    "full_name": "rrrene/pouf",
+    "html_url": "https://github.com/rrrene/pouf",
+    "description": "play random sounds from your command-line",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "badges2svg",
+    "full_name": "rrrene/badges2svg",
+    "html_url": "https://github.com/rrrene/badges2svg",
+    "description": "Replace your README badges with resolution-independent SVG ones",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "helpful-web",
+    "full_name": "rrrene/helpful-web",
+    "html_url": "https://github.com/rrrene/helpful-web",
+    "description": "Help shouldn't hurt",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 153734,
+      "CSS": 50602,
+      "JavaScript": 5795,
+      "Shell": 2436
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 103.79,
+    "S_code": 207.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "page_record",
+    "full_name": "rrrene/page_record",
+    "html_url": "https://github.com/rrrene/page_record",
+    "description": "Page Object implementation. Using some specialy formatted 'data-...' tags you can read records from HTML pages like an ActiveRecord page",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 64694
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 31.59,
+    "S_code": 63.18,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "odeon_uk",
+    "full_name": "rrrene/odeon_uk",
+    "html_url": "https://github.com/rrrene/odeon_uk",
+    "description": "Odeon UK film information",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "picturehouse_uk",
+    "full_name": "rrrene/picturehouse_uk",
+    "html_url": "https://github.com/rrrene/picturehouse_uk",
+    "description": "An API to pull movie information from the picturehouse.co.uk website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cineworld_uk",
+    "full_name": "rrrene/cineworld_uk",
+    "html_url": "https://github.com/rrrene/cineworld_uk",
+    "description": "Gem for parsing the cineworld.co.uk website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "weather-forecasts",
+    "full_name": "rrrene/weather-forecasts",
+    "html_url": "https://github.com/rrrene/weather-forecasts",
+    "description": "Client library for retrieving data from NOAA's weather forecast API",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "synapse",
+    "full_name": "rrrene/synapse",
+    "html_url": "https://github.com/rrrene/synapse",
+    "description": "A transparent service discovery framework for connecting an SOA",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 52508
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 25.64,
+    "S_code": 51.28,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mailcannon",
+    "full_name": "rrrene/mailcannon",
+    "html_url": "https://github.com/rrrene/mailcannon",
+    "description": "A scalable Sidekiq/Celluloid powered tool for shooting emails around the web, built for Rubinius with real threads.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 33878,
+      "Shell": 270
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.67,
+    "S_code": 33.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "zbis",
+    "full_name": "rrrene/zbis",
+    "html_url": "https://github.com/rrrene/zbis",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "feedbunch",
+    "full_name": "rrrene/feedbunch",
+    "html_url": "https://github.com/rrrene/feedbunch",
+    "description": "Open source feed reader, to fill the hole left by Google Reader",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "libnotify",
+    "full_name": "rrrene/libnotify",
+    "html_url": "https://github.com/rrrene/libnotify",
+    "description": "Ruby bindings for libnotify using FFI.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 16721
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.16,
+    "S_code": 16.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "minitest-around",
+    "full_name": "rrrene/minitest-around",
+    "html_url": "https://github.com/rrrene/minitest-around",
+    "description": "Around block for minitest.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jtask",
+    "full_name": "rrrene/jtask",
+    "html_url": "https://github.com/rrrene/jtask",
+    "description": "Provides CRUD actions for JSON files, plus a few extra goodies.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tco",
+    "full_name": "rrrene/tco",
+    "html_url": "https://github.com/rrrene/tco",
+    "description": "Simple framework for colouring terminal output (not only) in Ruby.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 56107
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 27.4,
+    "S_code": 54.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "popular",
+    "full_name": "rrrene/popular",
+    "html_url": "https://github.com/rrrene/popular",
+    "description": "Friendship gem for Rails/ActiveRecord backed models",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 9311
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 14.55,
+    "S_code": 9.09,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "substation",
+    "full_name": "rrrene/substation",
+    "html_url": "https://github.com/rrrene/substation",
+    "description": "Implement application boundary interfaces with a chain of responsibility",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 159780
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 78.02,
+    "S_code": 156.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "liquid",
+    "full_name": "rrrene/liquid",
+    "html_url": "https://github.com/rrrene/liquid",
+    "description": "Liquid markup language. Safe, customer facing template language for flexible web apps. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 229984
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 112.3,
+    "S_code": 224.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mock5",
+    "full_name": "rrrene/mock5",
+    "html_url": "https://github.com/rrrene/mock5",
+    "description": "Create and manage API mocks with Sinatra",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 14257
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.96,
+    "S_code": 13.92,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "public_activity",
+    "full_name": "rrrene/public_activity",
+    "html_url": "https://github.com/rrrene/public_activity",
+    "description": "Easy activity tracking for models - similar to Github's Public Activity",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 72698,
+      "Shell": 533
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.76,
+    "S_code": 71.51,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "simple_form",
+    "full_name": "rrrene/simple_form",
+    "html_url": "https://github.com/rrrene/simple_form",
+    "description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 288784
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 141.01,
+    "S_code": 282.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "finite_machine",
+    "full_name": "rrrene/finite_machine",
+    "html_url": "https://github.com/rrrene/finite_machine",
+    "description": "A minimal finite state machine with a straightforward syntax.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 65870
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 32.16,
+    "S_code": 64.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "docile",
+    "full_name": "rrrene/docile",
+    "html_url": "https://github.com/rrrene/docile",
+    "description": "Docile keeps your Ruby DSLs tame and well-behaved",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 19884
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.71,
+    "S_code": 19.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "metric_fu",
+    "full_name": "rrrene/metric_fu",
+    "html_url": "https://github.com/rrrene/metric_fu",
+    "description": "A fist full of code metrics",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 296119,
+      "CSS": 14971,
+      "Graphviz (DOT)": 8671,
+      "Shell": 76
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 156.17,
+    "S_code": 312.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "acts-as-taggable-on",
+    "full_name": "rrrene/acts-as-taggable-on",
+    "html_url": "https://github.com/rrrene/acts-as-taggable-on",
+    "description": "A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 140229
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 68.47,
+    "S_code": 136.94,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "controller",
+    "full_name": "rrrene/controller",
+    "html_url": "https://github.com/rrrene/controller",
+    "description": "Controller layer for Lotus",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 65173
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 31.82,
+    "S_code": 63.65,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "grape",
+    "full_name": "rrrene/grape",
+    "html_url": "https://github.com/rrrene/grape",
+    "description": "An opinionated micro-framework for creating REST-like APIs in Ruby.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 302897
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 147.9,
+    "S_code": 295.8,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "htty",
+    "full_name": "rrrene/htty",
+    "html_url": "https://github.com/rrrene/htty",
+    "description": "htty is the HTTP TTY, a console application for interacting with web servers.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 407230
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 198.84,
+    "S_code": 397.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cequel",
+    "full_name": "rrrene/cequel",
+    "html_url": "https://github.com/rrrene/cequel",
+    "description": "Ruby ORM for Cassandra with CQL3",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 383844,
+      "Shell": 36
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 187.44,
+    "S_code": 374.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "word-to-markdown",
+    "full_name": "rrrene/word-to-markdown",
+    "html_url": "https://github.com/rrrene/word-to-markdown",
+    "description": "A ruby gem to liberate content from Microsoft Word documents",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 10288,
+      "Shell": 916,
+      "CSS": 633,
+      "CoffeeScript": 52
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.81,
+    "S_code": 11.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "naught",
+    "full_name": "rrrene/naught",
+    "html_url": "https://github.com/rrrene/naught",
+    "description": "A toolkit for building Null Object classes in Ruby",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 33215
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.22,
+    "S_code": 32.44,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rspec-core",
+    "full_name": "rrrene/rspec-core",
+    "html_url": "https://github.com/rrrene/rspec-core",
+    "description": "RSpec runner and formatters",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 703727,
+      "Shell": 9882
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 348.44,
+    "S_code": 696.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "commander",
+    "full_name": "rrrene/commander",
+    "html_url": "https://github.com/rrrene/commander",
+    "description": "The complete solution for Ruby command-line executables",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 70241
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 34.3,
+    "S_code": 68.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "reek",
+    "full_name": "rrrene/reek",
+    "html_url": "https://github.com/rrrene/reek",
+    "description": "Code smell detector for Ruby",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 363045
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 177.27,
+    "S_code": 354.54,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "virtus",
+    "full_name": "rrrene/virtus",
+    "html_url": "https://github.com/rrrene/virtus",
+    "description": "Attributes on Steroids for Plain Old Ruby Objects",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 163603
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 79.88,
+    "S_code": 159.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rom",
+    "full_name": "rrrene/rom",
+    "html_url": "https://github.com/rrrene/rom",
+    "description": "Ruby Object Mapper",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 102070
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 49.84,
+    "S_code": 99.68,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mustermann",
+    "full_name": "rrrene/mustermann",
+    "html_url": "https://github.com/rrrene/mustermann",
+    "description": "your personal string matching expert",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 193118
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 94.3,
+    "S_code": 188.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lotus-dynamodb",
+    "full_name": "rrrene/lotus-dynamodb",
+    "html_url": "https://github.com/rrrene/lotus-dynamodb",
+    "description": "Amazon DynamoDB adapter for Lotus::Model",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "peek",
+    "full_name": "rrrene/peek",
+    "html_url": "https://github.com/rrrene/peek",
+    "description": "Take a peek into your Rails applications.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 21221,
+      "CoffeeScript": 1772,
+      "CSS": 1678,
+      "JavaScript": 612
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.35,
+    "S_code": 24.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mutant",
+    "full_name": "rrrene/mutant",
+    "html_url": "https://github.com/rrrene/mutant",
+    "description": "Mutation tests for ruby",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 257835
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 125.9,
+    "S_code": 251.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "formtastic",
+    "full_name": "rrrene/formtastic",
+    "html_url": "https://github.com/rrrene/formtastic",
+    "description": "A Rails form builder plugin with semantically rich and accessible markup.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 637640,
+      "CSS": 7566
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 315.04,
+    "S_code": 630.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "kaminari",
+    "full_name": "rrrene/kaminari",
+    "html_url": "https://github.com/rrrene/kaminari",
+    "description": "A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Rails 3 and 4",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 119606
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 58.4,
+    "S_code": 116.8,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "puppet",
+    "full_name": "rrrene/puppet",
+    "html_url": "https://github.com/rrrene/puppet",
+    "description": "Server automation framework and application",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 8767400,
+      "Shell": 31336,
+      "Puppet": 28507,
+      "Emacs Lisp": 14761,
+      "Vim Script": 9505,
+      "Python": 3757,
+      "Augeas": 712
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4324.21,
+    "S_code": 8648.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cancancan",
+    "full_name": "rrrene/cancancan",
+    "html_url": "https://github.com/rrrene/cancancan",
+    "description": "Continuation of CanCan, the authorization Gem for Ruby on Rails.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 152982
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 74.7,
+    "S_code": 149.4,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rspec-rails",
+    "full_name": "rrrene/rspec-rails",
+    "html_url": "https://github.com/rrrene/rspec-rails",
+    "description": "RSpec for Rails-3+",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 152146,
+      "CSS": 257,
+      "Shell": 189
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 74.51,
+    "S_code": 149.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pundit",
+    "full_name": "rrrene/pundit",
+    "html_url": "https://github.com/rrrene/pundit",
+    "description": "Minimal authorization through OO design and pure Ruby classes",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 16112
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.87,
+    "S_code": 15.73,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "haml",
+    "full_name": "rrrene/haml",
+    "html_url": "https://github.com/rrrene/haml",
+    "description": "HTML Abstraction Markup Language - A Markup Haiku",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 269143,
+      "CSS": 460
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 131.64,
+    "S_code": 263.28,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rubocop",
+    "full_name": "rrrene/rubocop",
+    "html_url": "https://github.com/rrrene/rubocop",
+    "description": "A robust Ruby code analyzer, based on the community Ruby style guide.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 1048219
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 511.83,
+    "S_code": 1023.65,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "minicron",
+    "full_name": "rrrene/minicron",
+    "html_url": "https://github.com/rrrene/minicron",
+    "description": "A system to manage and monitor cron jobs.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 1365774,
+      "Ruby": 47820,
+      "CSS": 2640
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 691.52,
+    "S_code": 1383.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "concurrent-ruby",
+    "full_name": "rrrene/concurrent-ruby",
+    "html_url": "https://github.com/rrrene/concurrent-ruby",
+    "description": "Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 276821
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 135.17,
+    "S_code": 270.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "emigrate",
+    "full_name": "rrrene/emigrate",
+    "html_url": "https://github.com/rrrene/emigrate",
+    "description": "A framework for mapping data from one format to another",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "answers",
+    "full_name": "rrrene/answers",
+    "html_url": "https://github.com/rrrene/answers",
+    "description": "18f's Answers Platform, based on CfA Honolulu/Oakland Answers",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rubydoc.info",
+    "full_name": "rrrene/rubydoc.info",
+    "html_url": "https://github.com/rrrene/rubydoc.info",
+    "description": "Next generation rdoc.info site",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 44674,
+      "CSS": 5171,
+      "JavaScript": 2536
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 25.58,
+    "S_code": 51.15,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Kejian-TV",
+    "full_name": "rrrene/Kejian-TV",
+    "html_url": "https://github.com/rrrene/Kejian-TV",
+    "description": "Education brought to the 21st century.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 326012,
+      "CSS": 203381,
+      "Ruby": 24646,
+      "PHP": 741,
+      "CoffeeScript": 422
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 271.09,
+    "S_code": 542.19,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lurker",
+    "full_name": "rrrene/lurker",
+    "html_url": "https://github.com/rrrene/lurker",
+    "description": "Helps you to get pretty, documented and visible API",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 389482,
+      "CSS": 134852,
+      "Ruby": 60527
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 285.58,
+    "S_code": 571.15,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tigefa",
+    "full_name": "rrrene/tigefa",
+    "html_url": "https://github.com/rrrene/tigefa",
+    "description": "personal note and commit small project",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 14651,
+      "JavaScript": 664,
+      "CSS": 546
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 7.74,
+    "S_code": 15.49,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "chef_instance",
+    "full_name": "rrrene/chef_instance",
+    "html_url": "https://github.com/rrrene/chef_instance",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 7772
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.79,
+    "S_code": 7.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "paperclip_redis",
+    "full_name": "rrrene/paperclip_redis",
+    "html_url": "https://github.com/rrrene/paperclip_redis",
+    "description": "A storage backed using redis written for paperclip",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 6851
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.35,
+    "S_code": 6.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "money",
+    "full_name": "rrrene/money",
+    "html_url": "https://github.com/rrrene/money",
+    "description": "A Ruby Library for dealing with money and currency conversion.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 156189
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 76.26,
+    "S_code": 152.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "friendly",
+    "full_name": "rrrene/friendly",
+    "html_url": "https://github.com/rrrene/friendly",
+    "description": "Friend/Friendship gem for ActiveRecord-backed models",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 3563
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.74,
+    "S_code": 3.48,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "html-pipeline",
+    "full_name": "rrrene/html-pipeline",
+    "html_url": "https://github.com/rrrene/html-pipeline",
+    "description": "HTML processing filters and utilities",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 76821,
+      "Shell": 550
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 37.78,
+    "S_code": 75.56,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rspec-support",
+    "full_name": "rrrene/rspec-support",
+    "html_url": "https://github.com/rrrene/rspec-support",
+    "description": "Common code needed by the other RSpec gems.  Not intended for direct use.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 48170,
+      "Shell": 5344
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 26.13,
+    "S_code": 52.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rspec-mocks",
+    "full_name": "rrrene/rspec-mocks",
+    "html_url": "https://github.com/rrrene/rspec-mocks",
+    "description": "RSpec's 'test double' framework, with support for stubbing and mocking",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 515407,
+      "Shell": 7202
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 255.18,
+    "S_code": 510.36,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rspec-expectations",
+    "full_name": "rrrene/rspec-expectations",
+    "html_url": "https://github.com/rrrene/rspec-expectations",
+    "description": "Provides a simple, readable API to express expected outcomes of a code example",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 501141,
+      "Shell": 5344
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 247.31,
+    "S_code": 494.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "switch_manager",
+    "full_name": "rrrene/switch_manager",
+    "html_url": "https://github.com/rrrene/switch_manager",
+    "description": "Trema switch manager",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 12947
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.32,
+    "S_code": 12.64,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sidekiq",
+    "full_name": "rrrene/sidekiq",
+    "html_url": "https://github.com/rrrene/sidekiq",
+    "description": "Simple, efficient background processing for Ruby",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 221639,
+      "CSS": 38909,
+      "JavaScript": 27902,
+      "Shell": 170
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 140.93,
+    "S_code": 281.86,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "searchkick",
+    "full_name": "rrrene/searchkick",
+    "html_url": "https://github.com/rrrene/searchkick",
+    "description": "Intelligent search made easy",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 65405
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 31.94,
+    "S_code": 63.87,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "yahm",
+    "full_name": "rrrene/yahm",
+    "html_url": "https://github.com/rrrene/yahm",
+    "description": "Yet another hash mapper",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 8030
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.92,
+    "S_code": 7.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hello_sign",
+    "full_name": "rrrene/hello_sign",
+    "html_url": "https://github.com/rrrene/hello_sign",
+    "description": "A Ruby SDK for the HelloSign API.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Ruby": 18397
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.98,
+    "S_code": 17.97,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "mongo-ruby-driver",
+    "full_name": "rrrene/mongo-ruby-driver",
+    "html_url": "https://github.com/rrrene/mongo-ruby-driver",
+    "description": "Ruby driver for MongoDB",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 296235
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 144.65,
+    "S_code": 289.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "unitwise",
+    "full_name": "rrrene/unitwise",
+    "html_url": "https://github.com/rrrene/unitwise",
+    "description": "Unit conversion and unit math for Ruby. Based on the Unified Code for Units of Measure (UCUM).",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 60498
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 29.54,
+    "S_code": 59.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "softcover",
+    "full_name": "rrrene/softcover",
+    "html_url": "https://github.com/rrrene/softcover",
+    "description": "CLI for book generation, building, and publishing to softcover.io",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 154311,
+      "TeX": 40863,
+      "CSS": 11434,
+      "JavaScript": 2504
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 102.11,
+    "S_code": 204.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ndfd-weather-forecast-client",
+    "full_name": "rrrene/ndfd-weather-forecast-client",
+    "html_url": "https://github.com/rrrene/ndfd-weather-forecast-client",
+    "description": "Client library for retrieving data from NOAA's weather forecast API",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Ruby": 45655
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 26.29,
+    "S_code": 44.58,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "the_role",
+    "full_name": "rrrene/the_role",
+    "html_url": "https://github.com/rrrene/the_role",
+    "description": "Authorization for Rails 4  + admin UI. Semantic, Flexible, Lightweight",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 86301,
+      "CoffeeScript": 835,
+      "JavaScript": 673,
+      "CSS": 381
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 43.06,
+    "S_code": 86.12,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "multi_mime",
+    "full_name": "rrrene/multi_mime",
+    "html_url": "https://github.com/rrrene/multi_mime",
+    "description": "A generic swappable back-end for MIME type detection",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 16398
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.01,
+    "S_code": 16.01,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "better_errors",
+    "full_name": "rrrene/better_errors",
+    "html_url": "https://github.com/rrrene/better_errors",
+    "description": "Better error page for Rails and other Rack apps",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "command_line_reporter",
+    "full_name": "rrrene/command_line_reporter",
+    "html_url": "https://github.com/rrrene/command_line_reporter",
+    "description": "A gem for making it easy to produce a report while a ruby script is executing",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 76659
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 37.43,
+    "S_code": 74.86,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jekyll",
+    "full_name": "rrrene/jekyll",
+    "html_url": "https://github.com/rrrene/jekyll",
+    "description": "Jekyll is a blog-aware, static site generator in Ruby",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 244888,
+      "CSS": 43881,
+      "Shell": 3797,
+      "CoffeeScript": 172
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 142.94,
+    "S_code": 285.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "active_interaction",
+    "full_name": "rrrene/active_interaction",
+    "html_url": "https://github.com/rrrene/active_interaction",
+    "description": "Manage application specific business logic.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 93900
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 45.85,
+    "S_code": 91.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "router",
+    "full_name": "rrrene/router",
+    "html_url": "https://github.com/rrrene/router",
+    "description": "Ruby HTTP router for Lotus",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 120556,
+      "Shell": 300
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 59.01,
+    "S_code": 118.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fluentd",
+    "full_name": "rrrene/fluentd",
+    "html_url": "https://github.com/rrrene/fluentd",
+    "description": "Fluentd data collector",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vagrant-lxc",
+    "full_name": "rrrene/vagrant-lxc",
+    "html_url": "https://github.com/rrrene/vagrant-lxc",
+    "description": "LXC provider for Vagrant",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ruby",
+    "full_name": "rrrene/ruby",
+    "html_url": "https://github.com/rrrene/ruby",
+    "description": "The Ruby Programming Language",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 20491125,
+      "C": 10782869,
+      "Emacs Lisp": 114713,
+      "Tcl": 50595,
+      "Objective-C": 28877,
+      "Ragel in Ruby Host": 28109,
+      "Shell": 19240,
+      "JavaScript": 17069,
+      "CSS": 15507,
+      "XSLT": 13913,
+      "D": 8205,
+      "Assembly": 1265,
+      "Perl": 938,
+      "Python": 871,
+      "Awk": 750,
+      "Scilab": 745,
+      "Scheme": 668,
+      "C++": 659,
+      "IDL": 106
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15418.08,
+    "S_code": 30836.16,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "yard-activerecord",
+    "full_name": "rrrene/yard-activerecord",
+    "html_url": "https://github.com/rrrene/yard-activerecord",
+    "description": "Plugin for YARD to document ActiveRecord stuff",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 10039
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.9,
+    "S_code": 9.8,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hexpress",
+    "full_name": "rrrene/hexpress",
+    "html_url": "https://github.com/rrrene/hexpress",
+    "description": "Human Expressions, a human way to define regular expressions",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 26137
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.76,
+    "S_code": 25.52,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "formbuilder",
+    "full_name": "rrrene/formbuilder",
+    "html_url": "https://github.com/rrrene/formbuilder",
+    "description": "Formbuilder is a small graphical interface for letting users build their own webforms.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 49179,
+      "CoffeeScript": 22486,
+      "Shell": 240
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.11,
+    "S_code": 70.22,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jquery.complexify.js",
+    "full_name": "rrrene/jquery.complexify.js",
+    "html_url": "https://github.com/rrrene/jquery.complexify.js",
+    "description": "Complexify helps you to accurately gauge the quality of a user's password to give them visual feedback, and to enforce a minimum level of security.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 6308
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 23.08,
+    "S_code": 6.16,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "action_enum",
+    "full_name": "rrrene/action_enum",
+    "html_url": "https://github.com/rrrene/action_enum",
+    "description": "Fake enums for actionscript",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "ActionScript": 4181
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.04,
+    "S_code": 4.08,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "dcell",
+    "full_name": "rrrene/dcell",
+    "html_url": "https://github.com/rrrene/dcell",
+    "description": "Actor-based distributed objects in Ruby based on Celluloid and 0MQ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 47876,
+      "Ruby": 46156
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 65.91,
+    "S_code": 91.83,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "rake",
+    "full_name": "rrrene/rake",
+    "html_url": "https://github.com/rrrene/rake",
+    "description": "A make-like build utility for Ruby.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "osmlib-base",
+    "full_name": "rrrene/osmlib-base",
+    "html_url": "https://github.com/rrrene/osmlib-base",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 111340,
+      "Racket": 4460
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 126.54,
+    "S_code": 113.09,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "eventmachine",
+    "full_name": "rrrene/eventmachine",
+    "html_url": "https://github.com/rrrene/eventmachine",
+    "description": "EventMachine: fast, simple event-processing library for Ruby programs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

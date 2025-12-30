@@ -1,0 +1,192 @@
+[
+  {
+    "name": "practical-server-side-swift",
+    "full_name": "tib/practical-server-side-swift",
+    "html_url": "https://github.com/tib/practical-server-side-swift",
+    "description": "Vapor 4 code samples for the Practical Server Side Swift book",
+    "stars": 254,
+    "forks": 38,
+    "languages": {
+      "Swift": 1264863,
+      "Dockerfile": 50040,
+      "JavaScript": 2436,
+      "CSS": 751
+    },
+    "contributions_by_user": 190,
+    "contribution_score": 3203.6,
+    "S_code": 1287.2,
+    "S_social": 330,
+    "S_maint": 190
+  },
+  {
+    "name": "SwiftNES",
+    "full_name": "tib/SwiftNES",
+    "html_url": "https://github.com/tib/SwiftNES",
+    "description": "Just another NES emulator written in Swift",
+    "stars": 55,
+    "forks": 6,
+    "languages": {
+      "Swift": 252550
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 547.32,
+    "S_code": 246.63,
+    "S_social": 67,
+    "S_maint": 29
+  },
+  {
+    "name": "learn-to-code-using-swift",
+    "full_name": "tib/learn-to-code-using-swift",
+    "html_url": "https://github.com/tib/learn-to-code-using-swift",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 4.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "blog",
+    "full_name": "tib/blog",
+    "html_url": "https://github.com/tib/blog",
+    "description": "My blog about Swift development",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Mustache": 12418,
+      "CSS": 7373,
+      "Makefile": 415
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 21.87,
+    "S_code": 19.73,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "zsh",
+    "full_name": "tib/zsh",
+    "html_url": "https://github.com/tib/zsh",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 9631,
+      "Vim Script": 606
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 45.0,
+    "S_code": 10.0,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "tib",
+    "full_name": "tib/tib",
+    "html_url": "https://github.com/tib/tib",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 7,
+    "contribution_score": 70.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "my-amazing-website",
+    "full_name": "tib/my-amazing-website",
+    "html_url": "https://github.com/tib/my-amazing-website",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "test",
+    "full_name": "tib/test",
+    "html_url": "https://github.com/tib/test",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 296
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 50.14,
+    "S_code": 0.29,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "swift-org-website",
+    "full_name": "tib/swift-org-website",
+    "html_url": "https://github.com/tib/swift-org-website",
+    "description": "Swift.org website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "SCSS": 73332,
+      "JavaScript": 54065,
+      "HTML": 36881,
+      "Swift": 9071,
+      "CSS": 6689,
+      "Shell": 5998,
+      "Ruby": 4667,
+      "Dockerfile": 653,
+      "Liquid": 388,
+      "Procfile": 39
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 153.64,
+    "S_code": 187.29,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "inspector",
+    "full_name": "tib/inspector",
+    "html_url": "https://github.com/tib/inspector",
+    "description": "Visual testing tool for MCP servers",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 201326,
+      "JavaScript": 12486,
+      "CSS": 3118,
+      "HTML": 361
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 106.1,
+    "S_code": 212.2,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "swift-sdk",
+    "full_name": "tib/swift-sdk",
+    "html_url": "https://github.com/tib/swift-sdk",
+    "description": "The official Swift SDK for Model Context Protocol servers and clients. Maintained in collaboration with @loopwork-ai.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Swift": 179020,
+      "C": 1348,
+      "Dockerfile": 124
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 108.13,
+    "S_code": 176.26,
+    "S_social": 0,
+    "S_maint": 2
+  }
+]

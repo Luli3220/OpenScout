@@ -1,0 +1,529 @@
+[
+  {
+    "name": "Diffusion-Models-Papers-Survey-Taxonomy",
+    "full_name": "YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy",
+    "html_url": "https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy",
+    "description": "Diffusion model papers, survey, and taxonomy",
+    "stars": 3310,
+    "forks": 267,
+    "languages": {},
+    "contributions_by_user": 78,
+    "contribution_score": 8468.0,
+    "S_code": 0.0,
+    "S_social": 3844,
+    "S_maint": 78
+  },
+  {
+    "name": "RPG-DiffusionMaster",
+    "full_name": "YangLing0818/RPG-DiffusionMaster",
+    "html_url": "https://github.com/YangLing0818/RPG-DiffusionMaster",
+    "description": "[ICML 2024] Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (RPG)",
+    "stars": 1839,
+    "forks": 102,
+    "languages": {
+      "Jupyter Notebook": 732274,
+      "Python": 154593
+    },
+    "contributions_by_user": 32,
+    "contribution_score": 4839.04,
+    "S_code": 866.08,
+    "S_social": 2043,
+    "S_maint": 32
+  },
+  {
+    "name": "buffer-of-thought-llm",
+    "full_name": "YangLing0818/buffer-of-thought-llm",
+    "html_url": "https://github.com/YangLing0818/buffer-of-thought-llm",
+    "description": "[NeurIPS 2024 Spotlight] Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models",
+    "stars": 674,
+    "forks": 64,
+    "languages": {
+      "Python": 137421
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 1891.1,
+    "S_code": 134.2,
+    "S_social": 802,
+    "S_maint": 22
+  },
+  {
+    "name": "consistency_flow_matching",
+    "full_name": "YangLing0818/consistency_flow_matching",
+    "html_url": "https://github.com/YangLing0818/consistency_flow_matching",
+    "description": "Official Implementation for \"Consistency Flow Matching: Defining Straight Flows with Velocity Consistency\"",
+    "stars": 256,
+    "forks": 11,
+    "languages": {
+      "Python": 217068,
+      "Cuda": 14954,
+      "C++": 1834
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 730.19,
+    "S_code": 228.38,
+    "S_social": 278,
+    "S_maint": 6
+  },
+  {
+    "name": "VideoTetris",
+    "full_name": "YangLing0818/VideoTetris",
+    "html_url": "https://github.com/YangLing0818/VideoTetris",
+    "description": "[NeurIPS 2024] VideoTetris: Towards Compositional Text-To-Video Generation",
+    "stars": 230,
+    "forks": 6,
+    "languages": {
+      "Python": 651042,
+      "Shell": 1486
+    },
+    "contributions_by_user": 30,
+    "contribution_score": 1102.62,
+    "S_code": 637.23,
+    "S_social": 242,
+    "S_maint": 30
+  },
+  {
+    "name": "IterComp",
+    "full_name": "YangLing0818/IterComp",
+    "html_url": "https://github.com/YangLing0818/IterComp",
+    "description": "[ICLR 2025] IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation",
+    "stars": 203,
+    "forks": 11,
+    "languages": {
+      "Python": 329933,
+      "Shell": 1600
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 681.88,
+    "S_code": 323.76,
+    "S_social": 225,
+    "S_maint": 7
+  },
+  {
+    "name": "EditWorld",
+    "full_name": "YangLing0818/EditWorld",
+    "html_url": "https://github.com/YangLing0818/EditWorld",
+    "description": "[ACM Multimedia 2025 Datasets Track] EditWorld: Simulating World Dynamics for Instruction-Following Image Editing",
+    "stars": 137,
+    "forks": 6,
+    "languages": {
+      "Python": 139710
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 436.22,
+    "S_code": 136.44,
+    "S_social": 149,
+    "S_maint": 7
+  },
+  {
+    "name": "RealCompo",
+    "full_name": "YangLing0818/RealCompo",
+    "html_url": "https://github.com/YangLing0818/RealCompo",
+    "description": "[NeurIPS 2024] RealCompo: Balancing Realism and Compositionality Improves Text-to-Image Diffusion Models",
+    "stars": 119,
+    "forks": 3,
+    "languages": {
+      "Python": 404153
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 557.34,
+    "S_code": 394.68,
+    "S_social": 125,
+    "S_maint": 11
+  },
+  {
+    "name": "VQGraph",
+    "full_name": "YangLing0818/VQGraph",
+    "html_url": "https://github.com/YangLing0818/VQGraph",
+    "description": "[ICLR 2024] VQGraph: Rethinking Graph Representation Space for Bridging GNNs and MLPs",
+    "stars": 103,
+    "forks": 11,
+    "languages": {
+      "Python": 129057
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 433.02,
+    "S_code": 126.03,
+    "S_social": 125,
+    "S_maint": 12
+  },
+  {
+    "name": "SuperCorrect-llm",
+    "full_name": "YangLing0818/SuperCorrect-llm",
+    "html_url": "https://github.com/YangLing0818/SuperCorrect-llm",
+    "description": "[ICLR 2025] SuperCorrect: Advancing Small LLM Reasoning with Thought Template Distillation and Self-Correction",
+    "stars": 86,
+    "forks": 7,
+    "languages": {
+      "Python": 109194,
+      "Shell": 582
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 363.6,
+    "S_code": 107.2,
+    "S_social": 100,
+    "S_maint": 11
+  },
+  {
+    "name": "SGDiff",
+    "full_name": "YangLing0818/SGDiff",
+    "html_url": "https://github.com/YangLing0818/SGDiff",
+    "description": "Official implementation for \"Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Training\" https://arxiv.org/abs/2211.11138",
+    "stars": 74,
+    "forks": 18,
+    "languages": {
+      "Python": 650180,
+      "Shell": 4760
+    },
+    "contributions_by_user": 43,
+    "contribution_score": 969.79,
+    "S_code": 639.59,
+    "S_social": 110,
+    "S_maint": 43
+  },
+  {
+    "name": "ContextDiff",
+    "full_name": "YangLing0818/ContextDiff",
+    "html_url": "https://github.com/YangLing0818/ContextDiff",
+    "description": "[ICLR 2024] Contextualized Diffusion Models for Text-Guided Image and Video Generation",
+    "stars": 72,
+    "forks": 4,
+    "languages": {
+      "Python": 5759511,
+      "MDX": 585349,
+      "Dockerfile": 7459,
+      "Makefile": 2756,
+      "Shell": 519
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 3373.32,
+    "S_code": 6206.63,
+    "S_social": 80,
+    "S_maint": 11
+  },
+  {
+    "name": "IPDiff",
+    "full_name": "YangLing0818/IPDiff",
+    "html_url": "https://github.com/YangLing0818/IPDiff",
+    "description": "[ICLR 2024] Protein-Ligand Interaction Prior for Binding-aware 3D Molecule Diffusion Models",
+    "stars": 53,
+    "forks": 6,
+    "languages": {
+      "Python": 362882,
+      "Shell": 498
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 367.43,
+    "S_code": 354.86,
+    "S_social": 65,
+    "S_maint": 6
+  },
+  {
+    "name": "IRDiff",
+    "full_name": "YangLing0818/IRDiff",
+    "html_url": "https://github.com/YangLing0818/IRDiff",
+    "description": "[ICML 2024] Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation",
+    "stars": 34,
+    "forks": 4,
+    "languages": {
+      "Python": 353742,
+      "Shell": 498
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 316.97,
+    "S_code": 345.94,
+    "S_social": 42,
+    "S_maint": 6
+  },
+  {
+    "name": "BindDM",
+    "full_name": "YangLing0818/BindDM",
+    "html_url": "https://github.com/YangLing0818/BindDM",
+    "description": "[AAAI 2024] Binding-Adaptive Diffusion Models for Structure-Based Drug Design",
+    "stars": 20,
+    "forks": 1,
+    "languages": {
+      "Python": 322915,
+      "Shell": 498
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 281.92,
+    "S_code": 315.83,
+    "S_social": 22,
+    "S_maint": 8
+  },
+  {
+    "name": "GraphOOD",
+    "full_name": "YangLing0818/GraphOOD",
+    "html_url": "https://github.com/YangLing0818/GraphOOD",
+    "description": "The official Implementation for TKDE paper \"Individual and Structural Graph Information Bottlenecks for Out-of-Distribution Generalization\"",
+    "stars": 14,
+    "forks": 0,
+    "languages": {
+      "Python": 30745
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 143.01,
+    "S_code": 30.02,
+    "S_social": 14,
+    "S_maint": 10
+  },
+  {
+    "name": "MMaDA-Parallel",
+    "full_name": "YangLing0818/MMaDA-Parallel",
+    "html_url": "https://github.com/YangLing0818/MMaDA-Parallel",
+    "description": "Official Implementation of \"MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation\"",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Python": 636975
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 351.02,
+    "S_code": 622.05,
+    "S_social": 5,
+    "S_maint": 3
+  },
+  {
+    "name": "ReasonFlux",
+    "full_name": "YangLing0818/ReasonFlux",
+    "html_url": "https://github.com/YangLing0818/ReasonFlux",
+    "description": "ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Python": 2562982,
+      "Jupyter Notebook": 73993,
+      "Dockerfile": 7782,
+      "C++": 6956,
+      "Shell": 3868,
+      "Makefile": 391
+    },
+    "contributions_by_user": 28,
+    "contribution_score": 1584.86,
+    "S_code": 2593.72,
+    "S_social": 4,
+    "S_maint": 28
+  },
+  {
+    "name": "LatentMAS",
+    "full_name": "YangLing0818/LatentMAS",
+    "html_url": "https://github.com/YangLing0818/LatentMAS",
+    "description": "Latent Collaboration in Multi-Agent Systems",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 93549,
+      "Shell": 3653
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 91.46,
+    "S_code": 94.92,
+    "S_social": 2,
+    "S_maint": 4
+  },
+  {
+    "name": "Open-AgentRL",
+    "full_name": "YangLing0818/Open-AgentRL",
+    "html_url": "https://github.com/YangLing0818/Open-AgentRL",
+    "description": "Demystifying Reinforcement Learning in Agentic Reasoning",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 4103985,
+      "Shell": 319853,
+      "Roff": 19934,
+      "Jinja": 5927
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 2226.7,
+    "S_code": 4345.41,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "dLLM-RL",
+    "full_name": "YangLing0818/dLLM-RL",
+    "html_url": "https://github.com/YangLing0818/dLLM-RL",
+    "description": "Comprehensive RL Framework for Diffusion Large Language Models with SOTA dLLMs (TraDo-4B/8B)",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 717471,
+      "Jupyter Notebook": 3153
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 415.87,
+    "S_code": 703.73,
+    "S_social": 2,
+    "S_maint": 6
+  },
+  {
+    "name": "MMaDA",
+    "full_name": "YangLing0818/MMaDA",
+    "html_url": "https://github.com/YangLing0818/MMaDA",
+    "description": "MMaDA - Open-Sourced Multimodal Large Diffusion Language Models",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 627184
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 400.24,
+    "S_code": 612.48,
+    "S_social": 2,
+    "S_maint": 9
+  },
+  {
+    "name": "Diffusion-Sharpening",
+    "full_name": "YangLing0818/Diffusion-Sharpening",
+    "html_url": "https://github.com/YangLing0818/Diffusion-Sharpening",
+    "description": "Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 130285,
+      "Shell": 1591
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 108.39,
+    "S_code": 128.79,
+    "S_social": 2,
+    "S_maint": 4
+  },
+  {
+    "name": "Trans4D",
+    "full_name": "YangLing0818/Trans4D",
+    "html_url": "https://github.com/YangLing0818/Trans4D",
+    "description": "Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 1546225,
+      "Shell": 8052,
+      "Cuda": 7023,
+      "C++": 878,
+      "C": 380
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 806.97,
+    "S_code": 1525.94,
+    "S_social": 2,
+    "S_maint": 4
+  },
+  {
+    "name": "YangLing0818",
+    "full_name": "YangLing0818/YangLing0818",
+    "html_url": "https://github.com/YangLing0818/YangLing0818",
+    "description": "My personal repository",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 12,
+    "contribution_score": 122.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 12
+  },
+  {
+    "name": "LAION-SG",
+    "full_name": "YangLing0818/LAION-SG",
+    "html_url": "https://github.com/YangLing0818/LAION-SG",
+    "description": "LAION-SG: An Enhanced Large-Scale Dataset for Training Complex Image-Text Models with Structural Annotations",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 89376
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 65.64,
+    "S_code": 87.28,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "RAG-Survey",
+    "full_name": "YangLing0818/RAG-Survey",
+    "html_url": "https://github.com/YangLing0818/RAG-Survey",
+    "description": "Collecting awesome papers of RAG for AIGC.  We propose a taxonomy of RAG foundations, enhancements, and applications in paper \"Retrieval-Augmented Generation for AI-Generated Content: A Survey\".",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 22.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "YangLing0818.github.io",
+    "full_name": "YangLing0818/YangLing0818.github.io",
+    "html_url": "https://github.com/YangLing0818/YangLing0818.github.io",
+    "description": "Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 130943,
+      "HTML": 73115,
+      "SCSS": 65570,
+      "Jupyter Notebook": 39560,
+      "Python": 15093,
+      "CSS": 8901,
+      "Ruby": 720
+    },
+    "contributions_by_user": 320,
+    "contribution_score": 3363.04,
+    "S_code": 326.08,
+    "S_social": 0,
+    "S_maint": 320
+  },
+  {
+    "name": "Rectified-Diffusion",
+    "full_name": "YangLing0818/Rectified-Diffusion",
+    "html_url": "https://github.com/YangLing0818/Rectified-Diffusion",
+    "description": "Rectified Diffusion: Straightness is Not Your Need",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 169629,
+      "Shell": 4679
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 85.11,
+    "S_code": 170.22,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "DisBack",
+    "full_name": "YangLing0818/DisBack",
+    "html_url": "https://github.com/YangLing0818/DisBack",
+    "description": "The official implementation of Distribution Backtracking Distillation for One-step Diffusion Models",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 369701,
+      "Shell": 8962
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 204.89,
+    "S_code": 369.79,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "Cross-Reconstruction-Transformer",
+    "full_name": "YangLing0818/Cross-Reconstruction-Transformer",
+    "html_url": "https://github.com/YangLing0818/Cross-Reconstruction-Transformer",
+    "description": "The official implementation for our TNNLS paper \"Self-Supervised Time Series Representation Learning via Cross Reconstruction Transformer\".",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 28749
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 44.04,
+    "S_code": 28.08,
+    "S_social": 0,
+    "S_maint": 3
+  }
+]

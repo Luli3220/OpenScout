@@ -1,0 +1,659 @@
+[
+  {
+    "name": "cupscale",
+    "full_name": "n00mkrad/cupscale",
+    "html_url": "https://github.com/n00mkrad/cupscale",
+    "description": "Image Upscaling GUI based on ESRGAN",
+    "stars": 2305,
+    "forks": 139,
+    "languages": {
+      "C#": 301341
+    },
+    "contributions_by_user": 64,
+    "contribution_score": 5953.14,
+    "S_code": 294.28,
+    "S_social": 2583,
+    "S_maint": 64
+  },
+  {
+    "name": "flowframes",
+    "full_name": "n00mkrad/flowframes",
+    "html_url": "https://github.com/n00mkrad/flowframes",
+    "description": "Flowframes Windows GUI for video interpolation using DAIN (NCNN) or RIFE (CUDA/NCNN)",
+    "stars": 1828,
+    "forks": 138,
+    "languages": {
+      "Python": 7257399,
+      "C#": 1322392,
+      "PowerShell": 8597,
+      "Roff": 7997,
+      "Batchfile": 2942,
+      "Shell": 946
+    },
+    "contributions_by_user": 825,
+    "contribution_score": 16657.35,
+    "S_code": 8398.7,
+    "S_social": 2104,
+    "S_maint": 825
+  },
+  {
+    "name": "text2image-gui",
+    "full_name": "n00mkrad/text2image-gui",
+    "html_url": "https://github.com/n00mkrad/text2image-gui",
+    "description": "Somewhat modular text2image GUI, initially just for Stable Diffusion",
+    "stars": 965,
+    "forks": 104,
+    "languages": {
+      "C#": 923404
+    },
+    "contributions_by_user": 1345,
+    "contribution_score": 16246.88,
+    "S_code": 901.76,
+    "S_social": 1173,
+    "S_maint": 1345
+  },
+  {
+    "name": "nmkoder",
+    "full_name": "n00mkrad/nmkoder",
+    "html_url": "https://github.com/n00mkrad/nmkoder",
+    "description": "Media encoding, muxing, analysis toolkit for Windows",
+    "stars": 499,
+    "forks": 22,
+    "languages": {
+      "C#": 536519
+    },
+    "contributions_by_user": 463,
+    "contribution_score": 5977.97,
+    "S_code": 523.94,
+    "S_social": 543,
+    "S_maint": 463
+  },
+  {
+    "name": "tesla-overlays-list",
+    "full_name": "n00mkrad/tesla-overlays-list",
+    "html_url": "https://github.com/n00mkrad/tesla-overlays-list",
+    "description": "Central list of all Nintendo Switch overlays for https://github.com/WerWolv/Tesla-Menu",
+    "stars": 228,
+    "forks": 10,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 516.0,
+    "S_code": 0.0,
+    "S_social": 248,
+    "S_maint": 2
+  },
+  {
+    "name": "magick-utils",
+    "full_name": "n00mkrad/magick-utils",
+    "html_url": "https://github.com/n00mkrad/magick-utils",
+    "description": "Toolkit for image processing",
+    "stars": 94,
+    "forks": 6,
+    "languages": {
+      "C#": 186464
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 453.05,
+    "S_code": 182.09,
+    "S_social": 106,
+    "S_maint": 15
+  },
+  {
+    "name": "shell-upscaler",
+    "full_name": "n00mkrad/shell-upscaler",
+    "html_url": "https://github.com/n00mkrad/shell-upscaler",
+    "description": "Windows utility to upscale files or folders right from the explorer.",
+    "stars": 23,
+    "forks": 2,
+    "languages": {
+      "C#": 26188,
+      "Python": 19806
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 96.46,
+    "S_code": 44.92,
+    "S_social": 27,
+    "S_maint": 2
+  },
+  {
+    "name": "stable-diffusion-cust",
+    "full_name": "n00mkrad/stable-diffusion-cust",
+    "html_url": "https://github.com/n00mkrad/stable-diffusion-cust",
+    "description": "This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a \"dream bot\" style interface.",
+    "stars": 21,
+    "forks": 6,
+    "languages": {
+      "Python": 9431854,
+      "JavaScript": 709525,
+      "Cuda": 162171,
+      "C++": 87809,
+      "CSS": 20973,
+      "Shell": 20896,
+      "Batchfile": 10861,
+      "HTML": 10425,
+      "Jupyter Notebook": 9098,
+      "CMake": 6607,
+      "Nix": 5152,
+      "Dockerfile": 3645
+    },
+    "contributions_by_user": 291,
+    "contribution_score": 8092.71,
+    "S_code": 10233.41,
+    "S_social": 33,
+    "S_maint": 291
+  },
+  {
+    "name": "ffmpeg-batch-utils",
+    "full_name": "n00mkrad/ffmpeg-batch-utils",
+    "html_url": "https://github.com/n00mkrad/ffmpeg-batch-utils",
+    "description": "Useful batch scripts for videos. Originally made as a toolbox for use with upscaling neural networks.",
+    "stars": 12,
+    "forks": 2,
+    "languages": {
+      "Batchfile": 8048
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 85.93,
+    "S_code": 7.86,
+    "S_social": 16,
+    "S_maint": 5
+  },
+  {
+    "name": "easy-fw-for-deck",
+    "full_name": "n00mkrad/easy-fw-for-deck",
+    "html_url": "https://github.com/n00mkrad/easy-fw-for-deck",
+    "description": "Files needed to launch Flawless Widescreen together with a game on Steam Deck (SteamOS/Proton)",
+    "stars": 9,
+    "forks": 1,
+    "languages": {
+      "Batchfile": 233
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 92.11,
+    "S_code": 0.23,
+    "S_social": 11,
+    "S_maint": 7
+  },
+  {
+    "name": "nmkd-comfy-nodes",
+    "full_name": "n00mkrad/nmkd-comfy-nodes",
+    "html_url": "https://github.com/n00mkrad/nmkd-comfy-nodes",
+    "description": "ComfyUI custom nodes, primarily optimized for usage with API, not GUI",
+    "stars": 8,
+    "forks": 3,
+    "languages": {
+      "Python": 5160601,
+      "Cuda": 162171,
+      "C++": 87809,
+      "CMake": 6607,
+      "Shell": 5186,
+      "Dockerfile": 922,
+      "Batchfile": 659
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 2766.42,
+    "S_code": 5296.83,
+    "S_social": 14,
+    "S_maint": 9
+  },
+  {
+    "name": "immich-dev",
+    "full_name": "n00mkrad/immich-dev",
+    "html_url": "https://github.com/n00mkrad/immich-dev",
+    "description": "High performance self-hosted photo and video management solution.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 1960657,
+      "Dart": 1460860,
+      "Svelte": 858607,
+      "Python": 94891,
+      "Swift": 29812,
+      "Kotlin": 28390,
+      "JavaScript": 17306,
+      "Mustache": 12571,
+      "Shell": 11926,
+      "C++": 9834,
+      "Dockerfile": 6906,
+      "Ruby": 5989,
+      "CSS": 3091,
+      "HTML": 1958,
+      "Makefile": 1718,
+      "Objective-C": 38
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2205.49,
+    "S_code": 4398.98,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "VirtualDisplay",
+    "full_name": "n00mkrad/VirtualDisplay",
+    "html_url": "https://github.com/n00mkrad/VirtualDisplay",
+    "description": "A compiled virtual display driver modified from Microsoft's sample driver -- IndirectDisplay",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "C++": 37991,
+      "C": 2005,
+      "Batchfile": 72
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 45.56,
+    "S_code": 39.13,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "orphan-killer",
+    "full_name": "n00mkrad/orphan-killer",
+    "html_url": "https://github.com/n00mkrad/orphan-killer",
+    "description": "Tiny util that takes a parent PID and child PID. When the parent is no longer around, it kills the child and itself. Brutal.",
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "C#": 6743
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 47.29,
+    "S_code": 6.58,
+    "S_social": 7,
+    "S_maint": 3
+  },
+  {
+    "name": "FLAVR",
+    "full_name": "n00mkrad/FLAVR",
+    "html_url": "https://github.com/n00mkrad/FLAVR",
+    "description": "Code for FLAVR: A fast and efficient frame interpolation technique.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Python": 79276
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 64.71,
+    "S_code": 77.42,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "smol-ffmpeg",
+    "full_name": "n00mkrad/smol-ffmpeg",
+    "html_url": "https://github.com/n00mkrad/smol-ffmpeg",
+    "description": "Slim (12 MB) FFmpeg build for windows. Includes h264 and AAC support, most other codecs have been stripped out.",
+    "stars": 3,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 36.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 3
+  },
+  {
+    "name": "Alferd-Spritesheet-Unpacker",
+    "full_name": "n00mkrad/Alferd-Spritesheet-Unpacker",
+    "html_url": "https://github.com/n00mkrad/Alferd-Spritesheet-Unpacker",
+    "description": "A spritesheet unpacker/ ripper for Windows",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "C#": 282148
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 143.77,
+    "S_code": 275.54,
+    "S_social": 3,
+    "S_maint": 0
+  },
+  {
+    "name": "Apollo",
+    "full_name": "n00mkrad/Apollo",
+    "html_url": "https://github.com/n00mkrad/Apollo",
+    "description": "Sunshine fork - The easiest way to stream with the native resolution of your client device",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C++": 1805256,
+      "HTML": 143211,
+      "CMake": 88027,
+      "Vue": 80392,
+      "Shell": 33996,
+      "Objective-C++": 29972,
+      "Dockerfile": 12733,
+      "HLSL": 12658,
+      "Objective-C": 12606,
+      "Batchfile": 12484,
+      "JavaScript": 11598,
+      "Cuda": 10984,
+      "Ruby": 10858,
+      "C": 6860,
+      "Python": 6000,
+      "GLSL": 2375,
+      "CSS": 375
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1117.47,
+    "S_code": 2226.94,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "arXiv2020-RIFE",
+    "full_name": "n00mkrad/arXiv2020-RIFE",
+    "html_url": "https://github.com/n00mkrad/arXiv2020-RIFE",
+    "description": "RIFE: Real Time Video Frame Rate Enhancement",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 109129,
+      "Jupyter Notebook": 3282,
+      "Dockerfile": 501,
+      "Shell": 90
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 59.18,
+    "S_code": 110.35,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "data-efficient-gans",
+    "full_name": "n00mkrad/data-efficient-gans",
+    "html_url": "https://github.com/n00mkrad/data-efficient-gans",
+    "description": "[NeurIPS 2020] Differentiable Augmentation for Data-Efficient GAN Training",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 1102515,
+      "Cuda": 22934,
+      "Shell": 12320
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 569.55,
+    "S_code": 1111.1,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "findandreplace",
+    "full_name": "n00mkrad/findandreplace",
+    "html_url": "https://github.com/n00mkrad/findandreplace",
+    "description": "[Fork] fnr.exe - Find and Replace (FNR) is an open source tool to find and replace text in multiple files. It can quickly search through large numbers of files and also find the information using regular expressions specifying the form of what you want, instead of literal text.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 311129,
+      "HTML": 6020,
+      "Batchfile": 994
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 237.34,
+    "S_code": 310.69,
+    "S_social": 1,
+    "S_maint": 8
+  },
+  {
+    "name": "clearurls-rules",
+    "full_name": "n00mkrad/clearurls-rules",
+    "html_url": "https://github.com/n00mkrad/clearurls-rules",
+    "description": "Customized ClearURLs rules",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 42.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "CursorCloak-Win",
+    "full_name": "n00mkrad/CursorCloak-Win",
+    "html_url": "https://github.com/n00mkrad/CursorCloak-Win",
+    "description": "Simple standalone Windows executable to show or hide the mouse cursor. May or may not contain Romulan cloaking technology",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 7482,
+      "Batchfile": 791
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 56.04,
+    "S_code": 8.08,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "FFmpeg-Builds",
+    "full_name": "n00mkrad/FFmpeg-Builds",
+    "html_url": "https://github.com/n00mkrad/FFmpeg-Builds",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Shell": 124820,
+      "Dockerfile": 10330,
+      "CMake": 2108
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 109.02,
+    "S_code": 134.04,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "text-generation-webui-fixes",
+    "full_name": "n00mkrad/text-generation-webui-fixes",
+    "html_url": "https://github.com/n00mkrad/text-generation-webui-fixes",
+    "description": "[Forked for PRs] A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 391430,
+      "CSS": 15950,
+      "Dockerfile": 3111,
+      "JavaScript": 1080
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 202.96,
+    "S_code": 401.92,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "moonlight-qt-qiin2333",
+    "full_name": "n00mkrad/moonlight-qt-qiin2333",
+    "html_url": "https://github.com/n00mkrad/moonlight-qt-qiin2333",
+    "description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 1251447,
+      "QML": 183932,
+      "Objective-C++": 71583,
+      "QMake": 28890,
+      "Shell": 22302,
+      "C": 18248,
+      "Batchfile": 12513,
+      "HLSL": 3375,
+      "Metal": 2119,
+      "GLSL": 1488,
+      "PowerShell": 1288,
+      "Objective-C": 586
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 780.16,
+    "S_code": 1560.32,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "text-zip-patcher",
+    "full_name": "n00mkrad/text-zip-patcher",
+    "html_url": "https://github.com/n00mkrad/text-zip-patcher",
+    "description": "Text-based diff generator and patcher for zip archives, originally intended for Minecraft shaders.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 22633
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 41.05,
+    "S_code": 22.1,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "UPSFriendlyNixieTubeDisplay",
+    "full_name": "n00mkrad/UPSFriendlyNixieTubeDisplay",
+    "html_url": "https://github.com/n00mkrad/UPSFriendlyNixieTubeDisplay",
+    "description": "A Factorio mod that adds Nixie tubes to display signal values [fixed]",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Lua": 50853
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 124.83,
+    "S_code": 49.66,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "sdg-files",
+    "full_name": "n00mkrad/sdg-files",
+    "html_url": "https://github.com/n00mkrad/sdg-files",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "libheif-test",
+    "full_name": "n00mkrad/libheif-test",
+    "html_url": "https://github.com/n00mkrad/libheif-test",
+    "description": "libheif is an HEIF and AVIF file format decoder and encoder.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 2500020,
+      "C": 171486,
+      "CMake": 58285,
+      "Go": 50034,
+      "Shell": 43366,
+      "JavaScript": 6472
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1381.67,
+    "S_code": 2763.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "libultrahdr-test1",
+    "full_name": "n00mkrad/libultrahdr-test1",
+    "html_url": "https://github.com/n00mkrad/libultrahdr-test1",
+    "description": "Ultra HDR is a true HDR image format, and is backcompatible.  libultrahdr is the reference codec for the Ultra HDR format.  The codecs that support the format can render the HDR intent of the image on HDR displays;  other codecs can still decode and display the SDR intent of the image.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 779568,
+      "Yacc": 76800,
+      "CMake": 34101,
+      "C": 31435,
+      "Shell": 1033
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 460.65,
+    "S_code": 901.31,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "text2image-gui-basefiles",
+    "full_name": "n00mkrad/text2image-gui-basefiles",
+    "html_url": "https://github.com/n00mkrad/text2image-gui-basefiles",
+    "description": "Base files (libraries & binaries) for text2image-gui",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "Python": 24715874,
+      "Tcl": 4761168,
+      "Perl": 3745860,
+      "Shell": 870690,
+      "C": 665772,
+      "GSC": 137044,
+      "HTML": 79125,
+      "C++": 66753,
+      "Makefile": 63588,
+      "PowerShell": 25513,
+      "Awk": 20925,
+      "AL": 13484,
+      "Batchfile": 8848,
+      "C#": 8440,
+      "Nu": 3265,
+      "Vim Script": 2904,
+      "GLSL": 1936,
+      "F#": 1920,
+      "JavaScript": 888,
+      "Raku": 409,
+      "CSS": 96
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 17282.82,
+    "S_code": 34369.63,
+    "S_social": 4,
+    "S_maint": 9
+  },
+  {
+    "name": "esrgan-python-embedded",
+    "full_name": "n00mkrad/esrgan-python-embedded",
+    "html_url": "https://github.com/n00mkrad/esrgan-python-embedded",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 14.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "diffaug-custom-colab",
+    "full_name": "n00mkrad/diffaug-custom-colab",
+    "html_url": "https://github.com/n00mkrad/diffaug-custom-colab",
+    "description": "Customized Colab Notebook of mit-han-lab/data-efficient-gans",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 12635
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 16.17,
+    "S_code": 12.34,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "hb-icons",
+    "full_name": "n00mkrad/hb-icons",
+    "html_url": "https://github.com/n00mkrad/hb-icons",
+    "description": "A collection of 512px icons for Nintendo Switch homebrew.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  }
+]

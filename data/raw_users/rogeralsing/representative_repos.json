@@ -1,0 +1,1955 @@
+[
+  {
+    "name": "Microphone",
+    "full_name": "rogeralsing/Microphone",
+    "html_url": "https://github.com/rogeralsing/Microphone",
+    "description": null,
+    "stars": 457,
+    "forks": 68,
+    "languages": {
+      "C#": 44833,
+      "F#": 15526,
+      "Batchfile": 125
+    },
+    "contributions_by_user": 201,
+    "contribution_score": 3225.53,
+    "S_code": 59.07,
+    "S_social": 593,
+    "S_maint": 201
+  },
+  {
+    "name": "ProjectExodus",
+    "full_name": "rogeralsing/ProjectExodus",
+    "html_url": "https://github.com/rogeralsing/ProjectExodus",
+    "description": "Transpiler from C# to Kotlin.",
+    "stars": 78,
+    "forks": 16,
+    "languages": {
+      "C#": 96637
+    },
+    "contributions_by_user": 101,
+    "contribution_score": 1277.19,
+    "S_code": 94.37,
+    "S_social": 110,
+    "S_maint": 101
+  },
+  {
+    "name": "gophers",
+    "full_name": "rogeralsing/gophers",
+    "html_url": "https://github.com/rogeralsing/gophers",
+    "description": "random gopher graphics",
+    "stars": 58,
+    "forks": 3,
+    "languages": {},
+    "contributions_by_user": 29,
+    "contribution_score": 418.0,
+    "S_code": 0.0,
+    "S_social": 64,
+    "S_maint": 29
+  },
+  {
+    "name": "go-genetic-math",
+    "full_name": "rogeralsing/go-genetic-math",
+    "html_url": "https://github.com/rogeralsing/go-genetic-math",
+    "description": null,
+    "stars": 39,
+    "forks": 4,
+    "languages": {
+      "Go": 16776
+    },
+    "contributions_by_user": 62,
+    "contribution_score": 722.19,
+    "S_code": 16.38,
+    "S_social": 47,
+    "S_maint": 62
+  },
+  {
+    "name": "Presentations",
+    "full_name": "rogeralsing/Presentations",
+    "html_url": "https://github.com/rogeralsing/Presentations",
+    "description": "My presentations",
+    "stars": 21,
+    "forks": 2,
+    "languages": {
+      "C#": 428149,
+      "Shell": 4255,
+      "Go": 1454,
+      "Batchfile": 173
+    },
+    "contributions_by_user": 182,
+    "contribution_score": 2081.93,
+    "S_code": 423.86,
+    "S_social": 25,
+    "S_maint": 182
+  },
+  {
+    "name": "linq-to-sqlxml",
+    "full_name": "rogeralsing/linq-to-sqlxml",
+    "html_url": "https://github.com/rogeralsing/linq-to-sqlxml",
+    "description": "A document database emulator on top of Microsoft SQL Server XML columns",
+    "stars": 12,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 242990,
+      "C#": 131128,
+      "ASP": 961
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 215.14,
+    "S_code": 366.29,
+    "S_social": 16,
+    "S_maint": 0
+  },
+  {
+    "name": "Precio.Infrastructure",
+    "full_name": "rogeralsing/Precio.Infrastructure",
+    "html_url": "https://github.com/rogeralsing/Precio.Infrastructure",
+    "description": "DDD enabling Infrastructure framework for .NET 4.0",
+    "stars": 11,
+    "forks": 2,
+    "languages": {
+      "JavaScript": 1119573,
+      "C#": 109845,
+      "ASP": 17847,
+      "F#": 955
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 639.48,
+    "S_code": 1218.96,
+    "S_social": 15,
+    "S_maint": 0
+  },
+  {
+    "name": "TypeScript.CQRS",
+    "full_name": "rogeralsing/TypeScript.CQRS",
+    "html_url": "https://github.com/rogeralsing/TypeScript.CQRS",
+    "description": "CQRS experiment using TypeScript",
+    "stars": 10,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 11,
+    "contribution_score": 130.0,
+    "S_code": 0.0,
+    "S_social": 10,
+    "S_maint": 11
+  },
+  {
+    "name": "Beacon",
+    "full_name": "rogeralsing/Beacon",
+    "html_url": "https://github.com/rogeralsing/Beacon",
+    "description": "HTTP Service Discovery",
+    "stars": 5,
+    "forks": 4,
+    "languages": {
+      "C#": 34493,
+      "HTML": 3354
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 184.48,
+    "S_code": 36.96,
+    "S_social": 13,
+    "S_maint": 14
+  },
+  {
+    "name": "EfRest",
+    "full_name": "rogeralsing/EfRest",
+    "html_url": "https://github.com/rogeralsing/EfRest",
+    "description": "Entity Framework extensions to enable Resource projections",
+    "stars": 5,
+    "forks": 2,
+    "languages": {
+      "C#": 20028
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 57.78,
+    "S_code": 19.56,
+    "S_social": 9,
+    "S_maint": 3
+  },
+  {
+    "name": "PlasticLang",
+    "full_name": "rogeralsing/PlasticLang",
+    "html_url": "https://github.com/rogeralsing/PlasticLang",
+    "description": null,
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "C#": 53698
+    },
+    "contributions_by_user": 171,
+    "contribution_score": 1748.22,
+    "S_code": 52.44,
+    "S_social": 6,
+    "S_maint": 171
+  },
+  {
+    "name": "alsing",
+    "full_name": "rogeralsing/alsing",
+    "html_url": "https://github.com/rogeralsing/alsing",
+    "description": "Automatically exported from code.google.com/p/alsing",
+    "stars": 4,
+    "forks": 4,
+    "languages": {
+      "C#": 3738944,
+      "XSLT": 12579,
+      "ASP": 10080,
+      "CSS": 4654
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 1912.99,
+    "S_code": 3677.99,
+    "S_social": 12,
+    "S_maint": 5
+  },
+  {
+    "name": "protoactor-dotnet",
+    "full_name": "rogeralsing/protoactor-dotnet",
+    "html_url": "https://github.com/rogeralsing/protoactor-dotnet",
+    "description": "Proto Actor - Ultra fast distributed actors for Golang and C#",
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "C#": 404979,
+      "PowerShell": 6109,
+      "Shell": 2945,
+      "Protocol Buffer": 1682,
+      "Batchfile": 897
+    },
+    "contributions_by_user": 171,
+    "contribution_score": 1929.42,
+    "S_code": 406.85,
+    "S_social": 8,
+    "S_maint": 171
+  },
+  {
+    "name": "OrleansWireSerializer",
+    "full_name": "rogeralsing/OrleansWireSerializer",
+    "html_url": "https://github.com/rogeralsing/OrleansWireSerializer",
+    "description": "Wire serializer adapter for Project Orleans",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "C#": 7027
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 65.43,
+    "S_code": 6.86,
+    "S_social": 6,
+    "S_maint": 5
+  },
+  {
+    "name": "AkkaFsMud",
+    "full_name": "rogeralsing/AkkaFsMud",
+    "html_url": "https://github.com/rogeralsing/AkkaFsMud",
+    "description": null,
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "F#": 26756
+    },
+    "contributions_by_user": 50,
+    "contribution_score": 523.06,
+    "S_code": 26.13,
+    "S_social": 5,
+    "S_maint": 50
+  },
+  {
+    "name": "ansiart",
+    "full_name": "rogeralsing/ansiart",
+    "html_url": "https://github.com/rogeralsing/ansiart",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "C#": 19279
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 53.41,
+    "S_code": 18.83,
+    "S_social": 2,
+    "S_maint": 4
+  },
+  {
+    "name": "Womboot-UI",
+    "full_name": "rogeralsing/Womboot-UI",
+    "html_url": "https://github.com/rogeralsing/Womboot-UI",
+    "description": "Wombit's Bootstrap based components for AngularJS",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 10680,
+      "TypeScript": 9690
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 27.95,
+    "S_code": 19.89,
+    "S_social": 4,
+    "S_maint": 1
+  },
+  {
+    "name": "test123",
+    "full_name": "rogeralsing/test123",
+    "html_url": "https://github.com/rogeralsing/test123",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 42.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "MudBlazor",
+    "full_name": "rogeralsing/MudBlazor",
+    "html_url": "https://github.com/rogeralsing/MudBlazor",
+    "description": "Blazor Component Library based on Material design. The goal is to do more with Blazor, utilizing CSS and keeping Javascript to a bare minimum.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 6834615,
+      "HTML": 1630978,
+      "SCSS": 303284,
+      "JavaScript": 60955,
+      "PowerShell": 7371
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4317.04,
+    "S_code": 8630.08,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "WebsocketExperiments",
+    "full_name": "rogeralsing/WebsocketExperiments",
+    "html_url": "https://github.com/rogeralsing/WebsocketExperiments",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 13649
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 68.66,
+    "S_code": 13.33,
+    "S_social": 1,
+    "S_maint": 6
+  },
+  {
+    "name": "Flex",
+    "full_name": "rogeralsing/Flex",
+    "html_url": "https://github.com/rogeralsing/Flex",
+    "description": "Serializer Experiments",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C#": 67219
+    },
+    "contributions_by_user": 44,
+    "contribution_score": 478.82,
+    "S_code": 65.64,
+    "S_social": 3,
+    "S_maint": 44
+  },
+  {
+    "name": "Starcounter.Reactive.Example",
+    "full_name": "rogeralsing/Starcounter.Reactive.Example",
+    "html_url": "https://github.com/rogeralsing/Starcounter.Reactive.Example",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 5391,
+      "HTML": 147
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 24.7,
+    "S_code": 5.41,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "DistributedDesignPatterns",
+    "full_name": "rogeralsing/DistributedDesignPatterns",
+    "html_url": "https://github.com/rogeralsing/DistributedDesignPatterns",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 18,
+    "contribution_score": 186.0,
+    "S_code": 0.0,
+    "S_social": 3,
+    "S_maint": 18
+  },
+  {
+    "name": "ubuntu-dev",
+    "full_name": "rogeralsing/ubuntu-dev",
+    "html_url": "https://github.com/rogeralsing/ubuntu-dev",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Shell": 2154
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 173.05,
+    "S_code": 2.1,
+    "S_social": 1,
+    "S_maint": 17
+  },
+  {
+    "name": "NSweep",
+    "full_name": "rogeralsing/NSweep",
+    "html_url": "https://github.com/rogeralsing/NSweep",
+    "description": null,
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "C#": 13157
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.42,
+    "S_code": 12.85,
+    "S_social": 5,
+    "S_maint": 0
+  },
+  {
+    "name": "Asynkron.JsEngine",
+    "full_name": "rogeralsing/Asynkron.JsEngine",
+    "html_url": "https://github.com/rogeralsing/Asynkron.JsEngine",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 17169890,
+      "JavaScript": 4555973,
+      "Shell": 14686,
+      "Python": 3804
+    },
+    "contributions_by_user": 1285,
+    "contribution_score": 23467.36,
+    "S_code": 21234.72,
+    "S_social": 0,
+    "S_maint": 1285
+  },
+  {
+    "name": "Asynkron.Profiler",
+    "full_name": "rogeralsing/Asynkron.Profiler",
+    "html_url": "https://github.com/rogeralsing/Asynkron.Profiler",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 72638
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 165.47,
+    "S_code": 70.94,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "Asynkron.OTelMCP",
+    "full_name": "rogeralsing/Asynkron.OTelMCP",
+    "html_url": "https://github.com/rogeralsing/Asynkron.OTelMCP",
+    "description": "An Otel server with MCP query support",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 284524,
+      "Dockerfile": 464
+    },
+    "contributions_by_user": 91,
+    "contribution_score": 1049.15,
+    "S_code": 278.31,
+    "S_social": 0,
+    "S_maint": 91
+  },
+  {
+    "name": "3DCanvas",
+    "full_name": "rogeralsing/3DCanvas",
+    "html_url": "https://github.com/rogeralsing/3DCanvas",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 290873,
+      "HTML": 503,
+      "CSS": 87
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 306.32,
+    "S_code": 284.63,
+    "S_social": 2,
+    "S_maint": 16
+  },
+  {
+    "name": "Asynkron.DurableFunctions.Public",
+    "full_name": "rogeralsing/Asynkron.DurableFunctions.Public",
+    "html_url": "https://github.com/rogeralsing/Asynkron.DurableFunctions.Public",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 83112
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 200.58,
+    "S_code": 81.16,
+    "S_social": 0,
+    "S_maint": 16
+  },
+  {
+    "name": "Asynkron.Jsome",
+    "full_name": "rogeralsing/Asynkron.Jsome",
+    "html_url": "https://github.com/rogeralsing/Asynkron.Jsome",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 363230,
+      "Handlebars": 12042,
+      "Shell": 3785
+    },
+    "contributions_by_user": 60,
+    "contribution_score": 785.09,
+    "S_code": 370.17,
+    "S_social": 0,
+    "S_maint": 60
+  },
+  {
+    "name": "LocalTelemetry",
+    "full_name": "rogeralsing/LocalTelemetry",
+    "html_url": "https://github.com/rogeralsing/LocalTelemetry",
+    "description": "Local dashboards for telemetry collection.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "adhd-screening",
+    "full_name": "rogeralsing/adhd-screening",
+    "html_url": "https://github.com/rogeralsing/adhd-screening",
+    "description": "vibe coded adhd screening tests",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 45066
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 202.0,
+    "S_code": 44.01,
+    "S_social": 0,
+    "S_maint": 18
+  },
+  {
+    "name": "BufferingIO",
+    "full_name": "rogeralsing/BufferingIO",
+    "html_url": "https://github.com/rogeralsing/BufferingIO",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 7730
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 53.77,
+    "S_code": 7.55,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "MQTTnet",
+    "full_name": "rogeralsing/MQTTnet",
+    "html_url": "https://github.com/rogeralsing/MQTTnet",
+    "description": "MQTTnet is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 1491527,
+      "C": 1329,
+      "HTML": 1116
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 729.48,
+    "S_code": 1458.96,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "okotel",
+    "full_name": "rogeralsing/okotel",
+    "html_url": "https://github.com/rogeralsing/okotel",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 40.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "game-character-assets",
+    "full_name": "rogeralsing/game-character-assets",
+    "html_url": "https://github.com/rogeralsing/game-character-assets",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "OKWorkshop",
+    "full_name": "rogeralsing/OKWorkshop",
+    "html_url": "https://github.com/rogeralsing/OKWorkshop",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 72455,
+      "Shell": 25
+    },
+    "contributions_by_user": 26,
+    "contribution_score": 295.39,
+    "S_code": 70.78,
+    "S_social": 0,
+    "S_maint": 26
+  },
+  {
+    "name": "apglib",
+    "full_name": "rogeralsing/apglib",
+    "html_url": "https://github.com/rogeralsing/apglib",
+    "description": "My source code backup for my library at EPG",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "COBOL": 6087995,
+      "C": 154167,
+      "Batchfile": 24819,
+      "CLIPS": 1218
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3060.64,
+    "S_code": 6121.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "alexballex",
+    "full_name": "rogeralsing/alexballex",
+    "html_url": "https://github.com/rogeralsing/alexballex",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "godummy",
+    "full_name": "rogeralsing/godummy",
+    "html_url": "https://github.com/rogeralsing/godummy",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "orleans-on-container-apps",
+    "full_name": "rogeralsing/orleans-on-container-apps",
+    "html_url": "https://github.com/rogeralsing/orleans-on-container-apps",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 31399,
+      "HTML": 24250,
+      "CSS": 3277,
+      "Dockerfile": 883
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 29.2,
+    "S_code": 58.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "aspnetcore",
+    "full_name": "rogeralsing/aspnetcore",
+    "html_url": "https://github.com/rogeralsing/aspnetcore",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 50248512,
+      "JavaScript": 2571652,
+      "C++": 1666095,
+      "HTML": 1259281,
+      "TypeScript": 905799,
+      "Java": 505741,
+      "PowerShell": 278660,
+      "C": 221011,
+      "Shell": 183422,
+      "CSS": 71994,
+      "Batchfile": 22658,
+      "Python": 19476,
+      "CMake": 11076,
+      "F#": 6235,
+      "Roff": 6044,
+      "Lua": 4904,
+      "Dockerfile": 2782,
+      "Makefile": 220,
+      "ASP.NET": 109,
+      "Less": 12,
+      "SCSS": 12,
+      "Smalltalk": 3
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 28313.33,
+    "S_code": 56626.66,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "wslag-profiling",
+    "full_name": "rogeralsing/wslag-profiling",
+    "html_url": "https://github.com/rogeralsing/wslag-profiling",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "abcdef",
+    "full_name": "rogeralsing/abcdef",
+    "html_url": "https://github.com/rogeralsing/abcdef",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "serilog-sinks-grafana-loki",
+    "full_name": "rogeralsing/serilog-sinks-grafana-loki",
+    "html_url": "https://github.com/rogeralsing/serilog-sinks-grafana-loki",
+    "description": "A Serilog sink sending log events to Grafana Loki",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 95164,
+      "Shell": 72,
+      "PowerShell": 68,
+      "Batchfile": 41
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 46.56,
+    "S_code": 93.11,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "SmartChart",
+    "full_name": "rogeralsing/SmartChart",
+    "html_url": "https://github.com/rogeralsing/SmartChart",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 5939
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 82.9,
+    "S_code": 5.8,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "SourceGeneratorWtf",
+    "full_name": "rogeralsing/SourceGeneratorWtf",
+    "html_url": "https://github.com/rogeralsing/SourceGeneratorWtf",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 10902
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 65.32,
+    "S_code": 10.65,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "Schema.NET",
+    "full_name": "rogeralsing/Schema.NET",
+    "html_url": "https://github.com/rogeralsing/Schema.NET",
+    "description": "Schema.org objects turned into strongly typed C# POCO classes for use in .NET. All classes can be serialized into JSON/JSON-LD and XML, typically used to represent structured data in the head section of html page.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 516209
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 252.06,
+    "S_code": 504.11,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "openfaasplayground",
+    "full_name": "rogeralsing/openfaasplayground",
+    "html_url": "https://github.com/rogeralsing/openfaasplayground",
+    "description": "..",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Dockerfile": 1857,
+      "Shell": 1289,
+      "C#": 783
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 221.92,
+    "S_code": 3.84,
+    "S_social": 0,
+    "S_maint": 22
+  },
+  {
+    "name": "CSharp2Go",
+    "full_name": "rogeralsing/CSharp2Go",
+    "html_url": "https://github.com/rogeralsing/CSharp2Go",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 74491
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 56.37,
+    "S_code": 72.75,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "Proto.Streams",
+    "full_name": "rogeralsing/Proto.Streams",
+    "html_url": "https://github.com/rogeralsing/Proto.Streams",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 2503312
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 1242.32,
+    "S_code": 2444.64,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "com.docker.devenvironments.code",
+    "full_name": "rogeralsing/com.docker.devenvironments.code",
+    "html_url": "https://github.com/rogeralsing/com.docker.devenvironments.code",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 23
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.01,
+    "S_code": 0.02,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "AspNetCoreDiagnosticScenarios",
+    "full_name": "rogeralsing/AspNetCoreDiagnosticScenarios",
+    "html_url": "https://github.com/rogeralsing/AspNetCoreDiagnosticScenarios",
+    "description": "This repository has examples of broken patterns in ASP.NET Core applications",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 53869,
+      "HTML": 3084
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 27.81,
+    "S_code": 55.62,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rogeralsing",
+    "full_name": "rogeralsing/rogeralsing",
+    "html_url": "https://github.com/rogeralsing/rogeralsing",
+    "description": "Wooho",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 25,
+    "contribution_score": 250.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 25
+  },
+  {
+    "name": "learning-python",
+    "full_name": "rogeralsing/learning-python",
+    "html_url": "https://github.com/rogeralsing/learning-python",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 7442
+    },
+    "contributions_by_user": 51,
+    "contribution_score": 513.63,
+    "S_code": 7.27,
+    "S_social": 0,
+    "S_maint": 51
+  },
+  {
+    "name": "metrics",
+    "full_name": "rogeralsing/metrics",
+    "html_url": "https://github.com/rogeralsing/metrics",
+    "description": "Metrics abstraction library",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 47178
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 33.04,
+    "S_code": 46.07,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "Rocks",
+    "full_name": "rogeralsing/Rocks",
+    "html_url": "https://github.com/rogeralsing/Rocks",
+    "description": "A mocking library based on the Compiler APIs (Roslyn + Mocks)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 776546,
+      "Shell": 65,
+      "Batchfile": 63
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 379.24,
+    "S_code": 758.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "spectre.console",
+    "full_name": "rogeralsing/spectre.console",
+    "html_url": "https://github.com/rogeralsing/spectre.console",
+    "description": "A library that makes it easier to create beautiful console applications.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 1072575,
+      "PowerShell": 1781
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 524.59,
+    "S_code": 1049.18,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "FastAccessors",
+    "full_name": "rogeralsing/FastAccessors",
+    "html_url": "https://github.com/rogeralsing/FastAccessors",
+    "description": "Fast Accessors for .Net",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 25791
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.59,
+    "S_code": 25.19,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "RangeJS",
+    "full_name": "rogeralsing/RangeJS",
+    "html_url": "https://github.com/rogeralsing/RangeJS",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 2693,
+      "TypeScript": 2535
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 146.55,
+    "S_code": 5.11,
+    "S_social": 2,
+    "S_maint": 14
+  },
+  {
+    "name": "Gedcoms",
+    "full_name": "rogeralsing/Gedcoms",
+    "html_url": "https://github.com/rogeralsing/Gedcoms",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 3,
+    "contribution_score": 30.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "FrontPrompt",
+    "full_name": "rogeralsing/FrontPrompt",
+    "html_url": "https://github.com/rogeralsing/FrontPrompt",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "scooters",
+    "full_name": "rogeralsing/scooters",
+    "html_url": "https://github.com/rogeralsing/scooters",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Kotlin": 6520
+    },
+    "contributions_by_user": 35,
+    "contribution_score": 353.18,
+    "S_code": 6.37,
+    "S_social": 0,
+    "S_maint": 35
+  },
+  {
+    "name": "intellijsettings2",
+    "full_name": "rogeralsing/intellijsettings2",
+    "html_url": "https://github.com/rogeralsing/intellijsettings2",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "protobuf",
+    "full_name": "rogeralsing/protobuf",
+    "html_url": "https://github.com/rogeralsing/protobuf",
+    "description": "Protocol Buffers for Go with Gadgets",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 1436150,
+      "Protocol Buffer": 648275,
+      "Makefile": 93899,
+      "Shell": 647
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1063.95,
+    "S_code": 2127.9,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ElixirChat",
+    "full_name": "rogeralsing/ElixirChat",
+    "html_url": "https://github.com/rogeralsing/ElixirChat",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Elixir": 7771,
+      "Batchfile": 60
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 173.82,
+    "S_code": 7.65,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "protoactor-go",
+    "full_name": "rogeralsing/protoactor-go",
+    "html_url": "https://github.com/rogeralsing/protoactor-go",
+    "description": "Proto Actor - Ultra fast distributed actors for Golang and C#",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 277123,
+      "Protocol Buffer": 1948,
+      "Makefile": 889,
+      "Batchfile": 679
+    },
+    "contributions_by_user": 687,
+    "contribution_score": 7007.03,
+    "S_code": 274.06,
+    "S_social": 0,
+    "S_maint": 687
+  },
+  {
+    "name": "ActorBenchmarks",
+    "full_name": "rogeralsing/ActorBenchmarks",
+    "html_url": "https://github.com/rogeralsing/ActorBenchmarks",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 59277,
+      "Scala": 4266
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 31.03,
+    "S_code": 62.05,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "labb2",
+    "full_name": "rogeralsing/labb2",
+    "html_url": "https://github.com/rogeralsing/labb2",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 6,
+    "contribution_score": 60.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "Better",
+    "full_name": "rogeralsing/Better",
+    "html_url": "https://github.com/rogeralsing/Better",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 2014
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.98,
+    "S_code": 1.97,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "zipkin.net",
+    "full_name": "rogeralsing/zipkin.net",
+    "html_url": "https://github.com/rogeralsing/zipkin.net",
+    "description": "A .net client for zipkin",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 137447
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 67.11,
+    "S_code": 134.23,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "intellijsettings",
+    "full_name": "rogeralsing/intellijsettings",
+    "html_url": "https://github.com/rogeralsing/intellijsettings",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 16,
+    "contribution_score": 160.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 16
+  },
+  {
+    "name": "ConsulCluster",
+    "full_name": "rogeralsing/ConsulCluster",
+    "html_url": "https://github.com/rogeralsing/ConsulCluster",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 8617,
+      "Batchfile": 136
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 124.27,
+    "S_code": 8.55,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "GrpcDemoCSharp",
+    "full_name": "rogeralsing/GrpcDemoCSharp",
+    "html_url": "https://github.com/rogeralsing/GrpcDemoCSharp",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PowerShell": 98818,
+      "C#": 31671,
+      "Protocol Buffer": 1987,
+      "Batchfile": 274
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 104.82,
+    "S_code": 129.64,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "godefault",
+    "full_name": "rogeralsing/godefault",
+    "html_url": "https://github.com/rogeralsing/godefault",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 237
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.12,
+    "S_code": 0.23,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "ElasticTraceLogging",
+    "full_name": "rogeralsing/ElasticTraceLogging",
+    "html_url": "https://github.com/rogeralsing/ElasticTraceLogging",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 8603
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 64.2,
+    "S_code": 8.4,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "orleans",
+    "full_name": "rogeralsing/orleans",
+    "html_url": "https://github.com/rogeralsing/orleans",
+    "description": "Orleans - Distributed Virtual Actor Model",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 6143761,
+      "HTML": 234868,
+      "PowerShell": 143849,
+      "Visual Basic": 25531,
+      "PLpgSQL": 19051,
+      "Batchfile": 17037,
+      "F#": 3772,
+      "Protocol Buffer": 1683,
+      "Smalltalk": 1584,
+      "Groovy": 902,
+      "GLSL": 74
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3218.8,
+    "S_code": 6437.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rogeralsing.github.io",
+    "full_name": "rogeralsing/rogeralsing.github.io",
+    "html_url": "https://github.com/rogeralsing/rogeralsing.github.io",
+    "description": "My Pages",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 40476453,
+      "JavaScript": 3450943,
+      "CSS": 1526684,
+      "ASP": 8080,
+      "PHP": 5957
+    },
+    "contributions_by_user": 21,
+    "contribution_score": 22411.23,
+    "S_code": 44402.46,
+    "S_social": 0,
+    "S_maint": 21
+  },
+  {
+    "name": "test",
+    "full_name": "rogeralsing/test",
+    "html_url": "https://github.com/rogeralsing/test",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 10740,
+      "HTML": 4480,
+      "JavaScript": 48
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 17.46,
+    "S_code": 14.91,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "Typescript3d",
+    "full_name": "rogeralsing/Typescript3d",
+    "html_url": "https://github.com/rogeralsing/Typescript3d",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "Linq2Couchbase",
+    "full_name": "rogeralsing/Linq2Couchbase",
+    "html_url": "https://github.com/rogeralsing/Linq2Couchbase",
+    "description": "A Language Integrated Query (LINQ) provider for the Couchbase .NET SDK",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 783574
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 386.6,
+    "S_code": 765.21,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "aspnetcoredemo",
+    "full_name": "rogeralsing/aspnetcoredemo",
+    "html_url": "https://github.com/rogeralsing/aspnetcoredemo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 6818,
+      "C#": 4072
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 45.32,
+    "S_code": 10.63,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "ServiceDiscovery",
+    "full_name": "rogeralsing/ServiceDiscovery",
+    "html_url": "https://github.com/rogeralsing/ServiceDiscovery",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 13,
+    "contribution_score": 130.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "hellonsq",
+    "full_name": "rogeralsing/hellonsq",
+    "html_url": "https://github.com/rogeralsing/hellonsq",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 770
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 40.38,
+    "S_code": 0.75,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "hellorpc",
+    "full_name": "rogeralsing/hellorpc",
+    "html_url": "https://github.com/rogeralsing/hellorpc",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 2727,
+      "Protocol Buffer": 877,
+      "Shell": 874
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 102.19,
+    "S_code": 4.37,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "DockerWiki",
+    "full_name": "rogeralsing/DockerWiki",
+    "html_url": "https://github.com/rogeralsing/DockerWiki",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hocon",
+    "full_name": "rogeralsing/hocon",
+    "html_url": "https://github.com/rogeralsing/hocon",
+    "description": "C# implementation of Typesafe's HOCON (Human-Optimized Object Configuration Notation)",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 158884,
+      "F#": 9798,
+      "Batchfile": 141
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 246.43,
+    "S_code": 164.87,
+    "S_social": 2,
+    "S_maint": 16
+  },
+  {
+    "name": "AzureWiki",
+    "full_name": "rogeralsing/AzureWiki",
+    "html_url": "https://github.com/rogeralsing/AzureWiki",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "CodeSearchTree",
+    "full_name": "rogeralsing/CodeSearchTree",
+    "html_url": "https://github.com/rogeralsing/CodeSearchTree",
+    "description": "Simple Roslyn based code analysis library.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 92979
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 49.4,
+    "S_code": 90.8,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "Puzzle.NET",
+    "full_name": "rogeralsing/Puzzle.NET",
+    "html_url": "https://github.com/rogeralsing/Puzzle.NET",
+    "description": "DOL Puzzle.NET",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Visual Basic": 2935028,
+      "C#": 2597283
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2701.32,
+    "S_code": 5402.65,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "KestrelHttpServer",
+    "full_name": "rogeralsing/KestrelHttpServer",
+    "html_url": "https://github.com/rogeralsing/KestrelHttpServer",
+    "description": "A web server for ASP.NET 5 based on libuv.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 749373,
+      "Batchfile": 1521,
+      "Shell": 1199
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 367.23,
+    "S_code": 734.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Akka.ServiceFabric.Seed",
+    "full_name": "rogeralsing/Akka.ServiceFabric.Seed",
+    "html_url": "https://github.com/rogeralsing/Akka.ServiceFabric.Seed",
+    "description": "Akka.NET seed node bootstrapper using Azure Service Fabric",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "C#": 12479
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 24.09,
+    "S_code": 12.19,
+    "S_social": 4,
+    "S_maint": 1
+  },
+  {
+    "name": "DotNetty",
+    "full_name": "rogeralsing/DotNetty",
+    "html_url": "https://github.com/rogeralsing/DotNetty",
+    "description": "DotNetty project – a port of netty, event-driven asynchronous network application framework",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 706917
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 345.17,
+    "S_code": 690.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "consuldotnet",
+    "full_name": "rogeralsing/consuldotnet",
+    "html_url": "https://github.com/rogeralsing/consuldotnet",
+    "description": ".NET API for Consul (http://www.consul.io/)",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 298759
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 149.88,
+    "S_code": 291.76,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "SlackMud",
+    "full_name": "rogeralsing/SlackMud",
+    "html_url": "https://github.com/rogeralsing/SlackMud",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 32447
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 219.84,
+    "S_code": 31.69,
+    "S_social": 2,
+    "S_maint": 20
+  },
+  {
+    "name": "KonferensWorkshop",
+    "full_name": "rogeralsing/KonferensWorkshop",
+    "html_url": "https://github.com/rogeralsing/KonferensWorkshop",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 17917
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 168.75,
+    "S_code": 17.5,
+    "S_social": 0,
+    "S_maint": 16
+  },
+  {
+    "name": "Thinny",
+    "full_name": "rogeralsing/Thinny",
+    "html_url": "https://github.com/rogeralsing/Thinny",
+    "description": "A beautiful and responsive theme for Jekyll.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 15335,
+      "CSS": 12853,
+      "JavaScript": 6219,
+      "Ruby": 132
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.86,
+    "S_code": 33.73,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Migrant",
+    "full_name": "rogeralsing/Migrant",
+    "html_url": "https://github.com/rogeralsing/Migrant",
+    "description": "Fast and flexible serialization framework usable on undecorated classes.",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "C#": 507177,
+      "Shell": 533
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 255.91,
+    "S_code": 495.81,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "SpracheHocon",
+    "full_name": "rogeralsing/SpracheHocon",
+    "html_url": "https://github.com/rogeralsing/SpracheHocon",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 10346
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 79.05,
+    "S_code": 10.1,
+    "S_social": 2,
+    "S_maint": 7
+  },
+  {
+    "name": "Newtonsoft.Json",
+    "full_name": "rogeralsing/Newtonsoft.Json",
+    "html_url": "https://github.com/rogeralsing/Newtonsoft.Json",
+    "description": "Json.NET is a popular high-performance JSON framework for .NET",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 4337093,
+      "PowerShell": 73119,
+      "Batchfile": 587
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2157.71,
+    "S_code": 4307.42,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "Akka.Persistence.ServiceFabric",
+    "full_name": "rogeralsing/Akka.Persistence.ServiceFabric",
+    "html_url": "https://github.com/rogeralsing/Akka.Persistence.ServiceFabric",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 51232,
+      "PowerShell": 13910
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 45.81,
+    "S_code": 63.62,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "voat",
+    "full_name": "rogeralsing/voat",
+    "html_url": "https://github.com/rogeralsing/voat",
+    "description": "The code that powers Voat",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 1214059,
+      "CSS": 388917,
+      "JavaScript": 293494,
+      "ASP": 95
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 930.06,
+    "S_code": 1852.11,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "TaxiDemo",
+    "full_name": "rogeralsing/TaxiDemo",
+    "html_url": "https://github.com/rogeralsing/TaxiDemo",
+    "description": "Braindays demo",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 154609,
+      "C#": 34913,
+      "Protocol Buffer": 26821,
+      "TypeScript": 11740,
+      "ASP": 106
+    },
+    "contributions_by_user": 39,
+    "contribution_score": 501.42,
+    "S_code": 222.84,
+    "S_social": 0,
+    "S_maint": 39
+  },
+  {
+    "name": "Public",
+    "full_name": "rogeralsing/Public",
+    "html_url": "https://github.com/rogeralsing/Public",
+    "description": "abc",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 224
+    },
+    "contributions_by_user": 37,
+    "contribution_score": 370.11,
+    "S_code": 0.22,
+    "S_social": 0,
+    "S_maint": 37
+  },
+  {
+    "name": "DedicatedThreadPool",
+    "full_name": "rogeralsing/DedicatedThreadPool",
+    "html_url": "https://github.com/rogeralsing/DedicatedThreadPool",
+    "description": "An instanced, dedicated ThreadPool for eliminating \"noisy neighbor\" problems on the CLR ThreadPool",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 50302
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 28.56,
+    "S_code": 49.12,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "qi4n",
+    "full_name": "rogeralsing/qi4n",
+    "html_url": "https://github.com/rogeralsing/qi4n",
+    "description": "Port of Qi4J to .NET",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 304256
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 172.56,
+    "S_code": 297.12,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "EntityFramework",
+    "full_name": "rogeralsing/EntityFramework",
+    "html_url": "https://github.com/rogeralsing/EntityFramework",
+    "description": "Microsoft's recommended data access technology for new applications in .NET.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 7239893,
+      "PowerShell": 21647,
+      "Shell": 1961
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3546.63,
+    "S_code": 7093.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "StaticPage",
+    "full_name": "rogeralsing/StaticPage",
+    "html_url": "https://github.com/rogeralsing/StaticPage",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 35591
+    },
+    "contributions_by_user": 53,
+    "contribution_score": 547.38,
+    "S_code": 34.76,
+    "S_social": 0,
+    "S_maint": 53
+  },
+  {
+    "name": "Nethouse",
+    "full_name": "rogeralsing/Nethouse",
+    "html_url": "https://github.com/rogeralsing/Nethouse",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "C#": 8891
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 58.34,
+    "S_code": 8.68,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "highlight.js",
+    "full_name": "rogeralsing/highlight.js",
+    "html_url": "https://github.com/rogeralsing/highlight.js",
+    "description": "Javascript syntax highlighter",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 267679,
+      "CSS": 88577,
+      "Python": 7771
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 177.75,
+    "S_code": 355.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "toc",
+    "full_name": "rogeralsing/toc",
+    "html_url": "https://github.com/rogeralsing/toc",
+    "description": "jQuery Table of Contents Plugin",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 18700
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 39.13,
+    "S_code": 18.26,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "akka",
+    "full_name": "rogeralsing/akka",
+    "html_url": "https://github.com/rogeralsing/akka",
+    "description": "Akka Project",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "AngularCQRS",
+    "full_name": "rogeralsing/AngularCQRS",
+    "html_url": "https://github.com/rogeralsing/AngularCQRS",
+    "description": "Example showing how to pass commands from AngularJS to the write-side of CQRS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 10,
+    "contribution_score": 100.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "AutoMapper",
+    "full_name": "rogeralsing/AutoMapper",
+    "html_url": "https://github.com/rogeralsing/AutoMapper",
+    "description": "A convention-based object-object mapper in .NET. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 1017774,
+      "PowerShell": 11341,
+      "XSLT": 10095,
+      "Shell": 244
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 537.55,
+    "S_code": 1015.09,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "bootstrap-social-buttons",
+    "full_name": "rogeralsing/bootstrap-social-buttons",
+    "html_url": "https://github.com/rogeralsing/bootstrap-social-buttons",
+    "description": "Social media button styles for Twitter Bootstrap",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 53484
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 46.12,
+    "S_code": 52.23,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "js-deflate",
+    "full_name": "rogeralsing/js-deflate",
+    "html_url": "https://github.com/rogeralsing/js-deflate",
+    "description": "RFC 1951 raw deflate/inflate for JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

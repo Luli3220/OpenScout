@@ -1,0 +1,6118 @@
+[
+  {
+    "name": "chestnut",
+    "full_name": "plexus/chestnut",
+    "html_url": "https://github.com/plexus/chestnut",
+    "description": "Application template for Clojure + ClojureScript web apps",
+    "stars": 1310,
+    "forks": 94,
+    "languages": {
+      "Clojure": 44924,
+      "Shell": 592,
+      "HTML": 410,
+      "Emacs Lisp": 201,
+      "CSS": 128
+    },
+    "contributions_by_user": 329,
+    "contribution_score": 6308.59,
+    "S_code": 45.17,
+    "S_social": 1498,
+    "S_maint": 329
+  },
+  {
+    "name": "chemacs2",
+    "full_name": "plexus/chemacs2",
+    "html_url": "https://github.com/plexus/chemacs2",
+    "description": "Emacs version switcher, improved",
+    "stars": 853,
+    "forks": 51,
+    "languages": {
+      "Emacs Lisp": 9380
+    },
+    "contributions_by_user": 64,
+    "contribution_score": 2554.58,
+    "S_code": 9.16,
+    "S_social": 955,
+    "S_maint": 64
+  },
+  {
+    "name": "chemacs",
+    "full_name": "plexus/chemacs",
+    "html_url": "https://github.com/plexus/chemacs",
+    "description": "Emacs profile switcher",
+    "stars": 660,
+    "forks": 44,
+    "languages": {
+      "Emacs Lisp": 7087,
+      "PowerShell": 1861,
+      "Shell": 1086
+    },
+    "contributions_by_user": 31,
+    "contribution_score": 1810.9,
+    "S_code": 9.8,
+    "S_social": 748,
+    "S_maint": 31
+  },
+  {
+    "name": "yaks",
+    "full_name": "plexus/yaks",
+    "html_url": "https://github.com/plexus/yaks",
+    "description": "Ruby library for building hypermedia APIs",
+    "stars": 236,
+    "forks": 24,
+    "languages": {
+      "Ruby": 267964,
+      "HTML": 3672
+    },
+    "contributions_by_user": 518,
+    "contribution_score": 5880.63,
+    "S_code": 265.27,
+    "S_social": 284,
+    "S_maint": 518
+  },
+  {
+    "name": "a.el",
+    "full_name": "plexus/a.el",
+    "html_url": "https://github.com/plexus/a.el",
+    "description": "Emacs Lisp functions for dealing with association lists and hash tables. Inspired by Clojure.",
+    "stars": 94,
+    "forks": 10,
+    "languages": {
+      "Emacs Lisp": 21392
+    },
+    "contributions_by_user": 37,
+    "contribution_score": 608.45,
+    "S_code": 20.89,
+    "S_social": 114,
+    "S_maint": 37
+  },
+  {
+    "name": "html-to-hiccup",
+    "full_name": "plexus/html-to-hiccup",
+    "html_url": "https://github.com/plexus/html-to-hiccup",
+    "description": "Emacs package that turns HTML into Hiccup syntax",
+    "stars": 75,
+    "forks": 12,
+    "languages": {
+      "Emacs Lisp": 12637
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 364.17,
+    "S_code": 12.34,
+    "S_social": 99,
+    "S_maint": 16
+  },
+  {
+    "name": "hexp",
+    "full_name": "plexus/hexp",
+    "html_url": "https://github.com/plexus/hexp",
+    "description": "Ruby virtual DOM for HTML",
+    "stars": 56,
+    "forks": 3,
+    "languages": {
+      "Ruby": 117716
+    },
+    "contributions_by_user": 181,
+    "contribution_score": 1991.48,
+    "S_code": 114.96,
+    "S_social": 62,
+    "S_maint": 181
+  },
+  {
+    "name": "ting",
+    "full_name": "plexus/ting",
+    "html_url": "https://github.com/plexus/ting",
+    "description": "Parse/Generate pinyin, bopomofo, wade-giles and more using Ruby",
+    "stars": 50,
+    "forks": 3,
+    "languages": {
+      "Ruby": 46283
+    },
+    "contributions_by_user": 56,
+    "contribution_score": 694.6,
+    "S_code": 45.2,
+    "S_social": 56,
+    "S_maint": 56
+  },
+  {
+    "name": "typecheck",
+    "full_name": "plexus/typecheck",
+    "html_url": "https://github.com/plexus/typecheck",
+    "description": null,
+    "stars": 45,
+    "forks": 0,
+    "languages": {
+      "Ruby": 9040
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 214.41,
+    "S_code": 8.83,
+    "S_social": 45,
+    "S_maint": 12
+  },
+  {
+    "name": "chruby.el",
+    "full_name": "plexus/chruby.el",
+    "html_url": "https://github.com/plexus/chruby.el",
+    "description": "Emacs support for the Chruby version switcher for Ruby",
+    "stars": 37,
+    "forks": 15,
+    "languages": {
+      "Emacs Lisp": 6984
+    },
+    "contributions_by_user": 27,
+    "contribution_score": 407.41,
+    "S_code": 6.82,
+    "S_social": 67,
+    "S_maint": 27
+  },
+  {
+    "name": "macros",
+    "full_name": "plexus/macros",
+    "html_url": "https://github.com/plexus/macros",
+    "description": null,
+    "stars": 32,
+    "forks": 2,
+    "languages": {
+      "Ruby": 12885
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 128.29,
+    "S_code": 12.58,
+    "S_social": 36,
+    "S_maint": 5
+  },
+  {
+    "name": "autodoc",
+    "full_name": "plexus/autodoc",
+    "html_url": "https://github.com/plexus/autodoc",
+    "description": "Automate the publishing of generated docs",
+    "stars": 26,
+    "forks": 1,
+    "languages": {
+      "Shell": 7141
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 259.49,
+    "S_code": 6.97,
+    "S_social": 28,
+    "S_maint": 20
+  },
+  {
+    "name": "analects",
+    "full_name": "plexus/analects",
+    "html_url": "https://github.com/plexus/analects",
+    "description": "Public datasets on the Chinese language, accessible from Ruby",
+    "stars": 23,
+    "forks": 1,
+    "languages": {
+      "Ruby": 33114
+    },
+    "contributions_by_user": 68,
+    "contribution_score": 746.17,
+    "S_code": 32.34,
+    "S_social": 25,
+    "S_maint": 68
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "plexus/dotfiles",
+    "html_url": "https://github.com/plexus/dotfiles",
+    "description": null,
+    "stars": 22,
+    "forks": 2,
+    "languages": {
+      "Shell": 22579,
+      "Clojure": 12856,
+      "Emacs Lisp": 3424,
+      "Ruby": 167
+    },
+    "contributions_by_user": 134,
+    "contribution_score": 1411.06,
+    "S_code": 38.11,
+    "S_social": 26,
+    "S_maint": 134
+  },
+  {
+    "name": "slippery",
+    "full_name": "plexus/slippery",
+    "html_url": "https://github.com/plexus/slippery",
+    "description": "Because Slippery slides are the best slides.",
+    "stars": 19,
+    "forks": 2,
+    "languages": {
+      "CSS": 433325,
+      "JavaScript": 353050,
+      "SCSS": 124794,
+      "HTML": 82973,
+      "Ruby": 24625
+    },
+    "contributions_by_user": 66,
+    "contribution_score": 1203.44,
+    "S_code": 994.89,
+    "S_social": 23,
+    "S_maint": 66
+  },
+  {
+    "name": "unrepl.el",
+    "full_name": "plexus/unrepl.el",
+    "html_url": "https://github.com/plexus/unrepl.el",
+    "description": null,
+    "stars": 16,
+    "forks": 2,
+    "languages": {
+      "Clojure": 49794,
+      "Emacs Lisp": 30741
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 259.32,
+    "S_code": 78.65,
+    "S_social": 20,
+    "S_maint": 18
+  },
+  {
+    "name": "gas-of-life",
+    "full_name": "plexus/gas-of-life",
+    "html_url": "https://github.com/plexus/gas-of-life",
+    "description": null,
+    "stars": 14,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 743916,
+      "Clojure": 3181
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 406.79,
+    "S_code": 729.59,
+    "S_social": 16,
+    "S_maint": 1
+  },
+  {
+    "name": "asset_packer",
+    "full_name": "plexus/asset_packer",
+    "html_url": "https://github.com/plexus/asset_packer",
+    "description": null,
+    "stars": 11,
+    "forks": 0,
+    "languages": {
+      "Ruby": 19021
+    },
+    "contributions_by_user": 42,
+    "contribution_score": 451.29,
+    "S_code": 18.58,
+    "S_social": 11,
+    "S_maint": 42
+  },
+  {
+    "name": ".emacs.d",
+    "full_name": "plexus/.emacs.d",
+    "html_url": "https://github.com/plexus/.emacs.d",
+    "description": "My Emacs configuration",
+    "stars": 11,
+    "forks": 1,
+    "languages": {
+      "Emacs Lisp": 388863,
+      "Ruby": 172173,
+      "Vim Script": 5181,
+      "Shell": 53
+    },
+    "contributions_by_user": 28,
+    "contribution_score": 582.5,
+    "S_code": 553.0,
+    "S_social": 13,
+    "S_maint": 28
+  },
+  {
+    "name": "tracer-gui",
+    "full_name": "plexus/tracer-gui",
+    "html_url": "https://github.com/plexus/tracer-gui",
+    "description": "Trace Ring requests and inspect them in a GUI",
+    "stars": 11,
+    "forks": 0,
+    "languages": {
+      "Clojure": 5295
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 94.59,
+    "S_code": 5.17,
+    "S_social": 11,
+    "S_maint": 7
+  },
+  {
+    "name": "integreat",
+    "full_name": "plexus/integreat",
+    "html_url": "https://github.com/plexus/integreat",
+    "description": null,
+    "stars": 10,
+    "forks": 0,
+    "languages": {
+      "Clojure": 12203,
+      "Emacs Lisp": 67,
+      "Shell": 54
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 46.02,
+    "S_code": 12.04,
+    "S_social": 10,
+    "S_maint": 2
+  },
+  {
+    "name": "cljs-test-example",
+    "full_name": "plexus/cljs-test-example",
+    "html_url": "https://github.com/plexus/cljs-test-example",
+    "description": null,
+    "stars": 7,
+    "forks": 2,
+    "languages": {
+      "Clojure": 7205,
+      "Shell": 2177,
+      "Emacs Lisp": 4
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 136.58,
+    "S_code": 9.17,
+    "S_social": 11,
+    "S_maint": 11
+  },
+  {
+    "name": "plexmacs",
+    "full_name": "plexus/plexmacs",
+    "html_url": "https://github.com/plexus/plexmacs",
+    "description": null,
+    "stars": 7,
+    "forks": 1,
+    "languages": {
+      "Emacs Lisp": 91806,
+      "Shell": 208
+    },
+    "contributions_by_user": 39,
+    "contribution_score": 452.93,
+    "S_code": 89.86,
+    "S_social": 9,
+    "S_maint": 39
+  },
+  {
+    "name": "kramberry",
+    "full_name": "plexus/kramberry",
+    "html_url": "https://github.com/plexus/kramberry",
+    "description": "Kramdown-style Markdown parser for Clojure/script",
+    "stars": 7,
+    "forks": 0,
+    "languages": {
+      "HTML": 64035,
+      "Clojure": 9490
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 119.9,
+    "S_code": 71.8,
+    "S_social": 7,
+    "S_maint": 7
+  },
+  {
+    "name": "svg-slides",
+    "full_name": "plexus/svg-slides",
+    "html_url": "https://github.com/plexus/svg-slides",
+    "description": "Turn an SVG file into a presentation.",
+    "stars": 7,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 3178,
+      "Ruby": 1376
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 80.22,
+    "S_code": 4.45,
+    "S_social": 9,
+    "S_maint": 6
+  },
+  {
+    "name": "xterm-sci",
+    "full_name": "plexus/xterm-sci",
+    "html_url": "https://github.com/plexus/xterm-sci",
+    "description": null,
+    "stars": 6,
+    "forks": 2,
+    "languages": {
+      "Clojure": 3963,
+      "Emacs Lisp": 735,
+      "Shell": 340,
+      "HTML": 307
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 82.61,
+    "S_code": 5.22,
+    "S_social": 10,
+    "S_maint": 6
+  },
+  {
+    "name": "tablizer",
+    "full_name": "plexus/tablizer",
+    "html_url": "https://github.com/plexus/tablizer",
+    "description": "Format HTML tables as text. Demo Clojure CLI tools.",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "Clojure": 1822,
+      "Shell": 175
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 32.98,
+    "S_code": 1.95,
+    "S_social": 6,
+    "S_maint": 2
+  },
+  {
+    "name": "emacs-clojure-utils",
+    "full_name": "plexus/emacs-clojure-utils",
+    "html_url": "https://github.com/plexus/emacs-clojure-utils",
+    "description": null,
+    "stars": 6,
+    "forks": 1,
+    "languages": {
+      "Emacs Lisp": 2627
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 37.28,
+    "S_code": 2.57,
+    "S_social": 8,
+    "S_maint": 2
+  },
+  {
+    "name": "fzip",
+    "full_name": "plexus/fzip",
+    "html_url": "https://github.com/plexus/fzip",
+    "description": null,
+    "stars": 6,
+    "forks": 1,
+    "languages": {
+      "Ruby": 9605
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 110.69,
+    "S_code": 9.38,
+    "S_social": 8,
+    "S_maint": 9
+  },
+  {
+    "name": "mad-sounds",
+    "full_name": "plexus/mad-sounds",
+    "html_url": "https://github.com/plexus/mad-sounds",
+    "description": null,
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "Clojure": 302492,
+      "SuperCollider": 2455,
+      "Emacs Lisp": 472,
+      "Shell": 53
+    },
+    "contributions_by_user": 90,
+    "contribution_score": 1063.16,
+    "S_code": 298.31,
+    "S_social": 7,
+    "S_maint": 90
+  },
+  {
+    "name": "hillchart",
+    "full_name": "plexus/hillchart",
+    "html_url": "https://github.com/plexus/hillchart",
+    "description": null,
+    "stars": 5,
+    "forks": 1,
+    "languages": {
+      "Clojure": 13485,
+      "HTML": 3866,
+      "Emacs Lisp": 63,
+      "Shell": 50
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 112.53,
+    "S_code": 17.05,
+    "S_social": 7,
+    "S_maint": 9
+  },
+  {
+    "name": "syna.esth.etic",
+    "full_name": "plexus/syna.esth.etic",
+    "html_url": "https://github.com/plexus/syna.esth.etic",
+    "description": "Glitch images by applying sound effects.",
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Clojure": 13911,
+      "Shell": 289
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 156.93,
+    "S_code": 13.87,
+    "S_social": 5,
+    "S_maint": 14
+  },
+  {
+    "name": "analects-data",
+    "full_name": "plexus/analects-data",
+    "html_url": "https://github.com/plexus/analects-data",
+    "description": null,
+    "stars": 5,
+    "forks": 0,
+    "languages": {
+      "Ruby": 16139
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 107.88,
+    "S_code": 15.76,
+    "S_social": 5,
+    "S_maint": 9
+  },
+  {
+    "name": "ansible_playbooks",
+    "full_name": "plexus/ansible_playbooks",
+    "html_url": "https://github.com/plexus/ansible_playbooks",
+    "description": "Server configuration, in particular for the Clojurians Slack Log site",
+    "stars": 4,
+    "forks": 1,
+    "languages": {
+      "Shell": 10395,
+      "Ruby": 7902,
+      "Python": 1482
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 261.66,
+    "S_code": 19.32,
+    "S_social": 6,
+    "S_maint": 24
+  },
+  {
+    "name": "attendomat",
+    "full_name": "plexus/attendomat",
+    "html_url": "https://github.com/plexus/attendomat",
+    "description": "An extension to Google Sheets to help with the managing of attendees for ClojureBridge Berlin.",
+    "stars": 4,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 641764,
+      "Clojure": 72178,
+      "HTML": 1869,
+      "Ruby": 134
+    },
+    "contributions_by_user": 33,
+    "contribution_score": 699.58,
+    "S_code": 699.17,
+    "S_social": 10,
+    "S_maint": 33
+  },
+  {
+    "name": "expectations-cljs-hello-world",
+    "full_name": "plexus/expectations-cljs-hello-world",
+    "html_url": "https://github.com/plexus/expectations-cljs-hello-world",
+    "description": null,
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2090506,
+      "Clojure": 501818
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 1293.78,
+    "S_code": 2531.57,
+    "S_social": 4,
+    "S_maint": 2
+  },
+  {
+    "name": "ruby_lisp",
+    "full_name": "plexus/ruby_lisp",
+    "html_url": "https://github.com/plexus/ruby_lisp",
+    "description": null,
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Ruby": 9166,
+      "Ragel in Ruby Host": 2075
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 93.49,
+    "S_code": 10.98,
+    "S_social": 4,
+    "S_maint": 8
+  },
+  {
+    "name": "wave-function-collapse-clojure2d",
+    "full_name": "plexus/wave-function-collapse-clojure2d",
+    "html_url": "https://github.com/plexus/wave-function-collapse-clojure2d",
+    "description": null,
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Clojure": 7170
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 19.5,
+    "S_code": 7.0,
+    "S_social": 3,
+    "S_maint": 1
+  },
+  {
+    "name": "my-reagent-project",
+    "full_name": "plexus/my-reagent-project",
+    "html_url": "https://github.com/plexus/my-reagent-project",
+    "description": null,
+    "stars": 3,
+    "forks": 2,
+    "languages": {
+      "Clojure": 1050,
+      "Emacs Lisp": 454,
+      "HTML": 166
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 34.82,
+    "S_code": 1.63,
+    "S_social": 7,
+    "S_maint": 2
+  },
+  {
+    "name": "give-a-safer-web",
+    "full_name": "plexus/give-a-safer-web",
+    "html_url": "https://github.com/plexus/give-a-safer-web",
+    "description": null,
+    "stars": 3,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 7,
+    "contribution_score": 80.0,
+    "S_code": 0.0,
+    "S_social": 5,
+    "S_maint": 7
+  },
+  {
+    "name": "fp",
+    "full_name": "plexus/fp",
+    "html_url": "https://github.com/plexus/fp",
+    "description": null,
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Ruby": 1970
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 20.96,
+    "S_code": 1.92,
+    "S_social": 5,
+    "S_maint": 1
+  },
+  {
+    "name": "rubydataspec",
+    "full_name": "plexus/rubydataspec",
+    "html_url": "https://github.com/plexus/rubydataspec",
+    "description": null,
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "Ruby": 4451
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 112.17,
+    "S_code": 4.35,
+    "S_social": 5,
+    "S_maint": 10
+  },
+  {
+    "name": "annikki",
+    "full_name": "plexus/annikki",
+    "html_url": "https://github.com/plexus/annikki",
+    "description": "Annikki web-app, logbook for Anki",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Python": 65522,
+      "Ruby": 335
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 238.16,
+    "S_code": 64.31,
+    "S_social": 3,
+    "S_maint": 20
+  },
+  {
+    "name": "filebak",
+    "full_name": "plexus/filebak",
+    "html_url": "https://github.com/plexus/filebak",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Clojure": 11589,
+      "CSS": 1049,
+      "Dockerfile": 519,
+      "HTML": 264,
+      "Shell": 54
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 210.58,
+    "S_code": 13.16,
+    "S_social": 2,
+    "S_maint": 20
+  },
+  {
+    "name": "clojars-stats",
+    "full_name": "plexus/clojars-stats",
+    "html_url": "https://github.com/plexus/clojars-stats",
+    "description": "Download statistics from Clojars by day",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Clojure": 3268,
+      "Shell": 394
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 149.79,
+    "S_code": 3.58,
+    "S_social": 4,
+    "S_maint": 14
+  },
+  {
+    "name": "overtone-gui",
+    "full_name": "plexus/overtone-gui",
+    "html_url": "https://github.com/plexus/overtone-gui",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Clojure": 94283
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 80.04,
+    "S_code": 92.07,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "cauldron",
+    "full_name": "plexus/cauldron",
+    "html_url": "https://github.com/plexus/cauldron",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Clojure": 170984,
+      "Shell": 53
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 217.51,
+    "S_code": 167.03,
+    "S_social": 2,
+    "S_maint": 13
+  },
+  {
+    "name": "hoc-schedule",
+    "full_name": "plexus/hoc-schedule",
+    "html_url": "https://github.com/plexus/hoc-schedule",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Clojure": 4370,
+      "HTML": 430,
+      "Shell": 196
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 120.44,
+    "S_code": 4.88,
+    "S_social": 4,
+    "S_maint": 11
+  },
+  {
+    "name": "mtgcollection",
+    "full_name": "plexus/mtgcollection",
+    "html_url": "https://github.com/plexus/mtgcollection",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Clojure": 43240,
+      "HTML": 1149,
+      "CSS": 456,
+      "Emacs Lisp": 124
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 195.96,
+    "S_code": 43.92,
+    "S_social": 2,
+    "S_maint": 17
+  },
+  {
+    "name": "cljs-timezone-wheel",
+    "full_name": "plexus/cljs-timezone-wheel",
+    "html_url": "https://github.com/plexus/cljs-timezone-wheel",
+    "description": "ClojureScript/Reagent port of the very cool Timezone Wheel by @dayitastic.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Clojure": 13000,
+      "JavaScript": 4118,
+      "CSS": 1296,
+      "HTML": 340,
+      "Emacs Lisp": 199
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 33.25,
+    "S_code": 18.51,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "slack-archivist",
+    "full_name": "plexus/slack-archivist",
+    "html_url": "https://github.com/plexus/slack-archivist",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "CSS": 21009,
+      "Python": 17015,
+      "HTML": 4278
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 78.66,
+    "S_code": 41.31,
+    "S_social": 4,
+    "S_maint": 5
+  },
+  {
+    "name": "inkscape-slides",
+    "full_name": "plexus/inkscape-slides",
+    "html_url": "https://github.com/plexus/inkscape-slides",
+    "description": "Create slides from an Inkscape SVG",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3178,
+      "Ruby": 963,
+      "HTML": 750
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 36.39,
+    "S_code": 4.78,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "fn",
+    "full_name": "plexus/fn",
+    "html_url": "https://github.com/plexus/fn",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Ruby": 4623,
+      "Shell": 131
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 26.32,
+    "S_code": 4.64,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "seed",
+    "full_name": "plexus/seed",
+    "html_url": "https://github.com/plexus/seed",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Clojure": 2657
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 99.3,
+    "S_code": 2.59,
+    "S_social": 4,
+    "S_maint": 9
+  },
+  {
+    "name": "fern",
+    "full_name": "plexus/fern",
+    "html_url": "https://github.com/plexus/fern",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Clojure": 2446
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 45.19,
+    "S_code": 2.39,
+    "S_social": 2,
+    "S_maint": 4
+  },
+  {
+    "name": "chatty",
+    "full_name": "plexus/chatty",
+    "html_url": "https://github.com/plexus/chatty",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Clojure": 11006,
+      "CSS": 201
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 29.47,
+    "S_code": 10.94,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "choes",
+    "full_name": "plexus/choes",
+    "html_url": "https://github.com/plexus/choes",
+    "description": "Switch between the many colors of Shoes",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Shell": 3345
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 45.63,
+    "S_code": 3.27,
+    "S_social": 2,
+    "S_maint": 4
+  },
+  {
+    "name": "hellocljs",
+    "full_name": "plexus/hellocljs",
+    "html_url": "https://github.com/plexus/hellocljs",
+    "description": null,
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Clojure": 3743
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 95.83,
+    "S_code": 3.66,
+    "S_social": 2,
+    "S_maint": 9
+  },
+  {
+    "name": "active_merchant-realex3ds",
+    "full_name": "plexus/active_merchant-realex3ds",
+    "html_url": "https://github.com/plexus/active_merchant-realex3ds",
+    "description": null,
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Ruby": 94065
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 83.93,
+    "S_code": 91.86,
+    "S_social": 4,
+    "S_maint": 3
+  },
+  {
+    "name": "alsa-seq-ruby",
+    "full_name": "plexus/alsa-seq-ruby",
+    "html_url": "https://github.com/plexus/alsa-seq-ruby",
+    "description": "ALSA sequencer API through Ruby FFI",
+    "stars": 2,
+    "forks": 2,
+    "languages": {
+      "Ruby": 18553
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 51.06,
+    "S_code": 18.12,
+    "S_social": 6,
+    "S_maint": 3
+  },
+  {
+    "name": "plexus-mcp",
+    "full_name": "plexus/plexus-mcp",
+    "html_url": "https://github.com/plexus/plexus-mcp",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Clojure": 22533
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 43.0,
+    "S_code": 22.0,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "dbus-experiments",
+    "full_name": "plexus/dbus-experiments",
+    "html_url": "https://github.com/plexus/dbus-experiments",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Clojure": 7088,
+      "Java": 2360
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 46.61,
+    "S_code": 9.23,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "dreamy",
+    "full_name": "plexus/dreamy",
+    "html_url": "https://github.com/plexus/dreamy",
+    "description": "A Ruby library and command line tool for accessing DreamHost's API",
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "Ruby": 63147
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 120.83,
+    "S_code": 61.67,
+    "S_social": 5,
+    "S_maint": 8
+  },
+  {
+    "name": "pie-a-la-mode",
+    "full_name": "plexus/pie-a-la-mode",
+    "html_url": "https://github.com/plexus/pie-a-la-mode",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Clojure": 25678
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 48.54,
+    "S_code": 25.08,
+    "S_social": 3,
+    "S_maint": 3
+  },
+  {
+    "name": "Orca-c",
+    "full_name": "plexus/Orca-c",
+    "html_url": "https://github.com/plexus/Orca-c",
+    "description": "Live Programming Environment(C Port)",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 232370,
+      "Shell": 15869,
+      "Makefile": 286
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 123.35,
+    "S_code": 242.7,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ChengyuDaily",
+    "full_name": "plexus/ChengyuDaily",
+    "html_url": "https://github.com/plexus/ChengyuDaily",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Java": 6225,
+      "JavaScript": 3631,
+      "Clojure": 2690,
+      "Starlark": 602,
+      "Shell": 348
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 138.59,
+    "S_code": 13.18,
+    "S_social": 1,
+    "S_maint": 13
+  },
+  {
+    "name": "advent-of-code",
+    "full_name": "plexus/advent-of-code",
+    "html_url": "https://github.com/plexus/advent-of-code",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Clojure": 51774
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 227.28,
+    "S_code": 50.56,
+    "S_social": 1,
+    "S_maint": 20
+  },
+  {
+    "name": "plexmacs-elpa",
+    "full_name": "plexus/plexmacs-elpa",
+    "html_url": "https://github.com/plexus/plexmacs-elpa",
+    "description": "See plexus/plexmacs",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Emacs Lisp": 83157,
+      "Shell": 511
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 212.85,
+    "S_code": 81.71,
+    "S_social": 1,
+    "S_maint": 17
+  },
+  {
+    "name": "mazecodes",
+    "full_name": "plexus/mazecodes",
+    "html_url": "https://github.com/plexus/mazecodes",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Clojure": 8998,
+      "Emacs Lisp": 63,
+      "Shell": 50
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 16.45,
+    "S_code": 8.9,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "assetlog",
+    "full_name": "plexus/assetlog",
+    "html_url": "https://github.com/plexus/assetlog",
+    "description": "Demo app for Adobe I/O Events webhooks",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 13756,
+      "HTML": 1665
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 153.53,
+    "S_code": 15.06,
+    "S_social": 3,
+    "S_maint": 14
+  },
+  {
+    "name": "sesame",
+    "full_name": "plexus/sesame",
+    "html_url": "https://github.com/plexus/sesame",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Clojure": 9894,
+      "HTML": 396,
+      "Emacs Lisp": 199,
+      "CSS": 36
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 37.14,
+    "S_code": 10.28,
+    "S_social": 1,
+    "S_maint": 3
+  },
+  {
+    "name": "attribs",
+    "full_name": "plexus/attribs",
+    "html_url": "https://github.com/plexus/attribs",
+    "description": null,
+    "stars": 1,
+    "forks": 2,
+    "languages": {
+      "Ruby": 11738
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 65.73,
+    "S_code": 11.46,
+    "S_social": 5,
+    "S_maint": 5
+  },
+  {
+    "name": "finn-chamber",
+    "full_name": "plexus/finn-chamber",
+    "html_url": "https://github.com/plexus/finn-chamber",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Clojure": 22319,
+      "HTML": 401
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 153.09,
+    "S_code": 22.19,
+    "S_social": 1,
+    "S_maint": 14
+  },
+  {
+    "name": "togl",
+    "full_name": "plexus/togl",
+    "html_url": "https://github.com/plexus/togl",
+    "description": "Flexible Ruby feature flag library",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Ruby": 11133
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 181.44,
+    "S_code": 10.87,
+    "S_social": 3,
+    "S_maint": 17
+  },
+  {
+    "name": "reagent-ajax-json-example",
+    "full_name": "plexus/reagent-ajax-json-example",
+    "html_url": "https://github.com/plexus/reagent-ajax-json-example",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Clojure": 8560,
+      "CSS": 448
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 26.4,
+    "S_code": 8.8,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "beadicious",
+    "full_name": "plexus/beadicious",
+    "html_url": "https://github.com/plexus/beadicious",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Clojure": 6511
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 55.18,
+    "S_code": 6.36,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "proxi",
+    "full_name": "plexus/proxi",
+    "html_url": "https://github.com/plexus/proxi",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 27707
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 125.53,
+    "S_code": 27.06,
+    "S_social": 1,
+    "S_maint": 11
+  },
+  {
+    "name": "ember-hypermedia",
+    "full_name": "plexus/ember-hypermedia",
+    "html_url": "https://github.com/plexus/ember-hypermedia",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "CoffeeScript": 13491
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 18.59,
+    "S_code": 13.17,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "ruby-code-of-conduct",
+    "full_name": "plexus/ruby-code-of-conduct",
+    "html_url": "https://github.com/plexus/ruby-code-of-conduct",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 10237,
+      "CSS": 5784,
+      "HTML": 3065
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 95.32,
+    "S_code": 18.64,
+    "S_social": 3,
+    "S_maint": 8
+  },
+  {
+    "name": "sesame-seed",
+    "full_name": "plexus/sesame-seed",
+    "html_url": "https://github.com/plexus/sesame-seed",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Clojure": 8239,
+      "JavaScript": 1445,
+      "HTML": 410,
+      "CSS": 37
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 16.95,
+    "S_code": 9.89,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "SAM",
+    "full_name": "plexus/SAM",
+    "html_url": "https://github.com/plexus/SAM",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 1549801,
+      "Java": 690213,
+      "Shell": 6112,
+      "ApacheConf": 4823,
+      "CSS": 1231
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 1121.7,
+    "S_code": 2199.39,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "rups",
+    "full_name": "plexus/rups",
+    "html_url": "https://github.com/plexus/rups",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Ruby": 8711,
+      "Ragel in Ruby Host": 294
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 90.4,
+    "S_code": 8.79,
+    "S_social": 3,
+    "S_maint": 8
+  },
+  {
+    "name": "secretsanta",
+    "full_name": "plexus/secretsanta",
+    "html_url": "https://github.com/plexus/secretsanta",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Clojure": 9354,
+      "Ruby": 2170,
+      "CSS": 37
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 91.65,
+    "S_code": 11.29,
+    "S_social": 3,
+    "S_maint": 8
+  },
+  {
+    "name": "yakports",
+    "full_name": "plexus/yakports",
+    "html_url": "https://github.com/plexus/yakports",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 20663,
+      "Ruby": 8095,
+      "CSS": 1076
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 160.57,
+    "S_code": 29.13,
+    "S_social": 3,
+    "S_maint": 14
+  },
+  {
+    "name": "hexp-blog",
+    "full_name": "plexus/hexp-blog",
+    "html_url": "https://github.com/plexus/hexp-blog",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 2460
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 13.2,
+    "S_code": 2.4,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "chef-phppgadmin",
+    "full_name": "plexus/chef-phppgadmin",
+    "html_url": "https://github.com/plexus/chef-phppgadmin",
+    "description": "Chef cookbook for PhpPgAdmin",
+    "stars": 1,
+    "forks": 3,
+    "languages": {
+      "Ruby": 2782
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 25.36,
+    "S_code": 2.72,
+    "S_social": 7,
+    "S_maint": 1
+  },
+  {
+    "name": "herbie",
+    "full_name": "plexus/herbie",
+    "html_url": "https://github.com/plexus/herbie",
+    "description": "Music player based on Ruby, Ncurses and Gstreamer",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Ruby": 16000
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 99.81,
+    "S_code": 15.62,
+    "S_social": 1,
+    "S_maint": 9
+  },
+  {
+    "name": "arnebrasseur.net",
+    "full_name": "plexus/arnebrasseur.net",
+    "html_url": "https://github.com/plexus/arnebrasseur.net",
+    "description": "dev blog",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "SCSS": 35822,
+      "CSS": 22050,
+      "HTML": 9948,
+      "Clojure": 8665,
+      "Ruby": 5847,
+      "PigLatin": 4841,
+      "JavaScript": 1244,
+      "Shell": 53
+    },
+    "contributions_by_user": 97,
+    "contribution_score": 1017.2,
+    "S_code": 86.4,
+    "S_social": 2,
+    "S_maint": 97
+  },
+  {
+    "name": "coderdojo-python",
+    "full_name": "plexus/coderdojo-python",
+    "html_url": "https://github.com/plexus/coderdojo-python",
+    "description": "python sketches for coderdojo Aarschot",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 31301
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 85.28,
+    "S_code": 30.57,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "conf-talks",
+    "full_name": "plexus/conf-talks",
+    "html_url": "https://github.com/plexus/conf-talks",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 19411505,
+      "JavaScript": 1810953,
+      "CSS": 1363671,
+      "Ruby": 98587,
+      "SCSS": 50616,
+      "Clojure": 18444,
+      "Emacs Lisp": 1666,
+      "Shell": 617
+    },
+    "contributions_by_user": 94,
+    "contribution_score": 12051.36,
+    "S_code": 22222.71,
+    "S_social": 0,
+    "S_maint": 94
+  },
+  {
+    "name": "rag-test",
+    "full_name": "plexus/rag-test",
+    "html_url": "https://github.com/plexus/rag-test",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 19411
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 39.48,
+    "S_code": 18.96,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "mtls_lab",
+    "full_name": "plexus/mtls_lab",
+    "html_url": "https://github.com/plexus/mtls_lab",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 35094,
+      "Shell": 2635,
+      "Thrift": 320
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 38.58,
+    "S_code": 37.16,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "clojure-mcp",
+    "full_name": "plexus/clojure-mcp",
+    "html_url": "https://github.com/plexus/clojure-mcp",
+    "description": "Clojure MCP",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 1140279,
+      "Shell": 751
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 557.14,
+    "S_code": 1114.29,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fogio",
+    "full_name": "plexus/fogio",
+    "html_url": "https://github.com/plexus/fogio",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PigLatin": 29592,
+      "CSS": 1627
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 215.24,
+    "S_code": 30.49,
+    "S_social": 0,
+    "S_maint": 20
+  },
+  {
+    "name": "piglet-scratch",
+    "full_name": "plexus/piglet-scratch",
+    "html_url": "https://github.com/plexus/piglet-scratch",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PigLatin": 109287
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 153.36,
+    "S_code": 106.73,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "pigrot",
+    "full_name": "plexus/pigrot",
+    "html_url": "https://github.com/plexus/pigrot",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PigLatin": 32869,
+      "CSS": 11515,
+      "HTML": 840
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 162.08,
+    "S_code": 44.16,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "piglet-audio-playground",
+    "full_name": "plexus/piglet-audio-playground",
+    "html_url": "https://github.com/plexus/piglet-audio-playground",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PigLatin": 25921,
+      "CSS": 752
+    },
+    "contributions_by_user": 16,
+    "contribution_score": 173.02,
+    "S_code": 26.05,
+    "S_social": 0,
+    "S_maint": 16
+  },
+  {
+    "name": "event-lab",
+    "full_name": "plexus/event-lab",
+    "html_url": "https://github.com/plexus/event-lab",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 18044,
+      "Just": 6292,
+      "Shell": 54
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 111.91,
+    "S_code": 23.82,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "shadcn-test",
+    "full_name": "plexus/shadcn-test",
+    "html_url": "https://github.com/plexus/shadcn-test",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 108817,
+      "CSS": 30547,
+      "HTML": 262
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 108.18,
+    "S_code": 136.35,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "veter",
+    "full_name": "plexus/veter",
+    "html_url": "https://github.com/plexus/veter",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 139898,
+      "Clojure": 4888
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 90.7,
+    "S_code": 141.39,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "squint",
+    "full_name": "plexus/squint",
+    "html_url": "https://github.com/plexus/squint",
+    "description": "Light-weight ClojureScript dialect",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 311925,
+      "JavaScript": 76167,
+      "HTML": 33578,
+      "Emacs Lisp": 81,
+      "CSS": 8
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 205.94,
+    "S_code": 411.87,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "thonny",
+    "full_name": "plexus/thonny",
+    "html_url": "https://github.com/plexus/thonny",
+    "description": "Python IDE for beginners",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 7203586,
+      "Shell": 37075,
+      "Inno Setup": 15093,
+      "C++": 10646,
+      "Batchfile": 7321,
+      "C": 6384,
+      "HTML": 3183,
+      "Swift": 1069,
+      "Roff": 976,
+      "VBScript": 270,
+      "JavaScript": 229
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3557.54,
+    "S_code": 7115.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "autopair",
+    "full_name": "plexus/autopair",
+    "html_url": "https://github.com/plexus/autopair",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 2136,
+      "HCL": 1931,
+      "Jinja": 582,
+      "Python": 313
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 72.42,
+    "S_code": 4.85,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "auction_sniper",
+    "full_name": "plexus/auction_sniper",
+    "html_url": "https://github.com/plexus/auction_sniper",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 8845
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 84.32,
+    "S_code": 8.64,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "attendance",
+    "full_name": "plexus/attendance",
+    "html_url": "https://github.com/plexus/attendance",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Roff": 102499,
+      "Clojure": 12824,
+      "HTML": 356,
+      "Procfile": 80,
+      "CSS": 37
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 186.54,
+    "S_code": 113.08,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "joanne-template",
+    "full_name": "plexus/joanne-template",
+    "html_url": "https://github.com/plexus/joanne-template",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Clojure": 3333,
+      "Shell": 54
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 25.65,
+    "S_code": 3.31,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "volta_do_mar",
+    "full_name": "plexus/volta_do_mar",
+    "html_url": "https://github.com/plexus/volta_do_mar",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 68372,
+      "Shell": 3265,
+      "Java": 2007,
+      "Emacs Lisp": 119
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 126.02,
+    "S_code": 72.03,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "squid.casa",
+    "full_name": "plexus/squid.casa",
+    "html_url": "https://github.com/plexus/squid.casa",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "HTML": 158
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 44.08,
+    "S_code": 0.15,
+    "S_social": 2,
+    "S_maint": 4
+  },
+  {
+    "name": "casa.squid.sequencer",
+    "full_name": "plexus/casa.squid.sequencer",
+    "html_url": "https://github.com/plexus/casa.squid.sequencer",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 9356
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 14.57,
+    "S_code": 9.14,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "overtone",
+    "full_name": "plexus/overtone",
+    "html_url": "https://github.com/plexus/overtone",
+    "description": "Collaborative Programmable Music ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 1295705,
+      "Shell": 3966
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 634.6,
+    "S_code": 1269.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "quil",
+    "full_name": "plexus/quil",
+    "html_url": "https://github.com/plexus/quil",
+    "description": "Main repo. Quil source code.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 404514,
+      "HTML": 2019,
+      "GLSL": 1895,
+      "CSS": 614
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 199.73,
+    "S_code": 399.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vibeflow",
+    "full_name": "plexus/vibeflow",
+    "html_url": "https://github.com/plexus/vibeflow",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 44474,
+      "Shell": 53
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 141.74,
+    "S_code": 43.48,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "Pilot",
+    "full_name": "plexus/Pilot",
+    "html_url": "https://github.com/plexus/Pilot",
+    "description": "Orca's best friend.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 38345,
+      "CSS": 6881,
+      "HTML": 3253
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 23.67,
+    "S_code": 47.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "expense-tracker",
+    "full_name": "plexus/expense-tracker",
+    "html_url": "https://github.com/plexus/expense-tracker",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 353104,
+      "PigLatin": 9834,
+      "HTML": 1550,
+      "CSS": 253,
+      "Just": 17
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 258.1,
+    "S_code": 356.21,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "cardano.el",
+    "full_name": "plexus/cardano.el",
+    "html_url": "https://github.com/plexus/cardano.el",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Emacs Lisp": 180252,
+      "Shell": 39434,
+      "YASnippet": 3248,
+      "Scheme": 1787,
+      "Makefile": 307
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 109.88,
+    "S_code": 219.75,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "de-coolere-programmeerclub",
+    "full_name": "plexus/de-coolere-programmeerclub",
+    "html_url": "https://github.com/plexus/de-coolere-programmeerclub",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 52613
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 115.69,
+    "S_code": 51.38,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "manifest-3-cookies-demo",
+    "full_name": "plexus/manifest-3-cookies-demo",
+    "html_url": "https://github.com/plexus/manifest-3-cookies-demo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 1154,
+      "Clojure": 1038
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.07,
+    "S_code": 2.14,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "classpath_demo",
+    "full_name": "plexus/classpath_demo",
+    "html_url": "https://github.com/plexus/classpath_demo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 3751,
+      "Emacs Lisp": 106
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.88,
+    "S_code": 3.77,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "advent-of-cljc",
+    "full_name": "plexus/advent-of-cljc",
+    "html_url": "https://github.com/plexus/advent-of-cljc",
+    "description": "Cross platform Clojure Advent of Code solutions",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 468689,
+      "Shell": 4467
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 231.03,
+    "S_code": 462.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "direct_otel_experiment",
+    "full_name": "plexus/direct_otel_experiment",
+    "html_url": "https://github.com/plexus/direct_otel_experiment",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 3831
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.87,
+    "S_code": 3.74,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "gen-class-hook",
+    "full_name": "plexus/gen-class-hook",
+    "html_url": "https://github.com/plexus/gen-class-hook",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 569,
+      "Shell": 48
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.3,
+    "S_code": 0.6,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "jibtest",
+    "full_name": "plexus/jibtest",
+    "html_url": "https://github.com/plexus/jibtest",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 1860,
+      "Emacs Lisp": 60
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.94,
+    "S_code": 1.88,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "clojure-site",
+    "full_name": "plexus/clojure-site",
+    "html_url": "https://github.com/plexus/clojure-site",
+    "description": "clojure.org site",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 356450
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 174.05,
+    "S_code": 348.1,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "private-chests-plugin",
+    "full_name": "plexus/private-chests-plugin",
+    "html_url": "https://github.com/plexus/private-chests-plugin",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 9765,
+      "Shell": 3265,
+      "Java": 922,
+      "Emacs Lisp": 133
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 56.88,
+    "S_code": 13.75,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "refactor-nrepl",
+    "full_name": "plexus/refactor-nrepl",
+    "html_url": "https://github.com/plexus/refactor-nrepl",
+    "description": "nREPL middleware to support refactorings in an editor agnostic way",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 226815,
+      "Makefile": 837,
+      "Java": 419,
+      "Emacs Lisp": 203
+    },
+    "contributions_by_user": 14,
+    "contribution_score": 251.46,
+    "S_code": 222.92,
+    "S_social": 0,
+    "S_maint": 14
+  },
+  {
+    "name": "wordle-clojurescript",
+    "full_name": "plexus/wordle-clojurescript",
+    "html_url": "https://github.com/plexus/wordle-clojurescript",
+    "description": "Wordle clone in clojurescript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 3237,
+      "HTML": 846,
+      "Emacs Lisp": 730
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.35,
+    "S_code": 4.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "supabase-test",
+    "full_name": "plexus/supabase-test",
+    "html_url": "https://github.com/plexus/supabase-test",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 14046,
+      "Emacs Lisp": 735,
+      "HTML": 322
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 37.37,
+    "S_code": 14.75,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "cider-nrepl",
+    "full_name": "plexus/cider-nrepl",
+    "html_url": "https://github.com/plexus/cider-nrepl",
+    "description": "nREPL middleware for CIDER",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 417256,
+      "Makefile": 2287,
+      "Java": 735,
+      "Shell": 612,
+      "Emacs Lisp": 327
+    },
+    "contributions_by_user": 35,
+    "contribution_score": 555.67,
+    "S_code": 411.34,
+    "S_social": 0,
+    "S_maint": 35
+  },
+  {
+    "name": "orchard",
+    "full_name": "plexus/orchard",
+    "html_url": "https://github.com/plexus/orchard",
+    "description": "A fertile ground for Clojure tooling",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 235814,
+      "Makefile": 1131,
+      "Emacs Lisp": 203
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 115.79,
+    "S_code": 231.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ctn-test",
+    "full_name": "plexus/ctn-test",
+    "html_url": "https://github.com/plexus/ctn-test",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 985
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.48,
+    "S_code": 0.96,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "cider",
+    "full_name": "plexus/cider",
+    "html_url": "https://github.com/plexus/cider",
+    "description": "The Clojure Interactive Development Environment that Rocks for Emacs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Emacs Lisp": 816169,
+      "Makefile": 1105
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 399.06,
+    "S_code": 798.12,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ordered",
+    "full_name": "plexus/ordered",
+    "html_url": "https://github.com/plexus/ordered",
+    "description": "Ordered sets and maps, implemented in pure clojure",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 31355
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 35.31,
+    "S_code": 30.62,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "nrepl",
+    "full_name": "plexus/nrepl",
+    "html_url": "https://github.com/plexus/nrepl",
+    "description": "A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 285683,
+      "HTML": 13974,
+      "Makefile": 1526,
+      "Java": 546,
+      "Emacs Lisp": 203,
+      "Shell": 38
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 147.45,
+    "S_code": 294.89,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "naether",
+    "full_name": "plexus/naether",
+    "html_url": "https://github.com/plexus/naether",
+    "description": "Java dependency resolver using Maven's Aether for Java and Ruby",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 180490,
+      "Ruby": 65498
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 120.11,
+    "S_code": 240.22,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "parseedn",
+    "full_name": "plexus/parseedn",
+    "html_url": "https://github.com/plexus/parseedn",
+    "description": "EDN parser for Emacs Lisp",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Emacs Lisp": 42552
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 120.78,
+    "S_code": 41.55,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "Local-Weather-website",
+    "full_name": "plexus/Local-Weather-website",
+    "html_url": "https://github.com/plexus/Local-Weather-website",
+    "description": "This is a project base on the freeCodeCamp project- \"Show the Local Weather\"",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 3536,
+      "CSS": 2199,
+      "HTML": 1807
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.68,
+    "S_code": 7.37,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Glowstone",
+    "full_name": "plexus/Glowstone",
+    "html_url": "https://github.com/plexus/Glowstone",
+    "description": "A fast, customizable and compatible open source server for Minecraft: Java Edition",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 3972810,
+      "Shell": 1653,
+      "C": 268
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1940.79,
+    "S_code": 3881.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "invasie-van-de-robots",
+    "full_name": "plexus/invasie-van-de-robots",
+    "html_url": "https://github.com/plexus/invasie-van-de-robots",
+    "description": "https://invasie-van-de-robots.rocks",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PLSQL": 155621,
+      "Clojure": 99871,
+      "HTML": 7220,
+      "JavaScript": 874,
+      "Emacs Lisp": 735,
+      "Shell": 559
+    },
+    "contributions_by_user": 72,
+    "contribution_score": 849.34,
+    "S_code": 258.67,
+    "S_social": 0,
+    "S_maint": 72
+  },
+  {
+    "name": "cyrielspel",
+    "full_name": "plexus/cyrielspel",
+    "html_url": "https://github.com/plexus/cyrielspel",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PLSQL": 155621,
+      "Clojure": 72463,
+      "Emacs Lisp": 735,
+      "HTML": 714,
+      "Shell": 426
+    },
+    "contributions_by_user": 34,
+    "contribution_score": 452.28,
+    "S_code": 224.57,
+    "S_social": 0,
+    "S_maint": 34
+  },
+  {
+    "name": "rms-open-letter.github.io",
+    "full_name": "plexus/rms-open-letter.github.io",
+    "html_url": "https://github.com/plexus/rms-open-letter.github.io",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "calva",
+    "full_name": "plexus/calva",
+    "html_url": "https://github.com/plexus/calva",
+    "description": "Clojure & ClojureScript Interactive Programming for VS Code",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 506366,
+      "Clojure": 341033,
+      "SCSS": 9322,
+      "JavaScript": 5101,
+      "HTML": 2892,
+      "CSS": 616,
+      "Dockerfile": 93,
+      "Shell": 23
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 422.58,
+    "S_code": 845.16,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vscode-clojure",
+    "full_name": "plexus/vscode-clojure",
+    "html_url": "https://github.com/plexus/vscode-clojure",
+    "description": "Clojure Language Basics for VS Code",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "consult",
+    "full_name": "plexus/consult",
+    "html_url": "https://github.com/plexus/consult",
+    "description": "consult.el - Consulting completing-read",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Emacs Lisp": 108467
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 52.96,
+    "S_code": 105.92,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "doom-emacs",
+    "full_name": "plexus/doom-emacs",
+    "html_url": "https://github.com/plexus/doom-emacs",
+    "description": "An Emacs framework for the stubborn martian hacker",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Emacs Lisp": 1860445,
+      "YASnippet": 90212,
+      "Nix": 1893,
+      "Shell": 1316,
+      "HTML": 786,
+      "JavaScript": 474,
+      "Batchfile": 371,
+      "Go": 105,
+      "Rust": 64,
+      "PHP": 52,
+      "Ruby": 24
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 954.95,
+    "S_code": 1909.9,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "clj-refactor.el",
+    "full_name": "plexus/clj-refactor.el",
+    "html_url": "https://github.com/plexus/clj-refactor.el",
+    "description": "A collection of Clojure refactoring functions for Emacs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Emacs Lisp": 192988,
+      "Gherkin": 87064,
+      "Ruby": 763,
+      "Shell": 382
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 137.3,
+    "S_code": 274.61,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "babashka.nrepl",
+    "full_name": "plexus/babashka.nrepl",
+    "html_url": "https://github.com/plexus/babashka.nrepl",
+    "description": "The nREPL server from babashka as a library, so it can be used from other sci-based CLIs.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 36852,
+      "Shell": 218
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 18.1,
+    "S_code": 36.2,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Pacman",
+    "full_name": "plexus/Pacman",
+    "html_url": "https://github.com/plexus/Pacman",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 196069,
+      "Java": 9020,
+      "CSS": 4372,
+      "JavaScript": 355
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 102.45,
+    "S_code": 204.9,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "certifiable",
+    "full_name": "plexus/certifiable",
+    "html_url": "https://github.com/plexus/certifiable",
+    "description": "A helper tool that simplifies the creation of development time SSL certificates for use with Java Webservers like Jetty.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 35882
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 27.52,
+    "S_code": 35.04,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "kaocha-issue-sample",
+    "full_name": "plexus/kaocha-issue-sample",
+    "html_url": "https://github.com/plexus/kaocha-issue-sample",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 2411,
+      "Shell": 35
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.19,
+    "S_code": 2.39,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "clojurescript",
+    "full_name": "plexus/clojurescript",
+    "html_url": "https://github.com/plexus/clojurescript",
+    "description": "Clojure to JS compiler",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 2308773,
+      "Shell": 32805,
+      "JavaScript": 15155,
+      "HTML": 13410,
+      "PowerShell": 7439,
+      "Smarty": 2072,
+      "Batchfile": 933
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1162.4,
+    "S_code": 2324.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "piggieback",
+    "full_name": "plexus/piggieback",
+    "html_url": "https://github.com/plexus/piggieback",
+    "description": "nREPL support for ClojureScript REPLs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 24188,
+      "HTML": 12915,
+      "Makefile": 1099,
+      "Emacs Lisp": 203
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 18.75,
+    "S_code": 37.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "require-from-macro-test",
+    "full_name": "plexus/require-from-macro-test",
+    "html_url": "https://github.com/plexus/require-from-macro-test",
+    "description": "Test requiring cljs namespaces dynamically via a macro that scans the filesystem",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 877
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.43,
+    "S_code": 0.86,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "clojurescript-site",
+    "full_name": "plexus/clojurescript-site",
+    "html_url": "https://github.com/plexus/clojurescript-site",
+    "description": "website for ClojureScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "programmingfonts",
+    "full_name": "plexus/programmingfonts",
+    "html_url": "https://github.com/plexus/programmingfonts",
+    "description": "Test drive programming fonts online",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 58453,
+      "HTML": 19995,
+      "JavaScript": 13077
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 44.69,
+    "S_code": 89.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "blackgamedevs",
+    "full_name": "plexus/blackgamedevs",
+    "html_url": "https://github.com/plexus/blackgamedevs",
+    "description": "A list of Black game developers.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 12493,
+      "CSS": 3801,
+      "HTML": 3088
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.46,
+    "S_code": 18.93,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "babashka",
+    "full_name": "plexus/babashka",
+    "html_url": "https://github.com/plexus/babashka",
+    "description": "A sprinkle of Clojure for the command line.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 45639,
+      "Shell": 7964,
+      "BlitzBasic": 133
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 26.24,
+    "S_code": 52.48,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "number-format-repro",
+    "full_name": "plexus/number-format-repro",
+    "html_url": "https://github.com/plexus/number-format-repro",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 2706,
+      "Emacs Lisp": 735,
+      "HTML": 264
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.81,
+    "S_code": 3.62,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "toucan",
+    "full_name": "plexus/toucan",
+    "html_url": "https://github.com/plexus/toucan",
+    "description": "A classy high-level Clojure library for defining application models and retrieving them from a DB",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 121504,
+      "Emacs Lisp": 299,
+      "Shell": 287
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 139.61,
+    "S_code": 119.23,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "malli",
+    "full_name": "plexus/malli",
+    "html_url": "https://github.com/plexus/malli",
+    "description": "Plain data Schemas for Clojure/Script.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 118405,
+      "Shell": 58
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 57.84,
+    "S_code": 115.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "kaocha-suite-bindings-demo",
+    "full_name": "plexus/kaocha-suite-bindings-demo",
+    "html_url": "https://github.com/plexus/kaocha-suite-bindings-demo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 731,
+      "Emacs Lisp": 63,
+      "Shell": 50
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.41,
+    "S_code": 0.82,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "pohjavirta",
+    "full_name": "plexus/pohjavirta",
+    "html_url": "https://github.com/plexus/pohjavirta",
+    "description": "Fast & Non-blocking Clojure wrapper for Undertow",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 68945,
+      "Java": 4041
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.64,
+    "S_code": 71.28,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "planet.clojure",
+    "full_name": "plexus/planet.clojure",
+    "html_url": "https://github.com/plexus/planet.clojure",
+    "description": "Source code for Planet Clojure",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 186981,
+      "XSLT": 49905,
+      "CSS": 29634,
+      "JavaScript": 16250,
+      "HTML": 1129,
+      "Ruby": 632
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 138.93,
+    "S_code": 277.86,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hexagons",
+    "full_name": "plexus/hexagons",
+    "html_url": "https://github.com/plexus/hexagons",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 42987,
+      "Java": 26436,
+      "HTML": 595,
+      "CSS": 73,
+      "Emacs Lisp": 58
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 54.25,
+    "S_code": 68.5,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "kaocha-browser",
+    "full_name": "plexus/kaocha-browser",
+    "html_url": "https://github.com/plexus/kaocha-browser",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 274
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.13,
+    "S_code": 0.27,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "reagent",
+    "full_name": "plexus/reagent",
+    "html_url": "https://github.com/plexus/reagent",
+    "description": "A minimalistic ClojureScript interface to React.js",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 205501,
+      "CSS": 13873,
+      "Shell": 2951,
+      "JavaScript": 1536,
+      "HTML": 490
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 139.55,
+    "S_code": 219.09,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "re-frame",
+    "full_name": "plexus/re-frame",
+    "html_url": "https://github.com/plexus/re-frame",
+    "description": "A Reagent Framework For Writing SPAs, in Clojurescript.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 115472,
+      "HTML": 4294,
+      "JavaScript": 937,
+      "Shell": 252,
+      "Batchfile": 222
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 59.17,
+    "S_code": 118.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "datomic-free",
+    "full_name": "plexus/datomic-free",
+    "html_url": "https://github.com/plexus/datomic-free",
+    "description": "A wrapper around datomic-free to easily start and upgrade it",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 3012
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.47,
+    "S_code": 2.94,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "rep",
+    "full_name": "plexus/rep",
+    "html_url": "https://github.com/plexus/rep",
+    "description": "A single-shot nREPL client designed for shell invocation",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 51557,
+      "Shell": 1024,
+      "Dockerfile": 318,
+      "Makefile": 152
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 25.9,
+    "S_code": 51.81,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jet",
+    "full_name": "plexus/jet",
+    "html_url": "https://github.com/plexus/jet",
+    "description": "CLI to transform between JSON, EDN and Transit, powered with a minimal query language.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 34511,
+      "Shell": 6406
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.98,
+    "S_code": 39.96,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "procflow",
+    "full_name": "plexus/procflow",
+    "html_url": "https://github.com/plexus/procflow",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Clojure": 36854,
+      "Emacs Lisp": 910,
+      "HTML": 500,
+      "Shell": 50
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 72.71,
+    "S_code": 37.42,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "tools.deps.alpha",
+    "full_name": "plexus/tools.deps.alpha",
+    "html_url": "https://github.com/plexus/tools.deps.alpha",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 92243,
+      "HTML": 12638,
+      "Shell": 1583
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 51.98,
+    "S_code": 103.97,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "brew-install",
+    "full_name": "plexus/brew-install",
+    "html_url": "https://github.com/plexus/brew-install",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PowerShell": 15629,
+      "Shell": 14939,
+      "HTML": 12638,
+      "Ruby": 522
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 21.35,
+    "S_code": 42.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cljs-master",
+    "full_name": "plexus/cljs-master",
+    "html_url": "https://github.com/plexus/cljs-master",
+    "description": "ClojureScript Master Class",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 7785
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.8,
+    "S_code": 7.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "heroku-buildpack-clojure",
+    "full_name": "plexus/heroku-buildpack-clojure",
+    "html_url": "https://github.com/plexus/heroku-buildpack-clojure",
+    "description": "Clojure buildpack",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 35929,
+      "Ruby": 5590,
+      "Clojure": 3
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 30.27,
+    "S_code": 40.55,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "bridge",
+    "full_name": "plexus/bridge",
+    "html_url": "https://github.com/plexus/bridge",
+    "description": "A ClojureBridge event registration system - see readme for blog posts",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 137637,
+      "Shell": 2972,
+      "HTML": 783,
+      "Makefile": 654,
+      "Emacs Lisp": 131
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 69.42,
+    "S_code": 138.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "figwheel-repl",
+    "full_name": "plexus/figwheel-repl",
+    "html_url": "https://github.com/plexus/figwheel-repl",
+    "description": "Figwheel REPL provides a stable multiplexing REPL for ClojureScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 81482
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 39.79,
+    "S_code": 79.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hidapi",
+    "full_name": "plexus/hidapi",
+    "html_url": "https://github.com/plexus/hidapi",
+    "description": "A ruby port of the HID API from Signal 11.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 52728,
+      "Shell": 131
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 35.81,
+    "S_code": 51.62,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "cameba",
+    "full_name": "plexus/cameba",
+    "html_url": "https://github.com/plexus/cameba",
+    "description": "my personal playground for messing with microphone input",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 7448
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.64,
+    "S_code": 7.27,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "depot",
+    "full_name": "plexus/depot",
+    "html_url": "https://github.com/plexus/depot",
+    "description": "Find newer versions of your dependencies in your deps.edn file",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 18446,
+      "Makefile": 113,
+      "Emacs Lisp": 59,
+      "Shell": 51
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 139.12,
+    "S_code": 18.23,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "metabase",
+    "full_name": "plexus/metabase",
+    "html_url": "https://github.com/plexus/metabase",
+    "description": "The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 4371845,
+      "JavaScript": 4335338,
+      "HTML": 529871,
+      "CSS": 167861,
+      "Shell": 47002,
+      "Objective-C": 36331,
+      "Perl": 15493,
+      "Dockerfile": 2674,
+      "Emacs Lisp": 1127,
+      "Ruby": 220
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4642.46,
+    "S_code": 9284.92,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "speculative-kaocha-plugin",
+    "full_name": "plexus/speculative-kaocha-plugin",
+    "html_url": "https://github.com/plexus/speculative-kaocha-plugin",
+    "description": "speculative kaocha plugin",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 1122
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.55,
+    "S_code": 1.1,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "learn-taiwanese",
+    "full_name": "plexus/learn-taiwanese",
+    "html_url": "https://github.com/plexus/learn-taiwanese",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "fs",
+    "full_name": "plexus/fs",
+    "html_url": "https://github.com/plexus/fs",
+    "description": "File system utilities for Clojure. (forked from Raynes/fs)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 39247
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.16,
+    "S_code": 38.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "compliment",
+    "full_name": "plexus/compliment",
+    "html_url": "https://github.com/plexus/compliment",
+    "description": "The Clojure completion library you deserve",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 82462
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 40.26,
+    "S_code": 80.53,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ring.middleware.logger",
+    "full_name": "plexus/ring.middleware.logger",
+    "html_url": "https://github.com/plexus/ring.middleware.logger",
+    "description": "Ring middleware to log each request",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 8231
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 84.02,
+    "S_code": 8.04,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "enlive",
+    "full_name": "plexus/enlive",
+    "html_url": "https://github.com/plexus/enlive",
+    "description": "a selector-based (à la CSS) templating and transformation system for Clojure",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 58916,
+      "HTML": 21550
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 39.29,
+    "S_code": 78.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "spacemacs",
+    "full_name": "plexus/spacemacs",
+    "html_url": "https://github.com/plexus/spacemacs",
+    "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Emacs Lisp": 2012633,
+      "Python": 22331,
+      "Shell": 4542,
+      "TeX": 3446,
+      "Makefile": 3354,
+      "Ruby": 391
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 999.36,
+    "S_code": 1998.73,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "clojure-companies",
+    "full_name": "plexus/clojure-companies",
+    "html_url": "https://github.com/plexus/clojure-companies",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 8116
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.96,
+    "S_code": 7.93,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "matcher-combinators",
+    "full_name": "plexus/matcher-combinators",
+    "html_url": "https://github.com/plexus/matcher-combinators",
+    "description": "Library for creating matcher combinator to compare nested data structures",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 50970
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 44.89,
+    "S_code": 49.78,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "clj-multihash",
+    "full_name": "plexus/clj-multihash",
+    "html_url": "https://github.com/plexus/clj-multihash",
+    "description": "Clojure implementation of the Multihash spec",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 19874,
+      "Shell": 185
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 29.79,
+    "S_code": 19.59,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "melpa",
+    "full_name": "plexus/melpa",
+    "html_url": "https://github.com/plexus/melpa",
+    "description": "Scripts for building Emacs packages from Version Control",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Emacs Lisp": 50816,
+      "JavaScript": 12042,
+      "Python": 3619,
+      "Shell": 3226,
+      "PHP": 1963,
+      "CSS": 759
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.36,
+    "S_code": 70.73,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "classpath_test",
+    "full_name": "plexus/classpath_test",
+    "html_url": "https://github.com/plexus/classpath_test",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 4909,
+      "Shell": 906
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 32.84,
+    "S_code": 5.68,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "cljdoc",
+    "full_name": "plexus/cljdoc",
+    "html_url": "https://github.com/plexus/cljdoc",
+    "description": "A future central documentation hub for the Clojure community 🙌",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 184985,
+      "Shell": 8669,
+      "HCL": 7318,
+      "JavaScript": 4623,
+      "CSS": 2316,
+      "HTML": 468,
+      "Makefile": 202
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 101.85,
+    "S_code": 203.69,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rewrite-clj",
+    "full_name": "plexus/rewrite-clj",
+    "html_url": "https://github.com/plexus/rewrite-clj",
+    "description": "Rewrite Clojure Code and EDN!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 159201
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 97.73,
+    "S_code": 155.47,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "packages",
+    "full_name": "plexus/packages",
+    "html_url": "https://github.com/plexus/packages",
+    "description": "Javascript libraries packaged up with Google Closure externs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 862208,
+      "Clojure": 91952,
+      "CSS": 5728,
+      "Shell": 167
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 468.78,
+    "S_code": 937.55,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "python-http-client-server",
+    "full_name": "plexus/python-http-client-server",
+    "html_url": "https://github.com/plexus/python-http-client-server",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1274,
+      "Shell": 233
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.74,
+    "S_code": 1.47,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "integrant",
+    "full_name": "plexus/integrant",
+    "html_url": "https://github.com/plexus/integrant",
+    "description": "Micro-framework for data-driven architecture",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 35391
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.28,
+    "S_code": 34.56,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "us-energy-slopegraph",
+    "full_name": "plexus/us-energy-slopegraph",
+    "html_url": "https://github.com/plexus/us-energy-slopegraph",
+    "description": "A slopegraph example with D3.js and ClojureScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 10848,
+      "HTML": 442,
+      "CSS": 253
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.64,
+    "S_code": 11.27,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "maple",
+    "full_name": "plexus/maple",
+    "html_url": "https://github.com/plexus/maple",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 3529
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 61.72,
+    "S_code": 3.45,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "leiningen",
+    "full_name": "plexus/leiningen",
+    "html_url": "https://github.com/plexus/leiningen",
+    "description": "Automate Clojure projects without setting your hair on fire.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 539089,
+      "Shell": 30017,
+      "Batchfile": 13650,
+      "PowerShell": 6288,
+      "Emacs Lisp": 3396,
+      "Java": 361
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 289.45,
+    "S_code": 578.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "slacker",
+    "full_name": "plexus/slacker",
+    "html_url": "https://github.com/plexus/slacker",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 98145,
+      "JavaScript": 561
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 58.2,
+    "S_code": 96.39,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "tick",
+    "full_name": "plexus/tick",
+    "html_url": "https://github.com/plexus/tick",
+    "description": "Time as a value.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 88161
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 43.05,
+    "S_code": 86.09,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "derivatives",
+    "full_name": "plexus/derivatives",
+    "html_url": "https://github.com/plexus/derivatives",
+    "description": "🌱 Your companion to create derived values from a single source (atom)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 22242,
+      "HTML": 647
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.18,
+    "S_code": 22.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "adventofcode-clojurians",
+    "full_name": "plexus/adventofcode-clojurians",
+    "html_url": "https://github.com/plexus/adventofcode-clojurians",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "clojure",
+    "full_name": "plexus/clojure",
+    "html_url": "https://github.com/plexus/clojure",
+    "description": "The Clojure programming language",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 1835201,
+      "Clojure": 1234127,
+      "HTML": 23294,
+      "Shell": 276
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1510.2,
+    "S_code": 3020.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "yakshav.es",
+    "full_name": "plexus/yakshav.es",
+    "html_url": "https://github.com/plexus/yakshav.es",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 55322,
+      "CSS": 985,
+      "Shell": 351
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 27.67,
+    "S_code": 55.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cassandra-intro",
+    "full_name": "plexus/cassandra-intro",
+    "html_url": "https://github.com/plexus/cassandra-intro",
+    "description": "nothing to see here (seriously)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 2144
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.05,
+    "S_code": 2.09,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dotemacs",
+    "full_name": "plexus/dotemacs",
+    "html_url": "https://github.com/plexus/dotemacs",
+    "description": "My personal emacs configuration, hopefully in a sharable state.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Emacs Lisp": 87889
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 42.91,
+    "S_code": 85.83,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "pomegranate",
+    "full_name": "plexus/pomegranate",
+    "html_url": "https://github.com/plexus/pomegranate",
+    "description": "A sane Clojure API for Aether / Maven Resolver + dynamic runtime modification of the classpath",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 78985,
+      "HTML": 12915,
+      "AGS Script": 242
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 44.99,
+    "S_code": 89.98,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lein-figwheel",
+    "full_name": "plexus/lein-figwheel",
+    "html_url": "https://github.com/plexus/lein-figwheel",
+    "description": "Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 372687,
+      "HTML": 3834,
+      "JavaScript": 622,
+      "CSS": 566,
+      "Shell": 504
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 184.67,
+    "S_code": 369.35,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tachyons",
+    "full_name": "plexus/tachyons",
+    "html_url": "https://github.com/plexus/tachyons",
+    "description": "Functional css for humans",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 271173,
+      "HTML": 394
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 132.6,
+    "S_code": 265.2,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sparkledriver",
+    "full_name": "plexus/sparkledriver",
+    "html_url": "https://github.com/plexus/sparkledriver",
+    "description": "A clojure wrapper for jBrowserDriver, which is a Selenium-compatible wrapper around JFX embedded WebKit.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 8977
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.38,
+    "S_code": 8.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "boot-cljs-repl",
+    "full_name": "plexus/boot-cljs-repl",
+    "html_url": "https://github.com/plexus/boot-cljs-repl",
+    "description": "Boot task providing a REPL for ClojureScript development.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 9290
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.54,
+    "S_code": 9.07,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "haslett",
+    "full_name": "plexus/haslett",
+    "html_url": "https://github.com/plexus/haslett",
+    "description": "A lightweight WebSocket library for ClojureScript",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 6372
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.11,
+    "S_code": 6.22,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "elpa",
+    "full_name": "plexus/elpa",
+    "html_url": "https://github.com/plexus/elpa",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Emacs Lisp": 16988
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 58.29,
+    "S_code": 16.59,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "surfplank",
+    "full_name": "plexus/surfplank",
+    "html_url": "https://github.com/plexus/surfplank",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "boot",
+    "full_name": "plexus/boot",
+    "html_url": "https://github.com/plexus/boot",
+    "description": "Build tooling for Clojure.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 434391,
+      "Java": 20855,
+      "Makefile": 3674,
+      "Go": 1443
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 224.79,
+    "S_code": 449.57,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "unrepl",
+    "full_name": "plexus/unrepl",
+    "html_url": "https://github.com/plexus/unrepl",
+    "description": "A common ground for better Clojure REPLs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 30485
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.89,
+    "S_code": 29.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "chestnut-sans-logger",
+    "full_name": "plexus/chestnut-sans-logger",
+    "html_url": "https://github.com/plexus/chestnut-sans-logger",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 10004,
+      "HTML": 396,
+      "Emacs Lisp": 195,
+      "CSS": 37
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 25.19,
+    "S_code": 10.38,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "maria",
+    "full_name": "plexus/maria",
+    "html_url": "https://github.com/plexus/maria",
+    "description": "ClojureScript REPL for beginners, runs in a web browser.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 142776,
+      "CSS": 2520,
+      "JavaScript": 1026,
+      "HTML": 449
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 71.67,
+    "S_code": 143.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "re-frame-template",
+    "full_name": "plexus/re-frame-template",
+    "html_url": "https://github.com/plexus/re-frame-template",
+    "description": "Leiningen template for reagent web app based on the re-frame pattern. Includes figwheel and optionally cider, doo, compjure, garden, less, re-com, and secretary.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 17824,
+      "Shell": 1755,
+      "HTML": 920,
+      "CSS": 23
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 20.02,
+    "S_code": 20.04,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "lumo",
+    "full_name": "plexus/lumo",
+    "html_url": "https://github.com/plexus/lumo",
+    "description": "Fast, cross-platform, standalone ClojureScript environment",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 228023,
+      "JavaScript": 112214,
+      "Batchfile": 7103,
+      "Shell": 6555
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 172.8,
+    "S_code": 345.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "calvin",
+    "full_name": "plexus/calvin",
+    "html_url": "https://github.com/plexus/calvin",
+    "description": "A minimalistic build tool for clojurescript projects that does not require the jvm",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 11514,
+      "Shell": 174
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.71,
+    "S_code": 11.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rgsoc-teams",
+    "full_name": "plexus/rgsoc-teams",
+    "html_url": "https://github.com/plexus/rgsoc-teams",
+    "description": "Teams management and activity ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 558529,
+      "HTML": 155527,
+      "CSS": 17129,
+      "JavaScript": 8671,
+      "CoffeeScript": 1703
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 392.09,
+    "S_code": 724.18,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "spicerack",
+    "full_name": "plexus/spicerack",
+    "html_url": "https://github.com/plexus/spicerack",
+    "description": "A Clojure wrapper for MapDB, which is a fast, disk-persistent data-structures library.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 9029
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.41,
+    "S_code": 8.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "clj-redis-session",
+    "full_name": "plexus/clj-redis-session",
+    "html_url": "https://github.com/plexus/clj-redis-session",
+    "description": "Redis backed Clojure/Ring session store",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 1815
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.89,
+    "S_code": 1.77,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "prezel",
+    "full_name": "plexus/prezel",
+    "html_url": "https://github.com/plexus/prezel",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 83213,
+      "Clojure": 16857,
+      "HTML": 660,
+      "Emacs Lisp": 204
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 69.28,
+    "S_code": 98.57,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "handler-demo",
+    "full_name": "plexus/handler-demo",
+    "html_url": "https://github.com/plexus/handler-demo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 9099,
+      "HTML": 338,
+      "Emacs Lisp": 199,
+      "CSS": 37
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 34.72,
+    "S_code": 9.45,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "reactjs.berlin",
+    "full_name": "plexus/reactjs.berlin",
+    "html_url": "https://github.com/plexus/reactjs.berlin",
+    "description": "The official ReactJS Berlin website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 30594,
+      "CSS": 26142
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 27.7,
+    "S_code": 55.41,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "clojure-lanterna",
+    "full_name": "plexus/clojure-lanterna",
+    "html_url": "https://github.com/plexus/clojure-lanterna",
+    "description": "A Clojurey wrapper around the Lanterna terminal output library.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 23218
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.34,
+    "S_code": 22.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tools.reader",
+    "full_name": "plexus/tools.reader",
+    "html_url": "https://github.com/plexus/tools.reader",
+    "description": "Clojure reader in Clojure",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 209457,
+      "HTML": 12638
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 108.44,
+    "S_code": 216.89,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "honeypot-ruby-class",
+    "full_name": "plexus/honeypot-ruby-class",
+    "html_url": "https://github.com/plexus/honeypot-ruby-class",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 27678,
+      "HTML": 384
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 83.7,
+    "S_code": 27.4,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "system",
+    "full_name": "plexus/system",
+    "html_url": "https://github.com/plexus/system",
+    "description": "Reloaded components à la carte",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 64272,
+      "Shell": 1076
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 31.91,
+    "S_code": 63.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rubees-docs",
+    "full_name": "plexus/rubees-docs",
+    "html_url": "https://github.com/plexus/rubees-docs",
+    "description": "https://plexus.github.io/rubees-docs/",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 11180,
+      "HTML": 1507,
+      "Ruby": 782,
+      "JavaScript": 48
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 66.6,
+    "S_code": 13.2,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "fwtest",
+    "full_name": "plexus/fwtest",
+    "html_url": "https://github.com/plexus/fwtest",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 885
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.43,
+    "S_code": 0.86,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "testing-for-beginners",
+    "full_name": "plexus/testing-for-beginners",
+    "html_url": "https://github.com/plexus/testing-for-beginners",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 10605,
+      "CSS": 9465,
+      "HTML": 4322,
+      "JavaScript": 3487,
+      "Shell": 724
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 13.97,
+    "S_code": 27.93,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "http-twiddle",
+    "full_name": "plexus/http-twiddle",
+    "html_url": "https://github.com/plexus/http-twiddle",
+    "description": "HTTP debugging tool (Emacs mode)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Emacs Lisp": 8861
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.33,
+    "S_code": 8.65,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "clojure-error-message-catalog",
+    "full_name": "plexus/clojure-error-message-catalog",
+    "html_url": "https://github.com/plexus/clojure-error-message-catalog",
+    "description": "a catalog of common Clojure errors and their meaning",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mondriaan",
+    "full_name": "plexus/mondriaan",
+    "html_url": "https://github.com/plexus/mondriaan",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 9114,
+      "HTML": 335,
+      "CSS": 122
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 24.67,
+    "S_code": 9.35,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "bouncer",
+    "full_name": "plexus/bouncer",
+    "html_url": "https://github.com/plexus/bouncer",
+    "description": "A validation DSL for Clojure & Clojurescript applications",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 37721
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 18.42,
+    "S_code": 36.84,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "vitamin-d-cljs",
+    "full_name": "plexus/vitamin-d-cljs",
+    "html_url": "https://github.com/plexus/vitamin-d-cljs",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2859657,
+      "Clojure": 524900,
+      "HTML": 295
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 1672.76,
+    "S_code": 3305.52,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "expectations",
+    "full_name": "plexus/expectations",
+    "html_url": "https://github.com/plexus/expectations",
+    "description": "a minimalist's unit testing framework",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 54299,
+      "Java": 2291,
+      "JavaScript": 220,
+      "Shell": 70
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 57.77,
+    "S_code": 55.55,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "luminus",
+    "full_name": "plexus/luminus",
+    "html_url": "https://github.com/plexus/luminus",
+    "description": "documentation site for Luminus framework",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 12255,
+      "HTML": 10361,
+      "Clojure": 5417,
+      "JavaScript": 1357
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.35,
+    "S_code": 28.7,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "recordmydesktop",
+    "full_name": "plexus/recordmydesktop",
+    "html_url": "https://github.com/plexus/recordmydesktop",
+    "description": "Clone of https://recordmydesktop.svn.sourceforge.net/svnroot/recordmydesktop/trunk",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 408137,
+      "Python": 184164,
+      "Shell": 29930,
+      "C++": 21226,
+      "Groff": 12487,
+      "Makefile": 3822
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 372.15,
+    "S_code": 644.3,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "shoes4",
+    "full_name": "plexus/shoes4",
+    "html_url": "https://github.com/plexus/shoes4",
+    "description": "Shoes 4 : the next version of Shoes",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 646884,
+      "Shell": 1801,
+      "Batchfile": 828
+    },
+    "contributions_by_user": 25,
+    "contribution_score": 567.15,
+    "S_code": 634.29,
+    "S_social": 0,
+    "S_maint": 25
+  },
+  {
+    "name": "happy_flashcards",
+    "full_name": "plexus/happy_flashcards",
+    "html_url": "https://github.com/plexus/happy_flashcards",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 18540,
+      "HTML": 6588
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 182.27,
+    "S_code": 24.54,
+    "S_social": 0,
+    "S_maint": 17
+  },
+  {
+    "name": "clj-jgit",
+    "full_name": "plexus/clj-jgit",
+    "html_url": "https://github.com/plexus/clj-jgit",
+    "description": "Clojure wrapper around JGit",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 46352
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22.63,
+    "S_code": 45.27,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "curriculum",
+    "full_name": "plexus/curriculum",
+    "html_url": "https://github.com/plexus/curriculum",
+    "description": "Curriculum for the ClojureBridge workshop series.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 144047,
+      "CSS": 135665,
+      "HTML": 31689,
+      "Ruby": 3110
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 163.57,
+    "S_code": 307.14,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "highlight-escape-sequences",
+    "full_name": "plexus/highlight-escape-sequences",
+    "html_url": "https://github.com/plexus/highlight-escape-sequences",
+    "description": "Highlight escape sequences in Emacs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Emacs Lisp": 7945
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.88,
+    "S_code": 7.76,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "devcard-test",
+    "full_name": "plexus/devcard-test",
+    "html_url": "https://github.com/plexus/devcard-test",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 6912,
+      "JavaScript": 1520,
+      "HTML": 437,
+      "CSS": 37
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 24.35,
+    "S_code": 8.7,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "clj-art-group",
+    "full_name": "plexus/clj-art-group",
+    "html_url": "https://github.com/plexus/clj-art-group",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 8195
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 14.0,
+    "S_code": 8.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "gemwhisperer",
+    "full_name": "plexus/gemwhisperer",
+    "html_url": "https://github.com/plexus/gemwhisperer",
+    "description": "An example app for using rubygems.org webhooks",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 11167,
+      "CSS": 8339,
+      "Ruby": 6827,
+      "HTML": 1647
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 143.66,
+    "S_code": 27.32,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "booklog",
+    "full_name": "plexus/booklog",
+    "html_url": "https://github.com/plexus/booklog",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 289934,
+      "Ruby": 34182,
+      "HTML": 4291,
+      "CSS": 1948,
+      "CoffeeScript": 211
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 341.41,
+    "S_code": 322.82,
+    "S_social": 0,
+    "S_maint": 18
+  },
+  {
+    "name": "scarab",
+    "full_name": "plexus/scarab",
+    "html_url": "https://github.com/plexus/scarab",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 10384,
+      "HTML": 426
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 45.28,
+    "S_code": 10.56,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "romtest",
+    "full_name": "plexus/romtest",
+    "html_url": "https://github.com/plexus/romtest",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 9969
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 14.87,
+    "S_code": 9.74,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "rom-rb.org",
+    "full_name": "plexus/rom-rb.org",
+    "html_url": "https://github.com/plexus/rom-rb.org",
+    "description": "Official Ruby Object Mapper website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 12057,
+      "Ruby": 7463,
+      "CSS": 2967,
+      "JavaScript": 643
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.29,
+    "S_code": 22.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "flashcards",
+    "full_name": "plexus/flashcards",
+    "html_url": "https://github.com/plexus/flashcards",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 5731,
+      "HTML": 1260
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.41,
+    "S_code": 6.83,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "streak",
+    "full_name": "plexus/streak",
+    "html_url": "https://github.com/plexus/streak",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "form-urlencoded",
+    "full_name": "plexus/form-urlencoded",
+    "html_url": "https://github.com/plexus/form-urlencoded",
+    "description": "Encodes and decodes `x-www-form-urlencoded` string data",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 11458
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 25.59,
+    "S_code": 11.19,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "resistor-geonames",
+    "full_name": "plexus/resistor-geonames",
+    "html_url": "https://github.com/plexus/resistor-geonames",
+    "description": "Automatically exported from code.google.com/p/resistor-geonames",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 13181
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.44,
+    "S_code": 12.87,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "QuilFiddle",
+    "full_name": "plexus/QuilFiddle",
+    "html_url": "https://github.com/plexus/QuilFiddle",
+    "description": "Live code with Quil (Processing + Clojure) on the web!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 5866799,
+      "Clojure": 1164797,
+      "HTML": 933,
+      "CSS": 826
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 3444.26,
+    "S_code": 6868.51,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "goatrunner",
+    "full_name": "plexus/goatrunner",
+    "html_url": "https://github.com/plexus/goatrunner",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 26423,
+      "JavaScript": 1518,
+      "HTML": 410,
+      "CSS": 37
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 63.86,
+    "S_code": 27.72,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "jnr-process",
+    "full_name": "plexus/jnr-process",
+    "html_url": "https://github.com/plexus/jnr-process",
+    "description": "A ProcessBuilder look-alike based entirely on native POSIX APIs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 5673
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 52.77,
+    "S_code": 5.54,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "avialogy",
+    "full_name": "plexus/avialogy",
+    "html_url": "https://github.com/plexus/avialogy",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 8303,
+      "Ruby": 5709,
+      "JavaScript": 5409,
+      "CSS": 1495
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.21,
+    "S_code": 20.43,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "bebop",
+    "full_name": "plexus/bebop",
+    "html_url": "https://github.com/plexus/bebop",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 9524
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 44.65,
+    "S_code": 9.3,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "brave-clojure-web",
+    "full_name": "plexus/brave-clojure-web",
+    "html_url": "https://github.com/plexus/brave-clojure-web",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 42460,
+      "CSS": 28812,
+      "JavaScript": 23450,
+      "HTML": 13336,
+      "Ruby": 11044,
+      "Java": 743,
+      "Shell": 137
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 58.58,
+    "S_code": 117.17,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lukas_pages",
+    "full_name": "plexus/lukas_pages",
+    "html_url": "https://github.com/plexus/lukas_pages",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 1320
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.64,
+    "S_code": 1.29,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "yakscart",
+    "full_name": "plexus/yakscart",
+    "html_url": "https://github.com/plexus/yakscart",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 9921
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 134.84,
+    "S_code": 9.69,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "ross-vienna",
+    "full_name": "plexus/ross-vienna",
+    "html_url": "https://github.com/plexus/ross-vienna",
+    "description": "Ruby Open Source Vienna",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 30440,
+      "HTML": 14422,
+      "Ruby": 6583,
+      "JavaScript": 337,
+      "CoffeeScript": 17
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 25.29,
+    "S_code": 50.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ruby-imagespec",
+    "full_name": "plexus/ruby-imagespec",
+    "html_url": "https://github.com/plexus/ruby-imagespec",
+    "description": "A lightweight module designed to extract the width/height dimensions of various image types. Also supports SWFs ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 9507
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 14.64,
+    "S_code": 9.28,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "income_survey",
+    "full_name": "plexus/income_survey",
+    "html_url": "https://github.com/plexus/income_survey",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 9865
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 54.82,
+    "S_code": 9.63,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "chestnut-cljs-error",
+    "full_name": "plexus/chestnut-cljs-error",
+    "html_url": "https://github.com/plexus/chestnut-cljs-error",
+    "description": "Demonstrate cljs macro issue",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 7050,
+      "CSS": 37
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.46,
+    "S_code": 6.92,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "jnr-posix",
+    "full_name": "plexus/jnr-posix",
+    "html_url": "https://github.com/plexus/jnr-posix",
+    "description": "Java Posix layer",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 387575
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 189.25,
+    "S_code": 378.49,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tantan",
+    "full_name": "plexus/tantan",
+    "html_url": "https://github.com/plexus/tantan",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Emacs Lisp": 359482,
+      "Clojure": 23916,
+      "Makefile": 1196,
+      "CSS": 60
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 267.82,
+    "S_code": 375.64,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "clochard",
+    "full_name": "plexus/clochard",
+    "html_url": "https://github.com/plexus/clochard",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 2426
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 51.18,
+    "S_code": 2.37,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "speakerinnen_liste",
+    "full_name": "plexus/speakerinnen_liste",
+    "html_url": "https://github.com/plexus/speakerinnen_liste",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 137028,
+      "CSS": 21558,
+      "JavaScript": 1511,
+      "CoffeeScript": 380
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 198.36,
+    "S_code": 156.72,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "try_feature_expressions",
+    "full_name": "plexus/try_feature_expressions",
+    "html_url": "https://github.com/plexus/try_feature_expressions",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 5469,
+      "Shell": 413,
+      "CSS": 37
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 42.89,
+    "S_code": 5.78,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "json-api",
+    "full_name": "plexus/json-api",
+    "html_url": "https://github.com/plexus/json-api",
+    "description": "A shared media type for JSON APIs.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "anima",
+    "full_name": "plexus/anima",
+    "html_url": "https://github.com/plexus/anima",
+    "description": "Object initializer from attributes hash",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "oregano",
+    "full_name": "plexus/oregano",
+    "html_url": "https://github.com/plexus/oregano",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 51044,
+      "Ruby": 7456,
+      "JavaScript": 4980
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 81.0,
+    "S_code": 61.99,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "hexp-kramdown",
+    "full_name": "plexus/hexp-kramdown",
+    "html_url": "https://github.com/plexus/hexp-kramdown",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 4063
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 41.98,
+    "S_code": 3.97,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "kramdown-metadata-parsers",
+    "full_name": "plexus/kramdown-metadata-parsers",
+    "html_url": "https://github.com/plexus/kramdown-metadata-parsers",
+    "description": null,
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "Ruby": 2013
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 18.98,
+    "S_code": 1.97,
+    "S_social": 4,
+    "S_maint": 1
+  },
+  {
+    "name": "kramdown",
+    "full_name": "plexus/kramdown",
+    "html_url": "https://github.com/plexus/kramdown",
+    "description": "kramdown is yet-another-markdown-parser but fast, pure Ruby, using a strict syntax definition and supporting several common extensions.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 278387,
+      "Shell": 2095
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 136.95,
+    "S_code": 273.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "plexus-fake-s3",
+    "full_name": "plexus/plexus-fake-s3",
+    "html_url": "https://github.com/plexus/plexus-fake-s3",
+    "description": "A lightweight server clone of Amazon S3 that simulates most of the commands supported by S3 with minimal dependencies",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 46149,
+      "Python": 2668
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 53.84,
+    "S_code": 47.67,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "sudomu",
+    "full_name": "plexus/sudomu",
+    "html_url": "https://github.com/plexus/sudomu",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 6924
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.38,
+    "S_code": 6.76,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "mienie",
+    "full_name": "plexus/mienie",
+    "html_url": "https://github.com/plexus/mienie",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 7493
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.66,
+    "S_code": 7.32,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "teashop",
+    "full_name": "plexus/teashop",
+    "html_url": "https://github.com/plexus/teashop",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 4242240,
+      "Clojure": 901431
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 2521.56,
+    "S_code": 5023.12,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "rsense-core",
+    "full_name": "plexus/rsense-core",
+    "html_url": "https://github.com/plexus/rsense-core",
+    "description": "Rsense-core contains the \"library\" portion of rsense, as well as the stubs and other artefacts it needs to run.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rsense-mode",
+    "full_name": "plexus/rsense-mode",
+    "html_url": "https://github.com/plexus/rsense-mode",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mimey",
+    "full_name": "plexus/mimey",
+    "html_url": "https://github.com/plexus/mimey",
+    "description": "A Nintendo Game Boy emulator written in Ruby",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hal-browser",
+    "full_name": "plexus/hal-browser",
+    "html_url": "https://github.com/plexus/hal-browser",
+    "description": "An API browser for the hal+json media type",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "trello_twitter_followup",
+    "full_name": "plexus/trello_twitter_followup",
+    "html_url": "https://github.com/plexus/trello_twitter_followup",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 2607
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.27,
+    "S_code": 2.55,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "code-of-conduct",
+    "full_name": "plexus/code-of-conduct",
+    "html_url": "https://github.com/plexus/code-of-conduct",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "overpass-clj",
+    "full_name": "plexus/overpass-clj",
+    "html_url": "https://github.com/plexus/overpass-clj",
+    "description": "small overpass wrapper for internal use",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 3976
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.94,
+    "S_code": 3.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "clojr",
+    "full_name": "plexus/clojr",
+    "html_url": "https://github.com/plexus/clojr",
+    "description": "A JRuby ext wrapping Clojure's data structs as efficiently as possible",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "persistent_data_structures",
+    "full_name": "plexus/persistent_data_structures",
+    "html_url": "https://github.com/plexus/persistent_data_structures",
+    "description": "A native jruby implementation of persistent data structures",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hamster",
+    "full_name": "plexus/hamster",
+    "html_url": "https://github.com/plexus/hamster",
+    "description": "Efficient, Immutable, Thread-Safe Collection classes for Ruby",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 251675
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 122.89,
+    "S_code": 245.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rubyconf.tw",
+    "full_name": "plexus/rubyconf.tw",
+    "html_url": "https://github.com/plexus/rubyconf.tw",
+    "description": "RubyConf Taiwan",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "engine",
+    "full_name": "plexus/engine",
+    "html_url": "https://github.com/plexus/engine",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 7805
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 133.81,
+    "S_code": 7.62,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "character_trainer",
+    "full_name": "plexus/character_trainer",
+    "html_url": "https://github.com/plexus/character_trainer",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 7863
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.84,
+    "S_code": 7.68,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "microrb.com",
+    "full_name": "plexus/microrb.com",
+    "html_url": "https://github.com/plexus/microrb.com",
+    "description": "micro.rb website",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rmmseg",
+    "full_name": "plexus/rmmseg",
+    "html_url": "https://github.com/plexus/rmmseg",
+    "description": null,
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "Ruby": 48921
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 81.89,
+    "S_code": 47.77,
+    "S_social": 4,
+    "S_maint": 5
+  },
+  {
+    "name": "mutant",
+    "full_name": "plexus/mutant",
+    "html_url": "https://github.com/plexus/mutant",
+    "description": "Mutation tests for ruby",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 214231
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 104.6,
+    "S_code": 209.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "rubyzip",
+    "full_name": "plexus/rubyzip",
+    "html_url": "https://github.com/plexus/rubyzip",
+    "description": "Offical Rubyzip repository",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 206665
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 100.91,
+    "S_code": 201.82,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "zhsrt",
+    "full_name": "plexus/zhsrt",
+    "html_url": "https://github.com/plexus/zhsrt",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Ruby": 5462
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 26.67,
+    "S_code": 5.33,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "bower-ember",
+    "full_name": "plexus/bower-ember",
+    "html_url": "https://github.com/plexus/bower-ember",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 2170080,
+      "Ruby": 1375
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 1080.28,
+    "S_code": 2120.56,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "active_model_serializers",
+    "full_name": "plexus/active_model_serializers",
+    "html_url": "https://github.com/plexus/active_model_serializers",
+    "description": "ActiveModel::Serializer implementation and Rails hooks",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 66109
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 72.28,
+    "S_code": 64.56,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "ember-json-api",
+    "full_name": "plexus/ember-json-api",
+    "html_url": "https://github.com/plexus/ember-json-api",
+    "description": "JSON API adapter for Ember Data. ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 11215
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.48,
+    "S_code": 10.95,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ams_jsonapi_example",
+    "full_name": "plexus/ams_jsonapi_example",
+    "html_url": "https://github.com/plexus/ams_jsonapi_example",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 2394
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 31.17,
+    "S_code": 2.34,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "rubymonsters-game",
+    "full_name": "plexus/rubymonsters-game",
+    "html_url": "https://github.com/plexus/rubymonsters-game",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 141652,
+      "CoffeeScript": 8833
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 247.48,
+    "S_code": 146.96,
+    "S_social": 2,
+    "S_maint": 17
+  },
+  {
+    "name": "rugb-201311-functional-talk",
+    "full_name": "plexus/rugb-201311-functional-talk",
+    "html_url": "https://github.com/plexus/rugb-201311-functional-talk",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 218777,
+      "CSS": 113195,
+      "Ruby": 4016
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 194.06,
+    "S_code": 328.11,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "birdsounds",
+    "full_name": "plexus/birdsounds",
+    "html_url": "https://github.com/plexus/birdsounds",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 433820,
+      "CSS": 110595,
+      "ActionScript": 76732,
+      "Ruby": 35357,
+      "Shell": 766,
+      "CoffeeScript": 653
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 421.25,
+    "S_code": 642.5,
+    "S_social": 0,
+    "S_maint": 10
+  },
+  {
+    "name": "xhelloworlds",
+    "full_name": "plexus/xhelloworlds",
+    "html_url": "https://github.com/plexus/xhelloworlds",
+    "description": "make simple hello world programs in various languages",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Clojure": 319,
+      "Scala": 289,
+      "Erlang": 259,
+      "Io": 167,
+      "C": 148,
+      "Ruby": 141,
+      "Go": 131,
+      "Elixir": 109,
+      "Common Lisp": 93,
+      "Shell": 61
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.84,
+    "S_code": 1.68,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "railsgirls_berlin_installer",
+    "full_name": "plexus/railsgirls_berlin_installer",
+    "html_url": "https://github.com/plexus/railsgirls_berlin_installer",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 5132
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 42.51,
+    "S_code": 5.01,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "xcode-cli-install",
+    "full_name": "plexus/xcode-cli-install",
+    "html_url": "https://github.com/plexus/xcode-cli-install",
+    "description": "A script to install (& remove) xcode462_cltools for Lion & mountain Lion",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 4499
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.2,
+    "S_code": 4.39,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "jasmine-sprockets",
+    "full_name": "plexus/jasmine-sprockets",
+    "html_url": "https://github.com/plexus/jasmine-sprockets",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 2175
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.06,
+    "S_code": 2.12,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "yardstick",
+    "full_name": "plexus/yardstick",
+    "html_url": "https://github.com/plexus/yardstick",
+    "description": "A tool for verifying YARD documentation coverage",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 98084
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 67.89,
+    "S_code": 95.79,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "devtools",
+    "full_name": "plexus/devtools",
+    "html_url": "https://github.com/plexus/devtools",
+    "description": "The perfect rake ci task!",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 22424
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.95,
+    "S_code": 21.9,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hexp_ui",
+    "full_name": "plexus/hexp_ui",
+    "html_url": "https://github.com/plexus/hexp_ui",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 7734
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 93.78,
+    "S_code": 7.55,
+    "S_social": 0,
+    "S_maint": 9
+  },
+  {
+    "name": "padrino-sprockets",
+    "full_name": "plexus/padrino-sprockets",
+    "html_url": "https://github.com/plexus/padrino-sprockets",
+    "description": "Integrate sprockets with padrion",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 3526
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 41.72,
+    "S_code": 3.44,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "miauwwww",
+    "full_name": "plexus/miauwwww",
+    "html_url": "https://github.com/plexus/miauwwww",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 2086
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 21.02,
+    "S_code": 2.04,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "zikoo",
+    "full_name": "plexus/zikoo",
+    "html_url": "https://github.com/plexus/zikoo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 11727
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 85.73,
+    "S_code": 11.45,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "redis-store",
+    "full_name": "plexus/redis-store",
+    "html_url": "https://github.com/plexus/redis-store",
+    "description": "Namespaced Rack::Session, Rack::Cache, I18n and cache Redis stores for Ruby web frameworks",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 68197
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 33.3,
+    "S_code": 66.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "yard-ghpages",
+    "full_name": "plexus/yard-ghpages",
+    "html_url": "https://github.com/plexus/yard-ghpages",
+    "description": "Rake tasks to push yard docs to gh-pages",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 23435,
+      "JavaScript": 11948,
+      "Ruby": 3692
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 29.08,
+    "S_code": 38.16,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "installation-scripts",
+    "full_name": "plexus/installation-scripts",
+    "html_url": "https://github.com/plexus/installation-scripts",
+    "description": "Installation scripts to get a computer ready for a Rails Girls workshop",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "paperclip_database",
+    "full_name": "plexus/paperclip_database",
+    "html_url": "https://github.com/plexus/paperclip_database",
+    "description": "database storage for paperclip",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 29253
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 24.28,
+    "S_code": 28.57,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "railsgirls_rails4",
+    "full_name": "plexus/railsgirls_rails4",
+    "html_url": "https://github.com/plexus/railsgirls_rails4",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 21610,
+      "JavaScript": 664,
+      "CoffeeScript": 211
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 30.98,
+    "S_code": 21.96,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "builder_spec",
+    "full_name": "plexus/builder_spec",
+    "html_url": "https://github.com/plexus/builder_spec",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 4028
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 21.97,
+    "S_code": 3.93,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "pomodoro_tracker",
+    "full_name": "plexus/pomodoro_tracker",
+    "html_url": "https://github.com/plexus/pomodoro_tracker",
+    "description": "A tiny shoes application written to keep track of working items and pomodoros",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 45951
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22.44,
+    "S_code": 44.87,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "solidare-it",
+    "full_name": "plexus/solidare-it",
+    "html_url": "https://github.com/plexus/solidare-it",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "PHP": 25548
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.47,
+    "S_code": 24.95,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "frp_shoes",
+    "full_name": "plexus/frp_shoes",
+    "html_url": "https://github.com/plexus/frp_shoes",
+    "description": "Functional Reactive Programming + Shoes",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 1237
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.6,
+    "S_code": 1.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "mdpress",
+    "full_name": "plexus/mdpress",
+    "html_url": "https://github.com/plexus/mdpress",
+    "description": "Make impress.js presentations from markdown files.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 32834,
+      "Ruby": 7708
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 19.8,
+    "S_code": 39.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "oerb",
+    "full_name": "plexus/oerb",
+    "html_url": "https://github.com/plexus/oerb",
+    "description": "OpenERP Report Baker, make financial reports from a plain text description.",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "Ruby": 12525
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 144.12,
+    "S_code": 12.23,
+    "S_social": 4,
+    "S_maint": 13
+  },
+  {
+    "name": "wtls-data",
+    "full_name": "plexus/wtls-data",
+    "html_url": "https://github.com/plexus/wtls-data",
+    "description": "PCL files, and corresponding PDFs (one group by @steveklabnik, the other by @tsion), from whytheluckystiff.net.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 6667,
+      "Shell": 105
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.31,
+    "S_code": 6.61,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "chef-repo",
+    "full_name": "plexus/chef-repo",
+    "html_url": "https://github.com/plexus/chef-repo",
+    "description": "A blank Chef repository - use as a base to build your own",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 3116
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.52,
+    "S_code": 3.04,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "salesforce_bulk",
+    "full_name": "plexus/salesforce_bulk",
+    "html_url": "https://github.com/plexus/salesforce_bulk",
+    "description": "Simple Salesforce Bulk API interface",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Ruby": 17957
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 122.77,
+    "S_code": 17.54,
+    "S_social": 2,
+    "S_maint": 11
+  },
+  {
+    "name": "eui-bus",
+    "full_name": "plexus/eui-bus",
+    "html_url": "https://github.com/plexus/eui-bus",
+    "description": "Simple scraper for bus information around EUI in Florence, Italy.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 5772
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.82,
+    "S_code": 5.64,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "trogdoro-el4r",
+    "full_name": "plexus/trogdoro-el4r",
+    "html_url": "https://github.com/plexus/trogdoro-el4r",
+    "description": "Emacs Lisp Ruby bridge: extend Emacs with Ruby (or Ruby apps with Emacs Lisp)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 147609,
+      "Emacs Lisp": 16519,
+      "Eiffel": 4713
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 82.44,
+    "S_code": 164.88,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "chruby",
+    "full_name": "plexus/chruby",
+    "html_url": "https://github.com/plexus/chruby",
+    "description": "Changes the current Ruby",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 16738,
+      "Ruby": 2331
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9.31,
+    "S_code": 18.62,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "prezto",
+    "full_name": "plexus/prezto",
+    "html_url": "https://github.com/plexus/prezto",
+    "description": "The configuration framework for Zsh",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "arel",
+    "full_name": "plexus/arel",
+    "html_url": "https://github.com/plexus/arel",
+    "description": "A Relational Algebra",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "dm-mapper",
+    "full_name": "plexus/dm-mapper",
+    "html_url": "https://github.com/plexus/dm-mapper",
+    "description": "Mapper for DataMapper 2",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 352928
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 172.33,
+    "S_code": 344.66,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "databasedotcom",
+    "full_name": "plexus/databasedotcom",
+    "html_url": "https://github.com/plexus/databasedotcom",
+    "description": "Ruby client for the Database.com and Chatter APIs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 205416
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 100.3,
+    "S_code": 200.6,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "docrails",
+    "full_name": "plexus/docrails",
+    "html_url": "https://github.com/plexus/docrails",
+    "description": "PLEASE CHECK http://github.com/lifo/docrails/wikis",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 7862999,
+      "JavaScript": 81509,
+      "CoffeeScript": 633
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3879.46,
+    "S_code": 7758.93,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "eavesdrop",
+    "full_name": "plexus/eavesdrop",
+    "html_url": "https://github.com/plexus/eavesdrop",
+    "description": "Eavesdrop on your Ruby classes",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 3839
+    },
+    "contributions_by_user": 12,
+    "contribution_score": 121.87,
+    "S_code": 3.75,
+    "S_social": 0,
+    "S_maint": 12
+  },
+  {
+    "name": "hanzi_colors",
+    "full_name": "plexus/hanzi_colors",
+    "html_url": "https://github.com/plexus/hanzi_colors",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 4310
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.1,
+    "S_code": 4.21,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "openerp-account_invoice_total",
+    "full_name": "plexus/openerp-account_invoice_total",
+    "html_url": "https://github.com/plexus/openerp-account_invoice_total",
+    "description": "Account_invoice_total module for OpenERP",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 4751
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 26.32,
+    "S_code": 4.64,
+    "S_social": 2,
+    "S_maint": 2
+  },
+  {
+    "name": "chef-loosechange",
+    "full_name": "plexus/chef-loosechange",
+    "html_url": "https://github.com/plexus/chef-loosechange",
+    "description": "Assorted small Chef recipes",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 2832,
+      "Shell": 156
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 31.46,
+    "S_code": 2.92,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "chef-openerp",
+    "full_name": "plexus/chef-openerp",
+    "html_url": "https://github.com/plexus/chef-openerp",
+    "description": "Chef cookbook for OpenERP",
+    "stars": 0,
+    "forks": 2,
+    "languages": {
+      "Ruby": 8589
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 12.19,
+    "S_code": 8.39,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "capistrano-extras",
+    "full_name": "plexus/capistrano-extras",
+    "html_url": "https://github.com/plexus/capistrano-extras",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 1925
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 80.94,
+    "S_code": 1.88,
+    "S_social": 0,
+    "S_maint": 8
+  },
+  {
+    "name": "chef-postgresql",
+    "full_name": "plexus/chef-postgresql",
+    "html_url": "https://github.com/plexus/chef-postgresql",
+    "description": "Development repository for Opscode Cookbook postgresql",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 18111
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 38.84,
+    "S_code": 17.69,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "sprinkle",
+    "full_name": "plexus/sprinkle",
+    "html_url": "https://github.com/plexus/sprinkle",
+    "description": "Sprinkle is a software provisioning tool you can use to build remote servers with. eg. to install a Rails, or Sinatra stack on a brand new slice directly after its been created",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 220260
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 107.55,
+    "S_code": 215.1,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tabletastic",
+    "full_name": "plexus/tabletastic",
+    "html_url": "https://github.com/plexus/tabletastic",
+    "description": "A smart table builder for Rails collections",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 32485
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 15.86,
+    "S_code": 31.72,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "puppet-openerp",
+    "full_name": "plexus/puppet-openerp",
+    "html_url": "https://github.com/plexus/puppet-openerp",
+    "description": "install openerp server/client/web-client",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Puppet": 10402,
+      "Shell": 1013
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.57,
+    "S_code": 11.15,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "capistrano",
+    "full_name": "plexus/capistrano",
+    "html_url": "https://github.com/plexus/capistrano",
+    "description": "Remote multi-server automation tool",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Ruby": 427778
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 208.88,
+    "S_code": 417.75,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

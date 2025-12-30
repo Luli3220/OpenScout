@@ -1,0 +1,447 @@
+[
+  {
+    "name": "bearblog",
+    "full_name": "HermanMartinus/bearblog",
+    "html_url": "https://github.com/HermanMartinus/bearblog",
+    "description": "Free, no-nonsense, super fast blogging.",
+    "stars": 4552,
+    "forks": 149,
+    "languages": {
+      "CSS": 483808,
+      "JavaScript": 373875,
+      "Python": 228110,
+      "HTML": 135130,
+      "Makefile": 579,
+      "Procfile": 125
+    },
+    "contributions_by_user": 2117,
+    "contribution_score": 31466.5,
+    "S_code": 1193.0,
+    "S_social": 4850,
+    "S_maint": 2117
+  },
+  {
+    "name": "bearlytics",
+    "full_name": "HermanMartinus/bearlytics",
+    "html_url": "https://github.com/HermanMartinus/bearlytics",
+    "description": null,
+    "stars": 264,
+    "forks": 8,
+    "languages": {
+      "JavaScript": 108585,
+      "CSS": 91394,
+      "Python": 28197,
+      "HTML": 22716,
+      "Dockerfile": 623,
+      "Shell": 360,
+      "Makefile": 173,
+      "Procfile": 70
+    },
+    "contributions_by_user": 79,
+    "contribution_score": 1473.1,
+    "S_code": 246.21,
+    "S_social": 280,
+    "S_maint": 79
+  },
+  {
+    "name": "horus-webapp",
+    "full_name": "HermanMartinus/horus-webapp",
+    "html_url": "https://github.com/HermanMartinus/horus-webapp",
+    "description": null,
+    "stars": 26,
+    "forks": 5,
+    "languages": {
+      "HTML": 37391,
+      "JavaScript": 10064,
+      "CSS": 6545
+    },
+    "contributions_by_user": 76,
+    "contribution_score": 858.37,
+    "S_code": 52.73,
+    "S_social": 36,
+    "S_maint": 76
+  },
+  {
+    "name": "bear-plugins",
+    "full_name": "HermanMartinus/bear-plugins",
+    "html_url": "https://github.com/HermanMartinus/bear-plugins",
+    "description": "Plugins for Bear Blog",
+    "stars": 25,
+    "forks": 5,
+    "languages": {
+      "JavaScript": 33110
+    },
+    "contributions_by_user": 27,
+    "contribution_score": 356.17,
+    "S_code": 32.33,
+    "S_social": 35,
+    "S_maint": 27
+  },
+  {
+    "name": "Horus",
+    "full_name": "HermanMartinus/Horus",
+    "html_url": "https://github.com/HermanMartinus/Horus",
+    "description": "The keeper of the keys",
+    "stars": 12,
+    "forks": 3,
+    "languages": {
+      "Python": 2805,
+      "Shell": 130
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 167.43,
+    "S_code": 2.87,
+    "S_social": 18,
+    "S_maint": 13
+  },
+  {
+    "name": "justsketchme-frontend",
+    "full_name": "HermanMartinus/justsketchme-frontend",
+    "html_url": "https://github.com/HermanMartinus/justsketchme-frontend",
+    "description": null,
+    "stars": 4,
+    "forks": 2,
+    "languages": {
+      "HTML": 33573,
+      "SCSS": 31986,
+      "Ruby": 243
+    },
+    "contributions_by_user": 501,
+    "contribution_score": 5058.13,
+    "S_code": 64.26,
+    "S_social": 8,
+    "S_maint": 501
+  },
+  {
+    "name": "valley-view",
+    "full_name": "HermanMartinus/valley-view",
+    "html_url": "https://github.com/HermanMartinus/valley-view",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "SCSS": 42939,
+      "HTML": 25137,
+      "Ruby": 108
+    },
+    "contributions_by_user": 34,
+    "contribution_score": 375.29,
+    "S_code": 66.59,
+    "S_social": 1,
+    "S_maint": 34
+  },
+  {
+    "name": "512kb.club",
+    "full_name": "HermanMartinus/512kb.club",
+    "html_url": "https://github.com/HermanMartinus/512kb.club",
+    "description": "Website for the 512 KB Club",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "HTML": 9001,
+      "CSS": 5783,
+      "Python": 4302,
+      "Ruby": 527,
+      "JavaScript": 478,
+      "Shell": 174
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.9,
+    "S_code": 19.79,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "easy-cors",
+    "full_name": "HermanMartinus/easy-cors",
+    "html_url": "https://github.com/HermanMartinus/easy-cors",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 6850,
+      "HTML": 5286,
+      "Procfile": 74
+    },
+    "contributions_by_user": 15,
+    "contribution_score": 157.96,
+    "S_code": 11.92,
+    "S_social": 1,
+    "S_maint": 15
+  },
+  {
+    "name": "pandabutts",
+    "full_name": "HermanMartinus/pandabutts",
+    "html_url": "https://github.com/HermanMartinus/pandabutts",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 65484
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 73.97,
+    "S_code": 63.95,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "cool-password-manager",
+    "full_name": "HermanMartinus/cool-password-manager",
+    "html_url": "https://github.com/HermanMartinus/cool-password-manager",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 31121,
+      "CSS": 10208,
+      "HTML": 4324
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 44.29,
+    "S_code": 44.58,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "pirate-bomb",
+    "full_name": "HermanMartinus/pirate-bomb",
+    "html_url": "https://github.com/HermanMartinus/pirate-bomb",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "C#": 97579,
+      "ShaderLab": 13381
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 120.18,
+    "S_code": 108.36,
+    "S_social": 3,
+    "S_maint": 6
+  },
+  {
+    "name": "IntoOuterBass",
+    "full_name": "HermanMartinus/IntoOuterBass",
+    "html_url": "https://github.com/HermanMartinus/IntoOuterBass",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 112446,
+      "Smalltalk": 5533
+    },
+    "contributions_by_user": 69,
+    "contribution_score": 749.61,
+    "S_code": 115.21,
+    "S_social": 1,
+    "S_maint": 69
+  },
+  {
+    "name": "SteriBros",
+    "full_name": "HermanMartinus/SteriBros",
+    "html_url": "https://github.com/HermanMartinus/SteriBros",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 9146
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 46.47,
+    "S_code": 8.93,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "out-the-door",
+    "full_name": "HermanMartinus/out-the-door",
+    "html_url": "https://github.com/HermanMartinus/out-the-door",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C#": 15459
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 19.55,
+    "S_code": 15.1,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "kickr",
+    "full_name": "HermanMartinus/kickr",
+    "html_url": "https://github.com/HermanMartinus/kickr",
+    "description": "Boilerplate for Make2018 AR workshop",
+    "stars": 1,
+    "forks": 8,
+    "languages": {
+      "C#": 17049,
+      "ShaderLab": 12479
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 58.42,
+    "S_code": 28.84,
+    "S_social": 17,
+    "S_maint": 1
+  },
+  {
+    "name": "public-suffix-list",
+    "full_name": "HermanMartinus/public-suffix-list",
+    "html_url": "https://github.com/HermanMartinus/public-suffix-list",
+    "description": "The Public Suffix List",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 255547,
+      "Python": 26353,
+      "JavaScript": 3049,
+      "Makefile": 1414,
+      "Shell": 1169
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 140.4,
+    "S_code": 280.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "HermanMartinus.github.io",
+    "full_name": "HermanMartinus/HermanMartinus.github.io",
+    "html_url": "https://github.com/HermanMartinus/HermanMartinus.github.io",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 29347,
+      "HTML": 17355,
+      "CSS": 12528,
+      "Makefile": 148
+    },
+    "contributions_by_user": 75,
+    "contribution_score": 778.99,
+    "S_code": 57.99,
+    "S_social": 0,
+    "S_maint": 75
+  },
+  {
+    "name": "WorldAfterCapital",
+    "full_name": "HermanMartinus/WorldAfterCapital",
+    "html_url": "https://github.com/HermanMartinus/WorldAfterCapital",
+    "description": "Technological progress has shifted scarcity for humanity.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 2438
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1.19,
+    "S_code": 2.38,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lecture-notes",
+    "full_name": "HermanMartinus/lecture-notes",
+    "html_url": "https://github.com/HermanMartinus/lecture-notes",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 72089,
+      "C#": 13286
+    },
+    "contributions_by_user": 20,
+    "contribution_score": 241.69,
+    "S_code": 83.37,
+    "S_social": 0,
+    "S_maint": 20
+  },
+  {
+    "name": "bulma",
+    "full_name": "HermanMartinus/bulma",
+    "html_url": "https://github.com/HermanMartinus/bulma",
+    "description": "Modern CSS framework based on Flexbox",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 120742,
+      "Shell": 1252
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 59.57,
+    "S_code": 119.13,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Prana",
+    "full_name": "HermanMartinus/Prana",
+    "html_url": "https://github.com/HermanMartinus/Prana",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 6551
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 63.2,
+    "S_code": 6.4,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "UpAndAway",
+    "full_name": "HermanMartinus/UpAndAway",
+    "html_url": "https://github.com/HermanMartinus/UpAndAway",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "ShaderLab": 62419,
+      "HLSL": 9049,
+      "C#": 7064
+    },
+    "contributions_by_user": 13,
+    "contribution_score": 168.35,
+    "S_code": 76.69,
+    "S_social": 0,
+    "S_maint": 13
+  },
+  {
+    "name": "waldos-pizza",
+    "full_name": "HermanMartinus/waldos-pizza",
+    "html_url": "https://github.com/HermanMartinus/waldos-pizza",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 635
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 50.31,
+    "S_code": 0.62,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "sparrow-master",
+    "full_name": "HermanMartinus/sparrow-master",
+    "html_url": "https://github.com/HermanMartinus/sparrow-master",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "CSS": 37404,
+      "HTML": 19509,
+      "JavaScript": 6647,
+      "Ruby": 879
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 101.46,
+    "S_code": 62.93,
+    "S_social": 0,
+    "S_maint": 7
+  }
+]

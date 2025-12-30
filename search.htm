@@ -12,12 +12,12 @@
     <style>
         /* Custom Theme Configuration */
         :root {
-            --bg-color: #fcfbf9;
+            --bg-color: #f8fafc;
             --card-bg: #ffffff;
-            --text-main: #334155;
+            --text-main: #1e293b;
             --text-muted: #64748b;
-            --accent: #ea580c;
-            /* Burnt Orange */
+            --accent: #f97316;
+            --accent-hover: #ea580c;
             --border: #e2e8f0;
         }
 
@@ -25,6 +25,15 @@
             background-color: var(--bg-color);
             color: var(--text-main);
             font-family: 'Inter', system-ui, sans-serif;
+            background-image: radial-gradient(#e2e8f0 1px, transparent 1px);
+            background-size: 24px 24px;
+        }
+
+        /* Glassmorphism Effect */
+        .glass-panel {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.5);
         }
 
         /* Animations */
@@ -38,6 +47,20 @@
             }
         }
 
+        @keyframes float {
+            0% {
+                transform: translateY(0px);
+            }
+
+            50% {
+                transform: translateY(-10px);
+            }
+
+            100% {
+                transform: translateY(0px);
+            }
+        }
+
         .skeleton {
             animation: shimmer 2s infinite linear;
             background: linear-gradient(to right, #f1f5f9 4%, #e2e8f0 25%, #f1f5f9 36%);
@@ -46,48 +69,72 @@
             display: inline-block;
         }
 
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translate3d(0, 20px, 0);
-            }
-
-            to {
-                opacity: 1;
-                transform: none;
-            }
-        }
-
-        .fade-in-up {
-            animation: fadeInUp 0.6s ease-out both;
+        .animate-float {
+            animation: float 6s ease-in-out infinite;
         }
 
         /* Card Styling */
         .scout-card {
             background-color: var(--card-bg);
             border: 1px solid var(--border);
-            border-radius: 0.75rem;
-            /* 12px */
-            box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05);
+            border-radius: 1rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-            will-change: transform, box-shadow;
         }
 
         .scout-card:hover {
             box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
-            transform: translateY(-4px) scale(1.02);
+            transform: translateY(-4px);
             border-color: var(--accent);
-            z-index: 10;
         }
 
         .btn-primary {
-            background-color: var(--text-main);
+            background-color: var(--accent);
             color: white;
-            transition: background-color 0.2s;
+            transition: all 0.2s;
+            box-shadow: 0 4px 6px -1px rgba(249, 115, 22, 0.3);
         }
 
         .btn-primary:hover {
+            background-color: var(--accent-hover);
+            transform: translateY(-1px);
+            box-shadow: 0 10px 15px -3px rgba(249, 115, 22, 0.4);
+        }
+
+        .tab-btn {
+            transition: all 0.2s ease;
+            position: relative;
+        }
+
+        .tab-btn.active {
+            color: var(--accent);
+            background-color: #fff7ed;
+            border-color: var(--accent);
+        }
+
+        .tab-btn.active::after {
+            content: '';
+            position: absolute;
+            bottom: -1px;
+            left: 0;
+            width: 100%;
+            height: 2px;
             background-color: var(--accent);
+        }
+
+        /* Input Styling */
+        .search-input {
+            transition: all 0.2s;
+            border: 2px solid transparent;
+            background-color: #f8fafc;
+            box-shadow: inset 0 2px 4px 0 rgba(0, 0, 0, 0.05);
+        }
+
+        .search-input:focus {
+            background-color: #fff;
+            border-color: var(--accent);
+            box-shadow: 0 0 0 4px rgba(249, 115, 22, 0.1);
+            outline: none;
         }
     </style>
 </head>
@@ -95,79 +142,152 @@
 <body class="min-h-screen flex flex-col">
 
     <!-- Navigation / Header -->
-    <nav class="w-full bg-white border-b border-gray-200 sticky top-0 z-50">
+    <nav class="w-full glass-panel sticky top-0 z-50 shadow-sm">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between h-16">
                 <div class="flex items-center gap-3">
-                    <i class="ph ph-radar text-3xl text-orange-600"></i>
+                    <div class="bg-orange-500 p-1.5 rounded-lg shadow-lg shadow-orange-500/30">
+                        <i class="ph ph-radar text-2xl text-white"></i>
+                    </div>
                     <span class="font-bold text-xl tracking-tight text-slate-800">OpenScout</span>
                 </div>
                 <div class="flex items-center gap-4">
+                    <a href="https://github.com/1panel-dev/MaxKB" target="_blank"
+                        class="flex items-center gap-2 hover:opacity-80 transition-opacity" title="Powered by MaxKB">
+                        <img src="/images/icon.png" alt="MaxKB" class="h-6 w-auto">
+                    </a>
+                    <div class="h-4 w-px bg-slate-300"></div>
                     <span class="text-sm text-slate-500 hidden md:block">Powered by OpenDigger & MaxKB</span>
-                    <button class="text-slate-600 hover:text-orange-600 transition-colors">
-                        <i class="ph ph-github-logo text-2xl"></i>
-                    </button>
                 </div>
             </div>
         </div>
     </nav>
 
     <!-- Main Content -->
-    <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full space-y-8">
+    <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 w-full space-y-12">
 
         <!-- 1. Search & Context Section -->
-        <section class="text-center space-y-4 max-w-3xl mx-auto">
-            <h1 class="text-3xl font-bold text-slate-800">开源人才智能搜索</h1>
-            <p class="text-slate-600 leading-relaxed">
-                OpenScout 利用 <strong>OpenDigger</strong> 的行为数据构建开发者画像，并结合 <strong>AI</strong> 大模型能力进行智能分析。
-                输入您的需求，立即获取匹配的开发者列表。
-            </p>
+        <section class="text-center space-y-8 max-w-4xl mx-auto relative">
+            <!-- Decorative Elements -->
+            <div
+                class="absolute top-0 left-0 -translate-x-1/2 -translate-y-1/2 w-64 h-64 bg-orange-200 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-float">
+            </div>
+            <div class="absolute bottom-0 right-0 translate-x-1/2 translate-y-1/2 w-64 h-64 bg-blue-200 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-float"
+                style="animation-delay: 2s"></div>
+
+            <div class="relative z-10 space-y-6">
+                <div
+                    class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-orange-50 text-orange-600 text-sm font-medium border border-orange-100 mb-4">
+                    <span class="relative flex h-2 w-2">
+                        <span
+                            class="animate-ping absolute inline-flex h-full w-full rounded-full bg-orange-400 opacity-75"></span>
+                        <span class="relative inline-flex rounded-full h-2 w-2 bg-orange-500"></span>
+                    </span>
+                    AI 驱动的开源人才引擎
+                </div>
+
+                <h1 class="text-4xl md:text-6xl font-extrabold text-slate-900 tracking-tight leading-tight">
+                    发现开源世界的 <br />
+                    <span
+                        class="text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-amber-600">超级贡献者</span>
+                </h1>
+
+                <p class="text-lg md:text-xl text-slate-600 max-w-2xl mx-auto leading-relaxed">
+                    基于 <strong>OpenDigger</strong> 全域数据，结合大模型深度分析。
+                    <br class="hidden md:block" />
+                    无论是寻找特定技术专家，还是探索潜在合作伙伴，OpenScout 都能为您精准导航。
+                </p>
+            </div>
+
+            <!-- Feature Highlights -->
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 max-w-3xl mx-auto mt-8">
+                <div
+                    class="bg-white/50 backdrop-blur-sm p-4 rounded-xl border border-slate-100 flex items-center gap-3 shadow-sm">
+                    <div class="bg-blue-50 p-2 rounded-lg text-blue-600"><i class="ph ph-chart-polar text-xl"></i></div>
+                    <div class="text-left">
+                        <div class="font-semibold text-slate-800 text-sm">多维能力画像</div>
+                        <div class="text-xs text-slate-500">六边形战力评估</div>
+                    </div>
+                </div>
+                <div
+                    class="bg-white/50 backdrop-blur-sm p-4 rounded-xl border border-slate-100 flex items-center gap-3 shadow-sm">
+                    <div class="bg-purple-50 p-2 rounded-lg text-purple-600"><i class="ph ph-robot text-xl"></i></div>
+                    <div class="text-left">
+                        <div class="font-semibold text-slate-800 text-sm">AI 深度解读</div>
+                        <div class="text-xs text-slate-500">技术风格智能分析</div>
+                    </div>
+                </div>
+                <div
+                    class="bg-white/50 backdrop-blur-sm p-4 rounded-xl border border-slate-100 flex items-center gap-3 shadow-sm">
+                    <div class="bg-green-50 p-2 rounded-lg text-green-600"><i class="ph ph-git-commit text-xl"></i>
+                    </div>
+                    <div class="text-left">
+                        <div class="font-semibold text-slate-800 text-sm">实时数据追踪</div>
+                        <div class="text-xs text-slate-500">同步 GitHub 动态</div>
+                    </div>
+                </div>
+            </div>
 
             <!-- 智能搜索选项卡 -->
-            <div class="mt-6">
-                <div class="flex justify-center mb-4">
-                    <div class="inline-flex rounded-md shadow-sm" role="group">
-                        <button type="button" id="idSearchTab" class="px-4 py-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-l-lg hover:bg-gray-50 focus:z-10 focus:ring-2 focus:ring-orange-500 focus:text-orange-700 focus:border-orange-500">
-                            GitHub ID 搜索
-                        </button>
-                        <button type="button" id="aiSearchTab" class="px-4 py-2 text-sm font-medium text-gray-900 bg-white border-t border-b border-gray-200 hover:bg-gray-50 focus:z-10 focus:ring-2 focus:ring-orange-500 focus:text-orange-700 focus:border-orange-500 rounded-r-lg">
-                            智能搜索
-                        </button>
-                    </div>
+            <div
+                class="mt-12 bg-white rounded-2xl shadow-xl border border-slate-100 p-2 max-w-2xl mx-auto relative z-20">
+                <div class="flex p-1 bg-slate-100 rounded-xl mb-6">
+                    <button type="button" id="idSearchTab"
+                        class="tab-btn active flex-1 py-2.5 text-sm font-semibold rounded-lg text-slate-600 hover:text-slate-900 focus:outline-none">
+                        <i class="ph ph-user mr-2"></i>GitHub ID 搜索
+                    </button>
+                    <button type="button" id="aiSearchTab"
+                        class="tab-btn flex-1 py-2.5 text-sm font-semibold rounded-lg text-slate-600 hover:text-slate-900 focus:outline-none">
+                        <i class="ph ph-sparkle mr-2"></i>智能搜索
+                    </button>
                 </div>
 
                 <!-- ID 搜索面板 -->
-                <div id="idSearchPanel" class="relative max-w-md mx-auto">
-                    <div class="flex shadow-sm rounded-md">
-                        <input type="text" id="searchInput" placeholder="输入 GitHub ID (例如: torvalds)" 
-                            class="flex-1 block w-full rounded-l-md border-gray-300 focus:border-orange-500 focus:ring-orange-500 sm:text-sm p-3 border"
-                            value="cescoffier">
-                        <button id="searchBtn" type="button" 
-                            class="btn-primary inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-r-md">
-                            <i class="ph ph-magnifying-glass mr-2 text-lg"></i> 查看详情
+                <div id="idSearchPanel" class="px-4 pb-4">
+                    <div class="flex gap-2">
+                        <div class="relative flex-1">
+                            <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                                <i class="ph ph-at text-slate-400 text-lg"></i>
+                            </div>
+                            <input type="text" id="searchInput" placeholder="输入 GitHub ID (例如: torvalds)"
+                                class="search-input block w-full pl-10 pr-3 py-3 rounded-xl sm:text-sm"
+                                value="cescoffier">
+                        </div>
+                        <button id="searchBtn" type="button"
+                            class="btn-primary inline-flex items-center px-6 py-3 border border-transparent text-sm font-bold rounded-xl whitespace-nowrap">
+                            查看详情 <i class="ph ph-arrow-right ml-2 text-lg"></i>
                         </button>
                     </div>
                     <!-- Presets for Demo -->
-                    <div class="mt-2 flex justify-center gap-2 text-xs text-slate-400">
-                        <span>示例:</span>
-                        <button class="hover:text-orange-600 underline demo-preset" data-id="HansKristian-Work">HansKristian-Work (图形学)</button>
-                        <button class="hover:text-orange-600 underline demo-preset" data-id="camilamaia">camilamaia (K8s)</button>
-                        <button class="hover:text-orange-600 underline demo-preset" data-id="cescoffier">cescoffier (Java/Quarkus)</button>
+                    <div class="mt-4 flex flex-wrap justify-center gap-3 text-xs text-slate-500">
+                        <span class="py-1">热门搜索:</span>
+                        <button
+                            class="hover:text-orange-600 hover:bg-orange-50 px-2 py-1 rounded-md transition-colors demo-preset bg-slate-50"
+                            data-id="HansKristian-Work">HansKristian-Work</button>
+                        <button
+                            class="hover:text-orange-600 hover:bg-orange-50 px-2 py-1 rounded-md transition-colors demo-preset bg-slate-50"
+                            data-id="camilamaia">camilamaia</button>
+                        <button
+                            class="hover:text-orange-600 hover:bg-orange-50 px-2 py-1 rounded-md transition-colors demo-preset bg-slate-50"
+                            data-id="cescoffier">cescoffier</button>
                     </div>
                 </div>
 
                 <!-- 智能搜索面板 -->
-                <div id="aiSearchPanel" class="relative max-w-md mx-auto hidden">
+                <div id="aiSearchPanel" class="hidden px-4 pb-4">
                     <div class="flex flex-col space-y-4">
-                        <div class="flex shadow-sm rounded-md">
-                            <textarea id="aiSearchInput" placeholder="输入您的需求，例如: 我需要一个擅长设计前端界面的人才" 
-                                class="flex-1 block w-full rounded-l-md border-gray-300 focus:border-orange-500 focus:ring-orange-500 sm:text-sm p-3 border resize-none"
-                                rows="3"></textarea>
+                        <div class="relative">
+                            <textarea id="aiSearchInput"
+                                placeholder="描述您需要的人才特征...&#10;例如: 我需要一个擅长设计前端界面，且熟悉 Vue3 生态的开发者"
+                                class="search-input block w-full p-4 rounded-xl sm:text-sm resize-none h-32"></textarea>
+                            <div class="absolute bottom-3 right-3 text-xs text-slate-400">
+                                支持自然语言描述
+                            </div>
                         </div>
                         <div class="flex justify-end">
-                            <button id="aiSearchBtn" type="button" 
-                                class="btn-primary inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md">
-                                <i class="ph ph-magnifying-glass mr-2 text-lg"></i> 搜索
+                            <button id="aiSearchBtn" type="button"
+                                class="btn-primary inline-flex items-center px-8 py-3 border border-transparent text-sm font-bold rounded-xl shadow-lg shadow-orange-500/20">
+                                <i class="ph ph-magnifying-glass mr-2 text-lg"></i> 智能匹配
                             </button>
                         </div>
                     </div>
@@ -176,12 +296,19 @@
         </section>
 
         <!-- 搜索结果展示区域 -->
-        <div id="searchResults" class="space-y-6 transition-opacity duration-500 opacity-100 hidden">
-            <div class="scout-card p-6">
-                <h2 class="text-xl font-bold text-slate-800 mb-4">搜索结果</h2>
-                <div id="resultsList" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-                    <!-- 搜索结果将通过 JavaScript 动态添加 -->
-                </div>
+        <div id="searchResults" class="hidden">
+            <div class="flex items-center justify-between mb-6">
+                <h2 class="text-2xl font-bold text-slate-800 flex items-center gap-2">
+                    <i class="ph ph-list-magnifying-glass text-orange-500"></i>
+                    搜索结果
+                </h2>
+                <span class="text-sm text-slate-500 bg-white px-3 py-1 rounded-full border border-slate-200 shadow-sm">
+                    AI 匹配完成
+                </span>
+            </div>
+
+            <div id="resultsList" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                <!-- 搜索结果将通过 JavaScript 动态添加 -->
             </div>
         </div>
     </main>
@@ -194,60 +321,66 @@
 
     <script>
         // --- 1. SEARCH FUNCTIONS ---
-        
+
         // Search Tab Listeners
         document.getElementById('idSearchTab').addEventListener('click', () => {
             document.getElementById('idSearchPanel').classList.remove('hidden');
             document.getElementById('aiSearchPanel').classList.add('hidden');
-            document.getElementById('idSearchTab').classList.add('bg-orange-50', 'border-orange-500', 'text-orange-700');
-            document.getElementById('aiSearchTab').classList.remove('bg-orange-50', 'border-orange-500', 'text-orange-700');
-            document.getElementById('aiSearchTab').classList.add('bg-white', 'border-gray-200', 'text-gray-900');
-            document.getElementById('idSearchTab').classList.remove('bg-white', 'border-gray-200', 'text-gray-900');
+
+            // Toggle Tab Styles
+            document.getElementById('idSearchTab').classList.add('active');
+            document.getElementById('aiSearchTab').classList.remove('active');
+
+            // Hide search results when switching to ID Search
+            document.getElementById('searchResults').classList.add('hidden');
         });
-        
+
         document.getElementById('aiSearchTab').addEventListener('click', () => {
             document.getElementById('idSearchPanel').classList.add('hidden');
             document.getElementById('aiSearchPanel').classList.remove('hidden');
-            document.getElementById('aiSearchTab').classList.add('bg-orange-50', 'border-orange-500', 'text-orange-700');
-            document.getElementById('idSearchTab').classList.remove('bg-orange-50', 'border-orange-500', 'text-orange-700');
-            document.getElementById('idSearchTab').classList.add('bg-white', 'border-gray-200', 'text-gray-900');
-            document.getElementById('aiSearchTab').classList.remove('bg-white', 'border-gray-200', 'text-gray-900');
+
+            // Toggle Tab Styles
+            document.getElementById('aiSearchTab').classList.add('active');
+            document.getElementById('idSearchTab').classList.remove('active');
+
+            // Optional: You might want to keep results visible or hide them too
+            // document.getElementById('searchResults').classList.add('hidden');
         });
-        
+
         // Demo Presets
         document.querySelectorAll('.demo-preset').forEach(btn => {
             btn.addEventListener('click', (e) => {
                 document.getElementById('searchInput').value = e.target.dataset.id;
             });
         });
-        
+
         // ID Search Button Listener
         document.getElementById('searchBtn').addEventListener('click', () => {
             const query = document.getElementById('searchInput').value.trim();
             if (!query) return;
-            
+
             // 跳转到详情页
             window.location.href = `/profile/${query}`;
         });
-        
+
         // ID Search Enter Key Listener
         document.getElementById('searchInput').addEventListener('keypress', (e) => {
             if (e.key === 'Enter') {
                 document.getElementById('searchBtn').click();
             }
         });
-        
+
         // AI Search Button Listener
         document.getElementById('aiSearchBtn').addEventListener('click', handleAISearch);
-        
+
         async function handleAISearch() {
             const query = document.getElementById('aiSearchInput').value.trim();
             if (!query) return;
-            
+
             // Show loading state
             document.getElementById('resultsList').innerHTML = '<div class="col-span-full text-center text-gray-500 py-12"><i class="ph ph-spinner animate-spin text-4xl mb-4"></i><div>搜索中...</div></div>';
             document.getElementById('searchResults').classList.remove('hidden');
-            
+
             try {
                 const response = await fetch('/api/search', {
                     method: 'POST',
@@ -259,11 +392,11 @@
                         limit: 12
                     })
                 });
-                
+
                 if (!response.ok) {
                     throw new Error('Search failed');
                 }
-                
+
                 const results = await response.json();
                 renderSearchResults(results);
             } catch (error) {
@@ -271,16 +404,16 @@
                 console.error('Search error:', error);
             }
         }
-        
+
         function renderSearchResults(results) {
             if (!results || results.length === 0) {
                 document.getElementById('resultsList').innerHTML = '<div class="col-span-full text-center text-gray-500 py-12">未找到匹配的开发者</div>';
                 return;
             }
-            
+
             const resultsList = document.getElementById('resultsList');
             resultsList.innerHTML = '';
-            
+
             results.forEach(result => {
                 const card = document.createElement('div');
                 card.className = 'scout-card p-4 flex flex-col items-center text-center h-full cursor-pointer hover:shadow-lg transition-shadow';
@@ -288,60 +421,88 @@
                     // 点击搜索结果跳转到详情页
                     window.location.href = `/profile/${result.username}`;
                 });
-                
+
                 const avatarContainer = document.createElement('div');
                 avatarContainer.className = 'w-16 h-16 rounded-full bg-slate-100 mb-3 flex items-center justify-center border-2 border-orange-100 relative overflow-hidden';
-                
+
+                // Default Icon
+                const defaultIcon = document.createElement('i');
+                defaultIcon.className = 'ph ph-user text-3xl text-slate-400 absolute';
+                avatarContainer.appendChild(defaultIcon);
+
                 const avatarImg = document.createElement('img');
-                avatarImg.src = result.profile.avatar_url || '';
                 avatarImg.alt = result.username;
-                avatarImg.className = 'absolute w-full h-full object-cover';
-                avatarImg.onerror = function() {
-                    this.style.display = 'none';
-                    this.parentElement.innerHTML = '<i class="ph ph-user text-3xl text-slate-400"></i>';
+                avatarImg.className = 'absolute w-full h-full object-cover z-10';
+                avatarImg.style.display = 'none'; // Hidden by default
+
+                avatarImg.onload = function () {
+                    this.style.display = 'block';
                 };
-                
+                avatarImg.onerror = function () {
+                    this.style.display = 'none';
+                };
+
+                if (result.profile.avatar_url) {
+                    avatarImg.src = result.profile.avatar_url;
+                }
+
                 avatarContainer.appendChild(avatarImg);
-                
+
                 const name = document.createElement('h3');
                 name.className = 'text-lg font-semibold text-slate-800';
                 name.textContent = result.profile.name || result.username;
-                
+
+                // Dynamically request from GitHub if avatar is missing
+                if (!result.profile.avatar_url) {
+                    fetch(`/api/github/${result.username}`)
+                        .then(res => res.json())
+                        .then(data => {
+                            if (data.avatar_url) {
+                                avatarImg.src = data.avatar_url;
+                            }
+                            if (data.name) {
+                                name.textContent = data.name;
+                            }
+                        })
+                        .catch(err => console.error(`Failed to fetch profile for ${result.username}`, err));
+                }
+
                 const handle = document.createElement('p');
                 handle.className = 'text-sm text-orange-600 font-medium mb-3';
                 handle.textContent = '@' + result.username;
-                
+
                 const similarity = document.createElement('div');
                 similarity.className = 'mt-auto w-full pt-3 border-t border-slate-100';
-                
+
                 const similarityLabel = document.createElement('div');
                 similarityLabel.className = 'text-xs text-slate-500 mb-1';
                 similarityLabel.textContent = '匹配度';
-                
+
                 const similarityBar = document.createElement('div');
                 similarityBar.className = 'w-full bg-slate-200 rounded-full h-2';
-                
+
                 const similarityFill = document.createElement('div');
                 similarityFill.className = 'bg-orange-500 h-2 rounded-full transition-all duration-500';
                 similarityFill.style.width = `${(result.similarity * 100).toFixed(0)}%`;
-                
+
                 const similarityText = document.createElement('div');
                 similarityText.className = 'text-xs text-slate-700 mt-1';
                 similarityText.textContent = `${(result.similarity * 100).toFixed(1)}%`;
-                
+
                 similarityBar.appendChild(similarityFill);
                 similarity.appendChild(similarityLabel);
                 similarity.appendChild(similarityBar);
                 similarity.appendChild(similarityText);
-                
+
                 card.appendChild(avatarContainer);
                 card.appendChild(name);
                 card.appendChild(handle);
                 card.appendChild(similarity);
-                
+
                 resultsList.appendChild(card);
             });
         }
     </script>
 </body>
+
 </html>

@@ -178,7 +178,13 @@ def main():
     
     # Load Tokens
     tokens = []
-    if os.path.exists(config_file):
+    env_tokens = [t.strip() for t in (os.environ.get("GITHUB_TOKENS") or "").split(",") if t.strip()]
+    env_token = (os.environ.get("GITHUB_TOKEN") or "").strip()
+    if env_tokens:
+        tokens = env_tokens
+    elif env_token:
+        tokens = [env_token]
+    elif os.path.exists(config_file):
         try:
             with open(config_file, 'r', encoding='utf-8') as f:
                 config = json.load(f)

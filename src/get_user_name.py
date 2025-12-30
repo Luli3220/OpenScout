@@ -185,13 +185,13 @@ def main():
     OUTPUT_FILE = os.path.join(DATA_DIR, "users_list.json")
     
     # Load configuration
-    if os.path.exists(CONFIG_FILE):
+    TOKEN = os.environ.get("GITHUB_TOKEN")
+    if not TOKEN and os.path.exists(CONFIG_FILE):
         with open(CONFIG_FILE, 'r', encoding='utf-8') as f:
             config = json.load(f)
             TOKEN = config.get("github_token")
-    else:
+    if not TOKEN:
         print("Warning: config.json not found. Please create it in the root directory.")
-        TOKEN = None
 
     START_FOLLOWERS = 500
     LIMIT = 500 

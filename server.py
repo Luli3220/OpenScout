@@ -7,6 +7,7 @@ import requests
 from fastapi import BackgroundTasks, FastAPI, HTTPException
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import HTMLResponse, FileResponse, StreamingResponse
+from pydantic import BaseModel
 import uvicorn
 import subprocess
 
@@ -14,6 +15,12 @@ app = FastAPI()
 
 # Paths
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Mount static images
+IMAGE_DIR = os.path.join(ROOT_DIR, "image")
+if os.path.exists(IMAGE_DIR):
+    app.mount("/images", StaticFiles(directory=IMAGE_DIR), name="images")
+
 DATA_DIR = os.path.join(ROOT_DIR, "data")
 SEARCH_HTML_FILE = os.path.join(ROOT_DIR, "search.htm")
 PROFILE_HTML_FILE = os.path.join(ROOT_DIR, "profile.htm")
@@ -57,14 +64,138 @@ def load_config():
     return {}
 
 config = load_config()
-MAXKB_API_URL = config.get("maxkb_api_url", "")
+MAXKB_API_URL = os.environ.get("MAXKB_API_URL") or config.get("maxkb_api_url", "")
 if MAXKB_API_URL:
     MAXKB_API_URL = f"{MAXKB_API_URL.rstrip('/')}/chat/completions"
 
-MAXKB_API_KEY = config.get("maxkb_api_key", "")
-CHATECNU_API_URL = config.get("chatecnu_api_url", "")
-CHATECNU_API_KEY = config.get("chatecnu_api_key", "")
-GITHUB_TOKEN = config.get("github_token") or ((config.get("github_tokens") or [None])[0])
+MAXKB_API_KEY = os.environ.get("MAXKB_API_KEY") or config.get("maxkb_api_key", "")
+CHATECNU_API_URL = os.environ.get("CHATECNU_API_URL") or config.get("chatecnu_api_url", "")
+CHATECNU_API_KEY = os.environ.get("CHATECNU_API_KEY") or config.get("chatecnu_api_key", "")
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN") or config.get("github_token") or ((config.get("github_tokens") or [None])[0])
+DEEPSEEK_API_URL = os.environ.get("DEEPSEEK_API_URL") or config.get("deepseek_api_url")
+DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY") or config.get("deepseek_api_key", "")
+DEEPSEEK_MODEL = os.environ.get("DEEPSEEK_MODEL") or config.get("deepseek_model", "deepseek-chat")
+
+
+class RepoAnalysisRequest(BaseModel):
+    repo_url: str
+
+
+def _parse_github_repo_url(repo_url: str):
+    match = re.search(r"github\.com/([^/]+)/([^/#?]+)", repo_url or "")
+    if not match:
+        raise HTTPException(status_code=400, detail="Invalid GitHub URL")
+    owner, repo = match.groups()
+    if repo.endswith(".git"):
+        repo = repo[:-4]
+    return owner, repo
+
+
+def _normalize_deepseek_api_url(raw_url: str):
+    url = (raw_url or "").strip().strip('"').strip("'").strip()
+    if not url:
+        return ""
+    url = url.rstrip("/")
+    if url.endswith("/chat/completions") or url.endswith("/v1/chat/completions"):
+        return url
+    return f"{url}/chat/completions"
+
+
+def fetch_github_repo_content(repo_url: str):
+    owner, repo = _parse_github_repo_url(repo_url)
+
+    headers = {"Accept": "application/vnd.github+json"}
+    if GITHUB_TOKEN:
+        headers["Authorization"] = f"token {GITHUB_TOKEN}"
+
+    repo_api_url = f"https://api.github.com/repos/{owner}/{repo}"
+    repo_resp = requests.get(repo_api_url, headers=headers, timeout=15)
+    if repo_resp.status_code != 200:
+        raise HTTPException(status_code=repo_resp.status_code, detail=f"Repository fetch failed: {repo_resp.text}")
+    repo_data = repo_resp.json()
+
+    description = repo_data.get("description") or ""
+    topics = repo_data.get("topics") or []
+
+    readme_url = f"https://api.github.com/repos/{owner}/{repo}/readme"
+    readme_headers = dict(headers)
+    readme_headers["Accept"] = "application/vnd.github.raw"
+    readme_resp = requests.get(readme_url, headers=readme_headers, timeout=20)
+    readme_content = readme_resp.text if readme_resp.status_code == 200 else ""
+
+    return {
+        "name": f"{owner}/{repo}",
+        "description": description,
+        "topics": topics if isinstance(topics, list) else [],
+        "readme": (readme_content or "")[:12000],
+        "html_url": f"https://github.com/{owner}/{repo}",
+    }
+
+
+def stream_deepseek_repo_summary(repo_data: dict, api_url: str, api_key: str, model: str):
+    if not api_key:
+        yield "DeepSeek API Key 未配置，无法进行仓库分析。".encode("utf-8")
+        return
+
+    topics_text = ", ".join([t for t in repo_data.get("topics", []) if isinstance(t, str)])
+    prompt = (
+        "请根据以下 GitHub 仓库信息，用中文输出一段话（约 120-200 字）的仓库介绍，"
+        "重点说明：它解决什么问题、核心功能/特性、典型使用场景。避免空话，尽量具体。\n\n"
+        f"仓库：{repo_data.get('name','')}\n"
+        f"URL：{repo_data.get('html_url','')}\n"
+        f"Description：{repo_data.get('description','')}\n"
+        f"Topics：{topics_text}\n\n"
+        "README（节选）：\n"
+        f"{repo_data.get('readme','')}\n"
+    )
+
+    api_url = _normalize_deepseek_api_url(api_url)
+    if not api_url:
+        yield "DeepSeek API URL 未配置，无法进行仓库分析。".encode("utf-8")
+        return
+
+    headers = {"Content-Type": "application/json", "Authorization": f"Bearer {api_key}"}
+    payload = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": "你是一个严谨的技术写作者，擅长总结开源项目。"},
+            {"role": "user", "content": prompt},
+        ],
+        "temperature": 0.3,
+        "stream": True,
+    }
+
+    try:
+        resp = requests.post(api_url, json=payload, headers=headers, stream=True, timeout=120)
+        if resp.status_code == 401:
+            yield "DeepSeek 鉴权失败(401)。请检查 config.json 中的 deepseek_api_key 是否正确、是否有权限使用该模型。".encode("utf-8")
+            return
+        if resp.status_code == 404:
+            yield f"DeepSeek 接口地址不存在(404)：{api_url}。请检查 deepseek_api_url 配置。".encode("utf-8")
+            return
+        resp.raise_for_status()
+
+        for raw_line in resp.iter_lines(decode_unicode=True):
+            if not raw_line:
+                continue
+            line = raw_line.strip()
+            if line.startswith("data:"):
+                line = line[len("data:") :].strip()
+            if line == "[DONE]":
+                break
+            try:
+                data = json.loads(line)
+            except Exception:
+                continue
+            try:
+                delta = data.get("choices", [{}])[0].get("delta", {}).get("content")
+                if delta:
+                    yield delta.encode("utf-8")
+            except Exception:
+                continue
+    except Exception as e:
+        yield f"\n\n[分析失败] DeepSeek 连接异常：{str(e)}".encode("utf-8")
+        return
 
 # Load data
 def load_radar_scores():
@@ -351,6 +482,15 @@ def generate_payload(username):
         "six_dimension_payload": json.dumps(six_dimension_payload, ensure_ascii=False)
     }
 
+@app.post("/api/analyze-repo")
+async def analyze_repo(request: RepoAnalysisRequest):
+    repo_data = fetch_github_repo_content(request.repo_url)
+    runtime_config = load_config()
+    api_url = runtime_config.get("deepseek_api_url") or DEEPSEEK_API_URL
+    api_key = runtime_config.get("deepseek_api_key") or DEEPSEEK_API_KEY
+    model = runtime_config.get("deepseek_model") or DEEPSEEK_MODEL
+    return StreamingResponse(stream_deepseek_repo_summary(repo_data, api_url, api_key, model), media_type="text/plain; charset=utf-8")
+
 @app.get("/")
 async def get_index():
     return FileResponse(SEARCH_HTML_FILE)
@@ -483,12 +623,12 @@ def get_github_user(username: str, background_tasks: BackgroundTasks):
         }
 
     url = f"https://api.github.com/users/{username}"
-    headers = {
-        "Accept": "application/vnd.github+json"
-    }
+    headers = {"Accept": "application/vnd.github+json"}
     if GITHUB_TOKEN:
         headers["Authorization"] = f"token {GITHUB_TOKEN}"
     r = requests.get(url, headers=headers, timeout=15)
+    if r.status_code == 401 and GITHUB_TOKEN:
+        r = requests.get(url, headers={"Accept": "application/vnd.github+json"}, timeout=15)
     if r.status_code == 404:
         raise HTTPException(status_code=404, detail="GitHub user not found")
     if r.status_code >= 400:

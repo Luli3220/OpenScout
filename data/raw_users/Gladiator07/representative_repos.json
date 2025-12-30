@@ -1,0 +1,1331 @@
+[
+  {
+    "name": "JARVIS",
+    "full_name": "Gladiator07/JARVIS",
+    "html_url": "https://github.com/Gladiator07/JARVIS",
+    "description": "Personal Voice Assistant made with Python and has a cool looking GUI",
+    "stars": 537,
+    "forks": 265,
+    "languages": {
+      "Python": 34093
+    },
+    "contributions_by_user": 147,
+    "contribution_score": 3620.65,
+    "S_code": 33.29,
+    "S_social": 1067,
+    "S_maint": 147
+  },
+  {
+    "name": "Harvestify",
+    "full_name": "Gladiator07/Harvestify",
+    "html_url": "https://github.com/Gladiator07/Harvestify",
+    "description": "A machine learning based website that recommends the best crop to grow, fertilizers to use, and the diseases caught by your crops.",
+    "stars": 489,
+    "forks": 423,
+    "languages": {
+      "Jupyter Notebook": 4554839,
+      "Python": 50755,
+      "CSS": 27208,
+      "HTML": 20012,
+      "Procfile": 40
+    },
+    "contributions_by_user": 174,
+    "contribution_score": 6681.9,
+    "S_code": 4543.8,
+    "S_social": 1335,
+    "S_maint": 174
+  },
+  {
+    "name": "Text-to-image-synthesis-with-AttnGAN",
+    "full_name": "Gladiator07/Text-to-image-synthesis-with-AttnGAN",
+    "html_url": "https://github.com/Gladiator07/Text-to-image-synthesis-with-AttnGAN",
+    "description": "Text to Image Generation using Attentional Generative Adversarial Networks",
+    "stars": 35,
+    "forks": 16,
+    "languages": {
+      "Python": 114253
+    },
+    "contributions_by_user": 121,
+    "contribution_score": 1399.79,
+    "S_code": 111.58,
+    "S_social": 67,
+    "S_maint": 121
+  },
+  {
+    "name": "Natural-Language-Processing",
+    "full_name": "Gladiator07/Natural-Language-Processing",
+    "html_url": "https://github.com/Gladiator07/Natural-Language-Processing",
+    "description": "Documenting all the concepts and codes learned in NLP",
+    "stars": 29,
+    "forks": 13,
+    "languages": {
+      "Jupyter Notebook": 816997,
+      "Python": 29254
+    },
+    "contributions_by_user": 104,
+    "contribution_score": 1563.21,
+    "S_code": 826.42,
+    "S_social": 55,
+    "S_maint": 104
+  },
+  {
+    "name": "U.S.-Patent-Phrase-to-Phrase-Matching-Kaggle",
+    "full_name": "Gladiator07/U.S.-Patent-Phrase-to-Phrase-Matching-Kaggle",
+    "html_url": "https://github.com/Gladiator07/U.S.-Patent-Phrase-to-Phrase-Matching-Kaggle",
+    "description": "31st place silver medal solution to USPPPM Kaggle competition",
+    "stars": 20,
+    "forks": 4,
+    "languages": {
+      "Python": 186839,
+      "Shell": 77006
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 234.83,
+    "S_code": 257.66,
+    "S_social": 28,
+    "S_maint": 5
+  },
+  {
+    "name": "AI-Agriculture-deployment",
+    "full_name": "Gladiator07/AI-Agriculture-deployment",
+    "html_url": "https://github.com/Gladiator07/AI-Agriculture-deployment",
+    "description": "This is machine learning and deep learning based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.",
+    "stars": 16,
+    "forks": 6,
+    "languages": {
+      "Python": 50373,
+      "CSS": 27208,
+      "HTML": 19561
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 173.43,
+    "S_code": 94.87,
+    "S_social": 28,
+    "S_maint": 7
+  },
+  {
+    "name": "wandb-gradient-dissent-bot",
+    "full_name": "Gladiator07/wandb-gradient-dissent-bot",
+    "html_url": "https://github.com/Gladiator07/wandb-gradient-dissent-bot",
+    "description": null,
+    "stars": 13,
+    "forks": 5,
+    "languages": {
+      "Python": 19635
+    },
+    "contributions_by_user": 37,
+    "contribution_score": 425.59,
+    "S_code": 19.17,
+    "S_social": 23,
+    "S_maint": 37
+  },
+  {
+    "name": "AMLP",
+    "full_name": "Gladiator07/AMLP",
+    "html_url": "https://github.com/Gladiator07/AMLP",
+    "description": "Approaching (Almost) Any Machine Learning Problem",
+    "stars": 10,
+    "forks": 8,
+    "languages": {
+      "Jupyter Notebook": 317607,
+      "Python": 85919,
+      "Shell": 2186
+    },
+    "contributions_by_user": 116,
+    "contribution_score": 1410.1,
+    "S_code": 396.2,
+    "S_social": 26,
+    "S_maint": 116
+  },
+  {
+    "name": "Gladiator07",
+    "full_name": "Gladiator07/Gladiator07",
+    "html_url": "https://github.com/Gladiator07/Gladiator07",
+    "description": null,
+    "stars": 6,
+    "forks": 9,
+    "languages": {},
+    "contributions_by_user": 133,
+    "contribution_score": 1378.0,
+    "S_code": 0.0,
+    "S_social": 24,
+    "S_maint": 133
+  },
+  {
+    "name": "Machine-Learning",
+    "full_name": "Gladiator07/Machine-Learning",
+    "html_url": "https://github.com/Gladiator07/Machine-Learning",
+    "description": "Curated resources (blogs +docs + websites) for Machine Learning",
+    "stars": 6,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 3103989
+    },
+    "contributions_by_user": 101,
+    "contribution_score": 2537.62,
+    "S_code": 3031.24,
+    "S_social": 6,
+    "S_maint": 101
+  },
+  {
+    "name": "Text-Summarizer",
+    "full_name": "Gladiator07/Text-Summarizer",
+    "html_url": "https://github.com/Gladiator07/Text-Summarizer",
+    "description": "A transformer based extractive and abstractive text summariser",
+    "stars": 5,
+    "forks": 4,
+    "languages": {
+      "Python": 39079
+    },
+    "contributions_by_user": 96,
+    "contribution_score": 1005.08,
+    "S_code": 38.16,
+    "S_social": 13,
+    "S_maint": 96
+  },
+  {
+    "name": "Diabetes-Prediction-WebApp",
+    "full_name": "Gladiator07/Diabetes-Prediction-WebApp",
+    "html_url": "https://github.com/Gladiator07/Diabetes-Prediction-WebApp",
+    "description": null,
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "HTML": 4352,
+      "Python": 2530,
+      "CSS": 2038
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 62.36,
+    "S_code": 8.71,
+    "S_social": 4,
+    "S_maint": 5
+  },
+  {
+    "name": "cricket-webapp",
+    "full_name": "Gladiator07/cricket-webapp",
+    "html_url": "https://github.com/Gladiator07/cricket-webapp",
+    "description": "A machine learning based webapp which predicts the first innings score of an ongoing IPL match. Additionally, it can also predict the winning probability of a team in an ODI match",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 62936,
+      "HTML": 24476,
+      "Python": 7693,
+      "CSS": 4226
+    },
+    "contributions_by_user": 17,
+    "contribution_score": 226.5,
+    "S_code": 97.0,
+    "S_social": 4,
+    "S_maint": 17
+  },
+  {
+    "name": "Kaggle-Template",
+    "full_name": "Gladiator07/Kaggle-Template",
+    "html_url": "https://github.com/Gladiator07/Kaggle-Template",
+    "description": "General code template for Kaggle competitions",
+    "stars": 3,
+    "forks": 0,
+    "languages": {
+      "Python": 24467,
+      "Shell": 1374
+    },
+    "contributions_by_user": 87,
+    "contribution_score": 888.62,
+    "S_code": 25.24,
+    "S_social": 3,
+    "S_maint": 87
+  },
+  {
+    "name": "Healthify",
+    "full_name": "Gladiator07/Healthify",
+    "html_url": "https://github.com/Gladiator07/Healthify",
+    "description": null,
+    "stars": 3,
+    "forks": 3,
+    "languages": {
+      "Jupyter Notebook": 480842,
+      "Python": 48690
+    },
+    "contributions_by_user": 29,
+    "contribution_score": 566.56,
+    "S_code": 517.12,
+    "S_social": 9,
+    "S_maint": 29
+  },
+  {
+    "name": "Sartorius-Neuronal-Cell-Segmentation-Kaggle",
+    "full_name": "Gladiator07/Sartorius-Neuronal-Cell-Segmentation-Kaggle",
+    "html_url": "https://github.com/Gladiator07/Sartorius-Neuronal-Cell-Segmentation-Kaggle",
+    "description": "A bronze medal solution to the Kaggle Challenge -> Sartorius - Cell Instance Segmentation",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Python": 589044,
+      "Shell": 7516,
+      "Batchfile": 762,
+      "Makefile": 636
+    },
+    "contributions_by_user": 23,
+    "contribution_score": 525.97,
+    "S_code": 583.94,
+    "S_social": 2,
+    "S_maint": 23
+  },
+  {
+    "name": "Realtime-Chat-Application",
+    "full_name": "Gladiator07/Realtime-Chat-Application",
+    "html_url": "https://github.com/Gladiator07/Realtime-Chat-Application",
+    "description": "This is the real time chat application.",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "CSS": 4019,
+      "JavaScript": 2673,
+      "HTML": 852
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 77.68,
+    "S_code": 7.37,
+    "S_social": 2,
+    "S_maint": 7
+  },
+  {
+    "name": "Deep-Learning-NYU",
+    "full_name": "Gladiator07/Deep-Learning-NYU",
+    "html_url": "https://github.com/Gladiator07/Deep-Learning-NYU",
+    "description": "Deep Learning Course by New York University (Yann LeCun and Alfredo Canziani)",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 11622628,
+      "Python": 16555
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 5717.19,
+    "S_code": 11366.39,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "Kaggle-Utils",
+    "full_name": "Gladiator07/Kaggle-Utils",
+    "html_url": "https://github.com/Gladiator07/Kaggle-Utils",
+    "description": "Some utility functions/classes for Kaggle competitions",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 3204
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 53.56,
+    "S_code": 3.13,
+    "S_social": 1,
+    "S_maint": 5
+  },
+  {
+    "name": "BLIP2-Report",
+    "full_name": "Gladiator07/BLIP2-Report",
+    "html_url": "https://github.com/Gladiator07/BLIP2-Report",
+    "description": null,
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "Jupyter Notebook": 5777,
+      "Shell": 167
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 28.9,
+    "S_code": 5.8,
+    "S_social": 3,
+    "S_maint": 2
+  },
+  {
+    "name": "examples",
+    "full_name": "Gladiator07/examples",
+    "html_url": "https://github.com/Gladiator07/examples",
+    "description": "Example deep learning projects that use wandb's features.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 29132452
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14226.83,
+    "S_code": 28449.66,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "Custom-PyTorch-Trainer-examples",
+    "full_name": "Gladiator07/Custom-PyTorch-Trainer-examples",
+    "html_url": "https://github.com/Gladiator07/Custom-PyTorch-Trainer-examples",
+    "description": "My own custom PyTorch Trainer applied to several examples",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 32383,
+      "Shell": 538
+    },
+    "contributions_by_user": 18,
+    "contribution_score": 198.07,
+    "S_code": 32.15,
+    "S_social": 1,
+    "S_maint": 18
+  },
+  {
+    "name": "AQI-FastAPI",
+    "full_name": "Gladiator07/AQI-FastAPI",
+    "html_url": "https://github.com/Gladiator07/AQI-FastAPI",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 57537,
+      "Python": 14531,
+      "Procfile": 63
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 277.22,
+    "S_code": 70.44,
+    "S_social": 1,
+    "S_maint": 24
+  },
+  {
+    "name": "detectron2",
+    "full_name": "Gladiator07/detectron2",
+    "html_url": "https://github.com/Gladiator07/detectron2",
+    "description": "Detectron2 is FAIR's next-generation platform for object detection, segmentation and other visual recognition tasks.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 2988248,
+      "Cuda": 112955,
+      "C++": 83621,
+      "Shell": 13910,
+      "Dockerfile": 3722,
+      "JavaScript": 1980,
+      "CMake": 882
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 1567.1,
+    "S_code": 3130.19,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "Bristol-Myers-Squibb-Translation-Kaggle",
+    "full_name": "Gladiator07/Bristol-Myers-Squibb-Translation-Kaggle",
+    "html_url": "https://github.com/Gladiator07/Bristol-Myers-Squibb-Translation-Kaggle",
+    "description": "50th place solution of a Kaggle competition where we were given the task to translate old chemical images to its Inchi ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 105242,
+      "Shell": 3289
+    },
+    "contributions_by_user": 8,
+    "contribution_score": 134.99,
+    "S_code": 105.99,
+    "S_social": 1,
+    "S_maint": 8
+  },
+  {
+    "name": "AQI-Prediction",
+    "full_name": "Gladiator07/AQI-Prediction",
+    "html_url": "https://github.com/Gladiator07/AQI-Prediction",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 58589,
+      "Python": 11875,
+      "Shell": 132
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 96.47,
+    "S_code": 68.94,
+    "S_social": 1,
+    "S_maint": 6
+  },
+  {
+    "name": "Transformers-from-scratch-in-PyTorch",
+    "full_name": "Gladiator07/Transformers-from-scratch-in-PyTorch",
+    "html_url": "https://github.com/Gladiator07/Transformers-from-scratch-in-PyTorch",
+    "description": "Implementation of the paper (Attention is all you need)",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 1931
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 22.94,
+    "S_code": 1.89,
+    "S_social": 1,
+    "S_maint": 2
+  },
+  {
+    "name": "Object-Detection",
+    "full_name": "Gladiator07/Object-Detection",
+    "html_url": "https://github.com/Gladiator07/Object-Detection",
+    "description": "Implementations of object detection architectures",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 3946
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 73.93,
+    "S_code": 3.85,
+    "S_social": 1,
+    "S_maint": 7
+  },
+  {
+    "name": "Bengali-AI-Handwritten-Grapheme-Classification",
+    "full_name": "Gladiator07/Bengali-AI-Handwritten-Grapheme-Classification",
+    "html_url": "https://github.com/Gladiator07/Bengali-AI-Handwritten-Grapheme-Classification",
+    "description": "A kaggle competition solution in which we were given the image of a handwritten Bengali grapheme and were challenged to separately classify three constituent elements in the image: grapheme root, vowel diacritics, and consonant diacritics.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 89419,
+      "Python": 8600,
+      "Shell": 2178
+    },
+    "contributions_by_user": 40,
+    "contribution_score": 450.92,
+    "S_code": 97.85,
+    "S_social": 1,
+    "S_maint": 40
+  },
+  {
+    "name": "Pneumonia-Detection",
+    "full_name": "Gladiator07/Pneumonia-Detection",
+    "html_url": "https://github.com/Gladiator07/Pneumonia-Detection",
+    "description": "Pneumonia Detection with Computer Vision (in dev)",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 3835787,
+      "Python": 10485,
+      "Shell": 1117
+    },
+    "contributions_by_user": 22,
+    "contribution_score": 2100.61,
+    "S_code": 3757.22,
+    "S_social": 1,
+    "S_maint": 22
+  },
+  {
+    "name": "Computer-Vision",
+    "full_name": "Gladiator07/Computer-Vision",
+    "html_url": "https://github.com/Gladiator07/Computer-Vision",
+    "description": "Implementations of major architectures and ideas in Computer Vision (with PyTorch)",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 6670
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 115.26,
+    "S_code": 6.51,
+    "S_social": 1,
+    "S_maint": 11
+  },
+  {
+    "name": "Deep-Learning",
+    "full_name": "Gladiator07/Deep-Learning",
+    "html_url": "https://github.com/Gladiator07/Deep-Learning",
+    "description": null,
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 23253873
+    },
+    "contributions_by_user": 40,
+    "contribution_score": 11756.43,
+    "S_code": 22708.86,
+    "S_social": 1,
+    "S_maint": 40
+  },
+  {
+    "name": "loan-approval-prediction",
+    "full_name": "Gladiator07/loan-approval-prediction",
+    "html_url": "https://github.com/Gladiator07/loan-approval-prediction",
+    "description": "This is a webapp which will predict if a person will get a loan or not based on his credentials",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 564687,
+      "HTML": 7343,
+      "Python": 1280
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 391.94,
+    "S_code": 559.87,
+    "S_social": 1,
+    "S_maint": 11
+  },
+  {
+    "name": "personal-website",
+    "full_name": "Gladiator07/personal-website",
+    "html_url": "https://github.com/Gladiator07/personal-website",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 17941,
+      "CSS": 1668,
+      "HTML": 218
+    },
+    "contributions_by_user": 24,
+    "contribution_score": 249.68,
+    "S_code": 19.36,
+    "S_social": 0,
+    "S_maint": 24
+  },
+  {
+    "name": "MUVERA-Benchmarks",
+    "full_name": "Gladiator07/MUVERA-Benchmarks",
+    "html_url": "https://github.com/Gladiator07/MUVERA-Benchmarks",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 16447
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 38.03,
+    "S_code": 16.06,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "WSDM-Cup-2025-Kaggle",
+    "full_name": "Gladiator07/WSDM-Cup-2025-Kaggle",
+    "html_url": "https://github.com/Gladiator07/WSDM-Cup-2025-Kaggle",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 613265,
+      "Python": 248500,
+      "Shell": 1805
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 461.67,
+    "S_code": 843.33,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "Google-Agent2Agent-tutorial",
+    "full_name": "Gladiator07/Google-Agent2Agent-tutorial",
+    "html_url": "https://github.com/Gladiator07/Google-Agent2Agent-tutorial",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 24332
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 31.88,
+    "S_code": 23.76,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "bearblog-images",
+    "full_name": "Gladiator07/bearblog-images",
+    "html_url": "https://github.com/Gladiator07/bearblog-images",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 5,
+    "contribution_score": 50.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "LLMs-Classification",
+    "full_name": "Gladiator07/LLMs-Classification",
+    "html_url": "https://github.com/Gladiator07/LLMs-Classification",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 6679,
+      "Shell": 478
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 33.49,
+    "S_code": 6.99,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "Kaggle-images",
+    "full_name": "Gladiator07/Kaggle-images",
+    "html_url": "https://github.com/Gladiator07/Kaggle-images",
+    "description": "Contains all the images I share on discussion forums on Kaggle",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 39,
+    "contribution_score": 390.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 39
+  },
+  {
+    "name": "DataSolve-WK-2022",
+    "full_name": "Gladiator07/DataSolve-WK-2022",
+    "html_url": "https://github.com/Gladiator07/DataSolve-WK-2022",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 589586,
+      "Shell": 1584
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 398.66,
+    "S_code": 577.31,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "wandb",
+    "full_name": "Gladiator07/wandb",
+    "html_url": "https://github.com/Gladiator07/wandb",
+    "description": "🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4552012,
+      "Objective-C": 80764,
+      "Jupyter Notebook": 8035,
+      "Shell": 6020,
+      "C": 4902,
+      "Dockerfile": 3557,
+      "Makefile": 1879
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2274.01,
+    "S_code": 4548.02,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "notebooks",
+    "full_name": "Gladiator07/notebooks",
+    "html_url": "https://github.com/Gladiator07/notebooks",
+    "description": "Notebooks using the Hugging Face libraries 🤗",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 89920992,
+      "Python": 139069,
+      "Shell": 926,
+      "Makefile": 80
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 43975.13,
+    "S_code": 87950.26,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "PyTorch-2.0-Benchmarks",
+    "full_name": "Gladiator07/PyTorch-2.0-Benchmarks",
+    "html_url": "https://github.com/Gladiator07/PyTorch-2.0-Benchmarks",
+    "description": null,
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 36248,
+      "Shell": 9426
+    },
+    "contributions_by_user": 76,
+    "contribution_score": 786.3,
+    "S_code": 44.6,
+    "S_social": 2,
+    "S_maint": 76
+  },
+  {
+    "name": "Whisper-hf-event",
+    "full_name": "Gladiator07/Whisper-hf-event",
+    "html_url": "https://github.com/Gladiator07/Whisper-hf-event",
+    "description": "Scripts for finetuning Whisper for HuggingFace Event",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 10.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "accelerate",
+    "full_name": "Gladiator07/accelerate",
+    "html_url": "https://github.com/Gladiator07/accelerate",
+    "description": "🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 908902,
+      "Makefile": 2836,
+      "Dockerfile": 2371,
+      "Shell": 50
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 466.37,
+    "S_code": 892.73,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "setfit",
+    "full_name": "Gladiator07/setfit",
+    "html_url": "https://github.com/Gladiator07/setfit",
+    "description": "Efficient few-shot learning with Sentence Transformers",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 374460,
+      "Jupyter Notebook": 169553,
+      "Shell": 2613,
+      "Makefile": 1590
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 267.68,
+    "S_code": 535.37,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Image-Compressor-App",
+    "full_name": "Gladiator07/Image-Compressor-App",
+    "html_url": "https://github.com/Gladiator07/Image-Compressor-App",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "url-shortener-fastapi",
+    "full_name": "Gladiator07/url-shortener-fastapi",
+    "html_url": "https://github.com/Gladiator07/url-shortener-fastapi",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 4979,
+      "Python": 3999,
+      "CSS": 818,
+      "Shell": 111,
+      "Procfile": 60
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 114.87,
+    "S_code": 9.73,
+    "S_social": 0,
+    "S_maint": 11
+  },
+  {
+    "name": "GPU-vs-TPU",
+    "full_name": "Gladiator07/GPU-vs-TPU",
+    "html_url": "https://github.com/Gladiator07/GPU-vs-TPU",
+    "description": "Comparing GPU and TPU for computer vision applications",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 3396752,
+      "Python": 45471,
+      "Shell": 1034
+    },
+    "contributions_by_user": 61,
+    "contribution_score": 2291.28,
+    "S_code": 3362.56,
+    "S_social": 0,
+    "S_maint": 61
+  },
+  {
+    "name": "mmdetection",
+    "full_name": "Gladiator07/mmdetection",
+    "html_url": "https://github.com/Gladiator07/mmdetection",
+    "description": "OpenMMLab Detection Toolbox and Benchmark",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 4108116,
+      "Shell": 47474,
+      "Dockerfile": 2150,
+      "Batchfile": 760,
+      "Makefile": 634,
+      "CSS": 140
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2034.9,
+    "S_code": 4061.79,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "cocoapi",
+    "full_name": "Gladiator07/cocoapi",
+    "html_url": "https://github.com/Gladiator07/cocoapi",
+    "description": "COCO API - Dataset @ http://cocodataset.org/ ",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 1794764,
+      "MATLAB": 65356,
+      "Python": 59763,
+      "Lua": 23428,
+      "C++": 22250,
+      "C": 16028,
+      "Makefile": 199
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 967.67,
+    "S_code": 1935.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "3Blue1Brown.com",
+    "full_name": "Gladiator07/3Blue1Brown.com",
+    "html_url": "https://github.com/Gladiator07/3Blue1Brown.com",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 575274,
+      "SCSS": 49716,
+      "Shell": 2609,
+      "Dockerfile": 220
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 316.55,
+    "S_code": 613.1,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "docs",
+    "full_name": "Gladiator07/docs",
+    "html_url": "https://github.com/Gladiator07/docs",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 132875,
+      "SCSS": 97191,
+      "Python": 10498,
+      "Makefile": 476,
+      "HTML": 437,
+      "Dockerfile": 323
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 118.07,
+    "S_code": 236.13,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Pneuomonia-Detection-Using-CNN",
+    "full_name": "Gladiator07/Pneuomonia-Detection-Using-CNN",
+    "html_url": "https://github.com/Gladiator07/Pneuomonia-Detection-Using-CNN",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4201,
+      "Shell": 132
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 12.12,
+    "S_code": 4.23,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "ML-Framework",
+    "full_name": "Gladiator07/ML-Framework",
+    "html_url": "https://github.com/Gladiator07/ML-Framework",
+    "description": "A Machine Learning Framework which can be used for any tabular dataset",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 8718,
+      "Shell": 164
+    },
+    "contributions_by_user": 9,
+    "contribution_score": 98.34,
+    "S_code": 8.67,
+    "S_social": 2,
+    "S_maint": 9
+  },
+  {
+    "name": "Computer-Vision-mini-projects",
+    "full_name": "Gladiator07/Computer-Vision-mini-projects",
+    "html_url": "https://github.com/Gladiator07/Computer-Vision-mini-projects",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 3812340
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 1931.49,
+    "S_code": 3722.99,
+    "S_social": 0,
+    "S_maint": 7
+  },
+  {
+    "name": "awesome-production-machine-learning",
+    "full_name": "Gladiator07/awesome-production-machine-learning",
+    "html_url": "https://github.com/Gladiator07/awesome-production-machine-learning",
+    "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+    "stars": 0,
+    "forks": 2,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 8.0,
+    "S_code": 0.0,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "awesome-mlops",
+    "full_name": "Gladiator07/awesome-mlops",
+    "html_url": "https://github.com/Gladiator07/awesome-mlops",
+    "description": "A curated list of references for MLOps ",
+    "stars": 0,
+    "forks": 3,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 12.0,
+    "S_code": 0.0,
+    "S_social": 6,
+    "S_maint": 0
+  },
+  {
+    "name": "Deep-Learning-with-PyTorch",
+    "full_name": "Gladiator07/Deep-Learning-with-PyTorch",
+    "html_url": "https://github.com/Gladiator07/Deep-Learning-with-PyTorch",
+    "description": "All the code I have implemented while learning PyTorch",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 3010317,
+      "Python": 23224
+    },
+    "contributions_by_user": 31,
+    "contribution_score": 1791.22,
+    "S_code": 2962.44,
+    "S_social": 0,
+    "S_maint": 31
+  },
+  {
+    "name": "awesome-README-templates",
+    "full_name": "Gladiator07/awesome-README-templates",
+    "html_url": "https://github.com/Gladiator07/awesome-README-templates",
+    "description": "A collection of awesome readme templates to display on your github profile.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 27300,
+      "CSS": 7041,
+      "Shell": 317
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 20.92,
+    "S_code": 33.85,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "SY-SEM1",
+    "full_name": "Gladiator07/SY-SEM1",
+    "html_url": "https://github.com/Gladiator07/SY-SEM1",
+    "description": "References and notes for second year semester 1",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 39,
+    "contribution_score": 390.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 39
+  },
+  {
+    "name": "pytorch",
+    "full_name": "Gladiator07/pytorch",
+    "html_url": "https://github.com/Gladiator07/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 30572515,
+      "Python": 19345800,
+      "Cuda": 3461022,
+      "C": 2269346,
+      "CMake": 774057,
+      "Objective-C++": 355166,
+      "Shell": 295885,
+      "Assembly": 180148,
+      "Java": 118844,
+      "PureBasic": 115115,
+      "Starlark": 111575,
+      "Metal": 42755,
+      "Dockerfile": 35910,
+      "GLSL": 32339,
+      "Batchfile": 20522,
+      "Objective-C": 14179,
+      "Ruby": 12124,
+      "HTML": 5204,
+      "Yacc": 3848,
+      "PowerShell": 2772,
+      "CSS": 2197,
+      "LLVM": 1605,
+      "Lua": 926,
+      "Makefile": 899,
+      "Vim Script": 154
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 28210.4,
+    "S_code": 56420.81,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "godslayer201",
+    "full_name": "Gladiator07/godslayer201",
+    "html_url": "https://github.com/Gladiator07/godslayer201",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "deep-learning-roadmap",
+    "full_name": "Gladiator07/deep-learning-roadmap",
+    "html_url": "https://github.com/Gladiator07/deep-learning-roadmap",
+    "description": ":satellite: All You Need to Know About Deep Learning - A kick-starter",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 4050
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 5.98,
+    "S_code": 3.96,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "resources",
+    "full_name": "Gladiator07/resources",
+    "html_url": "https://github.com/Gladiator07/resources",
+    "description": "Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of learning.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 111,
+      "Ruby": 105
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.11,
+    "S_code": 0.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "awesome-datascience",
+    "full_name": "Gladiator07/awesome-datascience",
+    "html_url": "https://github.com/Gladiator07/awesome-datascience",
+    "description": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "TensorDash",
+    "full_name": "Gladiator07/TensorDash",
+    "html_url": "https://github.com/Gladiator07/TensorDash",
+    "description": "TensorDash is an application that lets you remotely monitor your deep learning model's metrics and notifies you when your model training is completed or crashed.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Java": 60904,
+      "Python": 39035,
+      "JavaScript": 1387
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 49.48,
+    "S_code": 98.95,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Tools-to-Design-or-Visualize-Architecture-of-Neural-Network",
+    "full_name": "Gladiator07/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network",
+    "html_url": "https://github.com/Gladiator07/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network",
+    "description": "Tools to Design or Visualize Architecture of Neural Network",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Deep-Learning-Papers-Reading-Roadmap",
+    "full_name": "Gladiator07/Deep-Learning-Papers-Reading-Roadmap",
+    "html_url": "https://github.com/Gladiator07/Deep-Learning-Papers-Reading-Roadmap",
+    "description": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 4577
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 6.23,
+    "S_code": 4.47,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "convnetjs",
+    "full_name": "Gladiator07/convnetjs",
+    "html_url": "https://github.com/Gladiator07/convnetjs",
+    "description": "Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 303778,
+      "HTML": 196901,
+      "CSS": 7072
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 247.93,
+    "S_code": 495.85,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Cartoonizer",
+    "full_name": "Gladiator07/Cartoonizer",
+    "html_url": "https://github.com/Gladiator07/Cartoonizer",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 3829
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 11.87,
+    "S_code": 3.74,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "Blog_Codes",
+    "full_name": "Gladiator07/Blog_Codes",
+    "html_url": "https://github.com/Gladiator07/Blog_Codes",
+    "description": "This repository have all the codes used in my personal Blog",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 24902
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 22.16,
+    "S_code": 24.32,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "industry-machine-learning",
+    "full_name": "Gladiator07/industry-machine-learning",
+    "html_url": "https://github.com/Gladiator07/industry-machine-learning",
+    "description": "A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Jupyter Notebook": 473
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 0.23,
+    "S_code": 0.46,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "movie-recommendation-system",
+    "full_name": "Gladiator07/movie-recommendation-system",
+    "html_url": "https://github.com/Gladiator07/movie-recommendation-system",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "RasaCustomerService",
+    "full_name": "Gladiator07/RasaCustomerService",
+    "html_url": "https://github.com/Gladiator07/RasaCustomerService",
+    "description": "This is a conversational bot that can be used in the telecom sector for automating the voice bot process with the help of this Rasa Chatbot.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 5040
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.46,
+    "S_code": 4.92,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ds-cheatsheets",
+    "full_name": "Gladiator07/ds-cheatsheets",
+    "html_url": "https://github.com/Gladiator07/ds-cheatsheets",
+    "description": "List of Data Science Cheatsheets to rule the world",
+    "stars": 0,
+    "forks": 2,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 8.0,
+    "S_code": 0.0,
+    "S_social": 4,
+    "S_maint": 0
+  }
+]

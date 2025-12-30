@@ -1,0 +1,1448 @@
+[
+  {
+    "name": "RSS-to-Telegram-Bot",
+    "full_name": "Rongronggg9/RSS-to-Telegram-Bot",
+    "html_url": "https://github.com/Rongronggg9/RSS-to-Telegram-Bot",
+    "description": "A Telegram RSS bot that cares about your reading experience",
+    "stars": 1979,
+    "forks": 338,
+    "languages": {
+      "Python": 574015,
+      "Dockerfile": 5567,
+      "Procfile": 33
+    },
+    "contributions_by_user": 1080,
+    "contribution_score": 16393.02,
+    "S_code": 566.03,
+    "S_social": 2655,
+    "S_maint": 1080
+  },
+  {
+    "name": "chinalist",
+    "full_name": "Rongronggg9/chinalist",
+    "html_url": "https://github.com/Rongronggg9/chinalist",
+    "description": "Improve your connection to Chinese websites (for SwitchyOmega and SmartProxy)",
+    "stars": 150,
+    "forks": 13,
+    "languages": {
+      "Python": 3984
+    },
+    "contributions_by_user": 28,
+    "contribution_score": 633.95,
+    "S_code": 3.89,
+    "S_social": 176,
+    "S_maint": 28
+  },
+  {
+    "name": "rsstt-img-relay",
+    "full_name": "Rongronggg9/rsstt-img-relay",
+    "html_url": "https://github.com/Rongronggg9/rsstt-img-relay",
+    "description": "Media (image, video, etc) relay on Cloudflare Workers/Pages, used by https://github.com/Rongronggg9/RSS-to-Telegram-Bot",
+    "stars": 59,
+    "forks": 62,
+    "languages": {
+      "JavaScript": 17246
+    },
+    "contributions_by_user": 37,
+    "contribution_score": 744.42,
+    "S_code": 16.84,
+    "S_social": 183,
+    "S_maint": 37
+  },
+  {
+    "name": "SlashBot",
+    "full_name": "Rongronggg9/SlashBot",
+    "html_url": "https://github.com/Rongronggg9/SlashBot",
+    "description": "响应诸如 “/抱”、“/摸摸” 之类消息的 Telegram Bot",
+    "stars": 50,
+    "forks": 6,
+    "languages": {
+      "Python": 16446,
+      "Dockerfile": 200
+    },
+    "contributions_by_user": 68,
+    "contribution_score": 812.13,
+    "S_code": 16.26,
+    "S_social": 62,
+    "S_maint": 68
+  },
+  {
+    "name": "wps-office-repack",
+    "full_name": "Rongronggg9/wps-office-repack",
+    "html_url": "https://github.com/Rongronggg9/wps-office-repack",
+    "description": "[PROPRIETARY WARNING] Repack WPS Office for Linux with some patches (zh_CN for International ver, prefixed commands, KDE dark theme workaround)",
+    "stars": 41,
+    "forks": 3,
+    "languages": {
+      "Shell": 14924
+    },
+    "contributions_by_user": 46,
+    "contribution_score": 561.29,
+    "S_code": 14.57,
+    "S_social": 47,
+    "S_maint": 46
+  },
+  {
+    "name": "power-profiles-daemon",
+    "full_name": "Rongronggg9/power-profiles-daemon",
+    "html_url": "https://github.com/Rongronggg9/power-profiles-daemon",
+    "description": "[FORK: USE AT YOUR OWN RISK] Makes power profiles handling available over D-Bus, with TLP driver (unsafe, dirty and experimental). Upstream⤵",
+    "stars": 21,
+    "forks": 0,
+    "languages": {
+      "C": 112655,
+      "Python": 55181,
+      "Meson": 6188,
+      "Shell": 1994
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 177.95,
+    "S_code": 171.89,
+    "S_social": 21,
+    "S_maint": 5
+  },
+  {
+    "name": "comments-helper-bot",
+    "full_name": "Rongronggg9/comments-helper-bot",
+    "html_url": "https://github.com/Rongronggg9/comments-helper-bot",
+    "description": "Telegram channel comments helper bot - auto kick-out and poll",
+    "stars": 9,
+    "forks": 2,
+    "languages": {
+      "Python": 17191,
+      "Dockerfile": 659
+    },
+    "contributions_by_user": 32,
+    "contribution_score": 354.72,
+    "S_code": 17.43,
+    "S_social": 13,
+    "S_maint": 32
+  },
+  {
+    "name": "powerline-exectime",
+    "full_name": "Rongronggg9/powerline-exectime",
+    "html_url": "https://github.com/Rongronggg9/powerline-exectime",
+    "description": "A Powerline segment to show the execution (wall, user, sys) time of the last command, as well as the startup time of the shell.",
+    "stars": 4,
+    "forks": 0,
+    "languages": {
+      "Python": 7713,
+      "Shell": 3160
+    },
+    "contributions_by_user": 10,
+    "contribution_score": 113.31,
+    "S_code": 10.62,
+    "S_social": 4,
+    "S_maint": 10
+  },
+  {
+    "name": "RSSHub",
+    "full_name": "Rongronggg9/RSSHub",
+    "html_url": "https://github.com/Rongronggg9/RSSHub",
+    "description": "🍰 Everything is RSSible",
+    "stars": 3,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 11916258,
+      "JavaScript": 1116033,
+      "Dockerfile": 8323,
+      "Nix": 1815,
+      "Shell": 606,
+      "HTML": 418
+    },
+    "contributions_by_user": 133,
+    "contribution_score": 7708.87,
+    "S_code": 12737.75,
+    "S_social": 5,
+    "S_maint": 133
+  },
+  {
+    "name": "Rongronggg9",
+    "full_name": "Rongronggg9/Rongronggg9",
+    "html_url": "https://github.com/Rongronggg9/Rongronggg9",
+    "description": null,
+    "stars": 2,
+    "forks": 5,
+    "languages": {},
+    "contributions_by_user": 21,
+    "contribution_score": 234.0,
+    "S_code": 0.0,
+    "S_social": 12,
+    "S_maint": 21
+  },
+  {
+    "name": "github-profile-achievements",
+    "full_name": "Rongronggg9/github-profile-achievements",
+    "html_url": "https://github.com/Rongronggg9/github-profile-achievements",
+    "description": "A collection listing all Achievements available on the GitHub profile 🏆",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Markdown": 12674,
+      "Python": 2401
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 61.36,
+    "S_code": 14.72,
+    "S_social": 2,
+    "S_maint": 5
+  },
+  {
+    "name": "drivers-linux-firmware",
+    "full_name": "Rongronggg9/drivers-linux-firmware",
+    "html_url": "https://github.com/Rongronggg9/drivers-linux-firmware",
+    "description": "Updated drivers from Linux-Firmware for Debian/Ubuntu (01-07-2022).",
+    "stars": 2,
+    "forks": 1,
+    "languages": {
+      "Shell": 1087
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.53,
+    "S_code": 1.06,
+    "S_social": 4,
+    "S_maint": 0
+  },
+  {
+    "name": "Cimoc",
+    "full_name": "Rongronggg9/Cimoc",
+    "html_url": "https://github.com/Rongronggg9/Cimoc",
+    "description": "漫画阅读器",
+    "stars": 2,
+    "forks": 0,
+    "languages": {
+      "Java": 1231963,
+      "Kotlin": 8294,
+      "Python": 3141,
+      "Shell": 469
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 611.36,
+    "S_code": 1214.71,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "wechat-feeds",
+    "full_name": "Rongronggg9/wechat-feeds",
+    "html_url": "https://github.com/Rongronggg9/wechat-feeds",
+    "description": "给微信公众号生成 RSS 订阅源",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 2.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "ideapad-laptop-tb",
+    "full_name": "Rongronggg9/ideapad-laptop-tb",
+    "html_url": "https://github.com/Rongronggg9/ideapad-laptop-tb",
+    "description": "The IdeaPad ACPI Extras kernel modules for ThinkBook 2024 NoteBooks",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Makefile": 1275,
+      "Shell": 1119
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 3.17,
+    "S_code": 2.34,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "apt-fast",
+    "full_name": "Rongronggg9/apt-fast",
+    "html_url": "https://github.com/Rongronggg9/apt-fast",
+    "description": "apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Shell": 25226,
+      "Makefile": 1258
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 14.93,
+    "S_code": 25.86,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "asyncpg",
+    "full_name": "Rongronggg9/asyncpg",
+    "html_url": "https://github.com/Rongronggg9/asyncpg",
+    "description": "A fast PostgreSQL Database Client Library for Python/asyncio.",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 619608,
+      "Cython": 219731,
+      "C": 25031,
+      "Shell": 1623,
+      "Makefile": 904
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 425.29,
+    "S_code": 846.58,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "stargazer",
+    "full_name": "Rongronggg9/stargazer",
+    "html_url": "https://github.com/Rongronggg9/stargazer",
+    "description": "Your repo reached a stars milestone? Celebrate with a video of your stargazers!",
+    "stars": 1,
+    "forks": 1,
+    "languages": {
+      "JavaScript": 49925,
+      "CSS": 4915
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 62.78,
+    "S_code": 53.55,
+    "S_social": 3,
+    "S_maint": 3
+  },
+  {
+    "name": "linux-msm8974-mainline",
+    "full_name": "Rongronggg9/linux-msm8974-mainline",
+    "html_url": "https://github.com/Rongronggg9/linux-msm8974-mainline",
+    "description": "Close to mainline Linux kernel fork for Qualcomm Snapdragon 800/801 SoC devices",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "C": 992416026,
+      "Assembly": 9400932,
+      "Shell": 3377418,
+      "Makefile": 2256506,
+      "Python": 1222205,
+      "Perl": 1190663,
+      "C++": 289048,
+      "Roff": 177179,
+      "SmPL": 158871,
+      "Yacc": 126583,
+      "Lex": 63366,
+      "Awk": 46312,
+      "UnrealScript": 17732,
+      "Gherkin": 8619,
+      "Raku": 3859,
+      "M4": 3325,
+      "Clojure": 1941,
+      "XS": 1239,
+      "sed": 379
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 493538.23,
+    "S_code": 987072.46,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "RSSHub-Radar",
+    "full_name": "Rongronggg9/RSSHub-Radar",
+    "html_url": "https://github.com/Rongronggg9/RSSHub-Radar",
+    "description": "🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 127031,
+      "Vue": 19516,
+      "Less": 4803,
+      "HTML": 1770,
+      "SCSS": 134
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 76.83,
+    "S_code": 149.66,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "wenquanbook",
+    "full_name": "Rongronggg9/wenquanbook",
+    "html_url": "https://github.com/Rongronggg9/wenquanbook",
+    "description": "文泉学堂下载",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 17985
+    },
+    "contributions_by_user": 4,
+    "contribution_score": 50.78,
+    "S_code": 17.56,
+    "S_social": 1,
+    "S_maint": 4
+  },
+  {
+    "name": "github-readme-stats",
+    "full_name": "Rongronggg9/github-readme-stats",
+    "html_url": "https://github.com/Rongronggg9/github-readme-stats",
+    "description": ":zap: Dynamically generated stats for your github readmes",
+    "stars": 1,
+    "forks": 3,
+    "languages": {
+      "JavaScript": 255746,
+      "Shell": 651
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 159.19,
+    "S_code": 250.39,
+    "S_social": 7,
+    "S_maint": 2
+  },
+  {
+    "name": "telegram-casino-bot",
+    "full_name": "Rongronggg9/telegram-casino-bot",
+    "html_url": "https://github.com/Rongronggg9/telegram-casino-bot",
+    "description": "Демонстрационный бот для работы с дайсом 🎰 в Telegram",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 11869,
+      "Dockerfile": 531
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 8.05,
+    "S_code": 12.11,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "Telethon",
+    "full_name": "Rongronggg9/Telethon",
+    "html_url": "https://github.com/Rongronggg9/Telethon",
+    "description": "Pure Python 3 MTProto API Telegram client library, for bots too!",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 1042957,
+      "CSS": 9611,
+      "HTML": 8839,
+      "JavaScript": 7489,
+      "Batchfile": 776,
+      "Makefile": 605,
+      "Shell": 356
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 524.77,
+    "S_code": 1045.54,
+    "S_social": 1,
+    "S_maint": 0
+  },
+  {
+    "name": "wps-fonts",
+    "full_name": "Rongronggg9/wps-fonts",
+    "html_url": "https://github.com/Rongronggg9/wps-fonts",
+    "description": "[PROPRIETARY WARNING] Fonts that used to be distributed with WPS Office for Linux ",
+    "stars": 1,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 1,
+    "contribution_score": 12.0,
+    "S_code": 0.0,
+    "S_social": 1,
+    "S_maint": 1
+  },
+  {
+    "name": "tg_searcher",
+    "full_name": "Rongronggg9/tg_searcher",
+    "html_url": "https://github.com/Rongronggg9/tg_searcher",
+    "description": "A bot to provide versatile Chinese optimized searching for telegram chats.    通过 bot 来给 Telegram 提供针对中文优化的搜索。",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "Python": 16703,
+      "Dockerfile": 310
+    },
+    "contributions_by_user": 7,
+    "contribution_score": 80.31,
+    "S_code": 16.61,
+    "S_social": 1,
+    "S_maint": 7
+  },
+  {
+    "name": "kjzhanFakeUA",
+    "full_name": "Rongronggg9/kjzhanFakeUA",
+    "html_url": "https://github.com/Rongronggg9/kjzhanFakeUA",
+    "description": "直接显示课件站下载链接",
+    "stars": 1,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 822
+    },
+    "contributions_by_user": 11,
+    "contribution_score": 112.4,
+    "S_code": 0.8,
+    "S_social": 1,
+    "S_maint": 11
+  },
+  {
+    "name": "ssh-ghaction",
+    "full_name": "Rongronggg9/ssh-ghaction",
+    "html_url": "https://github.com/Rongronggg9/ssh-ghaction",
+    "description": "quickly get a Linux/Mac/Windows VM for me",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "amdgpu_metrics",
+    "full_name": "Rongronggg9/amdgpu_metrics",
+    "html_url": "https://github.com/Rongronggg9/amdgpu_metrics",
+    "description": "A Linux kernel module that provides HWMON for AMD GPUs/APUs, and enables HTOP to properly show per-CPU-core temperatures",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 124936,
+      "Awk": 4880,
+      "Makefile": 1349
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 74.05,
+    "S_code": 128.09,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "RyzenAdj",
+    "full_name": "Rongronggg9/RyzenAdj",
+    "html_url": "https://github.com/Rongronggg9/RyzenAdj",
+    "description": "Adjust power management settings for Ryzen APUs",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 131559,
+      "PowerShell": 23671,
+      "C++": 4022,
+      "Batchfile": 1756,
+      "CMake": 1578
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 79.39,
+    "S_code": 158.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "htop",
+    "full_name": "Rongronggg9/htop",
+    "html_url": "https://github.com/Rongronggg9/htop",
+    "description": "htop - an interactive process viewer",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 1360538,
+      "M4": 44820,
+      "Roff": 29756,
+      "Lua": 17860,
+      "Makefile": 11369,
+      "Shell": 6154
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 718.02,
+    "S_code": 1436.03,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "feedparser",
+    "full_name": "Rongronggg9/feedparser",
+    "html_url": "https://github.com/Rongronggg9/feedparser",
+    "description": "Parse feeds in Python",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Python": 269557
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 165.62,
+    "S_code": 263.24,
+    "S_social": 2,
+    "S_maint": 3
+  },
+  {
+    "name": "QDiskInfo",
+    "full_name": "Rongronggg9/QDiskInfo",
+    "html_url": "https://github.com/Rongronggg9/QDiskInfo",
+    "description": "CrystalDiskInfo alternative for Linux",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 72620,
+      "CMake": 2126
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 36.5,
+    "S_code": 72.99,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": ".github",
+    "full_name": "Rongronggg9/.github",
+    "html_url": "https://github.com/Rongronggg9/.github",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 2,
+    "contribution_score": 20.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "aerich",
+    "full_name": "Rongronggg9/aerich",
+    "html_url": "https://github.com/Rongronggg9/aerich",
+    "description": "A database migrations tool for TortoiseORM, ready to production.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 137398,
+      "Makefile": 1091
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 67.62,
+    "S_code": 135.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fcitx5-pinyin-zhwiki",
+    "full_name": "Rongronggg9/fcitx5-pinyin-zhwiki",
+    "html_url": "https://github.com/Rongronggg9/fcitx5-pinyin-zhwiki",
+    "description": "Fcitx 5 Pinyin Dictionary from zh.wikipedia.org",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 4055,
+      "Makefile": 1418
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2.67,
+    "S_code": 5.34,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fcitx5-rime",
+    "full_name": "Rongronggg9/fcitx5-rime",
+    "html_url": "https://github.com/Rongronggg9/fcitx5-rime",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 67935,
+      "CMake": 5047,
+      "Shell": 60
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 35.67,
+    "S_code": 71.33,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "efb-wechat-comwechat-slave",
+    "full_name": "Rongronggg9/efb-wechat-comwechat-slave",
+    "html_url": "https://github.com/Rongronggg9/efb-wechat-comwechat-slave",
+    "description": "efb-wechat-comwechat-slave",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 69602,
+      "Dockerfile": 1654
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 34.79,
+    "S_code": 69.59,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "cryptg",
+    "full_name": "Rongronggg9/cryptg",
+    "html_url": "https://github.com/Rongronggg9/cryptg",
+    "description": "Official Telethon extension to provide much faster cryptography for Telegram API requests.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 3899,
+      "Rust": 1955
+    },
+    "contributions_by_user": 6,
+    "contribution_score": 62.86,
+    "S_code": 5.72,
+    "S_social": 0,
+    "S_maint": 6
+  },
+  {
+    "name": "listparser",
+    "full_name": "Rongronggg9/listparser",
+    "html_url": "https://github.com/Rongronggg9/listparser",
+    "description": "Parse OPML subscription lists in Python",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 38486
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 18.79,
+    "S_code": 37.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "aiohttp",
+    "full_name": "Rongronggg9/aiohttp",
+    "html_url": "https://github.com/Rongronggg9/aiohttp",
+    "description": "Asynchronous HTTP client/server framework for asyncio and Python",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 1813786,
+      "Cython": 39629,
+      "Makefile": 5834,
+      "Gherkin": 3595,
+      "Dockerfile": 298,
+      "C": 170,
+      "Shell": 148
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 909.89,
+    "S_code": 1819.79,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "setuptools-rust",
+    "full_name": "Rongronggg9/setuptools-rust",
+    "html_url": "https://github.com/Rongronggg9/setuptools-rust",
+    "description": "Setuptools plugin for Rust support",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 78319,
+      "JavaScript": 3062
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 39.74,
+    "S_code": 79.47,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "powerline",
+    "full_name": "Rongronggg9/powerline",
+    "html_url": "https://github.com/Rongronggg9/powerline",
+    "description": "Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 880195,
+      "Shell": 68588,
+      "Vim Script": 18424,
+      "C": 3795,
+      "Lua": 436
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 474.33,
+    "S_code": 948.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "oh-my-bash",
+    "full_name": "Rongronggg9/oh-my-bash",
+    "html_url": "https://github.com/Rongronggg9/oh-my-bash",
+    "description": "A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 740446
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 361.55,
+    "S_code": 723.09,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "MtF-wiki",
+    "full_name": "Rongronggg9/MtF-wiki",
+    "html_url": "https://github.com/Rongronggg9/MtF-wiki",
+    "description": "MtF.wiki is a free, open, and continuously updated transgender female knowledge integration site.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 10462,
+      "SCSS": 8777,
+      "JavaScript": 3435,
+      "TypeScript": 1050
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 11.58,
+    "S_code": 23.17,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Localization",
+    "full_name": "Rongronggg9/Localization",
+    "html_url": "https://github.com/Rongronggg9/Localization",
+    "description": "Localization for TDesktop x64",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "TLP",
+    "full_name": "Rongronggg9/TLP",
+    "html_url": "https://github.com/Rongronggg9/TLP",
+    "description": "TLP - Optimize Linux Laptop Battery Life",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 524421,
+      "Perl": 28405,
+      "Makefile": 8951,
+      "Roff": 382
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 274.49,
+    "S_code": 548.98,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fwupd",
+    "full_name": "Rongronggg9/fwupd",
+    "html_url": "https://github.com/Rongronggg9/fwupd",
+    "description": "A system daemon to allow session software to update firmware",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 7792295,
+      "Python": 335245,
+      "Meson": 150840,
+      "Shell": 51197,
+      "Rust": 34176,
+      "Makefile": 5261,
+      "C++": 712
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4086.78,
+    "S_code": 8173.56,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ble_monitor",
+    "full_name": "Rongronggg9/ble_monitor",
+    "html_url": "https://github.com/Rongronggg9/ble_monitor",
+    "description": "BLE monitor passively monitors BLE sensors (Xiaomi, Qingping, ATC, BlueMaestro, Brifit, Govee, Kegtron, Moat, Inkbird, iNode, Yeelight, RuuviTag, SensorPush, Teltonika and Thermoplus)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 395042
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 192.89,
+    "S_code": 385.78,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tzlocal",
+    "full_name": "Rongronggg9/tzlocal",
+    "html_url": "https://github.com/Rongronggg9/tzlocal",
+    "description": "A Python module that tries to figure out what your local timezone is",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 62328
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 40.43,
+    "S_code": 60.87,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "ACL4SSR",
+    "full_name": "Rongronggg9/ACL4SSR",
+    "html_url": "https://github.com/Rongronggg9/ACL4SSR",
+    "description": "SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "liquorix-package",
+    "full_name": "Rongronggg9/liquorix-package",
+    "html_url": "https://github.com/Rongronggg9/liquorix-package",
+    "description": "Liquorix Debian Package",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 81984,
+      "Shell": 41418,
+      "Makefile": 17696,
+      "Dockerfile": 1927,
+      "Perl": 552
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 70.11,
+    "S_code": 140.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Dress",
+    "full_name": "Rongronggg9/Dress",
+    "html_url": "https://github.com/Rongronggg9/Dress",
+    "description": "好耶  是女装",
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 0.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "debianopt-repo",
+    "full_name": "Rongronggg9/debianopt-repo",
+    "html_url": "https://github.com/Rongronggg9/debianopt-repo",
+    "description": "Additional debian repository for awesome open-source projects.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Makefile": 18374,
+      "Shell": 17465
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 17.5,
+    "S_code": 35.0,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "sticker-captcha-bot",
+    "full_name": "Rongronggg9/sticker-captcha-bot",
+    "html_url": "https://github.com/Rongronggg9/sticker-captcha-bot",
+    "description": "A simple Telegram bot which requires users to send any sticker after joining a group.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "TypeScript": 37061,
+      "Dockerfile": 232
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 18.21,
+    "S_code": 36.42,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "atomicneko",
+    "full_name": "Rongronggg9/atomicneko",
+    "html_url": "https://github.com/Rongronggg9/atomicneko",
+    "description": "a simple homepage (or template) located at",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 12071,
+      "CSS": 7595,
+      "JavaScript": 1746
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 10.46,
+    "S_code": 20.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "go",
+    "full_name": "Rongronggg9/go",
+    "html_url": "https://github.com/Rongronggg9/go",
+    "description": "The Go programming language",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Go": 41070193,
+      "Assembly": 2703762,
+      "HTML": 2621340,
+      "C": 127970,
+      "Shell": 62900,
+      "Perl": 31365,
+      "JavaScript": 20492,
+      "Python": 15738,
+      "Batchfile": 8497,
+      "Dockerfile": 2789,
+      "C++": 917,
+      "Makefile": 748,
+      "Awk": 450,
+      "Fortran": 100
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 22786.75,
+    "S_code": 45573.5,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "go-ci",
+    "full_name": "Rongronggg9/go-ci",
+    "html_url": "https://github.com/Rongronggg9/go-ci",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Shell": 591,
+      "Go": 373
+    },
+    "contributions_by_user": 2,
+    "contribution_score": 20.47,
+    "S_code": 0.94,
+    "S_social": 0,
+    "S_maint": 2
+  },
+  {
+    "name": "termit",
+    "full_name": "Rongronggg9/termit",
+    "html_url": "https://github.com/Rongronggg9/termit",
+    "description": "terminal emulator based on VTE library with Lua scripting",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 154289,
+      "CMake": 11887,
+      "Lua": 3450,
+      "Shell": 2549
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 94.07,
+    "S_code": 168.14,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "uvloop",
+    "full_name": "Rongronggg9/uvloop",
+    "html_url": "https://github.com/Rongronggg9/uvloop",
+    "description": "Ultra fast asyncio event loop.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {
+      "Cython": 372940,
+      "Python": 344183,
+      "C": 2588,
+      "Makefile": 1130
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 365.97,
+    "S_code": 703.95,
+    "S_social": 2,
+    "S_maint": 1
+  },
+  {
+    "name": "Solaar",
+    "full_name": "Rongronggg9/Solaar",
+    "html_url": "https://github.com/Rongronggg9/Solaar",
+    "description": "Linux device manager for Logitech devices",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 797736,
+      "Shell": 8357
+    },
+    "contributions_by_user": 3,
+    "contribution_score": 423.6,
+    "S_code": 787.2,
+    "S_social": 0,
+    "S_maint": 3
+  },
+  {
+    "name": "github-apt-repos",
+    "full_name": "Rongronggg9/github-apt-repos",
+    "html_url": "https://github.com/Rongronggg9/github-apt-repos",
+    "description": "Use GitHub releases as a Debian/Ubuntu apt repository",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 24481,
+      "Shell": 598,
+      "Makefile": 214
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 22.35,
+    "S_code": 24.7,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "EternalTerminal",
+    "full_name": "Rongronggg9/EternalTerminal",
+    "html_url": "https://github.com/Rongronggg9/EternalTerminal",
+    "description": "Re-Connectable secure remote shell",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 350456,
+      "CMake": 31478,
+      "Shell": 10034,
+      "Dockerfile": 1752
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 192.25,
+    "S_code": 384.49,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "fisco-bcos-python-sdk",
+    "full_name": "Rongronggg9/fisco-bcos-python-sdk",
+    "html_url": "https://github.com/Rongronggg9/fisco-bcos-python-sdk",
+    "description": "python sdk for FISCO BCOS",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 854684,
+      "C++": 63598,
+      "Shell": 45438,
+      "C": 30162,
+      "Solidity": 18091,
+      "Makefile": 9100,
+      "JavaScript": 3830,
+      "Cython": 3426,
+      "Dockerfile": 1193
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 512.7,
+    "S_code": 1005.39,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "FISCO-BCOS",
+    "full_name": "Rongronggg9/FISCO-BCOS",
+    "html_url": "https://github.com/Rongronggg9/FISCO-BCOS",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 4410063,
+      "CMake": 120870,
+      "Python": 115423,
+      "Shell": 55606,
+      "Solidity": 19591,
+      "Rust": 2434,
+      "C": 1618,
+      "Dockerfile": 1426
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 2308.12,
+    "S_code": 4616.24,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "luoxu",
+    "full_name": "Rongronggg9/luoxu",
+    "html_url": "https://github.com/Rongronggg9/luoxu",
+    "description": "A Telegram userbot to index Chinese and Japanese group contents.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 29996,
+      "Rust": 6627,
+      "PLpgSQL": 1808,
+      "Shell": 273
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 18.9,
+    "S_code": 37.8,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "greasemonkey-user-scripts",
+    "full_name": "Rongronggg9/greasemonkey-user-scripts",
+    "html_url": "https://github.com/Rongronggg9/greasemonkey-user-scripts",
+    "description": "Browser scripts",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 9655
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 4.71,
+    "S_code": 9.43,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Smart-RSS",
+    "full_name": "Rongronggg9/Smart-RSS",
+    "html_url": "https://github.com/Rongronggg9/Smart-RSS",
+    "description": "RSS extension",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 402621,
+      "HTML": 30392,
+      "CSS": 19815
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 221.11,
+    "S_code": 442.21,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "lk2nd",
+    "full_name": "Rongronggg9/lk2nd",
+    "html_url": "https://github.com/Rongronggg9/lk2nd",
+    "description": "Custom bootloader for Qualcomm MSM8916/MSM8226/MSM8974/... devices",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 18076320,
+      "Perl": 906964,
+      "Assembly": 554233,
+      "Makefile": 216731,
+      "DIGITAL Command Language": 113105,
+      "M4": 48996,
+      "Python": 30356,
+      "Shell": 24503,
+      "C++": 14208,
+      "XS": 4319,
+      "eC": 3710,
+      "Batchfile": 2356
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 9763.57,
+    "S_code": 19527.15,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "nbfc",
+    "full_name": "Rongronggg9/nbfc",
+    "html_url": "https://github.com/Rongronggg9/nbfc",
+    "description": "NoteBook FanControl",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C#": 980136,
+      "Shell": 1424,
+      "PowerShell": 1233
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 479.88,
+    "S_code": 959.76,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "popnet-interactive",
+    "full_name": "Rongronggg9/popnet-interactive",
+    "html_url": "https://github.com/Rongronggg9/popnet-interactive",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 13832
+    },
+    "contributions_by_user": 5,
+    "contribution_score": 56.75,
+    "S_code": 13.51,
+    "S_social": 0,
+    "S_maint": 5
+  },
+  {
+    "name": "images",
+    "full_name": "Rongronggg9/images",
+    "html_url": "https://github.com/Rongronggg9/images",
+    "description": "Source code of images.weserv.nl, to be used on your own server(s).",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C++": 460983,
+      "Perl": 18431,
+      "CMake": 11546,
+      "Dockerfile": 5992,
+      "Shell": 922,
+      "Makefile": 389
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 243.29,
+    "S_code": 486.58,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "ALL-about-RSS",
+    "full_name": "Rongronggg9/ALL-about-RSS",
+    "html_url": "https://github.com/Rongronggg9/ALL-about-RSS",
+    "description": "A list of RSS related stuff: tools, services, communities and tutorials, etc.",
+    "stars": 0,
+    "forks": 1,
+    "languages": {},
+    "contributions_by_user": 0,
+    "contribution_score": 4.0,
+    "S_code": 0.0,
+    "S_social": 2,
+    "S_maint": 0
+  },
+  {
+    "name": "Rongronggg9.github.io",
+    "full_name": "Rongronggg9/Rongronggg9.github.io",
+    "html_url": "https://github.com/Rongronggg9/Rongronggg9.github.io",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "HTML": 83
+    },
+    "contributions_by_user": 1,
+    "contribution_score": 10.04,
+    "S_code": 0.08,
+    "S_social": 0,
+    "S_maint": 1
+  },
+  {
+    "name": "external-resources",
+    "full_name": "Rongronggg9/external-resources",
+    "html_url": "https://github.com/Rongronggg9/external-resources",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "languages": {},
+    "contributions_by_user": 4,
+    "contribution_score": 40.0,
+    "S_code": 0.0,
+    "S_social": 0,
+    "S_maint": 4
+  },
+  {
+    "name": "channel-helper-bot",
+    "full_name": "Rongronggg9/channel-helper-bot",
+    "html_url": "https://github.com/Rongronggg9/channel-helper-bot",
+    "description": "A bot provides comments for Telegram channels",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "Python": 106403
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 51.95,
+    "S_code": 103.91,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "Modern-Standby-Byby",
+    "full_name": "Rongronggg9/Modern-Standby-Byby",
+    "html_url": "https://github.com/Rongronggg9/Modern-Standby-Byby",
+    "description": "Get AWAY from the Modern Standby! Patches ACPI table to force disable S0ix on every platform.",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 265329,
+      "Makefile": 5385,
+      "VBScript": 4988,
+      "C++": 1884
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 135.54,
+    "S_code": 271.08,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "hellfire-hypervisor",
+    "full_name": "Rongronggg9/hellfire-hypervisor",
+    "html_url": "https://github.com/Rongronggg9/hellfire-hypervisor",
+    "description": "Hellfire Hypervisor - a lightweight hypervisor designed for embedded (IoT) devices",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 1166351,
+      "Makefile": 114357,
+      "Assembly": 30381,
+      "CSS": 15190,
+      "Shell": 13992,
+      "Python": 13916,
+      "HTML": 4172,
+      "JavaScript": 3874,
+      "C++": 2162,
+      "Tcl": 704
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 666.55,
+    "S_code": 1333.1,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "tinyVP",
+    "full_name": "Rongronggg9/tinyVP",
+    "html_url": "https://github.com/Rongronggg9/tinyVP",
+    "description": "tiny embedded MIPS virtualization platform - a very small and lean hypervisor using MIPS R5 hardware VZ option for embedded systems (IoT in mind)",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "C": 791619,
+      "Python": 64171,
+      "Assembly": 42078,
+      "C++": 19287,
+      "Makefile": 5586,
+      "Batchfile": 565
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 450.83,
+    "S_code": 901.67,
+    "S_social": 0,
+    "S_maint": 0
+  },
+  {
+    "name": "waifu2x_webgl",
+    "full_name": "Rongronggg9/waifu2x_webgl",
+    "html_url": "https://github.com/Rongronggg9/waifu2x_webgl",
+    "description": "Waifu2x webgl version",
+    "stars": 0,
+    "forks": 0,
+    "languages": {
+      "JavaScript": 30877,
+      "HTML": 2092
+    },
+    "contributions_by_user": 0,
+    "contribution_score": 16.1,
+    "S_code": 32.2,
+    "S_social": 0,
+    "S_maint": 0
+  }
+]

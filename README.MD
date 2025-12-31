@@ -10,6 +10,8 @@
 - [安装部署](#安装部署)
 - [MaxKB 智能体配置](#maxkb-智能体配置)
 
+---
+
 ## 简介
 
 **OpenScout** 是一个专注于 GitHub 开发者深度画像与技术能力评估的智能分析系统。通过结合 GitHub API、OpenDigger 开源生态数据以及多维度评估模型，OpenScout 能够自动化构建开发者的全景技术档案，从影响力、贡献度、维护力、参与度、多样性、代码能力六个维度进行量化评分。
@@ -17,6 +19,8 @@
 本项目采用**多 Agent 协作**的数据采集与分析架构，旨在帮助开源社区、企业与猎头发现高质量的开发者人才，并为开发者提供客观的个人技术影响力报告。
 
 ![搜索页面](image/screenshot-search.png)
+
+---
 
 ## 核心特性
 
@@ -114,6 +118,7 @@ $$S_{\text{code}} = \sum_{PR \in \text{Merged}} \underbrace{\ln(\text{Repo Stars
 
 ![代表仓库分析](image/screenshot-repo-analysis.png)
 
+---
 
 ## 技术架构
 
@@ -171,6 +176,8 @@ OpenScout/
 ├── requirements.txt            # 项目依赖文件
 └── README.md                   # 项目文档
 ```
+
+---
 
 ## 安装部署
 
@@ -289,6 +296,8 @@ MaxKB 侧的部署、导入与联调细节见：[Intro2MaxKB](Intro2MaxKB.md)。
 
 ## 贡献指南
 欢迎提交 Issue 或 Pull Request 来改进评估模型或增加新的数据源支持。
+
+---
 
 ## License
 [MIT License](LICENSE)

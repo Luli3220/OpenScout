@@ -35,7 +35,7 @@
 
 ![Multi-Agent Architecture](image/Multi-agent.png)
 
-### 报告分析 
+### 报告案例 
 
 ![报告分析](image/screenshot-report.png)
 
@@ -47,57 +47,70 @@ $$
 \text{Score}_{\text{final}} = 50 + 50 \cdot \Phi \left( \frac{\ln(S_{\text{raw}} + 1) - \mu}{\sigma} \right)
 $$
 
-#### 维度定义与计算公式：
+我们从六个核心维度对开发者的开源贡献进行量化评估：
 
-- **影响力 (Influence)**
-  ```text
-  S_inf = 0.6 * Stars + 0.4 * (Forks + Issues)
-  ```
-  *综合 Stars、Forks、Issues 等社区关注度指标，反映项目的受关注程度。*
+#### 1. 影响力 (Influence)
 
-- **贡献度 (Contribution)**
-  ```text
-  S_con = 0.7 * Merged PRs + 0.3 * Created Issues
-  ```
-  *核心考量外部 PR 贡献与 Issue 提出数量，反映开发者对开源社区的实质性产出。*
+$$S_{\text{inf}} = \underbrace{\color{#e3b341}{0.6 \cdot \text{Stars}}}_{\text{认可度}} + \underbrace{0.4 \cdot (\color{#3fb950}{\text{Forks}} + \color{#f85149}{\text{Issues}})}_{\text{扩散与反馈}}$$
 
-- **维护力 (Maintainership)**
-  ```text
-  S_main = 0.7 * Merged Others' PRs + 0.3 * Review Comments
-  ```
-  *评估作为维护者合并 PR 与 Code Review 的活跃度，体现项目维护责任感。*
+*反映项目在社区中的品牌效应与关注广度。*
 
-- **参与度 (Engagement)**
-  ```text
-  S_eng = 0.6 * Issue Comments + 0.4 * Review Comments
-  ```
-  *社区互动与讨论参与程度，反映开发者在社区中的活跃交流情况。*
+---
 
-- **多样性 (Diversity)**
-  ```text
-  S_div = 0.6 * Languages + 0.4 * Topics
-  ```
-  *技术栈广度与跨领域项目涉猎情况，衡量技术视野的宽广度。*
+#### 2. 贡献度 (Contribution)
 
-- **代码能力 (Code Capability)**
-  ```text
-  S_code = Σ_{PR ∈ Merged} ln(Repo Stars + 1)
-  ```
-  *基于合并代码所属仓库的 Stars 权重进行深度评估，体现代码被认可的含金量。*
+$$S_{\text{con}} = \underbrace{\color{#238636}{0.7 \cdot \text{PRs}_{\text{merged}}}}_{\text{功能实现}} + \underbrace{\color{#8957e5}{0.3 \cdot \text{Issues}_{\text{created}}}}_{\text{问题发现}}$$
 
-### 雷达 / 趋势 / 技术栈截图（待补充）
+*衡量对开源生态的实质性代码产出与建设。*
+
+---
+
+#### 3. 维护力 (Maintainership)
+
+$$S_{\text{main}} = \underbrace{\color{#0969da}{0.7 \cdot \text{Merged Others' PRs}}}_{\text{决策权力}} + \underbrace{\color{#1a7f37}{0.3 \cdot \text{Review Comments}}}_{\text{质量把控}}$$
+
+*体现作为项目 Lead 处理他人代码的责任感与活跃度。*
+
+---
+
+#### 4. 参与度 (Engagement)
+
+$$S_{\text{eng}} = \underbrace{\color{#0969da}{0.6 \cdot \text{Comments}_{\text{issue}}}}_{\text{社区交流}} + \underbrace{\color{#1a7f37}{0.4 \cdot \text{Comments}_{\text{review}}}}_{\text{技术深研}}$$
+
+*反映开发者在社区讨论与协同开发中的活跃程度。*
+
+---
+
+#### 5. 多样性 (Diversity)
+
+$$S_{\text{div}} = \underbrace{\color{#0969da}{0.6 \cdot \text{Languages}}}_{\text{技能广度}} + \underbrace{\color{#dd7ad2}{0.4 \cdot \text{Topics}}}_{\text{领域跨度}}$$
+
+*通过技术栈种类与项目标签评估开发者的知识领域边界。*
+
+---
+
+
+#### 6. 代码能力 (Code Capability)
+
+$$S_{\text{code}} = \sum_{PR \in \text{Merged}} \underbrace{\ln(\text{Repo Stars} + 1)}_{\text{项目含金量权重}}$$
+
+*基于合并 PR 所属仓库的 Star 数进行对数加权，体现“在高价值项目中的代码贡献”。*
+
+---
+
+### 雷达 / 趋势 / 技术栈案例
 
 ![雷达图 + OpenRank 趋势 + 技术栈分布](image/screenshot-dashboard.png)
 
-### 3. 仓库智能分析（DeepSeek）
+### 3. 仓库智能分析
 
-在开发者详情页的「代表仓库」列表中，支持对单个仓库进行基于大模型的自动介绍与总结：系统会根据仓库 URL 自动拉取 `README.md`、Repository Description 与 Topics，并调用 DeepSeek 生成一段简洁的仓库说明，支持流式输出展示。
+在开发者详情页的「代表仓库」列表中，支持对单个仓库进行基于大模型的自动介绍与总结：系统会根据仓库 URL 自动拉取 `README.md`、Repository Description 与 Topics，并调用 LLM 生成一段简洁的仓库说明，支持流式输出展示。
 
-#### 代表仓库截图
+#### 案例
 
 ![代表仓库](image/screenshot-repos.png)
 
-#### 代表仓库分析截图
+#### 分析案例
 
 ![代表仓库分析](image/screenshot-repo-analysis.png)
 
@@ -107,51 +120,56 @@ $$
 OpenScout 面向“数据采集 + 指标建模 + 智能分析 + 可视化展示”构建端到端链路，核心由四层组成：
 
 - **数据层（GitHub / OpenDigger）**：提供开发者事件、仓库元数据与生态宏观指标（OpenRank、Activity 等）。
-- **采集与建模层（Pipeline）**：位于 `src/`，以脚本流水线方式按阶段增量抓取与计算，将结构化结果落盘到 `data/`。
-- **服务层（Backend API）**：`server.py` 对外提供统一 API，并负责触发缺失用户的自动挖掘与缓存读取。
-- **分析层（MaxKB 多 Agent）**：通过 MaxKB 编排多 Agent，对结构化表单数据进行“岗位画像/技术栈评估/项目审计/总结归纳”等深度分析。
+- **采集与建模层 (Pipeline)**：位于 `src/`，以脚本流水线方式按阶段增量抓取与计算，将结构化结果落盘到 `data/`。包含向量生成器以支持检索。
+- **服务层 (Backend API)**：`server.py` 对外提供统一 API（数据查询/流式 AI 响应），托管静态资源（`/images`），并负责后台自动挖掘任务。
+- **分析层 (AI Agents)**：
+  - **MaxKB 多 Agent**：对结构化表单数据进行“岗位画像/技术栈评估/项目审计”深度分析。
+  - **DeepSeek**：针对单个仓库进行实时流式摘要与技术点提炼。
 
 ### 前端技术栈
 
-- `OpenScout.htm`：前端（HTML + JS）
-- Tailwind CSS：样式框架
-- Chart.js：数据可视化引擎（雷达图/趋势图/技术栈分布）
-- Marked.js：Markdown 渲染（多 Agent 分析报告展示）
+- `search.htm` / `profile.htm`：原生 HTML + JS 构建的轻量级前端（无需构建工具）。
+- **Tailwind CSS**：原子化 CSS 样式框架。
+- **Chart.js**：高性能数据可视化引擎（雷达图/趋势图/技术栈分布）。
+- **Marked.js**：前端 Markdown 实时渲染（用于 AI 报告与仓库摘要展示）。
 
 ### 后端技术栈
 
-- FastAPI：Python Web 框架（统一 API、静态页面托管、后台任务）
-- OpenDigger API：开源生态数据分析（OpenRank、Activity）
-- GitHub API：基础数据源（用户资料、仓库/事件相关数据）
-- MaxKB API：多 Agent 智能分析编排（可对接星火等大模型）
-- `config.json`：本地配置管理（Token、MaxKB 接入参数）
-
-
+- **FastAPI**：高性能 Python Web 框架（异步流式响应、后台任务管理）。
+- **OpenDigger API**：开源生态数据分析（OpenRank、Activity）。
+- **GitHub API**：基础数据源（用户资料、仓库/事件相关数据）。
+- **DeepSeek API**：大模型流式推理（仓库智能摘要）。
+- **MaxKB API**：多 Agent 智能分析编排。
+- `config.json`：统一配置管理（API Tokens、模型参数）。
 
 ### 目录结构
+
 ```
 OpenScout/
-├── data/                   # 数据存储目录
-│   ├── raw_users/          # 用户维度的详细原始数据（JSON）
-│   ├── macro_data/         # OpenDigger 宏观指标缓存
-│   ├── users_list.json     # 目标用户名单
-│   └── radar_scores.json   # 最终计算的雷达分数
-├── src/                    # 核心源代码
+├── data/                       # 数据存储目录
+│   ├── raw_users/              # 用户维度的详细原始数据（JSON）
+│   ├── macro_data/             # OpenDigger 宏观指标缓存
+│   ├── users_list.json         # 目标用户名单
+│   ├── radar_scores.json       # 最终计算的雷达分数
+│   └── developer_vectors.json  # 开发者向量索引（用于检索/推荐）
+├── src/                        # 核心源代码 (Pipeline)
 │   ├── get_user_name.py              # [Scout] 用户名单获取
 │   ├── get_user_info.py              # [Metric] OpenDigger 数据获取
 │   ├── get_all_metrics.py            # [Metric] 全维度指标抓取
 │   ├── calculate_radar.py            # [Analysis] 雷达分计算
 │   ├── fetch_representative_repos.py # [Context] 代表作抓取
-│   └── fetch_tech_stack_context.py   # [Context] 技术栈上下文提取
-│   └── run_pipeline                  # [Context] 数据初始化or新用户自动挖掘
-│   └── README.md                     # [Context] 数据挖掘介绍文档
-├── OpenScout.htm           # [Frontend] 前端展示页面
-├── server.py               # [Backend] 后端 API 服务
-├── OpenScout.mk            # [MaxKB] 多Agent导出包
-├── requirements.txt        # [Dependency] 项目依赖文件
-├── config.json             # 配置文件 (Token 等)
-└── README.md               # 项目文档
-└── Intro2MaxKB.md          # MaxKB配置文档
+│   ├── fetch_tech_stack_context.py   # [Context] 技术栈上下文提取
+│   ├── generate_developer_vectors.py # [Search] 向量生成脚本
+│   └── run_pipeline.py               # [Orchestrator] 数据流水线入口
+├── image/                      # 静态图片资源 (Icon, 截图等)
+├── search.htm                  # [Frontend] 搜索/首页
+├── profile.htm                 # [Frontend] 个人画像详情页
+├── server.py                   # [Backend] FastAPI 后端服务
+├── config.json                 # 配置文件 (Token, API Key)
+├── OpenScout.mk                # [MaxKB] 多 Agent 导出包
+├── Intro2MaxKB.md              # MaxKB 配置文档
+├── requirements.txt            # 项目依赖文件
+└── README.md                   # 项目文档
 ```
 
 ## 安装部署
@@ -170,27 +188,34 @@ pip install -r requirements.txt
 
 ```json
 {
+  // 单个 GitHub 个人访问令牌 (Classic 或 Fine-grained)
+  "github_token": "YOUR_GITHUB_TOKEN_HERE",
+
+  // GitHub 令牌池，支持配置多个以绕过 API 速率限制 (Rate Limit)
   "github_tokens": [
-    "ghp_your_token_1",
-    "ghp_your_token_2"
+    "YOUR_GITHUB_TOKEN_1",
+    "YOUR_GITHUB_TOKEN_2"
   ],
-  "maxkb_api_url": "http://localhost:8080/chat/api/<app_id>",
-  "maxkb_api_key": "application-your-api-key"
-}
-```
 
-说明：
+  // MaxKB 知识库系统的 API 终端地址
+  "maxkb_api_url": "http://your-maxkb-host:8080/chat/api/YOUR_APPLICATION_ID",
+  
+  // MaxKB 应用的 API Key
+  "maxkb_api_key": "application-YOUR_MAXKB_KEY",
 
-- `github_tokens`：用于 GitHub API 访问与速率限制轮询。
-- `maxkb_api_url`：MaxKB 应用 API 的基础路径（不包含 `/chat/completions`）。
-- `maxkb_api_key`：MaxKB 访问 Key（用于 `Authorization: Bearer ...`）。
+  // 华东师范大学 (ECNU) Chat 平台的 API 地址
+  "chatecnu_api_url": "https://chat.ecnu.edu.cn/open/api/v1/chat/completions",
+  
+  // ECNU Chat 的 API 访问密钥
+  "chatecnu_api_key": "sk-YOUR_ECNU_KEY",
 
-DeepSeek（仓库分析）可选配置：
-
-```json
-{
+  // DeepSeek 官方 API 终端地址
   "deepseek_api_url": "https://api.deepseek.com",
-  "deepseek_api_key": "sk-xxx",
+  
+  // DeepSeek 的 API 访问密钥
+  "deepseek_api_key": "sk-YOUR_DEEPSEEK_KEY",
+  
+  // 指定使用的 DeepSeek 模型（例如: deepseek-chat, deepseek-reasoner）
   "deepseek_model": "deepseek-chat"
 }
 ```

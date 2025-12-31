@@ -16,14 +16,36 @@
 
 本项目采用**多 Agent 协作**的数据采集与分析架构，旨在帮助开源社区、企业与猎头发现高质量的开发者人才，并为开发者提供客观的个人技术影响力报告。
 
+![搜索页面](image/screenshot-search.png)
+
 ## 核心特性
 
-### 1. 多维度能力雷达 (6-Dimension Radar)
+### 1. 基于MaxKB 的多智能体分析流水线
+### Agents 职责概览
+
+- #### **The Career Strategist**：基于 Profile、六维雷达与 OpenRank/活跃度趋势，判断职业阶段（上升/稳定/沉寂）、社区生态位（Maintainer/Core/Casual），给出结论式画像
+
+- #### **The Tech Stack Evaluator**：基于语言分布与 Topics，提炼核心技术栈（排除辅助语言）、评估技术广度（I 型/T 型），并判断技术栈的现代性与技术品味
+
+- #### **The Project Analyst**：基于 Top 仓库的 Description/README 文档，判断项目含金量（玩具/练习/资料/生产级），评估文档与工程素养（安装、架构、测试、徽章等）及沟通表达能力
+
+- #### **Chief Talent Officer**：综合以上三位 Agent 输出，生成结构化的《OpenScout 深度人才评估报告》，包含核心画像、技术基因、项目实战
+
+- #### **Keywords Generator**：基于《OpenScout 深度人才评估报告》生成 概括该任务的3个精准关键词：`tech_core` / `career_persona` / `engineering_trait`。
+
+![Multi-Agent Architecture](image/Multi-agent.png)
+
+### 报告分析 
+
+![报告分析](image/screenshot-report.png)
+
+
+### 2. 多维度能力雷达 (6-Dimension Radar)
 基于自研评估模型，从以下六个维度对开发者进行量化评分（50-100 分）。所有原始指标经过 $\ln(x+1)$ 对数正态分布归一化，并通过 CDF 映射至 50-100 区间。
 
-```text
-Score_final = 50 + 50 * Φ((ln(S_raw + 1) - μ) / σ)
-```
+$$
+\text{Score}_{\text{final}} = 50 + 50 \cdot \Phi \left( \frac{\ln(S_{\text{raw}} + 1) - \mu}{\sigma} \right)
+$$
 
 #### 维度定义与计算公式：
 
@@ -63,16 +85,22 @@ Score_final = 50 + 50 * Φ((ln(S_raw + 1) - μ) / σ)
   ```
   *基于合并代码所属仓库的 Stars 权重进行深度评估，体现代码被认可的含金量。*
 
-### 2. 智能多 Agent 数据流水线
-### 多 Agent 职责概览
+### 雷达 / 趋势 / 技术栈截图（待补充）
 
-- **The Career Strategist**：基于 Profile、六维雷达与 OpenRank/活跃度趋势，判断职业阶段（上升/稳定/沉寂）、社区生态位（Maintainer/Core/Casual），给出结论式画像。
-- **The Tech Stack Evaluator**：基于语言分布与 Topics，提炼核心技术栈（排除辅助语言）、评估技术广度（I 型/T 型），并判断技术栈的现代性与技术品味。
-- **The Project Analyst**：基于 Top 仓库的 Description/README 片段，判断项目含金量（玩具/练习/资料/生产级），评估文档与工程素养（安装、架构、测试、徽章等）及沟通表达能力。
-- **Chief Talent Officer**：综合以上三位 Agent 输出，生成结构化的《OpenScout 深度人才评估报告》，包含核心画像、技术基因、项目实战。
-- **Keywords Generator**：基于《OpenScout 深度人才评估报告》生成 3 个精准关键词，并严格按 JSON 输出：`tech_core` / `career_persona` / `engineering_trait`。
+![雷达图 + OpenRank 趋势 + 技术栈分布](image/screenshot-dashboard.png)
 
-![Multi-Agent Architecture](image/Multi-agent.png)
+### 3. 仓库智能分析（DeepSeek）
+
+在开发者详情页的「代表仓库」列表中，支持对单个仓库进行基于大模型的自动介绍与总结：系统会根据仓库 URL 自动拉取 `README.md`、Repository Description 与 Topics，并调用 DeepSeek 生成一段简洁的仓库说明，支持流式输出展示。
+
+#### 代表仓库截图
+
+![代表仓库](image/screenshot-repos.png)
+
+#### 代表仓库分析截图
+
+![代表仓库分析](image/screenshot-repo-analysis.png)
+
 
 ## 技术架构
 
@@ -157,7 +185,17 @@ pip install -r requirements.txt
 - `maxkb_api_url`：MaxKB 应用 API 的基础路径（不包含 `/chat/completions`）。
 - `maxkb_api_key`：MaxKB 访问 Key（用于 `Authorization: Bearer ...`）。
 
-### 3. 运行数据流水线([详情见](./src/README.md))
+DeepSeek（仓库分析）可选配置：
+
+```json
+{
+  "deepseek_api_url": "https://api.deepseek.com",
+  "deepseek_api_key": "sk-xxx",
+  "deepseek_model": "deepseek-chat"
+}
+```
+
+### 3. 运行数据流水线([流水线文档](./src/README.md))
 
 #### 方式一：一键全自动运行 (推荐)
 使用 `run_pipeline.py` 脚本按顺序执行所有步骤：

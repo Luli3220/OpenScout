@@ -6,6 +6,10 @@
 ## 目录
 - [简介](#简介)
 - [核心特性](#核心特性)
+  - [1. 智能语义搜索](#1-智能语义搜索-smart-search)
+  - [2. 多智能体分析流水线](#2-基于-maxkb-的多智能体分析流水线)
+  - [3. 多维度能力雷达](#3-多维度能力雷达-6-dimension-radar)
+  - [4. 仓库智能分析](#4-仓库智能分析)
 - [技术架构](#技术架构)
 - [安装部署](#安装部署)
 - [MaxKB 智能体配置](#maxkb-智能体配置)
@@ -24,7 +28,17 @@
 
 ## 核心特性
 
-### 1. 基于 MaxKB 的多智能体分析流水线
+### 1. 智能语义搜索 (Smart Search)
+
+OpenScout 不仅支持基于 ID 的精确查询，还内置了强大的**语义搜索引擎**。系统会为每位开发者的技术栈、项目描述和 README 文档生成高维向量索引 (Embeddings)，从而支持自然语言模糊匹配。
+
+- **自然语言交互**：您可以直接输入 "寻找擅长 Rust 和高性能网络的后端工程师" 或 "Looking for a React frontend expert"。
+- **向量数据库**：内置轻量级向量存储 (`vector_store.json`)，支持增量更新与持久化，首次启动会自动构建索引。
+- **混合特征提取**：搜索算法综合考虑了开发者的编程语言偏好、GitHub Topics 以及核心仓库的 README 内容。
+
+![智能语义搜索演示](image/screenshot-smart-search.png)
+
+### 2. 基于 MaxKB 的多智能体分析流水线
 #### Agents 职责概览
 
 - #### **The Career Strategist**：基于 Profile、六维雷达与 OpenRank/活跃度趋势，判断职业阶段（上升/稳定/沉寂）、社区生态位（Maintainer/Core/Casual），给出结论式画像
@@ -44,7 +58,7 @@
 ![报告分析](image/screenshot-report.png)
 
 
-### 2. 多维度能力雷达 (6-Dimension Radar)
+### 3. 多维度能力雷达 (6-Dimension Radar)
 基于自研评估模型，从以下六个维度对开发者进行量化评分（50-100 分）。所有原始指标经过 $\ln(x+1)$ 对数正态分布归一化，并通过 CDF 映射至 50-100 区间。
 
 $$
@@ -106,16 +120,6 @@ $$S_{\text{code}} = \sum_{PR \in \text{Merged}} \underbrace{\ln(\text{Repo Stars
 
 ![雷达图 + OpenRank 趋势 + 技术栈分布](image/screenshot-dashboard.png)
 
-### 3. 智能语义搜索 (Smart Search)
-
-OpenScout 不仅支持基于 ID 的精确查询，还内置了强大的**语义搜索引擎**。系统会为每位开发者的技术栈、项目描述和 README 文档生成高维向量索引 (Embeddings)，从而支持自然语言模糊匹配。
-
-- **自然语言交互**：您可以直接输入 "寻找擅长 Rust 和高性能网络的后端工程师" 或 "Looking for a React frontend expert"。
-- **向量数据库**：内置轻量级向量存储 (`vector_store.json`)，支持增量更新与持久化，首次启动会自动构建索引。
-- **混合特征提取**：搜索算法综合考虑了开发者的编程语言偏好、GitHub Topics 以及核心仓库的 README 内容。
-
-![智能语义搜索演示](image/screenshot-smart-search.png)
-
 ### 4. 仓库智能分析
 
 在开发者详情页的「代表仓库」列表中，支持对单个仓库进行基于大模型的自动介绍与总结：系统会根据仓库 URL 自动拉取 `README.md`、Repository Description 与 Topics，并调用 LLM 生成一段简洁的仓库说明，支持流式输出展示。
@@ -140,7 +144,7 @@ OpenScout 面向“数据采集 + 指标建模 + 智能分析 + 可视化展示�
 - **分析层 (AI Agents)**：
   - **MaxKB 多 Agent**：对结构化表单数据进行“岗位画像/技术栈评估/项目审计”深度分析。
   - **LLM**：
-    - **Search Embedding**：使用 `text-embedding-v4` 模型生成用户画像向量。
+    - **Search Embedding**：使用 `qwen3-text-embedding-v4` 模型生成用户画像向量。
     - **Repo Summary**：针对单个仓库进行实时流式摘要与技术点提炼。
 
 ### 前端技术栈
@@ -183,7 +187,7 @@ OpenScout/
 ├── server.py                   # [Backend] FastAPI 后端服务
 ├── config.json                 # 配置文件 (Token, API Key)
 ├── OpenScout.mk                # [MaxKB] 多 Agent 导出包
-├── Intro2MaxKB.md              # MaxKB 配置文档
+├── Intro2MaxKB.md              # [MaxKB] 配置文档
 ├── requirements.txt            # 项目依赖文件
 └── README.md                   # 项目文档
 ```
@@ -206,22 +210,13 @@ pip install -r requirements.txt
 
 ```json
 {
-  // 单个 GitHub 个人访问令牌 (Classic 或 Fine-grained)
+  // GitHub 个人访问令牌 (Classic 或 Fine-grained)
   "github_token": "YOUR_GITHUB_TOKEN_HERE",
-
-  // GitHub 令牌池，支持配置多个以绕过 API 速率限制 (Rate Limit)
-  "github_tokens": [
-    "YOUR_GITHUB_TOKEN_1",
-    "YOUR_GITHUB_TOKEN_2"
-  ],
-
   // MaxKB 知识库系统的 API 终端地址
   "maxkb_api_url": "http://your-maxkb-host:8080/chat/api/YOUR_APPLICATION_ID",
-  
   // MaxKB 应用的 API Key
   "maxkb_api_key": "application-YOUR_MAXKB_KEY",
-
-  // DeepSeek 官方 API 终端地址 (用于仓库分析)
+  // LLM 模型配置 (用于仓库分析和智能语义搜索)
   "qwen_api_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
   "qwen_api_key": "sk-YOUR_DEEPSEEK_KEY",
   "qwen_embedding_model": "text-embedding-v4"

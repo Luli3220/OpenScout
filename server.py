@@ -76,6 +76,143 @@ DEEPSEEK_API_URL = os.environ.get("DEEPSEEK_API_URL") or config.get("deepseek_ap
 DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY") or config.get("deepseek_api_key", "")
 DEEPSEEK_MODEL = os.environ.get("DEEPSEEK_MODEL") or config.get("deepseek_model", "deepseek-chat")
 
+# Qwen / Embedding Config
+QWEN_API_URL = os.environ.get("QWEN_API_URL") or config.get("qwen_api_url", "https://api.deepseek.com")
+QWEN_API_KEY = os.environ.get("QWEN_API_KEY") or config.get("qwen_api_key", "")
+QWEN_EMBEDDING_MODEL = os.environ.get("QWEN_EMBEDDING_MODEL") or config.get("qwen_embedding_model", "text-embedding-v4")
+
+USER_EMBEDDINGS_CACHE_FILE = os.path.join(DATA_DIR, "vector_store.json")
+
+class SimpleVectorStore:
+    def __init__(self, storage_file=USER_EMBEDDINGS_CACHE_FILE):
+        self.storage_file = storage_file
+        self.vectors = {}
+        self.load()
+
+    def load(self):
+        if os.path.exists(self.storage_file):
+            try:
+                with open(self.storage_file, 'r', encoding='utf-8') as f:
+                    self.vectors = json.load(f)
+            except Exception as e:
+                print(f"Failed to load vector store: {e}")
+                self.vectors = {}
+        # Migration from old filename if exists and new one doesn't
+        elif os.path.exists(os.path.join(DATA_DIR, "user_embeddings_cache.json")):
+             try:
+                with open(os.path.join(DATA_DIR, "user_embeddings_cache.json"), 'r', encoding='utf-8') as f:
+                    self.vectors = json.load(f)
+                self.save() # Save to new location
+             except:
+                 pass
+
+    def save(self):
+        try:
+            with open(self.storage_file, 'w', encoding='utf-8') as f:
+                json.dump(self.vectors, f)
+        except Exception as e:
+            print(f"Failed to save vector store: {e}")
+
+    def add(self, key, vector):
+        self.vectors[key] = vector
+
+    def get(self, key):
+        return self.vectors.get(key)
+    
+    def has(self, key):
+        return key in self.vectors
+
+    def search(self, query_vector, limit=10):
+        results = []
+        for key, vector in self.vectors.items():
+            score = cosine_similarity(query_vector, vector)
+            results.append((key, score))
+        
+        results.sort(key=lambda x: x[1], reverse=True)
+        return results[:limit]
+
+# Initialize global vector store
+vector_store = SimpleVectorStore()
+
+def generate_qwen_embedding(text: str):
+    """Generate embedding using Qwen/DeepSeek API"""
+    if not QWEN_API_KEY:
+        print("Warning: QWEN_API_KEY not found")
+        return []
+    
+    # Normalize URL
+    api_url = QWEN_API_URL.rstrip("/")
+    if not api_url.endswith("/embeddings"):
+         if "v1" not in api_url:
+             api_url = f"{api_url}/v1/embeddings"
+         else:
+             api_url = f"{api_url}/embeddings"
+
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {QWEN_API_KEY}"
+    }
+    
+    payload = {
+        "model": QWEN_EMBEDDING_MODEL,
+        "input": text
+    }
+    
+    try:
+        resp = requests.post(api_url, json=payload, headers=headers, timeout=30)
+        resp.raise_for_status()
+        data = resp.json()
+        if "data" in data and len(data["data"]) > 0:
+            return data["data"][0]["embedding"]
+        return []
+    except Exception as e:
+        print(f"Embedding generation failed: {e}")
+        return []
+
+def get_user_search_text(username: str):
+    """Aggregate user data for search"""
+    text_parts = []
+    
+    # 1. Diversity Data (Languages & Topics)
+    diversity_path = os.path.join(RAW_USERS_DIR, username, f"{username}_diversity.json")
+    if os.path.exists(diversity_path):
+        try:
+            div_data = load_json(diversity_path)
+            raw = div_data.get("raw_metrics", {})
+            langs = raw.get("distinct_languages", [])
+            topics = raw.get("distinct_topics", [])
+            if langs:
+                text_parts.append(f"Languages: {', '.join(langs)}")
+            if topics:
+                text_parts.append(f"Topics: {', '.join(topics)}")
+        except Exception as e:
+            print(f"Error reading diversity for {username}: {e}")
+
+    # 2. Tech Stack (Repo descriptions & READMEs)
+    tech_stack_path = os.path.join(RAW_USERS_DIR, username, "tech_stack.json")
+    if os.path.exists(tech_stack_path):
+        try:
+            stack_data = load_json(tech_stack_path)
+            if isinstance(stack_data, list):
+                for repo in stack_data:
+                    name = repo.get("name", "")
+                    desc = repo.get("description", "")
+                    if name:
+                        text_parts.append(f"Project: {name}")
+                    if desc:
+                        text_parts.append(f"Description: {desc}")
+                    
+                    files = repo.get("files", {})
+                    readme = files.get("README.md", "")
+                    if readme:
+                        # Truncate readme to avoid token limits (approx 500 chars)
+                        text_parts.append(f"Readme: {readme[:500]}")
+        except Exception as e:
+            print(f"Error reading tech stack for {username}: {e}")
+            
+    return "\n".join(text_parts)
+
+
 
 class RepoAnalysisRequest(BaseModel):
     repo_url: str
@@ -678,51 +815,97 @@ def get_cached_avatar(username: str):
 
 @app.post("/api/search")
 def search_users(query: dict):
-    """Search users based on natural language query or vector"""
+    """Search users based on natural language query using Qwen embeddings"""
     print(f"--- Searching Users: {query} ---")
     
-    # Load developer vectors
-    vectors = load_developer_vectors()
-    if not vectors:
-        raise HTTPException(status_code=500, detail="No developer vectors found")
-    
-    # Extract query information
     query_text = query.get("query", "")
-    query_vector = query.get("vector")
-    limit = query.get("limit", 10)
+    limit = query.get("limit", 5)
     
-    # Generate vector from text if no vector is provided
-    if not query_vector and query_text:
-        # Use ChatECNU API to generate vector from query text
-        query_vector = generate_vector_chatecnu(query_text)
-    elif not query_vector:
-        # Default vector (all zeros)
-        first_username = next(iter(vectors.keys()), None)
-        if not first_username:
-            return []
-        vector_length = len(vectors[first_username])
-        query_vector = [0.0] * vector_length
+    if not query_text:
+        return []
+
+    # 1. Generate Query Embedding
+    query_vector = generate_qwen_embedding(query_text)
+    if not query_vector:
+        # Fallback or error?
+        # If Qwen fails, we can't search.
+        print("Failed to generate query embedding")
+        return []
+
+    # 2. Use Vector Store
+    users_list = load_users_list()
     
-    # Search developers
-    results = search_developers(query_vector, vectors, limit)
+    cache_updated = False
     
-    # Format results
+    # 3. Ensure all users have embeddings
+    # Only process users that have raw data locally
+    available_users = []
+    for user in users_list:
+        if os.path.exists(os.path.join(RAW_USERS_DIR, user)):
+             available_users.append(user)
+    
+    # Check if we need to generate new embeddings
+    for username in available_users:
+        if not vector_store.has(username):
+            print(f"Generating embedding for {username}...")
+            user_text = get_user_search_text(username)
+            if user_text:
+                vec = generate_qwen_embedding(user_text)
+                if vec:
+                    vector_store.add(username, vec)
+                    cache_updated = True
+            else:
+                print(f"No search text for {username}")
+    
+    if cache_updated:
+        vector_store.save()
+
+    # 4. Perform Search via Vector Store
+    top_results = vector_store.search(query_vector, limit)
+    
+    # 5. Format Response (skip step 6 label since logic is same)
     formatted_results = []
-    for username, similarity in results:
-        # Get user profile information
-        profile = load_cached_github_profile(username) or {}
-        github_info = {
-            "login": profile.get("login", username),
-            "name": profile.get("name", username),
-            "avatar_url": profile.get("avatar_file") and f"/api/avatar/{username}" or profile.get("avatar_remote_url")
-        }
+    for username, score in top_results:
+        try:
+            profile = load_cached_github_profile(username) or {}
+            github_info = {
+                "login": profile.get("login", username),
+                "name": profile.get("name", username),
+                "avatar_url": profile.get("avatar_file") and f"/api/avatar/{username}" or profile.get("avatar_remote_url")
+            }
+            
+            # Scale score to 0-100
+            scaled_score = max(0, min(100, score * 100))
+            
+            # Fetch representative repos
+            repos = []
+            repo_path = os.path.join(RAW_USERS_DIR, username, "representative_repos.json")
+            if os.path.exists(repo_path):
+                try:
+                    all_repos = load_json(repo_path)
+                    # Take top 3, just name and description and primary language
+                    for r in all_repos[:3]:
+                        langs = r.get("languages", {})
+                        primary_lang = list(langs.keys())[0] if langs else "Code"
+                        repos.append({
+                            "name": r.get("name"),
+                            "description": r.get("description"),
+                            "language": primary_lang,
+                            "html_url": r.get("html_url")
+                        })
+                except:
+                    pass
+
+            formatted_results.append({
+                "username": username,
+                "similarity": scaled_score,
+                "profile": github_info,
+                "repos": repos
+            })
+        except Exception as e:
+            print(f"Error formatting result for {username}: {e}")
+            continue
         
-        formatted_results.append({
-            "username": username,
-            "similarity": similarity,
-            "profile": github_info
-        })
-    
     return formatted_results
 
 if __name__ == "__main__":

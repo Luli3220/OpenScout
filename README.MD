@@ -24,8 +24,8 @@
 
 ## 核心特性
 
-### 1. 基于MaxKB 的多智能体分析流水线
-### Agents 职责概览
+### 1. 基于 MaxKB 的多智能体分析流水线
+#### Agents 职责概览
 
 - #### **The Career Strategist**：基于 Profile、六维雷达与 OpenRank/活跃度趋势，判断职业阶段（上升/稳定/沉寂）、社区生态位（Maintainer/Core/Casual），给出结论式画像
 
@@ -106,7 +106,15 @@ $$S_{\text{code}} = \sum_{PR \in \text{Merged}} \underbrace{\ln(\text{Repo Stars
 
 ![雷达图 + OpenRank 趋势 + 技术栈分布](image/screenshot-dashboard.png)
 
-### 3. 仓库智能分析
+### 3. 智能语义搜索 (Smart Search)
+
+OpenScout 不仅支持基于 ID 的精确查询，还内置了强大的**语义搜索引擎**。系统会为每位开发者的技术栈、项目描述和 README 文档生成高维向量索引 (Embeddings)，从而支持自然语言模糊匹配。
+
+- **自然语言交互**：您可以直接输入 "寻找擅长 Rust 和高性能网络的后端工程师" 或 "Looking for a React frontend expert"。
+- **向量数据库**：内置轻量级向量存储 (`vector_store.json`)，支持增量更新与持久化，首次启动会自动构建索引。
+- **混合特征提取**：搜索算法综合考虑了开发者的编程语言偏好、GitHub Topics 以及核心仓库的 README 内容。
+
+### 4. 仓库智能分析
 
 在开发者详情页的「代表仓库」列表中，支持对单个仓库进行基于大模型的自动介绍与总结：系统会根据仓库 URL 自动拉取 `README.md`、Repository Description 与 Topics，并调用 LLM 生成一段简洁的仓库说明，支持流式输出展示。
 
@@ -129,7 +137,9 @@ OpenScout 面向“数据采集 + 指标建模 + 智能分析 + 可视化展示�
 - **服务层 (Backend API)**：`server.py` 对外提供统一 API（数据查询/流式 AI 响应），托管静态资源（`/images`），并负责后台自动挖掘任务。
 - **分析层 (AI Agents)**：
   - **MaxKB 多 Agent**：对结构化表单数据进行“岗位画像/技术栈评估/项目审计”深度分析。
-  - **DeepSeek**：针对单个仓库进行实时流式摘要与技术点提炼。
+  - **LLM**：
+    - **Search Embedding**：使用 `text-embedding-v4` 模型生成用户画像向量。
+    - **Repo Summary**：针对单个仓库进行实时流式摘要与技术点提炼。
 
 ### 前端技术栈
 
@@ -143,7 +153,7 @@ OpenScout 面向“数据采集 + 指标建模 + 智能分析 + 可视化展示�
 - **FastAPI**：高性能 Python Web 框架（异步流式响应、后台任务管理）。
 - **OpenDigger API**：开源生态数据分析（OpenRank、Activity）。
 - **GitHub API**：基础数据源（用户资料、仓库/事件相关数据）。
-- **DeepSeek API**：大模型流式推理（仓库智能摘要）。
+- **Qwen API**：提供语义搜索所需的 Embedding 服务和大模型流式推理（仓库智能摘要）。
 - **MaxKB API**：多 Agent 智能分析编排。
 - `config.json`：统一配置管理（API Tokens、模型参数）。
 
@@ -156,7 +166,7 @@ OpenScout/
 │   ├── macro_data/             # OpenDigger 宏观指标缓存
 │   ├── users_list.json         # 目标用户名单
 │   ├── radar_scores.json       # 最终计算的雷达分数
-│   └── developer_vectors.json  # 开发者向量索引（用于检索/推荐）
+│   └── vector_store.json       # 开发者向量索引（用于语义检索）
 ├── src/                        # 核心源代码 (Pipeline)
 │   ├── get_user_name.py              # [Scout] 用户名单获取
 │   ├── get_user_info.py              # [Metric] OpenDigger 数据获取
@@ -164,7 +174,6 @@ OpenScout/
 │   ├── calculate_radar.py            # [Analysis] 雷达分计算
 │   ├── fetch_representative_repos.py # [Context] 代表作抓取
 │   ├── fetch_tech_stack_context.py   # [Context] 技术栈上下文提取
-│   ├── generate_developer_vectors.py # [Search] 向量生成脚本
 │   └── run_pipeline.py               # [Orchestrator] 数据流水线入口
 ├── image/                      # 静态图片资源 (Icon, 截图等)
 ├── search.htm                  # [Frontend] 搜索/首页
@@ -190,7 +199,7 @@ OpenScout/
 pip install -r requirements.txt
 ```
 
-### 2. 配置（GitHub / MaxKB）
+### 2. 配置（GitHub / MaxKB / LLM）
 在项目根目录创建/编辑 `config.json`：
 
 ```json
@@ -210,20 +219,10 @@ pip install -r requirements.txt
   // MaxKB 应用的 API Key
   "maxkb_api_key": "application-YOUR_MAXKB_KEY",
 
-  // 华东师范大学 (ECNU) Chat 平台的 API 地址
-  "chatecnu_api_url": "https://chat.ecnu.edu.cn/open/api/v1/chat/completions",
-  
-  // ECNU Chat 的 API 访问密钥
-  "chatecnu_api_key": "sk-YOUR_ECNU_KEY",
-
-  // DeepSeek 官方 API 终端地址
-  "deepseek_api_url": "https://api.deepseek.com",
-  
-  // DeepSeek 的 API 访问密钥
-  "deepseek_api_key": "sk-YOUR_DEEPSEEK_KEY",
-  
-  // 指定使用的 DeepSeek 模型（例如: deepseek-chat, deepseek-reasoner）
-  "deepseek_model": "deepseek-chat"
+  // DeepSeek 官方 API 终端地址 (用于仓库分析)
+  "qwen_api_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+  "qwen_api_key": "sk-YOUR_DEEPSEEK_KEY",
+  "qwen_embedding_model": "text-embedding-v4"
 }
 ```
 
@@ -284,7 +283,7 @@ python src/fetch_representative_repos.py
 python server.py
 ```
 
-默认启动后打开 `http://localhost:8001`。
+默认启动后打开 `http://localhost:8001`。首次启动进行搜索时，后台会自动为现有用户生成向量索引，可能需要数分钟。
 
 ## MaxKB 智能体配置
 

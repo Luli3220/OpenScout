@@ -471,33 +471,51 @@
                 handle.className = 'text-sm text-orange-600 font-medium mb-3';
                 handle.textContent = '@' + result.username;
 
-                const similarity = document.createElement('div');
-                similarity.className = 'mt-auto w-full pt-3 border-t border-slate-100';
+                // Repos Section
+                const reposContainer = document.createElement('div');
+                reposContainer.className = 'w-full mt-4 space-y-2 text-left';
+                
+                if (result.repos && result.repos.length > 0) {
+                    const repoTitle = document.createElement('div');
+                    repoTitle.className = 'text-xs font-bold text-slate-400 uppercase tracking-wider mb-2 flex items-center gap-1';
+                    repoTitle.innerHTML = '<i class="ph ph-crown text-amber-400"></i> 代表作';
+                    reposContainer.appendChild(repoTitle);
 
-                const similarityLabel = document.createElement('div');
-                similarityLabel.className = 'text-xs text-slate-500 mb-1';
-                similarityLabel.textContent = '匹配度';
+                    result.repos.forEach(repo => {
+                        const repoEl = document.createElement('a');
+                        repoEl.href = repo.html_url || '#';
+                        repoEl.target = '_blank';
+                        repoEl.className = 'group block p-2 rounded-lg bg-slate-50 border border-slate-100 hover:bg-orange-50 hover:border-orange-200 transition-all duration-200 relative overflow-hidden';
+                        
+                        // Language Dot
+                        let langColor = '#64748b';
+                        if (repo.language === 'Python') langColor = '#3572A5';
+                        if (repo.language === 'JavaScript') langColor = '#f1e05a';
+                        if (repo.language === 'TypeScript') langColor = '#2b7489';
+                        if (repo.language === 'HTML') langColor = '#e34c26';
+                        if (repo.language === 'CSS') langColor = '#563d7c';
+                        if (repo.language === 'Java') langColor = '#b07219';
+                        if (repo.language === 'C#') langColor = '#178600';
 
-                const similarityBar = document.createElement('div');
-                similarityBar.className = 'w-full bg-slate-200 rounded-full h-2';
-
-                const similarityFill = document.createElement('div');
-                similarityFill.className = 'bg-orange-500 h-2 rounded-full transition-all duration-500';
-                similarityFill.style.width = `${(result.similarity * 100).toFixed(0)}%`;
-
-                const similarityText = document.createElement('div');
-                similarityText.className = 'text-xs text-slate-700 mt-1';
-                similarityText.textContent = `${(result.similarity * 100).toFixed(1)}%`;
-
-                similarityBar.appendChild(similarityFill);
-                similarity.appendChild(similarityLabel);
-                similarity.appendChild(similarityBar);
-                similarity.appendChild(similarityText);
+                        repoEl.innerHTML = `
+                            <div class="flex justify-between items-start">
+                                <div class="font-medium text-xs text-slate-700 group-hover:text-orange-700 truncate pr-2">${repo.name}</div>
+                                <span class="text-[10px] px-1.5 py-0.5 rounded-full bg-white border border-slate-200 text-slate-500 group-hover:border-orange-200" style="color:${langColor}">${repo.language}</span>
+                            </div>
+                            <div class="text-[10px] text-slate-400 mt-1 line-clamp-1 group-hover:text-slate-500">${repo.description || '暂无描述'}</div>
+                            <div class="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-700"></div>
+                        `;
+                        // Stop propagation so clicking repo doesn't trigger card click
+                        repoEl.addEventListener('click', (e) => e.stopPropagation());
+                        reposContainer.appendChild(repoEl);
+                    });
+                }
 
                 card.appendChild(avatarContainer);
                 card.appendChild(name);
                 card.appendChild(handle);
-                card.appendChild(similarity);
+                card.appendChild(reposContainer);
+                // Removed Similarity Bar as requested
 
                 resultsList.appendChild(card);
             });

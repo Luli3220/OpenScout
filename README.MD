@@ -114,6 +114,8 @@ OpenScout 不仅支持基于 ID 的精确查询，还内置了强大的**语义�
 - **向量数据库**：内置轻量级向量存储 (`vector_store.json`)，支持增量更新与持久化，首次启动会自动构建索引。
 - **混合特征提取**：搜索算法综合考虑了开发者的编程语言偏好、GitHub Topics 以及核心仓库的 README 内容。
 
+![智能语义搜索演示](image/screenshot-smart-search.png)
+
 ### 4. 仓库智能分析
 
 在开发者详情页的「代表仓库」列表中，支持对单个仓库进行基于大模型的自动介绍与总结：系统会根据仓库 URL 自动拉取 `README.md`、Repository Description 与 Topics，并调用 LLM 生成一段简洁的仓库说明，支持流式输出展示。

@@ -3,6 +3,8 @@
 
 # OpenScout
 
+![展示](image/all.png)
+
 ## 目录
 - [简介](#简介)
 - [核心特性](#核心特性)
@@ -282,9 +284,9 @@ python server.py
 
 默认启动后打开 `http://localhost:8001`。首次启动进行搜索时，后台会自动为现有用户生成向量索引，可能需要数分钟。
 
-## MaxKB 智能体配置
+## MaxKB 智能体配置[MaxKB配置文档](Intro2MaxKB.md)
 
-MaxKB 侧的部署、导入与联调细节见：[Intro2MaxKB](Intro2MaxKB.md)。
+MaxKB 侧的部署、导入与联调：
 
 - 导入：将 `OpenScout.mk` 导入 MaxKB
 - 配置：为各 Agent 绑定可用模型并发布

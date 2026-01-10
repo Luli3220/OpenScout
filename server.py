@@ -69,17 +69,20 @@ if MAXKB_API_URL:
     MAXKB_API_URL = f"{MAXKB_API_URL.rstrip('/')}/chat/completions"
 
 MAXKB_API_KEY = os.environ.get("MAXKB_API_KEY") or config.get("maxkb_api_key", "")
-CHATECNU_API_URL = os.environ.get("CHATECNU_API_URL") or config.get("chatecnu_api_url", "")
-CHATECNU_API_KEY = os.environ.get("CHATECNU_API_KEY") or config.get("chatecnu_api_key", "")
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN") or config.get("github_token") or ((config.get("github_tokens") or [None])[0])
-DEEPSEEK_API_URL = os.environ.get("DEEPSEEK_API_URL") or config.get("deepseek_api_url")
-DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY") or config.get("deepseek_api_key", "")
-DEEPSEEK_MODEL = os.environ.get("DEEPSEEK_MODEL") or config.get("deepseek_model", "deepseek-chat")
+LLM_API_URL = os.environ.get("LLM_API_URL") or config.get("LLM_api_url") or config.get("llm_api_url")
+LLM_API_KEY = os.environ.get("LLM_API_KEY") or config.get("LLM_api_key") or config.get("llm_api_key", "")
+LLM_MODEL = os.environ.get("LLM_MODEL") or config.get("LLM_model") or config.get("llm_model")
+LLM_EMBEDDING_MODEL = os.environ.get("LLM_EMBEDDING_MODEL") or config.get("LLM_embedding_model") or config.get("llm_embedding_model")
+
+DEEPSEEK_API_URL = os.environ.get("DEEPSEEK_API_URL") or LLM_API_URL or config.get("deepseek_api_url") or config.get("qwen_api_url")
+DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY") or LLM_API_KEY or config.get("deepseek_api_key", "")
+DEEPSEEK_MODEL = os.environ.get("DEEPSEEK_MODEL") or LLM_MODEL or config.get("deepseek_model", "deepseek-chat")
 
 # Qwen / Embedding Config
-QWEN_API_URL = os.environ.get("QWEN_API_URL") or config.get("qwen_api_url", "https://api.deepseek.com")
-QWEN_API_KEY = os.environ.get("QWEN_API_KEY") or config.get("qwen_api_key", "")
-QWEN_EMBEDDING_MODEL = os.environ.get("QWEN_EMBEDDING_MODEL") or config.get("qwen_embedding_model", "text-embedding-v4")
+QWEN_API_URL = os.environ.get("QWEN_API_URL") or LLM_API_URL or config.get("qwen_api_url", "https://api.deepseek.com")
+QWEN_API_KEY = os.environ.get("QWEN_API_KEY") or LLM_API_KEY or config.get("qwen_api_key", "")
+QWEN_EMBEDDING_MODEL = os.environ.get("QWEN_EMBEDDING_MODEL") or LLM_EMBEDDING_MODEL or config.get("qwen_embedding_model", "text-embedding-v4")
 
 USER_EMBEDDINGS_CACHE_FILE = os.path.join(DATA_DIR, "vector_store.json")
 

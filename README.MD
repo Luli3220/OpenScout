@@ -74,7 +74,7 @@ The six dimensions are:
 
 #### 1. Influence
 
-$$S_{\text{inf}} = \underbrace{\color{#e3b341}{0.6 \cdot \text{Stars}}}_{\text{recognition}} + \underbrace{0.4 \cdot (\color{#3fb950}{\text{Forks}} + \color{#f85149}{\text{Issues}})}_{\text{spread \& feedback}}$$
+$$S_{\text{inf}} = \underbrace{\color{#e3b341}{0.6 \cdot \text{Stars}}}_{\text{recognition}} + \underbrace{0.4 \cdot (\color{#3fb950}{\text{Forks}} + \color{#f85149}{\text{Issues}})}_{\text{spread and feedback}}$$
 
 *Measures community visibility and breadth of attention.*
 

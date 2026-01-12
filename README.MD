@@ -15,6 +15,7 @@
 - [技术架构](#技术架构)
 - [安装部署](#安装部署)
 - [MaxKB 智能体配置](#maxkb-智能体配置)
+- [成员分工](#成员分功)
 
 ---
 
@@ -219,9 +220,9 @@ pip install -r requirements.txt
   // MaxKB 应用的 API Key
   "maxkb_api_key": "application-YOUR_MAXKB_KEY",
   // LLM 模型配置 (用于仓库分析和智能语义搜索)
-  "qwen_api_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
-  "qwen_api_key": "sk-YOUR_DEEPSEEK_KEY",
-  "qwen_embedding_model": "text-embedding-v4"
+  "LLM_api_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+  "LLM_api_key": "sk-YOUR_DEEPSEEK_KEY",
+  "LLM_embedding_model": "text-embedding-v4"
 }
 ```
 
@@ -296,6 +297,12 @@ MaxKB 侧的部署、导入与联调：
 欢迎提交 Issue 或 Pull Request 来改进评估模型或增加新的数据源支持。
 
 ---
+
+## 成员分工
+- 队长：[@Luli3220]杨子炫(https://github.com/Luli3220) ：智能语义搜索、MaxKB编排与配置、数据挖掘、后端搭建、报告撰写+PPT制作
+- 队员：[@pck-altra]潘淳恺(https://github.com/pck-altra) ：前端开发、前后端通信、数据挖掘、视频录制、PPT制作
+
+
 
 ## License
 [MIT License](LICENSE)

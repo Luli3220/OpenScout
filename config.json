@@ -1,0 +1,12 @@
+{
+  "github_token": "your_github_token",
+  "github_tokens": [
+    "your_github_token"
+  ],
+  "maxkb_api_url": "your_maxkb_url",
+  "maxkb_api_key": "your_maxkb_key",
+  "LLM_api_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+  "LLM_api_key": "your_LLM_api_key",
+  "LLM_model": "qwen3-max",
+  "LLM_embedding_model": "text-embedding-v4"
+}
